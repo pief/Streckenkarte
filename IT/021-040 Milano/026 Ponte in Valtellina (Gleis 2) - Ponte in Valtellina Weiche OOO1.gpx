@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 186 filtered ascend = 0 plain-ascend = 0 cost=186 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Ponte in Valtellina (Gleis 2) - Ponte in Valtellina Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/46.16292/9.97948/standard,openrailwaymap&amp;lonlats=9.97624,46.162674;9.978547,46.163117&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.162685" lon="9.976234"><ele>377.25</ele></trkpt>
+   <trkpt lat="46.162687" lon="9.976245"><ele>377.5</ele></trkpt>
+   <trkpt lat="46.163059" lon="9.978117"><ele>376.75</ele></trkpt>
+   <trkpt lat="46.16312" lon="9.978544"><ele>376.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = -2 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 La Spezia Centrale Weiche OOO2 - La Spezia Centrale Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.11077/9.81877/standard&amp;lonlats=9.818814,44.110677;9.818475,44.110663&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.110677" lon="9.818812"/>
+   <trkpt lat="44.110666" lon="9.81863"><ele>31</ele></trkpt>
+   <trkpt lat="44.110661" lon="9.818474"><ele>28.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

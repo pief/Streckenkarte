@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 1 plain-ascend = 1 cost=90 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>MC Milano Centrale Weiche NNN31 - Milano Centrale Weiche NNN32</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.49128/9.20974/standard,openrailwaymap&amp;lonlats=9.210464,45.491859;9.20981,45.491205&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.491858" lon="9.210466"><ele>128</ele></trkpt>
+   <trkpt lat="45.491205" lon="9.209813"><ele>129</ele></trkpt>
+   <trkpt lat="45.491203" lon="9.209812"><ele>129</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

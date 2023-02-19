@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4354 filtered ascend = 5 plain-ascend = 3 cost=4354 energy=0.1kwh time=5m 48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Cecina Weiche NNN3 - Vada Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/43.34721/10.48126/standard,openrailwaymap&amp;lonlats=10.51101,43.315372;10.477636,43.345821&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.315372" lon="10.51101"><ele>3.75</ele></trkpt>
+   <trkpt lat="43.316669" lon="10.510207"><ele>5.75</ele></trkpt>
+   <trkpt lat="43.317072" lon="10.509911"><ele>5.75</ele></trkpt>
+   <trkpt lat="43.317244" lon="10.509765"><ele>5.75</ele></trkpt>
+   <trkpt lat="43.317521" lon="10.509502"><ele>5.75</ele></trkpt>
+   <trkpt lat="43.317861" lon="10.509154"><ele>5</ele></trkpt>
+   <trkpt lat="43.318008" lon="10.508991"><ele>4.25</ele></trkpt>
+   <trkpt lat="43.318238" lon="10.508708"><ele>4.25</ele></trkpt>
+   <trkpt lat="43.319576" lon="10.506788"><ele>3.5</ele></trkpt>
+   <trkpt lat="43.321416" lon="10.504209"><ele>3.25</ele></trkpt>
+   <trkpt lat="43.322756" lon="10.502302"><ele>4.75</ele></trkpt>
+   <trkpt lat="43.32347" lon="10.501371"><ele>7.25</ele></trkpt>
+   <trkpt lat="43.324243" lon="10.500522"><ele>5</ele></trkpt>
+   <trkpt lat="43.327916" lon="10.496631"><ele>4.25</ele></trkpt>
+   <trkpt lat="43.335214" lon="10.488899"><ele>8</ele></trkpt>
+   <trkpt lat="43.335782" lon="10.488297"><ele>8.75</ele></trkpt>
+   <trkpt lat="43.34582" lon="10.477638"><ele>6.75</ele></trkpt>
+   <trkpt lat="43.345821" lon="10.477636"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

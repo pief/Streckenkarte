@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 1 plain-ascend = 1 cost=125 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Delebio (Gleis 1) - Delebio Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/46.13832/9.46112/standard,openrailwaymap&amp;lonlats=9.461197,46.138639;9.46278,46.138642&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.138635" lon="9.461196"><ele>213</ele></trkpt>
+   <trkpt lat="46.138636" lon="9.461268"><ele>213.25</ele></trkpt>
+   <trkpt lat="46.138639" lon="9.462785"><ele>214.25</ele></trkpt>
+   <trkpt lat="46.138639" lon="9.462779"><ele>214</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

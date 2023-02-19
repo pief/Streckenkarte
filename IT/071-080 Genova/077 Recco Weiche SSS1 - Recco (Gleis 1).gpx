@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 0 plain-ascend = -13 cost=327 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>077 Recco Weiche SSS1 - Recco (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.36110/9.14725/standard&amp;lonlats=9.148017,44.358383;9.146677,44.36106&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.358382" lon="9.148015"/>
+   <trkpt lat="44.358381" lon="9.148016"/>
+   <trkpt lat="44.358672" lon="9.147967"/>
+   <trkpt lat="44.358873" lon="9.147915"><ele>38.75</ele></trkpt>
+   <trkpt lat="44.359108" lon="9.147848"><ele>30.25</ele></trkpt>
+   <trkpt lat="44.359511" lon="9.147718"><ele>27.75</ele></trkpt>
+   <trkpt lat="44.359873" lon="9.147565"><ele>25.25</ele></trkpt>
+   <trkpt lat="44.360122" lon="9.147432"><ele>25.75</ele></trkpt>
+   <trkpt lat="44.360278" lon="9.147334"><ele>27.5</ele></trkpt>
+   <trkpt lat="44.360584" lon="9.147109"><ele>28.75</ele></trkpt>
+   <trkpt lat="44.360713" lon="9.147006"><ele>28.5</ele></trkpt>
+   <trkpt lat="44.360946" lon="9.146789"><ele>26.75</ele></trkpt>
+   <trkpt lat="44.361058" lon="9.146674"><ele>25.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

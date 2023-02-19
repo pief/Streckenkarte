@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 2 plain-ascend = 2 cost=107 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Bellano-Tartavalle Terme (Gleis 2) - Bellano-Tartavalle Terme Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.03928/9.30309/standard,openrailwaymap&amp;lonlats=9.302818,46.039492;9.302368,46.038593&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.039491" lon="9.302814"><ele>216.25</ele></trkpt>
+   <trkpt lat="46.038992" lon="9.30257"><ele>217.75</ele></trkpt>
+   <trkpt lat="46.038696" lon="9.302442"><ele>218.25</ele></trkpt>
+   <trkpt lat="46.038592" lon="9.302366"><ele>218.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 1 cost=48 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027/028 Calolziocorte-Olginate Weiche SSS2 - Calolziocorte-Olginate Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.79763/9.43179/standard,openrailwaymap&amp;lonlats=9.431446,45.797487;9.431132,45.797842&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.797485" lon="9.431442"><ele>202.5</ele></trkpt>
+   <trkpt lat="45.797839" lon="9.431133"><ele>203</ele></trkpt>
+   <trkpt lat="45.797841" lon="9.43113"><ele>203</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

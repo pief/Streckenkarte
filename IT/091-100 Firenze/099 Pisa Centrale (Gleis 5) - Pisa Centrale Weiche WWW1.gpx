@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 303 filtered ascend = 0 plain-ascend = -2 cost=303 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Pisa Centrale (Gleis 5) - Pisa Centrale Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.70864/10.39536/standard,openrailwaymap&amp;lonlats=10.398332,43.707954;10.394721,43.708662&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.707952" lon="10.398331"><ele>4.25</ele></trkpt>
+   <trkpt lat="43.70798" lon="10.39818"><ele>4.5</ele></trkpt>
+   <trkpt lat="43.708414" lon="10.395823"><ele>1</ele></trkpt>
+   <trkpt lat="43.708658" lon="10.394722"><ele>1</ele></trkpt>
+   <trkpt lat="43.708658" lon="10.394719"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

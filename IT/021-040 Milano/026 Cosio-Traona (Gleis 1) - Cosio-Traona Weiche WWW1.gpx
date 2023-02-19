@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 245 filtered ascend = 0 plain-ascend = -2 cost=245 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Cosio-Traona (Gleis 1) - Cosio-Traona Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.13525/9.52497/standard,openrailwaymap&amp;lonlats=9.525537,46.135562;9.52247,46.135244&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.135567" lon="9.525537"><ele>212.75</ele></trkpt>
+   <trkpt lat="46.135586" lon="9.525282"><ele>212.5</ele></trkpt>
+   <trkpt lat="46.135585" lon="9.524822"><ele>212</ele></trkpt>
+   <trkpt lat="46.13556" lon="9.524421"><ele>211.75</ele></trkpt>
+   <trkpt lat="46.135504" lon="9.52393"><ele>211.5</ele></trkpt>
+   <trkpt lat="46.135424" lon="9.523424"><ele>211.5</ele></trkpt>
+   <trkpt lat="46.135248" lon="9.522467"><ele>210.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

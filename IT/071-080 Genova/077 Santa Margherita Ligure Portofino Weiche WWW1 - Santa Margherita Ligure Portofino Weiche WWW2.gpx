@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 440 filtered ascend = 7 plain-ascend = 8 cost=440 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>077 Santa Margherita Ligure Portofino Weiche WWW1 - Santa Margherita Ligure Portofino Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.33728/9.20832/standard&amp;lonlats=9.212739,44.337079;9.207356,44.337382&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.337078" lon="9.212738"><ele>21</ele></trkpt>
+   <trkpt lat="44.337079" lon="9.212737"><ele>21</ele></trkpt>
+   <trkpt lat="44.337094" lon="9.212627"><ele>20.5</ele></trkpt>
+   <trkpt lat="44.33724" lon="9.211446"><ele>27</ele></trkpt>
+   <trkpt lat="44.337398" lon="9.210101"><ele>24.5</ele></trkpt>
+   <trkpt lat="44.337441" lon="9.209695"><ele>25.25</ele></trkpt>
+   <trkpt lat="44.337468" lon="9.209288"><ele>27</ele></trkpt>
+   <trkpt lat="44.337475" lon="9.208673"><ele>28</ele></trkpt>
+   <trkpt lat="44.337462" lon="9.208291"><ele>28.25</ele></trkpt>
+   <trkpt lat="44.337431" lon="9.207838"><ele>28</ele></trkpt>
+   <trkpt lat="44.337378" lon="9.207353"><ele>28.75</ele></trkpt>
+   <trkpt lat="44.337378" lon="9.207356"><ele>28.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

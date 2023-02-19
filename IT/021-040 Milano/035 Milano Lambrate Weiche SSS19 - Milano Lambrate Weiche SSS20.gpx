@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 274 filtered ascend = 0 plain-ascend = -1 cost=274 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>035 Milano Lambrate Weiche SSS19 - Milano Lambrate Weiche SSS20</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/45.47444/9.23820/standard,openrailwaymap&amp;lonlats=9.238366,45.476709;9.238283,45.474633;9.238265,45.474257&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.476707" lon="9.238366"><ele>120</ele></trkpt>
+   <trkpt lat="45.476706" lon="9.238366"><ele>120</ele></trkpt>
+   <trkpt lat="45.474632" lon="9.23828"><ele>118</ele></trkpt>
+   <trkpt lat="45.474256" lon="9.238265"><ele>117.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

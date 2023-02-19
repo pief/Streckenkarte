@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 14 plain-ascend = 14 cost=294 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>077 Deiva Marina (Gleis 3) - Deiva Marina Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.21905/9.51749/standard&amp;lonlats=9.518953,44.217222;9.516593,44.219227&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.21722" lon="9.51895"><ele>11.75</ele></trkpt>
+   <trkpt lat="44.218299" lon="9.517667"><ele>15.75</ele></trkpt>
+   <trkpt lat="44.219228" lon="9.516592"><ele>25.75</ele></trkpt>
+   <trkpt lat="44.219226" lon="9.516593"><ele>25.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

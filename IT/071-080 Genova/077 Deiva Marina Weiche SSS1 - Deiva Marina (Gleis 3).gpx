@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = -7 cost=240 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>077 Deiva Marina Weiche SSS1 - Deiva Marina (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.21673/9.52009/standard&amp;lonlats=9.520957,44.215643;9.518953,44.217222&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.215642" lon="9.520955"><ele>20</ele></trkpt>
+   <trkpt lat="44.215644" lon="9.520954"><ele>20</ele></trkpt>
+   <trkpt lat="44.21575" lon="9.52082"><ele>15</ele></trkpt>
+   <trkpt lat="44.216322" lon="9.520051"><ele>10.5</ele></trkpt>
+   <trkpt lat="44.21709" lon="9.519106"><ele>11.5</ele></trkpt>
+   <trkpt lat="44.21722" lon="9.51895"><ele>11.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

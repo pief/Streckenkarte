@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 375 filtered ascend = 0 plain-ascend = 0 cost=375 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Pisa San Rossore Weiche SSS3 - Pisa San Rossore (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.72285/10.38857/standard,openrailwaymap&amp;lonlats=10.387361,43.720017;10.38749,43.723335&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.720015" lon="10.387361"><ele>1.5</ele></trkpt>
+   <trkpt lat="43.720015" lon="10.387361"><ele>1.75</ele></trkpt>
+   <trkpt lat="43.720794" lon="10.38749"><ele>1</ele></trkpt>
+   <trkpt lat="43.721679" lon="10.387608"><ele>0.25</ele></trkpt>
+   <trkpt lat="43.722252" lon="10.387653"><ele>0</ele></trkpt>
+   <trkpt lat="43.722629" lon="10.387638"><ele>0</ele></trkpt>
+   <trkpt lat="43.722909" lon="10.387603"><ele>0.5</ele></trkpt>
+   <trkpt lat="43.723145" lon="10.387548"><ele>1.25</ele></trkpt>
+   <trkpt lat="43.723335" lon="10.387493"><ele>1.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

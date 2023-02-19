@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 0 plain-ascend = 0 cost=124 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Colico Weiche WWW1 - Colico Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/46.13744/9.37417/standard,openrailwaymap&amp;lonlats=9.371955,46.136714;9.373325,46.137261&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.136713" lon="9.371954"><ele>207.25</ele></trkpt>
+   <trkpt lat="46.136715" lon="9.371957"><ele>207.25</ele></trkpt>
+   <trkpt lat="46.137258" lon="9.373325"><ele>206.25</ele></trkpt>
+   <trkpt lat="46.137258" lon="9.373325"><ele>206.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

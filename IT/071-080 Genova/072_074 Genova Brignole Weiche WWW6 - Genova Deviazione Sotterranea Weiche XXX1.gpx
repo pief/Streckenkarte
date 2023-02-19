@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=55 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>072_074 Genova Brignole Weiche WWW6 - Genova Deviazione Sotterranea Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.41521/8.93446/standard&amp;lonlats=8.934998,44.414962;8.934393,44.415162&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.414962" lon="8.934998"/>
+   <trkpt lat="44.415161" lon="8.934393"/>
+   <trkpt lat="44.415161" lon="8.934392"/>
+  </trkseg>
+ </trk>
+</gpx>

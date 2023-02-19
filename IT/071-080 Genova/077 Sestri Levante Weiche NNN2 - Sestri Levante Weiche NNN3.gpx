@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 0 plain-ascend = 0 cost=180 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>077 Sestri Levante Weiche NNN2 - Sestri Levante Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.28087/9.39186/standard&amp;lonlats=9.3931,44.279451;9.391598,44.280614&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.279451" lon="9.3931"><ele>6.5</ele></trkpt>
+   <trkpt lat="44.279452" lon="9.3931"><ele>6.5</ele></trkpt>
+   <trkpt lat="44.279751" lon="9.392774"><ele>6</ele></trkpt>
+   <trkpt lat="44.279964" lon="9.392527"><ele>5.75</ele></trkpt>
+   <trkpt lat="44.280179" lon="9.392245"><ele>5.75</ele></trkpt>
+   <trkpt lat="44.28038" lon="9.391957"><ele>5.75</ele></trkpt>
+   <trkpt lat="44.280612" lon="9.391596"><ele>5.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

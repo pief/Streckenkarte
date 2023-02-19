@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 192 filtered ascend = 0 plain-ascend = 0 cost=192 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Collesalvetti (Gleis 1) - Collesalvetti Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.58783/10.47097/standard,openrailwaymap&amp;lonlats=10.470542,43.586571;10.470327,43.588273&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.586571" lon="10.470543"><ele>13.75</ele></trkpt>
+   <trkpt lat="43.588276" lon="10.470329"><ele>14</ele></trkpt>
+   <trkpt lat="43.588273" lon="10.470329"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

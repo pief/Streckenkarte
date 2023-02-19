@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1036 filtered ascend = 1 plain-ascend = -1 cost=1036 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027/028 Lecco Maggianico (Gleis 2) - Lecco Maggianico Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/45.83947/9.40821/standard,openrailwaymap&amp;lonlats=9.411938,45.830829;9.408073,45.839567&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.830829" lon="9.41194"><ele>206.75</ele></trkpt>
+   <trkpt lat="45.831104" lon="9.41177"><ele>207.5</ele></trkpt>
+   <trkpt lat="45.831952" lon="9.41132"><ele>208.25</ele></trkpt>
+   <trkpt lat="45.832577" lon="9.411093"><ele>206.75</ele></trkpt>
+   <trkpt lat="45.833069" lon="9.410947"><ele>205.75</ele></trkpt>
+   <trkpt lat="45.834741" lon="9.410611"><ele>208.5</ele></trkpt>
+   <trkpt lat="45.836144" lon="9.410339"><ele>207.25</ele></trkpt>
+   <trkpt lat="45.836473" lon="9.410258"><ele>206.5</ele></trkpt>
+   <trkpt lat="45.836891" lon="9.410105"><ele>206.75</ele></trkpt>
+   <trkpt lat="45.837153" lon="9.409986"><ele>207.5</ele></trkpt>
+   <trkpt lat="45.83758" lon="9.409735"><ele>207</ele></trkpt>
+   <trkpt lat="45.837786" lon="9.409586"><ele>205.75</ele></trkpt>
+   <trkpt lat="45.838354" lon="9.409119"><ele>203</ele></trkpt>
+   <trkpt lat="45.839567" lon="9.408075"><ele>204.75</ele></trkpt>
+   <trkpt lat="45.839567" lon="9.408074"><ele>204.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

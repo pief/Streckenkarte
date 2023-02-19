@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Pisa Emilia Weiche NNN1 - Pisa Emilia Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/43.69475/10.41202/standard,openrailwaymap&amp;lonlats=10.412683,43.693978;10.412859,43.693627&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.693978" lon="10.412684"><ele>2</ele></trkpt>
+   <trkpt lat="43.693627" lon="10.412859"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 148 filtered ascend = 1 plain-ascend = 1 cost=148 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Vezzano Ligure Weiche OOO1 - Vezzano Ligure Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.12917/9.89402/standard&amp;lonlats=9.893899,44.13049;9.892998,44.129356&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.130489" lon="9.893896"><ele>24.75</ele></trkpt>
+   <trkpt lat="44.129744" lon="9.893332"><ele>26.25</ele></trkpt>
+   <trkpt lat="44.129351" lon="9.892997"><ele>26</ele></trkpt>
+   <trkpt lat="44.129354" lon="9.892999"><ele>26</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

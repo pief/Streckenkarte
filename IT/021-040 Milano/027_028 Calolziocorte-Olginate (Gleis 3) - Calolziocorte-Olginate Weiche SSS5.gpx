@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 421 filtered ascend = 2 plain-ascend = 0 cost=421 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027/028 Calolziocorte-Olginate (Gleis 3) - Calolziocorte-Olginate Weiche SSS5</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.80140/9.42746/standard,openrailwaymap&amp;lonlats=9.427195,45.801412;9.430486,45.79851&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.801406" lon="9.427189"><ele>205.5</ele></trkpt>
+   <trkpt lat="45.801401" lon="9.4272"><ele>205.5</ele></trkpt>
+   <trkpt lat="45.801101" lon="9.427726"><ele>205.75</ele></trkpt>
+   <trkpt lat="45.800885" lon="9.42808"><ele>206.75</ele></trkpt>
+   <trkpt lat="45.800725" lon="9.428308"><ele>207.25</ele></trkpt>
+   <trkpt lat="45.800466" lon="9.428656"><ele>207.75</ele></trkpt>
+   <trkpt lat="45.800264" lon="9.428899"><ele>207.75</ele></trkpt>
+   <trkpt lat="45.800062" lon="9.429106"><ele>208</ele></trkpt>
+   <trkpt lat="45.799776" lon="9.429375"><ele>207.5</ele></trkpt>
+   <trkpt lat="45.798954" lon="9.430098"><ele>206</ele></trkpt>
+   <trkpt lat="45.798509" lon="9.430485"><ele>204.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 105 filtered ascend = 3 plain-ascend = 3 cost=105 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Lecco (Gleis 3) - Lecco Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/45.85713/9.39303/standard,openrailwaymap&amp;lonlats=9.393697,45.856421;9.392906,45.857135&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.856422" lon="9.3937"><ele>217.75</ele></trkpt>
+   <trkpt lat="45.856709" lon="9.393432"><ele>217.75</ele></trkpt>
+   <trkpt lat="45.856843" lon="9.393296"><ele>218.75</ele></trkpt>
+   <trkpt lat="45.856986" lon="9.393119"><ele>220</ele></trkpt>
+   <trkpt lat="45.857133" lon="9.392907"><ele>221</ele></trkpt>
+   <trkpt lat="45.857134" lon="9.392905"><ele>221</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

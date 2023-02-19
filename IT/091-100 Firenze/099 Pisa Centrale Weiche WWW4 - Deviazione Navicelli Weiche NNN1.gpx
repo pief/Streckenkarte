@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 290 filtered ascend = 2 plain-ascend = 2 cost=290 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Pisa Centrale Weiche WWW4 - Deviazione Navicelli Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.71061/10.39086/standard,openrailwaymap&amp;lonlats=10.392688,43.709147;10.389928,43.710605&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.709139" lon="10.392685"><ele>1.75</ele></trkpt>
+   <trkpt lat="43.70914" lon="10.392685"><ele>1.75</ele></trkpt>
+   <trkpt lat="43.709251" lon="10.392187"><ele>2</ele></trkpt>
+   <trkpt lat="43.709335" lon="10.391841"><ele>2.25</ele></trkpt>
+   <trkpt lat="43.709379" lon="10.391693"><ele>2.5</ele></trkpt>
+   <trkpt lat="43.709473" lon="10.39144"><ele>2.75</ele></trkpt>
+   <trkpt lat="43.709573" lon="10.391215"><ele>2.75</ele></trkpt>
+   <trkpt lat="43.709671" lon="10.391029"><ele>3</ele></trkpt>
+   <trkpt lat="43.709824" lon="10.390795"><ele>3</ele></trkpt>
+   <trkpt lat="43.709977" lon="10.390594"><ele>3.5</ele></trkpt>
+   <trkpt lat="43.710316" lon="10.390234"><ele>4</ele></trkpt>
+   <trkpt lat="43.710605" lon="10.38993"><ele>3.5</ele></trkpt>
+   <trkpt lat="43.710605" lon="10.389929"><ele>3.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

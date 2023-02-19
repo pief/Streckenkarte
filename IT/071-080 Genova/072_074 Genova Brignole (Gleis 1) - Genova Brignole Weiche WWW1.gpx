@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 272 filtered ascend = 3 plain-ascend = 4 cost=272 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>072/074 Genova Brignole (Gleis 1) - Genova Brignole Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.40877/8.94533/standard&amp;lonlats=8.947055,44.406796;8.94501,44.408683&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.406796" lon="8.947055"><ele>11.75</ele></trkpt>
+   <trkpt lat="44.406836" lon="8.946991"><ele>12</ele></trkpt>
+   <trkpt lat="44.407246" lon="8.946327"><ele>12.5</ele></trkpt>
+   <trkpt lat="44.407387" lon="8.946119"><ele>12.25</ele></trkpt>
+   <trkpt lat="44.407466" lon="8.946016"><ele>12.25</ele></trkpt>
+   <trkpt lat="44.40764" lon="8.945826"><ele>12.5</ele></trkpt>
+   <trkpt lat="44.407923" lon="8.945583"><ele>14.25</ele></trkpt>
+   <trkpt lat="44.408682" lon="8.945012"><ele>15.5</ele></trkpt>
+   <trkpt lat="44.408683" lon="8.94501"><ele>15.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

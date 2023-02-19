@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 231 filtered ascend = 1 plain-ascend = 2 cost=231 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 San Pietro Berbenno (Gleis 2) - San Pietro Berbenno Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/46.16076/9.74204/standard,openrailwaymap&amp;lonlats=9.740522,46.161352;9.743462,46.161111&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.161344" lon="9.74052"><ele>269.5</ele></trkpt>
+   <trkpt lat="46.161199" lon="9.742352"><ele>271</ele></trkpt>
+   <trkpt lat="46.16111" lon="9.743461"><ele>271.25</ele></trkpt>
+   <trkpt lat="46.161109" lon="9.743461"><ele>271</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

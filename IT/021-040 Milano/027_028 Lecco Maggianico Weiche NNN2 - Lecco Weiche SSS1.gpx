@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1401 filtered ascend = 5 plain-ascend = 6 cost=1401 energy=0.0kwh time=1m 52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027/028 Lecco Maggianico Weiche NNN2 - Lecco Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.85066/9.39936/standard,openrailwaymap&amp;lonlats=9.407671,45.84004;9.39878,45.850413;9.398474,45.850813&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.840038" lon="9.407668"><ele>205</ele></trkpt>
+   <trkpt lat="45.840039" lon="9.407668"><ele>205.25</ele></trkpt>
+   <trkpt lat="45.84179" lon="9.406166"><ele>209.5</ele></trkpt>
+   <trkpt lat="45.841913" lon="9.406062"><ele>210</ele></trkpt>
+   <trkpt lat="45.843531" lon="9.404659"><ele>208</ele></trkpt>
+   <trkpt lat="45.844311" lon="9.403962"><ele>207</ele></trkpt>
+   <trkpt lat="45.846236" lon="9.4023"><ele>210.5</ele></trkpt>
+   <trkpt lat="45.848707" lon="9.400171"><ele>210.5</ele></trkpt>
+   <trkpt lat="45.849714" lon="9.399312"><ele>210.5</ele></trkpt>
+   <trkpt lat="45.849898" lon="9.399165"><ele>210.75</ele></trkpt>
+   <trkpt lat="45.850409" lon="9.39877"><ele>210.5</ele></trkpt>
+   <trkpt lat="45.850447" lon="9.398742"><ele>210.5</ele></trkpt>
+   <trkpt lat="45.850813" lon="9.398476"><ele>210.25</ele></trkpt>
+   <trkpt lat="45.850813" lon="9.398475"><ele>210.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

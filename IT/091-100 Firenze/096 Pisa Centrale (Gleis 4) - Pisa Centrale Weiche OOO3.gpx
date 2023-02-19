@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 406 filtered ascend = 2 plain-ascend = 2 cost=406 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Pisa Centrale (Gleis 4) - Pisa Centrale Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.70772/10.39968/standard,openrailwaymap&amp;lonlats=10.398364,43.708051;10.403066,43.706861&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.708053" lon="10.398364"><ele>1</ele></trkpt>
+   <trkpt lat="43.707603" lon="10.400816"><ele>1.25</ele></trkpt>
+   <trkpt lat="43.707514" lon="10.401232"><ele>1.75</ele></trkpt>
+   <trkpt lat="43.707432" lon="10.401532"><ele>2.25</ele></trkpt>
+   <trkpt lat="43.707322" lon="10.401841"><ele>2.75</ele></trkpt>
+   <trkpt lat="43.706857" lon="10.403067"><ele>3</ele></trkpt>
+   <trkpt lat="43.706858" lon="10.403063"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

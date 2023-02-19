@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 1 cost=35 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>072/074 Genova Brignole Weiche WWW4 - Genova Brignole Weiche WWW5</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/44.41024/8.94361/standard&amp;lonlats=8.944129,44.409888;8.94389,44.41014&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.409888" lon="8.944129"><ele>32.25</ele></trkpt>
+   <trkpt lat="44.409907" lon="8.944114"><ele>32.75</ele></trkpt>
+   <trkpt lat="44.41014" lon="8.943892"><ele>32.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

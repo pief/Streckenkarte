@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 231 filtered ascend = 1 plain-ascend = 2 cost=231 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>035 Milano Rogoredo Weiche NNN3 - Milano Rogoredo Weiche NNN4</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.43965/9.23714/standard,openrailwaymap&amp;lonlats=9.236366,45.441535;9.237166,45.439556&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.441535" lon="9.236367"><ele>108</ele></trkpt>
+   <trkpt lat="45.44154" lon="9.236366"><ele>108</ele></trkpt>
+   <trkpt lat="45.439555" lon="9.237165"><ele>109.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

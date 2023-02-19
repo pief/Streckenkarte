@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 4 plain-ascend = 4 cost=310 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>028 Ambivere-Mapello (Gleis 2) - Ambivere-Mapello Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/45.72398/9.54817/standard,openrailwaymap&amp;lonlats=9.550458,45.722203;9.547636,45.724094&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.722204" lon="9.55046"><ele>265.75</ele></trkpt>
+   <trkpt lat="45.722217" lon="9.550445"><ele>265.75</ele></trkpt>
+   <trkpt lat="45.722749" lon="9.549799"><ele>267.25</ele></trkpt>
+   <trkpt lat="45.723155" lon="9.54925"><ele>269</ele></trkpt>
+   <trkpt lat="45.723572" lon="9.548607"><ele>270.25</ele></trkpt>
+   <trkpt lat="45.723818" lon="9.548179"><ele>270.25</ele></trkpt>
+   <trkpt lat="45.723962" lon="9.547906"><ele>270.25</ele></trkpt>
+   <trkpt lat="45.724092" lon="9.547636"><ele>270</ele></trkpt>
+   <trkpt lat="45.724092" lon="9.547634"><ele>270</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

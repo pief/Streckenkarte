@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 1 plain-ascend = 1 cost=123 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>FSMN Firenze Santa Maria Novella (Gleis 17) - Firenze Santa Maria Novella Weiche 37A</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.78138/11.24574/standard,openrailwaymap&amp;lonlats=11.246385,43.780498;11.245773,43.781492&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.780498" lon="11.246386"><ele>46.75</ele></trkpt>
+   <trkpt lat="43.780664" lon="11.246266"><ele>46.75</ele></trkpt>
+   <trkpt lat="43.781359" lon="11.245843"><ele>47.5</ele></trkpt>
+   <trkpt lat="43.781491" lon="11.24577"><ele>47.75</ele></trkpt>
+   <trkpt lat="43.781491" lon="11.245769"><ele>47.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 426 filtered ascend = 1 plain-ascend = 1 cost=426 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>077 Sestri Levante (Gleis 2) - Sestri Levante Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.27891/9.39429/standard&amp;lonlats=9.397543,44.276179;9.393819,44.2788&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.276178" lon="9.397542"><ele>5.25</ele></trkpt>
+   <trkpt lat="44.276567" lon="9.396683"><ele>5</ele></trkpt>
+   <trkpt lat="44.27675" lon="9.396305"><ele>5.25</ele></trkpt>
+   <trkpt lat="44.277019" lon="9.395851"><ele>5.75</ele></trkpt>
+   <trkpt lat="44.277247" lon="9.395543"><ele>6</ele></trkpt>
+   <trkpt lat="44.277475" lon="9.395255"><ele>6</ele></trkpt>
+   <trkpt lat="44.277695" lon="9.394996"><ele>5.75</ele></trkpt>
+   <trkpt lat="44.278435" lon="9.394215"><ele>6.5</ele></trkpt>
+   <trkpt lat="44.278796" lon="9.393822"><ele>6.5</ele></trkpt>
+   <trkpt lat="44.278799" lon="9.393818"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 0 plain-ascend = -1 cost=135 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Mandello del Lario (Gleis 2) - Mandello del Lario Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.91487/9.32289/standard,openrailwaymap&amp;lonlats=9.322055,45.915202;9.323357,45.914434&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.915204" lon="9.322058"><ele>213</ele></trkpt>
+   <trkpt lat="45.914901" lon="9.322636"><ele>211.5</ele></trkpt>
+   <trkpt lat="45.914752" lon="9.322899"><ele>211.25</ele></trkpt>
+   <trkpt lat="45.914606" lon="9.323133"><ele>211.25</ele></trkpt>
+   <trkpt lat="45.914433" lon="9.323356"><ele>211.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

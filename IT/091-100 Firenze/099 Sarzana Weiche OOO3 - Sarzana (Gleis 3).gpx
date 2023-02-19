@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 397 filtered ascend = 0 plain-ascend = 0 cost=397 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Sarzana Weiche OOO3 - Sarzana (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.10882/9.96113/standard&amp;lonlats=9.965179,44.108011;9.960456,44.108869&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.10801" lon="9.965178"><ele>16.25</ele></trkpt>
+   <trkpt lat="44.108011" lon="9.965178"><ele>16.5</ele></trkpt>
+   <trkpt lat="44.108323" lon="9.964251"><ele>17</ele></trkpt>
+   <trkpt lat="44.10848" lon="9.963686"><ele>15.75</ele></trkpt>
+   <trkpt lat="44.108579" lon="9.9632"><ele>15</ele></trkpt>
+   <trkpt lat="44.108668" lon="9.962677"><ele>14.75</ele></trkpt>
+   <trkpt lat="44.108768" lon="9.961969"><ele>15.25</ele></trkpt>
+   <trkpt lat="44.108822" lon="9.96145"><ele>15.5</ele></trkpt>
+   <trkpt lat="44.108862" lon="9.960774"><ele>15.5</ele></trkpt>
+   <trkpt lat="44.10887" lon="9.960456"><ele>15.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

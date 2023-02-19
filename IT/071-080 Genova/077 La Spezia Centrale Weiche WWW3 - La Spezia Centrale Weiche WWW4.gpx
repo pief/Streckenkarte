@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 92 filtered ascend = 5 plain-ascend = 5 cost=92 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>077 La Spezia Centrale Weiche WWW3 - La Spezia Centrale Weiche WWW4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.11199/9.80746/standard&amp;lonlats=9.808168,44.112153;9.807147,44.111821&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.112153" lon="9.808166"><ele>12.75</ele></trkpt>
+   <trkpt lat="44.112064" lon="9.807839"><ele>13</ele></trkpt>
+   <trkpt lat="44.111941" lon="9.807461"><ele>13.5</ele></trkpt>
+   <trkpt lat="44.11182" lon="9.807147"><ele>17.75</ele></trkpt>
+   <trkpt lat="44.11182" lon="9.807147"><ele>17.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

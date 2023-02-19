@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 0 plain-ascend = 0 cost=107 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Pisa San Rossore Weiche WWW1 - Pisa San Rossore Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.72659/10.38574/standard,openrailwaymap&amp;lonlats=10.386004,43.725795;10.385214,43.726539&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.725795" lon="10.386006"><ele>0.75</ele></trkpt>
+   <trkpt lat="43.725798" lon="10.386005"><ele>0.75</ele></trkpt>
+   <trkpt lat="43.726328" lon="10.385444"><ele>1.5</ele></trkpt>
+   <trkpt lat="43.726536" lon="10.385215"><ele>1.25</ele></trkpt>
+   <trkpt lat="43.726538" lon="10.385212"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

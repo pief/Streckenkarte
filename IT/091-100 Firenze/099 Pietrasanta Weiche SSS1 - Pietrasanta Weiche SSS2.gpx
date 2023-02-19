@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 1 plain-ascend = 1 cost=111 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Pietrasanta Weiche SSS1 - Pietrasanta Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.95225/10.23514/standard&amp;lonlats=10.235843,43.951407;10.234886,43.952106&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.951407" lon="10.235843"><ele>10.25</ele></trkpt>
+   <trkpt lat="43.951409" lon="10.235841"><ele>10.25</ele></trkpt>
+   <trkpt lat="43.952105" lon="10.234892"><ele>11.25</ele></trkpt>
+   <trkpt lat="43.952107" lon="10.234888"><ele>11.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

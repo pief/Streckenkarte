@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 146 filtered ascend = 2 plain-ascend = 2 cost=146 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Sondrio (Gleis 1) - Sondrio Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/46.16708/9.87256/standard,openrailwaymap&amp;lonlats=9.872925,46.167085;9.871101,46.166811&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.167086" lon="9.872923"><ele>297.5</ele></trkpt>
+   <trkpt lat="46.167086" lon="9.872922"><ele>297.75</ele></trkpt>
+   <trkpt lat="46.166811" lon="9.871103"><ele>299.5</ele></trkpt>
+   <trkpt lat="46.16681" lon="9.8711"><ele>299.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

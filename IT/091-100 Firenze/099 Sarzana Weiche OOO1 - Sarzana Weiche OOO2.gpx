@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 136 filtered ascend = 2 plain-ascend = 2 cost=136 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Sarzana Weiche OOO1 - Sarzana Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.10767/9.96588/standard&amp;lonlats=9.966933,44.107279;9.966075,44.107647;9.965512,44.107878&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.107276" lon="9.96693"><ele>13.25</ele></trkpt>
+   <trkpt lat="44.107274" lon="9.966935"><ele>13.25</ele></trkpt>
+   <trkpt lat="44.107592" lon="9.966192"><ele>14.5</ele></trkpt>
+   <trkpt lat="44.107642" lon="9.966071"><ele>14.5</ele></trkpt>
+   <trkpt lat="44.107878" lon="9.965511"><ele>15.75</ele></trkpt>
+   <trkpt lat="44.107877" lon="9.965511"><ele>15.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

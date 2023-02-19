@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 95 filtered ascend = 0 plain-ascend = -1 cost=95 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Lierna (Gleis 2) - Lierna Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.96078/9.30348/standard,openrailwaymap&amp;lonlats=9.303027,45.960924;9.303148,45.960085&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.960924" lon="9.303027"><ele>227</ele></trkpt>
+   <trkpt lat="45.960922" lon="9.303028"><ele>227.25</ele></trkpt>
+   <trkpt lat="45.960084" lon="9.303147"><ele>225</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

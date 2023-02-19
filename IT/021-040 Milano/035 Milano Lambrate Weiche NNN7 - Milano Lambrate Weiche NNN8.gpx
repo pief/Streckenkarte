@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 1 cost=48 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>035 Milano Lambrate Weiche NNN7 - Milano Lambrate Weiche NNN8</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/45.49171/9.23122/standard,openrailwaymap&amp;lonlats=9.230739,45.492117;9.231062,45.491753&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.492116" lon="9.230738"><ele>126.75</ele></trkpt>
+   <trkpt lat="45.491753" lon="9.231062"><ele>127.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

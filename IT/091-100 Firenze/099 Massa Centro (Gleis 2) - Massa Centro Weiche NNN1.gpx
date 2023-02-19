@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 259 filtered ascend = 2 plain-ascend = 2 cost=259 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>099 Massa Centro (Gleis 2) - Massa Centro Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.02493/10.13450/standard&amp;lonlats=10.136109,44.023711;10.133734,44.025243&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.023711" lon="10.136109"><ele>29.5</ele></trkpt>
+   <trkpt lat="44.024118" lon="10.135548"><ele>28.75</ele></trkpt>
+   <trkpt lat="44.024847" lon="10.134518"><ele>29</ele></trkpt>
+   <trkpt lat="44.02502" lon="10.13419"><ele>29</ele></trkpt>
+   <trkpt lat="44.025242" lon="10.133734"><ele>31.75</ele></trkpt>
+   <trkpt lat="44.025242" lon="10.133733"><ele>31.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

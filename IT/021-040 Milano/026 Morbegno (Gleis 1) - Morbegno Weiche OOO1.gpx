@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 213 filtered ascend = 0 plain-ascend = 0 cost=213 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Morbegno (Gleis 1) - Morbegno Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.13709/9.57129/standard,openrailwaymap&amp;lonlats=9.5687,46.136651;9.571337,46.137144&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.136655" lon="9.568697"><ele>246.5</ele></trkpt>
+   <trkpt lat="46.136706" lon="9.568987"><ele>246.5</ele></trkpt>
+   <trkpt lat="46.137023" lon="9.570591"><ele>246</ele></trkpt>
+   <trkpt lat="46.137089" lon="9.570975"><ele>245.75</ele></trkpt>
+   <trkpt lat="46.137145" lon="9.571335"><ele>245.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

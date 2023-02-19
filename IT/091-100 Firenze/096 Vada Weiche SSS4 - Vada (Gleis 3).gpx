@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 423 filtered ascend = 0 plain-ascend = 0 cost=424 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Vada Weiche SSS4 - Vada (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/43.35248/10.47075/standard,openrailwaymap&amp;lonlats=10.473557,43.349709;10.470467,43.352746&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.349709" lon="10.473557"><ele>6.5</ele></trkpt>
+   <trkpt lat="43.34998" lon="10.473369"><ele>6.75</ele></trkpt>
+   <trkpt lat="43.350266" lon="10.473114"><ele>6.5</ele></trkpt>
+   <trkpt lat="43.351607" lon="10.471674"><ele>5.75</ele></trkpt>
+   <trkpt lat="43.352745" lon="10.470469"><ele>6.75</ele></trkpt>
+   <trkpt lat="43.352746" lon="10.470467"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

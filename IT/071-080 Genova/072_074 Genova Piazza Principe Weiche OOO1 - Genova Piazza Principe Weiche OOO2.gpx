@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>072/074 Genova Piazza Principe Weiche OOO1 - Genova Piazza Principe Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.41751/8.92662/standard&amp;lonlats=8.926582,44.417524;8.926158,44.417594&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.417521" lon="8.926581"/>
+   <trkpt lat="44.417591" lon="8.926155"/>
+   <trkpt lat="44.41759" lon="8.926157"/>
+  </trkseg>
+ </trk>
+</gpx>

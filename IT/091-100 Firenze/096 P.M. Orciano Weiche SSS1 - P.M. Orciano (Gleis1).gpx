@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 754 filtered ascend = 9 plain-ascend = 9 cost=754 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 P.M. Orciano Weiche SSS1 - P.M. Orciano (Gleis1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/43.50060/10.47929/standard,openrailwaymap&amp;lonlats=10.481,43.493981;10.477563,43.500257&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.49398" lon="10.480997"><ele>61</ele></trkpt>
+   <trkpt lat="43.493982" lon="10.480996"><ele>61.25</ele></trkpt>
+   <trkpt lat="43.499214" lon="10.47822"><ele>68.5</ele></trkpt>
+   <trkpt lat="43.499763" lon="10.477894"><ele>70</ele></trkpt>
+   <trkpt lat="43.500246" lon="10.477567"><ele>70</ele></trkpt>
+   <trkpt lat="43.500256" lon="10.47756"><ele>70</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

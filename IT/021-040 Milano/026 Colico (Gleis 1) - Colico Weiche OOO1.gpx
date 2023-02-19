@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 249 filtered ascend = 1 plain-ascend = 1 cost=249 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Colico (Gleis 1) - Colico Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.13873/9.37732/standard,openrailwaymap&amp;lonlats=9.375221,46.138014;9.378014,46.139095&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.138015" lon="9.375218"><ele>208.75</ele></trkpt>
+   <trkpt lat="46.138857" lon="9.377399"><ele>209.5</ele></trkpt>
+   <trkpt lat="46.1391" lon="9.378019"><ele>209.75</ele></trkpt>
+   <trkpt lat="46.139096" lon="9.378011"><ele>209.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
