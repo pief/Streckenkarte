@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 1 plain-ascend = -1 cost=300 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>600 Balerna Weiche SSS2 - Balerna (Gleis 2)</name>
+  <trkseg>
+   <trkpt lat="45.84494" lon="9.00785"><ele>273.5</ele></trkpt>
+   <trkpt lat="45.845067" lon="9.00749"><ele>274.5</ele></trkpt>
+   <trkpt lat="45.845192" lon="9.007195"><ele>274.25</ele></trkpt>
+   <trkpt lat="45.845355" lon="9.006878"><ele>273.25</ele></trkpt>
+   <trkpt lat="45.84543" lon="9.006749"><ele>272.75</ele></trkpt>
+   <trkpt lat="45.845599" lon="9.006491"><ele>272.75</ele></trkpt>
+   <trkpt lat="45.846662" lon="9.004967"><ele>271.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
