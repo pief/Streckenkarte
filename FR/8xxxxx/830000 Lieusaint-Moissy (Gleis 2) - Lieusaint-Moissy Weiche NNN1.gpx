@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 395 filtered ascend = 0 plain-ascend = 0 cost=395 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Lieusaint-Moissy (Gleis 2) - Lieusaint-Moissy Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.63149/2.56872/standard&amp;lonlats=2.569392,48.628311;2.567901,48.631706&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.628311" lon="2.569392"><ele>86.5</ele></trkpt>
+   <trkpt lat="48.628328" lon="2.569386"><ele>86.5</ele></trkpt>
+   <trkpt lat="48.628379" lon="2.569366"><ele>86.5</ele></trkpt>
+   <trkpt lat="48.628986" lon="2.569118"><ele>86.25</ele></trkpt>
+   <trkpt lat="48.631395" lon="2.568039"><ele>86.5</ele></trkpt>
+   <trkpt lat="48.631705" lon="2.5679"><ele>86.75</ele></trkpt>
+   <trkpt lat="48.631705" lon="2.567899"><ele>86.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 0 plain-ascend = 0 cost=199 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Montargis Weiche NNN2 - Montargis Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.01133/2.74135/standard&amp;lonlats=2.742121,48.009344;2.741522,48.011069">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.009344" lon="2.742121"><ele>85.5</ele></trkpt>
+   <trkpt lat="48.009954" lon="2.741921"><ele>85.75</ele></trkpt>
+   <trkpt lat="48.011069" lon="2.741522"><ele>85.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

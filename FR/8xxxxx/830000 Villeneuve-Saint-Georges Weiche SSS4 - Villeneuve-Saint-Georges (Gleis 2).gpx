@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 373 filtered ascend = 1 plain-ascend = 1 cost=374 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Villeneuve-Saint-Georges Weiche SSS4 - Villeneuve-Saint-Georges (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.73015/2.44647/standard&amp;lonlats=2.444817,48.727039;2.44651,48.730125&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.727039" lon="2.444817"><ele>34.25</ele></trkpt>
+   <trkpt lat="48.727528" lon="2.445165"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.727647" lon="2.445239"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.728053" lon="2.445544"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.72829" lon="2.445709"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.728488" lon="2.445838"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.728795" lon="2.446023"><ele>35</ele></trkpt>
+   <trkpt lat="48.729145" lon="2.446197"><ele>34.5</ele></trkpt>
+   <trkpt lat="48.729337" lon="2.446277"><ele>34.5</ele></trkpt>
+   <trkpt lat="48.729722" lon="2.446411"><ele>35.25</ele></trkpt>
+   <trkpt lat="48.730123" lon="2.446511"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.730123" lon="2.446511"><ele>35.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

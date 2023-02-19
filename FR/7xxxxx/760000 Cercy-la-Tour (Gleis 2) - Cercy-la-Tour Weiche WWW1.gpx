@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 656 filtered ascend = 0 plain-ascend = 0 cost=656 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>760000 Cercy-la-Tour (Gleis 2) - Cercy-la-Tour Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/46.85605/3.63816/standard&amp;lonlats=3.645246,46.857765;3.637247,46.855668&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.857764" lon="3.645245"><ele>199.25</ele></trkpt>
+   <trkpt lat="46.857759" lon="3.645223"><ele>199.25</ele></trkpt>
+   <trkpt lat="46.857756" lon="3.64521"><ele>199.25</ele></trkpt>
+   <trkpt lat="46.85755" lon="3.644389"><ele>199</ele></trkpt>
+   <trkpt lat="46.856806" lon="3.641683"><ele>198.5</ele></trkpt>
+   <trkpt lat="46.855733" lon="3.637517"><ele>199</ele></trkpt>
+   <trkpt lat="46.855664" lon="3.637247"><ele>199</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

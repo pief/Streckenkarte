@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=50 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Melun Weiche WWW1 - Melun Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.52821/2.65097/standard&amp;lonlats=2.650965,48.52811;2.650334,48.528243&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.528111" lon="2.650965"><ele>50.25</ele></trkpt>
+   <trkpt lat="48.528241" lon="2.650332"><ele>50</ele></trkpt>
+   <trkpt lat="48.52824" lon="2.650333"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

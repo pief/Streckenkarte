@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 416 filtered ascend = 0 plain-ascend = 0 cost=416 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Nevers Weiche NNN4 - Nevers Weiche NNN9</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.99625/3.14550/standard&amp;lonlats=3.147708,46.992733;3.145618,46.996141&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.992733" lon="3.147708"><ele>186</ele></trkpt>
+   <trkpt lat="46.993539" lon="3.147281"><ele>186.25</ele></trkpt>
+   <trkpt lat="46.994469" lon="3.146767"><ele>186.25</ele></trkpt>
+   <trkpt lat="46.994972" lon="3.146505"><ele>186</ele></trkpt>
+   <trkpt lat="46.995174" lon="3.146377"><ele>186</ele></trkpt>
+   <trkpt lat="46.995376" lon="3.146234"><ele>186</ele></trkpt>
+   <trkpt lat="46.995639" lon="3.146032"><ele>185.5</ele></trkpt>
+   <trkpt lat="46.99614" lon="3.145617"><ele>185.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

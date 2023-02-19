@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 312 filtered ascend = 0 plain-ascend = -3 cost=312 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Combs-la-Ville-Quincy Weiche SSS2 - Combs-la-Ville-Quincy (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.66763/2.54840/standard&amp;lonlats=2.549743,48.665119;2.547959,48.667624&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.665117" lon="2.549739"><ele>84</ele></trkpt>
+   <trkpt lat="48.665115" lon="2.549741"><ele>84</ele></trkpt>
+   <trkpt lat="48.665786" lon="2.549215"><ele>83.25</ele></trkpt>
+   <trkpt lat="48.667077" lon="2.548343"><ele>81.25</ele></trkpt>
+   <trkpt lat="48.667513" lon="2.548044"><ele>80.5</ele></trkpt>
+   <trkpt lat="48.667625" lon="2.547962"><ele>80</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

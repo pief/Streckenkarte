@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3766 filtered ascend = 0 plain-ascend = -13 cost=3766 energy=0.0kwh time=5m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>760000 Saint-Symphorien-de-Marmagne (Gleis 2) - Broye (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.86224/4.29595/standard&amp;lonlats=4.337703,46.844154;4.296147,46.861983&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.844156" lon="4.337705"><ele>304.5</ele></trkpt>
+   <trkpt lat="46.847563" lon="4.328909"><ele>300.25</ele></trkpt>
+   <trkpt lat="46.849924" lon="4.322849"><ele>297.5</ele></trkpt>
+   <trkpt lat="46.850606" lon="4.321477"><ele>297.75</ele></trkpt>
+   <trkpt lat="46.855558" lon="4.312517"><ele>294</ele></trkpt>
+   <trkpt lat="46.858714" lon="4.306808"><ele>293.25</ele></trkpt>
+   <trkpt lat="46.8591" lon="4.30593"><ele>294.5</ele></trkpt>
+   <trkpt lat="46.859385" lon="4.305188"><ele>295.5</ele></trkpt>
+   <trkpt lat="46.859625" lon="4.304418"><ele>293.5</ele></trkpt>
+   <trkpt lat="46.86079" lon="4.300397"><ele>288.75</ele></trkpt>
+   <trkpt lat="46.86193" lon="4.296345"><ele>290.75</ele></trkpt>
+   <trkpt lat="46.861985" lon="4.296148"><ele>290.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

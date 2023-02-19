@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = 1 cost=25 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Moret-Veneux-les-Sablons Weiche SSS2 - Moret-Veneux-les-Sablons Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.37407/2.80737/standard&amp;lonlats=2.807537,48.373913;2.807325,48.374048&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.373913" lon="2.807537"><ele>63</ele></trkpt>
+   <trkpt lat="48.373924" lon="2.80752"><ele>63</ele></trkpt>
+   <trkpt lat="48.374012" lon="2.807375"><ele>63.5</ele></trkpt>
+   <trkpt lat="48.374046" lon="2.807325"><ele>63.75</ele></trkpt>
+   <trkpt lat="48.374046" lon="2.807323"><ele>63.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

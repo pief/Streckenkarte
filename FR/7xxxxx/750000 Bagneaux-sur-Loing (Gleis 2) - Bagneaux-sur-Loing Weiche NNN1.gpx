@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 220 filtered ascend = 0 plain-ascend = -1 cost=220 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Bagneaux-sur-Loing (Gleis 2) - Bagneaux-sur-Loing Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.26953/2.68468/standard&amp;lonlats=2.685546,48.267837;2.684417,48.269634&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.267836" lon="2.685545"><ele>60.25</ele></trkpt>
+   <trkpt lat="48.268396" lon="2.685138"><ele>59</ele></trkpt>
+   <trkpt lat="48.268848" lon="2.684844"><ele>59</ele></trkpt>
+   <trkpt lat="48.269372" lon="2.684548"><ele>58.5</ele></trkpt>
+   <trkpt lat="48.269633" lon="2.684416"><ele>58.75</ele></trkpt>
+   <trkpt lat="48.269633" lon="2.684415"><ele>58.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

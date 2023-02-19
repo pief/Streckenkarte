@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 456 filtered ascend = 4 plain-ascend = 4 cost=456 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>760000 Étang-sur-Arroux (Gleis 2) - Étang-sur-Arroux Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.86877/4.17793/standard&amp;lonlats=4.18379,46.868005;4.17794,46.868631&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.868008" lon="4.18379"><ele>272.25</ele></trkpt>
+   <trkpt lat="46.868125" lon="4.182751"><ele>273.75</ele></trkpt>
+   <trkpt lat="46.868237" lon="4.181577"><ele>273</ele></trkpt>
+   <trkpt lat="46.868305" lon="4.180938"><ele>273</ele></trkpt>
+   <trkpt lat="46.868434" lon="4.179785"><ele>273.5</ele></trkpt>
+   <trkpt lat="46.868471" lon="4.17944"><ele>273.5</ele></trkpt>
+   <trkpt lat="46.86863" lon="4.177944"><ele>276.25</ele></trkpt>
+   <trkpt lat="46.86863" lon="4.177939"><ele>276.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

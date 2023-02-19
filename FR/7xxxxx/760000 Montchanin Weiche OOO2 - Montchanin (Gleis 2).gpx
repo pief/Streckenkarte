@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 2 plain-ascend = 3 cost=432 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>760000 Montchanin Weiche OOO2 - Montchanin (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.75896/4.48349/standard&amp;lonlats=4.486886,46.758599;4.48148,46.759352&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.758598" lon="4.486885"><ele>318</ele></trkpt>
+   <trkpt lat="46.758599" lon="4.486885"><ele>318.25</ele></trkpt>
+   <trkpt lat="46.758626" lon="4.485777"><ele>318.25</ele></trkpt>
+   <trkpt lat="46.758655" lon="4.485233"><ele>317.75</ele></trkpt>
+   <trkpt lat="46.758694" lon="4.484787"><ele>317.75</ele></trkpt>
+   <trkpt lat="46.758756" lon="4.484228"><ele>317.5</ele></trkpt>
+   <trkpt lat="46.758802" lon="4.483894"><ele>317.5</ele></trkpt>
+   <trkpt lat="46.758898" lon="4.483329"><ele>317.5</ele></trkpt>
+   <trkpt lat="46.758981" lon="4.482916"><ele>318</ele></trkpt>
+   <trkpt lat="46.759077" lon="4.482494"><ele>318.5</ele></trkpt>
+   <trkpt lat="46.759211" lon="4.481964"><ele>320</ele></trkpt>
+   <trkpt lat="46.759356" lon="4.481483"><ele>320.5</ele></trkpt>
+   <trkpt lat="46.759356" lon="4.481482"><ele>320.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

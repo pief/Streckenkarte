@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 0 plain-ascend = 0 cost=41 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Paris Bercy Weiche SSS2 - Paris Bercy Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.83678/2.38836/standard&amp;lonlats=2.388888,48.83648;2.388519,48.836742&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.83648" lon="2.388888"><ele>36</ele></trkpt>
+   <trkpt lat="48.836481" lon="2.388887"><ele>36</ele></trkpt>
+   <trkpt lat="48.836605" lon="2.388732"><ele>36</ele></trkpt>
+   <trkpt lat="48.836741" lon="2.388517"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

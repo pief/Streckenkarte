@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 642 filtered ascend = 1 plain-ascend = 0 cost=642 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Gien (Gleis 2) - Gien Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.70457/2.63577/standard&amp;lonlats=2.636544,47.699161;2.635109,47.704809&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.699161" lon="2.636546"><ele>159</ele></trkpt>
+   <trkpt lat="47.699164" lon="2.636546"><ele>159</ele></trkpt>
+   <trkpt lat="47.700973" lon="2.636138"><ele>159.75</ele></trkpt>
+   <trkpt lat="47.701395" lon="2.63603"><ele>159.25</ele></trkpt>
+   <trkpt lat="47.701757" lon="2.635926"><ele>159</ele></trkpt>
+   <trkpt lat="47.70294" lon="2.635553"><ele>159.5</ele></trkpt>
+   <trkpt lat="47.703574" lon="2.635387"><ele>160.5</ele></trkpt>
+   <trkpt lat="47.704431" lon="2.63519"><ele>160.75</ele></trkpt>
+   <trkpt lat="47.704807" lon="2.63511"><ele>159.5</ele></trkpt>
+   <trkpt lat="47.704809" lon="2.635109"><ele>159.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

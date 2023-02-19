@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1058 filtered ascend = 6 plain-ascend = 7 cost=1059 energy=0.0kwh time=1m 25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Beaune Weiche SSS1 - Beaune (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/47.01420/4.84309/standard,openrailwaymap&amp;lonlats=4.84074,47.015105;4.848619,47.022889&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.015105" lon="4.84074"><ele>209.75</ele></trkpt>
+   <trkpt lat="47.016497" lon="4.842107"><ele>210.25</ele></trkpt>
+   <trkpt lat="47.017003" lon="4.842596"><ele>210.75</ele></trkpt>
+   <trkpt lat="47.017977" lon="4.843538"><ele>211.25</ele></trkpt>
+   <trkpt lat="47.018376" lon="4.843939"><ele>211.5</ele></trkpt>
+   <trkpt lat="47.019023" lon="4.84461"><ele>212.5</ele></trkpt>
+   <trkpt lat="47.01918" lon="4.844771"><ele>212.5</ele></trkpt>
+   <trkpt lat="47.019786" lon="4.845407"><ele>213.5</ele></trkpt>
+   <trkpt lat="47.019927" lon="4.845547"><ele>213.75</ele></trkpt>
+   <trkpt lat="47.021518" lon="4.847203"><ele>215.25</ele></trkpt>
+   <trkpt lat="47.021579" lon="4.847263"><ele>215.25</ele></trkpt>
+   <trkpt lat="47.022888" lon="4.848619"><ele>216.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

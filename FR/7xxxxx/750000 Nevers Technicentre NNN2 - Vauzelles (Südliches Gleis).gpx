@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 613 filtered ascend = 4 plain-ascend = 4 cost=613 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Nevers Technicentre NNN2 - Vauzelles (Südliches Gleis)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.00149/3.13441/standard&amp;lonlats=3.141728,46.999425;3.134279,47.001453&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.999422" lon="3.141725"><ele>188</ele></trkpt>
+   <trkpt lat="46.99958" lon="3.141321"><ele>188</ele></trkpt>
+   <trkpt lat="46.999785" lon="3.140738"><ele>188.5</ele></trkpt>
+   <trkpt lat="47.000002" lon="3.139997"><ele>188.75</ele></trkpt>
+   <trkpt lat="47.000481" lon="3.138146"><ele>190</ele></trkpt>
+   <trkpt lat="47.001445" lon="3.134291"><ele>192</ele></trkpt>
+   <trkpt lat="47.001448" lon="3.134276"><ele>191.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

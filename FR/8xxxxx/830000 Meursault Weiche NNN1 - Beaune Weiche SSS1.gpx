@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5852 filtered ascend = 6 plain-ascend = -3 cost=5852 energy=0.1kwh time=7m 48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Meursault Weiche NNN1 - Beaune Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/46.97064/4.79865/standard&amp;lonlats=4.797852,46.971488;4.84074,47.015105&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.971487" lon="4.797851"><ele>213.5</ele></trkpt>
+   <trkpt lat="46.97149" lon="4.797854"><ele>213.5</ele></trkpt>
+   <trkpt lat="46.974436" lon="4.800756"><ele>212.75</ele></trkpt>
+   <trkpt lat="46.975373" lon="4.801662"><ele>213.75</ele></trkpt>
+   <trkpt lat="46.979802" lon="4.806016"><ele>212</ele></trkpt>
+   <trkpt lat="46.982236" lon="4.80844"><ele>208.75</ele></trkpt>
+   <trkpt lat="46.983154" lon="4.809277"><ele>210.5</ele></trkpt>
+   <trkpt lat="46.984085" lon="4.810191"><ele>209.75</ele></trkpt>
+   <trkpt lat="46.98596" lon="4.812064"><ele>213.5</ele></trkpt>
+   <trkpt lat="46.991439" lon="4.817502"><ele>216.25</ele></trkpt>
+   <trkpt lat="46.993734" lon="4.819742"><ele>218.5</ele></trkpt>
+   <trkpt lat="46.99379" lon="4.819796"><ele>218.75</ele></trkpt>
+   <trkpt lat="46.995746" lon="4.821706"><ele>219</ele></trkpt>
+   <trkpt lat="46.999227" lon="4.825132"><ele>219.5</ele></trkpt>
+   <trkpt lat="47.002774" lon="4.828615"><ele>216.5</ele></trkpt>
+   <trkpt lat="47.004008" lon="4.82984"><ele>216.75</ele></trkpt>
+   <trkpt lat="47.010402" lon="4.836132"><ele>213.75</ele></trkpt>
+   <trkpt lat="47.013224" lon="4.838903"><ele>211.75</ele></trkpt>
+   <trkpt lat="47.014332" lon="4.83998"><ele>210</ele></trkpt>
+   <trkpt lat="47.014747" lon="4.840387"><ele>209.75</ele></trkpt>
+   <trkpt lat="47.015105" lon="4.84074"><ele>209.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

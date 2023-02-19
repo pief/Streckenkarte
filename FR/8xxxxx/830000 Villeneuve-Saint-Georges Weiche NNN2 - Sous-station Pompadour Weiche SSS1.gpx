@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 926 filtered ascend = 1 plain-ascend = 2 cost=926 energy=0.0kwh time=1m 14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Villeneuve-Saint-Georges Weiche NNN2 - Sous-station Pompadour Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.77223/2.43824/standard&amp;lonlats=2.441211,48.764506;2.437838,48.772428&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.764506" lon="2.441211"><ele>32.5</ele></trkpt>
+   <trkpt lat="48.764508" lon="2.441211"><ele>32.5</ele></trkpt>
+   <trkpt lat="48.767069" lon="2.440407"><ele>34.25</ele></trkpt>
+   <trkpt lat="48.76848" lon="2.439961"><ele>33</ele></trkpt>
+   <trkpt lat="48.768737" lon="2.439873"><ele>33</ele></trkpt>
+   <trkpt lat="48.769217" lon="2.439693"><ele>33</ele></trkpt>
+   <trkpt lat="48.769531" lon="2.43956"><ele>33</ele></trkpt>
+   <trkpt lat="48.770106" lon="2.439285"><ele>33</ele></trkpt>
+   <trkpt lat="48.770634" lon="2.438996"><ele>33.75</ele></trkpt>
+   <trkpt lat="48.771089" lon="2.438717"><ele>33.75</ele></trkpt>
+   <trkpt lat="48.771781" lon="2.438252"><ele>34</ele></trkpt>
+   <trkpt lat="48.771977" lon="2.438119"><ele>34.25</ele></trkpt>
+   <trkpt lat="48.772427" lon="2.437836"><ele>34.25</ele></trkpt>
+   <trkpt lat="48.772427" lon="2.437835"><ele>34.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

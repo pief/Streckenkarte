@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 234 filtered ascend = 4 plain-ascend = 4 cost=234 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>760000 Le Creusot-Ville Weiche SSS1 - Le Creusot-Ville (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.80795/4.43093/standard&amp;lonlats=4.43234,46.806192;4.43058,46.80789&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.80619" lon="4.432335"><ele>349.25</ele></trkpt>
+   <trkpt lat="46.806406" lon="4.43212"><ele>349.75</ele></trkpt>
+   <trkpt lat="46.806977" lon="4.431505"><ele>351.5</ele></trkpt>
+   <trkpt lat="46.807887" lon="4.430587"><ele>353.25</ele></trkpt>
+   <trkpt lat="46.807891" lon="4.430582"><ele>353</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

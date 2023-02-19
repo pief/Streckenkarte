@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 156 filtered ascend = 0 plain-ascend = 0 cost=156 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Technicentre Sud-Est Européen Weiche NNN2 - L'Approche de Gare de Bercy Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.83249/2.39274/standard&amp;lonlats=2.39409,48.831042;2.393225,48.831943;2.39297,48.832206&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.831041" lon="2.394088"><ele>36.75</ele></trkpt>
+   <trkpt lat="48.831042" lon="2.394088"><ele>36.75</ele></trkpt>
+   <trkpt lat="48.831942" lon="2.393223"><ele>35.75</ele></trkpt>
+   <trkpt lat="48.832205" lon="2.392971"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.832206" lon="2.39297"><ele>35.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

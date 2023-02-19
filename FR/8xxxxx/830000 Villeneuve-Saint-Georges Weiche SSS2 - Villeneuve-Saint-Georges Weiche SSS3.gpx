@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 222 filtered ascend = 0 plain-ascend = 0 cost=222 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Villeneuve-Saint-Georges Weiche SSS2 - Villeneuve-Saint-Georges Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.72673/2.44488/standard&amp;lonlats=2.443664,48.725022;2.444707,48.726873&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.725021" lon="2.443663"><ele>34</ele></trkpt>
+   <trkpt lat="48.725687" lon="2.444024"><ele>32.25</ele></trkpt>
+   <trkpt lat="48.72628" lon="2.444342"><ele>32.5</ele></trkpt>
+   <trkpt lat="48.726872" lon="2.444707"><ele>33.75</ele></trkpt>
+   <trkpt lat="48.726872" lon="2.444707"><ele>33.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

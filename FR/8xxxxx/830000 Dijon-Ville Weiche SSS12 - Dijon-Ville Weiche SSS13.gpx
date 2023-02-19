@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Dijon-Ville Weiche SSS12 - Dijon-Ville Weiche SSS13</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.31791/5.03198/standard,openrailwaymap&amp;lonlats=5.031833,47.318706;5.032024,47.317652&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.318706" lon="5.031833"><ele>242</ele></trkpt>
+   <trkpt lat="47.318703" lon="5.031834"><ele>242</ele></trkpt>
+   <trkpt lat="47.318253" lon="5.031922"><ele>241.75</ele></trkpt>
+   <trkpt lat="47.317937" lon="5.031974"><ele>242</ele></trkpt>
+   <trkpt lat="47.317652" lon="5.032024"><ele>242.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

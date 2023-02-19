@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5206 filtered ascend = 8 plain-ascend = 5 cost=5206 energy=0.1kwh time=6m 56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Corgoloin (Gleis 2) - Nuits-Saint-Georges Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.08416/4.91787/standard,openrailwaymap&amp;lonlats=4.91712,47.084199;4.951426,47.124643&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.084198" lon="4.917119"><ele>224.25</ele></trkpt>
+   <trkpt lat="47.088345" lon="4.920632"><ele>227.5</ele></trkpt>
+   <trkpt lat="47.093555" lon="4.925047"><ele>225.5</ele></trkpt>
+   <trkpt lat="47.097551" lon="4.928437"><ele>222.5</ele></trkpt>
+   <trkpt lat="47.097597" lon="4.928475"><ele>222.25</ele></trkpt>
+   <trkpt lat="47.09832" lon="4.929099"><ele>221.75</ele></trkpt>
+   <trkpt lat="47.099788" lon="4.930334"><ele>226</ele></trkpt>
+   <trkpt lat="47.105191" lon="4.934927"><ele>222</ele></trkpt>
+   <trkpt lat="47.106097" lon="4.935687"><ele>221.75</ele></trkpt>
+   <trkpt lat="47.106166" lon="4.935745"><ele>221.75</ele></trkpt>
+   <trkpt lat="47.107073" lon="4.936532"><ele>220.5</ele></trkpt>
+   <trkpt lat="47.108051" lon="4.937347"><ele>219.5</ele></trkpt>
+   <trkpt lat="47.110162" lon="4.939132"><ele>219.25</ele></trkpt>
+   <trkpt lat="47.110227" lon="4.939187"><ele>219.25</ele></trkpt>
+   <trkpt lat="47.113711" lon="4.942148"><ele>222.5</ele></trkpt>
+   <trkpt lat="47.115313" lon="4.943498"><ele>229.75</ele></trkpt>
+   <trkpt lat="47.117268" lon="4.945164"><ele>232.75</ele></trkpt>
+   <trkpt lat="47.117709" lon="4.945529"><ele>232</ele></trkpt>
+   <trkpt lat="47.124642" lon="4.951425"><ele>228.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

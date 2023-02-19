@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 587 filtered ascend = 7 plain-ascend = 8 cost=587 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>760000 Montchanin (Gleis 2) - Montchanin Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/46.76166/4.47513/standard&amp;lonlats=4.48148,46.759352;4.474563,46.761622&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.759356" lon="4.481482"><ele>320.5</ele></trkpt>
+   <trkpt lat="46.761052" lon="4.47631"><ele>325</ele></trkpt>
+   <trkpt lat="46.761271" lon="4.475628"><ele>327</ele></trkpt>
+   <trkpt lat="46.761622" lon="4.474567"><ele>328</ele></trkpt>
+   <trkpt lat="46.761623" lon="4.474563"><ele>328</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 2 plain-ascend = 3 cost=281 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Nogent-sur-Vernisson (Gleis 2) - Nogent-sur-Vernisson Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/47.85351/2.73779/standard&amp;lonlats=2.737574,47.85278;2.738125,47.85526">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.852778" lon="2.737574"><ele>121.5</ele></trkpt>
+   <trkpt lat="47.852801" lon="2.737579"><ele>121.5</ele></trkpt>
+   <trkpt lat="47.852806" lon="2.73758"><ele>121.5</ele></trkpt>
+   <trkpt lat="47.855259" lon="2.738125"><ele>124</ele></trkpt>
+   <trkpt lat="47.855259" lon="2.738125"><ele>124</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 279 filtered ascend = 2 plain-ascend = 3 cost=279 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>750000 Moret-Veneux-les-Sablons (Gleis 2N) - Moret-Veneux-les-Sablons Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.37936/2.79686/standard&amp;lonlats=2.799092,48.37822;2.796038,48.379626&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.378219" lon="2.799092"><ele>69.25</ele></trkpt>
+   <trkpt lat="48.37867" lon="2.798191"><ele>70</ele></trkpt>
+   <trkpt lat="48.378828" lon="2.797871"><ele>71</ele></trkpt>
+   <trkpt lat="48.37902" lon="2.797455"><ele>71.25</ele></trkpt>
+   <trkpt lat="48.379255" lon="2.796915"><ele>71.5</ele></trkpt>
+   <trkpt lat="48.379479" lon="2.796372"><ele>72</ele></trkpt>
+   <trkpt lat="48.379625" lon="2.796038"><ele>72</ele></trkpt>
+   <trkpt lat="48.379625" lon="2.796037"><ele>71.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 0 plain-ascend = -2 cost=400 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>830000 Nuits-Saint-Georges (Gleis 1) - Nuits-Saint-Georges Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/47.12698/4.95675/standard,openrailwaymap&amp;lonlats=4.956355,47.130555;4.953847,47.127425&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.130553" lon="4.956356"><ele>232</ele></trkpt>
+   <trkpt lat="47.130071" lon="4.956004"><ele>231.75</ele></trkpt>
+   <trkpt lat="47.129549" lon="4.955607"><ele>232</ele></trkpt>
+   <trkpt lat="47.12941" lon="4.955502"><ele>232</ele></trkpt>
+   <trkpt lat="47.128502" lon="4.954759"><ele>232.25</ele></trkpt>
+   <trkpt lat="47.127425" lon="4.953848"><ele>229.5</ele></trkpt>
+   <trkpt lat="47.127423" lon="4.953847"><ele>229.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
