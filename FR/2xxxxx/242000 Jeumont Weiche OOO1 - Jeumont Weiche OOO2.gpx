@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 358 filtered ascend = 1 plain-ascend = 1 cost=358 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Jeumont Weiche OOO1 - Jeumont Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.29718/4.09094/standard&amp;lonlats=4.095886,50.297734;4.09108,50.296965&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.297732" lon="4.095885"><ele>125.25</ele></trkpt>
+   <trkpt lat="50.297732" lon="4.095885"><ele>125.25</ele></trkpt>
+   <trkpt lat="50.297617" lon="4.095423"><ele>125.5</ele></trkpt>
+   <trkpt lat="50.297444" lon="4.09455"><ele>126</ele></trkpt>
+   <trkpt lat="50.297364" lon="4.094108"><ele>126</ele></trkpt>
+   <trkpt lat="50.297271" lon="4.093538"><ele>126.25</ele></trkpt>
+   <trkpt lat="50.297172" lon="4.092872"><ele>126.75</ele></trkpt>
+   <trkpt lat="50.297069" lon="4.092036"><ele>126.5</ele></trkpt>
+   <trkpt lat="50.296965" lon="4.091078"><ele>126.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

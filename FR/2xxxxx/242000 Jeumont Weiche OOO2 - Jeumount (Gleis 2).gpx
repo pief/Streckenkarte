@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 352 filtered ascend = 2 plain-ascend = 2 cost=352 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Jeumont Weiche OOO2 - Jeumount (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.29650/4.08724/standard&amp;lonlats=4.09108,50.296965;4.086348,50.296227&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.296965" lon="4.091078"><ele>126.5</ele></trkpt>
+   <trkpt lat="50.296965" lon="4.091078"><ele>126.75</ele></trkpt>
+   <trkpt lat="50.296773" lon="4.089386"><ele>128.5</ele></trkpt>
+   <trkpt lat="50.296676" lon="4.088707"><ele>128.75</ele></trkpt>
+   <trkpt lat="50.296551" lon="4.087963"><ele>129</ele></trkpt>
+   <trkpt lat="50.29634" lon="4.086858"><ele>129.25</ele></trkpt>
+   <trkpt lat="50.296238" lon="4.08639"><ele>129</ele></trkpt>
+   <trkpt lat="50.296236" lon="4.086381"><ele>129</ele></trkpt>
+   <trkpt lat="50.296227" lon="4.086346"><ele>128.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

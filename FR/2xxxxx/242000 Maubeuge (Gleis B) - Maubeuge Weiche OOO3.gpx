@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 279 filtered ascend = 0 plain-ascend = 0 cost=279 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Maubeuge (Gleis B) - Maubeuge Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.27269/3.96687/standard&amp;lonlats=3.966632,50.27257;3.9704,50.272179&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.27257" lon="3.96663"><ele>134.75</ele></trkpt>
+   <trkpt lat="50.272572" lon="3.966774"><ele>134.75</ele></trkpt>
+   <trkpt lat="50.272563" lon="3.967173"><ele>134.25</ele></trkpt>
+   <trkpt lat="50.272541" lon="3.967724"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.272515" lon="3.968088"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.272445" lon="3.968778"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.272332" lon="3.969588"><ele>134</ele></trkpt>
+   <trkpt lat="50.272258" lon="3.970005"><ele>134.5</ele></trkpt>
+   <trkpt lat="50.272179" lon="3.970402"><ele>134.75</ele></trkpt>
+   <trkpt lat="50.272179" lon="3.9704"><ele>134.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
