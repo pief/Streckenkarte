@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 1 plain-ascend = 1 cost=145 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Hautmont Weiche NNN2 - Bif. d'Hautmont Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/50.26389/3.92859/standard&amp;lonlats=3.921047,50.260885;3.922213,50.261907&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.260884" lon="3.921046"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.260887" lon="3.921049"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.261161" lon="3.921329"><ele>133</ele></trkpt>
+   <trkpt lat="50.261498" lon="3.921705"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.261906" lon="3.922213"><ele>134.5</ele></trkpt>
+   <trkpt lat="50.261906" lon="3.922213"><ele>134.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

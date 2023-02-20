@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 885 filtered ascend = 1 plain-ascend = -2 cost=885 energy=0.0kwh time=1m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Hautmont (Gleis 1) - Hautmont Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.26108/3.92291/standard&amp;lonlats=3.915378,50.253885;3.921048,50.260886&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.253883" lon="3.915379"><ele>136</ele></trkpt>
+   <trkpt lat="50.253901" lon="3.9154"><ele>136.25</ele></trkpt>
+   <trkpt lat="50.254166" lon="3.915713"><ele>137</ele></trkpt>
+   <trkpt lat="50.25459" lon="3.916182"><ele>137</ele></trkpt>
+   <trkpt lat="50.254932" lon="3.916533"><ele>135.75</ele></trkpt>
+   <trkpt lat="50.255146" lon="3.916739"><ele>135.5</ele></trkpt>
+   <trkpt lat="50.255563" lon="3.917108"><ele>136.25</ele></trkpt>
+   <trkpt lat="50.255774" lon="3.917276"><ele>135.75</ele></trkpt>
+   <trkpt lat="50.256189" lon="3.917584"><ele>136.25</ele></trkpt>
+   <trkpt lat="50.25916" lon="3.919652"><ele>136.5</ele></trkpt>
+   <trkpt lat="50.259686" lon="3.920024"><ele>133.5</ele></trkpt>
+   <trkpt lat="50.260121" lon="3.92036"><ele>133</ele></trkpt>
+   <trkpt lat="50.260166" lon="3.920396"><ele>133</ele></trkpt>
+   <trkpt lat="50.260472" lon="3.920657"><ele>133.5</ele></trkpt>
+   <trkpt lat="50.260885" lon="3.921047"><ele>133.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

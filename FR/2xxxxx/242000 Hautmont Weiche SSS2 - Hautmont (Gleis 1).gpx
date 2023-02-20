@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 275 filtered ascend = 3 plain-ascend = 3 cost=275 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Hautmont Weiche SSS2 - Hautmont (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.25358/3.91581/standard&amp;lonlats=3.912821,50.252086;3.915378,50.253885&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.252085" lon="3.91282"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.252372" lon="3.913283"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.252594" lon="3.913622"><ele>134</ele></trkpt>
+   <trkpt lat="50.252861" lon="3.914022"><ele>135</ele></trkpt>
+   <trkpt lat="50.253284" lon="3.914616"><ele>135</ele></trkpt>
+   <trkpt lat="50.253319" lon="3.914663"><ele>135</ele></trkpt>
+   <trkpt lat="50.253492" lon="3.914895"><ele>135</ele></trkpt>
+   <trkpt lat="50.253883" lon="3.915379"><ele>136</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
