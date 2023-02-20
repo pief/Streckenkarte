@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 129 filtered ascend = 0 plain-ascend = -3 cost=129 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>063/064/067 Trieste Gruppo Scambi Gretta Weiche XXX1 - Trieste Centrale Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/45.66773/13.76151/standard,openrailwaymap&amp;lonlats=13.761463,45.667811;13.762315,45.666833&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.667811" lon="13.761463"><ele>9.5</ele></trkpt>
+   <trkpt lat="45.667809" lon="13.761465"><ele>9.5</ele></trkpt>
+   <trkpt lat="45.667635" lon="13.761617"><ele>8.5</ele></trkpt>
+   <trkpt lat="45.66734" lon="13.761878"><ele>7.25</ele></trkpt>
+   <trkpt lat="45.666835" lon="13.762319"><ele>5.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

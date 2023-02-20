@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 1 cost=31 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>063 Villa Opicina Weiche OOO3 - Villa Opicina Weiche OOO4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/45.69604/13.79561/standard,openrailwaymap&amp;lonlats=13.795841,45.696191;13.795548,45.696037&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.696191" lon="13.795841"><ele>310.75</ele></trkpt>
+   <trkpt lat="45.696037" lon="13.795551"><ele>311.25</ele></trkpt>
+   <trkpt lat="45.696035" lon="13.795548"><ele>311.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
