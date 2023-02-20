@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 0 cost=31 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Thionville Weiche SSS1 - Thionville Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.34994/6.16336/standard&amp;lonlats=6.163529,49.350174;6.163307,49.349963&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.350173" lon="6.16353"><ele>155.75</ele></trkpt>
+   <trkpt lat="49.349963" lon="6.163309"><ele>155.75</ele></trkpt>
+   <trkpt lat="49.349962" lon="6.163307"><ele>155.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
