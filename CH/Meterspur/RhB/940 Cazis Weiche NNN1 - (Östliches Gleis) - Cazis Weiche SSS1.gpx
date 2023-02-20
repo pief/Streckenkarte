@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 381 filtered ascend = 3 plain-ascend = 6 cost=384 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 Cazis Weiche NNN1 - (Östliches Gleis) - Cazis Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=17/46.71952/9.43162/standard&amp;lonlats=9.431497,46.720816;9.431828,46.720608;9.432903,46.719967;9.432903,46.719967;9.434129,46.719225;9.434859,46.718737;9.435099,46.718548">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.720816" lon="9.431497"><ele>655</ele></trkpt>
+   <trkpt lat="46.720816" lon="9.431498"><ele>655.25</ele></trkpt>
+   <trkpt lat="46.720608" lon="9.431828"><ele>655.5</ele></trkpt>
+   <trkpt lat="46.720385" lon="9.432209"><ele>655.75</ele></trkpt>
+   <trkpt lat="46.719967" lon="9.432903"><ele>656.25</ele></trkpt>
+   <trkpt lat="46.719967" lon="9.432903"><ele>656.25</ele></trkpt>
+   <trkpt lat="46.719433" lon="9.433793"><ele>657.25</ele></trkpt>
+   <trkpt lat="46.719225" lon="9.434129"><ele>657</ele></trkpt>
+   <trkpt lat="46.719011" lon="9.434457"><ele>657.5</ele></trkpt>
+   <trkpt lat="46.718737" lon="9.434859"><ele>658.75</ele></trkpt>
+   <trkpt lat="46.718551" lon="9.435096"><ele>660</ele></trkpt>
+   <trkpt lat="46.718548" lon="9.435099"><ele>660</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

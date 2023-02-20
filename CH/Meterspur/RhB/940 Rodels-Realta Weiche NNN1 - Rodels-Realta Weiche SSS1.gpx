@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 2 plain-ascend = 3 cost=400 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 Rodels-Realta Weiche NNN1 - Rodels-Realta Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/46.73626/9.43355/osm-mapnik-german_style&amp;lonlats=9.433536,46.736386;9.433375,46.736028;9.432094,46.732955">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.736386" lon="9.433528"><ele>641.25</ele></trkpt>
+   <trkpt lat="46.736386" lon="9.433528"><ele>641.25</ele></trkpt>
+   <trkpt lat="46.736026" lon="9.433378"><ele>640</ele></trkpt>
+   <trkpt lat="46.736024" lon="9.433377"><ele>640</ele></trkpt>
+   <trkpt lat="46.732958" lon="9.432096"><ele>642.75</ele></trkpt>
+   <trkpt lat="46.732953" lon="9.432094"><ele>642.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

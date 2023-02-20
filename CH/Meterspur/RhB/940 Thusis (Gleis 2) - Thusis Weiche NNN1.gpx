@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 213 filtered ascend = 2 plain-ascend = 1 cost=213 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 Thusis (Gleis 2) - Thusis Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.70020/9.44053/osm-mapnik-german_style&amp;lonlats=9.4407,46.698278;9.440094,46.700103">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.698278" lon="9.4407"><ele>698.25</ele></trkpt>
+   <trkpt lat="46.698529" lon="9.440589"><ele>698.25</ele></trkpt>
+   <trkpt lat="46.698752" lon="9.440498"><ele>699</ele></trkpt>
+   <trkpt lat="46.699015" lon="9.4404"><ele>699.75</ele></trkpt>
+   <trkpt lat="46.69928" lon="9.440315"><ele>700.25</ele></trkpt>
+   <trkpt lat="46.700106" lon="9.440095"><ele>699.25</ele></trkpt>
+   <trkpt lat="46.700103" lon="9.440095"><ele>699.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 0 plain-ascend = 1 cost=76 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>Linie Landquart-Thusis Thusis Weiche NNN1 - Thusis Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/46.70062/9.44047/osm-mapnik-german_style&amp;lonlats=9.440094,46.700103;9.439946,46.700766">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.700103" lon="9.440095"><ele>699.25</ele></trkpt>
+   <trkpt lat="46.700106" lon="9.440095"><ele>699.25</ele></trkpt>
+   <trkpt lat="46.700579" lon="9.439985"><ele>699.25</ele></trkpt>
+   <trkpt lat="46.700766" lon="9.439952"><ele>699.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

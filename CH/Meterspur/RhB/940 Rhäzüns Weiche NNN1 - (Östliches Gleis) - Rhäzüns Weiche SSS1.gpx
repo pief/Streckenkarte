@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 436 filtered ascend = 1 plain-ascend = 1 cost=436 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 Rhäzüns Weiche NNN1 - (Östliches Gleis) - Rhäzüns Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/46.80203/9.39972/standard&amp;lonlats=9.399319,46.802384;9.399369,46.799781;9.399198,46.798548">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.802384" lon="9.39932"><ele>653.5</ele></trkpt>
+   <trkpt lat="46.802384" lon="9.399321"><ele>653.5</ele></trkpt>
+   <trkpt lat="46.80169" lon="9.399494"><ele>653</ele></trkpt>
+   <trkpt lat="46.801483" lon="9.399529"><ele>653.25</ele></trkpt>
+   <trkpt lat="46.801316" lon="9.399545"><ele>653.5</ele></trkpt>
+   <trkpt lat="46.801092" lon="9.399548"><ele>654</ele></trkpt>
+   <trkpt lat="46.800909" lon="9.399535"><ele>654.25</ele></trkpt>
+   <trkpt lat="46.800665" lon="9.399502"><ele>654.5</ele></trkpt>
+   <trkpt lat="46.799779" lon="9.399369"><ele>654.5</ele></trkpt>
+   <trkpt lat="46.799025" lon="9.399257"><ele>654.5</ele></trkpt>
+   <trkpt lat="46.798551" lon="9.3992"><ele>654.75</ele></trkpt>
+   <trkpt lat="46.798548" lon="9.3992"><ele>654.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
