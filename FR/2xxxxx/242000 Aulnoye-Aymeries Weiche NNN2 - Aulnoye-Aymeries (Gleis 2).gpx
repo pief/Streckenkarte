@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 401 filtered ascend = 0 plain-ascend = -2 cost=401 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Aulnoye-Aymeries Weiche NNN2 - Aulnoye-Aymeries (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.19750/3.84359/standard&amp;lonlats=3.847554,50.199716;3.843494,50.197294&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.199715" lon="3.847553"><ele>145</ele></trkpt>
+   <trkpt lat="50.199718" lon="3.847557"><ele>145.25</ele></trkpt>
+   <trkpt lat="50.199171" lon="3.846684"><ele>144</ele></trkpt>
+   <trkpt lat="50.19914" lon="3.846634"><ele>144</ele></trkpt>
+   <trkpt lat="50.198435" lon="3.845502"><ele>143.75</ele></trkpt>
+   <trkpt lat="50.198204" lon="3.845119"><ele>143</ele></trkpt>
+   <trkpt lat="50.197749" lon="3.844339"><ele>143</ele></trkpt>
+   <trkpt lat="50.197328" lon="3.843561"><ele>142.75</ele></trkpt>
+   <trkpt lat="50.197293" lon="3.843493"><ele>142.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

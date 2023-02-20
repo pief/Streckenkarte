@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 472 filtered ascend = 1 plain-ascend = 2 cost=472 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Maubeuge Weiche WWW1 - Louvroil Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.26917/3.95543/standard&amp;lonlats=3.960707,50.271403;3.955261,50.26904&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.271402" lon="3.960706"><ele>130.75</ele></trkpt>
+   <trkpt lat="50.271196" lon="3.960184"><ele>130.75</ele></trkpt>
+   <trkpt lat="50.271063" lon="3.959869"><ele>130.75</ele></trkpt>
+   <trkpt lat="50.270276" lon="3.958094"><ele>130.75</ele></trkpt>
+   <trkpt lat="50.270099" lon="3.957699"><ele>130.75</ele></trkpt>
+   <trkpt lat="50.269817" lon="3.957068"><ele>130.75</ele></trkpt>
+   <trkpt lat="50.269039" lon="3.955262"><ele>132.25</ele></trkpt>
+   <trkpt lat="50.269038" lon="3.95526"><ele>132.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
