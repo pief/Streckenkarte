@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 0 plain-ascend = 0 cost=114 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Thionville Weiche NNN2 - Thionville Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.35480/6.17172/standard&amp;lonlats=6.172651,49.355463;6.171504,49.354802&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.355462" lon="6.17265"><ele>153</ele></trkpt>
+   <trkpt lat="49.355462" lon="6.172649"><ele>153</ele></trkpt>
+   <trkpt lat="49.355017" lon="6.171883"><ele>153</ele></trkpt>
+   <trkpt lat="49.354802" lon="6.171505"><ele>153.25</ele></trkpt>
+   <trkpt lat="49.354801" lon="6.171503"><ele>153.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 160 filtered ascend = 0 plain-ascend = 0 cost=160 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Thionville (Gleis B) - Thionville Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.35436/6.17078/standard&amp;lonlats=6.169867,49.353857;6.171504,49.354802&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.353856" lon="6.169866"><ele>153.75</ele></trkpt>
+   <trkpt lat="49.353896" lon="6.169935"><ele>154</ele></trkpt>
+   <trkpt lat="49.354801" lon="6.171503"><ele>153.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
