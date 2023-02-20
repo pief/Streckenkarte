@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 3 plain-ascend = 3 cost=111 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>087 Bologna Centrale Weiche OOO13 - Bologna Centrale (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.50594/11.34350/standard,openrailwaymap&amp;lonlats=11.344738,44.50587;11.343368,44.506046&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.505871" lon="11.344738"><ele>42.25</ele></trkpt>
+   <trkpt lat="44.506048" lon="11.343368"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

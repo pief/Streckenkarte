@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 319 filtered ascend = 1 plain-ascend = 2 cost=319 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>087 Bologna Centrale Weiche OOO9 - Bologna Centrale Weiche OOO10</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.50539/11.34769/standard,openrailwaymap&amp;lonlats=11.351671,44.504577;11.347858,44.505388&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.504577" lon="11.35167"><ele>42.25</ele></trkpt>
+   <trkpt lat="44.504826" lon="11.350595"><ele>42</ele></trkpt>
+   <trkpt lat="44.50495" lon="11.350001"><ele>43</ele></trkpt>
+   <trkpt lat="44.505056" lon="11.349529"><ele>43.75</ele></trkpt>
+   <trkpt lat="44.505255" lon="11.348554"><ele>43.75</ele></trkpt>
+   <trkpt lat="44.505384" lon="11.347856"><ele>43.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
