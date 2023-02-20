@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1254 filtered ascend = 0 plain-ascend = -2 cost=1254 energy=0.0kwh time=1m 40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Bologna San Vitale (Gleis 2) - Bologna Centrale Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.50202/11.35907/standard,openrailwaymap&amp;lonlats=11.373268,44.496161;11.359614,44.501711&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.496163" lon="11.37327"><ele>52.25</ele></trkpt>
+   <trkpt lat="44.496214" lon="11.373144"><ele>52.25</ele></trkpt>
+   <trkpt lat="44.499844" lon="11.36407"><ele>49.25</ele></trkpt>
+   <trkpt lat="44.500117" lon="11.36341"><ele>48.25</ele></trkpt>
+   <trkpt lat="44.500678" lon="11.362131"><ele>48.5</ele></trkpt>
+   <trkpt lat="44.501165" lon="11.360981"><ele>47.25</ele></trkpt>
+   <trkpt lat="44.501709" lon="11.359613"><ele>49.5</ele></trkpt>
+   <trkpt lat="44.501709" lon="11.359612"><ele>49.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 357 filtered ascend = 0 plain-ascend = 0 cost=357 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Rimini (Gleis 2) - Rimini Weiche NNN5</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.06557/12.57130/standard,openrailwaymap&amp;lonlats=12.573927,44.064121;12.570339,44.065986&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.06412" lon="12.573926"><ele>3.5</ele></trkpt>
+   <trkpt lat="44.064495" lon="12.573105"><ele>3.5</ele></trkpt>
+   <trkpt lat="44.06494" lon="12.572241"><ele>2.25</ele></trkpt>
+   <trkpt lat="44.065719" lon="12.570845"><ele>3</ele></trkpt>
+   <trkpt lat="44.065985" lon="12.570338"><ele>3.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13621 filtered ascend = 8 plain-ascend = 9 cost=13621 energy=0.2kwh time=18m 10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Savignano (Gleis 1) - Cesena (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.14549/12.24938/standard,openrailwaymap&amp;lonlats=12.404213,44.095166;12.327475,44.116684;12.249482,44.145466&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.095168" lon="12.404214"><ele>24.25</ele></trkpt>
+   <trkpt lat="44.096097" lon="12.40076"><ele>24.75</ele></trkpt>
+   <trkpt lat="44.096351" lon="12.399828"><ele>24.25</ele></trkpt>
+   <trkpt lat="44.10819" lon="12.355783"><ele>21</ele></trkpt>
+   <trkpt lat="44.108238" lon="12.355607"><ele>21.25</ele></trkpt>
+   <trkpt lat="44.109607" lon="12.350535"><ele>21.75</ele></trkpt>
+   <trkpt lat="44.112563" lon="12.339554"><ele>27.5</ele></trkpt>
+   <trkpt lat="44.112929" lon="12.338224"><ele>28</ele></trkpt>
+   <trkpt lat="44.11313" lon="12.337516"><ele>27.5</ele></trkpt>
+   <trkpt lat="44.113346" lon="12.336802"><ele>26</ele></trkpt>
+   <trkpt lat="44.113436" lon="12.336542"><ele>26.25</ele></trkpt>
+   <trkpt lat="44.113815" lon="12.335362"><ele>27.75</ele></trkpt>
+   <trkpt lat="44.113941" lon="12.334983"><ele>28.25</ele></trkpt>
+   <trkpt lat="44.114795" lon="12.332395"><ele>29</ele></trkpt>
+   <trkpt lat="44.115171" lon="12.331299"><ele>28.75</ele></trkpt>
+   <trkpt lat="44.116679" lon="12.327472"><ele>30.75</ele></trkpt>
+   <trkpt lat="44.118231" lon="12.323628"><ele>30</ele></trkpt>
+   <trkpt lat="44.119624" lon="12.319946"><ele>30.25</ele></trkpt>
+   <trkpt lat="44.133246" lon="12.284022"><ele>26</ele></trkpt>
+   <trkpt lat="44.140181" lon="12.265628"><ele>28.5</ele></trkpt>
+   <trkpt lat="44.141172" lon="12.263049"><ele>29.5</ele></trkpt>
+   <trkpt lat="44.141585" lon="12.261902"><ele>30.25</ele></trkpt>
+   <trkpt lat="44.142243" lon="12.259845"><ele>30.75</ele></trkpt>
+   <trkpt lat="44.142946" lon="12.257602"><ele>32.5</ele></trkpt>
+   <trkpt lat="44.145467" lon="12.249485"><ele>33</ele></trkpt>
+   <trkpt lat="44.145467" lon="12.249482"><ele>32.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

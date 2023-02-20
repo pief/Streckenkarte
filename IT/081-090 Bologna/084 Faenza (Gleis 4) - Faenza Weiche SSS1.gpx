@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 262 filtered ascend = 0 plain-ascend = 1 cost=262 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Faenza (Gleis 4) - Faenza Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.29293/11.88445/standard,openrailwaymap&amp;lonlats=11.883232,44.293601;11.886089,44.292472&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.293602" lon="11.883232"><ele>32.75</ele></trkpt>
+   <trkpt lat="44.292471" lon="11.886086"><ele>33.25</ele></trkpt>
+   <trkpt lat="44.29247" lon="11.886087"><ele>33.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 406 filtered ascend = 0 plain-ascend = 0 cost=406 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Santarcangelo di Romagna Weiche WWW2 - Santarcangelo di Romagna (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.07027/12.45423/standard,openrailwaymap&amp;lonlats=12.449159,44.070313;12.454209,44.070317&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.07031" lon="12.449158"><ele>34.25</ele></trkpt>
+   <trkpt lat="44.070293" lon="12.450309"><ele>34.25</ele></trkpt>
+   <trkpt lat="44.070312" lon="12.454208"><ele>33.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

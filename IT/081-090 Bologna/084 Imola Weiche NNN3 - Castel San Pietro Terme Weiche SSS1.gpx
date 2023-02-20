@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 9572 filtered ascend = 19 plain-ascend = 11 cost=9572 energy=0.1kwh time=12m 46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Imola Weiche NNN3 - Castel San Pietro Terme Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/44.40511/11.60253/standard,openrailwaymap&amp;lonlats=11.710221,44.362763;11.605157,44.404369&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.362763" lon="11.710221"><ele>44.25</ele></trkpt>
+   <trkpt lat="44.362764" lon="11.710221"><ele>44.5</ele></trkpt>
+   <trkpt lat="44.366566" lon="11.700639"><ele>48.75</ele></trkpt>
+   <trkpt lat="44.366711" lon="11.700271"><ele>49.75</ele></trkpt>
+   <trkpt lat="44.372535" lon="11.685531"><ele>57.25</ele></trkpt>
+   <trkpt lat="44.381679" lon="11.662469"><ele>63.75</ele></trkpt>
+   <trkpt lat="44.383416" lon="11.658128"><ele>59.25</ele></trkpt>
+   <trkpt lat="44.383563" lon="11.657779"><ele>58</ele></trkpt>
+   <trkpt lat="44.390831" lon="11.63938"><ele>58.25</ele></trkpt>
+   <trkpt lat="44.39744" lon="11.622692"><ele>59.75</ele></trkpt>
+   <trkpt lat="44.404037" lon="11.606002"><ele>56</ele></trkpt>
+   <trkpt lat="44.404367" lon="11.605155"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

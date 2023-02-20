@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 448 filtered ascend = 0 plain-ascend = -2 cost=448 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Forli (Gleis 3) - Forli Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.22232/12.05966/standard,openrailwaymap&amp;lonlats=12.054839,44.224263;12.059716,44.222306&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.224263" lon="12.054839"><ele>26.75</ele></trkpt>
+   <trkpt lat="44.224262" lon="12.054844"><ele>26.75</ele></trkpt>
+   <trkpt lat="44.222304" lon="12.059713"><ele>24.25</ele></trkpt>
+   <trkpt lat="44.222303" lon="12.059714"><ele>24</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

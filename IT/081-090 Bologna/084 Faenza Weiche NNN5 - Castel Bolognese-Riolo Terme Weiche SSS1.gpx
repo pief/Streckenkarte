@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6078 filtered ascend = 3 plain-ascend = 3 cost=6078 energy=0.1kwh time=8m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Faenza Weiche NNN5 - Castel Bolognese-Riolo Terme Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/44.32400/11.80490/standard,openrailwaymap&amp;lonlats=11.875185,44.296811;11.808716,44.323528&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.296811" lon="11.875185"><ele>32.75</ele></trkpt>
+   <trkpt lat="44.298342" lon="11.871386"><ele>34.25</ele></trkpt>
+   <trkpt lat="44.311328" lon="11.839098"><ele>32.75</ele></trkpt>
+   <trkpt lat="44.315416" lon="11.828944"><ele>35.25</ele></trkpt>
+   <trkpt lat="44.315856" lon="11.827842"><ele>35.5</ele></trkpt>
+   <trkpt lat="44.323527" lon="11.808715"><ele>35.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

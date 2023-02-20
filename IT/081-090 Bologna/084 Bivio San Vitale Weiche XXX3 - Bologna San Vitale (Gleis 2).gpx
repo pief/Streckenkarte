@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 607 filtered ascend = 2 plain-ascend = 1 cost=607 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Bivio San Vitale Weiche XXX3 - Bologna San Vitale (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.49617/11.37303/standard&amp;lonlats=11.379854,44.493484;11.373268,44.496161&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.493485" lon="11.379855"><ele>51.5</ele></trkpt>
+   <trkpt lat="44.493488" lon="11.37985"><ele>51.75</ele></trkpt>
+   <trkpt lat="44.493528" lon="11.379751"><ele>51.75</ele></trkpt>
+   <trkpt lat="44.494252" lon="11.377964"><ele>50.75</ele></trkpt>
+   <trkpt lat="44.49455" lon="11.377265"><ele>51.25</ele></trkpt>
+   <trkpt lat="44.494637" lon="11.37706"><ele>51.5</ele></trkpt>
+   <trkpt lat="44.495367" lon="11.375276"><ele>53.25</ele></trkpt>
+   <trkpt lat="44.495554" lon="11.374799"><ele>54</ele></trkpt>
+   <trkpt lat="44.495606" lon="11.374669"><ele>54</ele></trkpt>
+   <trkpt lat="44.496163" lon="11.37327"><ele>52.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

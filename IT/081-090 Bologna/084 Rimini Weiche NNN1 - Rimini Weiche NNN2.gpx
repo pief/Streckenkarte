@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=61 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Rimini Weiche NNN1 - Rimini Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.06773/12.56608/standard,openrailwaymap&amp;lonlats=12.566273,44.067921;12.5669,44.06763&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.06792" lon="12.566272"><ele>2</ele></trkpt>
+   <trkpt lat="44.067632" lon="12.566899"><ele>1.5</ele></trkpt>
+   <trkpt lat="44.067631" lon="12.5669"><ele>1.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

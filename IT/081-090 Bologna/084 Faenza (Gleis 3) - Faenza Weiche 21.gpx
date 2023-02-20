@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 579 filtered ascend = 0 plain-ascend = 0 cost=579 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Faenza (Gleis 3) - Faenza Weiche 21</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.29597/11.87739/standard,openrailwaymap&amp;lonlats=11.883203,44.293576;11.876907,44.296114&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.293583" lon="11.883209"><ele>32.75</ele></trkpt>
+   <trkpt lat="44.293591" lon="11.883191"><ele>32.75</ele></trkpt>
+   <trkpt lat="44.294226" lon="11.881597"><ele>33</ele></trkpt>
+   <trkpt lat="44.296116" lon="11.876909"><ele>32.75</ele></trkpt>
+   <trkpt lat="44.296116" lon="11.876908"><ele>32.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

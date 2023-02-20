@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 14898 filtered ascend = 0 plain-ascend = -8 cost=14898 energy=0.2kwh time=19m 52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Faenza Weiche SSS4 - Forli Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/44.22578/12.05094/standard,openrailwaymap&amp;lonlats=11.88814,44.291635;12.050685,44.225989&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.291635" lon="11.88814"><ele>34</ele></trkpt>
+   <trkpt lat="44.291635" lon="11.888143"><ele>34</ele></trkpt>
+   <trkpt lat="44.28966" lon="11.893058"><ele>29</ele></trkpt>
+   <trkpt lat="44.288811" lon="11.89515"><ele>29</ele></trkpt>
+   <trkpt lat="44.263659" lon="11.95758"><ele>24.25</ele></trkpt>
+   <trkpt lat="44.238511" lon="12.019791"><ele>23.5</ele></trkpt>
+   <trkpt lat="44.238189" lon="12.020572"><ele>23.5</ele></trkpt>
+   <trkpt lat="44.230132" lon="12.040488"><ele>27.5</ele></trkpt>
+   <trkpt lat="44.227015" lon="12.048169"><ele>26.5</ele></trkpt>
+   <trkpt lat="44.226805" lon="12.048695"><ele>25.75</ele></trkpt>
+   <trkpt lat="44.226263" lon="12.050051"><ele>25.5</ele></trkpt>
+   <trkpt lat="44.226135" lon="12.050357"><ele>25.5</ele></trkpt>
+   <trkpt lat="44.22599" lon="12.050683"><ele>25.25</ele></trkpt>
+   <trkpt lat="44.225989" lon="12.050685"><ele>25.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

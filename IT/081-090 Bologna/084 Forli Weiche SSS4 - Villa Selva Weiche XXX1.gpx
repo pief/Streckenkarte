@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3746 filtered ascend = 2 plain-ascend = 1 cost=3746 energy=0.0kwh time=5m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>084 Forli Weiche SSS4 - Villa Selva Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/44.20334/12.10608/standard,openrailwaymap&amp;lonlats=12.063559,44.220738;12.104238,44.204043&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.220738" lon="12.063559"><ele>23.25</ele></trkpt>
+   <trkpt lat="44.218657" lon="12.068653"><ele>21.5</ele></trkpt>
+   <trkpt lat="44.218495" lon="12.069034"><ele>20.5</ele></trkpt>
+   <trkpt lat="44.216668" lon="12.073582"><ele>20.5</ele></trkpt>
+   <trkpt lat="44.210986" lon="12.087445"><ele>15.25</ele></trkpt>
+   <trkpt lat="44.210583" lon="12.088424"><ele>15.25</ele></trkpt>
+   <trkpt lat="44.205575" lon="12.100531"><ele>25.5</ele></trkpt>
+   <trkpt lat="44.204042" lon="12.104234"><ele>24.75</ele></trkpt>
+   <trkpt lat="44.204041" lon="12.104236"><ele>24.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
