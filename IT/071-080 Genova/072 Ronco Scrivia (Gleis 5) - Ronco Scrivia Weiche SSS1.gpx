@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 250 filtered ascend = 2 plain-ascend = 2 cost=250 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>072 Ronco Scrivia (Gleis 5) - Ronco Scrivia Weiche SSS1</name>
+  <trkseg>
+   <trkpt lat="44.61549" lon="8.948519"><ele>323</ele></trkpt>
+   <trkpt lat="44.614935" lon="8.948945"><ele>321.75</ele></trkpt>
+   <trkpt lat="44.614502" lon="8.949291"><ele>322.25</ele></trkpt>
+   <trkpt lat="44.614089" lon="8.949638"><ele>324.25</ele></trkpt>
+   <trkpt lat="44.61356" lon="8.950067"><ele>325.25</ele></trkpt>
+   <trkpt lat="44.613561" lon="8.950066"><ele>325</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
