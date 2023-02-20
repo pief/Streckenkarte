@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 867 filtered ascend = 1 plain-ascend = 2 cost=867 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>205000 Vireux-Molhain Weiche SSS1 - Vireux-Molhain (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/50.08273/4.72335/standard&amp;lonlats=4.722915,50.075056;4.723186,50.08282&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.075055" lon="4.722914"><ele>111.75</ele></trkpt>
+   <trkpt lat="50.075054" lon="4.722914"><ele>111.75</ele></trkpt>
+   <trkpt lat="50.075221" lon="4.722915"><ele>111.5</ele></trkpt>
+   <trkpt lat="50.082777" lon="4.723186"><ele>113.25</ele></trkpt>
+   <trkpt lat="50.082819" lon="4.723187"><ele>113.5</ele></trkpt>
+   <trkpt lat="50.082819" lon="4.723187"><ele>113.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

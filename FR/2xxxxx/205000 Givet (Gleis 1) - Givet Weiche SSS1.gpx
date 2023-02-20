@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 245 filtered ascend = 3 plain-ascend = 4 cost=245 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>205000 Givet (Gleis 1) - Givet Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.14003/4.81880/standard&amp;lonlats=4.817673,50.140298;4.817478,50.138142&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.140296" lon="4.817673"><ele>102</ele></trkpt>
+   <trkpt lat="50.140289" lon="4.817673"><ele>102.25</ele></trkpt>
+   <trkpt lat="50.139935" lon="4.817663"><ele>102.75</ele></trkpt>
+   <trkpt lat="50.139321" lon="4.817666"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.139052" lon="4.817652"><ele>104.25</ele></trkpt>
+   <trkpt lat="50.13881" lon="4.817636"><ele>104.25</ele></trkpt>
+   <trkpt lat="50.138542" lon="4.817592"><ele>104.5</ele></trkpt>
+   <trkpt lat="50.13837" lon="4.81755"><ele>104.75</ele></trkpt>
+   <trkpt lat="50.138225" lon="4.817501"><ele>105.25</ele></trkpt>
+   <trkpt lat="50.138141" lon="4.817478"><ele>105.5</ele></trkpt>
+   <trkpt lat="50.138141" lon="4.817478"><ele>105.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

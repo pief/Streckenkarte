@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 351 filtered ascend = 0 plain-ascend = -1 cost=351 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>205000 Charleville-Mézières (Gleis 5) - Charleville-Mézières Weiche 72</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.77035/4.72813/standard&amp;lonlats=4.725639,49.76772;4.727718,49.770508&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.767718" lon="4.725639"><ele>149</ele></trkpt>
+   <trkpt lat="49.76776" lon="4.725661"><ele>149.25</ele></trkpt>
+   <trkpt lat="49.768315" lon="4.725971"><ele>148.5</ele></trkpt>
+   <trkpt lat="49.768805" lon="4.726256"><ele>148.5</ele></trkpt>
+   <trkpt lat="49.769101" lon="4.72645"><ele>148.75</ele></trkpt>
+   <trkpt lat="49.769516" lon="4.726766"><ele>148.75</ele></trkpt>
+   <trkpt lat="49.769699" lon="4.726925"><ele>148.75</ele></trkpt>
+   <trkpt lat="49.7701" lon="4.727285"><ele>148.75</ele></trkpt>
+   <trkpt lat="49.770336" lon="4.727509"><ele>148</ele></trkpt>
+   <trkpt lat="49.770509" lon="4.727716"><ele>147.5</ele></trkpt>
+   <trkpt lat="49.770509" lon="4.727716"><ele>147.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 0 plain-ascend = 0 cost=200 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>205000 Fumay (Gleis 1) - Fumay Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/49.98768/4.69343/standard&amp;lonlats=4.692503,49.986083;4.693109,49.987819&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.986081" lon="4.692503"><ele>128.5</ele></trkpt>
+   <trkpt lat="49.986106" lon="4.692512"><ele>128.75</ele></trkpt>
+   <trkpt lat="49.987379" lon="4.692954"><ele>128</ele></trkpt>
+   <trkpt lat="49.987819" lon="4.693109"><ele>127.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
