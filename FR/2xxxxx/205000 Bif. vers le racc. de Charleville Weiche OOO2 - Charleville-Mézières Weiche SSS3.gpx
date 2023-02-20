@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 217 filtered ascend = 2 plain-ascend = 2 cost=218 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>205000 Bif. vers le racc. de Charleville Weiche OOO2 - Charleville-Mézières Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.76519/4.72515/standard&amp;lonlats=4.725697,49.763483;4.724936,49.765339&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.763483" lon="4.725697"><ele>143.5</ele></trkpt>
+   <trkpt lat="49.763996" lon="4.725443"><ele>145.25</ele></trkpt>
+   <trkpt lat="49.764583" lon="4.725151"><ele>145.75</ele></trkpt>
+   <trkpt lat="49.764846" lon="4.725047"><ele>145.75</ele></trkpt>
+   <trkpt lat="49.765094" lon="4.724982"><ele>145.75</ele></trkpt>
+   <trkpt lat="49.765268" lon="4.724952"><ele>145.5</ele></trkpt>
+   <trkpt lat="49.765338" lon="4.724936"><ele>145.5</ele></trkpt>
+   <trkpt lat="49.765339" lon="4.724936"><ele>145.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

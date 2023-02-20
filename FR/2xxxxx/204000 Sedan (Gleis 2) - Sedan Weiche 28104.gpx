@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 0 plain-ascend = 0 cost=301 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>204000 Sedan (Gleis 2) - Sedan Weiche 28104</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.69629/4.92689/standard&amp;lonlats=4.930131,49.694837;4.926714,49.69636&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.694834" lon="4.930127"><ele>157</ele></trkpt>
+   <trkpt lat="49.695297" lon="4.92909"><ele>156.75</ele></trkpt>
+   <trkpt lat="49.696358" lon="4.926711"><ele>157</ele></trkpt>
+   <trkpt lat="49.696357" lon="4.926711"><ele>156.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

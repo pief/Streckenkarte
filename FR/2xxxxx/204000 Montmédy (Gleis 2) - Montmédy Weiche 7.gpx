@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 5 plain-ascend = 5 cost=264 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>204000 Montmédy (Gleis 2) - Montmédy Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.52297/5.36857/standard&amp;lonlats=5.371639,49.523083;5.368036,49.522931&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.523084" lon="5.371637"><ele>199</ele></trkpt>
+   <trkpt lat="49.523083" lon="5.371621"><ele>199.25</ele></trkpt>
+   <trkpt lat="49.523083" lon="5.37161"><ele>199.25</ele></trkpt>
+   <trkpt lat="49.522954" lon="5.370022"><ele>197.75</ele></trkpt>
+   <trkpt lat="49.522919" lon="5.369417"><ele>199.25</ele></trkpt>
+   <trkpt lat="49.522904" lon="5.368841"><ele>201</ele></trkpt>
+   <trkpt lat="49.522913" lon="5.368388"><ele>203</ele></trkpt>
+   <trkpt lat="49.522929" lon="5.368035"><ele>204</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

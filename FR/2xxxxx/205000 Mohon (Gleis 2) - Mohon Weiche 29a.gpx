@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 1 plain-ascend = 1 cost=111 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>205000 Mohon (Gleis 2) - Mohon Weiche 29a</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.75319/4.73258/standard&amp;lonlats=4.733282,49.752694;4.732169,49.75334&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.752693" lon="4.733281"><ele>149.5</ele></trkpt>
+   <trkpt lat="49.752696" lon="4.733277"><ele>149.75</ele></trkpt>
+   <trkpt lat="49.752697" lon="4.733275"><ele>149.75</ele></trkpt>
+   <trkpt lat="49.753052" lon="4.73265"><ele>150</ele></trkpt>
+   <trkpt lat="49.753339" lon="4.732168"><ele>150.75</ele></trkpt>
+   <trkpt lat="49.753339" lon="4.732167"><ele>150.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
