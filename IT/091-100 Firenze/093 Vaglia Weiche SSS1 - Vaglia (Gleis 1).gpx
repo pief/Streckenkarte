@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 332 filtered ascend = 1 plain-ascend = 2 cost=332 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>093 Vaglia Weiche SSS1 - Vaglia (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.90602/11.28306/standard,openrailwaymap&amp;lonlats=11.283579,43.903105;11.283246,43.90605&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.903104" lon="11.283575"><ele>294</ele></trkpt>
+   <trkpt lat="43.903103" lon="11.283576"><ele>294.25</ele></trkpt>
+   <trkpt lat="43.903586" lon="11.283491"><ele>289.5</ele></trkpt>
+   <trkpt lat="43.903823" lon="11.283466"><ele>288.5</ele></trkpt>
+   <trkpt lat="43.904107" lon="11.283437"><ele>287.5</ele></trkpt>
+   <trkpt lat="43.906041" lon="11.283239"><ele>295.75</ele></trkpt>
+   <trkpt lat="43.906049" lon="11.283238"><ele>295.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

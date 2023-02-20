@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 0 plain-ascend = -3 cost=327 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>093 Montorsoli Weiche SSS1 - Montorsoli (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.83581/11.28236/standard,openrailwaymap&amp;lonlats=11.284257,43.833168;11.282623,43.835831&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.833167" lon="11.284256"><ele>256.75</ele></trkpt>
+   <trkpt lat="43.833164" lon="11.284259"><ele>257</ele></trkpt>
+   <trkpt lat="43.833642" lon="11.283875"><ele>252.75</ele></trkpt>
+   <trkpt lat="43.834359" lon="11.283453"><ele>248.5</ele></trkpt>
+   <trkpt lat="43.835834" lon="11.282636"><ele>252.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = 0 cost=59 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>093 Marradi-Palazzuolo Sul Senio Weiche NNN1 - Marradi-Palazzuolo Sul Senio Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.08220/11.62208/standard,openrailwaymap&amp;lonlats=11.621295,44.081809;11.621711,44.082223&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.081806" lon="11.621296"><ele>323.25</ele></trkpt>
+   <trkpt lat="44.081812" lon="11.621302"><ele>323.5</ele></trkpt>
+   <trkpt lat="44.082224" lon="11.621711"><ele>323.25</ele></trkpt>
+   <trkpt lat="44.082222" lon="11.62171"><ele>323</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

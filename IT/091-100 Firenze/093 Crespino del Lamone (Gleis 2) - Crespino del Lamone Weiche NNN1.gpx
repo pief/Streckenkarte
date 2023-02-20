@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 1 plain-ascend = 1 cost=211 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>093 Crespino del Lamone (Gleis 2) - Crespino del Lamone Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/44.04343/11.54837/standard,openrailwaymap&amp;lonlats=11.548438,44.041809;11.548144,44.043643&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.041809" lon="11.548451"><ele>524.25</ele></trkpt>
+   <trkpt lat="44.0429" lon="11.548388"><ele>523.25</ele></trkpt>
+   <trkpt lat="44.043137" lon="11.548344"><ele>522.5</ele></trkpt>
+   <trkpt lat="44.043359" lon="11.548276"><ele>523.75</ele></trkpt>
+   <trkpt lat="44.043449" lon="11.548243"><ele>524.25</ele></trkpt>
+   <trkpt lat="44.043648" lon="11.548147"><ele>525.5</ele></trkpt>
+   <trkpt lat="44.043643" lon="11.548148"><ele>525.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

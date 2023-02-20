@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>093 Borgo San Lorenzo Weiche OOO1 - Borgo San Lorenzo Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.95963/11.38255/standard,openrailwaymap&amp;lonlats=11.38234,43.959818;11.382788,43.959816&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.959817" lon="11.382339"><ele>209.25</ele></trkpt>
+   <trkpt lat="43.959817" lon="11.382342"><ele>209.25</ele></trkpt>
+   <trkpt lat="43.959813" lon="11.382783"><ele>208.25</ele></trkpt>
+   <trkpt lat="43.959813" lon="11.382787"><ele>208</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

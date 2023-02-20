@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 313 filtered ascend = 0 plain-ascend = -2 cost=313 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>093 San Piero a Sieve Weiche WWW1 - San Piero a Sieve (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/43.95845/11.32225/standard,openrailwaymap&amp;lonlats=11.318922,43.957462;11.322612,43.958322&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.95746" lon="11.318921"><ele>212</ele></trkpt>
+   <trkpt lat="43.957461" lon="11.318925"><ele>212</ele></trkpt>
+   <trkpt lat="43.957731" lon="11.319961"><ele>210</ele></trkpt>
+   <trkpt lat="43.958322" lon="11.32261"><ele>209.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

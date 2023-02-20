@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 3 plain-ascend = 4 cost=301 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>093 Fiesole Caldine (Gleis 1) - Fiesole Caldine Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/43.83242/11.30999/standard,openrailwaymap&amp;lonlats=11.307949,43.830397;11.310136,43.832563&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.830395" lon="11.307949"><ele>169.25</ele></trkpt>
+   <trkpt lat="43.830397" lon="11.307952"><ele>169.5</ele></trkpt>
+   <trkpt lat="43.831362" lon="11.308957"><ele>169.25</ele></trkpt>
+   <trkpt lat="43.831474" lon="11.309074"><ele>168.75</ele></trkpt>
+   <trkpt lat="43.831651" lon="11.309258"><ele>168.25</ele></trkpt>
+   <trkpt lat="43.832137" lon="11.309706"><ele>170.75</ele></trkpt>
+   <trkpt lat="43.832563" lon="11.310136"><ele>172.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
