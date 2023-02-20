@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 1 plain-ascend = 2 cost=123 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Saint-Martin-du-Var (Westgleis) - Saint-Martin-du-Var Weiche NNN1</name>
+  <trkseg>
+   <trkpt lat="43.820824" lon="7.188149"><ele>104.25</ele></trkpt>
+   <trkpt lat="43.821361" lon="7.188269"><ele>105.5</ele></trkpt>
+   <trkpt lat="43.821897" lon="7.188433"><ele>106</ele></trkpt>
+   <trkpt lat="43.821902" lon="7.188434"><ele>106</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

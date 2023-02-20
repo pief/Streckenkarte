@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = -1 cost=128 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Saint-Martin-du-Var (Mittelgleis) - Saint-Martin-du-Var Weiche SSS2</name>
+  <trkseg>
+   <trkpt lat="43.820812" lon="7.188224"><ele>104.75</ele></trkpt>
+   <trkpt lat="43.820783" lon="7.188218"><ele>104.75</ele></trkpt>
+   <trkpt lat="43.820306" lon="7.188125"><ele>103.75</ele></trkpt>
+   <trkpt lat="43.819944" lon="7.18804"><ele>103</ele></trkpt>
+   <trkpt lat="43.819695" lon="7.187992"><ele>103</ele></trkpt>
+   <trkpt lat="43.819695" lon="7.187992"><ele>103</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
