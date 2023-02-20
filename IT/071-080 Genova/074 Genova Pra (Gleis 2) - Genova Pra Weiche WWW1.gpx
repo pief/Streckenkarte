@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 510 filtered ascend = 3 plain-ascend = 3 cost=510 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>074 Genova Pra (Gleis 2) - Genova Pra Weiche WWW1</name>
+  <trkseg>
+   <trkpt lat="44.425291" lon="8.789056"/>
+   <trkpt lat="44.425572" lon="8.787336"/>
+   <trkpt lat="44.425846" lon="8.785572"><ele>4.25</ele></trkpt>
+   <trkpt lat="44.426041" lon="8.784475"><ele>7.5</ele></trkpt>
+   <trkpt lat="44.426307" lon="8.78284"><ele>7.5</ele></trkpt>
+   <trkpt lat="44.426306" lon="8.782842"><ele>7.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
