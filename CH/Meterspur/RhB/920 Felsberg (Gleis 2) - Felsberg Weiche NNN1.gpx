@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 149 filtered ascend = 0 plain-ascend = 0 cost=149 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>920 Felsberg (Gleis 2) - Felsberg Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.84337/9.48321/standard&amp;lonlats=9.481281,46.843001;9.483079,46.843467">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.843" lon="9.48128"><ele>566.75</ele></trkpt>
+   <trkpt lat="46.843468" lon="9.483088"><ele>566</ele></trkpt>
+   <trkpt lat="46.843465" lon="9.483079"><ele>566</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

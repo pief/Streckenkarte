@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 201 filtered ascend = 0 plain-ascend = -4 cost=201 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>920 Reichenau-Tamins (Gleis 4) - Reichenau-Tamins Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.82516/9.41497/standard&amp;lonlats=9.413491,46.823903;9.414867,46.825342">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.8239" lon="9.413493"><ele>607.5</ele></trkpt>
+   <trkpt lat="46.82406" lon="9.413777"><ele>605.25</ele></trkpt>
+   <trkpt lat="46.824176" lon="9.413958"><ele>603</ele></trkpt>
+   <trkpt lat="46.824315" lon="9.414145"><ele>602.5</ele></trkpt>
+   <trkpt lat="46.824472" lon="9.414321"><ele>602.25</ele></trkpt>
+   <trkpt lat="46.824557" lon="9.414404"><ele>602</ele></trkpt>
+   <trkpt lat="46.824725" lon="9.414543"><ele>602</ele></trkpt>
+   <trkpt lat="46.824879" lon="9.41465"><ele>602</ele></trkpt>
+   <trkpt lat="46.825024" lon="9.414734"><ele>602</ele></trkpt>
+   <trkpt lat="46.825339" lon="9.414874"><ele>602.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

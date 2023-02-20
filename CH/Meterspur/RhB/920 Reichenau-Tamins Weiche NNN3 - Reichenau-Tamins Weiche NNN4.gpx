@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = -10 cost=121 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>920 Reichenau-Tamins Weiche NNN3 - Reichenau-Tamins Weiche NNN4</name>
+  <link href="https://bikerouter.de/#map=19/46.82773/9.41994/standard&amp;lonlats=9.420562,46.827851;9.419012,46.827691">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.827851" lon="9.42056"><ele>623.5</ele></trkpt>
+   <trkpt lat="46.827694" lon="9.419011"><ele>612.5</ele></trkpt>
+   <trkpt lat="46.827694" lon="9.419011"><ele>612.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

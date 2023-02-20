@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 1 plain-ascend = 2 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>920 Chur Weiche 127 - Chur Weiche 128</name>
+  <link href="https://bikerouter.de/#map=19/46.85273/9.52742/standard&amp;lonlats=9.525931,46.85238;9.526667,46.852645">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.85238" lon="9.525929"><ele>586.25</ele></trkpt>
+   <trkpt lat="46.852382" lon="9.525934"><ele>586.5</ele></trkpt>
+   <trkpt lat="46.852536" lon="9.526403"><ele>587.25</ele></trkpt>
+   <trkpt lat="46.852643" lon="9.526667"><ele>587.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
