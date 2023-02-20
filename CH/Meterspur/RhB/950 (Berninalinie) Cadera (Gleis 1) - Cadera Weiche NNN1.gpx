@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 237 filtered ascend = 25 plain-ascend = 26 cost=237 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Cadera (Gleis 1) - Cadera Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.34709/10.05251/osm-mapnik-german_style&amp;lonlats=10.051364,46.345269;10.052096,46.347257">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.345269" lon="10.05136"><ele>1387.25</ele></trkpt>
+   <trkpt lat="46.345751" lon="10.051771"><ele>1391.25</ele></trkpt>
+   <trkpt lat="46.345925" lon="10.051883"><ele>1392.5</ele></trkpt>
+   <trkpt lat="46.346066" lon="10.051949"><ele>1393.75</ele></trkpt>
+   <trkpt lat="46.346203" lon="10.051989"><ele>1395.25</ele></trkpt>
+   <trkpt lat="46.346351" lon="10.052012"><ele>1397.25</ele></trkpt>
+   <trkpt lat="46.347256" lon="10.052096"><ele>1412.75</ele></trkpt>
+   <trkpt lat="46.347256" lon="10.052096"><ele>1412.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

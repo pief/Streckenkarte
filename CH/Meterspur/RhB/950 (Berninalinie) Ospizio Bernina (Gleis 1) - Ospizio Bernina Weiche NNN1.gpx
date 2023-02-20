@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 1 plain-ascend = -6 cost=218 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Ospizio Bernina (Gleis 1) - Ospizio Bernina Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.41020/10.01882/osm-mapnik-german_style&amp;lonlats=10.019749,46.408714;10.018346,46.410383">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.408715" lon="10.019752"><ele>2249.25</ele></trkpt>
+   <trkpt lat="46.408756" lon="10.019718"><ele>2249.25</ele></trkpt>
+   <trkpt lat="46.409067" lon="10.019452"><ele>2250</ele></trkpt>
+   <trkpt lat="46.409096" lon="10.019427"><ele>2250.25</ele></trkpt>
+   <trkpt lat="46.410158" lon="10.018514"><ele>2245.25</ele></trkpt>
+   <trkpt lat="46.410257" lon="10.018432"><ele>2244</ele></trkpt>
+   <trkpt lat="46.410381" lon="10.018342"><ele>2242.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

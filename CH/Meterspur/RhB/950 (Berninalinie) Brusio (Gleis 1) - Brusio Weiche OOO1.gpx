@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 178 filtered ascend = 0 plain-ascend = -1 cost=178 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Brusio (Gleis 1) - Brusio Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/46.25932/10.12509/osm-mapnik-german_style&amp;lonlats=10.125051,46.259238;10.127108,46.258958">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.259238" lon="10.125049"><ele>777.25</ele></trkpt>
+   <trkpt lat="46.259251" lon="10.12525"><ele>777</ele></trkpt>
+   <trkpt lat="46.259256" lon="10.12532"><ele>777</ele></trkpt>
+   <trkpt lat="46.25928" lon="10.1257"><ele>776</ele></trkpt>
+   <trkpt lat="46.259281" lon="10.125858"><ele>775.5</ele></trkpt>
+   <trkpt lat="46.259274" lon="10.126003"><ele>775.5</ele></trkpt>
+   <trkpt lat="46.259237" lon="10.126588"><ele>775</ele></trkpt>
+   <trkpt lat="46.259209" lon="10.126732"><ele>775.25</ele></trkpt>
+   <trkpt lat="46.259171" lon="10.126844"><ele>775.75</ele></trkpt>
+   <trkpt lat="46.259116" lon="10.126949"><ele>775.75</ele></trkpt>
+   <trkpt lat="46.259055" lon="10.127021"><ele>775.75</ele></trkpt>
+   <trkpt lat="46.258958" lon="10.127108"><ele>775</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

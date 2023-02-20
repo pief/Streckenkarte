@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 131 filtered ascend = 0 plain-ascend = -1 cost=131 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Bernina Suot (Gleis 1) - Bernina Suot Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.44551/9.96826/osm-mapnik-german_style&amp;lonlats=9.969141,46.445045;9.96785,46.445712">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.445043" lon="9.96914"><ele>2045.75</ele></trkpt>
+   <trkpt lat="46.445061" lon="9.969055"><ele>2045.75</ele></trkpt>
+   <trkpt lat="46.445105" lon="9.968886"><ele>2046</ele></trkpt>
+   <trkpt lat="46.44515" lon="9.968755"><ele>2046.25</ele></trkpt>
+   <trkpt lat="46.445204" lon="9.968618"><ele>2046.25</ele></trkpt>
+   <trkpt lat="46.445261" lon="9.9685"><ele>2046.25</ele></trkpt>
+   <trkpt lat="46.445321" lon="9.968387"><ele>2046.25</ele></trkpt>
+   <trkpt lat="46.445499" lon="9.968088"><ele>2046.25</ele></trkpt>
+   <trkpt lat="46.445584" lon="9.967973"><ele>2045.75</ele></trkpt>
+   <trkpt lat="46.445706" lon="9.967853"><ele>2044.5</ele></trkpt>
+   <trkpt lat="46.445711" lon="9.967848"><ele>2044.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

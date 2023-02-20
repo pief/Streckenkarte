@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 2 plain-ascend = 3 cost=400 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Pradei Weiche NNN1 - (Östliches Gleis) - Pradei Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/46.32237/10.05537/osm-mapnik-german_style&amp;lonlats=10.056554,46.319328;10.055736,46.321607;10.054743,46.322549">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.319328" lon="10.056555"><ele>1008</ele></trkpt>
+   <trkpt lat="46.319327" lon="10.056556"><ele>1008</ele></trkpt>
+   <trkpt lat="46.319766" lon="10.056412"><ele>1008.25</ele></trkpt>
+   <trkpt lat="46.320111" lon="10.056297"><ele>1008.5</ele></trkpt>
+   <trkpt lat="46.321328" lon="10.055884"><ele>1009.25</ele></trkpt>
+   <trkpt lat="46.321477" lon="10.055809"><ele>1009.75</ele></trkpt>
+   <trkpt lat="46.321604" lon="10.055728"><ele>1010</ele></trkpt>
+   <trkpt lat="46.321627" lon="10.055714"><ele>1010.25</ele></trkpt>
+   <trkpt lat="46.321755" lon="10.055609"><ele>1010.5</ele></trkpt>
+   <trkpt lat="46.321904" lon="10.055461"><ele>1010.75</ele></trkpt>
+   <trkpt lat="46.322133" lon="10.055182"><ele>1010.75</ele></trkpt>
+   <trkpt lat="46.322276" lon="10.055003"><ele>1010.75</ele></trkpt>
+   <trkpt lat="46.322372" lon="10.054899"><ele>1010.75</ele></trkpt>
+   <trkpt lat="46.322549" lon="10.054748"><ele>1010.75</ele></trkpt>
+   <trkpt lat="46.32255" lon="10.054747"><ele>1010.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

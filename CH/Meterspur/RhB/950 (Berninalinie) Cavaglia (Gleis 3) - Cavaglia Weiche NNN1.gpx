@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 1 plain-ascend = 2 cost=102 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Cavaglia (Gleis 3) - Cavaglia Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.36472/10.04447/osm-mapnik-german_style&amp;lonlats=10.044197,46.364336;10.04336,46.365006">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.364337" lon="10.044199"><ele>1691.5</ele></trkpt>
+   <trkpt lat="46.364465" lon="10.044056"><ele>1691.75</ele></trkpt>
+   <trkpt lat="46.364657" lon="10.04384"><ele>1692.5</ele></trkpt>
+   <trkpt lat="46.365011" lon="10.043359"><ele>1693.25</ele></trkpt>
+   <trkpt lat="46.365007" lon="10.043362"><ele>1693</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

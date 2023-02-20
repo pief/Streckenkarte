@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 113 filtered ascend = 3 plain-ascend = 3 cost=113 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Alp Grüm (Gleis 1) - Alp Grüm Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/46.37506/10.03163/osm-mapnik-german_style&amp;lonlats=10.031362,46.374547;10.030539,46.375367">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.374547" lon="10.031362"><ele>2086</ele></trkpt>
+   <trkpt lat="46.374936" lon="10.030971"><ele>2086</ele></trkpt>
+   <trkpt lat="46.375257" lon="10.030648"><ele>2088.5</ele></trkpt>
+   <trkpt lat="46.375364" lon="10.030539"><ele>2089.25</ele></trkpt>
+   <trkpt lat="46.375366" lon="10.030536"><ele>2089.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

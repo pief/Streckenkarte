@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 158 filtered ascend = 5 plain-ascend = 4 cost=158 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Surovas (Gleis 2) - Surovas Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/46.48529/9.90781/osm-mapnik-german_style&amp;lonlats=9.905926,46.485497;9.907265,46.48446">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.485495" lon="9.905924"><ele>1826.25</ele></trkpt>
+   <trkpt lat="46.484946" lon="9.906522"><ele>1829.5</ele></trkpt>
+   <trkpt lat="46.484691" lon="9.906863"><ele>1831.75</ele></trkpt>
+   <trkpt lat="46.484552" lon="9.907084"><ele>1831.5</ele></trkpt>
+   <trkpt lat="46.484457" lon="9.907261"><ele>1830.25</ele></trkpt>
+   <trkpt lat="46.484456" lon="9.907261"><ele>1830</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

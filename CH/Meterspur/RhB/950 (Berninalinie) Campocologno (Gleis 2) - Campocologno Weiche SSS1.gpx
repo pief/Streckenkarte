@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 133 filtered ascend = 0 plain-ascend = -6 cost=133 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Campocologno (Gleis 2) - Campocologno Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/46.23367/10.14197/osm-mapnik-german_style&amp;lonlats=10.141518,46.23363;10.142583,46.232711">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.233625" lon="10.14151"><ele>553</ele></trkpt>
+   <trkpt lat="46.233294" lon="10.141921"><ele>552</ele></trkpt>
+   <trkpt lat="46.233116" lon="10.142129"><ele>550.75</ele></trkpt>
+   <trkpt lat="46.233082" lon="10.142168"><ele>550.5</ele></trkpt>
+   <trkpt lat="46.232711" lon="10.142583"><ele>546.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

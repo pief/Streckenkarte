@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = -3 cost=100 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>950 (Berninalinie) Poschiavo Weiche SSS1 - Pradei Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/46.32365/10.05408/osm-mapnik-german_style&amp;lonlats=10.05447,46.323388;10.054747,46.32255">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.323388" lon="10.054471"><ele>1014.75</ele></trkpt>
+   <trkpt lat="46.323387" lon="10.054472"><ele>1014.75</ele></trkpt>
+   <trkpt lat="46.323258" lon="10.054484"><ele>1014.5</ele></trkpt>
+   <trkpt lat="46.323178" lon="10.054495"><ele>1014</ele></trkpt>
+   <trkpt lat="46.323137" lon="10.054501"><ele>1013.75</ele></trkpt>
+   <trkpt lat="46.323044" lon="10.054517"><ele>1013.25</ele></trkpt>
+   <trkpt lat="46.322884" lon="10.054563"><ele>1012.5</ele></trkpt>
+   <trkpt lat="46.322705" lon="10.054646"><ele>1011.5</ele></trkpt>
+   <trkpt lat="46.32255" lon="10.054747"><ele>1010.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
