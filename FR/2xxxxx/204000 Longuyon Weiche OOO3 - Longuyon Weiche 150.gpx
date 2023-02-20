@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 208 filtered ascend = 0 plain-ascend = -3 cost=208 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>204000 Longuyon Weiche OOO3 - Longuyon Weiche 150</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44070/5.60953/standard&amp;lonlats=5.612291,49.440512;5.60951,49.440639&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.440512" lon="5.612291"><ele>223.5</ele></trkpt>
+   <trkpt lat="49.440512" lon="5.612293"><ele>223.75</ele></trkpt>
+   <trkpt lat="49.440498" lon="5.611754"><ele>222</ele></trkpt>
+   <trkpt lat="49.440497" lon="5.61109"><ele>220.75</ele></trkpt>
+   <trkpt lat="49.440511" lon="5.610651"><ele>220.25</ele></trkpt>
+   <trkpt lat="49.440545" lon="5.610218"><ele>220</ele></trkpt>
+   <trkpt lat="49.440568" lon="5.610011"><ele>220</ele></trkpt>
+   <trkpt lat="49.440637" lon="5.609509"><ele>220</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
