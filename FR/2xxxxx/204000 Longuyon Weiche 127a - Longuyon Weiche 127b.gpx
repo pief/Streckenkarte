@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 0 plain-ascend = 0 cost=82 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>204000 Longuyon Weiche 127a - Longuyon Weiche 127b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44555/5.60466/standard&amp;lonlats=5.604233,49.445553;5.604456,49.444852&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.445553" lon="5.604234"><ele>217.75</ele></trkpt>
+   <trkpt lat="49.445551" lon="5.604235"><ele>217.75</ele></trkpt>
+   <trkpt lat="49.444852" lon="5.604456"><ele>217.25</ele></trkpt>
+   <trkpt lat="49.444852" lon="5.604456"><ele>217.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
