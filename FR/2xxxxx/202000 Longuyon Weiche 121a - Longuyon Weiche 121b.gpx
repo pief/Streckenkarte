@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 134 filtered ascend = 3 plain-ascend = 2 cost=134 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>202000 Longuyon Weiche 121a - Longuyon Weiche 121b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44751/5.60382/standard&amp;lonlats=5.603275,49.448141;5.603481,49.447004&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.44814" lon="5.603274"><ele>217.5</ele></trkpt>
+   <trkpt lat="49.448144" lon="5.603275"><ele>217.5</ele></trkpt>
+   <trkpt lat="49.44788" lon="5.603265"><ele>218.5</ele></trkpt>
+   <trkpt lat="49.44769" lon="5.60328"><ele>219.5</ele></trkpt>
+   <trkpt lat="49.447492" lon="5.60331"><ele>220.5</ele></trkpt>
+   <trkpt lat="49.447348" lon="5.603347"><ele>220</ele></trkpt>
+   <trkpt lat="49.447002" lon="5.603482"><ele>219.5</ele></trkpt>
+   <trkpt lat="49.447004" lon="5.603481"><ele>219.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
