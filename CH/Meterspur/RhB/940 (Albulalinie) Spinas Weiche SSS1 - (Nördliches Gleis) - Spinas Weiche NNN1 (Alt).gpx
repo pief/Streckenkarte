@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 20 plain-ascend = 21 cost=359 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 (Albulalinie) Spinas Weiche SSS1 - (Nördliches Gleis) - Spinas Weiche NNN1 (Alt)</name>
+  <link href="https://bikerouter.de/#map=19/46.56039/9.84533/osm-mapnik-german_style&amp;lonlats=9.848071,46.558757;9.845024,46.56;9.844101,46.560387">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.558756" lon="9.84807"><ele>1807.75</ele></trkpt>
+   <trkpt lat="46.55886" lon="9.847786"><ele>1808.75</ele></trkpt>
+   <trkpt lat="46.558979" lon="9.847491"><ele>1809.25</ele></trkpt>
+   <trkpt lat="46.559948" lon="9.845152"><ele>1818.25</ele></trkpt>
+   <trkpt lat="46.560002" lon="9.845026"><ele>1819</ele></trkpt>
+   <trkpt lat="46.560028" lon="9.844969"><ele>1819.5</ele></trkpt>
+   <trkpt lat="46.560387" lon="9.844105"><ele>1828.75</ele></trkpt>
+   <trkpt lat="46.560388" lon="9.844102"><ele>1828.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

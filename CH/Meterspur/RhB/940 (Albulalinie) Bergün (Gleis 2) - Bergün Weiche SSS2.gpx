@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 158 filtered ascend = 2 plain-ascend = 2 cost=158 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 (Albulalinie) Bergün (Gleis 2) - Bergün Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/46.63101/9.74780/osm-mapnik-german_style&amp;lonlats=9.746673,46.63145;9.747955,46.63042">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.631449" lon="9.746672"><ele>1376</ele></trkpt>
+   <trkpt lat="46.630874" lon="9.747238"><ele>1377</ele></trkpt>
+   <trkpt lat="46.630798" lon="9.747313"><ele>1376.25</ele></trkpt>
+   <trkpt lat="46.630699" lon="9.747428"><ele>1376.25</ele></trkpt>
+   <trkpt lat="46.63056" lon="9.747637"><ele>1377</ele></trkpt>
+   <trkpt lat="46.630499" lon="9.74776"><ele>1377.5</ele></trkpt>
+   <trkpt lat="46.630423" lon="9.747956"><ele>1378.25</ele></trkpt>
+   <trkpt lat="46.630422" lon="9.747956"><ele>1378.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

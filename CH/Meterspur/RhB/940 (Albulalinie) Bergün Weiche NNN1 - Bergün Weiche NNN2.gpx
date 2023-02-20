@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 1 plain-ascend = -3 cost=85 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 (Albulalinie) Bergün Weiche NNN1 - Bergün Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/46.63274/9.74526/osm-mapnik-german_style&amp;lonlats=9.745015,46.632966;9.745726,46.632404">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.632964" lon="9.745013"><ele>1378.5</ele></trkpt>
+   <trkpt lat="46.632963" lon="9.745017"><ele>1378.75</ele></trkpt>
+   <trkpt lat="46.6328" lon="9.745295"><ele>1379.5</ele></trkpt>
+   <trkpt lat="46.632661" lon="9.745474"><ele>1377.75</ele></trkpt>
+   <trkpt lat="46.632406" lon="9.745731"><ele>1374.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

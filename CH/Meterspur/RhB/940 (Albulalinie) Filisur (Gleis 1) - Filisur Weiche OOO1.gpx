@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 243 filtered ascend = 4 plain-ascend = 4 cost=243 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 (Albulalinie) Filisur (Gleis 1) - Filisur Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/46.67518/9.68410/osm-mapnik-german_style&amp;lonlats=9.682252,46.675236;9.685352,46.675597">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.675231" lon="9.682252"><ele>1079</ele></trkpt>
+   <trkpt lat="46.675434" lon="9.684153"><ele>1078</ele></trkpt>
+   <trkpt lat="46.675458" lon="9.684355"><ele>1078.25</ele></trkpt>
+   <trkpt lat="46.675469" lon="9.684442"><ele>1078.5</ele></trkpt>
+   <trkpt lat="46.675545" lon="9.684925"><ele>1080.25</ele></trkpt>
+   <trkpt lat="46.675597" lon="9.68535"><ele>1083</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

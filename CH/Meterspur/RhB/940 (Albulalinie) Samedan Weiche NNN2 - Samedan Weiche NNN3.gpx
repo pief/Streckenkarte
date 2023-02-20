@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 258 filtered ascend = 1 plain-ascend = 1 cost=258 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2022.47">
+ <trk>
+  <name>940 (Albulalinie) Samedan Weiche NNN2 - Samedan Weiche NNN3</name>
+  <link href="https://bikerouter.de/#map=19/46.53780/9.87774/osm-mapnik-german_style&amp;lonlats=9.876057,46.53627;9.878023,46.538145">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.536267" lon="9.87606"><ele>1704.75</ele></trkpt>
+   <trkpt lat="46.536271" lon="9.876065"><ele>1705</ele></trkpt>
+   <trkpt lat="46.538144" lon="9.878023"><ele>1705.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
