@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 4 plain-ascend = 4 cost=164 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Trier Hbf Weiche 745 - Trier Hbf Weiche 767</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.75392/6.64916/standard&amp;lonlats=6.64921,49.753816;6.647995,49.752591&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.753816" lon="6.64921"><ele>138.25</ele></trkpt>
+   <trkpt lat="49.753781" lon="6.649177"><ele>138.25</ele></trkpt>
+   <trkpt lat="49.753615" lon="6.649019"><ele>139</ele></trkpt>
+   <trkpt lat="49.753494" lon="6.648897"><ele>139.5</ele></trkpt>
+   <trkpt lat="49.75259" lon="6.647995"><ele>142.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

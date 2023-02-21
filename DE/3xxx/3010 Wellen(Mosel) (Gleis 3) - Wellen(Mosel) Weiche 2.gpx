@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 527 filtered ascend = 5 plain-ascend = 5 cost=528 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Wellen(Mosel) (Gleis 3) - Wellen(Mosel) Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/49.6733/6.4426/standard&amp;lonlats=6.441061,49.672405;6.446132,49.675702&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.672405" lon="6.441061"><ele>139.75</ele></trkpt>
+   <trkpt lat="49.672429" lon="6.441111"><ele>139.75</ele></trkpt>
+   <trkpt lat="49.672469" lon="6.441191"><ele>139.5</ele></trkpt>
+   <trkpt lat="49.672638" lon="6.44153"><ele>139.5</ele></trkpt>
+   <trkpt lat="49.673092" lon="6.442454"><ele>141</ele></trkpt>
+   <trkpt lat="49.673342" lon="6.442928"><ele>142.5</ele></trkpt>
+   <trkpt lat="49.673629" lon="6.443388"><ele>143.75</ele></trkpt>
+   <trkpt lat="49.673723" lon="6.443531"><ele>144.5</ele></trkpt>
+   <trkpt lat="49.674661" lon="6.444849"><ele>145.25</ele></trkpt>
+   <trkpt lat="49.674984" lon="6.445297"><ele>144.75</ele></trkpt>
+   <trkpt lat="49.675289" lon="6.445676"><ele>145</ele></trkpt>
+   <trkpt lat="49.675701" lon="6.446132"><ele>144.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

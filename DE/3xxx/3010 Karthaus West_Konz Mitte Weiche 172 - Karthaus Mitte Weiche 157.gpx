@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 623 filtered ascend = 1 plain-ascend = 2 cost=623 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Karthaus West/Konz Mitte Weiche 172 - Karthaus Mitte Weiche 157</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.70341/6.58068/standard&amp;lonlats=6.573383,49.700127;6.580343,49.703392&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.700126" lon="6.573382"><ele>134.75</ele></trkpt>
+   <trkpt lat="49.700232" lon="6.573594"><ele>135.25</ele></trkpt>
+   <trkpt lat="49.700988" lon="6.575164"><ele>136.25</ele></trkpt>
+   <trkpt lat="49.70154" lon="6.576308"><ele>135.5</ele></trkpt>
+   <trkpt lat="49.702223" lon="6.577791"><ele>136</ele></trkpt>
+   <trkpt lat="49.702384" lon="6.578142"><ele>136.5</ele></trkpt>
+   <trkpt lat="49.703039" lon="6.5796"><ele>136</ele></trkpt>
+   <trkpt lat="49.703283" lon="6.580115"><ele>136</ele></trkpt>
+   <trkpt lat="49.703391" lon="6.580343"><ele>136.25</ele></trkpt>
+   <trkpt lat="49.703391" lon="6.580343"><ele>136.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

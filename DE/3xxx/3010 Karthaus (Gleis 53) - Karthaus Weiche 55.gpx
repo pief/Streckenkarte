@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 171 filtered ascend = 3 plain-ascend = 3 cost=171 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Karthaus (Gleis 53) - Karthaus Weiche 55</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.71147/6.59865/standard&amp;lonlats=6.597047,49.710508;6.598801,49.711496&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.710509" lon="6.597044"><ele>138.5</ele></trkpt>
+   <trkpt lat="49.71083" lon="6.597625"><ele>138.75</ele></trkpt>
+   <trkpt lat="49.71094" lon="6.597827"><ele>140.5</ele></trkpt>
+   <trkpt lat="49.711043" lon="6.598018"><ele>141.5</ele></trkpt>
+   <trkpt lat="49.711497" lon="6.598801"><ele>141.75</ele></trkpt>
+   <trkpt lat="49.711496" lon="6.598799"><ele>141.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

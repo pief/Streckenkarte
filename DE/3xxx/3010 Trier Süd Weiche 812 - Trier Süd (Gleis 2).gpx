@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 0 plain-ascend = 1 cost=198 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Trier Süd Weiche 812 - Trier Süd (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/49.74482/6.63655/standard&amp;lonlats=6.635548,49.742783;6.636542,49.744386&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.742781" lon="6.635549"><ele>137</ele></trkpt>
+   <trkpt lat="49.742784" lon="6.63555"><ele>137.25</ele></trkpt>
+   <trkpt lat="49.743032" lon="6.635646"><ele>137.5</ele></trkpt>
+   <trkpt lat="49.74342" lon="6.635841"><ele>137.75</ele></trkpt>
+   <trkpt lat="49.743536" lon="6.635917"><ele>137.5</ele></trkpt>
+   <trkpt lat="49.74363" lon="6.635979"><ele>137.5</ele></trkpt>
+   <trkpt lat="49.744144" lon="6.63636"><ele>137.25</ele></trkpt>
+   <trkpt lat="49.744278" lon="6.636455"><ele>137.25</ele></trkpt>
+   <trkpt lat="49.744356" lon="6.636523"><ele>137.5</ele></trkpt>
+   <trkpt lat="49.744383" lon="6.636546"><ele>137.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

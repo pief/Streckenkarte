@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 237 filtered ascend = 0 plain-ascend = -1 cost=238 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Karthaus Mitte Weiche 157 - Karthaus Mitte Weiche 154</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.70428/6.58256/standard&amp;lonlats=6.580343,49.703392;6.583054,49.704569&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.703391" lon="6.580343"><ele>136.25</ele></trkpt>
+   <trkpt lat="49.703575" lon="6.58078"><ele>136.5</ele></trkpt>
+   <trkpt lat="49.70386" lon="6.581485"><ele>136.25</ele></trkpt>
+   <trkpt lat="49.704203" lon="6.582244"><ele>135.25</ele></trkpt>
+   <trkpt lat="49.704568" lon="6.583053"><ele>134.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

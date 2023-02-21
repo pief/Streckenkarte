@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 95 filtered ascend = 0 plain-ascend = 0 cost=95 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Wincheringen Weiche 15 - Wincheringen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.60891/6.40753/standard&amp;lonlats=6.406545,49.608437;6.407375,49.609087&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.608436" lon="6.406544"><ele>143.5</ele></trkpt>
+   <trkpt lat="49.608475" lon="6.406595"><ele>143.5</ele></trkpt>
+   <trkpt lat="49.60852" lon="6.406652"><ele>143.5</ele></trkpt>
+   <trkpt lat="49.609085" lon="6.407375"><ele>142.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

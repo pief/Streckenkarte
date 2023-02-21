@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 763 filtered ascend = 3 plain-ascend = 4 cost=763 energy=0.0kwh time=1m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Nennig Weiche 13 - Nennig (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.53893/6.37605/standard&amp;lonlats=6.374407,49.532048;6.375979,49.538808&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.532047" lon="6.374402"><ele>142.5</ele></trkpt>
+   <trkpt lat="49.533075" lon="6.374642"><ele>142.5</ele></trkpt>
+   <trkpt lat="49.534203" lon="6.374864"><ele>142.75</ele></trkpt>
+   <trkpt lat="49.53491" lon="6.375027"><ele>143.75</ele></trkpt>
+   <trkpt lat="49.535644" lon="6.375221"><ele>144</ele></trkpt>
+   <trkpt lat="49.536633" lon="6.375446"><ele>143.5</ele></trkpt>
+   <trkpt lat="49.538568" lon="6.375923"><ele>146</ele></trkpt>
+   <trkpt lat="49.538806" lon="6.37598"><ele>146</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 0 plain-ascend = 0 cost=139 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3010 Perl Weiche 10 - Perl (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.47299/6.36939/standard&amp;lonlats=6.369474,49.471968;6.36935,49.473199&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.471967" lon="6.369473"><ele>147</ele></trkpt>
+   <trkpt lat="49.47197" lon="6.369474"><ele>147</ele></trkpt>
+   <trkpt lat="49.473132" lon="6.369358"><ele>147.25</ele></trkpt>
+   <trkpt lat="49.473198" lon="6.369349"><ele>147.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
