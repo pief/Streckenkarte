@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 0 plain-ascend = -1 cost=399 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>FSMN Firenze Santa Maria Novella (Gleis 10) - Firenze Santa Maria Novella Weiche NNN13</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.77955/11.24669/standard&amp;lonlats=11.247739,43.776721;11.246087,43.78009&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.776721" lon="11.247742"><ele>50.25</ele></trkpt>
+   <trkpt lat="43.776811" lon="11.247699"><ele>50.25</ele></trkpt>
+   <trkpt lat="43.779642" lon="11.246317"><ele>49</ele></trkpt>
+   <trkpt lat="43.78009" lon="11.246087"><ele>48</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
