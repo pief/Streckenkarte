@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 631 filtered ascend = 2 plain-ascend = 2 cost=631 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>092 Firenze Rovezzano (Gleis 4) - Firenze Rovezzano Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/43.76972/11.31686/standard&amp;lonlats=11.309174,43.768983;11.31687,43.769633&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.768983" lon="11.309172"><ele>58</ele></trkpt>
+   <trkpt lat="43.769149" lon="11.310351"><ele>57</ele></trkpt>
+   <trkpt lat="43.769196" lon="11.310817"><ele>57</ele></trkpt>
+   <trkpt lat="43.769219" lon="11.311152"><ele>56.5</ele></trkpt>
+   <trkpt lat="43.769313" lon="11.312905"><ele>58</ele></trkpt>
+   <trkpt lat="43.769355" lon="11.313749"><ele>58.75</ele></trkpt>
+   <trkpt lat="43.769395" lon="11.314765"><ele>58.25</ele></trkpt>
+   <trkpt lat="43.769419" lon="11.315188"><ele>58.25</ele></trkpt>
+   <trkpt lat="43.769436" lon="11.315388"><ele>58.5</ele></trkpt>
+   <trkpt lat="43.769494" lon="11.315887"><ele>59</ele></trkpt>
+   <trkpt lat="43.76963" lon="11.316869"><ele>60.25</ele></trkpt>
+   <trkpt lat="43.76963" lon="11.316869"><ele>60</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

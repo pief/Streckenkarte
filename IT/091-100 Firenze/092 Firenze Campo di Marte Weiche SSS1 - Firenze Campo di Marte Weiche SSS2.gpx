@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=43 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>092 Firenze Campo di Marte Weiche SSS1 - Firenze Campo di Marte Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/43.77374/11.28041/standard&amp;lonlats=11.280047,43.773918;11.280341,43.773609&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.773918" lon="11.280047"><ele>52.25</ele></trkpt>
+   <trkpt lat="43.773916" lon="11.28005"><ele>52.25</ele></trkpt>
+   <trkpt lat="43.773609" lon="11.280341"><ele>52.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

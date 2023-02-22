@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 583 filtered ascend = 0 plain-ascend = 0 cost=583 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>092 Firenze Campo di Marte Weiche NNN1 - Firenze Campo di Marte (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.77770/11.27675/standard&amp;lonlats=11.272497,43.78184;11.276623,43.777574&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.78184" lon="11.272497"><ele>54</ele></trkpt>
+   <trkpt lat="43.781839" lon="11.272498"><ele>54</ele></trkpt>
+   <trkpt lat="43.781524" lon="11.272796"><ele>54.5</ele></trkpt>
+   <trkpt lat="43.780869" lon="11.273432"><ele>53.75</ele></trkpt>
+   <trkpt lat="43.779596" lon="11.274683"><ele>53.5</ele></trkpt>
+   <trkpt lat="43.778807" lon="11.275445"><ele>52.5</ele></trkpt>
+   <trkpt lat="43.777577" lon="11.276617"><ele>53</ele></trkpt>
+   <trkpt lat="43.777572" lon="11.276621"><ele>52.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 475 filtered ascend = 1 plain-ascend = 1 cost=475 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>092 Firenze Statuto Weiche SSS1 - Firenze Statuto Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/43.78813/11.25490/standard&amp;lonlats=11.249207,43.78697;11.254796,43.788129&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.786968" lon="11.249206"><ele>52</ele></trkpt>
+   <trkpt lat="43.786969" lon="11.249209"><ele>52</ele></trkpt>
+   <trkpt lat="43.787081" lon="11.25028"><ele>52</ele></trkpt>
+   <trkpt lat="43.787146" lon="11.250723"><ele>51.5</ele></trkpt>
+   <trkpt lat="43.787218" lon="11.251094"><ele>51.25</ele></trkpt>
+   <trkpt lat="43.787269" lon="11.251314"><ele>51.25</ele></trkpt>
+   <trkpt lat="43.787995" lon="11.254193"><ele>52</ele></trkpt>
+   <trkpt lat="43.78807" lon="11.254516"><ele>52.5</ele></trkpt>
+   <trkpt lat="43.788127" lon="11.254795"><ele>53</ele></trkpt>
+   <trkpt lat="43.788127" lon="11.254795"><ele>53</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
