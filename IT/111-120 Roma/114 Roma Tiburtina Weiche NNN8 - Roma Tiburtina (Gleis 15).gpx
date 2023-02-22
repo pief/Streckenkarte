@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 302 filtered ascend = 4 plain-ascend = 4 cost=302 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>114 Roma Tiburtina Weiche NNN8 - Roma Tiburtina (Gleis 15)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/41.91141/12.53176/standard&amp;lonlats=12.529968,41.913603;12.531496,41.911174&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.913602" lon="12.529968"><ele>20.25</ele></trkpt>
+   <trkpt lat="41.913604" lon="12.529967"><ele>20.5</ele></trkpt>
+   <trkpt lat="41.913056" lon="12.530273"><ele>20.75</ele></trkpt>
+   <trkpt lat="41.91288" lon="12.530367"><ele>21</ele></trkpt>
+   <trkpt lat="41.912475" lon="12.530614"><ele>21.75</ele></trkpt>
+   <trkpt lat="41.912281" lon="12.530737"><ele>22.75</ele></trkpt>
+   <trkpt lat="41.911737" lon="12.531107"><ele>24.25</ele></trkpt>
+   <trkpt lat="41.911419" lon="12.531322"><ele>24.5</ele></trkpt>
+   <trkpt lat="41.911171" lon="12.531488"><ele>24.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

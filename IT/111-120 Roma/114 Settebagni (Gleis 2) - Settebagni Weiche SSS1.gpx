@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 0 plain-ascend = -3 cost=211 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>114 Settebagni (Gleis 2) - Settebagni Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.00464/12.51979/standard&amp;lonlats=12.520055,42.006398;12.5199,42.004515&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.006396" lon="12.520056"><ele>29</ele></trkpt>
+   <trkpt lat="42.006273" lon="12.520047"><ele>28.75</ele></trkpt>
+   <trkpt lat="42.004513" lon="12.519901"><ele>25</ele></trkpt>
+   <trkpt lat="42.004515" lon="12.5199"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
