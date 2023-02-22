@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 0 plain-ascend = 0 cost=211 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>650000 Pau (Gleis D) - Pau Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.29148/-0.37071/standard&amp;lonlats=-0.369802,43.291365;-0.372158,43.292047&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.291364" lon="-0.369803"><ele>179.75</ele></trkpt>
+   <trkpt lat="43.291633" lon="-0.370972"><ele>179.5</ele></trkpt>
+   <trkpt lat="43.291701" lon="-0.371231"><ele>179.25</ele></trkpt>
+   <trkpt lat="43.291762" lon="-0.371418"><ele>179.25</ele></trkpt>
+   <trkpt lat="43.291913" lon="-0.371802"><ele>179.5</ele></trkpt>
+   <trkpt lat="43.291975" lon="-0.371953"><ele>179.5</ele></trkpt>
+   <trkpt lat="43.292047" lon="-0.372157"><ele>179.5</ele></trkpt>
+   <trkpt lat="43.292047" lon="-0.372158"><ele>179.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

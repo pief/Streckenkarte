@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 0 plain-ascend = 0 cost=198 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>664000 Oloron-Sainte-Marie Weiche 18 - Oloron-Sainte-Marie (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/43.19474/-0.61226/standard&amp;lonlats=-0.613541,43.193332;-0.612342,43.194864&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.19333" lon="-0.61354"><ele>221</ele></trkpt>
+   <trkpt lat="43.193332" lon="-0.613539"><ele>221</ele></trkpt>
+   <trkpt lat="43.193954" lon="-0.613083"><ele>221</ele></trkpt>
+   <trkpt lat="43.194786" lon="-0.612405"><ele>220.25</ele></trkpt>
+   <trkpt lat="43.194862" lon="-0.612341"><ele>220</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
