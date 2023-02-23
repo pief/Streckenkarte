@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 1 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>655000 Dax Weiche WWW1 - Dax Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.72079/-1.05278/standard&amp;lonlats=-1.054013,43.72064;-1.053686,43.720659&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.72064" lon="-1.054015"><ele>6.75</ele></trkpt>
+   <trkpt lat="43.720641" lon="-1.054009"><ele>7</ele></trkpt>
+   <trkpt lat="43.720658" lon="-1.053688"><ele>7.5</ele></trkpt>
+   <trkpt lat="43.720658" lon="-1.053687"><ele>7.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

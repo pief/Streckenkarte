@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 242 filtered ascend = 3 plain-ascend = 2 cost=242 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>655000 Dax Weiche WWW3 - Dax (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.72077/-1.04971/standard&amp;lonlats=-1.05332,43.720678;-1.050343,43.720823&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.720676" lon="-1.053321"><ele>7.75</ele></trkpt>
+   <trkpt lat="43.720676" lon="-1.053321"><ele>7.75</ele></trkpt>
+   <trkpt lat="43.720732" lon="-1.052097"><ele>11.25</ele></trkpt>
+   <trkpt lat="43.720826" lon="-1.050345"><ele>10</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
