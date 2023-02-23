@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 452 filtered ascend = 0 plain-ascend = 0 cost=452 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>650000 Lacq Weiche OOO2 - Lacq Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/43.41312/-0.62984/standard&amp;lonlats=-0.625105,43.411152;-0.630002,43.413074&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.411152" lon="-0.625105"><ele>96.75</ele></trkpt>
+   <trkpt lat="43.411398" lon="-0.625735"><ele>97.25</ele></trkpt>
+   <trkpt lat="43.412145" lon="-0.627609"><ele>97</ele></trkpt>
+   <trkpt lat="43.413074" lon="-0.630003"><ele>95.5</ele></trkpt>
+   <trkpt lat="43.413073" lon="-0.630003"><ele>95.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

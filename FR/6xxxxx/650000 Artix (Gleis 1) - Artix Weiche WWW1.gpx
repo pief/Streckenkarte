@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 234 filtered ascend = 1 plain-ascend = 0 cost=234 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>650000 Artix (Gleis 1) - Artix Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/43.39368/-0.57142/standard&amp;lonlats=-0.570254,43.393056;-0.572603,43.394251&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.393056" lon="-0.570254"><ele>108.25</ele></trkpt>
+   <trkpt lat="43.393098" lon="-0.570337"><ele>108.25</ele></trkpt>
+   <trkpt lat="43.393763" lon="-0.571632"><ele>109.75</ele></trkpt>
+   <trkpt lat="43.394251" lon="-0.572604"><ele>108.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
