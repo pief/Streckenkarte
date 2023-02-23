@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 0 plain-ascend = 1 cost=111 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Roma Ostiense Weiche OOO1 - Roma Ostiense Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/41.87118/12.49931/standard&amp;lonlats=12.500056,41.870879;12.498744,41.870867&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.870879" lon="12.500056"><ele>23.5</ele></trkpt>
+   <trkpt lat="41.870875" lon="12.499779"><ele>24</ele></trkpt>
+   <trkpt lat="41.870866" lon="12.498743"><ele>24</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

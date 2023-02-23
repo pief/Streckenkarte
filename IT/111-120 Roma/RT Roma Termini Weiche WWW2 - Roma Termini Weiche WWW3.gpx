@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 1 plain-ascend = 1 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>RT Roma Termini Weiche WWW2 - Roma Termini Weiche WWW3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/41.89569/12.51015/standard&amp;lonlats=12.509679,41.895708;12.510024,41.895546&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.895706" lon="12.509677"><ele>59.25</ele></trkpt>
+   <trkpt lat="41.895705" lon="12.509679"><ele>59.5</ele></trkpt>
+   <trkpt lat="41.895546" lon="12.510023"><ele>60.5</ele></trkpt>
+   <trkpt lat="41.895545" lon="12.510023"><ele>60.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

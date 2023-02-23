@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 681 filtered ascend = 1 plain-ascend = 1 cost=682 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Roma Ostiense Weiche OOO3 - Roma Ostiense (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/41.87247/12.48500/standard&amp;lonlats=12.49295,41.871293;12.484955,41.872469&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.871293" lon="12.49295"><ele>24.5</ele></trkpt>
+   <trkpt lat="41.871326" lon="12.492708"><ele>25.25</ele></trkpt>
+   <trkpt lat="41.871388" lon="12.492076"><ele>25.25</ele></trkpt>
+   <trkpt lat="41.871424" lon="12.49179"><ele>24.75</ele></trkpt>
+   <trkpt lat="41.871717" lon="12.48987"><ele>19.5</ele></trkpt>
+   <trkpt lat="41.871814" lon="12.489292"><ele>21.75</ele></trkpt>
+   <trkpt lat="41.872469" lon="12.484958"><ele>25.75</ele></trkpt>
+   <trkpt lat="41.872469" lon="12.484955"><ele>25.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

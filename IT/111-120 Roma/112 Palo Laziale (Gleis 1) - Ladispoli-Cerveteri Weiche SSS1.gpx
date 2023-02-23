@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1994 filtered ascend = 4 plain-ascend = 0 cost=1994 energy=0.0kwh time=2m 40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Palo Laziale (Gleis 1) - Ladispoli-Cerveteri Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/41.95254/12.08267/standard&amp;lonlats=12.102575,41.939432;12.084659,41.951222&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.939432" lon="12.102575"><ele>11.5</ele></trkpt>
+   <trkpt lat="41.939765" lon="12.101879"><ele>11.75</ele></trkpt>
+   <trkpt lat="41.940683" lon="12.099912"><ele>14.5</ele></trkpt>
+   <trkpt lat="41.941929" lon="12.097678"><ele>15.5</ele></trkpt>
+   <trkpt lat="41.942759" lon="12.096287"><ele>15.25</ele></trkpt>
+   <trkpt lat="41.943765" lon="12.094669"><ele>11</ele></trkpt>
+   <trkpt lat="41.944414" lon="12.093719"><ele>10.25</ele></trkpt>
+   <trkpt lat="41.944995" lon="12.09286"><ele>9.25</ele></trkpt>
+   <trkpt lat="41.947141" lon="12.089958"><ele>5.75</ele></trkpt>
+   <trkpt lat="41.948073" lon="12.088786"><ele>5</ele></trkpt>
+   <trkpt lat="41.948318" lon="12.088447"><ele>5</ele></trkpt>
+   <trkpt lat="41.948956" lon="12.087601"><ele>6.25</ele></trkpt>
+   <trkpt lat="41.951221" lon="12.084659"><ele>10.5</ele></trkpt>
+   <trkpt lat="41.951221" lon="12.084658"><ele>10.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 440 filtered ascend = 0 plain-ascend = -6 cost=441 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Roma San Pietro Weiche SSS1 - Roma San Pietro (Gleis 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/41.89552/12.45497/standard&amp;lonlats=12.457457,41.892842;12.454355,41.89598&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.892842" lon="12.457457"/>
+   <trkpt lat="41.893119" lon="12.457319"><ele>49.75</ele></trkpt>
+   <trkpt lat="41.893218" lon="12.457263"><ele>49.5</ele></trkpt>
+   <trkpt lat="41.893385" lon="12.457154"><ele>49</ele></trkpt>
+   <trkpt lat="41.893516" lon="12.457057"><ele>48.5</ele></trkpt>
+   <trkpt lat="41.893816" lon="12.456784"><ele>46.5</ele></trkpt>
+   <trkpt lat="41.894309" lon="12.456296"><ele>45.75</ele></trkpt>
+   <trkpt lat="41.894477" lon="12.456116"><ele>46.5</ele></trkpt>
+   <trkpt lat="41.894574" lon="12.455993"><ele>46.5</ele></trkpt>
+   <trkpt lat="41.894725" lon="12.455831"><ele>45.75</ele></trkpt>
+   <trkpt lat="41.895039" lon="12.455456"><ele>45.75</ele></trkpt>
+   <trkpt lat="41.895981" lon="12.454357"><ele>43.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

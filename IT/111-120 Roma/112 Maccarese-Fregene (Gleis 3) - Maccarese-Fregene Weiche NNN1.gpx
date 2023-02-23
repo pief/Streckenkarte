@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 428 filtered ascend = 0 plain-ascend = 0 cost=428 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Maccarese-Fregene (Gleis 3) - Maccarese-Fregene Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/41.88194/12.23461/standard&amp;lonlats=12.237355,41.878981;12.234284,41.88206&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.87898" lon="12.237354"><ele>8.25</ele></trkpt>
+   <trkpt lat="41.878985" lon="12.23735"><ele>8.25</ele></trkpt>
+   <trkpt lat="41.882057" lon="12.234285"><ele>7.5</ele></trkpt>
+   <trkpt lat="41.882059" lon="12.234282"><ele>7.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
