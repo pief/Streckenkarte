@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=47 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>RT Roma Termini Weiche OOO5 - Roma Termini Weiche OOO6</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/41.89618/12.51005/standard&amp;lonlats=12.51021,41.895953;12.509805,41.896219&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.895952" lon="12.510209"><ele>58.75</ele></trkpt>
+   <trkpt lat="41.895953" lon="12.510208"><ele>58.75</ele></trkpt>
+   <trkpt lat="41.896218" lon="12.509805"><ele>59</ele></trkpt>
+   <trkpt lat="41.896218" lon="12.509804"><ele>59</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

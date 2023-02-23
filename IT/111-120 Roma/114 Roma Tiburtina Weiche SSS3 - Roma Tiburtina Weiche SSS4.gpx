@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 507 filtered ascend = 8 plain-ascend = 9 cost=507 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>114 Roma Tiburtina Weiche SSS3 - Roma Tiburtina Weiche SSS4</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/41.90044/12.53255/standard&amp;lonlats=12.533397,41.905354;12.531365,41.901118&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.905353" lon="12.533396"><ele>23.25</ele></trkpt>
+   <trkpt lat="41.905271" lon="12.533391"><ele>23.5</ele></trkpt>
+   <trkpt lat="41.904958" lon="12.533344"><ele>24</ele></trkpt>
+   <trkpt lat="41.904564" lon="12.533252"><ele>25.75</ele></trkpt>
+   <trkpt lat="41.904295" lon="12.533166"><ele>27.25</ele></trkpt>
+   <trkpt lat="41.90403" lon="12.533067"><ele>27.5</ele></trkpt>
+   <trkpt lat="41.903693" lon="12.532912"><ele>26.75</ele></trkpt>
+   <trkpt lat="41.903324" lon="12.532708"><ele>25.5</ele></trkpt>
+   <trkpt lat="41.903037" lon="12.532536"><ele>26</ele></trkpt>
+   <trkpt lat="41.901117" lon="12.531364"><ele>32</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
