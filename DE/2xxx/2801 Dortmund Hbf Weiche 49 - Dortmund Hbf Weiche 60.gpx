@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 14 filtered ascend = 0 plain-ascend = 0 cost=14 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Dortmund Hbf Weiche 49 - Dortmund Hbf Weiche 60</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.51667/7.45324/standard&amp;lonlats=7.453308,51.516681;7.453491,51.51671&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.516681" lon="7.453306"><ele>81</ele></trkpt>
+   <trkpt lat="51.516682" lon="7.453309"><ele>81</ele></trkpt>
+   <trkpt lat="51.516709" lon="7.45349"><ele>81</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 173 filtered ascend = 0 plain-ascend = 1 cost=173 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Hagen Hbf Weiche 92 - Hagen Hbf Weiche 96</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.36429/7.46094/standard&amp;lonlats=7.460902,51.364185;7.460651,51.365701&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.364184" lon="7.460901"><ele>105</ele></trkpt>
+   <trkpt lat="51.364184" lon="7.460902"><ele>105</ele></trkpt>
+   <trkpt lat="51.364595" lon="7.460855"><ele>105.5</ele></trkpt>
+   <trkpt lat="51.364844" lon="7.460827"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.365227" lon="7.460764"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.365682" lon="7.460655"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.365701" lon="7.460651"><ele>105.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

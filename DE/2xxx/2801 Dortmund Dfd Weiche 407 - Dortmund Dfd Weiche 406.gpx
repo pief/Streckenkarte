@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 253 filtered ascend = 2 plain-ascend = 0 cost=253 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Dortmund Dfd Weiche 407 - Dortmund Dfd Weiche 406</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.50940/7.43703/standard&amp;lonlats=7.438494,51.511008;7.436671,51.509063&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.511007" lon="7.438493"><ele>88.5</ele></trkpt>
+   <trkpt lat="51.510858" lon="7.438338"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.510459" lon="7.437961"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.509062" lon="7.436674"><ele>87.25</ele></trkpt>
+   <trkpt lat="51.50906" lon="7.436673"><ele>87.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

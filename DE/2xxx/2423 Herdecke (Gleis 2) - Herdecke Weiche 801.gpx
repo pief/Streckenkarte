@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 194 filtered ascend = 3 plain-ascend = 3 cost=194 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2423 Herdecke (Gleis 2) - Herdecke Weiche 801</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.40336/7.43158/standard&amp;lonlats=7.432525,51.404753;7.431342,51.403244&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.404752" lon="7.432524"><ele>125</ele></trkpt>
+   <trkpt lat="51.404752" lon="7.432524"><ele>125</ele></trkpt>
+   <trkpt lat="51.404726" lon="7.432512"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.404674" lon="7.432489"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.404554" lon="7.432435"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.404366" lon="7.432344"><ele>125.5</ele></trkpt>
+   <trkpt lat="51.404316" lon="7.43232"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.404117" lon="7.432189"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.403863" lon="7.431997"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.403677" lon="7.431803"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.403245" lon="7.431342"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.403244" lon="7.43134"><ele>128.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

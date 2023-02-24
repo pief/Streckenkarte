@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = -1 cost=78 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Hagen Hbf Weiche 102 - Hagen Hbf Weiche 109</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.36627/7.46066/standard&amp;lonlats=7.460473,51.366477;7.460385,51.367148&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.366477" lon="7.460473"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.366623" lon="7.460446"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.366811" lon="7.460412"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.367148" lon="7.460385"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

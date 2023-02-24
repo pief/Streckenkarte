@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 0 plain-ascend = 0 cost=180 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2423 Herdecke Weiche 814 - Herdecke (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.40471/7.43276/standard&amp;lonlats=7.433235,51.406299;7.432525,51.404753&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.406298" lon="7.433234"><ele>125</ele></trkpt>
+   <trkpt lat="51.406295" lon="7.433233"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.404752" lon="7.432524"><ele>125</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

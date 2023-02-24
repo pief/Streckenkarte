@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 1 plain-ascend = 0 cost=264 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Dortmund Hbf (Gleis 3) - Dortmund Hbf Weiche 66</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.51698/7.45594/standard&amp;lonlats=7.458289,51.517221;7.454596,51.51684&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.517219" lon="7.458289"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.517201" lon="7.458139"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.517011" lon="7.45671"><ele>84</ele></trkpt>
+   <trkpt lat="51.516962" lon="7.456265"><ele>83.75</ele></trkpt>
+   <trkpt lat="51.516892" lon="7.45536"><ele>83.25</ele></trkpt>
+   <trkpt lat="51.51686" lon="7.454913"><ele>83</ele></trkpt>
+   <trkpt lat="51.516839" lon="7.454598"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.516838" lon="7.454595"><ele>82.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

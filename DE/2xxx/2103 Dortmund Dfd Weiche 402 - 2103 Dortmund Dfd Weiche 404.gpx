@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2103 Dortmund Dfd Weiche 402 - 2103 Dortmund Dfd Weiche 404</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.50818/7.43607/standard&amp;lonlats=7.435703,51.507803;7.436123,51.50837&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.507802" lon="7.435704"><ele>87.25</ele></trkpt>
+   <trkpt lat="51.508098" lon="7.435913"><ele>87.25</ele></trkpt>
+   <trkpt lat="51.508369" lon="7.436122"><ele>87.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
