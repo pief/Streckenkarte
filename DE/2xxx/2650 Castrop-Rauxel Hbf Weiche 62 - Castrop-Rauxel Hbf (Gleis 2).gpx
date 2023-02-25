@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 291 filtered ascend = 0 plain-ascend = 0 cost=291 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Castrop-Rauxel Hbf Weiche 62 - Castrop-Rauxel Hbf (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.57349/7.30422/standard&amp;lonlats=7.307853,51.574578;7.304071,51.573536&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.574575" lon="7.307853"><ele>61.5</ele></trkpt>
+   <trkpt lat="51.574575" lon="7.307853"><ele>61.5</ele></trkpt>
+   <trkpt lat="51.573989" lon="7.305581"><ele>61</ele></trkpt>
+   <trkpt lat="51.573933" lon="7.305383"><ele>61</ele></trkpt>
+   <trkpt lat="51.573847" lon="7.305079"><ele>61</ele></trkpt>
+   <trkpt lat="51.573785" lon="7.304874"><ele>61</ele></trkpt>
+   <trkpt lat="51.573536" lon="7.304081"><ele>61</ele></trkpt>
+   <trkpt lat="51.573533" lon="7.304072"><ele>60.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

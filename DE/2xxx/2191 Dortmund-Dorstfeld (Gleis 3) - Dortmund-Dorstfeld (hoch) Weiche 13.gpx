@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 7 plain-ascend = 7 cost=265 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2191 Dortmund-Dorstfeld (Gleis 3) - Dortmund-Dorstfeld (hoch) Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.51002/7.42183/standard&amp;lonlats=7.425226,51.509606;7.421541,51.510044&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.509607" lon="7.425226"><ele>84.5</ele></trkpt>
+   <trkpt lat="51.509646" lon="7.42455"><ele>85.75</ele></trkpt>
+   <trkpt lat="51.509683" lon="7.42411"><ele>86.75</ele></trkpt>
+   <trkpt lat="51.509733" lon="7.42361"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.509835" lon="7.422776"><ele>89.75</ele></trkpt>
+   <trkpt lat="51.50992" lon="7.42221"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.510043" lon="7.421541"><ele>91.5</ele></trkpt>
+   <trkpt lat="51.510043" lon="7.42154"><ele>91.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

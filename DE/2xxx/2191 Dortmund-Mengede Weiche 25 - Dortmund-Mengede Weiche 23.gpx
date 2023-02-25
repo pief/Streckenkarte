@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 1 plain-ascend = 1 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2191 Dortmund-Mengede Weiche 25 - Dortmund-Mengede Weiche 23</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.57128/7.36998/standard&amp;lonlats=7.372309,51.570712;7.369544,51.571273&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.570709" lon="7.372307"><ele>63.25</ele></trkpt>
+   <trkpt lat="51.57071" lon="7.372306"><ele>63.25</ele></trkpt>
+   <trkpt lat="51.570928" lon="7.371186"><ele>63.5</ele></trkpt>
+   <trkpt lat="51.571058" lon="7.370541"><ele>64.25</ele></trkpt>
+   <trkpt lat="51.571142" lon="7.370183"><ele>64.25</ele></trkpt>
+   <trkpt lat="51.571272" lon="7.369546"><ele>64</ele></trkpt>
+   <trkpt lat="51.571272" lon="7.369543"><ele>64</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

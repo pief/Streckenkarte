@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 3 plain-ascend = 4 cost=107 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2191 Dortmund-Huckarde Süd Weiche 714 - Dortmund-Huckarde Süd Weiche 717</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.52813/7.40615/standard&amp;lonlats=7.406752,51.527276;7.406172,51.528137&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.527276" lon="7.406752"><ele>72.25</ele></trkpt>
+   <trkpt lat="51.527601" lon="7.406535"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.527846" lon="7.406369"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.528136" lon="7.406172"><ele>76</ele></trkpt>
+   <trkpt lat="51.528136" lon="7.406171"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

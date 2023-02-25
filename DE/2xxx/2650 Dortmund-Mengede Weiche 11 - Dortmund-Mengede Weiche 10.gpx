@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 118 filtered ascend = 0 plain-ascend = 1 cost=118 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Dortmund-Mengede Weiche 11 - Dortmund-Mengede Weiche 10</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.57169/7.36796/standard&amp;lonlats=7.369279,51.571326;7.367681,51.57166&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.571323" lon="7.369277"><ele>64</ele></trkpt>
+   <trkpt lat="51.571659" lon="7.367681"><ele>64.75</ele></trkpt>
+   <trkpt lat="51.571659" lon="7.36768"><ele>64.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

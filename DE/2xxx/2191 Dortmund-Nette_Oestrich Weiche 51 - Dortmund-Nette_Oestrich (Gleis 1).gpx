@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 193 filtered ascend = 0 plain-ascend = -3 cost=194 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2191 Dortmund-Nette/Oestrich Weiche 51 - Dortmund-Nette/Oestrich (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.56148/7.37798/standard&amp;lonlats=7.37725,51.55976;7.377804,51.561451&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.55976" lon="7.37725"><ele>74</ele></trkpt>
+   <trkpt lat="51.559965" lon="7.377324"><ele>73</ele></trkpt>
+   <trkpt lat="51.560184" lon="7.377399"><ele>72.5</ele></trkpt>
+   <trkpt lat="51.560403" lon="7.377477"><ele>72</ele></trkpt>
+   <trkpt lat="51.561449" lon="7.377806"><ele>70.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
