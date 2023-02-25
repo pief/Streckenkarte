@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 329 filtered ascend = 1 plain-ascend = 1 cost=330 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2103 Dortmund Hbf Weiche 31 - Dortmund Hbf Weiche 42</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.51628/7.45251/standard&amp;lonlats=7.44787,51.51547;7.452307,51.516417&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.51547" lon="7.44787"><ele>83</ele></trkpt>
+   <trkpt lat="51.515577" lon="7.448525"><ele>83.25</ele></trkpt>
+   <trkpt lat="51.515658" lon="7.448956"><ele>83.25</ele></trkpt>
+   <trkpt lat="51.516234" lon="7.451498"><ele>84.25</ele></trkpt>
+   <trkpt lat="51.516235" lon="7.451505"><ele>84.25</ele></trkpt>
+   <trkpt lat="51.516367" lon="7.45208"><ele>83.75</ele></trkpt>
+   <trkpt lat="51.516409" lon="7.452268"><ele>83.75</ele></trkpt>
+   <trkpt lat="51.516416" lon="7.452307"><ele>83.5</ele></trkpt>
+   <trkpt lat="51.516416" lon="7.452307"><ele>83.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
