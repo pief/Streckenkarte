@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2213 Dortmund-Somborn - Dortmund-Somborn Weiche 881</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.49604/7.35025/standard&amp;lonlats=7.350051,51.496021;7.351244,51.495895&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.496021" lon="7.350051"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.49602" lon="7.350066"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.495894" lon="7.351243"><ele>87.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

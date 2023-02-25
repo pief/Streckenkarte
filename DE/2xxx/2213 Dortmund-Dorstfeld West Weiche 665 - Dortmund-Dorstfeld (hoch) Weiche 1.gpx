@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 271 filtered ascend = 2 plain-ascend = 3 cost=271 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2213 Dortmund-Dorstfeld West Weiche 665 - Dortmund-Dorstfeld (hoch) Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.51164/7.41310/standard&amp;lonlats=7.408553,51.512106;7.412384,51.511742&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.512106" lon="7.408553"/>
+   <trkpt lat="51.512063" lon="7.409017"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.511855" lon="7.411281"><ele>79</ele></trkpt>
+   <trkpt lat="51.511742" lon="7.412383"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.511741" lon="7.412383"><ele>79.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
