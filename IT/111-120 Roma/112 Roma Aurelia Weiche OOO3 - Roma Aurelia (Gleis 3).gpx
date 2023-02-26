@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 393 filtered ascend = 0 plain-ascend = -3 cost=393 energy=0.0kwh time=31s -->
+<!-- track-length = 407 filtered ascend = 0 plain-ascend = -4 cost=407 energy=0.0kwh time=33s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,15 +8,13 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>112 Roma Aurelia Weiche OOO3 - Roma Aurelia (Gleis 3)</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/41.88300/12.39450/standard&amp;lonlats=12.398377,41.884624;12.39421,41.882983&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=19/41.88332/12.39508/standard&amp;lonlats=12.398527,41.884677;12.394209,41.882981&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="41.884622" lon="12.398377"><ele>50.75</ele></trkpt>
-   <trkpt lat="41.884293" lon="12.397549"><ele>46.5</ele></trkpt>
-   <trkpt lat="41.883141" lon="12.394596"><ele>46.5</ele></trkpt>
-   <trkpt lat="41.882999" lon="12.394253"><ele>47</ele></trkpt>
-   <trkpt lat="41.882981" lon="12.394209"><ele>47</ele></trkpt>
+   <trkpt lat="41.884676" lon="12.398526"><ele>51.25</ele></trkpt>
+   <trkpt lat="41.883004" lon="12.394246"><ele>47</ele></trkpt>
+   <trkpt lat="41.882987" lon="12.394203"><ele>46.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
