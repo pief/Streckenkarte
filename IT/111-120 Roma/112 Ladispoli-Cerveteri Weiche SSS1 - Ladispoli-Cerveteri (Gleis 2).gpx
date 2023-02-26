@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 319 filtered ascend = 1 plain-ascend = 2 cost=319 energy=0.0kwh time=26s -->
+<!-- track-length = 320 filtered ascend = 1 plain-ascend = 2 cost=320 energy=0.0kwh time=26s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,11 +8,12 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>112 Ladispoli-Cerveteri Weiche SSS1 - Ladispoli-Cerveteri (Gleis 2)</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/41.95308/12.08209/standard&amp;lonlats=12.084659,41.951222;12.08197,41.953265&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=19/41.95303/12.08274/standard&amp;lonlats=12.084658,41.951221;12.08197,41.953265&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="41.951221" lon="12.084658"><ele>10.5</ele></trkpt>
+   <trkpt lat="41.951221" lon="12.084658"><ele>10.25</ele></trkpt>
+   <trkpt lat="41.951221" lon="12.084659"><ele>10.5</ele></trkpt>
    <trkpt lat="41.953265" lon="12.08197"><ele>12</ele></trkpt>
   </trkseg>
  </trk>
