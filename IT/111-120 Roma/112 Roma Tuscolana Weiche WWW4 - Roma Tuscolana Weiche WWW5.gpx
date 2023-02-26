@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 85 filtered ascend = 0 plain-ascend = -4 cost=85 energy=0.0kwh time=7s -->
+<!-- track-length = 87 filtered ascend = 0 plain-ascend = -4 cost=87 energy=0.0kwh time=7s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,13 +8,14 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>112 Roma Tuscolana Weiche WWW4 - Roma Tuscolana Weiche WWW5</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/41.87682/12.51626/standard&amp;lonlats=12.516304,41.876633;12.5153,41.876565&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=21/41.87663/12.51552/standard&amp;lonlats=12.516303,41.876635;12.515297,41.876562&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="41.876631" lon="12.516303"><ele>51.75</ele></trkpt>
+   <trkpt lat="41.876631" lon="12.516302"><ele>51.75</ele></trkpt>
    <trkpt lat="41.876632" lon="12.516306"><ele>52</ele></trkpt>
-   <trkpt lat="41.876562" lon="12.515299"><ele>46.5</ele></trkpt>
+   <trkpt lat="41.876562" lon="12.515297"><ele>46.5</ele></trkpt>
+   <trkpt lat="41.876562" lon="12.515297"><ele>46.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

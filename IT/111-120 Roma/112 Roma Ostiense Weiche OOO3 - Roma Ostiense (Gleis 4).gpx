@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 681 filtered ascend = 1 plain-ascend = 1 cost=682 energy=0.0kwh time=54s -->
+<!-- track-length = 682 filtered ascend = 1 plain-ascend = 1 cost=682 energy=0.0kwh time=55s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,10 +8,11 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>112 Roma Ostiense Weiche OOO3 - Roma Ostiense (Gleis 4)</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/41.87247/12.48500/standard&amp;lonlats=12.49295,41.871293;12.484955,41.872469&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=19/41.87249/12.48489/standard&amp;lonlats=12.492953,41.871295;12.484955,41.872469&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
+   <trkpt lat="41.871292" lon="12.492952"><ele>24.25</ele></trkpt>
    <trkpt lat="41.871293" lon="12.49295"><ele>24.5</ele></trkpt>
    <trkpt lat="41.871326" lon="12.492708"><ele>25.25</ele></trkpt>
    <trkpt lat="41.871388" lon="12.492076"><ele>25.25</ele></trkpt>
