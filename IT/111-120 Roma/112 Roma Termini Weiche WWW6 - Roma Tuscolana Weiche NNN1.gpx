@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1487 filtered ascend = 0 plain-ascend = -10 cost=1487 energy=0.0kwh time=1m 59s -->
+<!-- track-length = 1469 filtered ascend = 0 plain-ascend = -7 cost=1469 energy=0.0kwh time=1m 58s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,33 +8,32 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>112 Roma Termini Weiche WWW6 - Roma Tuscolana Weiche NNN1</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/41.88537/12.52641/standard&amp;lonlats=12.512867,41.893796;12.526321,41.88546&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=20/41.88599/12.52616/standard&amp;lonlats=12.512719,41.893896;12.526191,41.885737&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="41.893796" lon="12.512867"><ele>58</ele></trkpt>
-   <trkpt lat="41.893797" lon="12.512867"><ele>58</ele></trkpt>
-   <trkpt lat="41.893067" lon="12.514167"><ele>53.5</ele></trkpt>
+   <trkpt lat="41.893896" lon="12.512719"><ele>57.75</ele></trkpt>
+   <trkpt lat="41.893897" lon="12.512719"><ele>57.75</ele></trkpt>
+   <trkpt lat="41.89329" lon="12.513773"><ele>56.5</ele></trkpt>
+   <trkpt lat="41.893068" lon="12.514172"><ele>53.5</ele></trkpt>
    <trkpt lat="41.892812" lon="12.514655"><ele>52.25</ele></trkpt>
    <trkpt lat="41.892518" lon="12.515249"><ele>50.75</ele></trkpt>
    <trkpt lat="41.892352" lon="12.515586"><ele>50.5</ele></trkpt>
-   <trkpt lat="41.892016" lon="12.516289"><ele>50.25</ele></trkpt>
-   <trkpt lat="41.89176" lon="12.516809"><ele>50</ele></trkpt>
+   <trkpt lat="41.891889" lon="12.516552"><ele>50.25</ele></trkpt>
    <trkpt lat="41.891564" lon="12.517187"><ele>50.25</ele></trkpt>
-   <trkpt lat="41.891282" lon="12.517721"><ele>51.25</ele></trkpt>
-   <trkpt lat="41.88936" lon="12.521384"><ele>56.5</ele></trkpt>
+   <trkpt lat="41.891284" lon="12.517723"><ele>51.25</ele></trkpt>
    <trkpt lat="41.88834" lon="12.523361"><ele>52</ele></trkpt>
-   <trkpt lat="41.888017" lon="12.523969"><ele>51.5</ele></trkpt>
-   <trkpt lat="41.887886" lon="12.52419"><ele>51.5</ele></trkpt>
+   <trkpt lat="41.888016" lon="12.523966"><ele>51.5</ele></trkpt>
+   <trkpt lat="41.887803" lon="12.524321"><ele>51.5</ele></trkpt>
    <trkpt lat="41.887609" lon="12.524608"><ele>51.75</ele></trkpt>
-   <trkpt lat="41.887407" lon="12.524865"><ele>52</ele></trkpt>
-   <trkpt lat="41.887193" lon="12.525105"><ele>51.75</ele></trkpt>
-   <trkpt lat="41.886981" lon="12.525322"><ele>51.25</ele></trkpt>
-   <trkpt lat="41.886628" lon="12.525621"><ele>49.75</ele></trkpt>
-   <trkpt lat="41.886392" lon="12.525796"><ele>49.75</ele></trkpt>
-   <trkpt lat="41.885999" lon="12.526042"><ele>50.25</ele></trkpt>
-   <trkpt lat="41.885462" lon="12.526324"><ele>47.75</ele></trkpt>
-   <trkpt lat="41.88546" lon="12.526324"><ele>47.5</ele></trkpt>
+   <trkpt lat="41.887408" lon="12.524866"><ele>52</ele></trkpt>
+   <trkpt lat="41.887195" lon="12.52511"><ele>51.75</ele></trkpt>
+   <trkpt lat="41.886982" lon="12.525326"><ele>51.25</ele></trkpt>
+   <trkpt lat="41.886757" lon="12.525523"><ele>50.25</ele></trkpt>
+   <trkpt lat="41.886629" lon="12.525626"><ele>49.75</ele></trkpt>
+   <trkpt lat="41.886392" lon="12.525798"><ele>49.75</ele></trkpt>
+   <trkpt lat="41.886029" lon="12.526033"><ele>50</ele></trkpt>
+   <trkpt lat="41.885736" lon="12.526191"><ele>49.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
