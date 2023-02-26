@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 436 filtered ascend = 0 plain-ascend = -1 cost=436 energy=0.0kwh time=35s -->
+<!-- track-length = 447 filtered ascend = 0 plain-ascend = -1 cost=447 energy=0.0kwh time=36s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,20 +8,19 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>114 Roma Tiburtina Weiche NNN3 - Roma Tiburtina Weiche NNN4</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/41.91555/12.52892/standard&amp;lonlats=12.527404,41.919362;12.528787,41.915637&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=20/41.91560/12.52925/standard&amp;lonlats=12.527367,41.919516;12.528769,41.91568&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="41.919362" lon="12.527404"><ele>24.25</ele></trkpt>
-   <trkpt lat="41.919362" lon="12.527405"><ele>24.25</ele></trkpt>
-   <trkpt lat="41.918871" lon="12.527509"><ele>23.25</ele></trkpt>
-   <trkpt lat="41.918456" lon="12.527612"><ele>23.5</ele></trkpt>
-   <trkpt lat="41.918004" lon="12.527745"><ele>23.25</ele></trkpt>
-   <trkpt lat="41.917442" lon="12.52794"><ele>23</ele></trkpt>
-   <trkpt lat="41.917128" lon="12.528067"><ele>24</ele></trkpt>
-   <trkpt lat="41.916502" lon="12.528336"><ele>23.5</ele></trkpt>
-   <trkpt lat="41.916155" lon="12.528504"><ele>22.5</ele></trkpt>
-   <trkpt lat="41.915636" lon="12.528786"><ele>22.5</ele></trkpt>
+   <trkpt lat="41.919516" lon="12.527367"><ele>24.5</ele></trkpt>
+   <trkpt lat="41.918872" lon="12.527512"><ele>23.25</ele></trkpt>
+   <trkpt lat="41.918457" lon="12.527616"><ele>23.5</ele></trkpt>
+   <trkpt lat="41.918126" lon="12.52771"><ele>23.25</ele></trkpt>
+   <trkpt lat="41.917583" lon="12.527894"><ele>23</ele></trkpt>
+   <trkpt lat="41.917129" lon="12.528072"><ele>24</ele></trkpt>
+   <trkpt lat="41.916503" lon="12.52834"><ele>23.5</ele></trkpt>
+   <trkpt lat="41.916155" lon="12.528506"><ele>22.5</ele></trkpt>
+   <trkpt lat="41.915679" lon="12.528766"><ele>22.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

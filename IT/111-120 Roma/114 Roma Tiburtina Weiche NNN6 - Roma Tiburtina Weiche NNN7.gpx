@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=55 energy=0.0kwh time=4s -->
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=68 energy=0.0kwh time=5s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,14 +8,14 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>114 Roma Tiburtina Weiche NNN6 - Roma Tiburtina Weiche NNN7</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/41.91392/12.53020/standard&amp;lonlats=12.529599,41.914176;12.529884,41.913756&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=20/41.91388/12.53002/standard&amp;lonlats=12.529558,41.914258;12.529902,41.913729&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="41.914175" lon="12.529598"><ele>21.5</ele></trkpt>
-   <trkpt lat="41.914174" lon="12.529599"><ele>21.5</ele></trkpt>
-   <trkpt lat="41.913754" lon="12.529883"><ele>21</ele></trkpt>
-   <trkpt lat="41.913755" lon="12.529882"><ele>21</ele></trkpt>
+   <trkpt lat="41.914258" lon="12.529558"><ele>21.5</ele></trkpt>
+   <trkpt lat="41.914258" lon="12.529559"><ele>21.5</ele></trkpt>
+   <trkpt lat="41.913725" lon="12.529902"><ele>21</ele></trkpt>
+   <trkpt lat="41.913728" lon="12.5299"><ele>21</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
