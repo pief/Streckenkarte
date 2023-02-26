@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 20 filtered ascend = 0 plain-ascend = 1 cost=20 energy=0.0kwh time=2s -->
+<!-- track-length = 173 filtered ascend = 1 plain-ascend = 2 cost=173 energy=0.0kwh time=14s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,14 +8,15 @@
  creator="BRouter-Web 99.61.0">
  <trk>
   <name>RT Roma Termini Weiche OOO11 - Roma Termini Weiche OOO12</name>
-  <link href="https://brouter.damsy.net/latest/#map=21/41.89756/12.50821/standard&amp;lonlats=12.508216,41.897461;12.508087,41.897587&amp;profile=rail">
+  <link href="https://brouter.damsy.net/latest/#map=20/41.89867/12.50709/standard&amp;lonlats=12.508087,41.897587;12.506854,41.89881&amp;profile=rail">
    <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="41.897461" lon="12.508216"><ele>58.25</ele></trkpt>
-   <trkpt lat="41.89746" lon="12.508218"><ele>58.25</ele></trkpt>
-   <trkpt lat="41.897587" lon="12.508088"><ele>59</ele></trkpt>
    <trkpt lat="41.897587" lon="12.508087"><ele>59</ele></trkpt>
+   <trkpt lat="41.898003" lon="12.507664"><ele>60</ele></trkpt>
+   <trkpt lat="41.898617" lon="12.50706"><ele>60.25</ele></trkpt>
+   <trkpt lat="41.898809" lon="12.506853"><ele>60.75</ele></trkpt>
+   <trkpt lat="41.898809" lon="12.506852"><ele>60.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
