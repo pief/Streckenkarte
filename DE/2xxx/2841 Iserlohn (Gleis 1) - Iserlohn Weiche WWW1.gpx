@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 497 filtered ascend = 0 plain-ascend = -3 cost=497 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2841 Iserlohn (Gleis 1) - Iserlohn Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.37312/7.69148/standard&amp;lonlats=7.692063,51.373071;7.685387,51.374238&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.373072" lon="7.692064"><ele>247.5</ele></trkpt>
+   <trkpt lat="51.373116" lon="7.691936"><ele>247.5</ele></trkpt>
+   <trkpt lat="51.373274" lon="7.691485"><ele>247.5</ele></trkpt>
+   <trkpt lat="51.373609" lon="7.690524"><ele>246.25</ele></trkpt>
+   <trkpt lat="51.373699" lon="7.690216"><ele>246</ele></trkpt>
+   <trkpt lat="51.373754" lon="7.689991"><ele>245.75</ele></trkpt>
+   <trkpt lat="51.373813" lon="7.689688"><ele>246</ele></trkpt>
+   <trkpt lat="51.373863" lon="7.68938"><ele>246</ele></trkpt>
+   <trkpt lat="51.373883" lon="7.689222"><ele>246</ele></trkpt>
+   <trkpt lat="51.373912" lon="7.68896"><ele>245.75</ele></trkpt>
+   <trkpt lat="51.373985" lon="7.688157"><ele>245.75</ele></trkpt>
+   <trkpt lat="51.373997" lon="7.688023"><ele>245.5</ele></trkpt>
+   <trkpt lat="51.374235" lon="7.685387"><ele>244</ele></trkpt>
+   <trkpt lat="51.374235" lon="7.685386"><ele>244</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

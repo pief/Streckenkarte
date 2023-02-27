@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 408 filtered ascend = 1 plain-ascend = 0 cost=408 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2841 Schwerte(Ruhr) (Gleis 6) - Schwerte(Ruhr) Weiche 109</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.43924/7.55710/standard&amp;lonlats=7.55891,51.442651;7.557123,51.439207&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.44265" lon="7.55891"><ele>126.75</ele></trkpt>
+   <trkpt lat="51.442402" lon="7.558756"><ele>126.75</ele></trkpt>
+   <trkpt lat="51.442356" lon="7.558727"><ele>127</ele></trkpt>
+   <trkpt lat="51.441607" lon="7.558283"><ele>127.75</ele></trkpt>
+   <trkpt lat="51.441213" lon="7.558068"><ele>127.75</ele></trkpt>
+   <trkpt lat="51.44016" lon="7.557566"><ele>128</ele></trkpt>
+   <trkpt lat="51.439592" lon="7.557327"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.439206" lon="7.557122"><ele>126.75</ele></trkpt>
+   <trkpt lat="51.439206" lon="7.557122"><ele>126.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
