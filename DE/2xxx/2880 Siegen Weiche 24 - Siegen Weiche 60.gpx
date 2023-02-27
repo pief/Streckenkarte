@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 376 filtered ascend = 3 plain-ascend = 3 cost=376 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2880 Siegen Weiche 24 - Siegen Weiche 60</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.87748/8.01967/standard&amp;lonlats=8.020764,50.87864;8.016923,50.876359&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.87864" lon="8.020764"><ele>239.25</ele></trkpt>
+   <trkpt lat="50.878185" lon="8.019989"><ele>239</ele></trkpt>
+   <trkpt lat="50.877904" lon="8.01946"><ele>240</ele></trkpt>
+   <trkpt lat="50.877711" lon="8.019136"><ele>240.25</ele></trkpt>
+   <trkpt lat="50.877578" lon="8.018918"><ele>240</ele></trkpt>
+   <trkpt lat="50.877239" lon="8.018364"><ele>240.75</ele></trkpt>
+   <trkpt lat="50.877088" lon="8.018118"><ele>241.5</ele></trkpt>
+   <trkpt lat="50.876404" lon="8.016992"><ele>242.25</ele></trkpt>
+   <trkpt lat="50.876395" lon="8.016979"><ele>242.25</ele></trkpt>
+   <trkpt lat="50.876358" lon="8.016923"><ele>242.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

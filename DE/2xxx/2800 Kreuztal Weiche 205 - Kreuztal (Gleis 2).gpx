@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 0 plain-ascend = 0 cost=139 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Kreuztal Weiche 205 - Kreuztal (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.95556/7.99256/standard&amp;lonlats=7.991084,50.956561;7.992323,50.955614&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.956561" lon="7.991084"><ele>277</ele></trkpt>
+   <trkpt lat="50.95656" lon="7.991086"><ele>277.25</ele></trkpt>
+   <trkpt lat="50.955936" lon="7.991906"><ele>277.25</ele></trkpt>
+   <trkpt lat="50.955616" lon="7.992326"><ele>277.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

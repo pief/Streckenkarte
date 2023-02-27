@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 543 filtered ascend = 0 plain-ascend = 1 cost=543 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Siegen-Geisweid (Gleis 2) - Siegen-Geisweid Weiche 529</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.91056/8.01481/standard&amp;lonlats=8.014257,50.915366;8.014066,50.910563&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.915365" lon="8.014256"><ele>256</ele></trkpt>
+   <trkpt lat="50.914627" lon="8.014148"><ele>256</ele></trkpt>
+   <trkpt lat="50.912863" lon="8.013867"><ele>256.5</ele></trkpt>
+   <trkpt lat="50.912466" lon="8.013821"><ele>256</ele></trkpt>
+   <trkpt lat="50.912169" lon="8.0138"><ele>255.75</ele></trkpt>
+   <trkpt lat="50.91175" lon="8.013807"><ele>255.5</ele></trkpt>
+   <trkpt lat="50.911483" lon="8.013833"><ele>255.75</ele></trkpt>
+   <trkpt lat="50.911252" lon="8.013873"><ele>255.75</ele></trkpt>
+   <trkpt lat="50.910916" lon="8.01395"><ele>256</ele></trkpt>
+   <trkpt lat="50.910852" lon="8.01397"><ele>256</ele></trkpt>
+   <trkpt lat="50.910565" lon="8.014066"><ele>256.5</ele></trkpt>
+   <trkpt lat="50.910563" lon="8.014066"><ele>256.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

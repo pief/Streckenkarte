@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 1 cost=11 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Plettenberg Weiche 55 - Plettenberg Weiche 57</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23261/7.87648/standard&amp;lonlats=7.875757,51.23254;7.875856,51.232585&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.23254" lon="7.875755"><ele>209.25</ele></trkpt>
+   <trkpt lat="51.232542" lon="7.87576"><ele>209.5</ele></trkpt>
+   <trkpt lat="51.232562" lon="7.875812"><ele>209.5</ele></trkpt>
+   <trkpt lat="51.232577" lon="7.875852"><ele>209.75</ele></trkpt>
+   <trkpt lat="51.23258" lon="7.875859"><ele>209.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

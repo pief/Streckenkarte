@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 187 filtered ascend = 0 plain-ascend = -3 cost=187 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2880 Siegen-Weidenau Weiche 618 - Siegen-Weidenau Weiche 625</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.89061/8.03004/standard&amp;lonlats=8.030072,50.892039;8.030075,50.89038&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.892039" lon="8.030073"><ele>251.5</ele></trkpt>
+   <trkpt lat="50.892036" lon="8.030073"><ele>251.5</ele></trkpt>
+   <trkpt lat="50.89038" lon="8.030075"><ele>247.75</ele></trkpt>
+   <trkpt lat="50.89038" lon="8.030075"><ele>247.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

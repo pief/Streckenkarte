@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 0 plain-ascend = 1 cost=198 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Werdohl Weiche 3 - Werdohl (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.25921/7.75796/standard&amp;lonlats=7.754958,51.258986;7.757666,51.259422&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.258983" lon="7.754958"><ele>186</ele></trkpt>
+   <trkpt lat="51.258992" lon="7.755011"><ele>186</ele></trkpt>
+   <trkpt lat="51.259001" lon="7.755069"><ele>186</ele></trkpt>
+   <trkpt lat="51.259151" lon="7.756012"><ele>185.75</ele></trkpt>
+   <trkpt lat="51.259155" lon="7.756042"><ele>185.75</ele></trkpt>
+   <trkpt lat="51.25942" lon="7.757665"><ele>186.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

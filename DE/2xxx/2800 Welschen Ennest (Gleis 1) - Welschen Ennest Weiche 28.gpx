@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 700 filtered ascend = 12 plain-ascend = 13 cost=700 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Welschen Ennest (Gleis 1) - Welschen Ennest Weiche 28</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.03724/7.99766/standard&amp;lonlats=8.003415,51.041858;7.997454,51.036915&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.041857" lon="8.003414"><ele>411.5</ele></trkpt>
+   <trkpt lat="51.041732" lon="8.003241"><ele>411.25</ele></trkpt>
+   <trkpt lat="51.041104" lon="8.00242"><ele>413.75</ele></trkpt>
+   <trkpt lat="51.040135" lon="8.001201"><ele>415</ele></trkpt>
+   <trkpt lat="51.039325" lon="8.000158"><ele>415.25</ele></trkpt>
+   <trkpt lat="51.038604" lon="7.99921"><ele>418</ele></trkpt>
+   <trkpt lat="51.038237" lon="7.998743"><ele>418.5</ele></trkpt>
+   <trkpt lat="51.038003" lon="7.998475"><ele>419</ele></trkpt>
+   <trkpt lat="51.03786" lon="7.99831"><ele>419.25</ele></trkpt>
+   <trkpt lat="51.037387" lon="7.997831"><ele>421.25</ele></trkpt>
+   <trkpt lat="51.037155" lon="7.997627"><ele>422.75</ele></trkpt>
+   <trkpt lat="51.036915" lon="7.997454"><ele>424</ele></trkpt>
+   <trkpt lat="51.036915" lon="7.997454"><ele>424</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

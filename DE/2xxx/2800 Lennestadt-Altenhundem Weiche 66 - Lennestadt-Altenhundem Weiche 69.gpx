@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 2 plain-ascend = 2 cost=201 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Lennestadt-Altenhundem Weiche 66 - Lennestadt-Altenhundem Weiche 69</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.09622/8.06821/standard&amp;lonlats=8.068183,51.097913;8.067556,51.097036;8.067057,51.096342&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.097913" lon="8.068183"><ele>285.75</ele></trkpt>
+   <trkpt lat="51.097839" lon="8.06813"><ele>286</ele></trkpt>
+   <trkpt lat="51.097035" lon="8.067552"><ele>288</ele></trkpt>
+   <trkpt lat="51.096944" lon="8.067486"><ele>288.5</ele></trkpt>
+   <trkpt lat="51.096875" lon="8.067437"><ele>288.5</ele></trkpt>
+   <trkpt lat="51.096462" lon="8.067146"><ele>288.75</ele></trkpt>
+   <trkpt lat="51.096453" lon="8.067139"><ele>288.75</ele></trkpt>
+   <trkpt lat="51.096436" lon="8.067127"><ele>288.75</ele></trkpt>
+   <trkpt lat="51.0964" lon="8.067101"><ele>288.5</ele></trkpt>
+   <trkpt lat="51.096341" lon="8.067061"><ele>288.5</ele></trkpt>
+   <trkpt lat="51.096339" lon="8.06706"><ele>288.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

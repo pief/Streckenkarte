@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 437 filtered ascend = 0 plain-ascend = 0 cost=437 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Kreuztal Weiche 201 - Kreuztal Weiche 205</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.95650/7.99179/standard&amp;lonlats=7.987289,50.959604;7.991084,50.956561&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.959603" lon="7.987287"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.959485" lon="7.987406"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.959308" lon="7.987578"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.959058" lon="7.987851"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.958661" lon="7.98832"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.958515" lon="7.988513"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.956841" lon="7.990715"><ele>277</ele></trkpt>
+   <trkpt lat="50.956764" lon="7.990816"><ele>277</ele></trkpt>
+   <trkpt lat="50.956716" lon="7.99088"><ele>277</ele></trkpt>
+   <trkpt lat="50.956561" lon="7.991084"><ele>277</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

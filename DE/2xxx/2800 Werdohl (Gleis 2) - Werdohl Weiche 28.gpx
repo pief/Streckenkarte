@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 631 filtered ascend = 16 plain-ascend = 17 cost=631 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Werdohl (Gleis 2) - Werdohl Weiche 28</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.26096/7.76667/standard&amp;lonlats=7.757665,51.25942;7.766333,51.26079&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.259419" lon="7.757664"><ele>186.5</ele></trkpt>
+   <trkpt lat="51.259449" lon="7.757843"><ele>186.75</ele></trkpt>
+   <trkpt lat="51.259665" lon="7.759006"><ele>186.5</ele></trkpt>
+   <trkpt lat="51.259709" lon="7.75925"><ele>186.25</ele></trkpt>
+   <trkpt lat="51.259836" lon="7.760015"><ele>185.25</ele></trkpt>
+   <trkpt lat="51.259988" lon="7.760981"><ele>186</ele></trkpt>
+   <trkpt lat="51.260065" lon="7.761468"><ele>186.75</ele></trkpt>
+   <trkpt lat="51.260171" lon="7.762228"><ele>188</ele></trkpt>
+   <trkpt lat="51.260399" lon="7.763862"><ele>192</ele></trkpt>
+   <trkpt lat="51.260459" lon="7.764243"><ele>193.25</ele></trkpt>
+   <trkpt lat="51.260577" lon="7.764985"><ele>195.75</ele></trkpt>
+   <trkpt lat="51.260674" lon="7.765605"><ele>199</ele></trkpt>
+   <trkpt lat="51.260696" lon="7.765743"><ele>199.5</ele></trkpt>
+   <trkpt lat="51.260719" lon="7.765884"><ele>200.25</ele></trkpt>
+   <trkpt lat="51.26079" lon="7.766333"><ele>203</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

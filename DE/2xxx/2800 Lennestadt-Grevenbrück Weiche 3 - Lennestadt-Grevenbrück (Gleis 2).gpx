@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=89 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Lennestadt-Grevenbrück Weiche 3 - Lennestadt-Grevenbrück (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.14150/8.01843/standard&amp;lonlats=8.017036,51.142096;8.01801,51.141615&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.142094" lon="8.017034"><ele>251.5</ele></trkpt>
+   <trkpt lat="51.142094" lon="8.017037"><ele>251.5</ele></trkpt>
+   <trkpt lat="51.141961" lon="8.017304"><ele>251.25</ele></trkpt>
+   <trkpt lat="51.141913" lon="8.017401"><ele>251.25</ele></trkpt>
+   <trkpt lat="51.141655" lon="8.017926"><ele>251.5</ele></trkpt>
+   <trkpt lat="51.141623" lon="8.01799"><ele>251.75</ele></trkpt>
+   <trkpt lat="51.141613" lon="8.018008"><ele>251.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

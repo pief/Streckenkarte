@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1120 filtered ascend = 4 plain-ascend = 3 cost=1120 energy=0.0kwh time=1m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Finnentrop Weiche 14 - Finnentrop (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.17298/7.96522/standard&amp;lonlats=7.971694,51.181946;7.964683,51.173168&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.181946" lon="7.971694"><ele>235.5</ele></trkpt>
+   <trkpt lat="51.181876" lon="7.971614"><ele>235.25</ele></trkpt>
+   <trkpt lat="51.18181" lon="7.97154"><ele>235.5</ele></trkpt>
+   <trkpt lat="51.180916" lon="7.970545"><ele>238</ele></trkpt>
+   <trkpt lat="51.180342" lon="7.969899"><ele>236</ele></trkpt>
+   <trkpt lat="51.179119" lon="7.968534"><ele>237.75</ele></trkpt>
+   <trkpt lat="51.178092" lon="7.967396"><ele>240.25</ele></trkpt>
+   <trkpt lat="51.177915" lon="7.967212"><ele>239.75</ele></trkpt>
+   <trkpt lat="51.177628" lon="7.966947"><ele>238.25</ele></trkpt>
+   <trkpt lat="51.17657" lon="7.966029"><ele>237.75</ele></trkpt>
+   <trkpt lat="51.176257" lon="7.96579"><ele>238.75</ele></trkpt>
+   <trkpt lat="51.176019" lon="7.96564"><ele>239</ele></trkpt>
+   <trkpt lat="51.175739" lon="7.965514"><ele>239.25</ele></trkpt>
+   <trkpt lat="51.17557" lon="7.965453"><ele>239.25</ele></trkpt>
+   <trkpt lat="51.174721" lon="7.965178"><ele>238.25</ele></trkpt>
+   <trkpt lat="51.174376" lon="7.965067"><ele>237.5</ele></trkpt>
+   <trkpt lat="51.173353" lon="7.964739"><ele>238.25</ele></trkpt>
+   <trkpt lat="51.173167" lon="7.964682"><ele>238.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

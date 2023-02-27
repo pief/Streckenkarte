@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1707 filtered ascend = 1 plain-ascend = -20 cost=1707 energy=0.0kwh time=2m 17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Eichen (Kreis Siegen) (Gleis 1) - Kreuztal Weiche 201</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.95985/7.98749/standard&amp;lonlats=7.978077,50.973709;7.987289,50.959604&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.973706" lon="7.978072"><ele>299.25</ele></trkpt>
+   <trkpt lat="50.973577" lon="7.978203"><ele>299.25</ele></trkpt>
+   <trkpt lat="50.973273" lon="7.978471"><ele>299.5</ele></trkpt>
+   <trkpt lat="50.973154" lon="7.978571"><ele>299.75</ele></trkpt>
+   <trkpt lat="50.972853" lon="7.978796"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.97279" lon="7.978836"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.97182" lon="7.979462"><ele>298</ele></trkpt>
+   <trkpt lat="50.969694" lon="7.980795"><ele>296.5</ele></trkpt>
+   <trkpt lat="50.967898" lon="7.981935"><ele>292.25</ele></trkpt>
+   <trkpt lat="50.963193" lon="7.984899"><ele>284.75</ele></trkpt>
+   <trkpt lat="50.961963" lon="7.98567"><ele>282.75</ele></trkpt>
+   <trkpt lat="50.961295" lon="7.986103"><ele>280.75</ele></trkpt>
+   <trkpt lat="50.960301" lon="7.986729"><ele>279</ele></trkpt>
+   <trkpt lat="50.959968" lon="7.986978"><ele>278.75</ele></trkpt>
+   <trkpt lat="50.959604" lon="7.987287"><ele>278.5</ele></trkpt>
+   <trkpt lat="50.959603" lon="7.987287"><ele>278.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
