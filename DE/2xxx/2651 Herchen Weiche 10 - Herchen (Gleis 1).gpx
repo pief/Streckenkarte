@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 414 filtered ascend = 4 plain-ascend = 1 cost=414 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Herchen Weiche 10 - Herchen (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.77091/7.52166/standard&amp;lonlats=7.518665,50.774147;7.521576,50.770938&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.774146" lon="7.518663"><ele>102</ele></trkpt>
+   <trkpt lat="50.77414" lon="7.518669"><ele>102</ele></trkpt>
+   <trkpt lat="50.773215" lon="7.519508"><ele>106</ele></trkpt>
+   <trkpt lat="50.772793" lon="7.519893"><ele>105.25</ele></trkpt>
+   <trkpt lat="50.771445" lon="7.521121"><ele>106.75</ele></trkpt>
+   <trkpt lat="50.770939" lon="7.521581"><ele>103</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 230 filtered ascend = 2 plain-ascend = 1 cost=230 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Schladern (Sieg) Weiche 116 - Schladern (Sieg) (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.80704/7.59242/standard&amp;lonlats=7.595423,50.806638;7.592274,50.807047&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.806636" lon="7.595422"><ele>130.5</ele></trkpt>
+   <trkpt lat="50.806637" lon="7.595422"><ele>130.75</ele></trkpt>
+   <trkpt lat="50.806797" lon="7.594183"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.806875" lon="7.593582"><ele>133</ele></trkpt>
+   <trkpt lat="50.80694" lon="7.593083"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.806943" lon="7.593065"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.807047" lon="7.592274"><ele>131.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

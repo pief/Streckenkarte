@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 0 plain-ascend = -4 cost=301 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Au (Sieg) (Gleis 2) - Au (Sieg) Weiche 704</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.77378/7.65267/standard&amp;lonlats=7.656634,50.773789;7.652478,50.773537&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.773789" lon="7.656632"><ele>147</ele></trkpt>
+   <trkpt lat="50.773765" lon="7.656471"><ele>147</ele></trkpt>
+   <trkpt lat="50.773674" lon="7.655866"><ele>146.5</ele></trkpt>
+   <trkpt lat="50.773583" lon="7.655208"><ele>145.75</ele></trkpt>
+   <trkpt lat="50.773519" lon="7.654557"><ele>144.75</ele></trkpt>
+   <trkpt lat="50.77349" lon="7.653981"><ele>144</ele></trkpt>
+   <trkpt lat="50.773486" lon="7.65359"><ele>144</ele></trkpt>
+   <trkpt lat="50.773495" lon="7.653111"><ele>143.5</ele></trkpt>
+   <trkpt lat="50.773516" lon="7.652701"><ele>142.75</ele></trkpt>
+   <trkpt lat="50.773536" lon="7.652479"><ele>142.25</ele></trkpt>
+   <trkpt lat="50.773536" lon="7.652477"><ele>142</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

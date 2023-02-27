@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = -1 cost=61 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Scheuerfeld (Sieg) (Gleis 402) - Scheuerfeld (Sieg) Weiche 405</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.79178/7.83681/standard&amp;lonlats=7.837984,50.79213;7.837184,50.791976&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.792127" lon="7.837984"><ele>185.25</ele></trkpt>
+   <trkpt lat="50.792114" lon="7.837914"><ele>185.25</ele></trkpt>
+   <trkpt lat="50.791974" lon="7.837185"><ele>184</ele></trkpt>
+   <trkpt lat="50.791973" lon="7.837183"><ele>183.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

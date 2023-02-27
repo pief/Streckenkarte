@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 617 filtered ascend = 6 plain-ascend = 6 cost=617 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Eitorf (Gleis 2) - Eitorf Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/50.7755/7.4391/standard&amp;lonlats=7.447531,50.773597;7.439284,50.775402&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.773597" lon="7.447531"><ele>88.75</ele></trkpt>
+   <trkpt lat="50.773798" lon="7.44652"><ele>89</ele></trkpt>
+   <trkpt lat="50.774404" lon="7.443452"><ele>92.25</ele></trkpt>
+   <trkpt lat="50.7746" lon="7.442555"><ele>94</ele></trkpt>
+   <trkpt lat="50.775403" lon="7.439285"><ele>94.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

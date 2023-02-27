@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 427 filtered ascend = 2 plain-ascend = -7 cost=427 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Blankenberg (Sieg) (Gleis 2) - Blankenberg (Sieg) Weiche 103</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.76908/7.34193/standard&amp;lonlats=7.347252,50.768666;7.341372,50.769439&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.768651" lon="7.347247"><ele>87.75</ele></trkpt>
+   <trkpt lat="50.768724" lon="7.346705"><ele>89.75</ele></trkpt>
+   <trkpt lat="50.769039" lon="7.344343"><ele>85</ele></trkpt>
+   <trkpt lat="50.769055" lon="7.344224"><ele>84.75</ele></trkpt>
+   <trkpt lat="50.769436" lon="7.341373"><ele>80.5</ele></trkpt>
+   <trkpt lat="50.769436" lon="7.341371"><ele>80.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

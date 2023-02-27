@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 169 filtered ascend = 1 plain-ascend = 2 cost=169 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Betzdorf (Sieg) (Gleis 106) - Betzdorf (Sieg) Weiche 82</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.79010/7.86837/standard&amp;lonlats=7.869559,50.789602;7.867437,50.790192&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.789599" lon="7.869558"><ele>186.75</ele></trkpt>
+   <trkpt lat="50.78961" lon="7.869444"><ele>187</ele></trkpt>
+   <trkpt lat="50.789668" lon="7.869111"><ele>187.5</ele></trkpt>
+   <trkpt lat="50.789701" lon="7.868919"><ele>187.75</ele></trkpt>
+   <trkpt lat="50.789801" lon="7.868544"><ele>187.75</ele></trkpt>
+   <trkpt lat="50.790005" lon="7.86793"><ele>187.75</ele></trkpt>
+   <trkpt lat="50.790012" lon="7.86791"><ele>187.75</ele></trkpt>
+   <trkpt lat="50.79019" lon="7.867436"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.79019" lon="7.867435"><ele>188.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

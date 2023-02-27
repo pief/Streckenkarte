@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 3 plain-ascend = 4 cost=251 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Wissen (Sieg) Weiche 637 - Wissen (Sieg) (Gleis 602)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.78281/7.74016/standard&amp;lonlats=7.742856,50.781651;7.739822,50.782794&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.781649" lon="7.742854"><ele>154</ele></trkpt>
+   <trkpt lat="50.781651" lon="7.74285"><ele>154</ele></trkpt>
+   <trkpt lat="50.781908" lon="7.742168"><ele>155.25</ele></trkpt>
+   <trkpt lat="50.781949" lon="7.742058"><ele>155.5</ele></trkpt>
+   <trkpt lat="50.782598" lon="7.740377"><ele>157.25</ele></trkpt>
+   <trkpt lat="50.782791" lon="7.73982"><ele>157.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
