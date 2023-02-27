@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 159 filtered ascend = 2 plain-ascend = 3 cost=159 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Hagen-Vorhalle Weiche 547 - Hagen-Vorhalle (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.38826/7.43371/standard&amp;lonlats=7.435644,51.388759;7.433604,51.388231&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.388756" lon="7.435644"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.388756" lon="7.435642"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.38859" lon="7.434948"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.388587" lon="7.434932"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.388497" lon="7.434556"><ele>102</ele></trkpt>
+   <trkpt lat="51.388357" lon="7.434056"><ele>103</ele></trkpt>
+   <trkpt lat="51.388264" lon="7.433723"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.38823" lon="7.433603"><ele>103.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

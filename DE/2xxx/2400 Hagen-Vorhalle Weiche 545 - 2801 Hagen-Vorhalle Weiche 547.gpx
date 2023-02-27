@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 148 filtered ascend = 0 plain-ascend = 0 cost=148 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2400 Hagen-Vorhalle Weiche 545 - 2801 Hagen-Vorhalle Weiche 547</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.38884/7.43583/standard&amp;lonlats=7.437642,51.389129;7.435644,51.388759&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.389128" lon="7.437641"><ele>101</ele></trkpt>
+   <trkpt lat="51.388892" lon="7.436315"><ele>101</ele></trkpt>
+   <trkpt lat="51.388756" lon="7.435642"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.388756" lon="7.435644"><ele>100.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

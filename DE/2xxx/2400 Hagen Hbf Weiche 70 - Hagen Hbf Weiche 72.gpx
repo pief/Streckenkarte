@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 1 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2400 Hagen Hbf Weiche 70 - Hagen Hbf Weiche 72</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.36522/7.46071/standard&amp;lonlats=7.460175,51.364919;7.460216,51.365375&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.364919" lon="7.460174"><ele>104.25</ele></trkpt>
+   <trkpt lat="51.365193" lon="7.46021"><ele>104.75</ele></trkpt>
+   <trkpt lat="51.365373" lon="7.460216"><ele>105</ele></trkpt>
+   <trkpt lat="51.365374" lon="7.460215"><ele>105</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

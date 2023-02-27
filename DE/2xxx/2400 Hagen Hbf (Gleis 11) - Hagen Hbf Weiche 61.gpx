@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = -1 cost=121 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2400 Hagen Hbf (Gleis 11) - Hagen Hbf Weiche 61</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.36395/7.46033/standard&amp;lonlats=7.460153,51.362789;7.460155,51.363853&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.362788" lon="7.460152"><ele>108</ele></trkpt>
+   <trkpt lat="51.362982" lon="7.460179"><ele>108</ele></trkpt>
+   <trkpt lat="51.363216" lon="7.460181"><ele>108</ele></trkpt>
+   <trkpt lat="51.363851" lon="7.460155"><ele>106</ele></trkpt>
+   <trkpt lat="51.363852" lon="7.460154"><ele>105.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

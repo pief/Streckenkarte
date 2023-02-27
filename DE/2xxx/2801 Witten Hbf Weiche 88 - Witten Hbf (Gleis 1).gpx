@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 483 filtered ascend = 3 plain-ascend = 4 cost=483 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Witten Hbf Weiche 88 - Witten Hbf (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.43382/7.33262/standard&amp;lonlats=7.333878,51.432357;7.329577,51.435651&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.432354" lon="7.333875"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.432356" lon="7.333872"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.432639" lon="7.333307"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.433091" lon="7.332487"><ele>91</ele></trkpt>
+   <trkpt lat="51.433362" lon="7.33205"><ele>91.5</ele></trkpt>
+   <trkpt lat="51.433471" lon="7.33189"><ele>92</ele></trkpt>
+   <trkpt lat="51.433604" lon="7.331697"><ele>92.5</ele></trkpt>
+   <trkpt lat="51.433836" lon="7.331403"><ele>93</ele></trkpt>
+   <trkpt lat="51.434143" lon="7.33106"><ele>93.5</ele></trkpt>
+   <trkpt lat="51.43478" lon="7.33043"><ele>93.25</ele></trkpt>
+   <trkpt lat="51.435648" lon="7.329581"><ele>94.5</ele></trkpt>
+   <trkpt lat="51.435651" lon="7.329577"><ele>94.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

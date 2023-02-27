@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 303 filtered ascend = 0 plain-ascend = -2 cost=303 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Hagen-Vorhalle Vof Weiche 585 - Hagen-Vorhalle Vof Weiche 592</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.38509/7.42189/standard&amp;lonlats=7.425057,51.38585;7.421082,51.384802&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.38585" lon="7.425055"><ele>103</ele></trkpt>
+   <trkpt lat="51.385852" lon="7.425061"><ele>103</ele></trkpt>
+   <trkpt lat="51.385138" lon="7.42243"><ele>100.25</ele></trkpt>
+   <trkpt lat="51.38492" lon="7.421582"><ele>100</ele></trkpt>
+   <trkpt lat="51.3848" lon="7.421083"><ele>100.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
