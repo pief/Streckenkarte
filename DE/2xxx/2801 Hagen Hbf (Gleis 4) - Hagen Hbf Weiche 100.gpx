@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 0 plain-ascend = 0 cost=264 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2801 Hagen Hbf (Gleis 4) - Hagen Hbf Weiche 100</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.36497/7.46216/standard&amp;lonlats=7.460894,51.363699;7.460584,51.366006&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.363699" lon="7.460894"><ele>106.5</ele></trkpt>
+   <trkpt lat="51.363797" lon="7.460883"><ele>106.25</ele></trkpt>
+   <trkpt lat="51.364517" lon="7.460802"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.3646" lon="7.460792"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.364604" lon="7.460792"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.36461" lon="7.460791"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.364714" lon="7.460777"><ele>105.5</ele></trkpt>
+   <trkpt lat="51.365004" lon="7.460735"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.365438" lon="7.460644"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.365484" lon="7.460635"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.365699" lon="7.460599"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.366004" lon="7.460583"><ele>106.5</ele></trkpt>
+   <trkpt lat="51.366005" lon="7.460582"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
