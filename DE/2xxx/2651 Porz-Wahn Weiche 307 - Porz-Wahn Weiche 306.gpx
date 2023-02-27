@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 1 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Porz-Wahn Weiche 307 - Porz-Wahn Weiche 306</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.85364/7.08258/standard&amp;lonlats=7.082502,50.853323;7.08229,50.853568&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.853323" lon="7.082502"><ele>52.75</ele></trkpt>
+   <trkpt lat="50.853565" lon="7.082289"><ele>53.25</ele></trkpt>
+   <trkpt lat="50.853567" lon="7.082287"><ele>53.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

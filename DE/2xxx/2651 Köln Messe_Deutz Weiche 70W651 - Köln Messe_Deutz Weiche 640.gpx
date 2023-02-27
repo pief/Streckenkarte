@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = 0 cost=109 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Köln Messe/Deutz Weiche 70W651 - Köln Messe/Deutz Weiche 640</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/50.94059/6.97854/standard&amp;lonlats=6.979821,50.940358;6.97835,50.940541&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.940355" lon="6.97982"/>
+   <trkpt lat="50.940355" lon="6.979824"/>
+   <trkpt lat="50.940412" lon="6.979306"><ele>50.25</ele></trkpt>
+   <trkpt lat="50.940451" lon="6.97898"><ele>49.75</ele></trkpt>
+   <trkpt lat="50.940541" lon="6.97835"><ele>49.25</ele></trkpt>
+   <trkpt lat="50.940541" lon="6.97835"><ele>49.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

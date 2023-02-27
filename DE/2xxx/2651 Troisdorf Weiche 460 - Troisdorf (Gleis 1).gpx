@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 92 filtered ascend = 0 plain-ascend = 0 cost=92 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Troisdorf Weiche 460 - Troisdorf (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.81400/7.15016/standard&amp;lonlats=7.151378,50.81384;7.150219,50.8142&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.813836" lon="7.151375"><ele>60</ele></trkpt>
+   <trkpt lat="50.813864" lon="7.151293"><ele>60</ele></trkpt>
+   <trkpt lat="50.814206" lon="7.150224"><ele>59.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

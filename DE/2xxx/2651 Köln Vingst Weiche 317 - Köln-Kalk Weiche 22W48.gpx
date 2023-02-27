@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1096 filtered ascend = 2 plain-ascend = 2 cost=1096 energy=0.0kwh time=1m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Köln Vingst Weiche 317 - Köln-Kalk Weiche 22W48</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.92920/7.01269/standard&amp;lonlats=7.023946,50.923037;7.012149,50.929308&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.923035" lon="7.023944"/>
+   <trkpt lat="50.923035" lon="7.023945"/>
+   <trkpt lat="50.923293" lon="7.023498"><ele>52.75</ele></trkpt>
+   <trkpt lat="50.923435" lon="7.02326"><ele>53</ele></trkpt>
+   <trkpt lat="50.924735" lon="7.021074"><ele>55</ele></trkpt>
+   <trkpt lat="50.925104" lon="7.020438"><ele>54</ele></trkpt>
+   <trkpt lat="50.925927" lon="7.018994"><ele>51</ele></trkpt>
+   <trkpt lat="50.927044" lon="7.01704"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.92717" lon="7.016813"><ele>52</ele></trkpt>
+   <trkpt lat="50.927189" lon="7.016778"><ele>52</ele></trkpt>
+   <trkpt lat="50.927215" lon="7.016731"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.927492" lon="7.016208"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.927652" lon="7.015898"><ele>51</ele></trkpt>
+   <trkpt lat="50.927985" lon="7.015212"><ele>51.5</ele></trkpt>
+   <trkpt lat="50.928128" lon="7.014904"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.928261" lon="7.014615"><ele>53</ele></trkpt>
+   <trkpt lat="50.92833" lon="7.014462"><ele>53.5</ele></trkpt>
+   <trkpt lat="50.928433" lon="7.014229"><ele>53.5</ele></trkpt>
+   <trkpt lat="50.92887" lon="7.013206"><ele>54</ele></trkpt>
+   <trkpt lat="50.929306" lon="7.01215"><ele>54.5</ele></trkpt>
+   <trkpt lat="50.929306" lon="7.012147"><ele>54.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

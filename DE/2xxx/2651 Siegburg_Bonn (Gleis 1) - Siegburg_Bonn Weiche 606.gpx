@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Siegburg/Bonn (Gleis 1) - Siegburg/Bonn Weiche 606</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.79455/7.20207/standard&amp;lonlats=7.202796,50.794087;7.201875,50.794755&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.794087" lon="7.202796"><ele>59</ele></trkpt>
+   <trkpt lat="50.794738" lon="7.201899"><ele>59</ele></trkpt>
+   <trkpt lat="50.794754" lon="7.201875"><ele>59</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
