@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 320 filtered ascend = 2 plain-ascend = 2 cost=320 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Letmathe Weiche 172 - Letmathe (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.36294/7.61889/standard&amp;lonlats=7.622564,51.363476;7.618184,51.362831&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.363476" lon="7.622562"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.363477" lon="7.622567"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.363459" lon="7.622231"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.36336" lon="7.621158"><ele>131.5</ele></trkpt>
+   <trkpt lat="51.363239" lon="7.620277"><ele>132.25</ele></trkpt>
+   <trkpt lat="51.36318" lon="7.619899"><ele>132.5</ele></trkpt>
+   <trkpt lat="51.363152" lon="7.619753"><ele>132.75</ele></trkpt>
+   <trkpt lat="51.363079" lon="7.619372"><ele>132.75</ele></trkpt>
+   <trkpt lat="51.362846" lon="7.618254"><ele>132.25</ele></trkpt>
+   <trkpt lat="51.36283" lon="7.618183"><ele>132</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

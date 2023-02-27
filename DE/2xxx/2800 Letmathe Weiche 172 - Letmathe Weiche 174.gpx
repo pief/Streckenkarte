@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=5 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Letmathe Weiche 172 - Letmathe Weiche 174</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.36370/7.62237/standard&amp;lonlats=7.622564,51.363476;7.622612,51.363478&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.363476" lon="7.622562"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.363477" lon="7.622567"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.363478" lon="7.622608"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.363478" lon="7.62261"><ele>130.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
