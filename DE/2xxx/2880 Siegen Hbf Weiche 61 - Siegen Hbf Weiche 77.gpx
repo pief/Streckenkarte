@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 276 filtered ascend = 0 plain-ascend = 0 cost=276 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2880 Siegen Hbf Weiche 61 - Siegen Hbf Weiche 77</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.87333/8.01273/standard&amp;lonlats=8.014943,50.874957;8.012283,50.87318&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.874956" lon="8.014942"><ele>242</ele></trkpt>
+   <trkpt lat="50.874933" lon="8.014907"><ele>242</ele></trkpt>
+   <trkpt lat="50.874918" lon="8.014884"><ele>242.25</ele></trkpt>
+   <trkpt lat="50.874105" lon="8.01367"><ele>241</ele></trkpt>
+   <trkpt lat="50.873635" lon="8.012965"><ele>242.75</ele></trkpt>
+   <trkpt lat="50.873181" lon="8.012286"><ele>241.5</ele></trkpt>
+   <trkpt lat="50.873179" lon="8.012282"><ele>241.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

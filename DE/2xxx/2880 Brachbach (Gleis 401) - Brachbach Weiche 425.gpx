@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 535 filtered ascend = 2 plain-ascend = 2 cost=535 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2880 Brachbach (Gleis 401) - Brachbach Weiche 425</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.82006/7.93466/standard&amp;lonlats=7.941809,50.822114;7.934833,50.820321&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.822116" lon="7.941806"><ele>214.5</ele></trkpt>
+   <trkpt lat="50.821827" lon="7.940725"><ele>212.75</ele></trkpt>
+   <trkpt lat="50.821535" lon="7.939682"><ele>212.25</ele></trkpt>
+   <trkpt lat="50.821131" lon="7.938204"><ele>212.25</ele></trkpt>
+   <trkpt lat="50.820793" lon="7.936907"><ele>212.25</ele></trkpt>
+   <trkpt lat="50.820597" lon="7.936142"><ele>214</ele></trkpt>
+   <trkpt lat="50.82045" lon="7.935499"><ele>214.5</ele></trkpt>
+   <trkpt lat="50.820321" lon="7.934837"><ele>216.75</ele></trkpt>
+   <trkpt lat="50.82032" lon="7.934832"><ele>216.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

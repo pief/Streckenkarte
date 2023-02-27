@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 625 filtered ascend = 0 plain-ascend = -4 cost=625 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2880 Niederschelden (Gleis 301) - Niederschelden Weiche 328</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.83557/7.96053/standard&amp;lonlats=7.965796,50.83956;7.960092,50.835433&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.83956" lon="7.965792"><ele>228</ele></trkpt>
+   <trkpt lat="50.838271" lon="7.964679"><ele>222.75</ele></trkpt>
+   <trkpt lat="50.837838" lon="7.964274"><ele>222.75</ele></trkpt>
+   <trkpt lat="50.837476" lon="7.963878"><ele>221.75</ele></trkpt>
+   <trkpt lat="50.837313" lon="7.963667"><ele>223.75</ele></trkpt>
+   <trkpt lat="50.837111" lon="7.963377"><ele>224</ele></trkpt>
+   <trkpt lat="50.83686" lon="7.962977"><ele>224.5</ele></trkpt>
+   <trkpt lat="50.83656" lon="7.962406"><ele>224.75</ele></trkpt>
+   <trkpt lat="50.836338" lon="7.961966"><ele>225.75</ele></trkpt>
+   <trkpt lat="50.83575" lon="7.960751"><ele>224.25</ele></trkpt>
+   <trkpt lat="50.835438" lon="7.960105"><ele>223.5</ele></trkpt>
+   <trkpt lat="50.835432" lon="7.960092"><ele>223.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
