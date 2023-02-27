@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 691 filtered ascend = 7 plain-ascend = 8 cost=691 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Hohenlimburg Weiche 31 - Hohenlimburg Weiche 61</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.34779/7.58817/standard&amp;lonlats=7.581319,51.347404;7.590935,51.346077&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.347404" lon="7.581319"><ele>123.25</ele></trkpt>
+   <trkpt lat="51.347404" lon="7.581322"><ele>123.5</ele></trkpt>
+   <trkpt lat="51.347257" lon="7.582232"><ele>124</ele></trkpt>
+   <trkpt lat="51.34718" lon="7.582748"><ele>124.25</ele></trkpt>
+   <trkpt lat="51.346671" lon="7.586147"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.346417" lon="7.588049"><ele>130.25</ele></trkpt>
+   <trkpt lat="51.346175" lon="7.590086"><ele>130.75</ele></trkpt>
+   <trkpt lat="51.346151" lon="7.590296"><ele>130.75</ele></trkpt>
+   <trkpt lat="51.346077" lon="7.590935"><ele>130.75</ele></trkpt>
+   <trkpt lat="51.346077" lon="7.590935"><ele>130.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

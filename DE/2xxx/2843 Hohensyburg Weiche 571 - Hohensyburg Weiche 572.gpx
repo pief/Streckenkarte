@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2843 Hohensyburg Weiche 571 - Hohensyburg Weiche 572</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.41441/7.48931/standard&amp;lonlats=7.489307,51.414279;7.489346,51.414291&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.414277" lon="7.489307"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.41429" lon="7.489343"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.41429" lon="7.489345"><ele>101.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

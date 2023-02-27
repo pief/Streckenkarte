@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 1 plain-ascend = 1 cost=70 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2820 Hagen-Kabel Weiche 311 - Hagen-Kabel Weiche 315</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.40453/7.48803/standard&amp;lonlats=7.487258,51.405002;7.487751,51.40447&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.405" lon="7.487252"><ele>104</ele></trkpt>
+   <trkpt lat="51.404648" lon="7.487599"><ele>104.75</ele></trkpt>
+   <trkpt lat="51.404468" lon="7.487751"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.404469" lon="7.487749"><ele>105</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

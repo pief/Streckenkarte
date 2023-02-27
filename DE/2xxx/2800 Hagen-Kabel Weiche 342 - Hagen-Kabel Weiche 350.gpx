@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 18 filtered ascend = 0 plain-ascend = 0 cost=18 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Hagen-Kabel Weiche 342 - Hagen-Kabel Weiche 350</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.39613/7.49735/standard&amp;lonlats=7.496193,51.396407;7.496334,51.396297&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.396407" lon="7.496193"><ele>103.25</ele></trkpt>
+   <trkpt lat="51.396343" lon="7.496273"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.396297" lon="7.496333"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.396296" lon="7.496333"><ele>103.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

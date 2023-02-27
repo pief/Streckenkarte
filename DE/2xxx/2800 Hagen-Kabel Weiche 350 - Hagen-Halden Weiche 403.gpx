@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1366 filtered ascend = 9 plain-ascend = 9 cost=1366 energy=0.0kwh time=1m 49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Hagen-Kabel Weiche 350 - Hagen-Halden Weiche 403</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.38732/7.50932/standard&amp;lonlats=7.496334,51.396297;7.509194,51.387076&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.396296" lon="7.496333"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.396297" lon="7.496333"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.395648" lon="7.497217"><ele>104.75</ele></trkpt>
+   <trkpt lat="51.395187" lon="7.497864"><ele>106.25</ele></trkpt>
+   <trkpt lat="51.395075" lon="7.498021"><ele>106.5</ele></trkpt>
+   <trkpt lat="51.393246" lon="7.500581"><ele>107</ele></trkpt>
+   <trkpt lat="51.388737" lon="7.506871"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.387076" lon="7.509194"><ele>112.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
