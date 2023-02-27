@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 316 filtered ascend = 0 plain-ascend = 0 cost=316 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2143 Gevelsberg West (Gleis 1) - 2423 Gevelsberg West Weiche 973</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.31841/7.31787/standard&amp;lonlats=7.313956,51.317277;7.318043,51.318454&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.317276" lon="7.313955"><ele>200.75</ele></trkpt>
+   <trkpt lat="51.317512" lon="7.314891"><ele>200</ele></trkpt>
+   <trkpt lat="51.317518" lon="7.314915"><ele>200</ele></trkpt>
+   <trkpt lat="51.317586" lon="7.315179"><ele>199.75</ele></trkpt>
+   <trkpt lat="51.317734" lon="7.315745"><ele>199.5</ele></trkpt>
+   <trkpt lat="51.318454" lon="7.318043"><ele>200.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
