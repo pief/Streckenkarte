@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 249 filtered ascend = 1 plain-ascend = 2 cost=249 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Ladispoli-Cerveteri (Gleis 2) - Ladispoli-Cerveteri Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/41.95480/12.08015/standard&amp;lonlats=12.081989,41.953278;12.079898,41.954874&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.953279" lon="12.08199"><ele>12.25</ele></trkpt>
+   <trkpt lat="41.953294" lon="12.081971"><ele>12.5</ele></trkpt>
+   <trkpt lat="41.954874" lon="12.079898"><ele>13.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

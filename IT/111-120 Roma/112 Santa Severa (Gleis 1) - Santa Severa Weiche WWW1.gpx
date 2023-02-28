@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 0 plain-ascend = 0 cost=301 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Santa Severa (Gleis 1) - Santa Severa Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/42.02186/11.96615/standard&amp;lonlats=11.968998,42.020687;11.965785,42.021896&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.020687" lon="11.968998"><ele>12.25</ele></trkpt>
+   <trkpt lat="42.020692" lon="11.968987"><ele>12.5</ele></trkpt>
+   <trkpt lat="42.021426" lon="11.967035"><ele>12.5</ele></trkpt>
+   <trkpt lat="42.021506" lon="11.966819"><ele>12.5</ele></trkpt>
+   <trkpt lat="42.021892" lon="11.965789"><ele>11.75</ele></trkpt>
+   <trkpt lat="42.021894" lon="11.965783"><ele>11.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

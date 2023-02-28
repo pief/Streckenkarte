@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 438 filtered ascend = 4 plain-ascend = 4 cost=438 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Civitavecchia Weiche SSS2 - Civitavecchia Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/42.08306/11.80621/standard&amp;lonlats=11.807513,42.08049;11.805229,42.083949&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.08049" lon="11.807513"/>
+   <trkpt lat="42.080491" lon="11.807513"><ele>8.25</ele></trkpt>
+   <trkpt lat="42.080787" lon="11.807397"><ele>8.25</ele></trkpt>
+   <trkpt lat="42.081453" lon="11.807113"><ele>8</ele></trkpt>
+   <trkpt lat="42.082115" lon="11.806766"><ele>9.75</ele></trkpt>
+   <trkpt lat="42.082499" lon="11.806522"><ele>10.75</ele></trkpt>
+   <trkpt lat="42.082855" lon="11.806259"><ele>11.75</ele></trkpt>
+   <trkpt lat="42.083289" lon="11.805894"><ele>12</ele></trkpt>
+   <trkpt lat="42.08354" lon="11.805655"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.083947" lon="11.80523"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.083948" lon="11.805228"><ele>12.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

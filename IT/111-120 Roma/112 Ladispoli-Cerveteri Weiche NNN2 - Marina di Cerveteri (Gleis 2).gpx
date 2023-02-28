@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3686 filtered ascend = 0 plain-ascend = -1 cost=3686 energy=0.0kwh time=4m 55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>112 Ladispoli-Cerveteri Weiche NNN2 - Marina di Cerveteri (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/41.97924/12.04793/standard&amp;lonlats=12.078974,41.955582;12.047826,41.979208&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="41.955581" lon="12.078972"><ele>11.5</ele></trkpt>
+   <trkpt lat="41.961079" lon="12.07178"><ele>5.5</ele></trkpt>
+   <trkpt lat="41.961182" lon="12.071645"><ele>5.5</ele></trkpt>
+   <trkpt lat="41.961848" lon="12.070776"><ele>5.75</ele></trkpt>
+   <trkpt lat="41.962008" lon="12.070564"><ele>5.25</ele></trkpt>
+   <trkpt lat="41.966969" lon="12.064078"><ele>7.25</ele></trkpt>
+   <trkpt lat="41.970892" lon="12.058935"><ele>8.75</ele></trkpt>
+   <trkpt lat="41.975984" lon="12.052266"><ele>10.25</ele></trkpt>
+   <trkpt lat="41.977046" lon="12.050861"><ele>10.25</ele></trkpt>
+   <trkpt lat="41.977611" lon="12.050088"><ele>10.5</ele></trkpt>
+   <trkpt lat="41.978799" lon="12.048413"><ele>10.5</ele></trkpt>
+   <trkpt lat="41.979208" lon="12.047826"><ele>10</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
