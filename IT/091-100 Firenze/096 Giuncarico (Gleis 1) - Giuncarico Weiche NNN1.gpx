@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 297 filtered ascend = 1 plain-ascend = 2 cost=297 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Giuncarico (Gleis 1) - Giuncarico Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/42.91698/11.00584/standard&amp;lonlats=11.008604,42.915348;11.005742,42.916988&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.915349" lon="11.008605"><ele>18.75</ele></trkpt>
+   <trkpt lat="42.916984" lon="11.005745"><ele>20.5</ele></trkpt>
+   <trkpt lat="42.916986" lon="11.00574"><ele>20.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

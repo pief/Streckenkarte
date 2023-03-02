@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 0 plain-ascend = 0 cost=17 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Montepescali Weiche NNN2 - Montepescali Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.87455/11.06525/standard&amp;lonlats=11.065514,42.874379;11.065421,42.874507&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.874379" lon="11.065514"><ele>11.5</ele></trkpt>
+   <trkpt lat="42.874503" lon="11.06542"><ele>11.5</ele></trkpt>
+   <trkpt lat="42.874506" lon="11.065418"><ele>11.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

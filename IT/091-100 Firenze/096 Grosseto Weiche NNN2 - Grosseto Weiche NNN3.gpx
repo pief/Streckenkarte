@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 1 cost=11 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Grosseto Weiche NNN2 - Grosseto Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.77434/11.10406/standard&amp;lonlats=11.104043,42.774267;11.104015,42.774345&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.774267" lon="11.104043"><ele>10.75</ele></trkpt>
+   <trkpt lat="42.774268" lon="11.104043"><ele>11</ele></trkpt>
+   <trkpt lat="42.774344" lon="11.104015"><ele>11.25</ele></trkpt>
+   <trkpt lat="42.774344" lon="11.104014"><ele>11.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

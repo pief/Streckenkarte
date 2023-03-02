@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 9245 filtered ascend = 1 plain-ascend = -7 cost=9245 energy=0.1kwh time=12m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Grosseto Weiche NNN3 - Montepescali Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/42.85541/11.07477/standard&amp;lonlats=11.104015,42.774345;11.075257,42.854718&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.774344" lon="11.104014"><ele>11.25</ele></trkpt>
+   <trkpt lat="42.774344" lon="11.104015"><ele>11.25</ele></trkpt>
+   <trkpt lat="42.775336" lon="11.103663"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.776006" lon="11.103433"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.776248" lon="11.103355"><ele>12.5</ele></trkpt>
+   <trkpt lat="42.779319" lon="11.102382"><ele>9.75</ele></trkpt>
+   <trkpt lat="42.780014" lon="11.102132"><ele>9</ele></trkpt>
+   <trkpt lat="42.780796" lon="11.101841"><ele>9.75</ele></trkpt>
+   <trkpt lat="42.782098" lon="11.10132"><ele>11.5</ele></trkpt>
+   <trkpt lat="42.783267" lon="11.100851"><ele>11</ele></trkpt>
+   <trkpt lat="42.784262" lon="11.100481"><ele>9.75</ele></trkpt>
+   <trkpt lat="42.790182" lon="11.098366"><ele>7.75</ele></trkpt>
+   <trkpt lat="42.792239" lon="11.097644"><ele>7.5</ele></trkpt>
+   <trkpt lat="42.79562" lon="11.09642"><ele>7.5</ele></trkpt>
+   <trkpt lat="42.808802" lon="11.091706"><ele>8</ele></trkpt>
+   <trkpt lat="42.819191" lon="11.087989"><ele>6</ele></trkpt>
+   <trkpt lat="42.82626" lon="11.085454"><ele>3.5</ele></trkpt>
+   <trkpt lat="42.826366" lon="11.085417"><ele>3.5</ele></trkpt>
+   <trkpt lat="42.834641" lon="11.082456"><ele>6.25</ele></trkpt>
+   <trkpt lat="42.847619" lon="11.077806"><ele>2.75</ele></trkpt>
+   <trkpt lat="42.854718" lon="11.075259"><ele>3.25</ele></trkpt>
+   <trkpt lat="42.854718" lon="11.075258"><ele>3.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1194 filtered ascend = 6 plain-ascend = 6 cost=1194 energy=0.0kwh time=1m 36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Montepescali Weiche SSS2 - Montepescali Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/42.86713/11.07005/standard&amp;lonlats=11.074943,42.855597;11.07078,42.865846&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.855597" lon="11.074943"><ele>4.25</ele></trkpt>
+   <trkpt lat="42.855599" lon="11.074943"><ele>4.5</ele></trkpt>
+   <trkpt lat="42.858892" lon="11.073772"><ele>10.5</ele></trkpt>
+   <trkpt lat="42.860126" lon="11.073317"><ele>10</ele></trkpt>
+   <trkpt lat="42.861067" lon="11.072946"><ele>10.25</ele></trkpt>
+   <trkpt lat="42.862331" lon="11.072423"><ele>10.5</ele></trkpt>
+   <trkpt lat="42.863337" lon="11.07198"><ele>10</ele></trkpt>
+   <trkpt lat="42.865151" lon="11.071126"><ele>10.25</ele></trkpt>
+   <trkpt lat="42.865845" lon="11.070779"><ele>10.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

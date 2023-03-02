@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 495 filtered ascend = 0 plain-ascend = 0 cost=495 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Montepescali (Gleis 3) - Montepescali Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/42.87345/11.06625/standard&amp;lonlats=11.068755,42.869507;11.066144,42.873499&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.869505" lon="11.06875"><ele>12.25</ele></trkpt>
+   <trkpt lat="42.869574" lon="11.06871"><ele>12.5</ele></trkpt>
+   <trkpt lat="42.870409" lon="11.068203"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.87149" lon="11.067516"><ele>11</ele></trkpt>
+   <trkpt lat="42.872892" lon="11.066572"><ele>12.25</ele></trkpt>
+   <trkpt lat="42.873496" lon="11.066147"><ele>12.25</ele></trkpt>
+   <trkpt lat="42.873499" lon="11.066144"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
