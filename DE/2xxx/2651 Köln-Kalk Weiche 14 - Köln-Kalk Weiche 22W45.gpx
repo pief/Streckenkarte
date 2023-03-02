@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 812 filtered ascend = 3 plain-ascend = 3 cost=812 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2651 Köln-Kalk Weiche 14 - Köln-Kalk Weiche 22W45</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.92992/7.01141/standard&amp;lonlats=7.001362,50.933834;7.010852,50.929788&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.933834" lon="7.001362"/>
+   <trkpt lat="50.933758" lon="7.001526"><ele>51.25</ele></trkpt>
+   <trkpt lat="50.933719" lon="7.001606"><ele>51.25</ele></trkpt>
+   <trkpt lat="50.933143" lon="7.002785"><ele>50.25</ele></trkpt>
+   <trkpt lat="50.93313" lon="7.002811"><ele>50.25</ele></trkpt>
+   <trkpt lat="50.932815" lon="7.003482"><ele>50</ele></trkpt>
+   <trkpt lat="50.932692" lon="7.00376"><ele>50.5</ele></trkpt>
+   <trkpt lat="50.932435" lon="7.004352"><ele>51</ele></trkpt>
+   <trkpt lat="50.932427" lon="7.00437"><ele>51</ele></trkpt>
+   <trkpt lat="50.931156" lon="7.007483"><ele>50.75</ele></trkpt>
+   <trkpt lat="50.930666" lon="7.008695"><ele>52.75</ele></trkpt>
+   <trkpt lat="50.930158" lon="7.009936"><ele>53</ele></trkpt>
+   <trkpt lat="50.929827" lon="7.010754"><ele>54.25</ele></trkpt>
+   <trkpt lat="50.929786" lon="7.01085"><ele>54.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

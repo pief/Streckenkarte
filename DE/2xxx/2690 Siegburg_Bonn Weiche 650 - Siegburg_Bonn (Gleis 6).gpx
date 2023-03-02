@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 393 filtered ascend = 0 plain-ascend = 1 cost=393 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Siegburg/Bonn Weiche 650 - Siegburg/Bonn (Gleis 6)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.79391/7.20267/standard&amp;lonlats=7.198755,50.796533;7.202411,50.793912&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.796531" lon="7.198753"><ele>58</ele></trkpt>
+   <trkpt lat="50.796529" lon="7.198757"><ele>58</ele></trkpt>
+   <trkpt lat="50.795388" lon="7.200297"><ele>58</ele></trkpt>
+   <trkpt lat="50.795197" lon="7.200564"><ele>57.75</ele></trkpt>
+   <trkpt lat="50.794949" lon="7.200909"><ele>58</ele></trkpt>
+   <trkpt lat="50.794698" lon="7.201277"><ele>58.5</ele></trkpt>
+   <trkpt lat="50.793911" lon="7.20241"><ele>58.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

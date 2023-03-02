@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 363 filtered ascend = 0 plain-ascend = -1 cost=363 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Montabaur (Gleis 1) - Montabaur (Fernbahn) Weiche 15</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.44509/7.82878/standard&amp;lonlats=7.825216,50.444632;7.830276,50.444656&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.444632" lon="7.825216"><ele>226.75</ele></trkpt>
+   <trkpt lat="50.444616" lon="7.828059"><ele>224.75</ele></trkpt>
+   <trkpt lat="50.444617" lon="7.828211"><ele>224.5</ele></trkpt>
+   <trkpt lat="50.444617" lon="7.828232"><ele>224.5</ele></trkpt>
+   <trkpt lat="50.444631" lon="7.829191"><ele>224.5</ele></trkpt>
+   <trkpt lat="50.444656" lon="7.830278"><ele>225.25</ele></trkpt>
+   <trkpt lat="50.444656" lon="7.830276"><ele>225</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

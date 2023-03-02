@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1023 filtered ascend = 12 plain-ascend = 12 cost=1023 energy=0.0kwh time=1m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Limburg (Lahn) Süd Weiche 2 - Limburg (Lahn) Süd Weiche 15</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.38013/8.09932/standard&amp;lonlats=8.0907,50.387248;8.099029,50.379825&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.387247" lon="8.090698"><ele>168.75</ele></trkpt>
+   <trkpt lat="50.387247" lon="8.090699"><ele>169</ele></trkpt>
+   <trkpt lat="50.386306" lon="8.091754"><ele>167</ele></trkpt>
+   <trkpt lat="50.386096" lon="8.091989"><ele>167</ele></trkpt>
+   <trkpt lat="50.385054" lon="8.093156"><ele>171</ele></trkpt>
+   <trkpt lat="50.384861" lon="8.093373"><ele>172</ele></trkpt>
+   <trkpt lat="50.383918" lon="8.094433"><ele>174.75</ele></trkpt>
+   <trkpt lat="50.383046" lon="8.095413"><ele>178</ele></trkpt>
+   <trkpt lat="50.381721" lon="8.096895"><ele>180</ele></trkpt>
+   <trkpt lat="50.380864" lon="8.09786"><ele>181</ele></trkpt>
+   <trkpt lat="50.380468" lon="8.098308"><ele>180.25</ele></trkpt>
+   <trkpt lat="50.379829" lon="8.099023"><ele>181</ele></trkpt>
+   <trkpt lat="50.379824" lon="8.099028"><ele>181</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
