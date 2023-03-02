@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 552 filtered ascend = 0 plain-ascend = -8 cost=552 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Frankfurt Flughafen Fernbahnhof (Gleis 7) - Frankfurt Flughafen Fernbahnhof Weiche 15</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.05308/8.56955/standard&amp;lonlats=8.569831,50.053097;8.562614,50.051535&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.053097" lon="8.569829"><ele>116.25</ele></trkpt>
+   <trkpt lat="50.053094" lon="8.56981"><ele>116.5</ele></trkpt>
+   <trkpt lat="50.053042" lon="8.569538"><ele>116.25</ele></trkpt>
+   <trkpt lat="50.052507" lon="8.566763"><ele>113.75</ele></trkpt>
+   <trkpt lat="50.052472" lon="8.566578"><ele>113.75</ele></trkpt>
+   <trkpt lat="50.052445" lon="8.566441"><ele>113.5</ele></trkpt>
+   <trkpt lat="50.052352" lon="8.566032"><ele>112.75</ele></trkpt>
+   <trkpt lat="50.052243" lon="8.565596"><ele>112</ele></trkpt>
+   <trkpt lat="50.051871" lon="8.564043"><ele>109</ele></trkpt>
+   <trkpt lat="50.051857" lon="8.563986"><ele>109</ele></trkpt>
+   <trkpt lat="50.051706" lon="8.563377"><ele>107</ele></trkpt>
+   <trkpt lat="50.051618" lon="8.563012"><ele>107.25</ele></trkpt>
+   <trkpt lat="50.051533" lon="8.562617"><ele>107.5</ele></trkpt>
+   <trkpt lat="50.051532" lon="8.562614"><ele>107.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

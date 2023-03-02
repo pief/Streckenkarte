@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 723 filtered ascend = 2 plain-ascend = 2 cost=723 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Montabaur (Fernbahn) Weiche 14 - Montabaur (Fernbahn) Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.44447/7.82126/standard&amp;lonlats=7.830478,50.444705;7.820356,50.44478&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.444705" lon="7.830478"><ele>225.75</ele></trkpt>
+   <trkpt lat="50.444719" lon="7.828226"><ele>225</ele></trkpt>
+   <trkpt lat="50.444726" lon="7.827049"><ele>226.25</ele></trkpt>
+   <trkpt lat="50.444745" lon="7.824162"><ele>227</ele></trkpt>
+   <trkpt lat="50.444761" lon="7.822283"><ele>228</ele></trkpt>
+   <trkpt lat="50.444777" lon="7.820354"><ele>228</ele></trkpt>
+   <trkpt lat="50.444777" lon="7.820355"><ele>228</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

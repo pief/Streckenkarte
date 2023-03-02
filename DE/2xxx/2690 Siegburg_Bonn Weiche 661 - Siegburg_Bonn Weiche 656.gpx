@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 174 filtered ascend = 0 plain-ascend = 0 cost=174 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Siegburg/Bonn Weiche 661 - Siegburg/Bonn Weiche 656</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.79120/7.20775/standard&amp;lonlats=7.208028,50.790157;7.206387,50.791297&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.790157" lon="7.208028"><ele>59.25</ele></trkpt>
+   <trkpt lat="50.791073" lon="7.206706"><ele>59</ele></trkpt>
+   <trkpt lat="50.791243" lon="7.206463"><ele>59</ele></trkpt>
+   <trkpt lat="50.791296" lon="7.206387"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.791296" lon="7.206386"><ele>58.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

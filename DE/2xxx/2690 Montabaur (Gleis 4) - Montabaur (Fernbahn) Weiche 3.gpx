@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 348 filtered ascend = 0 plain-ascend = 0 cost=348 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Montabaur (Gleis 4) - Montabaur (Fernbahn) Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.44456/7.82084/standard&amp;lonlats=7.825219,50.444792;7.820355,50.444777&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.444789" lon="7.825218"><ele>228</ele></trkpt>
+   <trkpt lat="50.44479" lon="7.825211"><ele>228.25</ele></trkpt>
+   <trkpt lat="50.444807" lon="7.822283"><ele>228.5</ele></trkpt>
+   <trkpt lat="50.444799" lon="7.82135"><ele>228.75</ele></trkpt>
+   <trkpt lat="50.444777" lon="7.820354"><ele>228</ele></trkpt>
+   <trkpt lat="50.444776" lon="7.820354"><ele>228</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

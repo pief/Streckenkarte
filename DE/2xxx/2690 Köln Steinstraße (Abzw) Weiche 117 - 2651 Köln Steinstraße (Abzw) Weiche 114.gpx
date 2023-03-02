@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 261 filtered ascend = 0 plain-ascend = 0 cost=261 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2690 Köln Steinstraße (Abzw) Weiche 117 - 2651 Köln Steinstraße (Abzw) Weiche 114</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.89416/7.05857/standard&amp;lonlats=7.059046,50.892257;7.05785,50.894453&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.892256" lon="7.059043"><ele>52.75</ele></trkpt>
+   <trkpt lat="50.892945" lon="7.058661"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.893635" lon="7.058302"><ele>52.5</ele></trkpt>
+   <trkpt lat="50.894452" lon="7.057853"><ele>53</ele></trkpt>
+   <trkpt lat="50.894453" lon="7.057852"><ele>52.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
