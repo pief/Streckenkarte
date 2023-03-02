@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 898 filtered ascend = 0 plain-ascend = -2 cost=898 energy=0.0kwh time=1m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Capalbio Weiche OOO1 - Capalbio (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/42.40758/11.37174/standard&amp;lonlats=11.381224,42.405329;11.370973,42.408019&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.40533" lon="11.381224"><ele>6.5</ele></trkpt>
+   <trkpt lat="42.405331" lon="11.381223"><ele>6.75</ele></trkpt>
+   <trkpt lat="42.405872" lon="11.379239"><ele>6.75</ele></trkpt>
+   <trkpt lat="42.406106" lon="11.378349"><ele>7.25</ele></trkpt>
+   <trkpt lat="42.406284" lon="11.37761"><ele>6.5</ele></trkpt>
+   <trkpt lat="42.406485" lon="11.37674"><ele>7</ele></trkpt>
+   <trkpt lat="42.406767" lon="11.375592"><ele>5</ele></trkpt>
+   <trkpt lat="42.407015" lon="11.374666"><ele>3.75</ele></trkpt>
+   <trkpt lat="42.408022" lon="11.370974"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

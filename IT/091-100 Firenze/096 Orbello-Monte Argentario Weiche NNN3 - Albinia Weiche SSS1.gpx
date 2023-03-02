@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4817 filtered ascend = 5 plain-ascend = 0 cost=4817 energy=0.1kwh time=6m 25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Orbello-Monte Argentario Weiche NNN3 - Albinia Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/42.49959/11.21475/standard&amp;lonlats=11.244503,42.456184;11.217012,42.494433&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.456184" lon="11.244503"><ele>0</ele></trkpt>
+   <trkpt lat="42.456186" lon="11.244502"><ele>0</ele></trkpt>
+   <trkpt lat="42.458654" lon="11.242729"><ele>1.5</ele></trkpt>
+   <trkpt lat="42.470101" lon="11.234504"><ele>5.75</ele></trkpt>
+   <trkpt lat="42.470193" lon="11.234438"><ele>5.5</ele></trkpt>
+   <trkpt lat="42.487508" lon="11.221994"><ele>2.75</ele></trkpt>
+   <trkpt lat="42.487579" lon="11.221943"><ele>2.75</ele></trkpt>
+   <trkpt lat="42.494429" lon="11.217011"><ele>0</ele></trkpt>
+   <trkpt lat="42.494431" lon="11.217009"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

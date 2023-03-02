@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 367 filtered ascend = 0 plain-ascend = -1 cost=367 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Albinia Weiche NNN1 - Albinia Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.50642/11.20859/standard&amp;lonlats=11.210601,42.503259;11.208565,42.506172&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.503259" lon="11.210601"><ele>4</ele></trkpt>
+   <trkpt lat="42.50326" lon="11.210601"><ele>4.25</ele></trkpt>
+   <trkpt lat="42.504072" lon="11.210029"><ele>4</ele></trkpt>
+   <trkpt lat="42.504909" lon="11.209459"><ele>4.25</ele></trkpt>
+   <trkpt lat="42.506172" lon="11.208566"><ele>2.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

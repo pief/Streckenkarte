@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 539 filtered ascend = 0 plain-ascend = -1 cost=539 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Orbello-Monte Argentario (Gleis 2) - Orbello-Monte Argentario Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.45454/11.24633/standard&amp;lonlats=11.248911,42.450693;11.245523,42.454764&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.450694" lon="11.248913"><ele>2.25</ele></trkpt>
+   <trkpt lat="42.450718" lon="11.248885"><ele>2.25</ele></trkpt>
+   <trkpt lat="42.451083" lon="11.248467"><ele>1.75</ele></trkpt>
+   <trkpt lat="42.451428" lon="11.248105"><ele>1.25</ele></trkpt>
+   <trkpt lat="42.451648" lon="11.247894"><ele>1</ele></trkpt>
+   <trkpt lat="42.452022" lon="11.247555"><ele>0.5</ele></trkpt>
+   <trkpt lat="42.452215" lon="11.247393"><ele>0.25</ele></trkpt>
+   <trkpt lat="42.452599" lon="11.247088"><ele>0</ele></trkpt>
+   <trkpt lat="42.453192" lon="11.246652"><ele>-0.5</ele></trkpt>
+   <trkpt lat="42.45476" lon="11.245528"><ele>0</ele></trkpt>
+   <trkpt lat="42.454764" lon="11.245524"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

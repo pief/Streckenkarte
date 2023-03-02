@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 345 filtered ascend = 3 plain-ascend = 4 cost=345 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Civitavecchia (Gleis 2) - Civitavecchia Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.09021/11.79688/standard&amp;lonlats=11.798534,42.08813;11.796109,42.090462&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.08813" lon="11.798534"><ele>9</ele></trkpt>
+   <trkpt lat="42.088145" lon="11.798504"><ele>9</ele></trkpt>
+   <trkpt lat="42.088394" lon="11.797974"><ele>7.75</ele></trkpt>
+   <trkpt lat="42.088575" lon="11.797643"><ele>7</ele></trkpt>
+   <trkpt lat="42.088668" lon="11.797492"><ele>6.75</ele></trkpt>
+   <trkpt lat="42.088885" lon="11.797186"><ele>7.25</ele></trkpt>
+   <trkpt lat="42.089077" lon="11.796965"><ele>8.25</ele></trkpt>
+   <trkpt lat="42.089221" lon="11.79682"><ele>9</ele></trkpt>
+   <trkpt lat="42.089346" lon="11.796706"><ele>9.75</ele></trkpt>
+   <trkpt lat="42.089583" lon="11.796522"><ele>11</ele></trkpt>
+   <trkpt lat="42.089677" lon="11.79646"><ele>11.5</ele></trkpt>
+   <trkpt lat="42.089965" lon="11.796298"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.090086" lon="11.796245"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.09046" lon="11.796108"><ele>12.75</ele></trkpt>
+   <trkpt lat="42.090461" lon="11.796107"><ele>12.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

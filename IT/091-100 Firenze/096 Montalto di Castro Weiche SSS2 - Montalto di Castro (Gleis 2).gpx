@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 803 filtered ascend = 4 plain-ascend = 3 cost=803 energy=0.0kwh time=1m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Montalto di Castro Weiche SSS2 - Montalto di Castro (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.33455/11.59541/standard&amp;lonlats=11.601494,42.329392;11.595085,42.334662&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.329391" lon="11.601493"><ele>15</ele></trkpt>
+   <trkpt lat="42.329392" lon="11.601493"><ele>15</ele></trkpt>
+   <trkpt lat="42.330457" lon="11.599804"><ele>14.75</ele></trkpt>
+   <trkpt lat="42.331208" lon="11.598637"><ele>13.25</ele></trkpt>
+   <trkpt lat="42.331759" lon="11.597863"><ele>14.75</ele></trkpt>
+   <trkpt lat="42.331836" lon="11.597764"><ele>15</ele></trkpt>
+   <trkpt lat="42.332041" lon="11.597508"><ele>16.75</ele></trkpt>
+   <trkpt lat="42.332505" lon="11.596972"><ele>19.5</ele></trkpt>
+   <trkpt lat="42.332791" lon="11.596671"><ele>19.75</ele></trkpt>
+   <trkpt lat="42.333076" lon="11.596392"><ele>19.75</ele></trkpt>
+   <trkpt lat="42.333582" lon="11.595926"><ele>19</ele></trkpt>
+   <trkpt lat="42.334213" lon="11.595419"><ele>19</ele></trkpt>
+   <trkpt lat="42.334655" lon="11.595084"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.33466" lon="11.59508"><ele>18.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

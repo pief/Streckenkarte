@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 273 filtered ascend = 2 plain-ascend = 3 cost=273 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Albarese Weiche NNN1 - Albarese Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.64726/11.13591/standard&amp;lonlats=11.135134,42.644882;11.13577,42.647287&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.64488" lon="11.135137"><ele>17.25</ele></trkpt>
+   <trkpt lat="42.647281" lon="11.135764"><ele>19.75</ele></trkpt>
+   <trkpt lat="42.647286" lon="11.135765"><ele>19.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

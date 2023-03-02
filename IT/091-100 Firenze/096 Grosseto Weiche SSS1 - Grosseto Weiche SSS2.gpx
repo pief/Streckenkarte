@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 222 filtered ascend = 3 plain-ascend = 3 cost=222 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Grosseto Weiche SSS1 - Grosseto Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.76302/11.10819/standard&amp;lonlats=11.108741,42.761195;11.108055,42.763099&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.761194" lon="11.108738"><ele>8.75</ele></trkpt>
+   <trkpt lat="42.761197" lon="11.108737"><ele>9</ele></trkpt>
+   <trkpt lat="42.762077" lon="11.108431"><ele>9.75</ele></trkpt>
+   <trkpt lat="42.762293" lon="11.108343"><ele>10.5</ele></trkpt>
+   <trkpt lat="42.763095" lon="11.108054"><ele>11.75</ele></trkpt>
+   <trkpt lat="42.763098" lon="11.108052"><ele>11.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

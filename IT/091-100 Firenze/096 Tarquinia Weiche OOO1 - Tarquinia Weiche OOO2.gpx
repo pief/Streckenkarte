@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 570 filtered ascend = 2 plain-ascend = 0 cost=570 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Tarquinia Weiche OOO1 - Tarquinia Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/42.23919/11.72996/standard&amp;lonlats=11.734376,42.235246;11.729144,42.238469&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.235246" lon="11.734376"><ele>16.25</ele></trkpt>
+   <trkpt lat="42.235669" lon="11.733967"><ele>17.25</ele></trkpt>
+   <trkpt lat="42.236054" lon="11.733572"><ele>17.25</ele></trkpt>
+   <trkpt lat="42.236303" lon="11.73328"><ele>17.5</ele></trkpt>
+   <trkpt lat="42.236515" lon="11.733"><ele>18</ele></trkpt>
+   <trkpt lat="42.236664" lon="11.732775"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.23682" lon="11.732517"><ele>18.75</ele></trkpt>
+   <trkpt lat="42.236963" lon="11.732252"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.237128" lon="11.731923"><ele>18.25</ele></trkpt>
+   <trkpt lat="42.238467" lon="11.729142"><ele>16.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

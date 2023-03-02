@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 635 filtered ascend = 0 plain-ascend = 0 cost=635 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Tarquinia (Gleis 2) - Tarquinia Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/42.24245/11.72116/standard&amp;lonlats=11.727044,42.23949;11.720618,42.242609&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.239485" lon="11.727039"><ele>15.5</ele></trkpt>
+   <trkpt lat="42.23958" lon="11.726844"><ele>15.5</ele></trkpt>
+   <trkpt lat="42.242604" lon="11.720617"><ele>15.5</ele></trkpt>
+   <trkpt lat="42.242605" lon="11.720614"><ele>15.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
