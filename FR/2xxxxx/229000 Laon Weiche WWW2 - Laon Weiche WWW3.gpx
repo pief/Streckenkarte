@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 1 plain-ascend = 2 cost=75 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Laon Weiche WWW2 - Laon Weiche WWW3</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/49.57088/3.61766/standard&amp;lonlats=3.618564,49.570919;3.617542,49.570837&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.570919" lon="3.618564"><ele>80.25</ele></trkpt>
+   <trkpt lat="49.570847" lon="3.617661"><ele>81.5</ele></trkpt>
+   <trkpt lat="49.570836" lon="3.617542"><ele>81.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

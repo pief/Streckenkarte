@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=43 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>261000 Tergnier Weiche SSS1 - Tergnier Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.65543/3.29676/standard&amp;lonlats=3.296207,49.654731;3.296242,49.655084&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.654729" lon="3.296207"><ele>52</ele></trkpt>
+   <trkpt lat="49.654734" lon="3.296208"><ele>52</ele></trkpt>
+   <trkpt lat="49.654878" lon="3.296222"><ele>52</ele></trkpt>
+   <trkpt lat="49.654996" lon="3.296234"><ele>52</ele></trkpt>
+   <trkpt lat="49.655083" lon="3.296245"><ele>52</ele></trkpt>
+   <trkpt lat="49.655083" lon="3.296245"><ele>52</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
