@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 165 filtered ascend = 0 plain-ascend = 0 cost=165 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>232000 Verberie Weiche WWW1 - Verberie (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.32046/2.74589/standard,openrailwaymap&amp;lonlats=2.744261,49.320553;2.746214,49.319821&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.320552" lon="2.74426"><ele>32.5</ele></trkpt>
+   <trkpt lat="49.320479" lon="2.744458"><ele>32.5</ele></trkpt>
+   <trkpt lat="49.320399" lon="2.744672"><ele>32.75</ele></trkpt>
+   <trkpt lat="49.319873" lon="2.746076"><ele>32.5</ele></trkpt>
+   <trkpt lat="49.319821" lon="2.746214"><ele>32.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
