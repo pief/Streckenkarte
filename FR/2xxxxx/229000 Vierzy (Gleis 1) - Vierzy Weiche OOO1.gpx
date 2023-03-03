@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 539 filtered ascend = 0 plain-ascend = 1 cost=539 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Vierzy (Gleis 1) - Vierzy Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.29223/3.28358/standard&amp;lonlats=3.277293,49.291028;3.28437,49.292322&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.291022" lon="3.277294"><ele>108.5</ele></trkpt>
+   <trkpt lat="49.291025" lon="3.277309"><ele>108.75</ele></trkpt>
+   <trkpt lat="49.29108" lon="3.277604"><ele>108.5</ele></trkpt>
+   <trkpt lat="49.291118" lon="3.277824"><ele>108.75</ele></trkpt>
+   <trkpt lat="49.291809" lon="3.281647"><ele>102</ele></trkpt>
+   <trkpt lat="49.29218" lon="3.283707"><ele>107</ele></trkpt>
+   <trkpt lat="49.292324" lon="3.284372"><ele>109.25</ele></trkpt>
+   <trkpt lat="49.292323" lon="3.284368"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

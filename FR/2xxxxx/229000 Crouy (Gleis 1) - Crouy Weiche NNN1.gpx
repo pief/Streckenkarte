@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 494 filtered ascend = 3 plain-ascend = 3 cost=494 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Crouy (Gleis 1) - Crouy Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.40658/3.36209/standard&amp;lonlats=3.356967,49.403744;3.361972,49.406656&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.403742" lon="3.356968"><ele>56</ele></trkpt>
+   <trkpt lat="49.403748" lon="3.356981"><ele>56.25</ele></trkpt>
+   <trkpt lat="49.404507" lon="3.358499"><ele>55.75</ele></trkpt>
+   <trkpt lat="49.40487" lon="3.359211"><ele>55.5</ele></trkpt>
+   <trkpt lat="49.405139" lon="3.359704"><ele>56.25</ele></trkpt>
+   <trkpt lat="49.405337" lon="3.360046"><ele>57.25</ele></trkpt>
+   <trkpt lat="49.405739" lon="3.360698"><ele>57</ele></trkpt>
+   <trkpt lat="49.406247" lon="3.361443"><ele>58.75</ele></trkpt>
+   <trkpt lat="49.406511" lon="3.361793"><ele>59.25</ele></trkpt>
+   <trkpt lat="49.406652" lon="3.36197"><ele>59.5</ele></trkpt>
+   <trkpt lat="49.406654" lon="3.361973"><ele>59.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

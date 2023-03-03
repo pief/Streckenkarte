@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1636 filtered ascend = 15 plain-ascend = 9 cost=1636 energy=0.0kwh time=2m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Margival (Gleis 1) - Vauxaillon Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=15/49.4532/3.4165/standard&amp;lonlats=3.403003,49.439323;3.411389,49.452877&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.439321" lon="3.403006"><ele>80.5</ele></trkpt>
+   <trkpt lat="49.444255" lon="3.405187"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.444748" lon="3.405424"><ele>96</ele></trkpt>
+   <trkpt lat="49.445138" lon="3.405635"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.445489" lon="3.405857"><ele>92.5</ele></trkpt>
+   <trkpt lat="49.445827" lon="3.406085"><ele>90.75</ele></trkpt>
+   <trkpt lat="49.451655" lon="3.410457"><ele>86</ele></trkpt>
+   <trkpt lat="49.452079" lon="3.410775"><ele>87.75</ele></trkpt>
+   <trkpt lat="49.452864" lon="3.411383"><ele>89.75</ele></trkpt>
+   <trkpt lat="49.452875" lon="3.411391"><ele>89.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

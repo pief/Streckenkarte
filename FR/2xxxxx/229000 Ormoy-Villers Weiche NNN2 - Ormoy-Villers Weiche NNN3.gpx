@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 222 filtered ascend = 1 plain-ascend = 1 cost=222 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Ormoy-Villers Weiche NNN2 - Ormoy-Villers Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.20511/2.84428/standard&amp;lonlats=2.842248,49.203776;2.844252,49.205256&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.203775" lon="2.842248"><ele>92</ele></trkpt>
+   <trkpt lat="49.204" lon="2.842553"><ele>92</ele></trkpt>
+   <trkpt lat="49.205254" lon="2.844249"><ele>93</ele></trkpt>
+   <trkpt lat="49.205255" lon="2.844251"><ele>92.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 245 filtered ascend = 0 plain-ascend = 0 cost=245 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Crépy-en-Valois Weiche WWW2 - Crépy-en-Valois (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.23107/2.88660/standard&amp;lonlats=2.883257,49.230912;2.886549,49.231107&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.230913" lon="2.883255"><ele>97</ele></trkpt>
+   <trkpt lat="49.230914" lon="2.883257"><ele>97</ele></trkpt>
+   <trkpt lat="49.230973" lon="2.883888"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.231021" lon="2.884638"><ele>97</ele></trkpt>
+   <trkpt lat="49.231042" lon="2.885113"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.231049" lon="2.885266"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.231107" lon="2.88649"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.231109" lon="2.886547"><ele>97.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

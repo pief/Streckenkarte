@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 443 filtered ascend = 2 plain-ascend = -1 cost=443 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Laon (Gleis 2) - Laon Weiche WWW12</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.57076/3.62474/standard&amp;lonlats=3.624685,49.570799;3.618633,49.570813&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.570798" lon="3.624684"><ele>82.5</ele></trkpt>
+   <trkpt lat="49.570817" lon="3.624078"><ele>82.25</ele></trkpt>
+   <trkpt lat="49.570841" lon="3.623337"><ele>83.75</ele></trkpt>
+   <trkpt lat="49.570851" lon="3.622836"><ele>84.5</ele></trkpt>
+   <trkpt lat="49.57085" lon="3.621907"><ele>84.25</ele></trkpt>
+   <trkpt lat="49.570836" lon="3.620561"><ele>83.25</ele></trkpt>
+   <trkpt lat="49.570814" lon="3.618626"><ele>80.25</ele></trkpt>
+   <trkpt lat="49.570813" lon="3.618633"><ele>80.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

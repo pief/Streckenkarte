@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 213 filtered ascend = 2 plain-ascend = 2 cost=213 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>229000 Villers-Cotterêts (Gleis 1) - Villers-Cotterêts Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.25128/3.09573/standard&amp;lonlats=3.093823,49.250142;3.095913,49.251455&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.250137" lon="3.093828"><ele>131.75</ele></trkpt>
+   <trkpt lat="49.250143" lon="3.093838"><ele>132</ele></trkpt>
+   <trkpt lat="49.251008" lon="3.095211"><ele>133</ele></trkpt>
+   <trkpt lat="49.251453" lon="3.095913"><ele>134</ele></trkpt>
+   <trkpt lat="49.251453" lon="3.095913"><ele>134</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
