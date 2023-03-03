@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 346 filtered ascend = 0 plain-ascend = -3 cost=346 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2400 Hagen-Vorhalle Weiche 546 - Hagen-Vorhalle Weiche 542</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.38906/7.43970/standard&amp;lonlats=7.435274,51.38859;7.440003,51.389353&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.388586" lon="7.435275"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.388587" lon="7.435277"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.388689" lon="7.435711"><ele>101</ele></trkpt>
+   <trkpt lat="51.388954" lon="7.43695"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.389098" lon="7.437835"><ele>101</ele></trkpt>
+   <trkpt lat="51.389193" lon="7.438469"><ele>100.5</ele></trkpt>
+   <trkpt lat="51.389271" lon="7.43908"><ele>99.5</ele></trkpt>
+   <trkpt lat="51.389354" lon="7.440001"><ele>98</ele></trkpt>
+   <trkpt lat="51.389354" lon="7.440001"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

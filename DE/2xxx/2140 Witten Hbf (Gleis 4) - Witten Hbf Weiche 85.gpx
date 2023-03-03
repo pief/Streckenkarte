@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 486 filtered ascend = 0 plain-ascend = -2 cost=486 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2140 Witten Hbf (Gleis 4) - Witten Hbf Weiche 85</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.43239/7.33397/standard&amp;lonlats=7.329186,51.435517;7.333782,51.432354&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.435515" lon="7.329183"><ele>93.25</ele></trkpt>
+   <trkpt lat="51.434994" lon="7.329703"><ele>93.25</ele></trkpt>
+   <trkpt lat="51.434662" lon="7.330072"><ele>92.25</ele></trkpt>
+   <trkpt lat="51.434414" lon="7.330363"><ele>92</ele></trkpt>
+   <trkpt lat="51.433991" lon="7.330895"><ele>92.25</ele></trkpt>
+   <trkpt lat="51.433817" lon="7.331133"><ele>92</ele></trkpt>
+   <trkpt lat="51.433527" lon="7.331578"><ele>91.75</ele></trkpt>
+   <trkpt lat="51.433398" lon="7.331791"><ele>91.5</ele></trkpt>
+   <trkpt lat="51.433296" lon="7.33196"><ele>91</ele></trkpt>
+   <trkpt lat="51.433043" lon="7.332379"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.432826" lon="7.332788"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.432619" lon="7.333213"><ele>90.25</ele></trkpt>
+   <trkpt lat="51.432353" lon="7.333782"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.432353" lon="7.333781"><ele>90.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
