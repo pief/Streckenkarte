@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 884 filtered ascend = 1 plain-ascend = 2 cost=884 energy=0.0kwh time=1m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>261000 Tergnier Weiche NNN4 - Mennessis (Gleis B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.69138/3.27172/standard&amp;lonlats=3.279827,49.685469;3.271504,49.69127&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.685467" lon="3.279825"><ele>61.5</ele></trkpt>
+   <trkpt lat="49.686729" lon="3.278019"><ele>59.25</ele></trkpt>
+   <trkpt lat="49.686767" lon="3.277965"><ele>59.25</ele></trkpt>
+   <trkpt lat="49.690925" lon="3.272003"><ele>62.5</ele></trkpt>
+   <trkpt lat="49.690953" lon="3.271965"><ele>62.5</ele></trkpt>
+   <trkpt lat="49.691176" lon="3.271643"><ele>62.75</ele></trkpt>
+   <trkpt lat="49.691271" lon="3.271506"><ele>63</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

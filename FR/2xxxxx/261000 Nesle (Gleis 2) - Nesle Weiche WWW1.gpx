@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 960 filtered ascend = 2 plain-ascend = -2 cost=960 energy=0.0kwh time=1m 17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>261000 Nesle (Gleis 2) - Nesle Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.76731/2.89822/standard&amp;lonlats=2.90951,49.763964;2.897456,49.767357&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.763967" lon="2.909512"><ele>81</ele></trkpt>
+   <trkpt lat="49.764088" lon="2.908973"><ele>81.5</ele></trkpt>
+   <trkpt lat="49.764271" lon="2.908155"><ele>81</ele></trkpt>
+   <trkpt lat="49.764966" lon="2.905044"><ele>79.75</ele></trkpt>
+   <trkpt lat="49.765432" lon="2.902892"><ele>83.25</ele></trkpt>
+   <trkpt lat="49.765655" lon="2.902"><ele>79.75</ele></trkpt>
+   <trkpt lat="49.765786" lon="2.901494"><ele>76.75</ele></trkpt>
+   <trkpt lat="49.765985" lon="2.900818"><ele>76</ele></trkpt>
+   <trkpt lat="49.766168" lon="2.900268"><ele>76.25</ele></trkpt>
+   <trkpt lat="49.766299" lon="2.899909"><ele>76.5</ele></trkpt>
+   <trkpt lat="49.76654" lon="2.899304"><ele>77.25</ele></trkpt>
+   <trkpt lat="49.766757" lon="2.898797"><ele>78</ele></trkpt>
+   <trkpt lat="49.767356" lon="2.897458"><ele>78.75</ele></trkpt>
+   <trkpt lat="49.767356" lon="2.897455"><ele>78.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

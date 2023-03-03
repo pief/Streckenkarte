@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = 1 cost=58 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>261000 Amiens Weiche OOO8 - Amiens Weiche 240</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.89009/2.31452/standard&amp;lonlats=2.314467,49.88996;2.313722,49.890098&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.88996" lon="2.314467"><ele>28</ele></trkpt>
+   <trkpt lat="49.889961" lon="2.314465"><ele>28</ele></trkpt>
+   <trkpt lat="49.890099" lon="2.313723"><ele>28.5</ele></trkpt>
+   <trkpt lat="49.890099" lon="2.313722"><ele>28.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

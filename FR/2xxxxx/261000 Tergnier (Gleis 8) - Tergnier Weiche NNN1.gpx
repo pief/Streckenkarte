@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 632 filtered ascend = 1 plain-ascend = 2 cost=632 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>261000 Tergnier (Gleis 8) - Tergnier Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.66469/3.29679/standard&amp;lonlats=3.296788,49.659254;3.296624,49.66484&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.659253" lon="3.296787"><ele>54</ele></trkpt>
+   <trkpt lat="49.659389" lon="3.29681"><ele>54.5</ele></trkpt>
+   <trkpt lat="49.659632" lon="3.296856"><ele>55</ele></trkpt>
+   <trkpt lat="49.660464" lon="3.296985"><ele>55.25</ele></trkpt>
+   <trkpt lat="49.660794" lon="3.297026"><ele>55.25</ele></trkpt>
+   <trkpt lat="49.660941" lon="3.297034"><ele>55.25</ele></trkpt>
+   <trkpt lat="49.661176" lon="3.297047"><ele>55.25</ele></trkpt>
+   <trkpt lat="49.661686" lon="3.29704"><ele>54.75</ele></trkpt>
+   <trkpt lat="49.662776" lon="3.296994"><ele>55</ele></trkpt>
+   <trkpt lat="49.663412" lon="3.296946"><ele>55.75</ele></trkpt>
+   <trkpt lat="49.663999" lon="3.296852"><ele>54.75</ele></trkpt>
+   <trkpt lat="49.66431" lon="3.296786"><ele>54.5</ele></trkpt>
+   <trkpt lat="49.664506" lon="3.296735"><ele>55</ele></trkpt>
+   <trkpt lat="49.664838" lon="3.296625"><ele>55.5</ele></trkpt>
+   <trkpt lat="49.66484" lon="3.296624"><ele>55.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

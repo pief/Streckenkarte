@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 303 filtered ascend = 8 plain-ascend = 8 cost=303 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>261000 Amiens Sobo Weiche XXX5 - Amiens Sobo Weiche XXX6</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.88273/2.33434/standard&amp;lonlats=2.337138,49.880971;2.334159,49.88286&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.88097" lon="2.337137"><ele>25.5</ele></trkpt>
+   <trkpt lat="49.881258" lon="2.336663"><ele>26</ele></trkpt>
+   <trkpt lat="49.881301" lon="2.336597"><ele>26</ele></trkpt>
+   <trkpt lat="49.881997" lon="2.335536"><ele>29.5</ele></trkpt>
+   <trkpt lat="49.882043" lon="2.335465"><ele>30</ele></trkpt>
+   <trkpt lat="49.882859" lon="2.334158"><ele>33.75</ele></trkpt>
+   <trkpt lat="49.882859" lon="2.334157"><ele>33.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
