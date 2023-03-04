@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = -1 cost=50 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Brilon Wald Weiche 502 - Brilon Wald Weiche 504</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.34811/8.57565/standard&amp;lonlats=8.574753,51.347406;8.575175,51.347751&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.347405" lon="8.574752"><ele>454.25</ele></trkpt>
+   <trkpt lat="51.347407" lon="8.574755"><ele>454.25</ele></trkpt>
+   <trkpt lat="51.347651" lon="8.575069"><ele>450.75</ele></trkpt>
+   <trkpt lat="51.347735" lon="8.575163"><ele>452.75</ele></trkpt>
+   <trkpt lat="51.347749" lon="8.575178"><ele>452.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
