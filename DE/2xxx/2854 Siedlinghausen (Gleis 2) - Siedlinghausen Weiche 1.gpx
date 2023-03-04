@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 0 plain-ascend = -4 cost=288 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2854 Siedlinghausen (Gleis 2) - Siedlinghausen Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.25844/8.47427/standard&amp;lonlats=8.473932,51.25843;8.473203,51.260925&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.25843" lon="8.473949"><ele>463</ele></trkpt>
+   <trkpt lat="51.258689" lon="8.473947"><ele>462.75</ele></trkpt>
+   <trkpt lat="51.258919" lon="8.473929"><ele>462.5</ele></trkpt>
+   <trkpt lat="51.259226" lon="8.473862"><ele>461.75</ele></trkpt>
+   <trkpt lat="51.260019" lon="8.473586"><ele>459.5</ele></trkpt>
+   <trkpt lat="51.260048" lon="8.473576"><ele>459.5</ele></trkpt>
+   <trkpt lat="51.260384" lon="8.473462"><ele>459.75</ele></trkpt>
+   <trkpt lat="51.260925" lon="8.473206"><ele>458.5</ele></trkpt>
+   <trkpt lat="51.260925" lon="8.473205"><ele>458.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 137 filtered ascend = 1 plain-ascend = 2 cost=137 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2854 Siedlinghausen (Gleis 2) - Siedlinghausen Weiche 10</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.25724/8.47445/standard&amp;lonlats=8.473932,51.25843;8.47386,51.257224&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.25843" lon="8.473949"><ele>463</ele></trkpt>
+   <trkpt lat="51.258308" lon="8.473951"><ele>463.25</ele></trkpt>
+   <trkpt lat="51.258159" lon="8.473948"><ele>463.5</ele></trkpt>
+   <trkpt lat="51.258123" lon="8.473947"><ele>463.5</ele></trkpt>
+   <trkpt lat="51.257746" lon="8.473934"><ele>464.5</ele></trkpt>
+   <trkpt lat="51.257224" lon="8.473859"><ele>464.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
