@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 561 filtered ascend = 0 plain-ascend = -8 cost=561 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2210 Dortmund-Bövinghausen Weiche 702 - Castrop-Rauxel-Merklinde (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.52426/7.32758/standard&amp;lonlats=7.326867,51.523985;7.323755,51.528437&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.523985" lon="7.326868"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.523987" lon="7.326868"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.524264" lon="7.326859"><ele>126</ele></trkpt>
+   <trkpt lat="51.524512" lon="7.326865"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.52468" lon="7.326848"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.524861" lon="7.326808"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.525328" lon="7.326651"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.525547" lon="7.326551"><ele>124.75</ele></trkpt>
+   <trkpt lat="51.525858" lon="7.326378"><ele>124</ele></trkpt>
+   <trkpt lat="51.526164" lon="7.326172"><ele>124</ele></trkpt>
+   <trkpt lat="51.526424" lon="7.32597"><ele>124</ele></trkpt>
+   <trkpt lat="51.52669" lon="7.32573"><ele>123.75</ele></trkpt>
+   <trkpt lat="51.527012" lon="7.325391"><ele>122.5</ele></trkpt>
+   <trkpt lat="51.527918" lon="7.324348"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.528171" lon="7.324054"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.528434" lon="7.32375"><ele>117.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

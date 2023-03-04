@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = 0 cost=58 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Dortmund Hbf Weiche 126 - Dortmund Hbf Weiche 127</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.51726/7.45364/standard&amp;lonlats=7.452507,51.516973;7.453277,51.517137&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.516971" lon="7.452506"><ele>81.75</ele></trkpt>
+   <trkpt lat="51.516972" lon="7.452508"><ele>81.75</ele></trkpt>
+   <trkpt lat="51.517043" lon="7.452879"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.517133" lon="7.453271"><ele>81</ele></trkpt>
+   <trkpt lat="51.517134" lon="7.453277"><ele>81</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

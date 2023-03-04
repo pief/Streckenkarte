@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 1 cost=55 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2100 Dortmund Hbf Weiche 113 - Dortmund Hbf Weiche 117</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.51797/7.45688/standard&amp;lonlats=7.456104,51.51773;7.456839,51.517895&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.517728" lon="7.456103"><ele>82</ele></trkpt>
+   <trkpt lat="51.517729" lon="7.456107"><ele>82.25</ele></trkpt>
+   <trkpt lat="51.517893" lon="7.456838"><ele>82.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

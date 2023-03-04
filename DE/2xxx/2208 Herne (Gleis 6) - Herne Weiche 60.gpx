@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 297 filtered ascend = 1 plain-ascend = 1 cost=297 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2208 Herne (Gleis 6) - Herne Weiche 60</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.54410/7.22009/standard&amp;lonlats=7.217671,51.543498;7.221671,51.544368&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.543493" lon="7.217672"><ele>58</ele></trkpt>
+   <trkpt lat="51.543825" lon="7.219193"><ele>59.25</ele></trkpt>
+   <trkpt lat="51.543853" lon="7.219321"><ele>59.25</ele></trkpt>
+   <trkpt lat="51.543909" lon="7.219573"><ele>59.25</ele></trkpt>
+   <trkpt lat="51.544295" lon="7.221382"><ele>59</ele></trkpt>
+   <trkpt lat="51.544365" lon="7.221669"><ele>59.25</ele></trkpt>
+   <trkpt lat="51.544365" lon="7.221672"><ele>59.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

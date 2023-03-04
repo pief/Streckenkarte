@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 414 filtered ascend = 3 plain-ascend = 3 cost=414 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2210 Dortmund-Rahm Weiche 4 - Dortmund-Rahm (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.52777/7.40073/standard&amp;lonlats=7.400357,51.527948;7.395483,51.525854&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.527947" lon="7.400356"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.527949" lon="7.400359"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.527745" lon="7.399854"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.527528" lon="7.399308"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.526768" lon="7.397572"><ele>83.75</ele></trkpt>
+   <trkpt lat="51.525852" lon="7.395483"><ele>83.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
