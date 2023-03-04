@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 133 filtered ascend = 0 plain-ascend = 0 cost=133 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Saint-Denis Weiche SSS1 - Saint-Denis Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.93074/2.34683/standard&amp;lonlats=2.347076,48.929455;2.346784,48.930613&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.929455" lon="2.347076"><ele>35.75</ele></trkpt>
+   <trkpt lat="48.929457" lon="2.347076"><ele>36</ele></trkpt>
+   <trkpt lat="48.930611" lon="2.346785"><ele>35</ele></trkpt>
+   <trkpt lat="48.930613" lon="2.346784"><ele>34.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

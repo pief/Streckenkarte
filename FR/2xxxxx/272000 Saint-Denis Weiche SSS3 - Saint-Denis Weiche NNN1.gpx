@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 858 filtered ascend = 0 plain-ascend = -2 cost=858 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Saint-Denis Weiche SSS3 - Saint-Denis Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/48.9401/2.3458/standard&amp;lonlats=2.346695,48.930958;2.344825,48.938535&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.930958" lon="2.346695"><ele>34.75</ele></trkpt>
+   <trkpt lat="48.931738" lon="2.346504"><ele>35</ele></trkpt>
+   <trkpt lat="48.933313" lon="2.346146"><ele>34.75</ele></trkpt>
+   <trkpt lat="48.933475" lon="2.346109"><ele>35</ele></trkpt>
+   <trkpt lat="48.935197" lon="2.345674"><ele>35.25</ele></trkpt>
+   <trkpt lat="48.935959" lon="2.345479"><ele>34</ele></trkpt>
+   <trkpt lat="48.936094" lon="2.345448"><ele>34</ele></trkpt>
+   <trkpt lat="48.937015" lon="2.345214"><ele>32.25</ele></trkpt>
+   <trkpt lat="48.937661" lon="2.345053"><ele>31.75</ele></trkpt>
+   <trkpt lat="48.938534" lon="2.344824"><ele>31.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

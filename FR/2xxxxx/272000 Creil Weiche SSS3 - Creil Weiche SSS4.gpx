@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 0 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Creil Weiche SSS3 - Creil Weiche SSS4</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.26126/2.46673/standard&amp;lonlats=2.465778,49.261184;2.465989,49.261379&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.261183" lon="2.465777"><ele>28.75</ele></trkpt>
+   <trkpt lat="49.261377" lon="2.465991"><ele>28.75</ele></trkpt>
+   <trkpt lat="49.261377" lon="2.465991"><ele>28.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

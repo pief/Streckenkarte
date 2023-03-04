@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 136 filtered ascend = 0 plain-ascend = 0 cost=136 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Goussainville Weiche SSS1 - Goussainville Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/49.01823/2.45555/standard&amp;lonlats=2.452182,49.016718;2.453527,49.01756&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.016718" lon="2.45218"><ele>85.25</ele></trkpt>
+   <trkpt lat="49.017014" lon="2.452638"><ele>85.25</ele></trkpt>
+   <trkpt lat="49.01756" lon="2.453525"><ele>85.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

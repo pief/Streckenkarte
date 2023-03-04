@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 736 filtered ascend = 0 plain-ascend = -3 cost=736 energy=0.0kwh time=59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 La Chapelle Weiche NNN1 - La Chapelle Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.90713/2.35242/standard&amp;lonlats=2.353759,48.900634;2.352198,48.907124&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.900633" lon="2.353757"><ele>43.75</ele></trkpt>
+   <trkpt lat="48.900948" lon="2.353674"><ele>43.25</ele></trkpt>
+   <trkpt lat="48.902208" lon="2.353309"><ele>41.25</ele></trkpt>
+   <trkpt lat="48.902529" lon="2.353227"><ele>41</ele></trkpt>
+   <trkpt lat="48.903273" lon="2.353064"><ele>41.5</ele></trkpt>
+   <trkpt lat="48.903659" lon="2.352963"><ele>41.5</ele></trkpt>
+   <trkpt lat="48.90465" lon="2.352659"><ele>40.5</ele></trkpt>
+   <trkpt lat="48.905154" lon="2.352536"><ele>40</ele></trkpt>
+   <trkpt lat="48.905668" lon="2.352434"><ele>40</ele></trkpt>
+   <trkpt lat="48.906792" lon="2.352252"><ele>40.25</ele></trkpt>
+   <trkpt lat="48.907123" lon="2.352195"><ele>40.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

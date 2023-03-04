@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 0 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Pierrefitte Weiche OOO3 - Pierrefitte Weiche OOO4</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/48.96804/2.37865/standard&amp;lonlats=2.377832,48.967761;2.378079,48.967938&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.967761" lon="2.37783"><ele>45.5</ele></trkpt>
+   <trkpt lat="48.967807" lon="2.377895"><ele>45.5</ele></trkpt>
+   <trkpt lat="48.967854" lon="2.377962"><ele>45.5</ele></trkpt>
+   <trkpt lat="48.967936" lon="2.37808"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

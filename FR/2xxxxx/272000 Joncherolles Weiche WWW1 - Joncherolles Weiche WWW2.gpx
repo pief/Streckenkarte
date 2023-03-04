@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 33 filtered ascend = 0 plain-ascend = 0 cost=33 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Joncherolles Weiche WWW1 - Joncherolles Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.95013/2.35376/standard&amp;lonlats=2.352733,48.950256;2.35304,48.950472&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.950256" lon="2.352731"><ele>36.5</ele></trkpt>
+   <trkpt lat="48.950471" lon="2.353039"><ele>36.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

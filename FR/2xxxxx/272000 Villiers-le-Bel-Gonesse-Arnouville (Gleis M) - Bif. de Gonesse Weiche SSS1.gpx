@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 828 filtered ascend = 6 plain-ascend = 6 cost=828 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Villiers-le-Bel-Gonesse-Arnouville (Gleis M) - Bif. de Gonesse Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.99941/2.42560/standard&amp;lonlats=2.416612,48.993806;2.424469,48.999107&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.993805" lon="2.416611"><ele>68.25</ele></trkpt>
+   <trkpt lat="48.994034" lon="2.416977"><ele>68.75</ele></trkpt>
+   <trkpt lat="48.994539" lon="2.417731"><ele>69.25</ele></trkpt>
+   <trkpt lat="48.995364" lon="2.418903"><ele>69.5</ele></trkpt>
+   <trkpt lat="48.996088" lon="2.419907"><ele>71.5</ele></trkpt>
+   <trkpt lat="48.996637" lon="2.420684"><ele>72.75</ele></trkpt>
+   <trkpt lat="48.997317" lon="2.421691"><ele>72.25</ele></trkpt>
+   <trkpt lat="48.998205" lon="2.423055"><ele>74.75</ele></trkpt>
+   <trkpt lat="48.999106" lon="2.424468"><ele>74.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

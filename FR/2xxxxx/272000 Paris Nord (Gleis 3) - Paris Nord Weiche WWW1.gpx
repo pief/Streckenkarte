@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 508 filtered ascend = 0 plain-ascend = -1 cost=508 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Paris Nord (Gleis 3) - Paris Nord Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.88425/2.35690/standard&amp;lonlats=2.354534,48.880679;2.356943,48.884877&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.880678" lon="2.354537"><ele>59.25</ele></trkpt>
+   <trkpt lat="48.88187" lon="2.355102"><ele>55.25</ele></trkpt>
+   <trkpt lat="48.88225" lon="2.355309"><ele>54</ele></trkpt>
+   <trkpt lat="48.882418" lon="2.355423"><ele>53.5</ele></trkpt>
+   <trkpt lat="48.882732" lon="2.35567"><ele>54.5</ele></trkpt>
+   <trkpt lat="48.883283" lon="2.356182"><ele>55.5</ele></trkpt>
+   <trkpt lat="48.883496" lon="2.35635"><ele>55.5</ele></trkpt>
+   <trkpt lat="48.883701" lon="2.35649"><ele>55.5</ele></trkpt>
+   <trkpt lat="48.884033" lon="2.356668"><ele>56.25</ele></trkpt>
+   <trkpt lat="48.884448" lon="2.356816"><ele>57.25</ele></trkpt>
+   <trkpt lat="48.884867" lon="2.356935"><ele>57.75</ele></trkpt>
+   <trkpt lat="48.884876" lon="2.356937"><ele>57.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

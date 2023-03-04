@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 875 filtered ascend = 0 plain-ascend = -11 cost=875 energy=0.0kwh time=1m 10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Paris Nord Weiche WWW8 - La Chapelle Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.89573/2.35480/standard&amp;lonlats=2.357092,48.888133;2.354565,48.895748&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.888133" lon="2.357092"><ele>57.5</ele></trkpt>
+   <trkpt lat="48.888134" lon="2.357092"><ele>57.5</ele></trkpt>
+   <trkpt lat="48.888299" lon="2.357071"><ele>57</ele></trkpt>
+   <trkpt lat="48.888652" lon="2.357014"><ele>56</ele></trkpt>
+   <trkpt lat="48.889369" lon="2.356874"><ele>53.75</ele></trkpt>
+   <trkpt lat="48.889874" lon="2.356757"><ele>53</ele></trkpt>
+   <trkpt lat="48.890233" lon="2.356624"><ele>51.25</ele></trkpt>
+   <trkpt lat="48.891346" lon="2.356186"><ele>47.25</ele></trkpt>
+   <trkpt lat="48.892643" lon="2.355627"><ele>45</ele></trkpt>
+   <trkpt lat="48.89301" lon="2.355478"><ele>45</ele></trkpt>
+   <trkpt lat="48.894101" lon="2.3551"><ele>46</ele></trkpt>
+   <trkpt lat="48.894777" lon="2.35488"><ele>45.5</ele></trkpt>
+   <trkpt lat="48.895747" lon="2.354564"><ele>45.5</ele></trkpt>
+   <trkpt lat="48.895747" lon="2.354563"><ele>45.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

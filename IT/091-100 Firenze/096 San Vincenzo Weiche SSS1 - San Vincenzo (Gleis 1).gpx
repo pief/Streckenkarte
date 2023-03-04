@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 576 filtered ascend = 2 plain-ascend = 3 cost=576 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 San Vincenzo Weiche SSS1 - San Vincenzo (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.10057/10.54007/standard&amp;lonlats=10.540062,43.095221;10.539802,43.100373&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.095221" lon="10.540065"><ele>7</ele></trkpt>
+   <trkpt lat="43.095228" lon="10.540065"><ele>7</ele></trkpt>
+   <trkpt lat="43.095771" lon="10.540033"><ele>7</ele></trkpt>
+   <trkpt lat="43.096561" lon="10.539999"><ele>8.5</ele></trkpt>
+   <trkpt lat="43.097375" lon="10.53999"><ele>8.75</ele></trkpt>
+   <trkpt lat="43.099244" lon="10.53985"><ele>8.5</ele></trkpt>
+   <trkpt lat="43.100346" lon="10.539805"><ele>9.75</ele></trkpt>
+   <trkpt lat="43.100373" lon="10.539804"><ele>9.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 960 filtered ascend = 4 plain-ascend = 4 cost=960 energy=0.0kwh time=1m 17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Bif. de Gonesse Weiche NNN2 - Goussainville Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.01696/2.45271/standard&amp;lonlats=2.442736,49.010768;2.452177,49.016723&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010767" lon="2.442735"><ele>81.25</ele></trkpt>
+   <trkpt lat="49.013447" lon="2.44696"><ele>77.75</ele></trkpt>
+   <trkpt lat="49.014797" lon="2.449114"><ele>85.25</ele></trkpt>
+   <trkpt lat="49.015168" lon="2.44972"><ele>85</ele></trkpt>
+   <trkpt lat="49.016711" lon="2.45217"><ele>85.25</ele></trkpt>
+   <trkpt lat="49.016718" lon="2.452182"><ele>85.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

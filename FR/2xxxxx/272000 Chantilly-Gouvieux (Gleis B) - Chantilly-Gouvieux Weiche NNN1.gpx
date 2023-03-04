@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 462 filtered ascend = 0 plain-ascend = -1 cost=462 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Chantilly-Gouvieux (Gleis B) - Chantilly-Gouvieux Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.19109/2.45904/standard&amp;lonlats=2.459376,49.187229;2.45887,49.19136&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.187228" lon="2.459372"><ele>57.75</ele></trkpt>
+   <trkpt lat="49.187796" lon="2.459298"><ele>57.25</ele></trkpt>
+   <trkpt lat="49.18964" lon="2.459063"><ele>55.5</ele></trkpt>
+   <trkpt lat="49.19136" lon="2.45887"><ele>55.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

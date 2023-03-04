@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 545 filtered ascend = 2 plain-ascend = 2 cost=545 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Bif. de Gonesse Weiche NNN1 - Bif. de Gonesse Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.01051/2.44197/standard&amp;lonlats=2.437755,49.007166;2.442736,49.010768&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.007163" lon="2.437758"><ele>79</ele></trkpt>
+   <trkpt lat="49.007164" lon="2.43776"><ele>79</ele></trkpt>
+   <trkpt lat="49.008072" lon="2.438974"><ele>80.25</ele></trkpt>
+   <trkpt lat="49.00943" lon="2.440821"><ele>79.5</ele></trkpt>
+   <trkpt lat="49.010141" lon="2.441813"><ele>81.5</ele></trkpt>
+   <trkpt lat="49.010762" lon="2.442728"><ele>81.5</ele></trkpt>
+   <trkpt lat="49.010767" lon="2.442735"><ele>81.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

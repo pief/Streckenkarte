@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 2 plain-ascend = 2 cost=85 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Paris Nord Weiche WWW5 - Paris Nord Weiche WWW6</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.88723/2.35755/standard&amp;lonlats=2.357214,48.886583;2.357194,48.887328&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.886581" lon="2.357215"><ele>55.5</ele></trkpt>
+   <trkpt lat="48.886583" lon="2.357216"><ele>55.5</ele></trkpt>
+   <trkpt lat="48.886951" lon="2.357218"><ele>56.25</ele></trkpt>
+   <trkpt lat="48.887327" lon="2.357193"><ele>57.75</ele></trkpt>
+   <trkpt lat="48.887327" lon="2.357192"><ele>57.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
