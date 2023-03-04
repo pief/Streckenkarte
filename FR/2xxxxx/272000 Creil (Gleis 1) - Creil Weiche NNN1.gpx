@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 561 filtered ascend = 0 plain-ascend = 0 cost=561 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>272000 Creil (Gleis 1) - Creil Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.26803/2.47262/standard&amp;lonlats=2.468832,49.263898;2.472616,49.268191&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.263898" lon="2.46883"><ele>29.25</ele></trkpt>
+   <trkpt lat="49.264632" lon="2.469666"><ele>29.25</ele></trkpt>
+   <trkpt lat="49.265416" lon="2.470538"><ele>27.25</ele></trkpt>
+   <trkpt lat="49.265869" lon="2.471025"><ele>28.25</ele></trkpt>
+   <trkpt lat="49.266139" lon="2.4713"><ele>28.5</ele></trkpt>
+   <trkpt lat="49.266394" lon="2.471538"><ele>28.75</ele></trkpt>
+   <trkpt lat="49.266599" lon="2.471711"><ele>28.75</ele></trkpt>
+   <trkpt lat="49.266919" lon="2.471951"><ele>28.25</ele></trkpt>
+   <trkpt lat="49.267134" lon="2.47209"><ele>27.75</ele></trkpt>
+   <trkpt lat="49.267445" lon="2.472266"><ele>27.75</ele></trkpt>
+   <trkpt lat="49.268189" lon="2.472615"><ele>29.5</ele></trkpt>
+   <trkpt lat="49.26819" lon="2.472615"><ele>29.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

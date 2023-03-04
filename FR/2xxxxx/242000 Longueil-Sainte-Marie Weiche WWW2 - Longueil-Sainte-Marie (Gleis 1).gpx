@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 0 plain-ascend = 0 cost=17 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Longueil-Sainte-Marie Weiche WWW2 - Longueil-Sainte-Marie (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.34255/2.71770/standard&amp;lonlats=2.717424,49.34255;2.717628,49.342573&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.342544" lon="2.717424"><ele>32</ele></trkpt>
+   <trkpt lat="49.342545" lon="2.717427"><ele>32</ele></trkpt>
+   <trkpt lat="49.342567" lon="2.71758"><ele>32.25</ele></trkpt>
+   <trkpt lat="49.342568" lon="2.71759"><ele>32.25</ele></trkpt>
+   <trkpt lat="49.342573" lon="2.717626"><ele>32.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

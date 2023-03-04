@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 0 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>242000 Point Sainte-Maxence Weiche WWW2 - Point Sainte-Maxence (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.31019/2.60257/standard&amp;lonlats=2.602476,49.309813;2.602802,49.309907&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.30981" lon="2.602476"><ele>29.25</ele></trkpt>
+   <trkpt lat="49.309812" lon="2.602481"><ele>29.25</ele></trkpt>
+   <trkpt lat="49.309902" lon="2.602802"><ele>29.25</ele></trkpt>
+   <trkpt lat="49.309902" lon="2.602803"><ele>29</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
