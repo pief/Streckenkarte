@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 398 filtered ascend = 0 plain-ascend = -13 cost=398 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2400 Hattingen (Ruhr) Weiche 701 - Hattingen (Ruhr) Weiche 704</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.40019/7.16354/standard&amp;lonlats=7.158186,51.399781;7.163746,51.400335&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.399781" lon="7.158186"><ele>82</ele></trkpt>
+   <trkpt lat="51.399764" lon="7.158669"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.399768" lon="7.1591"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.399796" lon="7.159531"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.399866" lon="7.160151"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.400173" lon="7.16252"><ele>66.5</ele></trkpt>
+   <trkpt lat="51.400335" lon="7.163752"><ele>68.25</ele></trkpt>
+   <trkpt lat="51.400334" lon="7.163745"><ele>68.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 374 filtered ascend = 5 plain-ascend = 5 cost=374 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2167 Bochum-Dahlhausen (Gleis 1) - Bochum-Dahlhausen Weiche 397</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.42456/7.14487/standard&amp;lonlats=7.140748,51.426362;7.144831,51.424347&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.426362" lon="7.140748"><ele>62</ele></trkpt>
+   <trkpt lat="51.426211" lon="7.14128"><ele>63</ele></trkpt>
+   <trkpt lat="51.426147" lon="7.141487"><ele>63.25</ele></trkpt>
+   <trkpt lat="51.426064" lon="7.141757"><ele>63.5</ele></trkpt>
+   <trkpt lat="51.425941" lon="7.1421"><ele>63.25</ele></trkpt>
+   <trkpt lat="51.425874" lon="7.142285"><ele>63</ele></trkpt>
+   <trkpt lat="51.425678" lon="7.142754"><ele>62.75</ele></trkpt>
+   <trkpt lat="51.425427" lon="7.143269"><ele>62.75</ele></trkpt>
+   <trkpt lat="51.425188" lon="7.1437"><ele>64.75</ele></trkpt>
+   <trkpt lat="51.424962" lon="7.144046"><ele>66.75</ele></trkpt>
+   <trkpt lat="51.424756" lon="7.144343"><ele>67.75</ele></trkpt>
+   <trkpt lat="51.424344" lon="7.144834"><ele>67</ele></trkpt>
+   <trkpt lat="51.424346" lon="7.144831"><ele>67</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

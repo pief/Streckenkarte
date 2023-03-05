@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 136 filtered ascend = 0 plain-ascend = -1 cost=137 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2291 Essen-Steele Ost Weiche 214 - Essen-Steele Ost Weiche 8</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.44480/7.08742/standard&amp;lonlats=7.085503,51.445522;7.087037,51.444783&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.445522" lon="7.085503"><ele>64</ele></trkpt>
+   <trkpt lat="51.445332" lon="7.085879"><ele>64</ele></trkpt>
+   <trkpt lat="51.444903" lon="7.086773"><ele>62.5</ele></trkpt>
+   <trkpt lat="51.44478" lon="7.087033"><ele>62.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
