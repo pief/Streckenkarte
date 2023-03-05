@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 0 cost=21 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2113 Schwerte-Heide Weiche 2 - Schwerte-Heide Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.46111/7.58270/standard&amp;lonlats=7.581681,51.461506;7.58165,51.461339&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.461505" lon="7.58168"><ele>144.5</ele></trkpt>
+   <trkpt lat="51.461502" lon="7.58168"><ele>144.5</ele></trkpt>
+   <trkpt lat="51.46147" lon="7.581674"><ele>144.25</ele></trkpt>
+   <trkpt lat="51.461341" lon="7.58165"><ele>144.25</ele></trkpt>
+   <trkpt lat="51.461338" lon="7.581649"><ele>144</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
