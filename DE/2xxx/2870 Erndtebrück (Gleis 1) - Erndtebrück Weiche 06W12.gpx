@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 0 plain-ascend = 0 cost=390 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2870 Erndtebrück (Gleis 1) - Erndtebrück Weiche 06W12</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.99465/8.25767/standard&amp;lonlats=8.255573,50.991407;8.256977,50.99475&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.991406" lon="8.255572"><ele>483</ele></trkpt>
+   <trkpt lat="50.992033" lon="8.255881"><ele>483.5</ele></trkpt>
+   <trkpt lat="50.992096" lon="8.25591"><ele>483.5</ele></trkpt>
+   <trkpt lat="50.993417" lon="8.256527"><ele>482</ele></trkpt>
+   <trkpt lat="50.993739" lon="8.256668"><ele>481.75</ele></trkpt>
+   <trkpt lat="50.994017" lon="8.256772"><ele>482.25</ele></trkpt>
+   <trkpt lat="50.99453" lon="8.256902"><ele>482.5</ele></trkpt>
+   <trkpt lat="50.994737" lon="8.256971"><ele>482.5</ele></trkpt>
+   <trkpt lat="50.994749" lon="8.256976"><ele>482.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
