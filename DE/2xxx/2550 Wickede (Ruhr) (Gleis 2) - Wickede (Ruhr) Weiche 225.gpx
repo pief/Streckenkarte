@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 675 filtered ascend = 0 plain-ascend = 0 cost=675 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wickede (Ruhr) (Gleis 2) - Wickede (Ruhr) Weiche 225</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.49555/7.88024/standard&amp;lonlats=7.870666,51.493356;7.879796,51.495377&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.493356" lon="7.870664"><ele>140.75</ele></trkpt>
+   <trkpt lat="51.49342" lon="7.870951"><ele>141.25</ele></trkpt>
+   <trkpt lat="51.494772" lon="7.87708"><ele>141</ele></trkpt>
+   <trkpt lat="51.494938" lon="7.877821"><ele>140.5</ele></trkpt>
+   <trkpt lat="51.495225" lon="7.879135"><ele>140</ele></trkpt>
+   <trkpt lat="51.495374" lon="7.879796"><ele>140.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

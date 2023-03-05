@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 0 plain-ascend = -5 cost=180 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Fröndenberg Weiche 106 - Fröndenberg Weiche 113</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47284/7.75359/standard&amp;lonlats=7.751512,51.472798;7.754022,51.472567&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.472799" lon="7.751512"><ele>135</ele></trkpt>
+   <trkpt lat="51.472799" lon="7.751513"><ele>135.25</ele></trkpt>
+   <trkpt lat="51.472747" lon="7.752356"><ele>134.5</ele></trkpt>
+   <trkpt lat="51.472696" lon="7.75293"><ele>132.5</ele></trkpt>
+   <trkpt lat="51.472653" lon="7.753333"><ele>131</ele></trkpt>
+   <trkpt lat="51.472566" lon="7.754022"><ele>129.5</ele></trkpt>
+   <trkpt lat="51.472566" lon="7.754021"><ele>129.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

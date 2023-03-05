@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 546 filtered ascend = 3 plain-ascend = 3 cost=546 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Fröndenberg (Gleis 1) - Fröndenberg Weiche 197</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.47206/7.76928/standard&amp;lonlats=7.761776,51.47144;7.769379,51.472019&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.47144" lon="7.761776"><ele>125.5</ele></trkpt>
+   <trkpt lat="51.471433" lon="7.76184"><ele>125.5</ele></trkpt>
+   <trkpt lat="51.471406" lon="7.762098"><ele>125.5</ele></trkpt>
+   <trkpt lat="51.471366" lon="7.762599"><ele>125.5</ele></trkpt>
+   <trkpt lat="51.471342" lon="7.763047"><ele>126</ele></trkpt>
+   <trkpt lat="51.471329" lon="7.763549"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.471333" lon="7.764052"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.471344" lon="7.764393"><ele>127</ele></trkpt>
+   <trkpt lat="51.471352" lon="7.764578"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.471396" lon="7.76517"><ele>128</ele></trkpt>
+   <trkpt lat="51.471465" lon="7.765824"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.471469" lon="7.765865"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.471614" lon="7.766952"><ele>127.75</ele></trkpt>
+   <trkpt lat="51.471801" lon="7.768156"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.471922" lon="7.76887"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.472019" lon="7.769375"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.472019" lon="7.769377"><ele>128.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

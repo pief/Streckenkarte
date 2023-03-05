@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 410 filtered ascend = 1 plain-ascend = -2 cost=410 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Freienohl Weiche 302 - Freienohl (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.36616/8.17064/standard&amp;lonlats=8.167603,51.369217;8.16989,51.365973&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.369216" lon="8.1676"><ele>235</ele></trkpt>
+   <trkpt lat="51.369212" lon="8.167601"><ele>235.25</ele></trkpt>
+   <trkpt lat="51.368873" lon="8.167641"><ele>235.75</ele></trkpt>
+   <trkpt lat="51.368289" lon="8.167763"><ele>236.25</ele></trkpt>
+   <trkpt lat="51.367858" lon="8.167953"><ele>235</ele></trkpt>
+   <trkpt lat="51.36747" lon="8.168181"><ele>233.5</ele></trkpt>
+   <trkpt lat="51.367119" lon="8.168494"><ele>233.5</ele></trkpt>
+   <trkpt lat="51.366806" lon="8.168812"><ele>233</ele></trkpt>
+   <trkpt lat="51.366646" lon="8.168998"><ele>232.5</ele></trkpt>
+   <trkpt lat="51.366489" lon="8.169193"><ele>232.25</ele></trkpt>
+   <trkpt lat="51.366088" lon="8.169733"><ele>232.25</ele></trkpt>
+   <trkpt lat="51.365973" lon="8.16989"><ele>232.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

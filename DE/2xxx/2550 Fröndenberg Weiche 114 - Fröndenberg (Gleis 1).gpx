@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 541 filtered ascend = 0 plain-ascend = -2 cost=541 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Fröndenberg Weiche 114 - Fröndenberg (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47159/7.76157/standard&amp;lonlats=7.754231,51.472539;7.761776,51.47144&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.472537" lon="7.75423"><ele>128.75</ele></trkpt>
+   <trkpt lat="51.471617" lon="7.76046"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.471558" lon="7.760856"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.471463" lon="7.76157"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.47144" lon="7.761776"><ele>125.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
