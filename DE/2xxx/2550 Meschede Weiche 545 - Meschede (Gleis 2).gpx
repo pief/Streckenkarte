@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 303 filtered ascend = 0 plain-ascend = 0 cost=303 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Meschede Weiche 545 - Meschede (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.34984/8.27819/standard&amp;lonlats=8.282061,51.349169;8.277882,51.349795&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.349165" lon="8.28206"><ele>261.75</ele></trkpt>
+   <trkpt lat="51.349175" lon="8.281917"><ele>262</ele></trkpt>
+   <trkpt lat="51.349272" lon="8.281165"><ele>262.25</ele></trkpt>
+   <trkpt lat="51.34932" lon="8.280823"><ele>262.25</ele></trkpt>
+   <trkpt lat="51.349559" lon="8.27935"><ele>261.75</ele></trkpt>
+   <trkpt lat="51.349792" lon="8.27788"><ele>261</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

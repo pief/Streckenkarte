@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 387 filtered ascend = 0 plain-ascend = -1 cost=387 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Neheim-Hüsten (Gleis 1) - Neheim-Hüsten Weiche 101</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.43961/7.96604/standard&amp;lonlats=7.970371,51.43791;7.965477,51.439487&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.437907" lon="7.970368"><ele>162.5</ele></trkpt>
+   <trkpt lat="51.437991" lon="7.970109"><ele>162.75</ele></trkpt>
+   <trkpt lat="51.438" lon="7.970082"><ele>162.75</ele></trkpt>
+   <trkpt lat="51.438024" lon="7.970007"><ele>162.5</ele></trkpt>
+   <trkpt lat="51.438067" lon="7.969877"><ele>162.5</ele></trkpt>
+   <trkpt lat="51.438303" lon="7.969164"><ele>162</ele></trkpt>
+   <trkpt lat="51.439483" lon="7.965474"><ele>160.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
