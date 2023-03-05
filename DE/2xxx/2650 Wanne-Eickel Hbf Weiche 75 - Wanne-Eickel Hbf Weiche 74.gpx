@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 2 plain-ascend = 2 cost=120 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Wanne-Eickel Hbf Weiche 75 - Wanne-Eickel Hbf Weiche 74</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.52769/7.16137/standard&amp;lonlats=7.162289,51.528385;7.161281,51.527538&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.528383" lon="7.16229"><ele>48</ele></trkpt>
+   <trkpt lat="51.528156" lon="7.16203"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.527768" lon="7.16155"><ele>49.25</ele></trkpt>
+   <trkpt lat="51.527538" lon="7.161281"><ele>50.25</ele></trkpt>
+   <trkpt lat="51.527538" lon="7.161281"><ele>50.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

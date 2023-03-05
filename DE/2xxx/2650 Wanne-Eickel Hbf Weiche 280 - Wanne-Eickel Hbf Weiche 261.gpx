@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 1 plain-ascend = 1 cost=254 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Wanne-Eickel Hbf Weiche 280 - Wanne-Eickel Hbf Weiche 261</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.53252/7.16880/standard&amp;lonlats=7.17144,51.533369;7.168256,51.532356&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.533369" lon="7.171438"><ele>48</ele></trkpt>
+   <trkpt lat="51.533371" lon="7.171441"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.533006" lon="7.170202"><ele>47.25</ele></trkpt>
+   <trkpt lat="51.532816" lon="7.169563"><ele>47.75</ele></trkpt>
+   <trkpt lat="51.532492" lon="7.16861"><ele>49</ele></trkpt>
+   <trkpt lat="51.532354" lon="7.168255"><ele>49</ele></trkpt>
+   <trkpt lat="51.532354" lon="7.168256"><ele>48.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 483 filtered ascend = 1 plain-ascend = -1 cost=483 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Gelsenkirchen Hbf Weiche 110 - Gelsenkirchen Hbf (Gleis 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.50492/7.10236/standard&amp;lonlats=7.108792,51.506333;7.102283,51.50488&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.506332" lon="7.108791"><ele>51.5</ele></trkpt>
+   <trkpt lat="51.506186" lon="7.108126"><ele>51.5</ele></trkpt>
+   <trkpt lat="51.505887" lon="7.106885"><ele>52.75</ele></trkpt>
+   <trkpt lat="51.505782" lon="7.106488"><ele>52.5</ele></trkpt>
+   <trkpt lat="51.505612" lon="7.105747"><ele>51</ele></trkpt>
+   <trkpt lat="51.505385" lon="7.104751"><ele>50.5</ele></trkpt>
+   <trkpt lat="51.505138" lon="7.103569"><ele>50.25</ele></trkpt>
+   <trkpt lat="51.504978" lon="7.102768"><ele>49.75</ele></trkpt>
+   <trkpt lat="51.504877" lon="7.102283"><ele>49.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

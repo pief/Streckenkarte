@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 691 filtered ascend = 2 plain-ascend = 2 cost=691 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Herne (Gleis 1) - Herne Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.54173/7.20915/standard&amp;lonlats=7.217544,51.543748;7.208096,51.542016&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.543752" lon="7.21754"><ele>57.75</ele></trkpt>
+   <trkpt lat="51.543711" lon="7.217341"><ele>57.75</ele></trkpt>
+   <trkpt lat="51.543682" lon="7.217198"><ele>57.75</ele></trkpt>
+   <trkpt lat="51.543368" lon="7.215686"><ele>58</ele></trkpt>
+   <trkpt lat="51.543249" lon="7.215135"><ele>58</ele></trkpt>
+   <trkpt lat="51.542816" lon="7.213268"><ele>58.25</ele></trkpt>
+   <trkpt lat="51.542641" lon="7.212496"><ele>58</ele></trkpt>
+   <trkpt lat="51.54259" lon="7.212241"><ele>58</ele></trkpt>
+   <trkpt lat="51.542522" lon="7.211882"><ele>58</ele></trkpt>
+   <trkpt lat="51.542426" lon="7.211297"><ele>58.5</ele></trkpt>
+   <trkpt lat="51.542397" lon="7.211093"><ele>58.75</ele></trkpt>
+   <trkpt lat="51.542225" lon="7.209707"><ele>60</ele></trkpt>
+   <trkpt lat="51.542096" lon="7.20867"><ele>59.5</ele></trkpt>
+   <trkpt lat="51.542013" lon="7.208096"><ele>59.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
