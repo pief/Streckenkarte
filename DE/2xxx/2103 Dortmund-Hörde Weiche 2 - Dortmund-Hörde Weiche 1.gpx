@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2103 Dortmund-Hörde Weiche 2 - Dortmund-Hörde Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.48822/7.49690/standard&amp;lonlats=7.497118,51.48831;7.496232,51.488436&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.488308" lon="7.497117"><ele>107.5</ele></trkpt>
+   <trkpt lat="51.488309" lon="7.497115"><ele>107.5</ele></trkpt>
+   <trkpt lat="51.488379" lon="7.49664"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.488434" lon="7.496233"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.488434" lon="7.496231"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

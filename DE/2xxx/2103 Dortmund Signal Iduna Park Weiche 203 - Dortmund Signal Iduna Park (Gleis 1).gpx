@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 142 filtered ascend = 0 plain-ascend = 0 cost=142 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2103 Dortmund Signal Iduna Park Weiche 203 - Dortmund Signal Iduna Park (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.49086/7.45852/standard&amp;lonlats=7.459854,51.491036;7.457869,51.490781&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.491035" lon="7.459853"><ele>99.5</ele></trkpt>
+   <trkpt lat="51.490945" lon="7.459139"><ele>99.25</ele></trkpt>
+   <trkpt lat="51.490779" lon="7.457868"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
