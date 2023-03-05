@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Oberhausen Hbf Weiche 10 - Oberhausen Hbf Weiche 6</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46916/6.84705/standard&amp;lonlats=6.846285,51.469568;6.845762,51.469092&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.469568" lon="6.846285"><ele>37</ele></trkpt>
+   <trkpt lat="51.469502" lon="6.846215"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.469495" lon="6.846208"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.469318" lon="6.846009"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.469096" lon="6.845765"><ele>36</ele></trkpt>
+   <trkpt lat="51.469091" lon="6.845761"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

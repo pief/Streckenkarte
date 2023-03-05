@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 1 plain-ascend = 1 cost=306 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Essen-Altenessen Weiche 69 - Essen-Altenessen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.48447/7.00708/standard&amp;lonlats=7.010897,51.48523;7.00682,51.484323&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.485226" lon="7.010898"><ele>47.25</ele></trkpt>
+   <trkpt lat="51.485176" lon="7.010684"><ele>47.5</ele></trkpt>
+   <trkpt lat="51.485134" lon="7.010506"><ele>47.5</ele></trkpt>
+   <trkpt lat="51.484868" lon="7.009358"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.48479" lon="7.009005"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.484602" lon="7.008113"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.484509" lon="7.007677"><ele>48.5</ele></trkpt>
+   <trkpt lat="51.484325" lon="7.006817"><ele>48.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

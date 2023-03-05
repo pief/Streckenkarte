@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 414 filtered ascend = 1 plain-ascend = 0 cost=414 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Oberhausen Hbf (Gleis 7) - Oberhausen Hbf Weiche 31</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47183/6.84899/standard&amp;lonlats=6.852078,51.474723;6.848718,51.471702&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.474721" lon="6.852079"><ele>36</ele></trkpt>
+   <trkpt lat="51.474695" lon="6.852051"><ele>36</ele></trkpt>
+   <trkpt lat="51.474322" lon="6.851649"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.474315" lon="6.851641"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.47428" lon="6.851603"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.473353" lon="6.850617"><ele>37</ele></trkpt>
+   <trkpt lat="51.47329" lon="6.850546"><ele>37</ele></trkpt>
+   <trkpt lat="51.473273" lon="6.850526"><ele>37</ele></trkpt>
+   <trkpt lat="51.471702" lon="6.848722"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.4717" lon="6.848719"><ele>36.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

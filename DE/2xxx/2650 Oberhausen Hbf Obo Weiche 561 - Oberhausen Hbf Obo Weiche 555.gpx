@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 1 plain-ascend = 1 cost=49 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Oberhausen Hbf Obo Weiche 561 - Oberhausen Hbf Obo Weiche 555</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.48196/6.86462/standard&amp;lonlats=6.86434,51.482162;6.863698,51.482008&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.482162" lon="6.86434"><ele>41</ele></trkpt>
+   <trkpt lat="51.48201" lon="6.863707"><ele>42</ele></trkpt>
+   <trkpt lat="51.482007" lon="6.863697"><ele>42</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 316 filtered ascend = 0 plain-ascend = 0 cost=316 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Oberhausen Hbf Weiche 135 - Oberhausen Hbf (Gleis 7)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47493/6.85267/standard&amp;lonlats=6.854522,51.477092;6.852078,51.474723&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.477091" lon="6.854521"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.476497" lon="6.853929"><ele>37</ele></trkpt>
+   <trkpt lat="51.476382" lon="6.853815"><ele>37</ele></trkpt>
+   <trkpt lat="51.475842" lon="6.85327"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.474721" lon="6.852079"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
