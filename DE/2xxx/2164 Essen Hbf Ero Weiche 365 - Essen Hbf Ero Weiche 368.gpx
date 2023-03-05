@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 94 filtered ascend = 0 plain-ascend = -4 cost=94 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2164 Essen Hbf Ero Weiche 365 - Essen Hbf Ero Weiche 368</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45510/7.04603/standard&amp;lonlats=7.044892,51.455362;7.046131,51.455058&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.455362" lon="7.044892"><ele>102.5</ele></trkpt>
+   <trkpt lat="51.455056" lon="7.046128"><ele>98</ele></trkpt>
+   <trkpt lat="51.455055" lon="7.046129"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

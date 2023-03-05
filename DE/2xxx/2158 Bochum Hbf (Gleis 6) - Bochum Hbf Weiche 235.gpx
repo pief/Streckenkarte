@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 638 filtered ascend = 6 plain-ascend = 6 cost=638 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2158 Bochum Hbf (Gleis 6) - Bochum Hbf Weiche 235</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.48089/7.23123/standard&amp;lonlats=7.223366,51.47842;7.23127,51.481086&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478418" lon="7.223367"><ele>102.75</ele></trkpt>
+   <trkpt lat="51.478646" lon="7.22385"><ele>102.75</ele></trkpt>
+   <trkpt lat="51.47915" lon="7.224921"><ele>100</ele></trkpt>
+   <trkpt lat="51.479198" lon="7.225017"><ele>100</ele></trkpt>
+   <trkpt lat="51.479362" lon="7.225372"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.479812" lon="7.226322"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.480161" lon="7.227194"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.480291" lon="7.227561"><ele>103.25</ele></trkpt>
+   <trkpt lat="51.480403" lon="7.227917"><ele>103.75</ele></trkpt>
+   <trkpt lat="51.480513" lon="7.228295"><ele>104.25</ele></trkpt>
+   <trkpt lat="51.480596" lon="7.228606"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.480707" lon="7.229083"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.480797" lon="7.229528"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.480982" lon="7.230547"><ele>109</ele></trkpt>
+   <trkpt lat="51.481038" lon="7.230893"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.481087" lon="7.231268"><ele>108.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

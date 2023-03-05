@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 3 plain-ascend = 3 cost=99 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2140 Bochum-Langendreer Bezirk Kreuz Weiche 85 - Bochum-Langendreer Bezirk Kreuz Weiche 87</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47994/7.33610/standard&amp;lonlats=7.334965,51.480244;7.336247,51.479886&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.480244" lon="7.334965"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.480243" lon="7.334969"><ele>102.5</ele></trkpt>
+   <trkpt lat="51.48003" lon="7.335757"><ele>104.5</ele></trkpt>
+   <trkpt lat="51.479888" lon="7.336238"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.479885" lon="7.336246"><ele>105.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

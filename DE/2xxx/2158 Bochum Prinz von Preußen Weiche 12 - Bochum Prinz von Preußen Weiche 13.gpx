@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 27 filtered ascend = 0 plain-ascend = 0 cost=27 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2158 Bochum Prinz von Preußen Weiche 12 - Bochum Prinz von Preußen Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.48558/7.25544/standard&amp;lonlats=7.254119,51.485407;7.254477,51.485443&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.485407" lon="7.254117"><ele>118</ele></trkpt>
+   <trkpt lat="51.485408" lon="7.254121"><ele>118</ele></trkpt>
+   <trkpt lat="51.485428" lon="7.254344"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.48544" lon="7.254476"><ele>117.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
