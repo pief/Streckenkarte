@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 2 plain-ascend = 2 cost=164 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2193 Essen-Steele Weiche 107 - Essen-Steele (Gleis 102)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45077/7.07610/standard&amp;lonlats=7.077459,51.449895;7.075566,51.450708&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.449891" lon="7.077454"><ele>68.75</ele></trkpt>
+   <trkpt lat="51.44997" lon="7.077307"><ele>68.75</ele></trkpt>
+   <trkpt lat="51.450018" lon="7.077217"><ele>69</ele></trkpt>
+   <trkpt lat="51.450268" lon="7.076686"><ele>70.25</ele></trkpt>
+   <trkpt lat="51.450504" lon="7.076122"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.45052" lon="7.07608"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.450621" lon="7.075814"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.450707" lon="7.075565"><ele>71</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

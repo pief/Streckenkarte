@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 2 plain-ascend = 3 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2291 Essen Hbf Weiche 165 - Essen Hbf Weiche 186</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45244/7.02062/standard&amp;lonlats=7.023396,51.453686;7.020567,51.452369&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.453684" lon="7.023396"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.453684" lon="7.023396"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.453122" lon="7.022307"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.452864" lon="7.02179"><ele>91.25</ele></trkpt>
+   <trkpt lat="51.452611" lon="7.021205"><ele>92.5</ele></trkpt>
+   <trkpt lat="51.452366" lon="7.020569"><ele>93.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

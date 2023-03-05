@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 729 filtered ascend = 0 plain-ascend = -1 cost=729 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2165 Essen-Horst (Gleis 2) - Essen-Steele Ost Bezirk Ruhrau Weiche 82</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.43659/7.09745/standard&amp;lonlats=7.102798,51.431205;7.09723,51.43649&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.431205" lon="7.102798"><ele>71.5</ele></trkpt>
+   <trkpt lat="51.431518" lon="7.10211"><ele>71.25</ele></trkpt>
+   <trkpt lat="51.431757" lon="7.101645"><ele>71</ele></trkpt>
+   <trkpt lat="51.431972" lon="7.101263"><ele>71.25</ele></trkpt>
+   <trkpt lat="51.432223" lon="7.100857"><ele>71.75</ele></trkpt>
+   <trkpt lat="51.432349" lon="7.100668"><ele>72</ele></trkpt>
+   <trkpt lat="51.432592" lon="7.100325"><ele>71.75</ele></trkpt>
+   <trkpt lat="51.432846" lon="7.099999"><ele>71.5</ele></trkpt>
+   <trkpt lat="51.433048" lon="7.099759"><ele>71.25</ele></trkpt>
+   <trkpt lat="51.43335" lon="7.099432"><ele>70.75</ele></trkpt>
+   <trkpt lat="51.433585" lon="7.099197"><ele>70.25</ele></trkpt>
+   <trkpt lat="51.434036" lon="7.098776"><ele>69.25</ele></trkpt>
+   <trkpt lat="51.434168" lon="7.098658"><ele>69</ele></trkpt>
+   <trkpt lat="51.434574" lon="7.098317"><ele>68.75</ele></trkpt>
+   <trkpt lat="51.435003" lon="7.097997"><ele>67.75</ele></trkpt>
+   <trkpt lat="51.435381" lon="7.097759"><ele>67.75</ele></trkpt>
+   <trkpt lat="51.435855" lon="7.097499"><ele>68</ele></trkpt>
+   <trkpt lat="51.436148" lon="7.097363"><ele>68.5</ele></trkpt>
+   <trkpt lat="51.436487" lon="7.097231"><ele>69.25</ele></trkpt>
+   <trkpt lat="51.43649" lon="7.09723"><ele>69.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

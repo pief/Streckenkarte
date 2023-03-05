@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 98 filtered ascend = 3 plain-ascend = 4 cost=98 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2193 Essen-Steele Weiche 105 - Essen-Steele Weiche 102</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45135/7.07329/standard&amp;lonlats=7.07408,51.451145;7.0728,51.451485&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.451145" lon="7.07408"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.451147" lon="7.074075"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.451482" lon="7.072797"><ele>80</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

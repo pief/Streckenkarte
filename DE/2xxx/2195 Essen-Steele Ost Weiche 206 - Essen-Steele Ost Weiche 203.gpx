@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 1 plain-ascend = 2 cost=51 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2195 Essen-Steele Ost Weiche 206 - Essen-Steele Ost Weiche 203</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.44632/7.08409/standard&amp;lonlats=7.084363,51.446141;7.083781,51.446396&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.446139" lon="7.084361"><ele>66.25</ele></trkpt>
+   <trkpt lat="51.44614" lon="7.08436"><ele>66.5</ele></trkpt>
+   <trkpt lat="51.446392" lon="7.083786"><ele>68</ele></trkpt>
+   <trkpt lat="51.446394" lon="7.083779"><ele>68</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
