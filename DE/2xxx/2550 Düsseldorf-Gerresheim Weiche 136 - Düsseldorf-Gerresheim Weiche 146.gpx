@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=25 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Düsseldorf-Gerresheim Weiche 136 - Düsseldorf-Gerresheim Weiche 146</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.22030/6.86698/standard&amp;lonlats=6.866363,51.220389;6.866699,51.220397&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.220389" lon="6.866361"><ele>47.75</ele></trkpt>
+   <trkpt lat="51.22039" lon="6.866366"><ele>47.75</ele></trkpt>
+   <trkpt lat="51.220391" lon="6.86648"><ele>47.5</ele></trkpt>
+   <trkpt lat="51.220394" lon="6.866672"><ele>47.25</ele></trkpt>
+   <trkpt lat="51.220394" lon="6.866699"><ele>47.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

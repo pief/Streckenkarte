@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 14 filtered ascend = 0 plain-ascend = 0 cost=14 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Vohwinkel Weiche 2 - Wuppertal-Vohwinkel Weiche 5</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23198/7.06700/standard&amp;lonlats=7.067098,51.231829;7.067237,51.231898&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.231829" lon="7.067096"><ele>178.5</ele></trkpt>
+   <trkpt lat="51.231893" lon="7.06724"><ele>178.75</ele></trkpt>
+   <trkpt lat="51.231893" lon="7.067241"><ele>178.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

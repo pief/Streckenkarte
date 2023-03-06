@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 158 filtered ascend = 0 plain-ascend = 0 cost=158 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Vohwinkel Weiche 34 - Wuppertal-Vohwinkel Weiche 36</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23775/7.08116/standard&amp;lonlats=7.078853,51.236782;7.080655,51.237591&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.236781" lon="7.078852"><ele>168.5</ele></trkpt>
+   <trkpt lat="51.236959" lon="7.079287"><ele>169</ele></trkpt>
+   <trkpt lat="51.237144" lon="7.079718"><ele>168.75</ele></trkpt>
+   <trkpt lat="51.237371" lon="7.080209"><ele>168</ele></trkpt>
+   <trkpt lat="51.23759" lon="7.080655"><ele>168.25</ele></trkpt>
+   <trkpt lat="51.23759" lon="7.080655"><ele>168.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

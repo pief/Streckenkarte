@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 277 filtered ascend = 0 plain-ascend = 0 cost=277 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Düsseldorf Hbf (Gleis 7) - Düsseldorf Hbf Weiche 232</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.22161/6.79602/standard&amp;lonlats=6.793703,51.219831;6.796082,51.22178&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.219829" lon="6.793704"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.220058" lon="6.793986"><ele>45.25</ele></trkpt>
+   <trkpt lat="51.220706" lon="6.794772"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.221008" lon="6.795141"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.221063" lon="6.795207"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.221439" lon="6.795682"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.221777" lon="6.796085"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.221777" lon="6.796085"><ele>43.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

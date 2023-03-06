@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=26 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal Hbf Weiche 3 - Wuppertal Hbf Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.25334/7.14563/standard&amp;lonlats=7.144974,51.2531;7.144977,51.253101;7.145235,51.253211&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.2531" lon="7.144974"><ele>166.75</ele></trkpt>
+   <trkpt lat="51.253101" lon="7.144977"><ele>166.75</ele></trkpt>
+   <trkpt lat="51.253101" lon="7.144977"><ele>166.75</ele></trkpt>
+   <trkpt lat="51.253206" lon="7.145235"><ele>167</ele></trkpt>
+   <trkpt lat="51.253207" lon="7.145237"><ele>166.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 307 filtered ascend = 0 plain-ascend = -3 cost=307 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Vohwinkel Weiche 7 - Wuppertal-Vohwinkel (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23376/7.07165/standard&amp;lonlats=7.06827,51.232358;7.071843,51.233924&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.232353" lon="7.068274"><ele>176</ele></trkpt>
+   <trkpt lat="51.232355" lon="7.068279"><ele>176</ele></trkpt>
+   <trkpt lat="51.232669" lon="7.068991"><ele>175</ele></trkpt>
+   <trkpt lat="51.232924" lon="7.069565"><ele>173.5</ele></trkpt>
+   <trkpt lat="51.233097" lon="7.069956"><ele>171.75</ele></trkpt>
+   <trkpt lat="51.233925" lon="7.07184"><ele>171.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

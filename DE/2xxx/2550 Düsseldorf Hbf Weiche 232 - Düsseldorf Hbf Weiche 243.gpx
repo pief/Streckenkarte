@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Düsseldorf Hbf Weiche 232 - Düsseldorf Hbf Weiche 243</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.22203/6.79671/standard&amp;lonlats=6.796082,51.22178;6.796388,51.222028&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.221777" lon="6.796085"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.222024" lon="6.796385"><ele>43</ele></trkpt>
+   <trkpt lat="51.222027" lon="6.796388"><ele>42.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
