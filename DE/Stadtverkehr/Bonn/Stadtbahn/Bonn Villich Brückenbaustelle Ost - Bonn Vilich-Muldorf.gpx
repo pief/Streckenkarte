@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 943 filtered ascend = 0 plain-ascend = -1 cost=943 energy=0.0kwh time=1m 15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bonn Villich Brückenbaustelle Ost - Bonn Vilich-Muldorf</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.75436/7.14844/standard&amp;lonlats=7.135113,50.751694;7.147708,50.754362&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.751693" lon="7.135112"><ele>62.75</ele></trkpt>
+   <trkpt lat="50.751698" lon="7.135141"><ele>62.75</ele></trkpt>
+   <trkpt lat="50.751751" lon="7.135782"><ele>62.75</ele></trkpt>
+   <trkpt lat="50.75182" lon="7.136378"><ele>62</ele></trkpt>
+   <trkpt lat="50.751929" lon="7.13708"><ele>62</ele></trkpt>
+   <trkpt lat="50.752055" lon="7.137721"><ele>62</ele></trkpt>
+   <trkpt lat="50.752834" lon="7.141081"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.752963" lon="7.141638"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.754138" lon="7.146722"><ele>61.75</ele></trkpt>
+   <trkpt lat="50.754365" lon="7.147705"><ele>60.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 154 filtered ascend = 1 plain-ascend = -1 cost=308 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bonn Bertha-von-Süttner-Platz/Beethovenplatz - Bonn Belderberg Überleitgleis Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.73740/7.10455/standard&amp;lonlats=7.102524,50.737432;7.104607,50.737441&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.737432" lon="7.102524"><ele>65</ele></trkpt>
+   <trkpt lat="50.737432" lon="7.102535"><ele>65</ele></trkpt>
+   <trkpt lat="50.737429" lon="7.102937"><ele>65.75</ele></trkpt>
+   <trkpt lat="50.737424" lon="7.103412"><ele>66.5</ele></trkpt>
+   <trkpt lat="50.737424" lon="7.103449"><ele>66.5</ele></trkpt>
+   <trkpt lat="50.737423" lon="7.103554"><ele>66.25</ele></trkpt>
+   <trkpt lat="50.737422" lon="7.103711"><ele>65.75</ele></trkpt>
+   <trkpt lat="50.73742" lon="7.103828"><ele>65.5</ele></trkpt>
+   <trkpt lat="50.737427" lon="7.104338"><ele>64.25</ele></trkpt>
+   <trkpt lat="50.73744" lon="7.104608"><ele>63.25</ele></trkpt>
+   <trkpt lat="50.73744" lon="7.104607"><ele>63.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

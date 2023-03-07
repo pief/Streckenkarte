@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 867 filtered ascend = 2 plain-ascend = 3 cost=867 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bonn Vilich-Muldorf - Sankt Augustin Hangelar West</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/50.75859/7.16123/standard&amp;lonlats=7.147708,50.754362;7.158402,50.757955&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.754365" lon="7.147705"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.754367" lon="7.147714"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.754483" lon="7.148255"><ele>59.5</ele></trkpt>
+   <trkpt lat="50.755049" lon="7.151218"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.755141" lon="7.15167"><ele>59</ele></trkpt>
+   <trkpt lat="50.755284" lon="7.152207"><ele>59</ele></trkpt>
+   <trkpt lat="50.755434" lon="7.152674"><ele>59</ele></trkpt>
+   <trkpt lat="50.755676" lon="7.153282"><ele>59.75</ele></trkpt>
+   <trkpt lat="50.755832" lon="7.153643"><ele>60</ele></trkpt>
+   <trkpt lat="50.757956" lon="7.158399"><ele>63</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

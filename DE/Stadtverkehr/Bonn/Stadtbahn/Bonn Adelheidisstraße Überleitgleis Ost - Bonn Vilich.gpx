@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 149 filtered ascend = 0 plain-ascend = 0 cost=149 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bonn Adelheidisstraße Überleitgleis Ost - Bonn Vilich</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.75070/7.12977/standard&amp;lonlats=7.12759,50.749674;7.128863,50.750709&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.749672" lon="7.127591"><ele>63</ele></trkpt>
+   <trkpt lat="50.749889" lon="7.12779"><ele>63</ele></trkpt>
+   <trkpt lat="50.750133" lon="7.128049"><ele>63</ele></trkpt>
+   <trkpt lat="50.750337" lon="7.128294"><ele>63</ele></trkpt>
+   <trkpt lat="50.750538" lon="7.128588"><ele>62.75</ele></trkpt>
+   <trkpt lat="50.750695" lon="7.128852"><ele>62.25</ele></trkpt>
+   <trkpt lat="50.750703" lon="7.128868"><ele>62</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

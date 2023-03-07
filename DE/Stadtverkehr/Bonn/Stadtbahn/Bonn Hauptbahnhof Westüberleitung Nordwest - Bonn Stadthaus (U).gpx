@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 508 filtered ascend = 10 plain-ascend = 9 cost=508 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bonn Hauptbahnhof Westüberleitung Nordwest - Bonn Stadthaus (U)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.73663/7.09553/standard&amp;lonlats=7.093064,50.733814;7.095507,50.736682&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.733813" lon="7.093063"/>
+   <trkpt lat="50.733976" lon="7.092503"/>
+   <trkpt lat="50.734062" lon="7.092321"/>
+   <trkpt lat="50.734169" lon="7.092144"/>
+   <trkpt lat="50.73432" lon="7.091983"/>
+   <trkpt lat="50.734481" lon="7.091881"/>
+   <trkpt lat="50.73465" lon="7.091829"/>
+   <trkpt lat="50.734801" lon="7.091818"/>
+   <trkpt lat="50.734957" lon="7.091845"/>
+   <trkpt lat="50.73509" lon="7.091916"/>
+   <trkpt lat="50.735231" lon="7.092039"/>
+   <trkpt lat="50.735364" lon="7.092198"/>
+   <trkpt lat="50.735481" lon="7.092412"/>
+   <trkpt lat="50.735964" lon="7.093541"><ele>63.5</ele></trkpt>
+   <trkpt lat="50.736229" lon="7.094236"><ele>67.25</ele></trkpt>
+   <trkpt lat="50.73636" lon="7.094577"><ele>69.75</ele></trkpt>
+   <trkpt lat="50.736585" lon="7.095211"><ele>73.5</ele></trkpt>
+   <trkpt lat="50.736613" lon="7.095297"><ele>73.5</ele></trkpt>
+   <trkpt lat="50.736682" lon="7.095505"><ele>72.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

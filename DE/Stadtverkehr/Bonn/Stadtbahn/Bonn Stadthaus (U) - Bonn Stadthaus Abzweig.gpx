@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = -5 cost=102 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bonn Stadthaus (U) - Bonn Stadthaus Abzweig</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.73695/7.09662/standard&amp;lonlats=7.095507,50.736682;7.096747,50.73708&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.736682" lon="7.095505"><ele>72.5</ele></trkpt>
+   <trkpt lat="50.736793" lon="7.09584"><ele>71</ele></trkpt>
+   <trkpt lat="50.736872" lon="7.09609"><ele>69.75</ele></trkpt>
+   <trkpt lat="50.7369" lon="7.096181"><ele>69.25</ele></trkpt>
+   <trkpt lat="50.736942" lon="7.096312"><ele>68.5</ele></trkpt>
+   <trkpt lat="50.736976" lon="7.096429"><ele>68</ele></trkpt>
+   <trkpt lat="50.737014" lon="7.096529"><ele>67.5</ele></trkpt>
+   <trkpt lat="50.737078" lon="7.096746"><ele>66.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

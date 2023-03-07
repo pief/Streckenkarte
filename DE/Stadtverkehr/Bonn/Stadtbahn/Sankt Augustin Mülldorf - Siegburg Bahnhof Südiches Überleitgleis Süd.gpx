@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 850 filtered ascend = 0 plain-ascend = 0 cost=850 energy=0.0kwh time=1m 8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Sankt Augustin Mülldorf - Siegburg Bahnhof Südiches Überleitgleis Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.79106/7.20218/standard&amp;lonlats=7.193817,50.784953;7.200452,50.791009&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.784952" lon="7.193816"><ele>61</ele></trkpt>
+   <trkpt lat="50.784956" lon="7.193819"><ele>61</ele></trkpt>
+   <trkpt lat="50.785268" lon="7.194115"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.785341" lon="7.194184"><ele>60.5</ele></trkpt>
+   <trkpt lat="50.785572" lon="7.194391"><ele>60.25</ele></trkpt>
+   <trkpt lat="50.785751" lon="7.194537"><ele>60</ele></trkpt>
+   <trkpt lat="50.785893" lon="7.194643"><ele>59.75</ele></trkpt>
+   <trkpt lat="50.78611" lon="7.194782"><ele>59.5</ele></trkpt>
+   <trkpt lat="50.786441" lon="7.194949"><ele>59</ele></trkpt>
+   <trkpt lat="50.787223" lon="7.1953"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.787559" lon="7.195476"><ele>58.5</ele></trkpt>
+   <trkpt lat="50.787811" lon="7.195641"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.787816" lon="7.195649"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.788024" lon="7.19581"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.788227" lon="7.195997"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.788539" lon="7.196347"><ele>59</ele></trkpt>
+   <trkpt lat="50.788621" lon="7.196455"><ele>59</ele></trkpt>
+   <trkpt lat="50.788847" lon="7.196779"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.789039" lon="7.197092"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.789546" lon="7.198005"><ele>57.25</ele></trkpt>
+   <trkpt lat="50.790157" lon="7.199112"><ele>57.25</ele></trkpt>
+   <trkpt lat="50.790462" lon="7.199622"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.790589" lon="7.199816"><ele>59.5</ele></trkpt>
+   <trkpt lat="50.79084" lon="7.200177"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.791008" lon="7.200451"><ele>60.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

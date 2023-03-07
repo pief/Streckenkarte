@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 271 filtered ascend = 0 plain-ascend = -1 cost=271 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Siegburg Bahnhof Südiches Überleitgleis Süd - Siegburg Bahnhof Nördliches Überleitgleis Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.79301/7.20317/standard&amp;lonlats=7.200452,50.791009;7.202913,50.792382;7.202931,50.792525&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.791008" lon="7.200451"><ele>60.25</ele></trkpt>
+   <trkpt lat="50.79101" lon="7.200453"><ele>60.25</ele></trkpt>
+   <trkpt lat="50.791112" lon="7.200654"><ele>60</ele></trkpt>
+   <trkpt lat="50.79121" lon="7.200884"><ele>59.75</ele></trkpt>
+   <trkpt lat="50.791301" lon="7.201129"><ele>59.5</ele></trkpt>
+   <trkpt lat="50.791379" lon="7.201374"><ele>59.25</ele></trkpt>
+   <trkpt lat="50.791621" lon="7.202209"><ele>59</ele></trkpt>
+   <trkpt lat="50.791674" lon="7.202355"><ele>59</ele></trkpt>
+   <trkpt lat="50.791744" lon="7.202497"><ele>59</ele></trkpt>
+   <trkpt lat="50.791788" lon="7.202569"><ele>59</ele></trkpt>
+   <trkpt lat="50.791874" lon="7.202679"><ele>59</ele></trkpt>
+   <trkpt lat="50.792005" lon="7.202793"><ele>59</ele></trkpt>
+   <trkpt lat="50.792088" lon="7.202841"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.792169" lon="7.202871"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.792381" lon="7.202906"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.792525" lon="7.20293"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.792525" lon="7.20293"><ele>58.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
