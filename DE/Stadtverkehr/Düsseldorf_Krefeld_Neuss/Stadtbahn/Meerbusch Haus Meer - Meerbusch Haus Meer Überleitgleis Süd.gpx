@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=43 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Meerbusch Haus Meer - Meerbusch Haus Meer Überleitgleis Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.26604/6.67077/standard&amp;lonlats=6.668871,51.265836;6.669476,51.26581&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.265836" lon="6.668871"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.265811" lon="6.669476"><ele>36.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

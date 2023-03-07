@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 147 filtered ascend = 2 plain-ascend = 2 cost=147 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Amboßstraße Überleitgleis Süd - Düsseldorf Prinzenallee (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23804/6.73475/standard&amp;lonlats=6.732283,51.238774;6.734098,51.238157&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.238771" lon="6.73228"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.238771" lon="6.732281"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.23876" lon="6.732312"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.238367" lon="6.733472"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.238158" lon="6.734099"><ele>40.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

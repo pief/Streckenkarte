@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 208 filtered ascend = 0 plain-ascend = -2 cost=208 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Dreieck Prinzenallee Ost - Düsseldorf Heerdter Sandberg</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23659/6.73851/standard&amp;lonlats=6.735494,51.237682;6.73809,51.2368&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.237682" lon="6.735494"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.237682" lon="6.735497"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.236805" lon="6.738093"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.236804" lon="6.738093"><ele>38.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

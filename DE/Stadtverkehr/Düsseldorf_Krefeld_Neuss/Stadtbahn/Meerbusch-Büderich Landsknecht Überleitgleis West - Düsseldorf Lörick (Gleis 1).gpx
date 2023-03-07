@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1497 filtered ascend = 0 plain-ascend = 0 cost=1497 energy=0.0kwh time=2m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Meerbusch-Büderich Landsknecht Überleitgleis West - Düsseldorf Lörick (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.24474/6.71783/standard&amp;lonlats=6.701537,51.253661;6.717329,51.244609&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.25366" lon="6.701536"><ele>36</ele></trkpt>
+   <trkpt lat="51.253661" lon="6.701536"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.249585" lon="6.708738"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.245748" lon="6.715521"><ele>36</ele></trkpt>
+   <trkpt lat="51.245313" lon="6.716259"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.244851" lon="6.716975"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.244612" lon="6.717335"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

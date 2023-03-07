@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 252 filtered ascend = 1 plain-ascend = 2 cost=252 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Lohweg - Düsseldorf Amboßstraße Überleitgleis Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23867/6.73297/standard&amp;lonlats=6.729125,51.239825;6.732283,51.238774&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.239836" lon="6.729135"><ele>37</ele></trkpt>
+   <trkpt lat="51.239835" lon="6.729141"><ele>37</ele></trkpt>
+   <trkpt lat="51.238771" lon="6.732281"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.238771" lon="6.73228"><ele>38.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

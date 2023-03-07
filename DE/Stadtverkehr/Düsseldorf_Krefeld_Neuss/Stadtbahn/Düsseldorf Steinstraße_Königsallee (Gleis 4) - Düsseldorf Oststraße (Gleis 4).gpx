@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 486 filtered ascend = 0 plain-ascend = 0 cost=486 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Steinstraße/Königsallee (Gleis 4) - Düsseldorf Oststraße (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.22234/6.78737/standard&amp;lonlats=6.780996,51.222942;6.787563,51.222292&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.222945" lon="6.780996"/>
+   <trkpt lat="51.222945" lon="6.781188"/>
+   <trkpt lat="51.222954" lon="6.781656"/>
+   <trkpt lat="51.222976" lon="6.78276"/>
+   <trkpt lat="51.223018" lon="6.784335"/>
+   <trkpt lat="51.223019" lon="6.784709"/>
+   <trkpt lat="51.223004" lon="6.785051"/>
+   <trkpt lat="51.222992" lon="6.785192"/>
+   <trkpt lat="51.222957" lon="6.785473"/>
+   <trkpt lat="51.222922" lon="6.78568"/>
+   <trkpt lat="51.222852" lon="6.785991"/>
+   <trkpt lat="51.2228" lon="6.786185"/>
+   <trkpt lat="51.222682" lon="6.786547"/>
+   <trkpt lat="51.222604" lon="6.786763"/>
+   <trkpt lat="51.222299" lon="6.787548"/>
+   <trkpt lat="51.222292" lon="6.787563"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 0 plain-ascend = 0 cost=314 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Heerdter Sandberg - Düsseldorf Comenius-Gymnasium (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.23542/6.74218/standard&amp;lonlats=6.73809,51.2368;6.742015,51.235477&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.236804" lon="6.738093"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.236545" lon="6.738867"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.236492" lon="6.739035"><ele>38.25</ele></trkpt>
+   <trkpt lat="51.236416" lon="6.739253"><ele>38</ele></trkpt>
+   <trkpt lat="51.235478" lon="6.742006"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.235475" lon="6.742013"><ele>38.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

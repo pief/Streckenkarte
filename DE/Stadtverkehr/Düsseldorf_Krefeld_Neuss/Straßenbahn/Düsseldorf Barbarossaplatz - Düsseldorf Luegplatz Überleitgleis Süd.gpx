@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 381 filtered ascend = 1 plain-ascend = 1 cost=381 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Barbarossaplatz - Düsseldorf Luegplatz Überleitgleis Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23147/6.76158/standard&amp;lonlats=6.755508,51.231532;6.760926,51.231564&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.231533" lon="6.755506"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.231542" lon="6.756076"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.231539" lon="6.756201"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.231541" lon="6.756301"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.231549" lon="6.757708"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.231564" lon="6.759649"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.231564" lon="6.759682"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.231564" lon="6.760924"><ele>42.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Neuss Gleiswechsel Stadthalle/Museum Südost - Neuss Gleiswechsel Stadthalle/Museum Nordost</name>
+  <trkseg>
+   <trkpt lat="51.193626" lon="6.701453"><ele>40</ele></trkpt>
+   <trkpt lat="51.193629" lon="6.70145"><ele>40</ele></trkpt>
+   <trkpt lat="51.193693" lon="6.701355"><ele>40</ele></trkpt>
+   <trkpt lat="51.193745" lon="6.701281"><ele>40</ele></trkpt>
+   <trkpt lat="51.193751" lon="6.701271"><ele>39.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 0 plain-ascend = -1 cost=124 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Belsenplatz Abzweig - Düsseldorf Belsenplatz Überleitgleis Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.23124/6.74897/standard&amp;lonlats=6.748522,51.231492;6.750295,51.2315&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.23149" lon="6.748521"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.231499" lon="6.750294"><ele>41</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

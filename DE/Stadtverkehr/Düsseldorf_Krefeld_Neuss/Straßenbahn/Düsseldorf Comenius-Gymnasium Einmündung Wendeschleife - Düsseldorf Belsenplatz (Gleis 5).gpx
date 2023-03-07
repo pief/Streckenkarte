@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 167 filtered ascend = 2 plain-ascend = 2 cost=167 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Düsseldorf Comenius-Gymnasium Einmündung Wendeschleife - Düsseldorf Belsenplatz (Gleis 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.23164/6.74767/standard&amp;lonlats=6.745479,51.232501;6.747386,51.23171&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.232499" lon="6.745476"><ele>36</ele></trkpt>
+   <trkpt lat="51.232498" lon="6.745478"><ele>36</ele></trkpt>
+   <trkpt lat="51.232395" lon="6.745645"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.232051" lon="6.746278"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.231974" lon="6.746428"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.231919" lon="6.746558"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.231856" lon="6.746764"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.231841" lon="6.746819"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.231808" lon="6.746963"><ele>37</ele></trkpt>
+   <trkpt lat="51.231709" lon="6.747385"><ele>38.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 895 filtered ascend = 0 plain-ascend = -3 cost=895 energy=0.0kwh time=1m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Osterath Hoterheide - Osterath Kamperweg</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/51.2710/6.6377/standard&amp;lonlats=6.627351,51.275401;6.637887,51.270927&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.27541" lon="6.627361"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.275403" lon="6.627378"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.275124" lon="6.628026"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.275097" lon="6.628089"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.27507" lon="6.628149"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.273998" lon="6.630633"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.272661" lon="6.633706"><ele>39</ele></trkpt>
+   <trkpt lat="51.272113" lon="6.634974"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.271357" lon="6.636708"><ele>36</ele></trkpt>
+   <trkpt lat="51.27115" lon="6.637244"><ele>36</ele></trkpt>
+   <trkpt lat="51.270991" lon="6.637698"><ele>36</ele></trkpt>
+   <trkpt lat="51.270929" lon="6.637889"><ele>36.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
