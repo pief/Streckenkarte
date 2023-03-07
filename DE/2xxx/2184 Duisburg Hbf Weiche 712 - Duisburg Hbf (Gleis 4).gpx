@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 1 plain-ascend = 1 cost=261 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2184 Duisburg Hbf Weiche 712 - Duisburg Hbf (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.42972/6.77595/standard&amp;lonlats=6.777079,51.43188;6.775808,51.429718&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.43188" lon="6.777078"><ele>40</ele></trkpt>
+   <trkpt lat="51.431338" lon="6.776691"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.430624" lon="6.776228"><ele>40</ele></trkpt>
+   <trkpt lat="51.430373" lon="6.776082"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.430077" lon="6.775938"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.429717" lon="6.775806"><ele>40.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

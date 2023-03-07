@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 3 plain-ascend = 1 cost=196 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2184 Duisburg Hbf Weiche 718 - Duisburg Hbf Weiche 715</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.43298/6.77801/standard&amp;lonlats=6.779167,51.434295;6.7778,51.432788&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.434294" lon="6.779165"><ele>35</ele></trkpt>
+   <trkpt lat="51.434297" lon="6.779167"><ele>35</ele></trkpt>
+   <trkpt lat="51.434035" lon="6.778894"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.433811" lon="6.778675"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.43348" lon="6.778375"><ele>38</ele></trkpt>
+   <trkpt lat="51.432787" lon="6.7778"><ele>35.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

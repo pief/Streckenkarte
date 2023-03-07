@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2184 Duisburg Hbf Weiche 708 - Duisburg Hbf Weiche 707</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.43470/6.77988/standard&amp;lonlats=6.779753,51.434817;6.779597,51.434683&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.434816" lon="6.779752"><ele>37</ele></trkpt>
+   <trkpt lat="51.434816" lon="6.779751"><ele>37</ele></trkpt>
+   <trkpt lat="51.43476" lon="6.779687"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.434745" lon="6.77967"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.434686" lon="6.779601"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.434682" lon="6.779596"><ele>36.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

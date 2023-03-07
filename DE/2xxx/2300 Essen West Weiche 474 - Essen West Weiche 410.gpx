@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 691 filtered ascend = 5 plain-ascend = 6 cost=691 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2300 Essen West Weiche 474 - Essen West Weiche 410</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45547/6.97573/standard&amp;lonlats=6.984107,51.453873;6.97461,51.455563&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.45387" lon="6.984105"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.453871" lon="6.984104"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.454085" lon="6.983039"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.454395" lon="6.981491"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.454446" lon="6.981237"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.454909" lon="6.978803"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.455057" lon="6.978054"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.455225" lon="6.977006"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.455378" lon="6.976001"><ele>81</ele></trkpt>
+   <trkpt lat="51.455559" lon="6.974608"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
