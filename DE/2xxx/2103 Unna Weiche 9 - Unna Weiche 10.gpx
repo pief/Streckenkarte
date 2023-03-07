@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 1 plain-ascend = 2 cost=281 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2103 Unna Weiche 9 - Unna Weiche 10</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.53928/7.68991/standard&amp;lonlats=7.687854,51.539333;7.691841,51.539035&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.539333" lon="7.687854"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.539315" lon="7.688121"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.539276" lon="7.688666"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.539097" lon="7.691009"><ele>99</ele></trkpt>
+   <trkpt lat="51.539095" lon="7.691036"><ele>99</ele></trkpt>
+   <trkpt lat="51.539032" lon="7.69184"><ele>98.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

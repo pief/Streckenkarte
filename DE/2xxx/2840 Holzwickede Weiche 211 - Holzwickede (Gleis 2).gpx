@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 0 plain-ascend = 0 cost=282 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2840 Holzwickede Weiche 211 - Holzwickede (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.50449/7.61957/standard&amp;lonlats=7.615913,51.503478;7.616186,51.503551;7.616186,51.503551;7.617799,51.504019;7.619518,51.504545&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.503477" lon="7.615912"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.50348" lon="7.61592"><ele>122</ele></trkpt>
+   <trkpt lat="51.503513" lon="7.616043"><ele>122</ele></trkpt>
+   <trkpt lat="51.503551" lon="7.616184"><ele>122</ele></trkpt>
+   <trkpt lat="51.503551" lon="7.616184"><ele>122</ele></trkpt>
+   <trkpt lat="51.503553" lon="7.61619"><ele>122</ele></trkpt>
+   <trkpt lat="51.503846" lon="7.617209"><ele>122</ele></trkpt>
+   <trkpt lat="51.503952" lon="7.617566"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.504019" lon="7.617799"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.504362" lon="7.618942"><ele>122</ele></trkpt>
+   <trkpt lat="51.504545" lon="7.619516"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

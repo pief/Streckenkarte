@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 148 filtered ascend = 0 plain-ascend = 1 cost=148 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2840 Schwerte (Ruhr) Weiche 263 - Schwerte (Ruhr) Weiche 245</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.44543/7.56172/standard&amp;lonlats=7.560386,51.44419;7.561399,51.44533&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.444189" lon="7.560383"><ele>128.75</ele></trkpt>
+   <trkpt lat="51.444192" lon="7.560385"><ele>129</ele></trkpt>
+   <trkpt lat="51.444869" lon="7.560974"><ele>129.5</ele></trkpt>
+   <trkpt lat="51.44533" lon="7.561399"><ele>129.25</ele></trkpt>
+   <trkpt lat="51.44533" lon="7.561399"><ele>129.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

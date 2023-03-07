@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 523 filtered ascend = 0 plain-ascend = 1 cost=523 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2840 Holzwickede Weiche 201 - Holzwickede Weiche 211</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.50343/7.61631/standard&amp;lonlats=7.609207,51.501383;7.615918,51.503477&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.501382" lon="7.609206"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.501383" lon="7.609208"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.501738" lon="7.610322"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.502892" lon="7.613946"><ele>122</ele></trkpt>
+   <trkpt lat="51.503158" lon="7.614811"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.503478" lon="7.615915"><ele>121.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
