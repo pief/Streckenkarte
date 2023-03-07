@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 188 filtered ascend = 0 plain-ascend = -1 cost=188 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Schwerte (Ruhr) Weiche 242 - Schwerte (Ruhr) (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.44260/7.55971/standard&amp;lonlats=7.560461,51.444063;7.559355,51.442548&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.444062" lon="7.560459"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.44406" lon="7.560457"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.443401" lon="7.559924"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.443" lon="7.559642"><ele>127</ele></trkpt>
+   <trkpt lat="51.442547" lon="7.559354"><ele>126.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
