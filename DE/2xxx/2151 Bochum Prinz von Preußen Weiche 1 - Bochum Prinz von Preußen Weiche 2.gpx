@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 9 filtered ascend = 0 plain-ascend = 0 cost=9 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2151 Bochum Prinz von Preußen Weiche 1 - Bochum Prinz von Preußen Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.48404/7.24854/standard&amp;lonlats=7.248369,51.484132;7.248472,51.484165&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.484132" lon="7.248367"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.484133" lon="7.248369"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.484165" lon="7.24847"><ele>117.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

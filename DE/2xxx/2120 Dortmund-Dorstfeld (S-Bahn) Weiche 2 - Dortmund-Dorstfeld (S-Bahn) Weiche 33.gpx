@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 485 filtered ascend = 8 plain-ascend = 9 cost=485 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2120 Dortmund-Dorstfeld (S-Bahn) Weiche 2 - Dortmund-Dorstfeld (S-Bahn) Weiche 33</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.51180/7.41281/standard&amp;lonlats=7.413913,51.511487;7.420411,51.510012&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.511484" lon="7.413911"><ele>80.5</ele></trkpt>
+   <trkpt lat="51.511484" lon="7.413914"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.511412" lon="7.414391"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.51133" lon="7.414873"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.511215" lon="7.41547"><ele>83.25</ele></trkpt>
+   <trkpt lat="51.511053" lon="7.416213"><ele>84.5</ele></trkpt>
+   <trkpt lat="51.510487" lon="7.418541"><ele>87</ele></trkpt>
+   <trkpt lat="51.510278" lon="7.419381"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.510012" lon="7.420411"><ele>89.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

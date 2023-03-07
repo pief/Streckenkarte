@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 0 plain-ascend = 0 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2151 Dortmund-Lütgendortmund Weiche 530 - Dortmund-Lütgendortmund Weiche 529</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.50369/7.37817/standard&amp;lonlats=7.378915,51.503893;7.37785,51.503445&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.503892" lon="7.378914"><ele>83</ele></trkpt>
+   <trkpt lat="51.503447" lon="7.377864"><ele>83</ele></trkpt>
+   <trkpt lat="51.503441" lon="7.377853"><ele>83</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 84 filtered ascend = 0 plain-ascend = 1 cost=84 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2151 Bochum-Langendreer Lgf Weiche 120 - Bochum-Langendreer Lgf Weiche 114</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47884/7.30206/standard&amp;lonlats=7.303002,51.47843;7.301893,51.478628&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.47843" lon="7.303002"><ele>96.25</ele></trkpt>
+   <trkpt lat="51.47843" lon="7.303003"><ele>96.25</ele></trkpt>
+   <trkpt lat="51.478438" lon="7.302955"><ele>96.25</ele></trkpt>
+   <trkpt lat="51.478479" lon="7.302723"><ele>96.5</ele></trkpt>
+   <trkpt lat="51.478506" lon="7.302573"><ele>96.75</ele></trkpt>
+   <trkpt lat="51.478625" lon="7.301893"><ele>97</ele></trkpt>
+   <trkpt lat="51.478625" lon="7.301891"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
