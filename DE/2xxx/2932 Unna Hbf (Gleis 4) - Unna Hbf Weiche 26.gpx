@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 1 plain-ascend = 1 cost=103 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2932 Unna Hbf (Gleis 4) - Unna Hbf Weiche 26</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.53904/7.69335/standard&amp;lonlats=7.693903,51.538994;7.69246,51.539119&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.538992" lon="7.693902"><ele>97</ele></trkpt>
+   <trkpt lat="51.539073" lon="7.692953"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.539078" lon="7.692884"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.53911" lon="7.692532"><ele>98</ele></trkpt>
+   <trkpt lat="51.539115" lon="7.692459"><ele>98</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
