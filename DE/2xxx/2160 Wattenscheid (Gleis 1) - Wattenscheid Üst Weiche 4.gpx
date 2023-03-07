@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 642 filtered ascend = 2 plain-ascend = 0 cost=642 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2160 Wattenscheid (Gleis 1) - Wattenscheid Üst Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.47274/7.13270/standard&amp;lonlats=7.139348,51.473263;7.130221,51.472646&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.473263" lon="7.139346"><ele>78</ele></trkpt>
+   <trkpt lat="51.473256" lon="7.139244"><ele>78.5</ele></trkpt>
+   <trkpt lat="51.47318" lon="7.138192"><ele>80.25</ele></trkpt>
+   <trkpt lat="51.473037" lon="7.136236"><ele>78</ele></trkpt>
+   <trkpt lat="51.473034" lon="7.136186"><ele>78</ele></trkpt>
+   <trkpt lat="51.472899" lon="7.134324"><ele>78</ele></trkpt>
+   <trkpt lat="51.472759" lon="7.131966"><ele>78</ele></trkpt>
+   <trkpt lat="51.472658" lon="7.130404"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.472644" lon="7.13022"><ele>77.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

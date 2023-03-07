@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 252 filtered ascend = 0 plain-ascend = -4 cost=252 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2160 Bochum Hbf Weiche 209 - Bochum Hbf Weiche 205</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47548/7.21677/standard&amp;lonlats=7.218785,51.476632;7.21592,51.475274&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.476629" lon="7.218787"><ele>102.75</ele></trkpt>
+   <trkpt lat="51.476627" lon="7.218783"><ele>103</ele></trkpt>
+   <trkpt lat="51.476264" lon="7.218018"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.475276" lon="7.215925"><ele>98</ele></trkpt>
+   <trkpt lat="51.475273" lon="7.215919"><ele>98</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

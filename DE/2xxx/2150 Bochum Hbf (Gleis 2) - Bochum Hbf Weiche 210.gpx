@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 307 filtered ascend = 0 plain-ascend = 0 cost=307 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2150 Bochum Hbf (Gleis 2) - Bochum Hbf Weiche 210</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.47745/7.22221/standard&amp;lonlats=7.219584,51.477062;7.223089,51.478711&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.477061" lon="7.219583"><ele>103.25</ele></trkpt>
+   <trkpt lat="51.47708" lon="7.219624"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.477367" lon="7.220227"><ele>103.75</ele></trkpt>
+   <trkpt lat="51.47851" lon="7.222669"><ele>103.5</ele></trkpt>
+   <trkpt lat="51.47871" lon="7.223088"><ele>103.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
