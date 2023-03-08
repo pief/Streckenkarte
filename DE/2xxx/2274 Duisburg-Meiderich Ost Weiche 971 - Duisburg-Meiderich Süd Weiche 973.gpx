@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 928 filtered ascend = 2 plain-ascend = 2 cost=928 energy=0.0kwh time=1m 14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2274 Duisburg-Meiderich Ost Weiche 971 - Duisburg-Meiderich Süd Weiche 973</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.46878/6.79841/standard&amp;lonlats=6.798543,51.468805;6.785252,51.468853&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.468803" lon="6.798543"><ele>29.5</ele></trkpt>
+   <trkpt lat="51.468803" lon="6.798541"><ele>29.5</ele></trkpt>
+   <trkpt lat="51.468824" lon="6.792569"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.468825" lon="6.791703"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.468822" lon="6.790864"><ele>28</ele></trkpt>
+   <trkpt lat="51.468835" lon="6.786723"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.46885" lon="6.785251"><ele>31.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

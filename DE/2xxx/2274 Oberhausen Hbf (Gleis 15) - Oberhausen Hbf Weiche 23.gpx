@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 2 plain-ascend = 3 cost=265 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2274 Oberhausen Hbf (Gleis 15) - Oberhausen Hbf Weiche 23</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47490/6.85141/standard&amp;lonlats=6.851324,51.47506;6.849581,51.473008&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.475057" lon="6.851327"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.475018" lon="6.851284"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.474844" lon="6.851105"><ele>36</ele></trkpt>
+   <trkpt lat="51.474607" lon="6.85087"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.474348" lon="6.85065"><ele>37.5</ele></trkpt>
+   <trkpt lat="51.473838" lon="6.850258"><ele>37.5</ele></trkpt>
+   <trkpt lat="51.473611" lon="6.850078"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.473545" lon="6.850026"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.473337" lon="6.849862"><ele>37</ele></trkpt>
+   <trkpt lat="51.473133" lon="6.849688"><ele>37.5</ele></trkpt>
+   <trkpt lat="51.473009" lon="6.849582"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.473007" lon="6.84958"><ele>37.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

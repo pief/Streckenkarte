@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 340 filtered ascend = 0 plain-ascend = 1 cost=340 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2274 Duisburg-Meiderich Süd (Gleis 5) - Duisburg-Meiderich Süd Weiche 975</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46870/6.77958/standard&amp;lonlats=6.780291,51.468818;6.775499,51.468746&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.468819" lon="6.780289"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.468819" lon="6.779862"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.468813" lon="6.778377"><ele>30.5</ele></trkpt>
+   <trkpt lat="51.468801" lon="6.778031"><ele>30.5</ele></trkpt>
+   <trkpt lat="51.468762" lon="6.777371"><ele>30.5</ele></trkpt>
+   <trkpt lat="51.46875" lon="6.776924"><ele>30.25</ele></trkpt>
+   <trkpt lat="51.468744" lon="6.776671"><ele>30.25</ele></trkpt>
+   <trkpt lat="51.468739" lon="6.77622"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.468747" lon="6.7755"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.468747" lon="6.775499"><ele>32.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
