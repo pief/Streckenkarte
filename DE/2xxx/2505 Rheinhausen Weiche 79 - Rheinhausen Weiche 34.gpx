@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 959 filtered ascend = 0 plain-ascend = -1 cost=959 energy=0.0kwh time=1m 17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2505 Rheinhausen Weiche 79 - Rheinhausen Weiche 34</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.39562/6.71067/standard&amp;lonlats=6.721099,51.4005;6.710137,51.39536&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.400499" lon="6.721098"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.400499" lon="6.721098"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.400091" lon="6.720251"><ele>30.25</ele></trkpt>
+   <trkpt lat="51.399853" lon="6.719758"><ele>30.25</ele></trkpt>
+   <trkpt lat="51.398613" lon="6.717184"><ele>29</ele></trkpt>
+   <trkpt lat="51.398213" lon="6.716353"><ele>27.75</ele></trkpt>
+   <trkpt lat="51.396998" lon="6.713709"><ele>27.75</ele></trkpt>
+   <trkpt lat="51.395772" lon="6.711038"><ele>28</ele></trkpt>
+   <trkpt lat="51.395358" lon="6.710138"><ele>29</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 999 filtered ascend = 1 plain-ascend = 1 cost=999 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2505 Krefeld-Uerdingen (Gleis 1) - Krefeld-Linn Weiche 32</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.34961/6.63900/standard&amp;lonlats=6.645585,51.357361;6.63881,51.349518&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.35736" lon="6.645584"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.357354" lon="6.645577"><ele>33</ele></trkpt>
+   <trkpt lat="51.357295" lon="6.645515"><ele>33</ele></trkpt>
+   <trkpt lat="51.354921" lon="6.643077"><ele>32</ele></trkpt>
+   <trkpt lat="51.354587" lon="6.642742"><ele>32</ele></trkpt>
+   <trkpt lat="51.354354" lon="6.642526"><ele>32</ele></trkpt>
+   <trkpt lat="51.354085" lon="6.642282"><ele>32</ele></trkpt>
+   <trkpt lat="51.353876" lon="6.642102"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.353868" lon="6.642096"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.353178" lon="6.641559"><ele>33</ele></trkpt>
+   <trkpt lat="51.352243" lon="6.640863"><ele>34</ele></trkpt>
+   <trkpt lat="51.351991" lon="6.640686"><ele>33.75</ele></trkpt>
+   <trkpt lat="51.35146" lon="6.640276"><ele>33.75</ele></trkpt>
+   <trkpt lat="51.350629" lon="6.639635"><ele>33</ele></trkpt>
+   <trkpt lat="51.350287" lon="6.639381"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.349522" lon="6.638812"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.349517" lon="6.638809"><ele>33.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

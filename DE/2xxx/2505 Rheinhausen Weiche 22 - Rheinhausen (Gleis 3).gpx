@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 286 filtered ascend = 2 plain-ascend = 2 cost=286 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2505 Rheinhausen Weiche 22 - Rheinhausen (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.39390/6.70761/standard&amp;lonlats=6.709371,51.395;6.706085,51.393476&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.395" lon="6.709369"><ele>29</ele></trkpt>
+   <trkpt lat="51.39461" lon="6.708529"><ele>29.5</ele></trkpt>
+   <trkpt lat="51.393504" lon="6.706152"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.393474" lon="6.706086"><ele>31.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

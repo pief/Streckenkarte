@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 376 filtered ascend = 1 plain-ascend = 2 cost=376 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2505 Krefeld-Linn (Gleis 1) - Krefeld-Linn Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.33472/6.62793/standard&amp;lonlats=6.62977,51.337709;6.627729,51.334634&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.337708" lon="6.629769"><ele>33.25</ele></trkpt>
+   <trkpt lat="51.337569" lon="6.629691"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.3375" lon="6.629655"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.336922" lon="6.629325"><ele>33.25</ele></trkpt>
+   <trkpt lat="51.336489" lon="6.629069"><ele>33</ele></trkpt>
+   <trkpt lat="51.336153" lon="6.628854"><ele>33.25</ele></trkpt>
+   <trkpt lat="51.33607" lon="6.6288"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.335686" lon="6.628524"><ele>34</ele></trkpt>
+   <trkpt lat="51.334634" lon="6.627729"><ele>35</ele></trkpt>
+   <trkpt lat="51.334634" lon="6.627729"><ele>35</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
