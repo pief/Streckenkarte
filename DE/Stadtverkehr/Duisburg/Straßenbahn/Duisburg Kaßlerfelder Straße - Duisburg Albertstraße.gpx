@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 430 filtered ascend = 0 plain-ascend = 0 cost=860 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Duisburg Kaßlerfelder Straße - Duisburg Albertstraße</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.44276/6.74765/standard&amp;lonlats=6.752405,51.440794;6.747416,51.442933&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.440795" lon="6.752408"><ele>32</ele></trkpt>
+   <trkpt lat="51.440925" lon="6.752263"><ele>32</ele></trkpt>
+   <trkpt lat="51.441091" lon="6.752064"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.441199" lon="6.751921"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.441341" lon="6.751663"><ele>31</ele></trkpt>
+   <trkpt lat="51.441425" lon="6.751458"><ele>30.5</ele></trkpt>
+   <trkpt lat="51.441635" lon="6.750827"><ele>29</ele></trkpt>
+   <trkpt lat="51.441864" lon="6.750223"><ele>29</ele></trkpt>
+   <trkpt lat="51.442648" lon="6.748191"><ele>30.75</ele></trkpt>
+   <trkpt lat="51.44293" lon="6.747427"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.442933" lon="6.747415"><ele>31.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

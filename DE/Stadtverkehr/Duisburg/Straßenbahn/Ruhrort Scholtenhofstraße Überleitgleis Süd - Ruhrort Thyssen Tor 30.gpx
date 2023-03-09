@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 298 filtered ascend = 2 plain-ascend = 2 cost=596 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Ruhrort Scholtenhofstraße Überleitgleis Süd - Ruhrort Thyssen Tor 30</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45966/6.73361/standard&amp;lonlats=6.732801,51.462495;6.733323,51.459895&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.462494" lon="6.732798"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.462494" lon="6.732798"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.462226" lon="6.732858"><ele>28</ele></trkpt>
+   <trkpt lat="51.462048" lon="6.732919"><ele>28.5</ele></trkpt>
+   <trkpt lat="51.461738" lon="6.733012"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.461392" lon="6.73309"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.46119" lon="6.733125"><ele>29</ele></trkpt>
+   <trkpt lat="51.461059" lon="6.733151"><ele>29</ele></trkpt>
+   <trkpt lat="51.460626" lon="6.733217"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.460269" lon="6.733256"><ele>29</ele></trkpt>
+   <trkpt lat="51.460114" lon="6.733285"><ele>29</ele></trkpt>
+   <trkpt lat="51.459895" lon="6.733325"><ele>28.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

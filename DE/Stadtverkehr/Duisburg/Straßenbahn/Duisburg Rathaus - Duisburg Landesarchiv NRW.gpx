@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 502 filtered ascend = 0 plain-ascend = -2 cost=1004 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Duisburg Rathaus - Duisburg Landesarchiv NRW</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.43661/6.75690/standard&amp;lonlats=6.761928,51.434537;6.756565,51.43733&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.434537" lon="6.761928"/>
+   <trkpt lat="51.434766" lon="6.761316"/>
+   <trkpt lat="51.434965" lon="6.760803"/>
+   <trkpt lat="51.435224" lon="6.760094"/>
+   <trkpt lat="51.435238" lon="6.760064"><ele>33.25</ele></trkpt>
+   <trkpt lat="51.435789" lon="6.758589"><ele>29</ele></trkpt>
+   <trkpt lat="51.435871" lon="6.758397"><ele>28</ele></trkpt>
+   <trkpt lat="51.435916" lon="6.758302"><ele>27.75</ele></trkpt>
+   <trkpt lat="51.435959" lon="6.758239"><ele>27.75</ele></trkpt>
+   <trkpt lat="51.43611" lon="6.758035"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.436448" lon="6.757624"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.436515" lon="6.757537"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.436659" lon="6.757342"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.436824" lon="6.757168"><ele>28.25</ele></trkpt>
+   <trkpt lat="51.436912" lon="6.757068"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.436982" lon="6.756995"><ele>29</ele></trkpt>
+   <trkpt lat="51.4371" lon="6.756858"><ele>29.5</ele></trkpt>
+   <trkpt lat="51.437335" lon="6.756577"><ele>30.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

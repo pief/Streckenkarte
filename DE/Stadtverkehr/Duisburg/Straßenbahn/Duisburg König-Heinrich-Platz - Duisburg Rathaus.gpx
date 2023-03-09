@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 421 filtered ascend = 0 plain-ascend = 0 cost=842 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Duisburg König-Heinrich-Platz - Duisburg Rathaus</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.43312/6.76783/standard&amp;lonlats=6.767503,51.43318;6.761913,51.434521&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.433189" lon="6.767507"/>
+   <trkpt lat="51.433392" lon="6.766447"/>
+   <trkpt lat="51.433845" lon="6.764141"/>
+   <trkpt lat="51.433964" lon="6.763643"/>
+   <trkpt lat="51.434099" lon="6.763163"/>
+   <trkpt lat="51.434326" lon="6.762495"/>
+   <trkpt lat="51.434537" lon="6.761928"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Ruhrort Scholtenhofstraße Südabzweig Ostgleis - Ruhrort Scholtenhofstraße Überleitgleis Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46307/6.73302/standard&amp;lonlats=6.732865,51.462423;6.732833,51.462743&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.462422" lon="6.732864"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.462423" lon="6.732864"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.462604" lon="6.732832"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.462738" lon="6.732832"><ele>27</ele></trkpt>
+   <trkpt lat="51.462742" lon="6.732832"><ele>26.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

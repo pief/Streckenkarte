@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 1 plain-ascend = 0 cost=686 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Ruhrort Thyssen Tor 30 - Ruhrort Scholtenhofstraße Südabzweig Ostgleis</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46273/6.73321/standard&amp;lonlats=6.733473,51.459411;6.732865,51.462423&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.459411" lon="6.733473"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.459416" lon="6.733473"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.45973" lon="6.733405"><ele>28.25</ele></trkpt>
+   <trkpt lat="51.460091" lon="6.733328"><ele>29</ele></trkpt>
+   <trkpt lat="51.460322" lon="6.733286"><ele>29</ele></trkpt>
+   <trkpt lat="51.460629" lon="6.733272"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.461066" lon="6.733203"><ele>29</ele></trkpt>
+   <trkpt lat="51.461196" lon="6.733183"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.46175" lon="6.733057"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.462155" lon="6.732931"><ele>28.25</ele></trkpt>
+   <trkpt lat="51.462422" lon="6.732864"><ele>27.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

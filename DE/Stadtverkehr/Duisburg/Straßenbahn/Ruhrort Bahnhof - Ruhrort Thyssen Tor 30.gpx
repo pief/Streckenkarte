@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 315 filtered ascend = 0 plain-ascend = -3 cost=630 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Ruhrort Bahnhof - Ruhrort Thyssen Tor 30</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45924/6.73325/standard&amp;lonlats=6.735201,51.457244;6.733474,51.459412&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.457243" lon="6.735197"><ele>31</ele></trkpt>
+   <trkpt lat="51.457247" lon="6.735198"><ele>31</ele></trkpt>
+   <trkpt lat="51.457399" lon="6.735225"><ele>31</ele></trkpt>
+   <trkpt lat="51.457726" lon="6.735257"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.457832" lon="6.735247"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.457865" lon="6.735232"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.457893" lon="6.735218"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.457977" lon="6.735146"><ele>31</ele></trkpt>
+   <trkpt lat="51.458038" lon="6.73506"><ele>31</ele></trkpt>
+   <trkpt lat="51.458098" lon="6.734924"><ele>30.75</ele></trkpt>
+   <trkpt lat="51.458129" lon="6.73481"><ele>30.5</ele></trkpt>
+   <trkpt lat="51.45827" lon="6.734056"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.458337" lon="6.73386"><ele>28.5</ele></trkpt>
+   <trkpt lat="51.458399" lon="6.733771"><ele>28.25</ele></trkpt>
+   <trkpt lat="51.458467" lon="6.733704"><ele>28.25</ele></trkpt>
+   <trkpt lat="51.458541" lon="6.73366"><ele>28</ele></trkpt>
+   <trkpt lat="51.458842" lon="6.733586"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.459411" lon="6.733473"><ele>27.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

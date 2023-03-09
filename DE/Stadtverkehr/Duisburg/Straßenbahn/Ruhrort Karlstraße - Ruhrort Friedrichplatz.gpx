@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 1 plain-ascend = 1 cost=728 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Ruhrort Karlstraße - Ruhrort Friedrichplatz</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45553/6.73554/standard&amp;lonlats=6.736923,51.453435;6.735142,51.45578&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.453438" lon="6.736925"><ele>31</ele></trkpt>
+   <trkpt lat="51.453439" lon="6.736923"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.453484" lon="6.736721"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.453763" lon="6.735506"><ele>32.5</ele></trkpt>
+   <trkpt lat="51.453831" lon="6.735217"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.453856" lon="6.735143"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.453879" lon="6.735103"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.453918" lon="6.735073"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.454038" lon="6.735071"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.454403" lon="6.735419"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.454462" lon="6.735434"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.455277" lon="6.735354"><ele>32</ele></trkpt>
+   <trkpt lat="51.455548" lon="6.735315"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.455637" lon="6.735262"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.455781" lon="6.735149"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.455781" lon="6.735148"><ele>31.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 250 filtered ascend = 9 plain-ascend = 9 cost=500 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Duisburg Vinckeweg Überleitgleis Nord - Ruhrort Tausendfensterhaus</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45063/6.73911/standard&amp;lonlats=6.741545,51.449153;6.739211,51.450811&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.449152" lon="6.741543"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.449278" lon="6.741372"><ele>26.25</ele></trkpt>
+   <trkpt lat="51.449846" lon="6.740612"><ele>26.25</ele></trkpt>
+   <trkpt lat="51.449969" lon="6.740446"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.450041" lon="6.740349"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.450251" lon="6.740044"><ele>29.5</ele></trkpt>
+   <trkpt lat="51.450489" lon="6.739669"><ele>32.5</ele></trkpt>
+   <trkpt lat="51.450657" lon="6.739431"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.45081" lon="6.739213"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.450811" lon="6.739211"><ele>35.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

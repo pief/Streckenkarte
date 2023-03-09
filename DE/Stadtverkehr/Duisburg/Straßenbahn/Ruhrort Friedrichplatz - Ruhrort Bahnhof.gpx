@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 0 plain-ascend = 0 cost=350 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Ruhrort Friedrichplatz - Ruhrort Bahnhof</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45695/6.73572/standard&amp;lonlats=6.735142,51.45578;6.735201,51.457244&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.455781" lon="6.735148"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.455933" lon="6.735033"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.455986" lon="6.734997"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.456067" lon="6.734951"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.456105" lon="6.73493"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.45618" lon="6.73489"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.456311" lon="6.734863"><ele>31</ele></trkpt>
+   <trkpt lat="51.45644" lon="6.734883"><ele>31</ele></trkpt>
+   <trkpt lat="51.456581" lon="6.734948"><ele>30.75</ele></trkpt>
+   <trkpt lat="51.456914" lon="6.735095"><ele>31</ele></trkpt>
+   <trkpt lat="51.4571" lon="6.735166"><ele>31</ele></trkpt>
+   <trkpt lat="51.457224" lon="6.735194"><ele>31</ele></trkpt>
+   <trkpt lat="51.457243" lon="6.735197"><ele>31</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
