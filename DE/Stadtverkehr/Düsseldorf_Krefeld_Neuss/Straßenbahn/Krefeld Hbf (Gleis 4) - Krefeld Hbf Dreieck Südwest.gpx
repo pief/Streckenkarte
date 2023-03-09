@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 93 filtered ascend = 0 plain-ascend = 1 cost=186 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Krefeld Hbf (Gleis 4) - Krefeld Hbf Dreieck Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.32668/6.56882/standard&amp;lonlats=6.567979,51.325701;6.568893,51.326254&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.325699" lon="6.567979"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.325924" lon="6.568513"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.325976" lon="6.568626"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.326051" lon="6.568733"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.326096" lon="6.568779"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.326253" lon="6.568893"><ele>42.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

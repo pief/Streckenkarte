@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 357 filtered ascend = 0 plain-ascend = -3 cost=714 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Krefeld Philadelphiastraße Dreieck Ost - Krefeld Viktoriastraße</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.33625/6.57743/standard&amp;lonlats=6.571533,51.334986;6.576331,51.336071&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.334984" lon="6.571534"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.335208" lon="6.572535"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.335489" lon="6.573791"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.33568" lon="6.57459"><ele>39</ele></trkpt>
+   <trkpt lat="51.336073" lon="6.576328"><ele>37</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

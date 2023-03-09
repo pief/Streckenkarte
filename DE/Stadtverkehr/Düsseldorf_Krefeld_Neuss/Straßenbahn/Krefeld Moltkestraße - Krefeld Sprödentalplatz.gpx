@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 345 filtered ascend = 1 plain-ascend = 1 cost=692 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Krefeld Moltkestraße - Krefeld Sprödentalplatz</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.33830/6.58559/standard&amp;lonlats=6.580765,51.337098;6.585391,51.338144&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.337098" lon="6.580765"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.337209" lon="6.581257"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.337803" lon="6.583875"><ele>39</ele></trkpt>
+   <trkpt lat="51.338148" lon="6.585387"><ele>39.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
