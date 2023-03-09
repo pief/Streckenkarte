@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 98 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2670 Köln Hbf Weiche 94W114 - Köln Hbf Weiche 94W111</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/50.94160/6.96310/standard&amp;lonlats=6.964301,50.941555;6.962932,50.941572&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.941555" lon="6.964301"/>
+   <trkpt lat="50.94157" lon="6.96335"/>
+   <trkpt lat="50.941571" lon="6.962933"/>
+   <trkpt lat="50.94157" lon="6.962931"/>
+  </trkseg>
+ </trk>
+</gpx>

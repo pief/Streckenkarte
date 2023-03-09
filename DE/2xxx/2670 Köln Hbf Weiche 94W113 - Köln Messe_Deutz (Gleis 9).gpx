@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 835 filtered ascend = 11 plain-ascend = 11 cost=835 energy=0.0kwh time=1m 7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2670 Köln Hbf Weiche 94W113 - Köln Messe/Deutz (Gleis 9)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.94119/6.97510/standard&amp;lonlats=6.963719,50.941527;6.975448,50.941181&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.941526" lon="6.963718"/>
+   <trkpt lat="50.941523" lon="6.9649"/>
+   <trkpt lat="50.941517" lon="6.966457"/>
+   <trkpt lat="50.941514" lon="6.967318"/>
+   <trkpt lat="50.941515" lon="6.967803"/>
+   <trkpt lat="50.941509" lon="6.968665"><ele>39.25</ele></trkpt>
+   <trkpt lat="50.941505" lon="6.969208"><ele>43.25</ele></trkpt>
+   <trkpt lat="50.941502" lon="6.969802"><ele>48</ele></trkpt>
+   <trkpt lat="50.941454" lon="6.971535"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.941438" lon="6.972195"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.941408" lon="6.972897"><ele>49.25</ele></trkpt>
+   <trkpt lat="50.941401" lon="6.973043"><ele>49</ele></trkpt>
+   <trkpt lat="50.941364" lon="6.973601"><ele>49</ele></trkpt>
+   <trkpt lat="50.941344" lon="6.973891"><ele>49</ele></trkpt>
+   <trkpt lat="50.941308" lon="6.974282"><ele>49</ele></trkpt>
+   <trkpt lat="50.941268" lon="6.974609"><ele>49.25</ele></trkpt>
+   <trkpt lat="50.941179" lon="6.975447"><ele>50.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

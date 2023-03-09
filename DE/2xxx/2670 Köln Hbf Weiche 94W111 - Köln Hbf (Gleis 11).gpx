@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 302 filtered ascend = 12 plain-ascend = 13 cost=302 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2670 Köln Hbf Weiche 94W111 - Köln Hbf (Gleis 11)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/50.94302/6.95971/standard&amp;lonlats=6.962932,50.941572;6.959722,50.943036&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.94157" lon="6.962931"/>
+   <trkpt lat="50.94157" lon="6.962837"/>
+   <trkpt lat="50.94157" lon="6.962759"/>
+   <trkpt lat="50.94157" lon="6.962746"><ele>43.25</ele></trkpt>
+   <trkpt lat="50.941582" lon="6.962425"><ele>46.5</ele></trkpt>
+   <trkpt lat="50.941632" lon="6.962006"><ele>50.5</ele></trkpt>
+   <trkpt lat="50.94168" lon="6.961773"><ele>52.75</ele></trkpt>
+   <trkpt lat="50.941733" lon="6.961575"><ele>53.75</ele></trkpt>
+   <trkpt lat="50.941816" lon="6.961345"><ele>54.25</ele></trkpt>
+   <trkpt lat="50.941855" lon="6.961252"><ele>54.25</ele></trkpt>
+   <trkpt lat="50.941962" lon="6.961036"><ele>54.5</ele></trkpt>
+   <trkpt lat="50.942008" lon="6.960954"><ele>54.75</ele></trkpt>
+   <trkpt lat="50.942198" lon="6.960661"><ele>55</ele></trkpt>
+   <trkpt lat="50.94227" lon="6.960565"><ele>55.25</ele></trkpt>
+   <trkpt lat="50.942321" lon="6.960496"><ele>55.25</ele></trkpt>
+   <trkpt lat="50.942473" lon="6.96031"><ele>55.75</ele></trkpt>
+   <trkpt lat="50.943035" lon="6.959721"><ele>55.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
