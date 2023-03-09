@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = 1 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Krefeld Rheinstraße Dreieck Ost - Krefeld Rheinstraße Dreieck Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.33359/6.56598/standard&amp;lonlats=6.566176,51.333783;6.565649,51.333408&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333782" lon="6.566176"><ele>43</ele></trkpt>
+   <trkpt lat="51.333751" lon="6.566023"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.333695" lon="6.565866"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333673" lon="6.565826"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333659" lon="6.565798"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333639" lon="6.565762"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333626" lon="6.565739"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333601" lon="6.565704"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333554" lon="6.565662"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333509" lon="6.565641"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.333407" lon="6.565647"><ele>43.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

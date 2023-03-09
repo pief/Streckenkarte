@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 412 filtered ascend = 0 plain-ascend = -2 cost=826 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Krefeld Sprödentalplatz Dreieck West - Krefeld Moltkestraße</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.33702/6.58032/standard&amp;lonlats=6.585542,51.338211;6.580043,51.336954&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338209" lon="6.585543"><ele>40</ele></trkpt>
+   <trkpt lat="51.337997" lon="6.584617"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.337774" lon="6.58365"><ele>39</ele></trkpt>
+   <trkpt lat="51.337652" lon="6.583118"><ele>39</ele></trkpt>
+   <trkpt lat="51.337225" lon="6.581241"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.337041" lon="6.58041"><ele>38</ele></trkpt>
+   <trkpt lat="51.336954" lon="6.580045"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.336953" lon="6.580042"><ele>37.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
