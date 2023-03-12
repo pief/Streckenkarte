@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 1 plain-ascend = 1 cost=49 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Düsseldorf Hbf Weiche 111 - Düsseldorf Hbf Weiche 114</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.21728/6.79236/standard&amp;lonlats=6.791869,51.217014;6.792268,51.217368&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.217013" lon="6.791868"><ele>39</ele></trkpt>
+   <trkpt lat="51.217016" lon="6.791872"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.217367" lon="6.792268"><ele>40.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

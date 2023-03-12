@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 0 plain-ascend = -5 cost=281 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Düsseldorf Hbf (Gleis 17) - Düsseldorf Hbf Weiche 114</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.21924/6.79459/standard&amp;lonlats=6.794688,51.219356;6.792268,51.217368&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.219355" lon="6.794687"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.218852" lon="6.794085"><ele>44.25</ele></trkpt>
+   <trkpt lat="51.218603" lon="6.793784"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.218083" lon="6.793133"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.217989" lon="6.793016"><ele>41</ele></trkpt>
+   <trkpt lat="51.21737" lon="6.792272"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.217367" lon="6.792268"><ele>40.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = 0 cost=109 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2660 Köln-Mülheim Weiche 173 - 2650 Köln-Mülheim Weiche 174</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.96125/7.01602/standard&amp;lonlats=7.015323,50.960569;7.016061,50.961411&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.960568" lon="7.015322"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.960571" lon="7.015324"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.96141" lon="7.016059"><ele>51.25</ele></trkpt>
+   <trkpt lat="50.961411" lon="7.016059"><ele>51.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

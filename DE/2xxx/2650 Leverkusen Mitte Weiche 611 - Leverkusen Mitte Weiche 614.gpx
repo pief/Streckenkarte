@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 293 filtered ascend = 0 plain-ascend = -3 cost=293 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Leverkusen Mitte Weiche 611 - Leverkusen Mitte Weiche 614</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.03760/6.98991/standard&amp;lonlats=6.990829,51.035329;6.990137,51.0379&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.035329" lon="6.990829"><ele>51</ele></trkpt>
+   <trkpt lat="51.035768" lon="6.990714"><ele>49</ele></trkpt>
+   <trkpt lat="51.036108" lon="6.990625"><ele>47.25</ele></trkpt>
+   <trkpt lat="51.036289" lon="6.990578"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.037742" lon="6.990179"><ele>47.25</ele></trkpt>
+   <trkpt lat="51.037892" lon="6.990138"><ele>47</ele></trkpt>
+   <trkpt lat="51.037899" lon="6.990136"><ele>46.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

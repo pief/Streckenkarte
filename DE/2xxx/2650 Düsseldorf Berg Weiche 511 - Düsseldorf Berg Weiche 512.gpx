@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 31 filtered ascend = 0 plain-ascend = 0 cost=31 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Düsseldorf Berg Weiche 511 - Düsseldorf Berg Weiche 512</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.20447/6.82548/standard&amp;lonlats=6.826479,51.203833;6.826176,51.204018&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.203833" lon="6.826479"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.203908" lon="6.826355"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.204016" lon="6.826173"><ele>40.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
