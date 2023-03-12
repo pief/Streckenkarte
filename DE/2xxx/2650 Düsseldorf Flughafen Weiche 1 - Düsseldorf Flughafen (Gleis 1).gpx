@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 0 plain-ascend = -1 cost=251 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Düsseldorf Flughafen Weiche 1 - Düsseldorf Flughafen (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.29155/6.78746/standard&amp;lonlats=6.787284,51.289366;6.787099,51.291578&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.289366" lon="6.787284"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.289366" lon="6.787285"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.289595" lon="6.787274"><ele>40</ele></trkpt>
+   <trkpt lat="51.289809" lon="6.787251"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.290278" lon="6.787224"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.290557" lon="6.787215"><ele>38.25</ele></trkpt>
+   <trkpt lat="51.291134" lon="6.787158"><ele>38</ele></trkpt>
+   <trkpt lat="51.291578" lon="6.787099"><ele>38</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

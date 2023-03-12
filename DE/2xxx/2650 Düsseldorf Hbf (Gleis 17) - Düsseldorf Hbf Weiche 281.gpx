@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 190 filtered ascend = 1 plain-ascend = -2 cost=190 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Düsseldorf Hbf (Gleis 17) - Düsseldorf Hbf Weiche 281</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.22076/6.79636/standard&amp;lonlats=6.794687,51.219355;6.796232,51.220709&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.219354" lon="6.794686"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.219585" lon="6.794963"><ele>47.25</ele></trkpt>
+   <trkpt lat="51.220097" lon="6.795601"><ele>48</ele></trkpt>
+   <trkpt lat="51.220328" lon="6.795874"><ele>46.5</ele></trkpt>
+   <trkpt lat="51.220504" lon="6.79605"><ele>45.25</ele></trkpt>
+   <trkpt lat="51.220635" lon="6.796167"><ele>44</ele></trkpt>
+   <trkpt lat="51.220708" lon="6.796229"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.220709" lon="6.796229"><ele>43.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
