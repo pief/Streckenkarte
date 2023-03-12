@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 1 plain-ascend = 1 cost=10 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2639 Köln Hbf Weiche 23 - Köln Hbf Weiche 24</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.94143/6.96212/standard&amp;lonlats=6.962244,50.941476;6.962136,50.941486&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.941476" lon="6.962244"><ele>48</ele></trkpt>
+   <trkpt lat="50.94148" lon="6.962186"><ele>48.5</ele></trkpt>
+   <trkpt lat="50.941484" lon="6.962138"><ele>49</ele></trkpt>
+   <trkpt lat="50.941484" lon="6.962135"><ele>49</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

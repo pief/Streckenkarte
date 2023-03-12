@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2639 Köln Messe/Deutz Weiche 610 - Köln Messe/Deutz Weiche 612</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.94125/6.97113/standard&amp;lonlats=6.970616,50.941385;6.971095,50.941373&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.941385" lon="6.970616"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.941385" lon="6.970618"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.941373" lon="6.971077"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.941373" lon="6.971095"><ele>49.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

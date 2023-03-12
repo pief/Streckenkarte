@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 376 filtered ascend = 0 plain-ascend = 1 cost=376 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2639 Köln Hbf Weiche 15 - Köln Messe/Deutz Weiche 603</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.94139/6.96358/standard&amp;lonlats=6.96354,50.941431;6.96881,50.941404&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.941427" lon="6.96354"/>
+   <trkpt lat="50.941427" lon="6.963544"/>
+   <trkpt lat="50.941425" lon="6.964102"/>
+   <trkpt lat="50.941424" lon="6.964224"/>
+   <trkpt lat="50.941424" lon="6.964244"/>
+   <trkpt lat="50.941423" lon="6.964384"/>
+   <trkpt lat="50.941422" lon="6.964697"/>
+   <trkpt lat="50.941418" lon="6.965674"/>
+   <trkpt lat="50.941411" lon="6.967316"/>
+   <trkpt lat="50.941409" lon="6.967826"/>
+   <trkpt lat="50.941408" lon="6.968031"/>
+   <trkpt lat="50.941405" lon="6.968664"><ele>39.25</ele></trkpt>
+   <trkpt lat="50.941404" lon="6.96881"><ele>40</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

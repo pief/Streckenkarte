@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 161 filtered ascend = 0 plain-ascend = -1 cost=161 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2633 Köln Hbf (Gleis 6) - Köln Hbf Weiche 25</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.94275/6.95929/standard&amp;lonlats=6.959117,50.942801;6.960599,50.941766&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.942802" lon="6.959119"><ele>57.5</ele></trkpt>
+   <trkpt lat="50.9428" lon="6.959122"><ele>57.5</ele></trkpt>
+   <trkpt lat="50.94248" lon="6.959453"><ele>57.5</ele></trkpt>
+   <trkpt lat="50.942273" lon="6.959708"><ele>57</ele></trkpt>
+   <trkpt lat="50.942002" lon="6.960112"><ele>56.75</ele></trkpt>
+   <trkpt lat="50.941902" lon="6.960289"><ele>56.25</ele></trkpt>
+   <trkpt lat="50.941782" lon="6.960555"><ele>56</ele></trkpt>
+   <trkpt lat="50.941765" lon="6.960598"><ele>56</ele></trkpt>
+   <trkpt lat="50.941764" lon="6.960598"><ele>55.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
