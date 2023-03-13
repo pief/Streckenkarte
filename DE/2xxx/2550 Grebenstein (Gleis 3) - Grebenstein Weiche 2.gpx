@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 464 filtered ascend = 1 plain-ascend = 0 cost=464 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Grebenstein (Gleis 3) - Grebenstein Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45143/9.41751/standard&amp;lonlats=9.420154,51.447669;9.417257,51.451393&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.44767" lon="9.420157"><ele>186.5</ele></trkpt>
+   <trkpt lat="51.447857" lon="9.419998"><ele>186.5</ele></trkpt>
+   <trkpt lat="51.449479" lon="9.41861"><ele>187.75</ele></trkpt>
+   <trkpt lat="51.449918" lon="9.418277"><ele>187.5</ele></trkpt>
+   <trkpt lat="51.450366" lon="9.417936"><ele>187.5</ele></trkpt>
+   <trkpt lat="51.451387" lon="9.417259"><ele>185.5</ele></trkpt>
+   <trkpt lat="51.451392" lon="9.417255"><ele>185.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

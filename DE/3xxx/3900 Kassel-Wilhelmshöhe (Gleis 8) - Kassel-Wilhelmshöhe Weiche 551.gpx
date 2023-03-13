@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 3 plain-ascend = 4 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3900 Kassel-Wilhelmshöhe (Gleis 8) - Kassel-Wilhelmshöhe Weiche 551</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.31249/9.44766/standard&amp;lonlats=9.448054,51.311455;9.447428,51.312387&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.311456" lon="9.448058"><ele>191.5</ele></trkpt>
+   <trkpt lat="51.311546" lon="9.448"><ele>192</ele></trkpt>
+   <trkpt lat="51.312333" lon="9.447464"><ele>195.25</ele></trkpt>
+   <trkpt lat="51.312342" lon="9.447458"><ele>195.25</ele></trkpt>
+   <trkpt lat="51.312386" lon="9.447427"><ele>195.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

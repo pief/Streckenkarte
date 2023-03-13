@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 220 filtered ascend = 2 plain-ascend = 3 cost=221 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3913 Kassel Rbf Weiche 270 - Kassel Rbf Weiche 659</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.33461/9.47083/standard&amp;lonlats=9.469774,51.332811;9.471116,51.33457&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.332811" lon="9.469774"><ele>179.75</ele></trkpt>
+   <trkpt lat="51.33307" lon="9.470005"><ele>179.5</ele></trkpt>
+   <trkpt lat="51.33355" lon="9.470402"><ele>180.75</ele></trkpt>
+   <trkpt lat="51.333992" lon="9.470747"><ele>181.5</ele></trkpt>
+   <trkpt lat="51.334319" lon="9.470967"><ele>182.25</ele></trkpt>
+   <trkpt lat="51.334568" lon="9.471117"><ele>182.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

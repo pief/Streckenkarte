@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 165 filtered ascend = 1 plain-ascend = 2 cost=166 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3900 Kassel-Wilhelmshöhe Weiche 540 - Kassel-Wilhelmshöhe Weiche 551</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.31243/9.44780/standard&amp;lonlats=9.44651,51.313713;9.44702,51.312998;9.447427,51.312386&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313713" lon="9.44651"><ele>193.5</ele></trkpt>
+   <trkpt lat="51.313712" lon="9.446511"><ele>193.75</ele></trkpt>
+   <trkpt lat="51.313645" lon="9.446551"><ele>194.25</ele></trkpt>
+   <trkpt lat="51.312998" lon="9.44702"><ele>194.25</ele></trkpt>
+   <trkpt lat="51.312678" lon="9.447234"><ele>196</ele></trkpt>
+   <trkpt lat="51.312387" lon="9.447427"><ele>195.5</ele></trkpt>
+   <trkpt lat="51.312386" lon="9.447427"><ele>195.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

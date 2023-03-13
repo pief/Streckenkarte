@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 274 filtered ascend = 1 plain-ascend = 2 cost=274 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3913 Vellmar-Obervellmar Weiche 14 - Vellmar-Obervellmar Weiche 11</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.35862/9.45444/standard&amp;lonlats=9.456552,51.357164;9.45377,51.358861&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.357162" lon="9.456549"><ele>207.75</ele></trkpt>
+   <trkpt lat="51.357624" lon="9.455825"><ele>207.25</ele></trkpt>
+   <trkpt lat="51.358466" lon="9.454409"><ele>207.75</ele></trkpt>
+   <trkpt lat="51.358634" lon="9.45412"><ele>208.75</ele></trkpt>
+   <trkpt lat="51.358858" lon="9.453772"><ele>209.5</ele></trkpt>
+   <trkpt lat="51.35886" lon="9.453768"><ele>209.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

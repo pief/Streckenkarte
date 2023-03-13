@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 513 filtered ascend = 0 plain-ascend = -5 cost=513 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3913 Kassel Rbf Süd Weiche 494 - Kassel Rbf Weiche 465</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.32345/9.46114/standard&amp;lonlats=9.455964,51.320828;9.460959,51.323081;9.461377,51.323566&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.320828" lon="9.455962"><ele>184</ele></trkpt>
+   <trkpt lat="51.320829" lon="9.455965"><ele>184</ele></trkpt>
+   <trkpt lat="51.320994" lon="9.456774"><ele>184.75</ele></trkpt>
+   <trkpt lat="51.321143" lon="9.457507"><ele>184.25</ele></trkpt>
+   <trkpt lat="51.32132" lon="9.458179"><ele>183</ele></trkpt>
+   <trkpt lat="51.321427" lon="9.458488"><ele>182.25</ele></trkpt>
+   <trkpt lat="51.321535" lon="9.458771"><ele>181.75</ele></trkpt>
+   <trkpt lat="51.321794" lon="9.459342"><ele>180.75</ele></trkpt>
+   <trkpt lat="51.322072" lon="9.459849"><ele>179.75</ele></trkpt>
+   <trkpt lat="51.322368" lon="9.460248"><ele>179</ele></trkpt>
+   <trkpt lat="51.322699" lon="9.460612"><ele>178.75</ele></trkpt>
+   <trkpt lat="51.322969" lon="9.460868"><ele>178.25</ele></trkpt>
+   <trkpt lat="51.32308" lon="9.460958"><ele>178.25</ele></trkpt>
+   <trkpt lat="51.323246" lon="9.461093"><ele>178.25</ele></trkpt>
+   <trkpt lat="51.323566" lon="9.461373"><ele>178.25</ele></trkpt>
+   <trkpt lat="51.323566" lon="9.461373"><ele>178.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

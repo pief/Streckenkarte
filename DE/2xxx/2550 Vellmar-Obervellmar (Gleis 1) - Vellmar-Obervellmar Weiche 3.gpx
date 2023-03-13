@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 0 plain-ascend = 0 cost=111 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Vellmar-Obervellmar (Gleis 1) - Vellmar-Obervellmar Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.36078/9.45093/standard&amp;lonlats=9.451876,51.360086;9.45078,51.360791&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.360086" lon="9.451876"><ele>217.75</ele></trkpt>
+   <trkpt lat="51.360655" lon="9.450994"><ele>217.75</ele></trkpt>
+   <trkpt lat="51.36067" lon="9.45097"><ele>217.75</ele></trkpt>
+   <trkpt lat="51.36079" lon="9.450779"><ele>217.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
