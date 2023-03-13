@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=44 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2525 Düsseldorf Hbf Weiche 292 - Düsseldorf Hbf Weiche 293</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.22250/6.79766/standard&amp;lonlats=6.797147,51.222189;6.797459,51.222505&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.222188" lon="6.797146"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.222404" lon="6.79736"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.222504" lon="6.797459"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.222504" lon="6.797459"><ele>41.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
