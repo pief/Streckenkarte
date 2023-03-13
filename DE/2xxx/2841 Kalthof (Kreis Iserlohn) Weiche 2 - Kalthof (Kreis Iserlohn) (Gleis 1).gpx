@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = 0 cost=128 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2841 Kalthof (Kreis Iserlohn) Weiche 2 - Kalthof (Kreis Iserlohn) (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.42481/7.67408/standard&amp;lonlats=7.673136,51.424406;7.672009,51.425297&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.424406" lon="7.673136"><ele>157</ele></trkpt>
+   <trkpt lat="51.424922" lon="7.672485"><ele>157</ele></trkpt>
+   <trkpt lat="51.42501" lon="7.672373"><ele>157</ele></trkpt>
+   <trkpt lat="51.425135" lon="7.672214"><ele>157</ele></trkpt>
+   <trkpt lat="51.425297" lon="7.672009"><ele>157.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
