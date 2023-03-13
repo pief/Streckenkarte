@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1490 filtered ascend = 1 plain-ascend = 0 cost=1490 energy=0.0kwh time=1m 59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2270 Wesel Feldmark (Gleis 1) - Wesel Weiche 19</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.66925/6.62831/standard&amp;lonlats=6.616231,51.676652;6.628323,51.665722&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.676652" lon="6.616231"><ele>25</ele></trkpt>
+   <trkpt lat="51.676413" lon="6.616535"><ele>25</ele></trkpt>
+   <trkpt lat="51.672548" lon="6.621321"><ele>25.25</ele></trkpt>
+   <trkpt lat="51.669079" lon="6.625596"><ele>24.5</ele></trkpt>
+   <trkpt lat="51.668853" lon="6.625858"><ele>25</ele></trkpt>
+   <trkpt lat="51.66851" lon="6.626256"><ele>25</ele></trkpt>
+   <trkpt lat="51.667838" lon="6.62692"><ele>26</ele></trkpt>
+   <trkpt lat="51.667478" lon="6.627244"><ele>26.25</ele></trkpt>
+   <trkpt lat="51.666991" lon="6.627621"><ele>25</ele></trkpt>
+   <trkpt lat="51.666397" lon="6.627987"><ele>24.5</ele></trkpt>
+   <trkpt lat="51.665761" lon="6.628305"><ele>25</ele></trkpt>
+   <trkpt lat="51.665721" lon="6.628323"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

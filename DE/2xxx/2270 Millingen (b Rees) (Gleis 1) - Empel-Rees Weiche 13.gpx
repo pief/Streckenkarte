@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 713 filtered ascend = 0 plain-ascend = -1 cost=713 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2270 Millingen (b Rees) (Gleis 1) - Empel-Rees Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.80509/6.40834/standard&amp;lonlats=6.399958,51.809459;6.407018,51.804795&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.809459" lon="6.399958"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.808978" lon="6.400683"><ele>18</ele></trkpt>
+   <trkpt lat="51.805048" lon="6.406632"><ele>15.75</ele></trkpt>
+   <trkpt lat="51.804794" lon="6.407016"><ele>15.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

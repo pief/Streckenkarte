@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 434 filtered ascend = 4 plain-ascend = -1 cost=434 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2270 Wesel (Gleis 2) - Wesel Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.65287/6.62815/standard&amp;lonlats=6.626956,51.65617;6.627347,51.652345&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.656169" lon="6.626955"><ele>27</ele></trkpt>
+   <trkpt lat="51.655847" lon="6.626906"><ele>27</ele></trkpt>
+   <trkpt lat="51.655468" lon="6.626867"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.655094" lon="6.626853"><ele>27.75</ele></trkpt>
+   <trkpt lat="51.654574" lon="6.626845"><ele>29.75</ele></trkpt>
+   <trkpt lat="51.654267" lon="6.626871"><ele>31</ele></trkpt>
+   <trkpt lat="51.653973" lon="6.626904"><ele>30.5</ele></trkpt>
+   <trkpt lat="51.653657" lon="6.626953"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.653208" lon="6.627056"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.65293" lon="6.627136"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.652347" lon="6.627347"><ele>25</ele></trkpt>
+   <trkpt lat="51.652345" lon="6.627347"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
