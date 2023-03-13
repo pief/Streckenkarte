@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 1 plain-ascend = 1 cost=46 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2300 Essen Hbf Weiche 6 - Essen Hbf Weiche 30</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45054/7.00527/standard&amp;lonlats=7.004594,51.450659;7.005214,51.450704&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.450657" lon="7.004593"><ele>87.25</ele></trkpt>
+   <trkpt lat="51.450658" lon="7.004595"><ele>87.5</ele></trkpt>
+   <trkpt lat="51.450676" lon="7.004831"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.450703" lon="7.00521"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.450703" lon="7.005213"><ele>88.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
