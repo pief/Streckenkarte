@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>338000 Éragny-Neuville Weiche WWW1 - Éragny-Neuville Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.01605/2.08844/standard&amp;lonlats=2.088515,49.016274;2.088134,49.01603&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.016273" lon="2.088514"><ele>51</ele></trkpt>
+   <trkpt lat="49.016032" lon="2.088135"><ele>51.25</ele></trkpt>
+   <trkpt lat="49.01603" lon="2.088131"><ele>51.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

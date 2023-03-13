@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Clichy-Levallois Weiche OOO2 - Clichy-Levallois Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.89994/2.29412/standard&amp;lonlats=2.293761,48.90003;2.294065,48.89984&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.90003" lon="2.293761"><ele>33.75</ele></trkpt>
+   <trkpt lat="48.90003" lon="2.293763"><ele>33.75</ele></trkpt>
+   <trkpt lat="48.899839" lon="2.294063"><ele>34</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

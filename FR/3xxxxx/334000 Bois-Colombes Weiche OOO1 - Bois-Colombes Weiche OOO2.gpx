@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 187 filtered ascend = 0 plain-ascend = 0 cost=187 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Bois-Colombes Weiche OOO1 - Bois-Colombes Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.91310/2.27411/standard&amp;lonlats=2.27255,48.913676;2.273279,48.913018;2.274127,48.912396&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.913673" lon="2.272544"/>
+   <trkpt lat="48.913672" lon="2.272546"/>
+   <trkpt lat="48.913492" lon="2.272766"/>
+   <trkpt lat="48.913073" lon="2.273207"/>
+   <trkpt lat="48.913019" lon="2.27328"/>
+   <trkpt lat="48.912937" lon="2.273394"><ele>36</ele></trkpt>
+   <trkpt lat="48.912399" lon="2.274117"><ele>35.75</ele></trkpt>
+   <trkpt lat="48.912394" lon="2.274123"><ele>35.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

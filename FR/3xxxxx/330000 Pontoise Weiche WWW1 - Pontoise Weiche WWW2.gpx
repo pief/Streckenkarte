@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 122 filtered ascend = 0 plain-ascend = -3 cost=122 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>330000 Pontoise Weiche WWW1 - Pontoise Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.04808/2.09049/standard&amp;lonlats=2.089014,49.048255;2.090522,49.047861&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.048254" lon="2.089013"><ele>29.75</ele></trkpt>
+   <trkpt lat="49.048254" lon="2.089016"><ele>29.75</ele></trkpt>
+   <trkpt lat="49.048066" lon="2.08967"><ele>27.75</ele></trkpt>
+   <trkpt lat="49.047963" lon="2.090069"><ele>26.25</ele></trkpt>
+   <trkpt lat="49.047861" lon="2.090521"><ele>26</ele></trkpt>
+   <trkpt lat="49.04786" lon="2.090521"><ele>26</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

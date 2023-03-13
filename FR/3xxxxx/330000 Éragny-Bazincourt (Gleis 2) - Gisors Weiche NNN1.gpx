@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2994 filtered ascend = 0 plain-ascend = -15 cost=2994 energy=0.0kwh time=4m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>330000 Éragny-Bazincourt (Gleis 2) - Gisors Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.29035/1.78209/standard&amp;lonlats=1.776242,49.316755;1.781424,49.290088&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.316754" lon="1.77624"><ele>72</ele></trkpt>
+   <trkpt lat="49.316622" lon="1.77628"><ele>72</ele></trkpt>
+   <trkpt lat="49.316522" lon="1.776312"><ele>71.75</ele></trkpt>
+   <trkpt lat="49.315825" lon="1.776477"><ele>71</ele></trkpt>
+   <trkpt lat="49.312946" lon="1.777016"><ele>68.25</ele></trkpt>
+   <trkpt lat="49.310847" lon="1.77744"><ele>65.75</ele></trkpt>
+   <trkpt lat="49.295366" lon="1.780426"><ele>55.75</ele></trkpt>
+   <trkpt lat="49.295281" lon="1.78044"><ele>55.75</ele></trkpt>
+   <trkpt lat="49.290094" lon="1.781425"><ele>56.25</ele></trkpt>
+   <trkpt lat="49.290088" lon="1.781426"><ele>56.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1869 filtered ascend = 0 plain-ascend = -20 cost=1869 energy=0.0kwh time=2m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Rouen-Rive-Droite Weiche OOO5 - Bif. de Darnétal côté Le Havre Weiche XXX3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.44046/1.12056/standard&amp;lonlats=1.097859,49.448859;1.119905,49.440729&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.448859" lon="1.097859"/>
+   <trkpt lat="49.448859" lon="1.097862"/>
+   <trkpt lat="49.448582" lon="1.099706"/>
+   <trkpt lat="49.448521" lon="1.099892"/>
+   <trkpt lat="49.443955" lon="1.11381"><ele>35.5</ele></trkpt>
+   <trkpt lat="49.443547" lon="1.1151"><ele>33.5</ele></trkpt>
+   <trkpt lat="49.443426" lon="1.115442"><ele>33.5</ele></trkpt>
+   <trkpt lat="49.443059" lon="1.116396"><ele>30.25</ele></trkpt>
+   <trkpt lat="49.442942" lon="1.116634"><ele>28.75</ele></trkpt>
+   <trkpt lat="49.442543" lon="1.117451"><ele>26.5</ele></trkpt>
+   <trkpt lat="49.442347" lon="1.117802"><ele>26.5</ele></trkpt>
+   <trkpt lat="49.442143" lon="1.118142"><ele>25.75</ele></trkpt>
+   <trkpt lat="49.441775" lon="1.11868"><ele>22.25</ele></trkpt>
+   <trkpt lat="49.441449" lon="1.119108"><ele>19.75</ele></trkpt>
+   <trkpt lat="49.441148" lon="1.119469"><ele>17.75</ele></trkpt>
+   <trkpt lat="49.440894" lon="1.119742"><ele>15.5</ele></trkpt>
+   <trkpt lat="49.440728" lon="1.119904"><ele>15</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

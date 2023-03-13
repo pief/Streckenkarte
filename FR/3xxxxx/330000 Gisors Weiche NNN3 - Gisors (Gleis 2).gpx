@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 250 filtered ascend = 3 plain-ascend = 3 cost=250 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>330000 Gisors Weiche NNN3 - Gisors (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.28536/1.78587/standard&amp;lonlats=1.782896,49.287102;1.784924,49.285325&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.287102" lon="1.782896"><ele>56.75</ele></trkpt>
+   <trkpt lat="49.286815" lon="1.783151"><ele>57.25</ele></trkpt>
+   <trkpt lat="49.286581" lon="1.783387"><ele>57.75</ele></trkpt>
+   <trkpt lat="49.286428" lon="1.783562"><ele>57.5</ele></trkpt>
+   <trkpt lat="49.285355" lon="1.784884"><ele>59.75</ele></trkpt>
+   <trkpt lat="49.285324" lon="1.784922"><ele>59.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

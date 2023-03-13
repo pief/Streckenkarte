@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=63 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>321000 Montérolier-Buchy Weiche OOO2 - Montérolier-Buchy Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.60610/1.34637/standard&amp;lonlats=1.345647,49.605883;1.346363,49.606137&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.605882" lon="1.345646"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.605883" lon="1.345648"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.605945" lon="1.345841"><ele>187.25</ele></trkpt>
+   <trkpt lat="49.606078" lon="1.34619"><ele>187</ele></trkpt>
+   <trkpt lat="49.606135" lon="1.346363"><ele>187</ele></trkpt>
+   <trkpt lat="49.606135" lon="1.346363"><ele>187</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

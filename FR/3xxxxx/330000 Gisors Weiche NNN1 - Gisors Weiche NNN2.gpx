@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 1 plain-ascend = 2 cost=299 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>330000 Gisors Weiche NNN1 - Gisors Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.28822/1.78299/standard&amp;lonlats=1.781426,49.290088;1.781899,49.288558;1.782553,49.287561&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.290088" lon="1.781426"><ele>56.25</ele></trkpt>
+   <trkpt lat="49.289581" lon="1.781527"><ele>57</ele></trkpt>
+   <trkpt lat="49.289428" lon="1.781567"><ele>57.25</ele></trkpt>
+   <trkpt lat="49.289054" lon="1.781682"><ele>57.75</ele></trkpt>
+   <trkpt lat="49.288624" lon="1.781864"><ele>57.75</ele></trkpt>
+   <trkpt lat="49.288557" lon="1.781898"><ele>57.75</ele></trkpt>
+   <trkpt lat="49.288416" lon="1.781971"><ele>58</ele></trkpt>
+   <trkpt lat="49.288113" lon="1.782152"><ele>58</ele></trkpt>
+   <trkpt lat="49.287967" lon="1.782256"><ele>58</ele></trkpt>
+   <trkpt lat="49.287781" lon="1.782383"><ele>57.75</ele></trkpt>
+   <trkpt lat="49.28756" lon="1.782553"><ele>57</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

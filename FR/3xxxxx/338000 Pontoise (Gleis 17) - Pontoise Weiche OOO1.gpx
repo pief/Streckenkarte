@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 2 plain-ascend = 1 cost=295 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>338000 Pontoise (Gleis 17) - Pontoise Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.04615/2.09816/standard&amp;lonlats=2.095159,49.046638;2.099022,49.045964&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.04664" lon="2.09516"><ele>24.75</ele></trkpt>
+   <trkpt lat="49.046416" lon="2.096412"><ele>25.25</ele></trkpt>
+   <trkpt lat="49.046259" lon="2.097371"><ele>26.25</ele></trkpt>
+   <trkpt lat="49.046155" lon="2.098002"><ele>26.75</ele></trkpt>
+   <trkpt lat="49.045962" lon="2.099018"><ele>26</ele></trkpt>
+   <trkpt lat="49.045961" lon="2.09902"><ele>25.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

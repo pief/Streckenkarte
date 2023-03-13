@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = -2 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>321000 Bif. vers le racc. de Serqueux-Sud Weiche WWW4 - Bif. vers le racc. de Serqueux-Sud Weiche WWW3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.62613/1.53062/standard&amp;lonlats=1.531641,49.625828;1.530781,49.625789&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.625826" lon="1.53164"><ele>161.75</ele></trkpt>
+   <trkpt lat="49.625826" lon="1.531638"><ele>161.75</ele></trkpt>
+   <trkpt lat="49.625798" lon="1.531197"><ele>160</ele></trkpt>
+   <trkpt lat="49.625789" lon="1.530781"><ele>158.75</ele></trkpt>
+   <trkpt lat="49.625789" lon="1.530781"><ele>158.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

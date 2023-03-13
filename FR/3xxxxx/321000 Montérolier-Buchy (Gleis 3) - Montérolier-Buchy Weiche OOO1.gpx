@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 831 filtered ascend = 1 plain-ascend = -3 cost=831 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>321000 Montérolier-Buchy (Gleis 3) - Montérolier-Buchy Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.60586/1.34543/standard&amp;lonlats=1.334864,49.602963;1.345404,49.605814&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.602964" lon="1.334862"><ele>191.75</ele></trkpt>
+   <trkpt lat="49.602968" lon="1.334878"><ele>191.75</ele></trkpt>
+   <trkpt lat="49.603502" lon="1.336954"><ele>192.75</ele></trkpt>
+   <trkpt lat="49.603737" lon="1.337837"><ele>192.25</ele></trkpt>
+   <trkpt lat="49.604549" lon="1.340804"><ele>193.5</ele></trkpt>
+   <trkpt lat="49.605212" lon="1.343329"><ele>192</ele></trkpt>
+   <trkpt lat="49.605502" lon="1.344466"><ele>189.75</ele></trkpt>
+   <trkpt lat="49.605578" lon="1.344717"><ele>189.25</ele></trkpt>
+   <trkpt lat="49.605733" lon="1.345151"><ele>188.5</ele></trkpt>
+   <trkpt lat="49.605813" lon="1.345405"><ele>188.25</ele></trkpt>
+   <trkpt lat="49.605812" lon="1.345403"><ele>188.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

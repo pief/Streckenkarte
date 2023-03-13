@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1674 filtered ascend = 6 plain-ascend = -1 cost=1674 energy=0.0kwh time=2m 14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>330000 Montgeroult-Courcelles (Gleis 2) - Boissy-l'Aillerie (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.07593/2.02536/standard&amp;lonlats=2.003516,49.0806;2.025132,49.075814&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.080593" lon="2.00351"><ele>42.5</ele></trkpt>
+   <trkpt lat="49.08048" lon="2.003795"><ele>43</ele></trkpt>
+   <trkpt lat="49.080416" lon="2.003974"><ele>43</ele></trkpt>
+   <trkpt lat="49.080202" lon="2.004616"><ele>43.25</ele></trkpt>
+   <trkpt lat="49.080032" lon="2.005184"><ele>43.75</ele></trkpt>
+   <trkpt lat="49.079844" lon="2.005918"><ele>43</ele></trkpt>
+   <trkpt lat="49.079737" lon="2.006386"><ele>44</ele></trkpt>
+   <trkpt lat="49.076443" lon="2.022111"><ele>48.75</ele></trkpt>
+   <trkpt lat="49.075815" lon="2.025118"><ele>40.75</ele></trkpt>
+   <trkpt lat="49.075812" lon="2.025131"><ele>40.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 690 filtered ascend = 2 plain-ascend = 2 cost=690 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Le Stade Weiche NNN2 - Le Stade Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.92898/2.25996/standard&amp;lonlats=2.262298,48.93465;2.259673,48.928764&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.934649" lon="2.262296"><ele>27.5</ele></trkpt>
+   <trkpt lat="48.933843" lon="2.26201"><ele>29.25</ele></trkpt>
+   <trkpt lat="48.933299" lon="2.261798"><ele>30</ele></trkpt>
+   <trkpt lat="48.931779" lon="2.261156"><ele>28.25</ele></trkpt>
+   <trkpt lat="48.931706" lon="2.261125"><ele>27.75</ele></trkpt>
+   <trkpt lat="48.931018" lon="2.26083"><ele>27</ele></trkpt>
+   <trkpt lat="48.930555" lon="2.260611"><ele>27.75</ele></trkpt>
+   <trkpt lat="48.930178" lon="2.260414"><ele>27.75</ele></trkpt>
+   <trkpt lat="48.929888" lon="2.26025"><ele>27.75</ele></trkpt>
+   <trkpt lat="48.929791" lon="2.260195"><ele>28</ele></trkpt>
+   <trkpt lat="48.929136" lon="2.259845"><ele>30</ele></trkpt>
+   <trkpt lat="48.928766" lon="2.259672"><ele>30</ele></trkpt>
+   <trkpt lat="48.928763" lon="2.259671"><ele>29.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

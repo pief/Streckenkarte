@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Argenteuil Weiche SSS2 - Argenteuil Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.94531/2.25934/standard&amp;lonlats=2.25849,48.94583;2.259131,48.945055&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.945829" lon="2.25849"><ele>34.5</ele></trkpt>
+   <trkpt lat="48.945822" lon="2.258497"><ele>34.5</ele></trkpt>
+   <trkpt lat="48.945456" lon="2.258822"><ele>35.25</ele></trkpt>
+   <trkpt lat="48.945289" lon="2.258956"><ele>35.25</ele></trkpt>
+   <trkpt lat="48.945088" lon="2.2591"><ele>35</ele></trkpt>
+   <trkpt lat="48.945055" lon="2.259124"><ele>35</ele></trkpt>
+   <trkpt lat="48.945053" lon="2.259125"><ele>34.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 410 filtered ascend = 0 plain-ascend = -2 cost=410 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Asnières-sur-Seine Weiche NNN4 - Asnières-sur-Seine (Gleis A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.90599/2.28370/standard&amp;lonlats=2.279534,48.908465;2.283671,48.906037&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.908464" lon="2.279532"><ele>39.75</ele></trkpt>
+   <trkpt lat="48.908463" lon="2.279534"><ele>40</ele></trkpt>
+   <trkpt lat="48.90814" lon="2.280018"><ele>40</ele></trkpt>
+   <trkpt lat="48.907828" lon="2.280505"><ele>39.25</ele></trkpt>
+   <trkpt lat="48.907651" lon="2.280794"><ele>38.75</ele></trkpt>
+   <trkpt lat="48.907477" lon="2.281101"><ele>37.5</ele></trkpt>
+   <trkpt lat="48.906877" lon="2.282218"><ele>35.5</ele></trkpt>
+   <trkpt lat="48.906803" lon="2.282366"><ele>35.75</ele></trkpt>
+   <trkpt lat="48.90662" lon="2.282698"><ele>36.5</ele></trkpt>
+   <trkpt lat="48.906158" lon="2.283474"><ele>37</ele></trkpt>
+   <trkpt lat="48.906038" lon="2.283672"><ele>36.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
