@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15 filtered ascend = 0 plain-ascend = 0 cost=15 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2270 Emmerich Weiche 49 - Emmerich Weiche 50</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.83564/6.24880/standard&amp;lonlats=6.248571,51.835076;6.24837,51.835096&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.835074" lon="6.24857"><ele>17.5</ele></trkpt>
+   <trkpt lat="51.835088" lon="6.248441"><ele>17.75</ele></trkpt>
+   <trkpt lat="51.835096" lon="6.24837"><ele>17.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

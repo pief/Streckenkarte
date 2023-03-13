@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 229 filtered ascend = 1 plain-ascend = 0 cost=229 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2270 Empel-Rees Weiche 2 - Empel-Rees (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.79859/6.41671/standard&amp;lonlats=6.418542,51.797234;6.416297,51.798719&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.797233" lon="6.418541"><ele>18.5</ele></trkpt>
+   <trkpt lat="51.797474" lon="6.418181"><ele>18.75</ele></trkpt>
+   <trkpt lat="51.797518" lon="6.418114"><ele>19</ele></trkpt>
+   <trkpt lat="51.797627" lon="6.417943"><ele>19</ele></trkpt>
+   <trkpt lat="51.798252" lon="6.417005"><ele>19.75</ele></trkpt>
+   <trkpt lat="51.798719" lon="6.416297"><ele>18.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

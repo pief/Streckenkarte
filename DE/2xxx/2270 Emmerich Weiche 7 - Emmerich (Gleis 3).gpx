@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 722 filtered ascend = 1 plain-ascend = 1 cost=722 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2270 Emmerich Weiche 7 - Emmerich (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.83430/6.25803/standard&amp;lonlats=6.26588,51.833145;6.25562,51.834283&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.833144" lon="6.265879"><ele>16.75</ele></trkpt>
+   <trkpt lat="51.833144" lon="6.265881"><ele>17</ele></trkpt>
+   <trkpt lat="51.833285" lon="6.264602"><ele>16.5</ele></trkpt>
+   <trkpt lat="51.833575" lon="6.261992"><ele>17</ele></trkpt>
+   <trkpt lat="51.833747" lon="6.260438"><ele>17.5</ele></trkpt>
+   <trkpt lat="51.83376" lon="6.260306"><ele>17.75</ele></trkpt>
+   <trkpt lat="51.83379" lon="6.26004"><ele>17.75</ele></trkpt>
+   <trkpt lat="51.834282" lon="6.25563"><ele>17.75</ele></trkpt>
+   <trkpt lat="51.834283" lon="6.25562"><ele>17.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
