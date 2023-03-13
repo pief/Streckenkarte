@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 6 plain-ascend = 6 cost=47 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2616 Köln Hbf Weiche 18 - Köln Hbf Weiche 19</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.94152/6.96207/standard&amp;lonlats=6.962298,50.941436;6.961661,50.941482&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.941435" lon="6.962297"><ele>47.5</ele></trkpt>
+   <trkpt lat="50.941458" lon="6.961898"><ele>51.25</ele></trkpt>
+   <trkpt lat="50.941481" lon="6.961663"><ele>53.5</ele></trkpt>
+   <trkpt lat="50.941481" lon="6.96166"><ele>53.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
