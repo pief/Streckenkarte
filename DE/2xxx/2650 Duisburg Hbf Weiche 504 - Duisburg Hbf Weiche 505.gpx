@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 98 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2650 Duisburg Hbf Weiche 504 - Duisburg Hbf Weiche 505</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.42400/6.77648/standard&amp;lonlats=6.77672,51.422986;6.77666,51.423855&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.422984" lon="6.77672"><ele>34.75</ele></trkpt>
+   <trkpt lat="51.42299" lon="6.776721"><ele>35</ele></trkpt>
+   <trkpt lat="51.423425" lon="6.776698"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.423855" lon="6.776662"><ele>34.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
