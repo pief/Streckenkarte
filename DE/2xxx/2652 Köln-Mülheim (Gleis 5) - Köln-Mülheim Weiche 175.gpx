@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 414 filtered ascend = 0 plain-ascend = 0 cost=414 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2652 Köln-Mülheim (Gleis 5) - Köln-Mülheim Weiche 175</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.96116/7.01643/standard&amp;lonlats=7.013632,50.95811;7.01616,50.961439&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.958109" lon="7.013632"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.960416" lon="7.015323"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.960436" lon="7.015338"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.960723" lon="7.015558"><ele>52.25</ele></trkpt>
+   <trkpt lat="50.961238" lon="7.015997"><ele>51.5</ele></trkpt>
+   <trkpt lat="50.961436" lon="7.016159"><ele>51.25</ele></trkpt>
+   <trkpt lat="50.961438" lon="7.01616"><ele>51.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
