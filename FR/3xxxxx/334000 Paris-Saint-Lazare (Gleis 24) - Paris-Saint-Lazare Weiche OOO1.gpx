@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 381 filtered ascend = 4 plain-ascend = 4 cost=381 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Paris-Saint-Lazare (Gleis 24) - Paris-Saint-Lazare Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.87941/2.32383/standard&amp;lonlats=2.326131,48.876874;2.323245,48.879676&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.876876" lon="2.326135"><ele>47</ele></trkpt>
+   <trkpt lat="48.876905" lon="2.326106"><ele>47</ele></trkpt>
+   <trkpt lat="48.877497" lon="2.325562"><ele>46.75</ele></trkpt>
+   <trkpt lat="48.877785" lon="2.325206"><ele>47.5</ele></trkpt>
+   <trkpt lat="48.87841" lon="2.324497"><ele>45.75</ele></trkpt>
+   <trkpt lat="48.878649" lon="2.324244"><ele>47.25</ele></trkpt>
+   <trkpt lat="48.87936" lon="2.323547"><ele>50.25</ele></trkpt>
+   <trkpt lat="48.879675" lon="2.323245"><ele>51.25</ele></trkpt>
+   <trkpt lat="48.879675" lon="2.323244"><ele>51.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

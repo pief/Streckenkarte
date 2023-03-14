@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 361 filtered ascend = 0 plain-ascend = 0 cost=361 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Saint-Pierre-du-Vauvray Weiche SSS1 - Saint-Pierre-du-Vauvray (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.23392/1.22492/standard&amp;lonlats=1.223782,49.230729;1.224514,49.233891&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.230729" lon="1.223783"><ele>12.5</ele></trkpt>
+   <trkpt lat="49.230727" lon="1.223784"><ele>12.5</ele></trkpt>
+   <trkpt lat="49.23103" lon="1.223814"><ele>12.75</ele></trkpt>
+   <trkpt lat="49.231094" lon="1.22382"><ele>12.75</ele></trkpt>
+   <trkpt lat="49.23182" lon="1.223921"><ele>12.75</ele></trkpt>
+   <trkpt lat="49.232252" lon="1.224008"><ele>12.75</ele></trkpt>
+   <trkpt lat="49.232993" lon="1.224203"><ele>13</ele></trkpt>
+   <trkpt lat="49.233656" lon="1.224421"><ele>13</ele></trkpt>
+   <trkpt lat="49.23389" lon="1.224511"><ele>12.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

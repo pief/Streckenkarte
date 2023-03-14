@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 540 filtered ascend = 1 plain-ascend = 1 cost=542 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Mantes-la-Jolie (Gleis C) - Mantes-la-Jolie Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.99175/1.69647/standard&amp;lonlats=1.703349,48.989634;1.701721,48.990302;1.700001,48.990939;1.698898,48.991311;1.696923,48.991921&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.989634" lon="1.703349"><ele>34.75</ele></trkpt>
+   <trkpt lat="48.990009" lon="1.702457"><ele>34</ele></trkpt>
+   <trkpt lat="48.990302" lon="1.701721"><ele>34</ele></trkpt>
+   <trkpt lat="48.990302" lon="1.701721"><ele>34</ele></trkpt>
+   <trkpt lat="48.990607" lon="1.700922"><ele>34</ele></trkpt>
+   <trkpt lat="48.990939" lon="1.700001"><ele>33.75</ele></trkpt>
+   <trkpt lat="48.991311" lon="1.698898"><ele>33.25</ele></trkpt>
+   <trkpt lat="48.991638" lon="1.697864"><ele>33.75</ele></trkpt>
+   <trkpt lat="48.991921" lon="1.696926"><ele>34.25</ele></trkpt>
+   <trkpt lat="48.991921" lon="1.696923"><ele>34</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

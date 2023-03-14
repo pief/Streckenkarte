@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = 0 cost=99 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Bif. vers le racc. de Martainville Weiche XXX2 - Bif. de Darnétal côté Le Havre Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/49.43875/1.12113/standard&amp;lonlats=1.121603,49.437836;1.121297,49.438678&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.437836" lon="1.121604"><ele>13.5</ele></trkpt>
+   <trkpt lat="49.438291" lon="1.121465"><ele>13.75</ele></trkpt>
+   <trkpt lat="49.438424" lon="1.121408"><ele>13.5</ele></trkpt>
+   <trkpt lat="49.438676" lon="1.121298"><ele>13.5</ele></trkpt>
+   <trkpt lat="49.438678" lon="1.121297"><ele>13.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

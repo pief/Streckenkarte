@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 1 cost=21 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Paris-Saint-Lazare Weiche OOO2 - Paris-Saint-Lazare Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.88019/2.32291/standard,openrailwaymap&amp;lonlats=2.322988,48.879959;2.32288,48.880117&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.879958" lon="2.322987"><ele>53</ele></trkpt>
+   <trkpt lat="48.880116" lon="2.32288"><ele>53.5</ele></trkpt>
+   <trkpt lat="48.880116" lon="2.322879"><ele>53.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

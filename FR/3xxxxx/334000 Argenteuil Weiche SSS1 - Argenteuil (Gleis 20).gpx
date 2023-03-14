@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 5 plain-ascend = 6 cost=299 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Argenteuil Weiche SSS1 - Argenteuil (Gleis 20)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.94651/2.25805/standard&amp;lonlats=2.259447,48.944533;2.257563,48.946881&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.944532" lon="2.259445"><ele>30.25</ele></trkpt>
+   <trkpt lat="48.944535" lon="2.259443"><ele>30.5</ele></trkpt>
+   <trkpt lat="48.945038" lon="2.259055"><ele>35</ele></trkpt>
+   <trkpt lat="48.945071" lon="2.259029"><ele>35</ele></trkpt>
+   <trkpt lat="48.945632" lon="2.258584"><ele>34.75</ele></trkpt>
+   <trkpt lat="48.946195" lon="2.258107"><ele>35</ele></trkpt>
+   <trkpt lat="48.946781" lon="2.257641"><ele>36</ele></trkpt>
+   <trkpt lat="48.946881" lon="2.257563"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

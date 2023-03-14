@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 355 filtered ascend = 3 plain-ascend = 3 cost=355 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Conflans-Sainte-Honorine Weiche OOO2 - Conflans-Sainte-Honorine (Gleis A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.99699/2.09920/standard&amp;lonlats=2.102889,48.998061;2.098463,48.996805&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.998061" lon="2.102887"><ele>42.25</ele></trkpt>
+   <trkpt lat="48.998061" lon="2.102887"><ele>42.5</ele></trkpt>
+   <trkpt lat="48.997554" lon="2.101112"><ele>43</ele></trkpt>
+   <trkpt lat="48.997003" lon="2.099171"><ele>45.5</ele></trkpt>
+   <trkpt lat="48.996802" lon="2.098463"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

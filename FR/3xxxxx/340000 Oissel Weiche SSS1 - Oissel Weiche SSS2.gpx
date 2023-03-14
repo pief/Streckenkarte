@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 635 filtered ascend = 4 plain-ascend = 4 cost=635 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Oissel Weiche SSS1 - Oissel Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.34124/1.10243/standard&amp;lonlats=1.102635,49.33547;1.10195,49.341121&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.33547" lon="1.102635"/>
+   <trkpt lat="49.335471" lon="1.102635"/>
+   <trkpt lat="49.335981" lon="1.102562"><ele>5.75</ele></trkpt>
+   <trkpt lat="49.337926" lon="1.102335"><ele>5</ele></trkpt>
+   <trkpt lat="49.339615" lon="1.102135"><ele>4.75</ele></trkpt>
+   <trkpt lat="49.340928" lon="1.101972"><ele>10</ele></trkpt>
+   <trkpt lat="49.34109" lon="1.101954"><ele>10</ele></trkpt>
+   <trkpt lat="49.34112" lon="1.101951"><ele>10</ele></trkpt>
+   <trkpt lat="49.341121" lon="1.10195"><ele>10</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

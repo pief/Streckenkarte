@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 705 filtered ascend = 0 plain-ascend = -2 cost=705 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Val de Reuil Weiche SSS1 - Val de Reuil (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.27527/1.22522/standard&amp;lonlats=1.22935,49.269921;1.224821,49.275483&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.269921" lon="1.229351"><ele>12</ele></trkpt>
+   <trkpt lat="49.269922" lon="1.229351"><ele>12</ele></trkpt>
+   <trkpt lat="49.270482" lon="1.228886"><ele>11.25</ele></trkpt>
+   <trkpt lat="49.27154" lon="1.227972"><ele>10.5</ele></trkpt>
+   <trkpt lat="49.272285" lon="1.227341"><ele>9</ele></trkpt>
+   <trkpt lat="49.273026" lon="1.226737"><ele>9.5</ele></trkpt>
+   <trkpt lat="49.274212" lon="1.225815"><ele>9</ele></trkpt>
+   <trkpt lat="49.274361" lon="1.2257"><ele>9</ele></trkpt>
+   <trkpt lat="49.275484" lon="1.224824"><ele>9</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

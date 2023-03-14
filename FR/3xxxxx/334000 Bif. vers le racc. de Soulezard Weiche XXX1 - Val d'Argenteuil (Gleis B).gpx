@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 436 filtered ascend = 2 plain-ascend = 2 cost=436 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Bif. vers le racc. de Soulezard Weiche XXX1 - Val d'Argenteuil (Gleis B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.95068/2.23275/standard&amp;lonlats=2.236934,48.952345;2.231828,48.950443&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.952344" lon="2.236933"><ele>50</ele></trkpt>
+   <trkpt lat="48.951906" lon="2.235897"><ele>50</ele></trkpt>
+   <trkpt lat="48.951809" lon="2.235647"><ele>50</ele></trkpt>
+   <trkpt lat="48.951697" lon="2.235403"><ele>50</ele></trkpt>
+   <trkpt lat="48.95134" lon="2.234554"><ele>49.75</ele></trkpt>
+   <trkpt lat="48.951204" lon="2.234226"><ele>49.75</ele></trkpt>
+   <trkpt lat="48.950962" lon="2.233606"><ele>49.5</ele></trkpt>
+   <trkpt lat="48.950728" lon="2.232891"><ele>50</ele></trkpt>
+   <trkpt lat="48.950471" lon="2.231928"><ele>51.75</ele></trkpt>
+   <trkpt lat="48.950447" lon="2.231824"><ele>52</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 979 filtered ascend = 0 plain-ascend = 0 cost=979 energy=0.0kwh time=1m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Pont-de-l'Arche Weiche OOO1 - Pont-de-l'Arche Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.31728/1.16015/standard&amp;lonlats=1.173724,49.317415;1.160311,49.316991&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.317414" lon="1.173723"><ele>8.75</ele></trkpt>
+   <trkpt lat="49.317414" lon="1.173719"><ele>9</ele></trkpt>
+   <trkpt lat="49.317277" lon="1.169356"><ele>7</ele></trkpt>
+   <trkpt lat="49.317218" lon="1.167247"><ele>9.25</ele></trkpt>
+   <trkpt lat="49.31699" lon="1.160312"><ele>8.25</ele></trkpt>
+   <trkpt lat="49.316989" lon="1.16031"><ele>8.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 372 filtered ascend = 4 plain-ascend = 1 cost=372 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Sotteville Weiche NNN1 - Sotteville Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/49.41975/1.10200/standard&amp;lonlats=1.101216,49.41783;1.102129,49.42107&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.41783" lon="1.101216"><ele>6.75</ele></trkpt>
+   <trkpt lat="49.418288" lon="1.101213"><ele>6.5</ele></trkpt>
+   <trkpt lat="49.418599" lon="1.101234"><ele>7</ele></trkpt>
+   <trkpt lat="49.418822" lon="1.10126"><ele>7.5</ele></trkpt>
+   <trkpt lat="49.419102" lon="1.101307"><ele>8.25</ele></trkpt>
+   <trkpt lat="49.419533" lon="1.10142"><ele>9.5</ele></trkpt>
+   <trkpt lat="49.419904" lon="1.101549"><ele>11.25</ele></trkpt>
+   <trkpt lat="49.420307" lon="1.101723"><ele>10.25</ele></trkpt>
+   <trkpt lat="49.420708" lon="1.101924"><ele>8.75</ele></trkpt>
+   <trkpt lat="49.42107" lon="1.102129"><ele>7.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

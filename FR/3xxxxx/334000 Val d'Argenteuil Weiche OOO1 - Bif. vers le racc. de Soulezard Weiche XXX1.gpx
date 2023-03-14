@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 223 filtered ascend = 2 plain-ascend = 2 cost=223 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Val d'Argenteuil Weiche OOO1 - Bif. vers le racc. de Soulezard Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.95208/2.23652/standard&amp;lonlats=2.239482,48.953417;2.236934,48.952345&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.953417" lon="2.239482"><ele>48</ele></trkpt>
+   <trkpt lat="48.952345" lon="2.236935"><ele>50</ele></trkpt>
+   <trkpt lat="48.952344" lon="2.236933"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

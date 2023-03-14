@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 133 filtered ascend = 0 plain-ascend = 0 cost=133 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Paris-Saint-Lazare Weiche OOO9 - Paris-Saint-Lazare Weiche OOO10</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.88334/2.32001/standard&amp;lonlats=2.320614,48.882522;2.319911,48.88324;2.319664,48.883503&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.882521" lon="2.320613"><ele>56</ele></trkpt>
+   <trkpt lat="48.882519" lon="2.320615"><ele>56</ele></trkpt>
+   <trkpt lat="48.883241" lon="2.319913"><ele>55.5</ele></trkpt>
+   <trkpt lat="48.883499" lon="2.319663"><ele>55.5</ele></trkpt>
+   <trkpt lat="48.883501" lon="2.31966"><ele>55.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

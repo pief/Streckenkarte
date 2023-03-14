@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 233 filtered ascend = 3 plain-ascend = 3 cost=234 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>334000 Meulan-Hardricourt (Gleis A) - Meulan-Hardricourt Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.00516/1.89943/standard&amp;lonlats=1.901874,49.005752;1.89895,49.005009&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005755" lon="1.901872"><ele>28.5</ele></trkpt>
+   <trkpt lat="49.005625" lon="1.901205"><ele>27.75</ele></trkpt>
+   <trkpt lat="49.005534" lon="1.900786"><ele>27.5</ele></trkpt>
+   <trkpt lat="49.005397" lon="1.900234"><ele>28.75</ele></trkpt>
+   <trkpt lat="49.005273" lon="1.899785"><ele>30</ele></trkpt>
+   <trkpt lat="49.005009" lon="1.89895"><ele>31.75</ele></trkpt>
+   <trkpt lat="49.005009" lon="1.89895"><ele>31.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

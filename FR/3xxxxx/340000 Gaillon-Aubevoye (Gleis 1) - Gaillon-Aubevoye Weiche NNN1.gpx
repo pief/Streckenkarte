@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 0 plain-ascend = -2 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Gaillon-Aubevoye (Gleis 1) - Gaillon-Aubevoye Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.17583/1.35029/standard&amp;lonlats=1.352581,49.174734;1.349696,49.175894&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.174732" lon="1.352579"><ele>15.25</ele></trkpt>
+   <trkpt lat="49.175892" lon="1.349696"><ele>13</ele></trkpt>
+   <trkpt lat="49.175892" lon="1.349694"><ele>12.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

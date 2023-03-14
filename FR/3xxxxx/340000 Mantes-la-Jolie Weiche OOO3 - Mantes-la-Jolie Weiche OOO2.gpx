@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Mantes-la-Jolie Weiche OOO3 - Mantes-la-Jolie Weiche OOO2</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.98683/1.70918/standard&amp;lonlats=1.709035,48.986811;1.709332,48.986644&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.98681" lon="1.709033"><ele>36</ele></trkpt>
+   <trkpt lat="48.98681" lon="1.709034"><ele>36</ele></trkpt>
+   <trkpt lat="48.986638" lon="1.709325"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

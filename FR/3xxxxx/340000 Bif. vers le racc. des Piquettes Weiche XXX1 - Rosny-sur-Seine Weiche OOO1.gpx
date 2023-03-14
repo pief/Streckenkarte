@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1569 filtered ascend = 7 plain-ascend = 7 cost=1569 energy=0.0kwh time=2m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Bif. vers le racc. des Piquettes Weiche XXX1 - Rosny-sur-Seine Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.99541/1.66059/standard&amp;lonlats=1.680403,48.994444;1.659025,48.995063&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.994442" lon="1.680402"><ele>38</ele></trkpt>
+   <trkpt lat="48.994513" lon="1.67783"><ele>38.25</ele></trkpt>
+   <trkpt lat="48.995062" lon="1.659027"><ele>45</ele></trkpt>
+   <trkpt lat="48.995062" lon="1.659024"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

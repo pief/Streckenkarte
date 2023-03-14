@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 551 filtered ascend = 0 plain-ascend = 0 cost=551 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Oissel (Gleis 1) - Oissel Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/49.34800/1.10336/standard&amp;lonlats=1.101988,49.343085;1.103174,49.347944&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.343083" lon="1.101988"><ele>9.75</ele></trkpt>
+   <trkpt lat="49.34407" lon="1.102216"><ele>9.75</ele></trkpt>
+   <trkpt lat="49.345995" lon="1.102669"><ele>10.25</ele></trkpt>
+   <trkpt lat="49.347153" lon="1.102971"><ele>8.25</ele></trkpt>
+   <trkpt lat="49.347242" lon="1.102995"><ele>8.25</ele></trkpt>
+   <trkpt lat="49.347936" lon="1.103172"><ele>8.5</ele></trkpt>
+   <trkpt lat="49.347943" lon="1.103173"><ele>8.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

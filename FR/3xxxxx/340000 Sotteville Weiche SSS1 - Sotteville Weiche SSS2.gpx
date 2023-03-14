@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Sotteville Weiche SSS1 - Sotteville Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.41003/1.10464/standard&amp;lonlats=1.102914,49.408999;1.102787,49.410147&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.408999" lon="1.102914"><ele>5.5</ele></trkpt>
+   <trkpt lat="49.408993" lon="1.102917"><ele>5.5</ele></trkpt>
+   <trkpt lat="49.409647" lon="1.102836"><ele>5.5</ele></trkpt>
+   <trkpt lat="49.410147" lon="1.102787"><ele>5.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

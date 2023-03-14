@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 0 plain-ascend = -1 cost=125 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Bif. de Darnétal côté Le Havre Weiche XXX1 - Bif. de Darnétal côté Le Havre Weiche XXX2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.44037/1.12027/standard&amp;lonlats=1.121297,49.438678;1.120698,49.439711&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.438678" lon="1.121297"/>
+   <trkpt lat="49.438702" lon="1.121287"><ele>12.75</ele></trkpt>
+   <trkpt lat="49.438872" lon="1.121205"><ele>12.5</ele></trkpt>
+   <trkpt lat="49.439203" lon="1.121023"><ele>12</ele></trkpt>
+   <trkpt lat="49.439476" lon="1.120855"><ele>11.5</ele></trkpt>
+   <trkpt lat="49.43971" lon="1.120697"><ele>11.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

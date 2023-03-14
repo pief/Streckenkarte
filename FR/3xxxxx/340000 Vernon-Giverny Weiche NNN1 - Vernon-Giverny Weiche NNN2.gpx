@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 225 filtered ascend = 0 plain-ascend = 0 cost=225 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>340000 Vernon-Giverny Weiche NNN1 - Vernon-Giverny Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.09663/1.47097/standard&amp;lonlats=1.472354,49.095323;1.470252,49.096775&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.095322" lon="1.472352"><ele>23.5</ele></trkpt>
+   <trkpt lat="49.095322" lon="1.472353"><ele>23.75</ele></trkpt>
+   <trkpt lat="49.096774" lon="1.470253"><ele>23.25</ele></trkpt>
+   <trkpt lat="49.096774" lon="1.470252"><ele>23</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
