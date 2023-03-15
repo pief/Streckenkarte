@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1324 filtered ascend = 13 plain-ascend = 7 cost=1324 energy=0.0kwh time=1m 46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>278000 Croix-Wasquehal (Gleis 1) - Croix l'Allumette (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.68705/3.15142/standard&amp;lonlats=3.137885,50.678637;3.151184,50.686933&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.678636" lon="3.137883"><ele>28.75</ele></trkpt>
+   <trkpt lat="50.678746" lon="3.138027"><ele>29.25</ele></trkpt>
+   <trkpt lat="50.678787" lon="3.138082"><ele>29.5</ele></trkpt>
+   <trkpt lat="50.678909" lon="3.138244"><ele>29.75</ele></trkpt>
+   <trkpt lat="50.67912" lon="3.138517"><ele>30</ele></trkpt>
+   <trkpt lat="50.680128" lon="3.139921"><ele>33.5</ele></trkpt>
+   <trkpt lat="50.680769" lon="3.140869"><ele>35.5</ele></trkpt>
+   <trkpt lat="50.681083" lon="3.141346"><ele>37</ele></trkpt>
+   <trkpt lat="50.681426" lon="3.141892"><ele>39.25</ele></trkpt>
+   <trkpt lat="50.681771" lon="3.142453"><ele>41.25</ele></trkpt>
+   <trkpt lat="50.682251" lon="3.143259"><ele>42.5</ele></trkpt>
+   <trkpt lat="50.68693" lon="3.151184"><ele>36</ele></trkpt>
+   <trkpt lat="50.686931" lon="3.151185"><ele>35.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1000 filtered ascend = 0 plain-ascend = -8 cost=1000 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>278000 Bif. vers le racc. de Rougebarre Weiche OOO1 - Bif. La Pilaterie Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.66174/3.11666/standard&amp;lonlats=3.106661,50.654968;3.115706,50.661839&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.654968" lon="3.106659"><ele>34</ele></trkpt>
+   <trkpt lat="50.656603" lon="3.108801"><ele>31.5</ele></trkpt>
+   <trkpt lat="50.660731" lon="3.114245"><ele>26.75</ele></trkpt>
+   <trkpt lat="50.660868" lon="3.114425"><ele>26.25</ele></trkpt>
+   <trkpt lat="50.66108" lon="3.114707"><ele>25.75</ele></trkpt>
+   <trkpt lat="50.661269" lon="3.114957"><ele>25.5</ele></trkpt>
+   <trkpt lat="50.661836" lon="3.115703"><ele>25.25</ele></trkpt>
+   <trkpt lat="50.661838" lon="3.115705"><ele>25.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>278000 Tourcoing Weiche OOO3 - Tourcoing Weiche OOO4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.71785/3.17543/standard&amp;lonlats=3.174604,50.717708;3.175062,50.717775&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.717706" lon="3.174603"><ele>38.75</ele></trkpt>
+   <trkpt lat="50.717771" lon="3.175057"><ele>38.75</ele></trkpt>
+   <trkpt lat="50.717771" lon="3.175062"><ele>38.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = -2 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>278000 Bif. vers le racc. de Roubaix Weiche NNN1 - Tourcoing Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.71571/3.16600/standard&amp;lonlats=3.162607,50.711229;3.163184,50.714542&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.711229" lon="3.162607"><ele>37.25</ele></trkpt>
+   <trkpt lat="50.711826" lon="3.162454"><ele>35.75</ele></trkpt>
+   <trkpt lat="50.711982" lon="3.16242"><ele>35.5</ele></trkpt>
+   <trkpt lat="50.712334" lon="3.162379"><ele>35</ele></trkpt>
+   <trkpt lat="50.712452" lon="3.162373"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.712684" lon="3.162379"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.712984" lon="3.162415"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.713204" lon="3.162462"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.713344" lon="3.162503"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.713691" lon="3.162632"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.713983" lon="3.162777"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.714285" lon="3.162976"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.71454" lon="3.163184"><ele>34.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

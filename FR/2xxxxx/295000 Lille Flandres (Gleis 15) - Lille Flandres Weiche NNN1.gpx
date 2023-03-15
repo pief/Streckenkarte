@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 0 plain-ascend = -2 cost=264 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>295000 Lille Flandres (Gleis 15) - Lille Flandres Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.63599/3.07364/standard&amp;lonlats=3.071631,50.636741;3.075032,50.635819&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.636739" lon="3.07163"><ele>29.75</ele></trkpt>
+   <trkpt lat="50.636695" lon="3.071808"><ele>30.25</ele></trkpt>
+   <trkpt lat="50.636027" lon="3.074457"><ele>28.25</ele></trkpt>
+   <trkpt lat="50.635942" lon="3.074719"><ele>27.5</ele></trkpt>
+   <trkpt lat="50.635819" lon="3.07503"><ele>26.75</ele></trkpt>
+   <trkpt lat="50.635818" lon="3.075031"><ele>26.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

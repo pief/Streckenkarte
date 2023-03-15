@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 217 filtered ascend = 4 plain-ascend = 5 cost=217 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>278000 Tourcoing Weiche WWW3 - Tourcoing (Gleis E)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.71651/3.16847/standard&amp;lonlats=3.165402,50.715864;3.168212,50.71654&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.715861" lon="3.165402"><ele>36.75</ele></trkpt>
+   <trkpt lat="50.715862" lon="3.165404"><ele>37</ele></trkpt>
+   <trkpt lat="50.71597" lon="3.165717"><ele>37.75</ele></trkpt>
+   <trkpt lat="50.716107" lon="3.166213"><ele>39</ele></trkpt>
+   <trkpt lat="50.716194" lon="3.166597"><ele>40.25</ele></trkpt>
+   <trkpt lat="50.716539" lon="3.168211"><ele>41.5</ele></trkpt>
+   <trkpt lat="50.716539" lon="3.168211"><ele>41.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

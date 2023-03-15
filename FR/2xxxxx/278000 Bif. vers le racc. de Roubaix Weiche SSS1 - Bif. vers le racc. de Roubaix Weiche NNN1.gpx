@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 1 plain-ascend = 1 cost=214 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>278000 Bif. vers le racc. de Roubaix Weiche SSS1 - Bif. vers le racc. de Roubaix Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.71154/3.16262/standard&amp;lonlats=3.163116,50.709348;3.162607,50.711229&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.709347" lon="3.163114"><ele>36.5</ele></trkpt>
+   <trkpt lat="50.709349" lon="3.163114"><ele>36.75</ele></trkpt>
+   <trkpt lat="50.711226" lon="3.162608"><ele>37.5</ele></trkpt>
+   <trkpt lat="50.711229" lon="3.162607"><ele>37.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

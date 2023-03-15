@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 113 filtered ascend = 1 plain-ascend = 2 cost=113 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>278000 Tourcoing Weiche WWW2 - Tourcoing Weiche WWW3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.71588/3.16579/standard&amp;lonlats=3.164119,50.715313;3.165402,50.715864&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.715311" lon="3.16412"><ele>35</ele></trkpt>
+   <trkpt lat="50.715312" lon="3.164122"><ele>35.25</ele></trkpt>
+   <trkpt lat="50.715422" lon="3.164319"><ele>36</ele></trkpt>
+   <trkpt lat="50.715571" lon="3.164626"><ele>36.5</ele></trkpt>
+   <trkpt lat="50.715646" lon="3.164804"><ele>36.5</ele></trkpt>
+   <trkpt lat="50.715861" lon="3.165402"><ele>36.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
