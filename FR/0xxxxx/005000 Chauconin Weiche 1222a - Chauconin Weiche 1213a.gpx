@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 986 filtered ascend = 16 plain-ascend = 17 cost=986 energy=0.0kwh time=1m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Chauconin Weiche 1222a - Chauconin Weiche 1213a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.99058/2.79388/standard&amp;lonlats=2.806162,48.99156;2.79285,48.990539&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.991558" lon="2.806161"><ele>97.25</ele></trkpt>
+   <trkpt lat="48.991558" lon="2.806159"><ele>97.25</ele></trkpt>
+   <trkpt lat="48.991467" lon="2.804985"><ele>92.5</ele></trkpt>
+   <trkpt lat="48.99146" lon="2.804879"><ele>92.5</ele></trkpt>
+   <trkpt lat="48.991342" lon="2.803389"><ele>95.25</ele></trkpt>
+   <trkpt lat="48.991126" lon="2.800496"><ele>101</ele></trkpt>
+   <trkpt lat="48.990839" lon="2.79683"><ele>107.5</ele></trkpt>
+   <trkpt lat="48.990538" lon="2.792856"><ele>114</ele></trkpt>
+   <trkpt lat="48.990537" lon="2.792849"><ele>113.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

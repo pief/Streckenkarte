@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 671 filtered ascend = 0 plain-ascend = -4 cost=671 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Vézilly Weiche 1628a - Vézilly Weiche 1605a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.17547/3.70746/standard&amp;lonlats=3.712706,49.179651;3.706714,49.175102&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.179649" lon="3.712707"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.179649" lon="3.712706"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.175103" lon="3.706716"><ele>177.75</ele></trkpt>
+   <trkpt lat="49.175101" lon="3.706713"><ele>177.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

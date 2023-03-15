@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1778 filtered ascend = 2 plain-ascend = 2 cost=1778 energy=0.0kwh time=2m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Beuverdes Weiche 1528a - Beuverdes Weiche 1505a</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/49.1064/3.4752/standard&amp;lonlats=3.497056,49.111622;3.474196,49.106133&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.111621" lon="3.497055"><ele>218.5</ele></trkpt>
+   <trkpt lat="49.111622" lon="3.497059"><ele>218.5</ele></trkpt>
+   <trkpt lat="49.106133" lon="3.474201"><ele>221</ele></trkpt>
+   <trkpt lat="49.106131" lon="3.474195"><ele>220.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
