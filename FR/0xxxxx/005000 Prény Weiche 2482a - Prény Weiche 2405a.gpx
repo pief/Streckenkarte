@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 674 filtered ascend = 0 plain-ascend = -13 cost=674 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Prény Weiche 2482a - Prény Weiche 2405a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.96609/5.93628/standard&amp;lonlats=5.943362,48.968067;5.934806,48.965883&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.968065" lon="5.943361"><ele>331.5</ele></trkpt>
+   <trkpt lat="48.968064" lon="5.943355"><ele>331.75</ele></trkpt>
+   <trkpt lat="48.966804" lon="5.938423"><ele>324</ele></trkpt>
+   <trkpt lat="48.965881" lon="5.934811"><ele>318.25</ele></trkpt>
+   <trkpt lat="48.965879" lon="5.934807"><ele>318</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

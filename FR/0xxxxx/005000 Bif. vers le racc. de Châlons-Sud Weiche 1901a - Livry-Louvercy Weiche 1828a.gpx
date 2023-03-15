@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5269 filtered ascend = 3 plain-ascend = 3 cost=5269 energy=0.1kwh time=7m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Bif. vers le racc. de Châlons-Sud Weiche 1901a - Livry-Louvercy Weiche 1828a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.09107/4.30370/standard&amp;lonlats=4.366851,49.068623;4.303353,49.090988&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.068623" lon="4.366851"><ele>116</ele></trkpt>
+   <trkpt lat="49.071997" lon="4.357298"><ele>119</ele></trkpt>
+   <trkpt lat="49.076379" lon="4.344859"><ele>112</ele></trkpt>
+   <trkpt lat="49.087689" lon="4.312735"><ele>112</ele></trkpt>
+   <trkpt lat="49.089813" lon="4.306695"><ele>118.75</ele></trkpt>
+   <trkpt lat="49.090079" lon="4.305922"><ele>119.75</ele></trkpt>
+   <trkpt lat="49.090987" lon="4.303354"><ele>119.25</ele></trkpt>
+   <trkpt lat="49.090987" lon="4.303352"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
