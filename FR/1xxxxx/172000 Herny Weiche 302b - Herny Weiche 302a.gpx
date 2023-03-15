@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 0 plain-ascend = 0 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>172000 Herny Weiche 302b - Herny Weiche 302a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.00130/6.46972/standard&amp;lonlats=6.4703,49.001552;6.46783,49.000688&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.001552" lon="6.470298"><ele>232.75</ele></trkpt>
+   <trkpt lat="49.001265" lon="6.469467"><ele>233.25</ele></trkpt>
+   <trkpt lat="49.001117" lon="6.469062"><ele>233.25</ele></trkpt>
+   <trkpt lat="49.000689" lon="6.467832"><ele>232.5</ele></trkpt>
+   <trkpt lat="49.000687" lon="6.467829"><ele>232.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
