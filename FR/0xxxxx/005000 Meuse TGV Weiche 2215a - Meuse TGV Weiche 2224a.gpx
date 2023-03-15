@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1343 filtered ascend = 2 plain-ascend = 2 cost=1343 energy=0.0kwh time=1m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Meuse TGV Weiche 2215a - Meuse TGV Weiche 2224a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.97830/5.27752/standard&amp;lonlats=5.26225,48.979457;5.2804,48.977942&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.979452" lon="5.262249"><ele>269.5</ele></trkpt>
+   <trkpt lat="48.979452" lon="5.262257"><ele>269.75</ele></trkpt>
+   <trkpt lat="48.978791" lon="5.27019"><ele>270.25</ele></trkpt>
+   <trkpt lat="48.978784" lon="5.270272"><ele>270</ele></trkpt>
+   <trkpt lat="48.977946" lon="5.280394"><ele>271.75</ele></trkpt>
+   <trkpt lat="48.977945" lon="5.2804"><ele>271.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

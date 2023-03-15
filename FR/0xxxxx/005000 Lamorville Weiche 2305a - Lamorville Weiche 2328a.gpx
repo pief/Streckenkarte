@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 672 filtered ascend = 0 plain-ascend = -12 cost=672 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Lamorville Weiche 2305a - Lamorville Weiche 2328a</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.95521/5.56430/standard&amp;lonlats=5.556191,48.956568;5.565035,48.955022&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.956566" lon="5.55619"><ele>255</ele></trkpt>
+   <trkpt lat="48.956566" lon="5.556195"><ele>255.25</ele></trkpt>
+   <trkpt lat="48.955021" lon="5.565033"><ele>242</ele></trkpt>
+   <trkpt lat="48.95502" lon="5.565034"><ele>241.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

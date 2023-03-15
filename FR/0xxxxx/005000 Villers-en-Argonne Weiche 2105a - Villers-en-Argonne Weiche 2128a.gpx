@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 672 filtered ascend = 0 plain-ascend = -11 cost=672 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Villers-en-Argonne Weiche 2105a - Villers-en-Argonne Weiche 2128a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.01161/4.93518/standard&amp;lonlats=4.927234,49.011454;4.936402,49.011618&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.011453" lon="4.927233"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.011454" lon="4.927237"><ele>179</ele></trkpt>
+   <trkpt lat="49.011616" lon="4.936398"><ele>167.25</ele></trkpt>
+   <trkpt lat="49.011616" lon="4.936401"><ele>167</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 2 plain-ascend = 3 cost=103 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Lorraine TGV Weiche 2606a - Lorraine TGV Weiche 2615a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.94573/6.16264/standard&amp;lonlats=6.15985,48.945428;6.161195,48.945694&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.945428" lon="6.159848"><ele>200</ele></trkpt>
+   <trkpt lat="48.945689" lon="6.161195"><ele>202.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

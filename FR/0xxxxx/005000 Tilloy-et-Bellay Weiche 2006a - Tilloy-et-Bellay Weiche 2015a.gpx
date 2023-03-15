@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 2 plain-ascend = 3 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Tilloy-et-Bellay Weiche 2006a - Tilloy-et-Bellay Weiche 2015a</name>
+  <link href="https://brouter.damsy.net/latest/#map=15/49.0268/4.6227/standard&amp;lonlats=4.623309,49.027463;4.62485,49.027364&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.027463" lon="4.623309"><ele>173.75</ele></trkpt>
+   <trkpt lat="49.027363" lon="4.624849"><ele>176.5</ele></trkpt>
+   <trkpt lat="49.027362" lon="4.624849"><ele>176.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
