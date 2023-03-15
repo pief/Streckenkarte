@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 981 filtered ascend = 2 plain-ascend = 0 cost=981 energy=0.0kwh time=1m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>97 Saint-Ghislain Weiche OOO3 - Quaregnon (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.44986/3.85616/standard&amp;lonlats=3.842554,50.447436;3.855841,50.449811&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.447436" lon="3.842552"><ele>25</ele></trkpt>
+   <trkpt lat="50.447749" lon="3.844306"><ele>27</ele></trkpt>
+   <trkpt lat="50.44981" lon="3.85584"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

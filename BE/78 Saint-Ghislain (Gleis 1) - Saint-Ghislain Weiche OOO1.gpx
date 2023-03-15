@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 409 filtered ascend = 2 plain-ascend = 2 cost=409 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>78 Saint-Ghislain (Gleis 1) - Saint-Ghislain Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.44420/3.82454/standard&amp;lonlats=3.819256,50.442695;3.82457,50.444073&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.442698" lon="3.819253"><ele>25</ele></trkpt>
+   <trkpt lat="50.442983" lon="3.820366"><ele>26</ele></trkpt>
+   <trkpt lat="50.443163" lon="3.82107"><ele>26.5</ele></trkpt>
+   <trkpt lat="50.444071" lon="3.824564"><ele>27.25</ele></trkpt>
+   <trkpt lat="50.444072" lon="3.824569"><ele>27</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

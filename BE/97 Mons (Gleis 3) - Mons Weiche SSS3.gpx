@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 567 filtered ascend = 0 plain-ascend = -1 cost=567 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>97 Mons (Gleis 3) - Mons Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.45401/3.94254/standard&amp;lonlats=3.941982,50.454021;3.937216,50.450055&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.454021" lon="3.941978"><ele>32.25</ele></trkpt>
+   <trkpt lat="50.453893" lon="3.94185"><ele>32.25</ele></trkpt>
+   <trkpt lat="50.451839" lon="3.939856"><ele>30.25</ele></trkpt>
+   <trkpt lat="50.451551" lon="3.939568"><ele>30</ele></trkpt>
+   <trkpt lat="50.451336" lon="3.939334"><ele>30.25</ele></trkpt>
+   <trkpt lat="50.451096" lon="3.939046"><ele>30.5</ele></trkpt>
+   <trkpt lat="50.450901" lon="3.938772"><ele>30.75</ele></trkpt>
+   <trkpt lat="50.450712" lon="3.93848"><ele>31.25</ele></trkpt>
+   <trkpt lat="50.450559" lon="3.938224"><ele>31.75</ele></trkpt>
+   <trkpt lat="50.45039" lon="3.93791"><ele>31.75</ele></trkpt>
+   <trkpt lat="50.450055" lon="3.937215"><ele>30.25</ele></trkpt>
+   <trkpt lat="50.450055" lon="3.937215"><ele>30.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
