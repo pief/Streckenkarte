@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 0 plain-ascend = 0 cost=254 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>75 Mouscron Weiche SSS1 - Mouscron (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.73984/3.22845/standard&amp;lonlats=3.225193,50.738343;3.227596,50.74002&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.738343" lon="3.225192"><ele>40.75</ele></trkpt>
+   <trkpt lat="50.739152" lon="3.226366"><ele>39.5</ele></trkpt>
+   <trkpt lat="50.74" lon="3.227575"><ele>40.75</ele></trkpt>
+   <trkpt lat="50.740017" lon="3.227599"><ele>40.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

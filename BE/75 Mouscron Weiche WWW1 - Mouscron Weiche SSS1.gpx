@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 988 filtered ascend = 11 plain-ascend = 11 cost=988 energy=0.0kwh time=1m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>75 Mouscron Weiche WWW1 - Mouscron Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.73837/3.22781/standard&amp;lonlats=3.215823,50.731785;3.225193,50.738343&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.731784" lon="3.215822"><ele>29.5</ele></trkpt>
+   <trkpt lat="50.731785" lon="3.215824"><ele>29.5</ele></trkpt>
+   <trkpt lat="50.733757" lon="3.218616"><ele>39.25</ele></trkpt>
+   <trkpt lat="50.735726" lon="3.221403"><ele>39.75</ele></trkpt>
+   <trkpt lat="50.736466" lon="3.222453"><ele>40.75</ele></trkpt>
+   <trkpt lat="50.738343" lon="3.225192"><ele>40.75</ele></trkpt>
+   <trkpt lat="50.738343" lon="3.225192"><ele>40.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
