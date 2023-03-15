@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1471 filtered ascend = 3 plain-ascend = 0 cost=1471 energy=0.0kwh time=1m 58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>75A Herseaux-Place (Gleis 1) - Herseaux (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.71439/3.24513/standard&amp;lonlats=3.228736,50.722506;3.244891,50.714248&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.722503" lon="3.228731"><ele>32.75</ele></trkpt>
+   <trkpt lat="50.72231" lon="3.229044"><ele>32.75</ele></trkpt>
+   <trkpt lat="50.721987" lon="3.229606"><ele>33.5</ele></trkpt>
+   <trkpt lat="50.721661" lon="3.230218"><ele>33.75</ele></trkpt>
+   <trkpt lat="50.720214" lon="3.233091"><ele>31</ele></trkpt>
+   <trkpt lat="50.720181" lon="3.23316"><ele>31</ele></trkpt>
+   <trkpt lat="50.718566" lon="3.236376"><ele>31</ele></trkpt>
+   <trkpt lat="50.717126" lon="3.239245"><ele>33</ele></trkpt>
+   <trkpt lat="50.716569" lon="3.240348"><ele>35.25</ele></trkpt>
+   <trkpt lat="50.715656" lon="3.242107"><ele>36</ele></trkpt>
+   <trkpt lat="50.715063" lon="3.243269"><ele>35</ele></trkpt>
+   <trkpt lat="50.714248" lon="3.244891"><ele>33</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

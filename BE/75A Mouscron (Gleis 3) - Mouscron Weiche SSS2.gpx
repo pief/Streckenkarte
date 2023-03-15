@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 470 filtered ascend = 0 plain-ascend = 0 cost=470 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>75A Mouscron (Gleis 3) - Mouscron Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.73668/3.22455/standard&amp;lonlats=3.227757,50.739935;3.223264,50.736849&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.739935" lon="3.227754"><ele>40.5</ele></trkpt>
+   <trkpt lat="50.739928" lon="3.227743"><ele>40.5</ele></trkpt>
+   <trkpt lat="50.739062" lon="3.226514"><ele>39.25</ele></trkpt>
+   <trkpt lat="50.737952" lon="3.224868"><ele>39.75</ele></trkpt>
+   <trkpt lat="50.737223" lon="3.223797"><ele>40.25</ele></trkpt>
+   <trkpt lat="50.736849" lon="3.223263"><ele>39.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
