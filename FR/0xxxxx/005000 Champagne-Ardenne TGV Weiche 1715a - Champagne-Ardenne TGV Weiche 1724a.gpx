@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1341 filtered ascend = 20 plain-ascend = 20 cost=1341 energy=0.0kwh time=1m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005000 Champagne-Ardenne TGV Weiche 1715a - Champagne-Ardenne TGV Weiche 1724a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.21210/4.00072/standard&amp;lonlats=3.984947,49.217666;4.001051,49.211868&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.217664" lon="3.984945"><ele>81.75</ele></trkpt>
+   <trkpt lat="49.217663" lon="3.984949"><ele>81.75</ele></trkpt>
+   <trkpt lat="49.217445" lon="3.985569"><ele>82.5</ele></trkpt>
+   <trkpt lat="49.217216" lon="3.986187"><ele>82.25</ele></trkpt>
+   <trkpt lat="49.211984" lon="4.000724"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.211869" lon="4.001049"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.211868" lon="4.001051"><ele>101.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
