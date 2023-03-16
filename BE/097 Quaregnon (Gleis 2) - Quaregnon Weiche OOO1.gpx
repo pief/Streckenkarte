@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 873 filtered ascend = 0 plain-ascend = 0 cost=873 energy=0.0kwh time=1m 10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>097 Quaregnon (Gleis 2) - Quaregnon Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/50.45190/3.86518/standard&amp;lonlats=3.85584,50.44981;3.867662,50.451827&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.44981" lon="3.855838"><ele>25</ele></trkpt>
+   <trkpt lat="50.449811" lon="3.855844"><ele>25</ele></trkpt>
+   <trkpt lat="50.451378" lon="3.864635"><ele>22.75</ele></trkpt>
+   <trkpt lat="50.451526" lon="3.865497"><ele>22.75</ele></trkpt>
+   <trkpt lat="50.451638" lon="3.866253"><ele>24</ele></trkpt>
+   <trkpt lat="50.451824" lon="3.867661"><ele>24.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
