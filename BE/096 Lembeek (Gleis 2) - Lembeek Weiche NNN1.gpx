@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1797 filtered ascend = 4 plain-ascend = -4 cost=1797 energy=0.0kwh time=2m 24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Lembeek (Gleis 2) - Lembeek Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.72754/4.23570/osm-mapnik-german_style&amp;lonlats=4.220496,50.714092;4.233768,50.727845&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.714093" lon="4.22049"><ele>38.25</ele></trkpt>
+   <trkpt lat="50.721809" lon="4.228108"><ele>42.5</ele></trkpt>
+   <trkpt lat="50.722897" lon="4.229162"><ele>37.5</ele></trkpt>
+   <trkpt lat="50.726284" lon="4.232318"><ele>36</ele></trkpt>
+   <trkpt lat="50.727202" lon="4.233172"><ele>32.25</ele></trkpt>
+   <trkpt lat="50.727837" lon="4.233767"><ele>33.5</ele></trkpt>
+   <trkpt lat="50.727842" lon="4.233772"><ele>33.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

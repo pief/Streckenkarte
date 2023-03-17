@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 0 plain-ascend = 0 cost=310 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Lembeek Weiche SSS1 - Lembeek (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.71404/4.22179/osm-mapnik-german_style&amp;lonlats=4.218184,50.711744;4.220496,50.714092&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.711744" lon="4.218182"><ele>38.5</ele></trkpt>
+   <trkpt lat="50.713271" lon="4.219683"><ele>38.5</ele></trkpt>
+   <trkpt lat="50.713701" lon="4.220104"><ele>38.25</ele></trkpt>
+   <trkpt lat="50.714093" lon="4.22049"><ele>38.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

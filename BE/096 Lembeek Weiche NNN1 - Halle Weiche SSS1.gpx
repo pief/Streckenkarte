@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 401 filtered ascend = 4 plain-ascend = 2 cost=401 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Lembeek Weiche NNN1 - Halle Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.73087/4.23857/osm-mapnik-german_style&amp;lonlats=4.233772,50.727842;4.236943,50.730785&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.727841" lon="4.233771"><ele>33.5</ele></trkpt>
+   <trkpt lat="50.728673" lon="4.234552"><ele>36.5</ele></trkpt>
+   <trkpt lat="50.728994" lon="4.23487"><ele>37</ele></trkpt>
+   <trkpt lat="50.729315" lon="4.235209"><ele>37.25</ele></trkpt>
+   <trkpt lat="50.729625" lon="4.235549"><ele>37.75</ele></trkpt>
+   <trkpt lat="50.729943" lon="4.235921"><ele>38</ele></trkpt>
+   <trkpt lat="50.730245" lon="4.236283"><ele>37</ele></trkpt>
+   <trkpt lat="50.730782" lon="4.236946"><ele>35.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
