@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 600 filtered ascend = 0 plain-ascend = 1 cost=600 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Buizingen Weiche NNN2 - Buizingen (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.75130/4.25911/osm-mapnik-german_style&amp;lonlats=4.263076,50.755864;4.258452,50.751352&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.755862" lon="4.263078"><ele>27.25</ele></trkpt>
+   <trkpt lat="50.755863" lon="4.26308"><ele>27.5</ele></trkpt>
+   <trkpt lat="50.751349" lon="4.258455"><ele>28</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

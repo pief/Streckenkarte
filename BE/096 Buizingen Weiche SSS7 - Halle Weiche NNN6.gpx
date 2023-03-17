@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 703 filtered ascend = 5 plain-ascend = 5 cost=703 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>096 Buizingen Weiche SSS7 - Halle Weiche NNN6</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.73708/4.24502/osm-mapnik-german_style&amp;lonlats=4.249565,50.742669;4.244392,50.737297&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.742668" lon="4.249564"><ele>29.5</ele></trkpt>
+   <trkpt lat="50.74141" lon="4.248273"><ele>31</ele></trkpt>
+   <trkpt lat="50.740176" lon="4.247023"><ele>34.25</ele></trkpt>
+   <trkpt lat="50.739374" lon="4.24627"><ele>35</ele></trkpt>
+   <trkpt lat="50.737293" lon="4.244395"><ele>34.75</ele></trkpt>
+   <trkpt lat="50.737294" lon="4.244396"><ele>34.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
