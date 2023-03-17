@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 527 filtered ascend = 0 plain-ascend = -2 cost=527 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>094 Halle Weiche NNN5 - Buizingen Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.74314/4.25087/osm-mapnik-german_style&amp;lonlats=4.245828,50.739116;4.249797,50.743122&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.739115" lon="4.245827"><ele>33.75</ele></trkpt>
+   <trkpt lat="50.739387" lon="4.24607"><ele>34.25</ele></trkpt>
+   <trkpt lat="50.739825" lon="4.246459"><ele>34.25</ele></trkpt>
+   <trkpt lat="50.740247" lon="4.246862"><ele>33.5</ele></trkpt>
+   <trkpt lat="50.743121" lon="4.249798"><ele>30.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

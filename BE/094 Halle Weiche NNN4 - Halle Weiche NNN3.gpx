@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=33 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>094 Halle Weiche NNN4 - Halle Weiche NNN3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.73858/4.24711/osm-mapnik-german_style&amp;lonlats=4.245548,50.738752;4.245344,50.738515;4.245341,50.738512&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.738749" lon="4.245552"><ele>32.75</ele></trkpt>
+   <trkpt lat="50.738515" lon="4.245344"><ele>32.5</ele></trkpt>
+   <trkpt lat="50.738515" lon="4.245344"><ele>32.5</ele></trkpt>
+   <trkpt lat="50.738511" lon="4.24534"><ele>32.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

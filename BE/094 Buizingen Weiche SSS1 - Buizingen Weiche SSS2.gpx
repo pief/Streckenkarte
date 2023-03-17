@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 439 filtered ascend = 1 plain-ascend = 1 cost=439 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>094 Buizingen Weiche SSS1 - Buizingen Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.74627/4.25432/osm-mapnik-german_style&amp;lonlats=4.249797,50.743122;4.253101,50.746431&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.743121" lon="4.249798"><ele>30.5</ele></trkpt>
+   <trkpt lat="50.743124" lon="4.249802"><ele>30.5</ele></trkpt>
+   <trkpt lat="50.744261" lon="4.250966"><ele>30.75</ele></trkpt>
+   <trkpt lat="50.745215" lon="4.251939"><ele>30.25</ele></trkpt>
+   <trkpt lat="50.745618" lon="4.252334"><ele>31</ele></trkpt>
+   <trkpt lat="50.746426" lon="4.253104"><ele>31.5</ele></trkpt>
+   <trkpt lat="50.746428" lon="4.253105"><ele>31.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
