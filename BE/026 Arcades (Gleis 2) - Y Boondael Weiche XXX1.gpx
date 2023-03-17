@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 92 filtered ascend = 0 plain-ascend = -1 cost=92 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Arcades (Gleis 2) - Y Boondael Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.81014/4.39916/osm-mapnik-german_style&amp;lonlats=4.398293,50.809556;4.398758,50.810302&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.809555" lon="4.398292"><ele>81.75</ele></trkpt>
+   <trkpt lat="50.809592" lon="4.398315"><ele>81.75</ele></trkpt>
+   <trkpt lat="50.809714" lon="4.398392"><ele>81.5</ele></trkpt>
+   <trkpt lat="50.809857" lon="4.398482"><ele>81.25</ele></trkpt>
+   <trkpt lat="50.809989" lon="4.398561"><ele>81</ele></trkpt>
+   <trkpt lat="50.810301" lon="4.398757"><ele>80.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

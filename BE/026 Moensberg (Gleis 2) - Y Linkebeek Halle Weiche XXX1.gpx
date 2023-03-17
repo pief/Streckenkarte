@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 988 filtered ascend = 13 plain-ascend = 7 cost=988 energy=0.0kwh time=1m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Moensberg (Gleis 2) - Y Linkebeek Halle Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.78446/4.34192/osm-mapnik-german_style&amp;lonlats=4.331503,50.778645;4.341745,50.784502&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.778647" lon="4.331499"><ele>61</ele></trkpt>
+   <trkpt lat="50.778686" lon="4.331589"><ele>61.75</ele></trkpt>
+   <trkpt lat="50.780192" lon="4.33513"><ele>73</ele></trkpt>
+   <trkpt lat="50.780445" lon="4.335712"><ele>73</ele></trkpt>
+   <trkpt lat="50.780705" lon="4.336272"><ele>72.5</ele></trkpt>
+   <trkpt lat="50.780841" lon="4.336542"><ele>72</ele></trkpt>
+   <trkpt lat="50.780983" lon="4.336814"><ele>73</ele></trkpt>
+   <trkpt lat="50.781282" lon="4.337334"><ele>74</ele></trkpt>
+   <trkpt lat="50.781592" lon="4.337828"><ele>71.5</ele></trkpt>
+   <trkpt lat="50.781899" lon="4.33828"><ele>68.5</ele></trkpt>
+   <trkpt lat="50.782269" lon="4.338814"><ele>68</ele></trkpt>
+   <trkpt lat="50.782858" lon="4.339629"><ele>65.75</ele></trkpt>
+   <trkpt lat="50.782916" lon="4.339706"><ele>65.5</ele></trkpt>
+   <trkpt lat="50.784078" lon="4.341212"><ele>68.25</ele></trkpt>
+   <trkpt lat="50.7845" lon="4.341744"><ele>67.75</ele></trkpt>
+   <trkpt lat="50.784501" lon="4.341745"><ele>67.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

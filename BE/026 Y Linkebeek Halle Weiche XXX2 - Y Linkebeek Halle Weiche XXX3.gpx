@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 276 filtered ascend = 9 plain-ascend = 10 cost=276 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Y Linkebeek Halle Weiche XXX2 - Y Linkebeek Halle Weiche XXX3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.78719/4.34644/osm-mapnik-german_style&amp;lonlats=4.343298,50.78561;4.345905,50.787433&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.785607" lon="4.3433"><ele>67.5</ele></trkpt>
+   <trkpt lat="50.785609" lon="4.343303"><ele>67.75</ele></trkpt>
+   <trkpt lat="50.787427" lon="4.345903"><ele>77</ele></trkpt>
+   <trkpt lat="50.78743" lon="4.345907"><ele>77</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

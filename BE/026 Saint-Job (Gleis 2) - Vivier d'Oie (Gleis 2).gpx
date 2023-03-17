@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 759 filtered ascend = 7 plain-ascend = 8 cost=759 energy=0.0kwh time=1m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Saint-Job (Gleis 2) - Vivier d'Oie (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.79588/4.37166/osm-mapnik-german_style&amp;lonlats=4.361803,50.794094;4.37192,50.795994&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.794092" lon="4.361802"><ele>74</ele></trkpt>
+   <trkpt lat="50.794123" lon="4.361892"><ele>74.25</ele></trkpt>
+   <trkpt lat="50.794683" lon="4.363529"><ele>76</ele></trkpt>
+   <trkpt lat="50.79487" lon="4.364098"><ele>75.25</ele></trkpt>
+   <trkpt lat="50.795053" lon="4.364688"><ele>74</ele></trkpt>
+   <trkpt lat="50.795212" lon="4.365277"><ele>74.25</ele></trkpt>
+   <trkpt lat="50.795353" lon="4.365898"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.795463" lon="4.366507"><ele>74.5</ele></trkpt>
+   <trkpt lat="50.795555" lon="4.367151"><ele>75</ele></trkpt>
+   <trkpt lat="50.795637" lon="4.367921"><ele>75.25</ele></trkpt>
+   <trkpt lat="50.795985" lon="4.37192"><ele>81.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

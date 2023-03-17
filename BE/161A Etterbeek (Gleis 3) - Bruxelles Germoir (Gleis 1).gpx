@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1152 filtered ascend = 0 plain-ascend = -9 cost=1152 energy=0.0kwh time=1m 32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>161A Etterbeek (Gleis 3) - Bruxelles Germoir (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.83046/4.37974/osm-mapnik-german_style&amp;lonlats=4.389663,50.822146;4.379506,50.830193&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.822149" lon="4.389671"><ele>82.75</ele></trkpt>
+   <trkpt lat="50.822568" lon="4.389218"><ele>82.75</ele></trkpt>
+   <trkpt lat="50.823169" lon="4.388554"><ele>81</ele></trkpt>
+   <trkpt lat="50.823597" lon="4.388049"><ele>81</ele></trkpt>
+   <trkpt lat="50.825052" lon="4.38631"><ele>79.75</ele></trkpt>
+   <trkpt lat="50.825662" lon="4.385555"><ele>78.75</ele></trkpt>
+   <trkpt lat="50.826086" lon="4.385001"><ele>77</ele></trkpt>
+   <trkpt lat="50.827886" lon="4.382593"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.828801" lon="4.381386"><ele>75.25</ele></trkpt>
+   <trkpt lat="50.829772" lon="4.380051"><ele>74.25</ele></trkpt>
+   <trkpt lat="50.830191" lon="4.379502"><ele>72.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

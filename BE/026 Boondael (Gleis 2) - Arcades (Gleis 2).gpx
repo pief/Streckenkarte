@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 892 filtered ascend = 0 plain-ascend = -7 cost=892 energy=0.0kwh time=1m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Boondael (Gleis 2) - Arcades (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.80953/4.39923/osm-mapnik-german_style&amp;lonlats=4.393649,50.802112;4.398284,50.80956&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.802108" lon="4.39366"><ele>89.5</ele></trkpt>
+   <trkpt lat="50.802141" lon="4.39368"><ele>89.5</ele></trkpt>
+   <trkpt lat="50.807371" lon="4.396934"><ele>89.75</ele></trkpt>
+   <trkpt lat="50.808446" lon="4.397604"><ele>87</ele></trkpt>
+   <trkpt lat="50.809556" lon="4.398293"><ele>81.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

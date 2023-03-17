@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 556 filtered ascend = 0 plain-ascend = 0 cost=556 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>161A Bruxelles Germoir (Gleis 1) - Bruxelles-Luxembourg Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.83470/4.37603/osm-mapnik-german_style&amp;lonlats=4.379506,50.830193;4.375458,50.834404&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.830191" lon="4.379502"><ele>72.75</ele></trkpt>
+   <trkpt lat="50.830208" lon="4.37948"><ele>72.75</ele></trkpt>
+   <trkpt lat="50.830576" lon="4.379034"><ele>71.75</ele></trkpt>
+   <trkpt lat="50.83102" lon="4.378543"><ele>69.25</ele></trkpt>
+   <trkpt lat="50.83117" lon="4.378384"><ele>67.75</ele></trkpt>
+   <trkpt lat="50.831404" lon="4.378154"><ele>66</ele></trkpt>
+   <trkpt lat="50.831934" lon="4.377645"><ele>65.75</ele></trkpt>
+   <trkpt lat="50.832267" lon="4.377334"><ele>65.75</ele></trkpt>
+   <trkpt lat="50.832905" lon="4.376766"><ele>69.75</ele></trkpt>
+   <trkpt lat="50.834394" lon="4.375471"><ele>73</ele></trkpt>
+   <trkpt lat="50.834405" lon="4.375461"><ele>73</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

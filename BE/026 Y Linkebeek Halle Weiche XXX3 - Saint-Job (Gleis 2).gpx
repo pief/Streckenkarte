@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1361 filtered ascend = 6 plain-ascend = -2 cost=1361 energy=0.0kwh time=1m 49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Y Linkebeek Halle Weiche XXX3 - Saint-Job (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.79416/4.36205/osm-mapnik-german_style&amp;lonlats=4.345905,50.787433;4.361803,50.794094&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.78743" lon="4.345907"><ele>77</ele></trkpt>
+   <trkpt lat="50.788037" lon="4.346791"><ele>78.25</ele></trkpt>
+   <trkpt lat="50.78858" lon="4.347622"><ele>82.5</ele></trkpt>
+   <trkpt lat="50.788886" lon="4.348128"><ele>83.25</ele></trkpt>
+   <trkpt lat="50.789182" lon="4.348649"><ele>82.25</ele></trkpt>
+   <trkpt lat="50.78947" lon="4.349182"><ele>82</ele></trkpt>
+   <trkpt lat="50.789743" lon="4.349724"><ele>80</ele></trkpt>
+   <trkpt lat="50.790008" lon="4.350281"><ele>76.25</ele></trkpt>
+   <trkpt lat="50.790259" lon="4.350845"><ele>74.5</ele></trkpt>
+   <trkpt lat="50.790532" lon="4.351508"><ele>71.75</ele></trkpt>
+   <trkpt lat="50.790788" lon="4.352174"><ele>67.75</ele></trkpt>
+   <trkpt lat="50.791182" lon="4.353295"><ele>65.5</ele></trkpt>
+   <trkpt lat="50.791226" lon="4.353429"><ele>65.5</ele></trkpt>
+   <trkpt lat="50.791792" lon="4.355073"><ele>64.25</ele></trkpt>
+   <trkpt lat="50.792029" lon="4.355771"><ele>65.25</ele></trkpt>
+   <trkpt lat="50.794092" lon="4.361802"><ele>74</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
