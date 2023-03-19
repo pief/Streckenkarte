@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027B Muizen Weiche NNN1 - Muizen Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.01916/4.49958/osm-mapnik-german_style&amp;lonlats=4.499387,51.018729;4.498842,51.019201&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.018729" lon="4.499387"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.018731" lon="4.499386"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.019199" lon="4.498839"><ele>7.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 173 filtered ascend = 0 plain-ascend = 0 cost=173 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027 Y Weerde Weiche SSS2 - Y Weerde Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.97517/4.47151/osm-mapnik-german_style&amp;lonlats=4.469546,50.974341;4.470599,50.975737&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.97434" lon="4.469545"><ele>10.5</ele></trkpt>
+   <trkpt lat="50.974348" lon="4.469551"><ele>10.5</ele></trkpt>
+   <trkpt lat="50.975735" lon="4.470601"><ele>10.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

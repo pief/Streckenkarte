@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>053 Mechelen Weiche OOO2 - Mechelen Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.02089/4.48793/osm-mapnik-german_style&amp;lonlats=4.487607,51.02111;4.487338,51.02089&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.021107" lon="4.48761"><ele>11.5</ele></trkpt>
+   <trkpt lat="51.020892" lon="4.48734"><ele>11.75</ele></trkpt>
+   <trkpt lat="51.020889" lon="4.487337"><ele>11.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

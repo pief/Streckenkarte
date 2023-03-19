@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1851 filtered ascend = 0 plain-ascend = 1 cost=1851 energy=0.0kwh time=2m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027B Hofstade (Gleis 1) - Y Prinsenhoek Weiche WWW1</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/50.9979/4.5227/osm-mapnik-german_style&amp;lonlats=4.498308,50.988487;4.520326,50.997432&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.988486" lon="4.498307"><ele>10.25</ele></trkpt>
+   <trkpt lat="50.988545" lon="4.498465"><ele>10.5</ele></trkpt>
+   <trkpt lat="50.98968" lon="4.501509"><ele>11</ele></trkpt>
+   <trkpt lat="50.994593" lon="4.514703"><ele>10.25</ele></trkpt>
+   <trkpt lat="50.994696" lon="4.514966"><ele>10.5</ele></trkpt>
+   <trkpt lat="50.994793" lon="4.515208"><ele>10.25</ele></trkpt>
+   <trkpt lat="50.994953" lon="4.515579"><ele>10</ele></trkpt>
+   <trkpt lat="50.995093" lon="4.515885"><ele>10</ele></trkpt>
+   <trkpt lat="50.995408" lon="4.516521"><ele>10</ele></trkpt>
+   <trkpt lat="50.995647" lon="4.516972"><ele>9.75</ele></trkpt>
+   <trkpt lat="50.996547" lon="4.51867"><ele>9</ele></trkpt>
+   <trkpt lat="50.996877" lon="4.519291"><ele>9.25</ele></trkpt>
+   <trkpt lat="50.997321" lon="4.520118"><ele>11</ele></trkpt>
+   <trkpt lat="50.997431" lon="4.520325"><ele>10.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
