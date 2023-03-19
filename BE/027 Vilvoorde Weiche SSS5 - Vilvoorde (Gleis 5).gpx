@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 530 filtered ascend = 2 plain-ascend = 2 cost=530 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027 Vilvoorde Weiche SSS5 - Vilvoorde (Gleis 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.92446/4.43342/osm-mapnik-german_style&amp;lonlats=4.42951,50.920393;4.43334,50.924427&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.920391" lon="4.429511"><ele>14</ele></trkpt>
+   <trkpt lat="50.920392" lon="4.429513"><ele>14.25</ele></trkpt>
+   <trkpt lat="50.920534" lon="4.429669"><ele>14.75</ele></trkpt>
+   <trkpt lat="50.920838" lon="4.43003"><ele>15.75</ele></trkpt>
+   <trkpt lat="50.921682" lon="4.430894"><ele>15</ele></trkpt>
+   <trkpt lat="50.922775" lon="4.432011"><ele>16</ele></trkpt>
+   <trkpt lat="50.923085" lon="4.432314"><ele>15.25</ele></trkpt>
+   <trkpt lat="50.923435" lon="4.432629"><ele>15</ele></trkpt>
+   <trkpt lat="50.923804" lon="4.432926"><ele>15.25</ele></trkpt>
+   <trkpt lat="50.924171" lon="4.433188"><ele>15.75</ele></trkpt>
+   <trkpt lat="50.924425" lon="4.433343"><ele>15.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

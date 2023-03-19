@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 381 filtered ascend = 0 plain-ascend = -3 cost=381 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Meiser (Gleis 1) - Meiser Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.85882/4.39487/osm-mapnik-german_style&amp;lonlats=4.394171,50.855092;4.394325,50.858461&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.855092" lon="4.394171"><ele>69</ele></trkpt>
+   <trkpt lat="50.85513" lon="4.394165"><ele>69</ele></trkpt>
+   <trkpt lat="50.855708" lon="4.394107"><ele>69</ele></trkpt>
+   <trkpt lat="50.856005" lon="4.394092"><ele>68.25</ele></trkpt>
+   <trkpt lat="50.856602" lon="4.394088"><ele>66</ele></trkpt>
+   <trkpt lat="50.856984" lon="4.394107"><ele>66.25</ele></trkpt>
+   <trkpt lat="50.857359" lon="4.394141"><ele>66.75</ele></trkpt>
+   <trkpt lat="50.858018" lon="4.394236"><ele>66.25</ele></trkpt>
+   <trkpt lat="50.858459" lon="4.394322"><ele>65</ele></trkpt>
+   <trkpt lat="50.85846" lon="4.394322"><ele>64.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

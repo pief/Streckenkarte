@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 247 filtered ascend = 0 plain-ascend = 0 cost=247 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>161A Bruxelles-Luxembourg (Gleis 5) - Bruxelles-Luxembourg Weiche SSS3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.83599/4.37581/osm-mapnik-german_style&amp;lonlats=4.373849,50.838187;4.374152,50.836066&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.838185" lon="4.37385"/>
+   <trkpt lat="50.838167" lon="4.373842"/>
+   <trkpt lat="50.838075" lon="4.373802"/>
+   <trkpt lat="50.837792" lon="4.373723"/>
+   <trkpt lat="50.8375" lon="4.373686"/>
+   <trkpt lat="50.837216" lon="4.373692"/>
+   <trkpt lat="50.836934" lon="4.373738"/>
+   <trkpt lat="50.836612" lon="4.373845"/>
+   <trkpt lat="50.83636" lon="4.373969"/>
+   <trkpt lat="50.836065" lon="4.374151"/>
+   <trkpt lat="50.836065" lon="4.37415"/>
+  </trkseg>
+ </trk>
+</gpx>

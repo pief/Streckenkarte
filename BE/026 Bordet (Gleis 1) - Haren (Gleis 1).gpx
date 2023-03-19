@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1464 filtered ascend = 0 plain-ascend = -9 cost=1464 energy=0.0kwh time=1m 57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Bordet (Gleis 1) - Haren (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.88852/4.42028/osm-mapnik-german_style&amp;lonlats=4.409493,50.877268;4.419787,50.888666&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.877263" lon="4.409502"><ele>47.25</ele></trkpt>
+   <trkpt lat="50.877286" lon="4.409522"><ele>47.25</ele></trkpt>
+   <trkpt lat="50.877789" lon="4.409975"><ele>47.5</ele></trkpt>
+   <trkpt lat="50.878287" lon="4.410424"><ele>47</ele></trkpt>
+   <trkpt lat="50.885715" lon="4.417126"><ele>39</ele></trkpt>
+   <trkpt lat="50.887802" lon="4.419011"><ele>39.5</ele></trkpt>
+   <trkpt lat="50.888194" lon="4.419363"><ele>38.75</ele></trkpt>
+   <trkpt lat="50.888665" lon="4.419788"><ele>37.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

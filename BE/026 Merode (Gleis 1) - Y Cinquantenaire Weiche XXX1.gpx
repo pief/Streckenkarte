@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1391 filtered ascend = 0 plain-ascend = 0 cost=1391 energy=0.0kwh time=1m 51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Merode (Gleis 1) - Y Cinquantenaire Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.85066/4.39603/osm-mapnik-german_style&amp;lonlats=4.4001,50.838674;4.395521,50.850806&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.838673" lon="4.400097"/>
+   <trkpt lat="50.838892" lon="4.400017"/>
+   <trkpt lat="50.848262" lon="4.396505"/>
+   <trkpt lat="50.850225" lon="4.395735"/>
+   <trkpt lat="50.850802" lon="4.395522"/>
+   <trkpt lat="50.850805" lon="4.39552"/>
+  </trkseg>
+ </trk>
+</gpx>

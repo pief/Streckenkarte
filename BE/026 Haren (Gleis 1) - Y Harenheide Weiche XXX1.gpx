@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 209 filtered ascend = 0 plain-ascend = 0 cost=209 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Haren (Gleis 1) - Y Harenheide Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.88969/4.42315/osm-mapnik-german_style&amp;lonlats=4.419788,50.888665;4.421243,50.890286&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.888664" lon="4.419787"><ele>37.25</ele></trkpt>
+   <trkpt lat="50.888694" lon="4.419815"><ele>37.25</ele></trkpt>
+   <trkpt lat="50.889006" lon="4.420096"><ele>36.75</ele></trkpt>
+   <trkpt lat="50.890283" lon="4.421245"><ele>36.75</ele></trkpt>
+   <trkpt lat="50.890284" lon="4.421245"><ele>36.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

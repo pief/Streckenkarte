@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 0 plain-ascend = -1 cost=400 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027 Vilvoorde Weiche SSS1 - Vilvoorde Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.91981/4.42914/osm-mapnik-german_style&amp;lonlats=4.425733,50.916563;4.428654,50.919619&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.91656" lon="4.425736"><ele>14</ele></trkpt>
+   <trkpt lat="50.916565" lon="4.42574"><ele>14</ele></trkpt>
+   <trkpt lat="50.91754" lon="4.426605"><ele>11.75</ele></trkpt>
+   <trkpt lat="50.91797" lon="4.427005"><ele>11.25</ele></trkpt>
+   <trkpt lat="50.918169" lon="4.427196"><ele>11</ele></trkpt>
+   <trkpt lat="50.918442" lon="4.427464"><ele>10.75</ele></trkpt>
+   <trkpt lat="50.919614" lon="4.428654"><ele>12</ele></trkpt>
+   <trkpt lat="50.919616" lon="4.428657"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 491 filtered ascend = 0 plain-ascend = -5 cost=491 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Y Cinquantenaire Weiche XXX1 - Meiser (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.85496/4.39490/osm-mapnik-german_style&amp;lonlats=4.395521,50.850806;4.394166,50.855092&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.850805" lon="4.39552"/>
+   <trkpt lat="50.853292" lon="4.394608"><ele>75</ele></trkpt>
+   <trkpt lat="50.853435" lon="4.394557"><ele>74.5</ele></trkpt>
+   <trkpt lat="50.85394" lon="4.394404"><ele>72.5</ele></trkpt>
+   <trkpt lat="50.854119" lon="4.394361"><ele>71.75</ele></trkpt>
+   <trkpt lat="50.8547" lon="4.394234"><ele>69.75</ele></trkpt>
+   <trkpt lat="50.855092" lon="4.394171"><ele>69</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

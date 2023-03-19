@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 906 filtered ascend = 0 plain-ascend = -8 cost=906 energy=0.0kwh time=1m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Evere Weiche NNN1 - Bordet (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.87724/4.40978/osm-mapnik-german_style&amp;lonlats=4.403114,50.870218;4.409493,50.877268&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.870217" lon="4.403112"><ele>56.5</ele></trkpt>
+   <trkpt lat="50.870219" lon="4.403113"><ele>56.5</ele></trkpt>
+   <trkpt lat="50.874849" lon="4.407321"><ele>53.5</ele></trkpt>
+   <trkpt lat="50.875838" lon="4.408216"><ele>50.75</ele></trkpt>
+   <trkpt lat="50.877263" lon="4.409502"><ele>47.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
