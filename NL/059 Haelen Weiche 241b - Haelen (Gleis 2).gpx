@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 766 filtered ascend = 0 plain-ascend = 1 cost=766 energy=0.0kwh time=1m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>059 Haelen Weiche 241b - Haelen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.22784/5.94954/osm-mapnik-german_style&amp;lonlats=5.936995,51.228406;5.947857,51.227716&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.228404" lon="5.936994"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.228347" lon="5.937868"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.228314" lon="5.938371"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.227949" lon="5.943918"><ele>25</ele></trkpt>
+   <trkpt lat="51.227775" lon="5.946956"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.227717" lon="5.947857"><ele>28</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
