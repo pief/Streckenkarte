@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 142 filtered ascend = 0 plain-ascend = 0 cost=142 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Herentals Weiche OOO2 - Herentals Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.18258/4.83242/osm-mapnik-german_style&amp;lonlats=4.829827,51.181574;4.831501,51.182236&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.181574" lon="4.829825"><ele>12.75</ele></trkpt>
+   <trkpt lat="51.181724" lon="4.830211"><ele>12.75</ele></trkpt>
+   <trkpt lat="51.18187" lon="4.830591"><ele>12.75</ele></trkpt>
+   <trkpt lat="51.181912" lon="4.830701"><ele>12.5</ele></trkpt>
+   <trkpt lat="51.182233" lon="4.831502"><ele>12</ele></trkpt>
+   <trkpt lat="51.182233" lon="4.831502"><ele>11.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

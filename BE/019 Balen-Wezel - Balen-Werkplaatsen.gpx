@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4127 filtered ascend = 0 plain-ascend = -8 cost=4127 energy=0.0kwh time=5m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Balen-Wezel - Balen-Werkplaatsen</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/51.2032/5.2344/osm-mapnik-german_style&amp;lonlats=5.24123,51.20448;5.18302,51.198511&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.204476" lon="5.241229"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.204368" lon="5.240166"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.204296" lon="5.239457"><ele>42</ele></trkpt>
+   <trkpt lat="51.204271" lon="5.239209"><ele>42</ele></trkpt>
+   <trkpt lat="51.20334" lon="5.230103"><ele>39</ele></trkpt>
+   <trkpt lat="51.20333" lon="5.230005"><ele>39</ele></trkpt>
+   <trkpt lat="51.203288" lon="5.229589"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.203202" lon="5.228758"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.202827" lon="5.225096"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.201546" lon="5.21257"><ele>39</ele></trkpt>
+   <trkpt lat="51.20138" lon="5.210988"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.19993" lon="5.196863"><ele>37.5</ele></trkpt>
+   <trkpt lat="51.199887" lon="5.19644"><ele>37</ele></trkpt>
+   <trkpt lat="51.198508" lon="5.183019"><ele>33.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

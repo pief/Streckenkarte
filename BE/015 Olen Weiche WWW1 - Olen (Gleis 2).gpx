@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1066 filtered ascend = 2 plain-ascend = 1 cost=1066 energy=0.0kwh time=1m 25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Olen Weiche WWW1 - Olen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.17414/4.90467/osm-mapnik-german_style&amp;lonlats=4.890448,51.175144;4.905481,51.173787&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.175139" lon="4.890446"><ele>16.5</ele></trkpt>
+   <trkpt lat="51.175114" lon="4.890727"><ele>16.75</ele></trkpt>
+   <trkpt lat="51.175096" lon="4.890924"><ele>17</ele></trkpt>
+   <trkpt lat="51.174953" lon="4.892505"><ele>18.75</ele></trkpt>
+   <trkpt lat="51.174036" lon="4.902635"><ele>18</ele></trkpt>
+   <trkpt lat="51.17401" lon="4.902921"><ele>18</ele></trkpt>
+   <trkpt lat="51.173899" lon="4.904148"><ele>18</ele></trkpt>
+   <trkpt lat="51.173778" lon="4.905479"><ele>17</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

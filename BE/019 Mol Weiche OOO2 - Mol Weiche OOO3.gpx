@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 182 filtered ascend = 0 plain-ascend = 0 cost=182 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Mol Weiche OOO2 - Mol Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.19171/5.12093/osm-mapnik-german_style&amp;lonlats=5.118886,51.191392;5.121372,51.191796&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.19139" lon="5.118885"><ele>27</ele></trkpt>
+   <trkpt lat="51.191655" lon="5.120401"><ele>27</ele></trkpt>
+   <trkpt lat="51.191743" lon="5.121074"><ele>27</ele></trkpt>
+   <trkpt lat="51.191789" lon="5.121373"><ele>27</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

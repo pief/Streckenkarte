@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1038 filtered ascend = 2 plain-ascend = 3 cost=1038 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Balen-Werkplaatsen - Lommel-Werkplaatsen</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.20600/5.25979/osm-mapnik-german_style&amp;lonlats=5.241229,51.204476;5.255874,51.205983&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.204476" lon="5.241227"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.205517" lon="5.251416"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.205627" lon="5.252489"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.205688" lon="5.253088"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.205715" lon="5.253356"><ele>45</ele></trkpt>
+   <trkpt lat="51.205972" lon="5.255875"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

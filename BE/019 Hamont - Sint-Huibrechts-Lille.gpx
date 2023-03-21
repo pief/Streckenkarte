@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4277 filtered ascend = 3 plain-ascend = 0 cost=4277 energy=0.1kwh time=5m 42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Hamont - Sint-Huibrechts-Lille</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.24617/5.54290/osm-mapnik-german_style&amp;lonlats=5.542525,51.246145;5.482006,51.240581&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.246144" lon="5.542524"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.246129" lon="5.542354"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.246035" lon="5.541303"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.245864" lon="5.539429"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.245417" lon="5.534699"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.244818" lon="5.528171"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.244723" lon="5.52714"><ele>34</ele></trkpt>
+   <trkpt lat="51.243733" lon="5.516335"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.243423" lon="5.512957"><ele>34</ele></trkpt>
+   <trkpt lat="51.242466" lon="5.502524"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.242122" lon="5.498786"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.241135" lon="5.488051"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.240813" lon="5.484547"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.240579" lon="5.482005"><ele>35.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

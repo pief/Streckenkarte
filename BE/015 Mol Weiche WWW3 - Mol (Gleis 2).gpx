@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 569 filtered ascend = 1 plain-ascend = 2 cost=569 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Mol Weiche WWW3 - Mol (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.19069/5.11495/osm-mapnik-german_style&amp;lonlats=5.106714,51.189235;5.114498,51.190609&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.189232" lon="5.106714"><ele>26</ele></trkpt>
+   <trkpt lat="51.189234" lon="5.10672"><ele>26</ele></trkpt>
+   <trkpt lat="51.189591" lon="5.108743"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.190113" lon="5.111689"><ele>26.25</ele></trkpt>
+   <trkpt lat="51.190609" lon="5.114496"><ele>27.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 809 filtered ascend = 0 plain-ascend = 0 cost=809 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Neerpelt (Gleis 1) - Neerpelt Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.22872/5.43897/osm-mapnik-german_style&amp;lonlats=5.437211,51.221862;5.438742,51.229028&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.221861" lon="5.437212"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.221893" lon="5.43722"><ele>41</ele></trkpt>
+   <trkpt lat="51.225709" lon="5.438065"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.226525" lon="5.438246"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.227467" lon="5.438439"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.227667" lon="5.438475"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.227837" lon="5.438505"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.228217" lon="5.438571"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.229025" lon="5.438739"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.229027" lon="5.438739"><ele>40.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

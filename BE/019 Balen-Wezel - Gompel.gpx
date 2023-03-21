@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2256 filtered ascend = 0 plain-ascend = -4 cost=2256 energy=0.0kwh time=3m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Balen-Wezel - Gompel</name>
+  <link href="https://brouter.damsy.net/latest/#map=15/51.1993/5.1924/osm-mapnik-german_style&amp;lonlats=5.183019,51.198508;5.15129,51.195243&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.198508" lon="5.183017"><ele>33.75</ele></trkpt>
+   <trkpt lat="51.198481" lon="5.182749"><ele>33.75</ele></trkpt>
+   <trkpt lat="51.19845" lon="5.182443"><ele>34</ele></trkpt>
+   <trkpt lat="51.198444" lon="5.182382"><ele>34</ele></trkpt>
+   <trkpt lat="51.198437" lon="5.18231"><ele>34</ele></trkpt>
+   <trkpt lat="51.197314" lon="5.171327"><ele>32</ele></trkpt>
+   <trkpt lat="51.197026" lon="5.1686"><ele>33.75</ele></trkpt>
+   <trkpt lat="51.196618" lon="5.164641"><ele>29.5</ele></trkpt>
+   <trkpt lat="51.19581" lon="5.15682"><ele>29</ele></trkpt>
+   <trkpt lat="51.195747" lon="5.156208"><ele>28.5</ele></trkpt>
+   <trkpt lat="51.195569" lon="5.154477"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.195275" lon="5.151626"><ele>28.25</ele></trkpt>
+   <trkpt lat="51.195257" lon="5.151456"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.195239" lon="5.151289"><ele>28.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

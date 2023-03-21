@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3973 filtered ascend = 3 plain-ascend = -2 cost=3973 energy=0.0kwh time=5m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Lommel - Lommel-Werkplaatsen</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.21195/5.31309/osm-mapnik-german_style&amp;lonlats=5.311989,51.211617;5.255874,51.205983&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.211619" lon="5.311987"><ele>48</ele></trkpt>
+   <trkpt lat="51.211585" lon="5.311375"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.21149" lon="5.310038"><ele>48.5</ele></trkpt>
+   <trkpt lat="51.211365" lon="5.308563"><ele>50.25</ele></trkpt>
+   <trkpt lat="51.211289" lon="5.307782"><ele>50.25</ele></trkpt>
+   <trkpt lat="51.210645" lon="5.301454"><ele>51.5</ele></trkpt>
+   <trkpt lat="51.210399" lon="5.299075"><ele>51.75</ele></trkpt>
+   <trkpt lat="51.21022" lon="5.297503"><ele>51.5</ele></trkpt>
+   <trkpt lat="51.210046" lon="5.295872"><ele>50</ele></trkpt>
+   <trkpt lat="51.209675" lon="5.29222"><ele>51.25</ele></trkpt>
+   <trkpt lat="51.209209" lon="5.28764"><ele>50</ele></trkpt>
+   <trkpt lat="51.208606" lon="5.281706"><ele>48.75</ele></trkpt>
+   <trkpt lat="51.207161" lon="5.267527"><ele>45.5</ele></trkpt>
+   <trkpt lat="51.205972" lon="5.255875"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

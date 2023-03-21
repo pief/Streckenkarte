@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2913 filtered ascend = 2 plain-ascend = 2 cost=2913 energy=0.0kwh time=3m 53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Olen (Gleis 2) - Larum (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.17031/4.94495/osm-mapnik-german_style&amp;lonlats=4.905481,51.173787;4.946621,51.170034&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.173778" lon="4.905479"><ele>17</ele></trkpt>
+   <trkpt lat="51.173555" lon="4.907949"><ele>15.75</ele></trkpt>
+   <trkpt lat="51.173144" lon="4.912459"><ele>15</ele></trkpt>
+   <trkpt lat="51.173117" lon="4.912755"><ele>15.25</ele></trkpt>
+   <trkpt lat="51.172744" lon="4.916862"><ele>16.75</ele></trkpt>
+   <trkpt lat="51.171945" lon="4.925636"><ele>17</ele></trkpt>
+   <trkpt lat="51.171452" lon="4.931046"><ele>16</ele></trkpt>
+   <trkpt lat="51.1712" lon="4.933813"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.170641" lon="4.939958"><ele>18.75</ele></trkpt>
+   <trkpt lat="51.170156" lon="4.945278"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.170034" lon="4.946621"><ele>19.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

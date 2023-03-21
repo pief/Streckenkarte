@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2886 filtered ascend = 1 plain-ascend = 1 cost=2886 energy=0.0kwh time=3m 51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Overpelt - Overpelt-Werkplaatsen</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.21621/5.42790/osm-mapnik-german_style&amp;lonlats=5.424188,51.215641;5.382957,51.214176&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.215643" lon="5.424186"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.21559" lon="5.422694"><ele>43</ele></trkpt>
+   <trkpt lat="51.21514" lon="5.410027"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.215041" lon="5.407232"><ele>43</ele></trkpt>
+   <trkpt lat="51.214902" lon="5.403346"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.214627" lon="5.395664"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.214171" lon="5.382957"><ele>44.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

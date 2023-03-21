@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 209 filtered ascend = 0 plain-ascend = 1 cost=209 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>019 Neerpelt Weiche SSS2 - Neerpelt (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.22149/5.43777/osm-mapnik-german_style&amp;lonlats=5.436803,51.220014;5.437211,51.221862&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.220012" lon="5.436804"><ele>40</ele></trkpt>
+   <trkpt lat="51.220015" lon="5.436805"><ele>40</ele></trkpt>
+   <trkpt lat="51.220936" lon="5.437009"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.221861" lon="5.437212"><ele>40.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
