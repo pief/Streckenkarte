@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1234 filtered ascend = 0 plain-ascend = -3 cost=1234 energy=0.0kwh time=1m 39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>108 Binche Weiche NNN1 - Ressaix</name>
+  <link href="https://brouter.damsy.net/latest/#map=15/50.4110/4.1774/osm-mapnik-german_style&amp;lonlats=4.175507,50.410577;4.190675,50.415394&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.410576" lon="4.175506"><ele>108.25</ele></trkpt>
+   <trkpt lat="50.41058" lon="4.175512"><ele>108.25</ele></trkpt>
+   <trkpt lat="50.411057" lon="4.176137"><ele>107</ele></trkpt>
+   <trkpt lat="50.411498" lon="4.176739"><ele>106</ele></trkpt>
+   <trkpt lat="50.411896" lon="4.177363"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.412141" lon="4.177791"><ele>102</ele></trkpt>
+   <trkpt lat="50.412374" lon="4.178253"><ele>100.25</ele></trkpt>
+   <trkpt lat="50.412584" lon="4.178708"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.412714" lon="4.179035"><ele>99.25</ele></trkpt>
+   <trkpt lat="50.412794" lon="4.179234"><ele>99</ele></trkpt>
+   <trkpt lat="50.412976" lon="4.179747"><ele>98.25</ele></trkpt>
+   <trkpt lat="50.413141" lon="4.180278"><ele>98</ele></trkpt>
+   <trkpt lat="50.413285" lon="4.180824"><ele>98</ele></trkpt>
+   <trkpt lat="50.41341" lon="4.181382"><ele>97.75</ele></trkpt>
+   <trkpt lat="50.414237" lon="4.185323"><ele>104.5</ele></trkpt>
+   <trkpt lat="50.415388" lon="4.190647"><ele>104.25</ele></trkpt>
+   <trkpt lat="50.415393" lon="4.190674"><ele>104</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
