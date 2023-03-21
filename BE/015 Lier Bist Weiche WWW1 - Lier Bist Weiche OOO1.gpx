@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=54 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Lier Bist Weiche WWW1 - Lier Bist Weiche OOO1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.14655/4.60211/osm-mapnik-german_style&amp;lonlats=4.599784,51.146256;4.60049,51.146437&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.146255" lon="4.599783"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.146301" lon="4.599962"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.146435" lon="4.600489"><ele>8.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

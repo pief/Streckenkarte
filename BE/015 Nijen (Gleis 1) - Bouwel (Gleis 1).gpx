@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5774 filtered ascend = 0 plain-ascend = 0 cost=5774 energy=0.1kwh time=7m 42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Nijen (Gleis 1) - Bouwel (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.16603/4.74933/osm-mapnik-german_style&amp;lonlats=4.666556,51.159767;4.748374,51.165839&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.159761" lon="4.666555"><ele>8</ele></trkpt>
+   <trkpt lat="51.159814" lon="4.66726"><ele>8</ele></trkpt>
+   <trkpt lat="51.160101" lon="4.671135"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.160303" lon="4.673861"><ele>6</ele></trkpt>
+   <trkpt lat="51.160409" lon="4.675293"><ele>6</ele></trkpt>
+   <trkpt lat="51.160769" lon="4.680131"><ele>5</ele></trkpt>
+   <trkpt lat="51.161361" lon="4.688081"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.161717" lon="4.692858"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.162418" lon="4.702286"><ele>8.5</ele></trkpt>
+   <trkpt lat="51.16297" lon="4.709711"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.163472" lon="4.716476"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.163713" lon="4.719716"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.164344" lon="4.728211"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.164526" lon="4.730663"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.16558" lon="4.744882"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.165672" lon="4.746132"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.165746" lon="4.747123"><ele>7</ele></trkpt>
+   <trkpt lat="51.165839" lon="4.748372"><ele>7.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

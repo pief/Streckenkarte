@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Lier Weiche OOO2 - Lier Weiche OOO3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.13611/4.56299/osm-mapnik-german_style&amp;lonlats=4.562842,51.136121;4.562934,51.136128&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.136121" lon="4.56284"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.136122" lon="4.562844"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.136128" lon="4.562932"><ele>6.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1488 filtered ascend = 0 plain-ascend = -3 cost=1488 energy=0.0kwh time=1m 59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>015 Lier Bist Weiche OOO1 - Kessel (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.15139/4.62017/osm-mapnik-german_style&amp;lonlats=4.60049,51.146437;4.620156,51.151458&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.146435" lon="4.600489"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.146437" lon="4.600495"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.147643" lon="4.60521"><ele>5</ele></trkpt>
+   <trkpt lat="51.147794" lon="4.605804"><ele>5</ele></trkpt>
+   <trkpt lat="51.150923" lon="4.618059"><ele>5.25</ele></trkpt>
+   <trkpt lat="51.151166" lon="4.619011"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.151175" lon="4.619046"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.151457" lon="4.620155"><ele>4.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
