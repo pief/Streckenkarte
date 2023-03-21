@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 746 filtered ascend = 0 plain-ascend = -3 cost=746 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>025 Mechelen-Nekkerspoel (Gleis 3) - Y Mechelen-Dijkstraat Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.03716/4.49216/osm-mapnik-german_style&amp;lonlats=4.490206,51.03028;4.49093,51.036916&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.03028" lon="4.490206"><ele>8</ele></trkpt>
+   <trkpt lat="51.030458" lon="4.490206"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.032025" lon="4.490207"><ele>7</ele></trkpt>
+   <trkpt lat="51.032548" lon="4.490224"><ele>6</ele></trkpt>
+   <trkpt lat="51.033057" lon="4.490254"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.033564" lon="4.490299"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.034047" lon="4.490366"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.034606" lon="4.490443"><ele>5.25</ele></trkpt>
+   <trkpt lat="51.035053" lon="4.490526"><ele>5</ele></trkpt>
+   <trkpt lat="51.036916" lon="4.490924"><ele>4.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

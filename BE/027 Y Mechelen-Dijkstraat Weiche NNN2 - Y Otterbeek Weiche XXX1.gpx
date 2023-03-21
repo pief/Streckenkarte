@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1705 filtered ascend = 0 plain-ascend = 0 cost=1705 energy=0.0kwh time=2m 16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>027 Y Mechelen-Dijkstraat Weiche NNN2 - Y Otterbeek Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.05428/4.49436/osm-mapnik-german_style&amp;lonlats=4.491297,51.039014;4.494127,51.054193&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.039013" lon="4.491297"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.040037" lon="4.491554"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.040627" lon="4.491688"><ele>5.25</ele></trkpt>
+   <trkpt lat="51.04114" lon="4.491792"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.041479" lon="4.491854"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.045849" lon="4.492636"><ele>5</ele></trkpt>
+   <trkpt lat="51.045905" lon="4.492647"><ele>5</ele></trkpt>
+   <trkpt lat="51.053307" lon="4.493969"><ele>7</ele></trkpt>
+   <trkpt lat="51.054191" lon="4.494126"><ele>7</ele></trkpt>
+   <trkpt lat="51.054192" lon="4.494126"><ele>6.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 316 filtered ascend = 0 plain-ascend = 0 cost=316 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>025 Mechelen (Gleis 7) - Mechelen Weiche NNN4</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.01972/4.48717/osm-mapnik-german_style&amp;lonlats=4.483902,51.017617;4.486641,51.019853&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.017615" lon="4.483904"><ele>12.25</ele></trkpt>
+   <trkpt lat="51.017699" lon="4.484011"><ele>12.25</ele></trkpt>
+   <trkpt lat="51.018571" lon="4.48511"><ele>11.75</ele></trkpt>
+   <trkpt lat="51.019085" lon="4.485733"><ele>11.75</ele></trkpt>
+   <trkpt lat="51.019849" lon="4.48664"><ele>12.5</ele></trkpt>
+   <trkpt lat="51.019851" lon="4.486642"><ele>12.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

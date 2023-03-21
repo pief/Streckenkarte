@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 0 plain-ascend = 1 cost=82 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>025 Y Mechelen-Dijkstraat Weiche SSS1 - 027 Y Mechelen-Dijkstraat Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.03758/4.49124/osm-mapnik-german_style&amp;lonlats=4.49093,51.036916;4.49101,51.037643&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.036916" lon="4.490924"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.036921" lon="4.490926"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.037642" lon="4.491009"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
