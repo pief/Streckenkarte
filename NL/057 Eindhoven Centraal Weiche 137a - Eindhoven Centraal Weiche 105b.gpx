@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 79 filtered ascend = 0 plain-ascend = 1 cost=79 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>057 Eindhoven Centraal Weiche 137a - Eindhoven Centraal Weiche 105b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.44381/5.48460/osm-mapnik-german_style&amp;lonlats=5.485985,51.443988;5.484893,51.443839&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.443988" lon="5.485983"><ele>18.5</ele></trkpt>
+   <trkpt lat="51.443955" lon="5.485743"><ele>18.75</ele></trkpt>
+   <trkpt lat="51.443885" lon="5.485238"><ele>18.75</ele></trkpt>
+   <trkpt lat="51.443837" lon="5.484892"><ele>19</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

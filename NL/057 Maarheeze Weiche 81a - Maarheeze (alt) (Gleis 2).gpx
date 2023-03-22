@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 800 filtered ascend = 4 plain-ascend = 3 cost=800 energy=0.0kwh time=1m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>057 Maarheeze Weiche 81a - Maarheeze (alt) (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.31489/5.62344/osm-mapnik-german_style&amp;lonlats=5.627118,51.308489;5.622237,51.314969&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.308489" lon="5.627118"><ele>25.75</ele></trkpt>
+   <trkpt lat="51.309933" lon="5.626002"><ele>27</ele></trkpt>
+   <trkpt lat="51.311822" lon="5.624542"><ele>30</ele></trkpt>
+   <trkpt lat="51.312372" lon="5.624135"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.313996" lon="5.622975"><ele>29.75</ele></trkpt>
+   <trkpt lat="51.314325" lon="5.622725"><ele>29.25</ele></trkpt>
+   <trkpt lat="51.314968" lon="5.622234"><ele>28.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
