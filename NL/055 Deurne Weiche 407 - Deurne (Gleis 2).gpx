@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 285 filtered ascend = 0 plain-ascend = 0 cost=285 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Deurne Weiche 407 - Deurne (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45575/5.78926/osm-mapnik-german_style&amp;lonlats=5.785576,51.456499;5.789481,51.455837&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.456497" lon="5.785575"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.456497" lon="5.785577"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.456177" lon="5.787463"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.456149" lon="5.787624"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.456109" lon="5.787862"><ele>27</ele></trkpt>
+   <trkpt lat="51.45607" lon="5.788089"><ele>27</ele></trkpt>
+   <trkpt lat="51.455834" lon="5.789479"><ele>26.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

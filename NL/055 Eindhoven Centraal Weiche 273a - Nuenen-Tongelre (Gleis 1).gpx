@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2561 filtered ascend = 0 plain-ascend = -1 cost=2561 energy=0.0kwh time=3m 25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Eindhoven Centraal Weiche 273a - Nuenen-Tongelre (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.45039/5.54670/osm-mapnik-german_style&amp;lonlats=5.508804,51.445519;5.544727,51.450146&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.445516" lon="5.508803"><ele>20</ele></trkpt>
+   <trkpt lat="51.445517" lon="5.508805"><ele>20</ele></trkpt>
+   <trkpt lat="51.445736" lon="5.5105"><ele>20</ele></trkpt>
+   <trkpt lat="51.445744" lon="5.510558"><ele>20</ele></trkpt>
+   <trkpt lat="51.445761" lon="5.510694"><ele>19.75</ele></trkpt>
+   <trkpt lat="51.445762" lon="5.510698"><ele>19.75</ele></trkpt>
+   <trkpt lat="51.446282" lon="5.514726"><ele>18</ele></trkpt>
+   <trkpt lat="51.446299" lon="5.514857"><ele>18.25</ele></trkpt>
+   <trkpt lat="51.446312" lon="5.514962"><ele>18.25</ele></trkpt>
+   <trkpt lat="51.446328" lon="5.515085"><ele>18.25</ele></trkpt>
+   <trkpt lat="51.446993" lon="5.520259"><ele>18.5</ele></trkpt>
+   <trkpt lat="51.446999" lon="5.5203"><ele>18.5</ele></trkpt>
+   <trkpt lat="51.447027" lon="5.52051"><ele>18.5</ele></trkpt>
+   <trkpt lat="51.447038" lon="5.520596"><ele>18.5</ele></trkpt>
+   <trkpt lat="51.448031" lon="5.528319"><ele>18.75</ele></trkpt>
+   <trkpt lat="51.448586" lon="5.532625"><ele>19.25</ele></trkpt>
+   <trkpt lat="51.449328" lon="5.53839"><ele>19.25</ele></trkpt>
+   <trkpt lat="51.449375" lon="5.53876"><ele>18.25</ele></trkpt>
+   <trkpt lat="51.449397" lon="5.53893"><ele>18</ele></trkpt>
+   <trkpt lat="51.450143" lon="5.544726"><ele>18.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

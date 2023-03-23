@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 9 filtered ascend = 0 plain-ascend = 0 cost=9 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Venlo Weiche 229a - Venlo Weiche 227b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.36718/6.16657/osm-mapnik-german_style&amp;lonlats=6.165953,51.367314;6.166058,51.367271&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.367314" lon="6.165953"/>
+   <trkpt lat="51.367268" lon="6.166055"/>
+  </trkseg>
+ </trk>
+</gpx>
