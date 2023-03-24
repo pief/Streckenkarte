@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 202 filtered ascend = 0 plain-ascend = 1 cost=202 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2850 Menden (Sauerland) Weiche 3 - Menden (Sauerland) (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.43517/7.79226/osm-mapnik-german_style&amp;lonlats=7.794368,51.434345;7.79192,51.435256&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.434343" lon="7.794366"><ele>144</ele></trkpt>
+   <trkpt lat="51.434345" lon="7.794364"><ele>144</ele></trkpt>
+   <trkpt lat="51.434422" lon="7.794163"><ele>144.25</ele></trkpt>
+   <trkpt lat="51.434677" lon="7.793431"><ele>144.25</ele></trkpt>
+   <trkpt lat="51.435036" lon="7.792457"><ele>144.75</ele></trkpt>
+   <trkpt lat="51.435217" lon="7.79201"><ele>144.75</ele></trkpt>
+   <trkpt lat="51.435256" lon="7.79192"><ele>144.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

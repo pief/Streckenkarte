@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 2 plain-ascend = 0 cost=183 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2853 Binolen Weiche 2 - Binolen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.37227/7.85951/osm-mapnik-german_style&amp;lonlats=7.858443,51.373719;7.859424,51.372235&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.373719" lon="7.858443"><ele>206.25</ele></trkpt>
+   <trkpt lat="51.373717" lon="7.858445"><ele>206.25</ele></trkpt>
+   <trkpt lat="51.373195" lon="7.858892"><ele>208</ele></trkpt>
+   <trkpt lat="51.373015" lon="7.859029"><ele>208.75</ele></trkpt>
+   <trkpt lat="51.372853" lon="7.859138"><ele>208.75</ele></trkpt>
+   <trkpt lat="51.372582" lon="7.859291"><ele>208.25</ele></trkpt>
+   <trkpt lat="51.372289" lon="7.859408"><ele>207</ele></trkpt>
+   <trkpt lat="51.372234" lon="7.859424"><ele>206.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

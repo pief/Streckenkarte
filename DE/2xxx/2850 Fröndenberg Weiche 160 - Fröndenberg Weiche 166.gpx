@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 0 plain-ascend = 1 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2850 Fröndenberg Weiche 160 - Fröndenberg Weiche 166</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/51.4676/7.7676/osm-mapnik-german_style&amp;lonlats=7.766984,51.469349;7.768619,51.46783&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.469348" lon="7.766983"><ele>126</ele></trkpt>
+   <trkpt lat="51.469191" lon="7.76713"><ele>126</ele></trkpt>
+   <trkpt lat="51.468338" lon="7.768066"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.46783" lon="7.768619"><ele>126.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

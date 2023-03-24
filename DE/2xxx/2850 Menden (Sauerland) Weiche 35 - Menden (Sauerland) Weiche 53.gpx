@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 277 filtered ascend = 0 plain-ascend = -2 cost=277 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2850 Menden (Sauerland) Weiche 35 - Menden (Sauerland) Weiche 53</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.44081/7.78377/osm-mapnik-german_style&amp;lonlats=7.785646,51.439045;7.783387,51.441042&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.439045" lon="7.785646"><ele>143.5</ele></trkpt>
+   <trkpt lat="51.439676" lon="7.7847"><ele>143.5</ele></trkpt>
+   <trkpt lat="51.439937" lon="7.784375"><ele>143.5</ele></trkpt>
+   <trkpt lat="51.44027" lon="7.784032"><ele>143.25</ele></trkpt>
+   <trkpt lat="51.440705" lon="7.783666"><ele>141.5</ele></trkpt>
+   <trkpt lat="51.441041" lon="7.783386"><ele>140.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

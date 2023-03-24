@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1109 filtered ascend = 0 plain-ascend = -3 cost=1109 energy=0.0kwh time=1m 29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2850 Bösperde (Gleis 1) - Fröndenberg Weiche 166</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46769/7.76927/osm-mapnik-german_style&amp;lonlats=7.77416,51.458608;7.768619,51.467831&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.458607" lon="7.774157"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.458677" lon="7.774127"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.462372" lon="7.772528"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.463687" lon="7.771914"><ele>125</ele></trkpt>
+   <trkpt lat="51.464661" lon="7.771355"><ele>124.25</ele></trkpt>
+   <trkpt lat="51.465527" lon="7.770721"><ele>124.25</ele></trkpt>
+   <trkpt lat="51.465969" lon="7.770379"><ele>124.25</ele></trkpt>
+   <trkpt lat="51.466411" lon="7.77001"><ele>126</ele></trkpt>
+   <trkpt lat="51.466506" lon="7.769922"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.466858" lon="7.769599"><ele>127</ele></trkpt>
+   <trkpt lat="51.46783" lon="7.76862"><ele>127</ele></trkpt>
+   <trkpt lat="51.46783" lon="7.768619"><ele>126.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
