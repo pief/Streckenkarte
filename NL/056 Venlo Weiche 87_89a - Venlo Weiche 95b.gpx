@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 0 plain-ascend = 0 cost=135 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>056 Venlo Weiche 87/89a - Venlo Weiche 95b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.36129/6.17649/osm-mapnik-german_style&amp;lonlats=6.175776,51.361448;6.174571,51.362384&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.361448" lon="6.175776"><ele>21.5</ele></trkpt>
+   <trkpt lat="51.361453" lon="6.17577"><ele>21.5</ele></trkpt>
+   <trkpt lat="51.362381" lon="6.174571"><ele>21.25</ele></trkpt>
+   <trkpt lat="51.362382" lon="6.174569"><ele>21.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
