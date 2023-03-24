@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 371 filtered ascend = 2 plain-ascend = 2 cost=371 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2864 Attendorn (Gleis 2) - Attendorn Weiche 5</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.12418/7.91322/osm-mapnik-german_style&amp;lonlats=7.908516,51.124565;7.913689,51.124203&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.124566" lon="7.908514"><ele>253.75</ele></trkpt>
+   <trkpt lat="51.124567" lon="7.908525"><ele>253.75</ele></trkpt>
+   <trkpt lat="51.124569" lon="7.909187"><ele>253.75</ele></trkpt>
+   <trkpt lat="51.124554" lon="7.909693"><ele>254</ele></trkpt>
+   <trkpt lat="51.1245" lon="7.910532"><ele>254.5</ele></trkpt>
+   <trkpt lat="51.124453" lon="7.910973"><ele>254.75</ele></trkpt>
+   <trkpt lat="51.124318" lon="7.912151"><ele>255.25</ele></trkpt>
+   <trkpt lat="51.124285" lon="7.912536"><ele>255.25</ele></trkpt>
+   <trkpt lat="51.12425" lon="7.91308"><ele>255.75</ele></trkpt>
+   <trkpt lat="51.124203" lon="7.913688"><ele>256</ele></trkpt>
+   <trkpt lat="51.124202" lon="7.913688"><ele>256</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

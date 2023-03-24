@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 2 plain-ascend = 1 cost=281 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2864 Finnentrop (Gleis 3) - Finnentrop Weiche 38</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.17202/7.96455/osm-mapnik-german_style&amp;lonlats=7.964508,51.173173;7.964668,51.170723&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.173172" lon="7.964506"><ele>238.25</ele></trkpt>
+   <trkpt lat="51.173147" lon="7.964499"><ele>238.5</ele></trkpt>
+   <trkpt lat="51.172468" lon="7.964338"><ele>240.75</ele></trkpt>
+   <trkpt lat="51.172216" lon="7.964318"><ele>240.5</ele></trkpt>
+   <trkpt lat="51.172076" lon="7.964318"><ele>240.5</ele></trkpt>
+   <trkpt lat="51.171981" lon="7.964321"><ele>240.5</ele></trkpt>
+   <trkpt lat="51.171696" lon="7.964358"><ele>240.5</ele></trkpt>
+   <trkpt lat="51.171497" lon="7.964409"><ele>240.5</ele></trkpt>
+   <trkpt lat="51.170723" lon="7.964669"><ele>238.75</ele></trkpt>
+   <trkpt lat="51.170723" lon="7.964668"><ele>238.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
