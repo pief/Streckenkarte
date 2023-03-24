@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3221 filtered ascend = 2 plain-ascend = 2 cost=3221 energy=0.0kwh time=4m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Griendtsveen Üst Weiche 399a - Helenaveen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.44578/5.88030/osm-mapnik-german_style&amp;lonlats=5.925788,51.441165;5.88011,51.445785&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.441164" lon="5.925787"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.441165" lon="5.925785"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.442235" lon="5.915213"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.442518" lon="5.912414"><ele>33</ele></trkpt>
+   <trkpt lat="51.444253" lon="5.895273"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.444595" lon="5.891889"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.444636" lon="5.891484"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.445786" lon="5.88011"><ele>33.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

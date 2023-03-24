@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1683 filtered ascend = 0 plain-ascend = 0 cost=1683 energy=0.0kwh time=2m 15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Helmond 't Hout (Gleis 1) - Helmond Brandevoort (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46239/5.60931/osm-mapnik-german_style&amp;lonlats=5.631223,51.468033;5.608813,51.462487&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.468024" lon="5.631227"><ele>18.5</ele></trkpt>
+   <trkpt lat="51.467652" lon="5.629721"><ele>18.75</ele></trkpt>
+   <trkpt lat="51.466631" lon="5.625605"><ele>19</ele></trkpt>
+   <trkpt lat="51.466628" lon="5.625591"><ele>19</ele></trkpt>
+   <trkpt lat="51.46653" lon="5.625196"><ele>19</ele></trkpt>
+   <trkpt lat="51.465914" lon="5.622693"><ele>17</ele></trkpt>
+   <trkpt lat="51.464257" lon="5.616"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.464254" lon="5.615986"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.463332" lon="5.612264"><ele>17</ele></trkpt>
+   <trkpt lat="51.463242" lon="5.611899"><ele>17</ele></trkpt>
+   <trkpt lat="51.463042" lon="5.611091"><ele>18</ele></trkpt>
+   <trkpt lat="51.463037" lon="5.611073"><ele>18</ele></trkpt>
+   <trkpt lat="51.462478" lon="5.608817"><ele>18</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

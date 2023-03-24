@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 579 filtered ascend = 3 plain-ascend = 3 cost=579 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Horst-Blerick Weiche 305a - Horst-Blerick (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.42698/6.04152/osm-mapnik-german_style&amp;lonlats=6.047805,51.423828;6.041253,51.427004&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.423825" lon="6.047801"><ele>24.25</ele></trkpt>
+   <trkpt lat="51.424785" lon="6.045822"><ele>25.75</ele></trkpt>
+   <trkpt lat="51.426102" lon="6.043111"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.426959" lon="6.041345"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.427004" lon="6.041253"><ele>27.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

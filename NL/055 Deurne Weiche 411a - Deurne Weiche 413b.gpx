@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 190 filtered ascend = 0 plain-ascend = 0 cost=190 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Deurne Weiche 411a - Deurne Weiche 413b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45688/5.78395/osm-mapnik-german_style&amp;lonlats=5.785584,51.456536;5.783004,51.456974&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.456532" lon="5.785582"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.456533" lon="5.785581"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.456695" lon="5.784633"><ele>26</ele></trkpt>
+   <trkpt lat="51.456712" lon="5.784531"><ele>26</ele></trkpt>
+   <trkpt lat="51.456728" lon="5.784438"><ele>26</ele></trkpt>
+   <trkpt lat="51.45697" lon="5.783005"><ele>26</ele></trkpt>
+   <trkpt lat="51.45697" lon="5.783002"><ele>25.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

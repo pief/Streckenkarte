@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4323 filtered ascend = 4 plain-ascend = 5 cost=4323 energy=0.1kwh time=5m 46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>055 Horst-Blerick Weiche 319b - America (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.43609/5.97513/osm-mapnik-german_style&amp;lonlats=6.035472,51.429446;5.974462,51.436213&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.429443" lon="6.035469"><ele>26</ele></trkpt>
+   <trkpt lat="51.429511" lon="6.035251"><ele>26</ele></trkpt>
+   <trkpt lat="51.429664" lon="6.034737"><ele>26.25</ele></trkpt>
+   <trkpt lat="51.429803" lon="6.034218"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.429871" lon="6.033933"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.430035" lon="6.033184"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.430115" lon="6.032775"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.43023" lon="6.032132"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.430356" lon="6.031321"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.43042" lon="6.030859"><ele>26.75</ele></trkpt>
+   <trkpt lat="51.430527" lon="6.029943"><ele>27</ele></trkpt>
+   <trkpt lat="51.43066" lon="6.028652"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.430698" lon="6.028281"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.430699" lon="6.028272"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.432051" lon="6.015123"><ele>26</ele></trkpt>
+   <trkpt lat="51.432639" lon="6.009401"><ele>26</ele></trkpt>
+   <trkpt lat="51.433305" lon="6.002896"><ele>27.25</ele></trkpt>
+   <trkpt lat="51.434546" lon="5.990757"><ele>28</ele></trkpt>
+   <trkpt lat="51.434742" lon="5.988849"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.435708" lon="5.979399"><ele>30.75</ele></trkpt>
+   <trkpt lat="51.43621" lon="5.974461"><ele>30.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
