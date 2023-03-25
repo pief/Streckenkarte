@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 0 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2239 Gelsenkirchen Hbf Weiche 143 - Gelsenkirchen Hbf Weiche 146</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.50822/7.11916/osm-mapnik-german_style&amp;lonlats=7.118837,51.508205;7.11921,51.50828&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.508203" lon="7.118836"><ele>52.25</ele></trkpt>
+   <trkpt lat="51.508204" lon="7.118841"><ele>52.5</ele></trkpt>
+   <trkpt lat="51.508279" lon="7.119209"><ele>52.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
