@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3 filtered ascend = 0 plain-ascend = 0 cost=3 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2153 Herne-Rottbruch Weiche 506 - Herne-Rottbruch Weiche 504</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.53461/7.20681/osm-mapnik-german_style&amp;lonlats=7.206377,51.534612;7.206377,51.534594&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.534611" lon="7.206373"/>
+   <trkpt lat="51.534611" lon="7.206374"/>
+   <trkpt lat="51.534594" lon="7.206377"/>
+  </trkseg>
+ </trk>
+</gpx>

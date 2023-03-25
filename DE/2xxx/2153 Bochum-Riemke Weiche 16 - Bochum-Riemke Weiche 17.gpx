@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 3 plain-ascend = 3 cost=120 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2153 Bochum-Riemke Weiche 16 - Bochum-Riemke Weiche 17</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.49510/7.20110/osm-mapnik-german_style&amp;lonlats=7.20079,51.495224;7.20061,51.494171&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.495222" lon="7.200791"><ele>79</ele></trkpt>
+   <trkpt lat="51.494786" lon="7.200724"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.494617" lon="7.200684"><ele>80.5</ele></trkpt>
+   <trkpt lat="51.494172" lon="7.200614"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.494169" lon="7.200613"><ele>82.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

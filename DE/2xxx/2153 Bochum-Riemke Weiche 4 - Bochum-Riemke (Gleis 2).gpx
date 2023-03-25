@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 437 filtered ascend = 6 plain-ascend = 7 cost=437 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2153 Bochum-Riemke Weiche 4 - Bochum-Riemke (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.51794/7.20544/osm-mapnik-german_style&amp;lonlats=7.204615,51.514046;7.205331,51.51791&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.514045" lon="7.204614"><ele>57.5</ele></trkpt>
+   <trkpt lat="51.514099" lon="7.204623"><ele>57.5</ele></trkpt>
+   <trkpt lat="51.514187" lon="7.204638"><ele>57</ele></trkpt>
+   <trkpt lat="51.515241" lon="7.204811"><ele>59.75</ele></trkpt>
+   <trkpt lat="51.515469" lon="7.20484"><ele>59.5</ele></trkpt>
+   <trkpt lat="51.515678" lon="7.20488"><ele>59.25</ele></trkpt>
+   <trkpt lat="51.515917" lon="7.204918"><ele>59.25</ele></trkpt>
+   <trkpt lat="51.516637" lon="7.205036"><ele>62.75</ele></trkpt>
+   <trkpt lat="51.517074" lon="7.205123"><ele>63.25</ele></trkpt>
+   <trkpt lat="51.517765" lon="7.205301"><ele>64</ele></trkpt>
+   <trkpt lat="51.517879" lon="7.205331"><ele>64</ele></trkpt>
+   <trkpt lat="51.517908" lon="7.205339"><ele>64</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

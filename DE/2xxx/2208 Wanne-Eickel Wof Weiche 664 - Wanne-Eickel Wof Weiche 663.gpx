@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2208 Wanne-Eickel Wof Weiche 664 - Wanne-Eickel Wof Weiche 663</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.53805/7.18735/osm-mapnik-german_style&amp;lonlats=7.188127,51.538324;7.187229,51.538194&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.538324" lon="7.188127"><ele>50.75</ele></trkpt>
+   <trkpt lat="51.538255" lon="7.187584"><ele>50.5</ele></trkpt>
+   <trkpt lat="51.538195" lon="7.18723"><ele>50.25</ele></trkpt>
+   <trkpt lat="51.538194" lon="7.187227"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

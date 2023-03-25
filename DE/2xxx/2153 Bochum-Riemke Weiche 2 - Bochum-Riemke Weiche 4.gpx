@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 223 filtered ascend = 0 plain-ascend = -5 cost=223 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2153 Bochum-Riemke Weiche 2 - Bochum-Riemke Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.51409/7.20491/osm-mapnik-german_style&amp;lonlats=7.204295,51.512077;7.204615,51.514046&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.512075" lon="7.204297"><ele>63.75</ele></trkpt>
+   <trkpt lat="51.512077" lon="7.204298"><ele>64</ele></trkpt>
+   <trkpt lat="51.514045" lon="7.204614"><ele>57.75</ele></trkpt>
+   <trkpt lat="51.514045" lon="7.204614"><ele>57.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
