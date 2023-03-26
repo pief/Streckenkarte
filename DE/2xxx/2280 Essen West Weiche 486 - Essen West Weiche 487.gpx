@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = 0 cost=77 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2280 Essen West Weiche 486 - Essen West Weiche 487</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45322/6.98650/osm-mapnik-german_style&amp;lonlats=6.985765,51.453393;6.986792,51.453164&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.453392" lon="6.985764"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.453167" lon="6.98679"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.453166" lon="6.986793"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

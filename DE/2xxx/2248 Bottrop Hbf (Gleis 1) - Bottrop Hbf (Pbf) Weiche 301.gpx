@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 535 filtered ascend = 2 plain-ascend = 3 cost=535 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2248 Bottrop Hbf (Gleis 1) - Bottrop Hbf (Pbf) Weiche 301</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.50656/6.93186/osm-mapnik-german_style&amp;lonlats=6.936546,51.509542;6.931171,51.506238&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.509539" lon="6.936549"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.508853" lon="6.935765"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.508525" lon="6.935385"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.508119" lon="6.93489"><ele>33</ele></trkpt>
+   <trkpt lat="51.507737" lon="6.934317"><ele>33.75</ele></trkpt>
+   <trkpt lat="51.507468" lon="6.933887"><ele>34</ele></trkpt>
+   <trkpt lat="51.507247" lon="6.933504"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.506627" lon="6.93219"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.506237" lon="6.931175"><ele>38</ele></trkpt>
+   <trkpt lat="51.506236" lon="6.931171"><ele>38</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

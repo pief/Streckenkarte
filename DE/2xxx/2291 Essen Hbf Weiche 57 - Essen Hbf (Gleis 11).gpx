@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 337 filtered ascend = 3 plain-ascend = 0 cost=337 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2291 Essen Hbf Weiche 57 - Essen Hbf (Gleis 11)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45117/7.01462/osm-mapnik-german_style&amp;lonlats=7.009748,51.450817;7.014528,51.451167&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.450815" lon="7.009747"><ele>88.5</ele></trkpt>
+   <trkpt lat="51.450816" lon="7.009749"><ele>88.5</ele></trkpt>
+   <trkpt lat="51.450891" lon="7.010832"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.450987" lon="7.012109"><ele>92</ele></trkpt>
+   <trkpt lat="51.451122" lon="7.013958"><ele>88.5</ele></trkpt>
+   <trkpt lat="51.451169" lon="7.014526"><ele>88.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

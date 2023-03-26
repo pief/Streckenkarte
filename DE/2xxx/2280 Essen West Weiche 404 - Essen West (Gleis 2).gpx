@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = -6 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2280 Essen West Weiche 404 - Essen West (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45449/6.97963/osm-mapnik-german_style&amp;lonlats=6.974967,51.455329;6.980236,51.454383&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.455327" lon="6.974966"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.455327" lon="6.974967"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.455208" lon="6.975768"><ele>81.75</ele></trkpt>
+   <trkpt lat="51.455139" lon="6.976185"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.454834" lon="6.977829"><ele>78.5</ele></trkpt>
+   <trkpt lat="51.454405" lon="6.980117"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.454382" lon="6.980235"><ele>76.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

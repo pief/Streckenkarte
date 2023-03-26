@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2250 Bottrop Hbf (Pbf) Weiche 320 - Bottrop Hbf (Pbf) Weiche 319</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.51272/6.94097/osm-mapnik-german_style&amp;lonlats=6.94059,51.512768;6.940428,51.512614&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.512768" lon="6.94059"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.512616" lon="6.940427"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.512614" lon="6.940424"><ele>36.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
