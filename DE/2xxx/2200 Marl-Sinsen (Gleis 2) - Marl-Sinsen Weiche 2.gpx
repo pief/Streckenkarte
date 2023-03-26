@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1098 filtered ascend = 2 plain-ascend = 0 cost=1098 energy=0.0kwh time=1m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2200 Marl-Sinsen (Gleis 2) - Marl-Sinsen Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.66028/7.18319/osm-mapnik-german_style&amp;lonlats=7.173201,51.667833;7.183122,51.660201&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.667833" lon="7.173201"><ele>64.75</ele></trkpt>
+   <trkpt lat="51.667729" lon="7.173336"><ele>65.25</ele></trkpt>
+   <trkpt lat="51.667544" lon="7.173576"><ele>65.75</ele></trkpt>
+   <trkpt lat="51.666697" lon="7.174678"><ele>65.5</ele></trkpt>
+   <trkpt lat="51.664591" lon="7.177414"><ele>67.25</ele></trkpt>
+   <trkpt lat="51.663075" lon="7.179384"><ele>66.75</ele></trkpt>
+   <trkpt lat="51.662281" lon="7.180416"><ele>65.75</ele></trkpt>
+   <trkpt lat="51.661628" lon="7.181263"><ele>67.25</ele></trkpt>
+   <trkpt lat="51.660467" lon="7.182772"><ele>65.25</ele></trkpt>
+   <trkpt lat="51.660382" lon="7.182883"><ele>65</ele></trkpt>
+   <trkpt lat="51.660235" lon="7.18307"><ele>64.75</ele></trkpt>
+   <trkpt lat="51.660198" lon="7.183118"><ele>64.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

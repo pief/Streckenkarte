@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 6 plain-ascend = 7 cost=196 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2200 Marl Lippe Weiche 10 - Marl Lippe Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.70654/7.15415/osm-mapnik-german_style&amp;lonlats=7.154393,51.707636;7.15336,51.706015&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.707634" lon="7.154395"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.706175" lon="7.153466"><ele>50.75</ele></trkpt>
+   <trkpt lat="51.706015" lon="7.153364"><ele>51.25</ele></trkpt>
+   <trkpt lat="51.706013" lon="7.153363"><ele>51.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

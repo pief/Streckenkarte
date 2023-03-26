@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1036 filtered ascend = 0 plain-ascend = -5 cost=1036 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2200 Recklinghausen Hbf Weiche 63 - Recklinghausen Hbf (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.61608/7.20363/osm-mapnik-german_style&amp;lonlats=7.20738,51.624988;7.203235,51.616098&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.624988" lon="7.20738"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.624444" lon="7.207203"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.624172" lon="7.2071"><ele>77</ele></trkpt>
+   <trkpt lat="51.623762" lon="7.206925"><ele>77</ele></trkpt>
+   <trkpt lat="51.623283" lon="7.206708"><ele>77</ele></trkpt>
+   <trkpt lat="51.622484" lon="7.206337"><ele>79.25</ele></trkpt>
+   <trkpt lat="51.621565" lon="7.205893"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.620331" lon="7.205291"><ele>74</ele></trkpt>
+   <trkpt lat="51.61663" lon="7.203484"><ele>73.75</ele></trkpt>
+   <trkpt lat="51.616109" lon="7.203237"><ele>74</ele></trkpt>
+   <trkpt lat="51.616097" lon="7.203232"><ele>74</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
