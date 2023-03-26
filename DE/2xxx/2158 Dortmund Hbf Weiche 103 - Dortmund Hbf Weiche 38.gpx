@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 1 plain-ascend = 2 cost=125 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2158 Dortmund Hbf Weiche 103 - Dortmund Hbf Weiche 38</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.51655/7.45158/osm-mapnik-german_style&amp;lonlats=7.452807,51.516898;7.451236,51.516413">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.516895" lon="7.452807"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.516896" lon="7.45281"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.516732" lon="7.452276"><ele>82</ele></trkpt>
+   <trkpt lat="51.516575" lon="7.451765"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.516491" lon="7.451496"><ele>83</ele></trkpt>
+   <trkpt lat="51.51641" lon="7.451237"><ele>83.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
