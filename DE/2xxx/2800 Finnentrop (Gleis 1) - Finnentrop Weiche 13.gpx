@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1197 filtered ascend = 1 plain-ascend = 0 cost=1197 energy=0.0kwh time=1m 36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2800 Finnentrop (Gleis 1) - Finnentrop Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.18245/7.97245/osm-mapnik-german_style&amp;lonlats=7.964744,51.173168;7.972409,51.182528&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.173166" lon="7.964745"><ele>239</ele></trkpt>
+   <trkpt lat="51.174162" lon="7.965065"><ele>238</ele></trkpt>
+   <trkpt lat="51.174203" lon="7.965078"><ele>238.25</ele></trkpt>
+   <trkpt lat="51.174368" lon="7.965132"><ele>238.5</ele></trkpt>
+   <trkpt lat="51.174813" lon="7.965274"><ele>239.25</ele></trkpt>
+   <trkpt lat="51.175723" lon="7.965574"><ele>239.75</ele></trkpt>
+   <trkpt lat="51.176005" lon="7.965704"><ele>239.5</ele></trkpt>
+   <trkpt lat="51.176244" lon="7.965853"><ele>239</ele></trkpt>
+   <trkpt lat="51.176552" lon="7.966087"><ele>238</ele></trkpt>
+   <trkpt lat="51.177691" lon="7.967078"><ele>239.5</ele></trkpt>
+   <trkpt lat="51.177889" lon="7.967264"><ele>240.5</ele></trkpt>
+   <trkpt lat="51.178249" lon="7.967643"><ele>240.5</ele></trkpt>
+   <trkpt lat="51.180091" lon="7.969698"><ele>236.75</ele></trkpt>
+   <trkpt lat="51.18032" lon="7.969955"><ele>236.25</ele></trkpt>
+   <trkpt lat="51.180895" lon="7.9706"><ele>238.5</ele></trkpt>
+   <trkpt lat="51.182031" lon="7.971871"><ele>237</ele></trkpt>
+   <trkpt lat="51.182527" lon="7.972408"><ele>239</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
