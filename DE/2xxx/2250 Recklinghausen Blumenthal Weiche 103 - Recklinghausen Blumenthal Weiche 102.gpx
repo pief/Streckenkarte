@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 357 filtered ascend = 2 plain-ascend = 3 cost=357 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2250 Recklinghausen Blumenthal Weiche 103 - Recklinghausen Blumenthal Weiche 102</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.59816/7.20267/osm-mapnik-german_style&amp;lonlats=7.20482,51.598662;7.199815,51.598427&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.598662" lon="7.20482"><ele>61</ele></trkpt>
+   <trkpt lat="51.598653" lon="7.204757"><ele>61</ele></trkpt>
+   <trkpt lat="51.598629" lon="7.204593"><ele>61</ele></trkpt>
+   <trkpt lat="51.598594" lon="7.20431"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.598475" lon="7.203287"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.598446" lon="7.202956"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.598399" lon="7.202419"><ele>61</ele></trkpt>
+   <trkpt lat="51.598377" lon="7.201928"><ele>61</ele></trkpt>
+   <trkpt lat="51.598369" lon="7.201394"><ele>61.5</ele></trkpt>
+   <trkpt lat="51.598378" lon="7.200806"><ele>63</ele></trkpt>
+   <trkpt lat="51.598424" lon="7.199814"><ele>63.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
