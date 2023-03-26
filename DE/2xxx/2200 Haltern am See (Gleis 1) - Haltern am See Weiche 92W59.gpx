@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226 filtered ascend = 0 plain-ascend = 0 cost=226 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2200 Haltern am See (Gleis 1) - Haltern am See Weiche 92W59</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.73795/7.18492/osm-mapnik-german_style&amp;lonlats=7.184282,51.737751;7.181674,51.736574&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.737747" lon="7.184284"><ele>40</ele></trkpt>
+   <trkpt lat="51.737646" lon="7.184054"><ele>40</ele></trkpt>
+   <trkpt lat="51.737443" lon="7.183607"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.737426" lon="7.183569"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.736959" lon="7.182541"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.736575" lon="7.181673"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.736574" lon="7.181671"><ele>38.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

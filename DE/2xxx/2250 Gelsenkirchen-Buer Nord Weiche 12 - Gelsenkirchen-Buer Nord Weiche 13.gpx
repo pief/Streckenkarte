@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 0 plain-ascend = 0 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2250 Gelsenkirchen-Buer Nord Weiche 12 - Gelsenkirchen-Buer Nord Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.58489/7.04464/osm-mapnik-german_style&amp;lonlats=7.043189,51.584762;7.044347,51.585082&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.584761" lon="7.043188"><ele>77</ele></trkpt>
+   <trkpt lat="51.584762" lon="7.04319"><ele>77</ele></trkpt>
+   <trkpt lat="51.584828" lon="7.043465"><ele>77</ele></trkpt>
+   <trkpt lat="51.585078" lon="7.044346"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.585078" lon="7.044348"><ele>76.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

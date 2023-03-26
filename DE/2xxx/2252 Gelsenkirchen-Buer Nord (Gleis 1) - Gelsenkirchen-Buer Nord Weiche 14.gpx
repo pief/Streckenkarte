@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 500 filtered ascend = 6 plain-ascend = 7 cost=500 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2252 Gelsenkirchen-Buer Nord (Gleis 1) - Gelsenkirchen-Buer Nord Weiche 14</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.58739/7.05167/osm-mapnik-german_style&amp;lonlats=7.050996,51.587363;7.044782,51.585205&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.587361" lon="7.050996"><ele>69</ele></trkpt>
+   <trkpt lat="51.587101" lon="7.050171"><ele>69.5</ele></trkpt>
+   <trkpt lat="51.586969" lon="7.049754"><ele>70</ele></trkpt>
+   <trkpt lat="51.586834" lon="7.049348"><ele>70.25</ele></trkpt>
+   <trkpt lat="51.586646" lon="7.048783"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.586497" lon="7.04834"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.586399" lon="7.048046"><ele>70.75</ele></trkpt>
+   <trkpt lat="51.586065" lon="7.047048"><ele>72.5</ele></trkpt>
+   <trkpt lat="51.585968" lon="7.046776"><ele>73</ele></trkpt>
+   <trkpt lat="51.585667" lon="7.045996"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.585461" lon="7.0455"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.585361" lon="7.04524"><ele>75</ele></trkpt>
+   <trkpt lat="51.585204" lon="7.044787"><ele>75.75</ele></trkpt>
+   <trkpt lat="51.585202" lon="7.044782"><ele>75.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
