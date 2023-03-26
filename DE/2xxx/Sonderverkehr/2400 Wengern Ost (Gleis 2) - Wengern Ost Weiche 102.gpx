@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 261 filtered ascend = 0 plain-ascend = -1 cost=261 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2400 Wengern Ost (Gleis 2) - Wengern Ost Weiche 102</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.40132/7.34938/osm-mapnik-german_style&amp;lonlats=7.350938,51.399573;7.34877,51.401441&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.399573" lon="7.350938"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.399653" lon="7.350821"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.399843" lon="7.350551"><ele>90.25</ele></trkpt>
+   <trkpt lat="51.400056" lon="7.350271"><ele>89.75</ele></trkpt>
+   <trkpt lat="51.400287" lon="7.349991"><ele>89.25</ele></trkpt>
+   <trkpt lat="51.400841" lon="7.349396"><ele>90</ele></trkpt>
+   <trkpt lat="51.40133" lon="7.348885"><ele>89.5</ele></trkpt>
+   <trkpt lat="51.401439" lon="7.348767"><ele>89.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
