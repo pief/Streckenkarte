@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 1 plain-ascend = 1 cost=254 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Oberbarmen (Gleis 3) - Wuppertal-Oberbarmen Weiche 143</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.27426/7.22429/osm-mapnik-german_style&amp;lonlats=7.221238,51.273941;7.224774,51.274351">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.273941" lon="7.221237"><ele>162</ele></trkpt>
+   <trkpt lat="51.273943" lon="7.221246"><ele>162</ele></trkpt>
+   <trkpt lat="51.274059" lon="7.22226"><ele>162</ele></trkpt>
+   <trkpt lat="51.274237" lon="7.223804"><ele>163.25</ele></trkpt>
+   <trkpt lat="51.274327" lon="7.224582"><ele>163.25</ele></trkpt>
+   <trkpt lat="51.27435" lon="7.224776"><ele>163.25</ele></trkpt>
+   <trkpt lat="51.274349" lon="7.224773"><ele>163.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

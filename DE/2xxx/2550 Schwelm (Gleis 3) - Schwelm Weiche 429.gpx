@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 468 filtered ascend = 4 plain-ascend = 4 cost=468 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Schwelm (Gleis 3) - Schwelm Weiche 429</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.29051/7.29592/osm-mapnik-german_style&amp;lonlats=7.289643,51.290577;7.296258,51.290711">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.290571" lon="7.289643"><ele>211.5</ele></trkpt>
+   <trkpt lat="51.290603" lon="7.290012"><ele>211.5</ele></trkpt>
+   <trkpt lat="51.290654" lon="7.29074"><ele>211.75</ele></trkpt>
+   <trkpt lat="51.290681" lon="7.291254"><ele>212.5</ele></trkpt>
+   <trkpt lat="51.290696" lon="7.291665"><ele>213.25</ele></trkpt>
+   <trkpt lat="51.290711" lon="7.292406"><ele>213.25</ele></trkpt>
+   <trkpt lat="51.290716" lon="7.292811"><ele>213.5</ele></trkpt>
+   <trkpt lat="51.29071" lon="7.29626"><ele>215.5</ele></trkpt>
+   <trkpt lat="51.29071" lon="7.296257"><ele>215.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

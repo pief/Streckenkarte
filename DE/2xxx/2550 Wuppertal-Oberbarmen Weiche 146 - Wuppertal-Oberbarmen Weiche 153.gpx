@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 290 filtered ascend = 7 plain-ascend = 7 cost=290 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Oberbarmen Weiche 146 - Wuppertal-Oberbarmen Weiche 153</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.27492/7.22916/osm-mapnik-german_style&amp;lonlats=7.2256,51.274446;7.229656,51.274919">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.274445" lon="7.2256"><ele>164.25</ele></trkpt>
+   <trkpt lat="51.274567" lon="7.226653"><ele>166.75</ele></trkpt>
+   <trkpt lat="51.274791" lon="7.228587"><ele>171</ele></trkpt>
+   <trkpt lat="51.274915" lon="7.229649"><ele>171.25</ele></trkpt>
+   <trkpt lat="51.274915" lon="7.229656"><ele>171</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
