@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 378 filtered ascend = 0 plain-ascend = 0 cost=756 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Kampstraße - Hauptbahnhof</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.51822/7.46051/osm-mapnik-german_style&amp;lonlats=7.462201,51.515156;7.460331,51.51821&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.515156" lon="7.462202"/>
+   <trkpt lat="51.515717" lon="7.46202"/>
+   <trkpt lat="51.515817" lon="7.461975"/>
+   <trkpt lat="51.515922" lon="7.461908"/>
+   <trkpt lat="51.516009" lon="7.461839"/>
+   <trkpt lat="51.516161" lon="7.461691"/>
+   <trkpt lat="51.516358" lon="7.461477"/>
+   <trkpt lat="51.516776" lon="7.460998"/>
+   <trkpt lat="51.516889" lon="7.460879"/>
+   <trkpt lat="51.517033" lon="7.460746"/>
+   <trkpt lat="51.517224" lon="7.460607"/>
+   <trkpt lat="51.517396" lon="7.460523"/>
+   <trkpt lat="51.517569" lon="7.460457"/>
+   <trkpt lat="51.518208" lon="7.460333"/>
+   <trkpt lat="51.51821" lon="7.460332"/>
+  </trkseg>
+ </trk>
+</gpx>

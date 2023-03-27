@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 170 filtered ascend = 0 plain-ascend = 0 cost=340 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Markgrafenstraße (Mittelgleis) - Markgrafenstraße Einmündung</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.50308/7.47459/osm-mapnik-german_style&amp;lonlats=7.473026,51.502612;7.471877,51.503936&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.502612" lon="7.473027"/>
+   <trkpt lat="51.502616" lon="7.473024"/>
+   <trkpt lat="51.503187" lon="7.472464"/>
+   <trkpt lat="51.503776" lon="7.471973"/>
+   <trkpt lat="51.50393" lon="7.471883"/>
+   <trkpt lat="51.503936" lon="7.471877"/>
+  </trkseg>
+ </trk>
+</gpx>

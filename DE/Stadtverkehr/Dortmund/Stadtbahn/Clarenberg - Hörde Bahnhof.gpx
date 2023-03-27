@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 636 filtered ascend = 0 plain-ascend = 0 cost=1272 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Clarenberg - Hörde Bahnhof</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.48869/7.50070/osm-mapnik-german_style&amp;lonlats=7.501699,51.482911;7.500679,51.488503&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.48291" lon="7.501697"/>
+   <trkpt lat="51.483061" lon="7.501656"/>
+   <trkpt lat="51.483151" lon="7.501642"/>
+   <trkpt lat="51.483823" lon="7.501586"/>
+   <trkpt lat="51.484593" lon="7.501628"/>
+   <trkpt lat="51.484896" lon="7.501662"/>
+   <trkpt lat="51.485401" lon="7.501678"/>
+   <trkpt lat="51.485732" lon="7.501641"/>
+   <trkpt lat="51.486371" lon="7.501434"/>
+   <trkpt lat="51.486748" lon="7.501296"/>
+   <trkpt lat="51.487762" lon="7.500949"/>
+   <trkpt lat="51.487867" lon="7.500921"/>
+   <trkpt lat="51.488503" lon="7.500679"/>
+  </trkseg>
+ </trk>
+</gpx>

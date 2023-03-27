@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 645 filtered ascend = 0 plain-ascend = 0 cost=1290 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Stadthaus - Markgrafenstraße (Westgleis)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.50281/7.47317/osm-mapnik-german_style&amp;lonlats=7.469228,51.507781;7.472972,51.502592&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.507778" lon="7.469219"/>
+   <trkpt lat="51.507777" lon="7.46922"/>
+   <trkpt lat="51.506675" lon="7.470195"/>
+   <trkpt lat="51.506463" lon="7.470357"/>
+   <trkpt lat="51.505944" lon="7.470724"/>
+   <trkpt lat="51.505643" lon="7.470881"/>
+   <trkpt lat="51.505371" lon="7.470999"/>
+   <trkpt lat="51.504732" lon="7.471252"/>
+   <trkpt lat="51.50446" lon="7.471385"/>
+   <trkpt lat="51.504193" lon="7.471536"/>
+   <trkpt lat="51.504088" lon="7.471618"/>
+   <trkpt lat="51.503163" lon="7.472401"/>
+   <trkpt lat="51.502596" lon="7.472964"/>
+   <trkpt lat="51.50259" lon="7.472969"/>
+  </trkseg>
+ </trk>
+</gpx>

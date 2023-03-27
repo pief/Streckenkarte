@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 747 filtered ascend = 0 plain-ascend = -1 cost=1209 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Hörde Bahnhof - Willem-van-Vloten-Straße</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.49475/7.49761/osm-mapnik-german_style&amp;lonlats=7.500679,51.488503;7.497458,51.494856&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.488503" lon="7.500679"/>
+   <trkpt lat="51.488506" lon="7.500678"/>
+   <trkpt lat="51.48922" lon="7.500408"/>
+   <trkpt lat="51.489945" lon="7.500085"/>
+   <trkpt lat="51.490747" lon="7.49967"/>
+   <trkpt lat="51.491049" lon="7.499489"><ele>103.75</ele></trkpt>
+   <trkpt lat="51.49167" lon="7.499144"><ele>99.75</ele></trkpt>
+   <trkpt lat="51.492385" lon="7.498715"><ele>98.75</ele></trkpt>
+   <trkpt lat="51.492885" lon="7.498421"><ele>99.75</ele></trkpt>
+   <trkpt lat="51.493165" lon="7.498275"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.49345" lon="7.498145"><ele>102</ele></trkpt>
+   <trkpt lat="51.494361" lon="7.497728"><ele>102</ele></trkpt>
+   <trkpt lat="51.494855" lon="7.497458"><ele>102</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

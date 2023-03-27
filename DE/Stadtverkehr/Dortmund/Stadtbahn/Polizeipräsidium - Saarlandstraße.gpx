@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 541 filtered ascend = 0 plain-ascend = 0 cost=1082 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Polizeipräsidium - Saarlandstraße</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.50571/7.46017/osm-mapnik-german_style&amp;lonlats=7.459113,51.501023;7.460028,51.505742&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.501023" lon="7.459114"/>
+   <trkpt lat="51.501144" lon="7.459097"/>
+   <trkpt lat="51.501507" lon="7.459044"/>
+   <trkpt lat="51.502427" lon="7.458922"/>
+   <trkpt lat="51.502919" lon="7.458891"/>
+   <trkpt lat="51.503157" lon="7.458895"/>
+   <trkpt lat="51.503611" lon="7.458992"/>
+   <trkpt lat="51.503988" lon="7.459154"/>
+   <trkpt lat="51.505008" lon="7.459664"/>
+   <trkpt lat="51.505205" lon="7.459754"/>
+   <trkpt lat="51.505737" lon="7.460026"/>
+   <trkpt lat="51.50574" lon="7.460028"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 2 plain-ascend = 3 cost=182 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Westfalenhallen Üst Südost - Westfalenhallen</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.49674/7.46064/osm-mapnik-german_style&amp;lonlats=7.460122,51.495871;7.459982,51.496948&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.495871" lon="7.460122"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.49587" lon="7.460123"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.496056" lon="7.460106"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.49627" lon="7.46008"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.496449" lon="7.46008"><ele>119</ele></trkpt>
+   <trkpt lat="51.496855" lon="7.460013"><ele>119</ele></trkpt>
+   <trkpt lat="51.496946" lon="7.459989"><ele>119</ele></trkpt>
+   <trkpt lat="51.496948" lon="7.459988"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
