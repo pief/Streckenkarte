@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=0 energy=0.0kwh time=3.4400000000000004s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Campus Nord (Ostgleis) - Campus Nord Weiche Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.49237/7.41593/osm-mapnik-german_style&amp;lonlats=7.415735,51.492522;7.415804,51.492327;7.415876,51.492153&amp;straight=0,1&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.49252219860875" lon="7.415735269686193"/>
+   <trkpt lat="51.49232685478528" lon="7.415803599992966"/>
+   <trkpt lat="51.49215318748875" lon="7.415875970119018"/>
+  </trkseg>
+ </trk>
+</gpx>

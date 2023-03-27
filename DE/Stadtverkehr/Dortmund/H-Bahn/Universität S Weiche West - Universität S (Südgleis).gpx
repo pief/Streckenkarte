@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=0 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Universität S Weiche West - Universität S (Südgleis)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.49224/7.41733/osm-mapnik-german_style&amp;lonlats=7.416674,51.492172;7.416946,51.492222;7.417362,51.492274&amp;straight=0,1&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.49217242433323" lon="7.416673859796546"/>
+   <trkpt lat="51.49222186062167" lon="7.416946060842609"/>
+   <trkpt lat="51.492273510799734" lon="7.417361737640032"/>
+  </trkseg>
+ </trk>
+</gpx>

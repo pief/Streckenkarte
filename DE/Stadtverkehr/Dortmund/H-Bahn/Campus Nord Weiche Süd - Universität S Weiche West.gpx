@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 0 plain-ascend = 0 cost=0 energy=0.0kwh time=6.5600000000000005s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Campus Nord Weiche Süd - Universität S Weiche West</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.49218/7.41687/osm-mapnik-german_style&amp;lonlats=7.416372,51.491522;7.416395,51.491801;7.41642,51.491903;7.416471,51.492019;7.416546,51.492096;7.416674,51.492172&amp;straight=0,1,2,3,4&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.49152191195498" lon="7.41637217222678"/>
+   <trkpt lat="51.49180080317626" lon="7.416394954074429"/>
+   <trkpt lat="51.49190258308553" lon="7.4164204310394455"/>
+   <trkpt lat="51.49201870691422" lon="7.416471384969402"/>
+   <trkpt lat="51.49209556568851" lon="7.416546474971538"/>
+   <trkpt lat="51.49217242433323" lon="7.416673859796546"/>
+  </trkseg>
+ </trk>
+</gpx>
