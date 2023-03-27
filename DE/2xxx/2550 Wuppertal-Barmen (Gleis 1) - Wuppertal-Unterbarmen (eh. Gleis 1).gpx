@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1912 filtered ascend = 9 plain-ascend = 3 cost=1912 energy=0.0kwh time=2m 33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Barmen (Gleis 1) - Wuppertal-Unterbarmen (eh. Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.25882/7.17172/osm-mapnik-german_style&amp;lonlats=7.194854,51.267104;7.170953,51.258972&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.267099" lon="7.194856"><ele>157.25</ele></trkpt>
+   <trkpt lat="51.267033" lon="7.194637"><ele>157.25</ele></trkpt>
+   <trkpt lat="51.266885" lon="7.194178"><ele>156.75</ele></trkpt>
+   <trkpt lat="51.266307" lon="7.192485"><ele>156.75</ele></trkpt>
+   <trkpt lat="51.26603" lon="7.191652"><ele>156.75</ele></trkpt>
+   <trkpt lat="51.265821" lon="7.190956"><ele>158</ele></trkpt>
+   <trkpt lat="51.264786" lon="7.187244"><ele>163</ele></trkpt>
+   <trkpt lat="51.264575" lon="7.186509"><ele>164</ele></trkpt>
+   <trkpt lat="51.264337" lon="7.185733"><ele>163.75</ele></trkpt>
+   <trkpt lat="51.264129" lon="7.185091"><ele>163</ele></trkpt>
+   <trkpt lat="51.263305" lon="7.182621"><ele>166.5</ele></trkpt>
+   <trkpt lat="51.262755" lon="7.181039"><ele>166.25</ele></trkpt>
+   <trkpt lat="51.262352" lon="7.179901"><ele>164.25</ele></trkpt>
+   <trkpt lat="51.262154" lon="7.179371"><ele>164.5</ele></trkpt>
+   <trkpt lat="51.261971" lon="7.178882"><ele>164.5</ele></trkpt>
+   <trkpt lat="51.260878" lon="7.175866"><ele>162.75</ele></trkpt>
+   <trkpt lat="51.259895" lon="7.173197"><ele>160.5</ele></trkpt>
+   <trkpt lat="51.259716" lon="7.172713"><ele>161</ele></trkpt>
+   <trkpt lat="51.25946" lon="7.172068"><ele>161.25</ele></trkpt>
+   <trkpt lat="51.259084" lon="7.171198"><ele>160.25</ele></trkpt>
+   <trkpt lat="51.258973" lon="7.17095"><ele>159.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

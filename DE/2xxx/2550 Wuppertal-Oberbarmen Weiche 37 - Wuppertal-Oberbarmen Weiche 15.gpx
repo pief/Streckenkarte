@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 0 plain-ascend = 0 cost=18 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Oberbarmen Weiche 37 - Wuppertal-Oberbarmen Weiche 15</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.27330/7.21615/osm-mapnik-german_style&amp;lonlats=7.215975,51.273362;7.215754,51.273337&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.273362" lon="7.215974"><ele>162</ele></trkpt>
+   <trkpt lat="51.273347" lon="7.215856"><ele>162</ele></trkpt>
+   <trkpt lat="51.273334" lon="7.215755"><ele>161.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

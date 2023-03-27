@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 188 filtered ascend = 10 plain-ascend = 11 cost=188 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal Hbf Weiche 28 - Wuppertal Hbf Weiche 20</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.25459/7.15281/osm-mapnik-german_style&amp;lonlats=7.155104,51.254554;7.152466,51.254731&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.254552" lon="7.155103"><ele>158.75</ele></trkpt>
+   <trkpt lat="51.254575" lon="7.154735"><ele>160.5</ele></trkpt>
+   <trkpt lat="51.254592" lon="7.154472"><ele>162.5</ele></trkpt>
+   <trkpt lat="51.254666" lon="7.153445"><ele>169</ele></trkpt>
+   <trkpt lat="51.254728" lon="7.152469"><ele>169.5</ele></trkpt>
+   <trkpt lat="51.254728" lon="7.152465"><ele>169.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

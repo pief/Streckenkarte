@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 376 filtered ascend = 0 plain-ascend = 0 cost=376 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Wuppertal-Oberbarmen (Gleis 2) - Wuppertal-Oberbarmen Weiche 37</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.27344/7.21725/osm-mapnik-german_style&amp;lonlats=7.221231,51.273979;7.215974,51.273367&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.273981" lon="7.221229"><ele>162</ele></trkpt>
+   <trkpt lat="51.273794" lon="7.219618"><ele>161.25</ele></trkpt>
+   <trkpt lat="51.273703" lon="7.218832"><ele>160.25</ele></trkpt>
+   <trkpt lat="51.273468" lon="7.216813"><ele>162</ele></trkpt>
+   <trkpt lat="51.27346" lon="7.216744"><ele>162</ele></trkpt>
+   <trkpt lat="51.273362" lon="7.215974"><ele>162</ele></trkpt>
+   <trkpt lat="51.273362" lon="7.215975"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
