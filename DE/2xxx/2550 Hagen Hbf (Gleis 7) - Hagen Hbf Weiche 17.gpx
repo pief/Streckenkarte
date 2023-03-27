@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 365 filtered ascend = 0 plain-ascend = 0 cost=365 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Hagen Hbf (Gleis 7) - Hagen Hbf Weiche 17</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.35979/7.46038/osm-mapnik-german_style&amp;lonlats=7.460508,51.362766;7.459644,51.359599&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.362764" lon="7.460511"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.362518" lon="7.460471"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.362201" lon="7.46041"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.361646" lon="7.460266"><ele>109</ele></trkpt>
+   <trkpt lat="51.361367" lon="7.460183"><ele>109</ele></trkpt>
+   <trkpt lat="51.361126" lon="7.460112"><ele>109</ele></trkpt>
+   <trkpt lat="51.361121" lon="7.460111"><ele>109</ele></trkpt>
+   <trkpt lat="51.361116" lon="7.46011"><ele>109</ele></trkpt>
+   <trkpt lat="51.360927" lon="7.460054"><ele>109</ele></trkpt>
+   <trkpt lat="51.360746" lon="7.46"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.36018" lon="7.459834"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.359597" lon="7.459648"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.359597" lon="7.459648"><ele>108.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

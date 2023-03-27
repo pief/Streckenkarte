@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Hagen Hbf Weiche 16 - Hagen Hbf Weiche 17</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.35937/7.46007/osm-mapnik-german_style&amp;lonlats=7.459532,51.359282;7.459648,51.359597&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.359281" lon="7.459531"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.359285" lon="7.459533"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.359597" lon="7.459648"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.359597" lon="7.459648"><ele>108.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

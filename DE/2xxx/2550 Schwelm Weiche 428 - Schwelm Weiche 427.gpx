@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13 filtered ascend = 0 plain-ascend = 0 cost=13 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2550 Schwelm Weiche 428 - Schwelm Weiche 427</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.29099/7.29496/osm-mapnik-german_style&amp;lonlats=7.295068,51.290751;7.294903,51.290756&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.290751" lon="7.295066"><ele>215</ele></trkpt>
+   <trkpt lat="51.290751" lon="7.294995"><ele>215</ele></trkpt>
+   <trkpt lat="51.290751" lon="7.294904"><ele>214.75</ele></trkpt>
+   <trkpt lat="51.290751" lon="7.294902"><ele>214.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
