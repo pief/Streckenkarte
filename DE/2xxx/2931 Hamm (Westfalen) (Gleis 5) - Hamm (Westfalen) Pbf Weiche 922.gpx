@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 0 plain-ascend = -1 cost=382 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Hamm (Westfalen) (Gleis 5) - Hamm (Westfalen) Pbf Weiche 922</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.68160/7.80685/osm-mapnik-german_style&amp;lonlats=7.807819,51.678586;7.806744,51.681923">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.678586" lon="7.80782"><ele>63.25</ele></trkpt>
+   <trkpt lat="51.680375" lon="7.807182"><ele>63.75</ele></trkpt>
+   <trkpt lat="51.680884" lon="7.806999"><ele>62.75</ele></trkpt>
+   <trkpt lat="51.681332" lon="7.806868"><ele>61.75</ele></trkpt>
+   <trkpt lat="51.68153" lon="7.80682"><ele>61.25</ele></trkpt>
+   <trkpt lat="51.681915" lon="7.806745"><ele>61.25</ele></trkpt>
+   <trkpt lat="51.681922" lon="7.806743"><ele>61.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

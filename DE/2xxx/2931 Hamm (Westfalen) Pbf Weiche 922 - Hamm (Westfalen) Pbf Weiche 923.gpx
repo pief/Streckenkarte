@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Hamm (Westfalen) Pbf Weiche 922 - Hamm (Westfalen) Pbf Weiche 923</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.68245/7.80682/osm-mapnik-german_style&amp;lonlats=7.806744,51.681923;7.806628,51.682668">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.681922" lon="7.806743"/>
+   <trkpt lat="51.682048" lon="7.806724"/>
+   <trkpt lat="51.682079" lon="7.806719"/>
+   <trkpt lat="51.682664" lon="7.806628"><ele>60.25</ele></trkpt>
+   <trkpt lat="51.682667" lon="7.806627"><ele>60.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
