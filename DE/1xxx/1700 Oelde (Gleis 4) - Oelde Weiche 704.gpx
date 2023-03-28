@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 388 filtered ascend = 0 plain-ascend = -3 cost=388 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Oelde (Gleis 4) - Oelde Weiche 704</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.83023/8.14946/osm-mapnik-german_style&amp;lonlats=8.142902,51.82921;8.148326,51.830016">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.829215" lon="8.142898"><ele>95</ele></trkpt>
+   <trkpt lat="51.829219" lon="8.142923"><ele>95</ele></trkpt>
+   <trkpt lat="51.829333" lon="8.143639"><ele>94</ele></trkpt>
+   <trkpt lat="51.829419" lon="8.144242"><ele>93.25</ele></trkpt>
+   <trkpt lat="51.829482" lon="8.144658"><ele>92.75</ele></trkpt>
+   <trkpt lat="51.829597" lon="8.145451"><ele>92.5</ele></trkpt>
+   <trkpt lat="51.830011" lon="8.148325"><ele>91</ele></trkpt>
+   <trkpt lat="51.830011" lon="8.148326"><ele>91</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

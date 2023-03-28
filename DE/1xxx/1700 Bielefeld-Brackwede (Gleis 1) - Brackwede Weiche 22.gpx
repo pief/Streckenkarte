@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 648 filtered ascend = 1 plain-ascend = 0 cost=648 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Bielefeld-Brackwede (Gleis 1) - Brackwede Weiche 22</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.00214/8.50379/osm-mapnik-german_style&amp;lonlats=8.498662,51.997212;8.502852,52.002357">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.997211" lon="8.498662"><ele>133</ele></trkpt>
+   <trkpt lat="51.997329" lon="8.498737"><ele>133.5</ele></trkpt>
+   <trkpt lat="51.997697" lon="8.498969"><ele>134</ele></trkpt>
+   <trkpt lat="51.998356" lon="8.499402"><ele>133.25</ele></trkpt>
+   <trkpt lat="51.998883" lon="8.49977"><ele>133</ele></trkpt>
+   <trkpt lat="51.99932" lon="8.500095"><ele>133</ele></trkpt>
+   <trkpt lat="51.999713" lon="8.500401"><ele>132.5</ele></trkpt>
+   <trkpt lat="52.000252" lon="8.500846"><ele>132.5</ele></trkpt>
+   <trkpt lat="52.00081" lon="8.50134"><ele>132</ele></trkpt>
+   <trkpt lat="52.001169" lon="8.50167"><ele>131.25</ele></trkpt>
+   <trkpt lat="52.00174" lon="8.502222"><ele>132.75</ele></trkpt>
+   <trkpt lat="52.002356" lon="8.502856"><ele>132.75</ele></trkpt>
+   <trkpt lat="52.002355" lon="8.502854"><ele>132.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

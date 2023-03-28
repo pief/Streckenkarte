@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 544 filtered ascend = 0 plain-ascend = -1 cost=544 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Gütersloh Hbf (Gleis 3) - Gütersloh Hbf Weiche 15</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.91009/8.39162/osm-mapnik-german_style&amp;lonlats=8.384988,51.906883;8.39032,51.910474">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.906882" lon="8.384987"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.907408" lon="8.385756"><ele>79</ele></trkpt>
+   <trkpt lat="51.908722" lon="8.387711"><ele>77</ele></trkpt>
+   <trkpt lat="51.909276" lon="8.388539"><ele>78</ele></trkpt>
+   <trkpt lat="51.910474" lon="8.39032"><ele>77.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Bielefeld Hbf Pbf Weiche 225 - Bielefeld Hbf Pbf Weiche 217</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.02679/8.53018/osm-mapnik-german_style&amp;lonlats=8.529564,52.026514;8.529881,52.02681">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.026513" lon="8.529563"><ele>117.5</ele></trkpt>
+   <trkpt lat="52.026518" lon="8.529567"><ele>117.5</ele></trkpt>
+   <trkpt lat="52.026809" lon="8.52988"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

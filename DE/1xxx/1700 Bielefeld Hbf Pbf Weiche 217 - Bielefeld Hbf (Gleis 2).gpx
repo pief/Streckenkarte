@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 345 filtered ascend = 3 plain-ascend = 3 cost=345 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Bielefeld Hbf Pbf Weiche 217 - Bielefeld Hbf (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.02951/8.53305/osm-mapnik-german_style&amp;lonlats=8.529881,52.02681;8.532791,52.029282">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.026809" lon="8.52988"><ele>116.75</ele></trkpt>
+   <trkpt lat="52.026812" lon="8.529884"><ele>116.75</ele></trkpt>
+   <trkpt lat="52.027043" lon="8.530177"><ele>116</ele></trkpt>
+   <trkpt lat="52.027295" lon="8.530419"><ele>115.75</ele></trkpt>
+   <trkpt lat="52.027581" lon="8.530741"><ele>115.75</ele></trkpt>
+   <trkpt lat="52.027806" lon="8.531"><ele>116.25</ele></trkpt>
+   <trkpt lat="52.027825" lon="8.531025"><ele>116.25</ele></trkpt>
+   <trkpt lat="52.028263" lon="8.531543"><ele>116.75</ele></trkpt>
+   <trkpt lat="52.028541" lon="8.531872"><ele>118</ele></trkpt>
+   <trkpt lat="52.02888" lon="8.532291"><ele>119.75</ele></trkpt>
+   <trkpt lat="52.029278" lon="8.532796"><ele>119.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
