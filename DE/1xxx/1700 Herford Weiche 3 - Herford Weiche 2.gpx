@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15 filtered ascend = 0 plain-ascend = 0 cost=15 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Herford Weiche 3 - Herford Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.13199/8.66768/osm-mapnik-german_style&amp;lonlats=8.668022,52.131626;8.668024,52.131753">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.131624" lon="8.668022"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.131751" lon="8.668024"><ele>63.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

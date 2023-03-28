@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 328 filtered ascend = 0 plain-ascend = -1 cost=328 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Herford Weiche 161 - Herford (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.11954/8.66447/osm-mapnik-german_style&amp;lonlats=8.661432,52.117106;8.66383,52.119624">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.117107" lon="8.661429"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.11761" lon="8.661931"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.117836" lon="8.662155"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.118211" lon="8.662522"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.119317" lon="8.663551"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.119605" lon="8.663818"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.119622" lon="8.663835"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.119622" lon="8.663835"><ele>72.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

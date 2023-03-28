@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 1 plain-ascend = 2 cost=61 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Herford Weiche 169 - Herford Weiche 167</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.11558/8.66089/osm-mapnik-german_style&amp;lonlats=8.659397,52.11504;8.659847,52.115497">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.11504" lon="8.659397"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.115495" lon="8.659849"><ele>74.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 165 filtered ascend = 0 plain-ascend = 1 cost=165 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Minden (Westfalen) Weiche 295 - Minden (Westfalen) Weiche 286</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.28459/8.93316/osm-mapnik-german_style&amp;lonlats=8.933019,52.283056;8.933035,52.284521">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.283054" lon="8.933019"><ele>43</ele></trkpt>
+   <trkpt lat="52.283059" lon="8.93302"><ele>43</ele></trkpt>
+   <trkpt lat="52.28381" lon="8.933031"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.284519" lon="8.933036"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.284519" lon="8.933036"><ele>43.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
