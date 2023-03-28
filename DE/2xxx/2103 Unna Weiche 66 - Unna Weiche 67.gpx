@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 0 cost=11 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2103 Unna Weiche 66 - Unna Weiche 67</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.53841/7.70412/osm-mapnik-german_style&amp;lonlats=7.703797,51.538291;7.703927,51.538299">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.538291" lon="7.703795"><ele>97</ele></trkpt>
+   <trkpt lat="51.538297" lon="7.703905"><ele>97</ele></trkpt>
+   <trkpt lat="51.538298" lon="7.703927"><ele>97</ele></trkpt>
+   <trkpt lat="51.538298" lon="7.703927"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
