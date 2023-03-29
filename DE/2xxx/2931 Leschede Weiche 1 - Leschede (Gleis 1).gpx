@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 614 filtered ascend = 0 plain-ascend = 0 cost=615 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Leschede Weiche 1 - Leschede (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.39773/7.30589/osm-mapnik-german_style&amp;lonlats=7.308856,52.392545;7.305946,52.397755&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.392545" lon="7.308856"><ele>30.75</ele></trkpt>
+   <trkpt lat="52.393546" lon="7.308283"><ele>30.25</ele></trkpt>
+   <trkpt lat="52.39762" lon="7.305979"><ele>30.5</ele></trkpt>
+   <trkpt lat="52.397746" lon="7.305908"><ele>30.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

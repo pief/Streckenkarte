@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7284 filtered ascend = 1 plain-ascend = -2 cost=7284 energy=0.1kwh time=9m 43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Salzbergen Weiche 43 - Leschede Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.33065/7.34348/osm-mapnik-german_style&amp;lonlats=7.343731,52.330741;7.308856,52.392545&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.330741" lon="7.343731"><ele>33.25</ele></trkpt>
+   <trkpt lat="52.333342" lon="7.342276"><ele>34</ele></trkpt>
+   <trkpt lat="52.333714" lon="7.342069"><ele>34</ele></trkpt>
+   <trkpt lat="52.336107" lon="7.340727"><ele>33</ele></trkpt>
+   <trkpt lat="52.340552" lon="7.33823"><ele>32.5</ele></trkpt>
+   <trkpt lat="52.342184" lon="7.337327"><ele>33.5</ele></trkpt>
+   <trkpt lat="52.343957" lon="7.33631"><ele>32.25</ele></trkpt>
+   <trkpt lat="52.34816" lon="7.33394"><ele>31.75</ele></trkpt>
+   <trkpt lat="52.35028" lon="7.332755"><ele>32.5</ele></trkpt>
+   <trkpt lat="52.361234" lon="7.32656"><ele>31.75</ele></trkpt>
+   <trkpt lat="52.366638" lon="7.323503"><ele>33</ele></trkpt>
+   <trkpt lat="52.376957" lon="7.317662"><ele>35</ele></trkpt>
+   <trkpt lat="52.381242" lon="7.315236"><ele>32.25</ele></trkpt>
+   <trkpt lat="52.384435" lon="7.313433"><ele>32.5</ele></trkpt>
+   <trkpt lat="52.388704" lon="7.311023"><ele>32</ele></trkpt>
+   <trkpt lat="52.388756" lon="7.310994"><ele>31.75</ele></trkpt>
+   <trkpt lat="52.392545" lon="7.308856"><ele>30.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

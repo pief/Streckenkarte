@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1639 filtered ascend = 0 plain-ascend = -2 cost=1639 energy=0.0kwh time=2m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Elbergen (Gleis 1) - Hanekenfähr Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/52.46843/7.31203/osm-mapnik-german_style&amp;lonlats=7.303101,52.454144;7.311311,52.467945&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.454141" lon="7.303107"><ele>28.25</ele></trkpt>
+   <trkpt lat="52.455849" lon="7.304101"><ele>27</ele></trkpt>
+   <trkpt lat="52.455914" lon="7.304139"><ele>27</ele></trkpt>
+   <trkpt lat="52.461563" lon="7.307444"><ele>25.5</ele></trkpt>
+   <trkpt lat="52.461793" lon="7.307578"><ele>24.75</ele></trkpt>
+   <trkpt lat="52.462022" lon="7.307722"><ele>24.5</ele></trkpt>
+   <trkpt lat="52.46436" lon="7.309077"><ele>26</ele></trkpt>
+   <trkpt lat="52.464485" lon="7.309153"><ele>25.75</ele></trkpt>
+   <trkpt lat="52.465245" lon="7.309627"><ele>24.75</ele></trkpt>
+   <trkpt lat="52.466453" lon="7.310424"><ele>26</ele></trkpt>
+   <trkpt lat="52.467272" lon="7.310918"><ele>28.25</ele></trkpt>
+   <trkpt lat="52.467945" lon="7.311311"><ele>25.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
