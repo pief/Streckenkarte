@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 373 filtered ascend = 3 plain-ascend = 4 cost=373 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Bückeburg (Gleis 2) - Bückeburg Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.26871/9.05108/osm-mapnik-german_style&amp;lonlats=9.047534,52.267672;9.052554,52.268878&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.267676" lon="9.04753"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.267737" lon="9.047824"><ele>60</ele></trkpt>
+   <trkpt lat="52.267769" lon="9.047979"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.267895" lon="9.048541"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.268209" lon="9.049943"><ele>60</ele></trkpt>
+   <trkpt lat="52.268244" lon="9.050107"><ele>60</ele></trkpt>
+   <trkpt lat="52.268323" lon="9.050439"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.268529" lon="9.051314"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.268875" lon="9.052554"><ele>63</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

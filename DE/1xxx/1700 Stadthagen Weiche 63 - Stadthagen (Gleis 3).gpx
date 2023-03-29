@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 446 filtered ascend = 0 plain-ascend = 0 cost=446 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Stadthagen Weiche 63 - Stadthagen (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.33300/9.19010/osm-mapnik-german_style&amp;lonlats=9.183119,52.331627;9.189328,52.33281&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.331625" lon="9.183118"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.331626" lon="9.18312"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.331868" lon="9.184371"><ele>65</ele></trkpt>
+   <trkpt lat="52.332153" lon="9.185854"><ele>65</ele></trkpt>
+   <trkpt lat="52.332235" lon="9.186279"><ele>65</ele></trkpt>
+   <trkpt lat="52.332466" lon="9.187482"><ele>65</ele></trkpt>
+   <trkpt lat="52.332686" lon="9.188611"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.332755" lon="9.189006"><ele>65</ele></trkpt>
+   <trkpt lat="52.332812" lon="9.189325"><ele>64.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

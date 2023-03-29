@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 298 filtered ascend = 6 plain-ascend = 7 cost=298 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Hannover Hbf Weiche 06W303 - Hannover Hbf Weiche 06W302</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.38944/9.72848/osm-mapnik-german_style&amp;lonlats=9.727215,52.390269;9.730156,52.388345&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.390269" lon="9.727215"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.3899" lon="9.727874"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.389665" lon="9.728292"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.389377" lon="9.728756"><ele>56</ele></trkpt>
+   <trkpt lat="52.389107" lon="9.729149"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.388844" lon="9.729517"><ele>58</ele></trkpt>
+   <trkpt lat="52.388688" lon="9.729722"><ele>59</ele></trkpt>
+   <trkpt lat="52.388343" lon="9.730152"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

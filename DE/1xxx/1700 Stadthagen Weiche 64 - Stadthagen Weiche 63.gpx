@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=7 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Stadthagen Weiche 64 - Stadthagen Weiche 63</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.33183/9.18379/osm-mapnik-german_style&amp;lonlats=9.18304,52.33161;9.183119,52.331627&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.33161" lon="9.18304"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.331625" lon="9.183118"><ele>65.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

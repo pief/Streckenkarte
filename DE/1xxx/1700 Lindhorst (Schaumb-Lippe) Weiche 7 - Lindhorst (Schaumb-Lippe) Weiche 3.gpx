@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 257 filtered ascend = 0 plain-ascend = 1 cost=257 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Lindhorst (Schaumb-Lippe) Weiche 7 - Lindhorst (Schaumb-Lippe) Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.35407/9.28802/osm-mapnik-german_style&amp;lonlats=9.28422,52.353332;9.287749,52.354073&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.353329" lon="9.28422"><ele>58</ele></trkpt>
+   <trkpt lat="52.35333" lon="9.284225"><ele>58</ele></trkpt>
+   <trkpt lat="52.354073" lon="9.28775"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.354072" lon="9.287748"><ele>58.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

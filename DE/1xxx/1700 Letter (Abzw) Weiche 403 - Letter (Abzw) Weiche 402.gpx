@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 37 filtered ascend = 0 plain-ascend = 0 cost=37 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Letter (Abzw) Weiche 403 - Letter (Abzw) Weiche 402</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.39512/9.65321/osm-mapnik-german_style&amp;lonlats=9.65301,52.394989;9.653528,52.39503&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.394989" lon="9.653008"><ele>51.25</ele></trkpt>
+   <trkpt lat="52.39499" lon="9.653013"><ele>51.25</ele></trkpt>
+   <trkpt lat="52.395029" lon="9.653527"><ele>50.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

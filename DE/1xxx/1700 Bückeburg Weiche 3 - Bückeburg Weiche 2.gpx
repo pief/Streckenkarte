@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = 0 cost=57 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Bückeburg Weiche 3 - Bückeburg Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.26894/9.05287/osm-mapnik-german_style&amp;lonlats=9.052554,52.268875;9.053268,52.269111&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.268874" lon="9.052553"><ele>63</ele></trkpt>
+   <trkpt lat="52.268877" lon="9.052561"><ele>63.25</ele></trkpt>
+   <trkpt lat="52.268895" lon="9.052623"><ele>63.25</ele></trkpt>
+   <trkpt lat="52.269107" lon="9.053269"><ele>62.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

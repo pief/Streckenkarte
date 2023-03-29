@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 502 filtered ascend = 0 plain-ascend = 0 cost=502 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1700 Wunstorf (Gleis 8) - Wunstorf Weiche 22</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.42061/9.45799/osm-mapnik-german_style&amp;lonlats=9.45132,52.422;9.45828,52.42057&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.421987" lon="9.451313"><ele>46.25</ele></trkpt>
+   <trkpt lat="52.421512" lon="9.453627"><ele>46.75</ele></trkpt>
+   <trkpt lat="52.421279" lon="9.454761"><ele>46</ele></trkpt>
+   <trkpt lat="52.421238" lon="9.454959"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.420569" lon="9.458282"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.420569" lon="9.458279"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
