@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 298 filtered ascend = 2 plain-ascend = 1 cost=298 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2026 Schüttorf (Gleis 2) - Schüttorf Weiche 104</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.31821/7.22662/osm-mapnik-german_style&amp;lonlats=7.222265,52.317027;7.226504,52.317569&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.317027" lon="7.222263"><ele>35</ele></trkpt>
+   <trkpt lat="52.317076" lon="7.222654"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.31733" lon="7.22463"><ele>36.5</ele></trkpt>
+   <trkpt lat="52.31734" lon="7.224712"><ele>36.5</ele></trkpt>
+   <trkpt lat="52.317452" lon="7.225573"><ele>37</ele></trkpt>
+   <trkpt lat="52.317515" lon="7.22611"><ele>36.5</ele></trkpt>
+   <trkpt lat="52.317565" lon="7.226504"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

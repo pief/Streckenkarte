@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 404 filtered ascend = 3 plain-ascend = 3 cost=404 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2026 Bad Bentheim (Gleis 1) - Bad Bentheim Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.31042/7.16355/osm-mapnik-german_style&amp;lonlats=7.158253,52.30985;7.163982,52.310596&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.309852" lon="7.158251"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.309993" lon="7.159344"><ele>54</ele></trkpt>
+   <trkpt lat="52.310026" lon="7.159617"><ele>54</ele></trkpt>
+   <trkpt lat="52.31003" lon="7.159648"><ele>54</ele></trkpt>
+   <trkpt lat="52.310151" lon="7.160557"><ele>56</ele></trkpt>
+   <trkpt lat="52.310211" lon="7.161017"><ele>57.25</ele></trkpt>
+   <trkpt lat="52.310593" lon="7.163979"><ele>57</ele></trkpt>
+   <trkpt lat="52.310593" lon="7.163981"><ele>56.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
