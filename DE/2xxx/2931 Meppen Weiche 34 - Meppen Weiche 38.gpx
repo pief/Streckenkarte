@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 0 plain-ascend = 0 cost=132 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Meppen Weiche 34 - Meppen Weiche 38</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.69808/7.29477/osm-mapnik-german_style&amp;lonlats=7.296019,52.697109;7.294718,52.697944&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.697109" lon="7.296019"><ele>14.5</ele></trkpt>
+   <trkpt lat="52.697302" lon="7.295668"><ele>14.25</ele></trkpt>
+   <trkpt lat="52.697499" lon="7.295345"><ele>14</ele></trkpt>
+   <trkpt lat="52.697638" lon="7.295132"><ele>14.25</ele></trkpt>
+   <trkpt lat="52.697843" lon="7.294841"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.697942" lon="7.294715"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.697942" lon="7.294714"><ele>14.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

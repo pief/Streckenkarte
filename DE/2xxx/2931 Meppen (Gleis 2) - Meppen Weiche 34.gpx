@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 190 filtered ascend = 0 plain-ascend = -1 cost=190 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Meppen (Gleis 2) - Meppen Weiche 34</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.69687/7.29671/osm-mapnik-german_style&amp;lonlats=7.298103,52.696;7.296022,52.697111&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.695998" lon="7.298101"><ele>16</ele></trkpt>
+   <trkpt lat="52.696004" lon="7.298091"><ele>16</ele></trkpt>
+   <trkpt lat="52.69645" lon="7.297253"><ele>15.5</ele></trkpt>
+   <trkpt lat="52.69675" lon="7.296678"><ele>15</ele></trkpt>
+   <trkpt lat="52.697108" lon="7.296021"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.697109" lon="7.296019"><ele>14.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

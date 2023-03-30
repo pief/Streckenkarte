@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 0 plain-ascend = 1 cost=268 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Lathen Weiche 4 - Lathen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.86100/7.32236/osm-mapnik-german_style&amp;lonlats=7.322406,52.858601;7.322535,52.86098&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.858599" lon="7.322407"><ele>10</ele></trkpt>
+   <trkpt lat="52.859166" lon="7.322446"><ele>10</ele></trkpt>
+   <trkpt lat="52.860034" lon="7.322492"><ele>10</ele></trkpt>
+   <trkpt lat="52.86008" lon="7.322493"><ele>10</ele></trkpt>
+   <trkpt lat="52.860111" lon="7.322494"><ele>10</ele></trkpt>
+   <trkpt lat="52.860173" lon="7.322493"><ele>10</ele></trkpt>
+   <trkpt lat="52.860978" lon="7.322537"><ele>10.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
