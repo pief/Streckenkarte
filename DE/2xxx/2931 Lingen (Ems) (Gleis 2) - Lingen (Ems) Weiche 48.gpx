@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 480 filtered ascend = 1 plain-ascend = 1 cost=480 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Lingen (Ems) (Gleis 2) - Lingen (Ems) Weiche 48</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.52316/7.32526/osm-mapnik-german_style&amp;lonlats=7.3218,52.5199;7.324602,52.523827&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.519899" lon="7.321799"><ele>24</ele></trkpt>
+   <trkpt lat="52.521036" lon="7.322612"><ele>24</ele></trkpt>
+   <trkpt lat="52.521343" lon="7.32285"><ele>24.25</ele></trkpt>
+   <trkpt lat="52.522744" lon="7.323833"><ele>24</ele></trkpt>
+   <trkpt lat="52.522941" lon="7.323977"><ele>24.25</ele></trkpt>
+   <trkpt lat="52.523826" lon="7.324601"><ele>25</ele></trkpt>
+   <trkpt lat="52.523826" lon="7.324601"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

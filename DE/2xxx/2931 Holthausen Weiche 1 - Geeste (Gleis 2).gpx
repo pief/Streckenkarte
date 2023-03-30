@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5325 filtered ascend = 0 plain-ascend = -11 cost=5325 energy=0.1kwh time=7m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Holthausen Weiche 1 - Geeste (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.59908/7.31262/osm-mapnik-german_style&amp;lonlats=7.327167,52.552339;7.312281,52.599017&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.552339" lon="7.327167"><ele>33.5</ele></trkpt>
+   <trkpt lat="52.55234" lon="7.327167"><ele>33.75</ele></trkpt>
+   <trkpt lat="52.561733" lon="7.322953"><ele>23</ele></trkpt>
+   <trkpt lat="52.56502" lon="7.321474"><ele>22</ele></trkpt>
+   <trkpt lat="52.56779" lon="7.320236"><ele>20.5</ele></trkpt>
+   <trkpt lat="52.579515" lon="7.314961"><ele>20.25</ele></trkpt>
+   <trkpt lat="52.580586" lon="7.314488"><ele>21.25</ele></trkpt>
+   <trkpt lat="52.581123" lon="7.314274"><ele>21.25</ele></trkpt>
+   <trkpt lat="52.581737" lon="7.314054"><ele>21</ele></trkpt>
+   <trkpt lat="52.582634" lon="7.313781"><ele>21.5</ele></trkpt>
+   <trkpt lat="52.583833" lon="7.313501"><ele>20.5</ele></trkpt>
+   <trkpt lat="52.58435" lon="7.313415"><ele>20.75</ele></trkpt>
+   <trkpt lat="52.585368" lon="7.31329"><ele>21</ele></trkpt>
+   <trkpt lat="52.598128" lon="7.312344"><ele>22</ele></trkpt>
+   <trkpt lat="52.598183" lon="7.312342"><ele>22</ele></trkpt>
+   <trkpt lat="52.599017" lon="7.312281"><ele>22</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
