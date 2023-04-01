@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 0 plain-ascend = 0 cost=125 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1574 Norddeich (Gleis 2) - Norddeich Weiche 27</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.62209/7.16057/osm-mapnik-german_style&amp;lonlats=7.161305,53.621308;7.160054,53.622098&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.621309" lon="7.161307"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.62157" lon="7.160852"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.621667" lon="7.160687"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.621732" lon="7.160581"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.621814" lon="7.160457"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.622095" lon="7.160054"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.622096" lon="7.160051"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

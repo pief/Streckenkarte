@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 236 filtered ascend = 0 plain-ascend = 0 cost=236 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1570 Marienhafe Weiche 1 - Marienhafe (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.51936/7.27475/osm-mapnik-german_style&amp;lonlats=7.276761,53.517513;7.274505,53.519114&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.517513" lon="7.276761"><ele>0</ele></trkpt>
+   <trkpt lat="53.517514" lon="7.27676"><ele>0</ele></trkpt>
+   <trkpt lat="53.517993" lon="7.27618"><ele>0</ele></trkpt>
+   <trkpt lat="53.518164" lon="7.275959"><ele>0</ele></trkpt>
+   <trkpt lat="53.518597" lon="7.275348"><ele>0.25</ele></trkpt>
+   <trkpt lat="53.518943" lon="7.274806"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.518985" lon="7.27473"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.519111" lon="7.2745"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

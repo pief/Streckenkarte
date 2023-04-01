@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1592 filtered ascend = 0 plain-ascend = 0 cost=1592 energy=0.0kwh time=2m 7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1570 Hinte-Harsweg (Gleis 2) - Suurhusen</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/53.41336/7.21747/osm-mapnik-german_style&amp;lonlats=7.210186,53.399496;7.216182,53.413331&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.399496" lon="7.210181"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.39977" lon="7.210318"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.399843" lon="7.210343"><ele>-2.5</ele></trkpt>
+   <trkpt lat="53.405121" lon="7.21263"><ele>-3</ele></trkpt>
+   <trkpt lat="53.413329" lon="7.216186"><ele>-1.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

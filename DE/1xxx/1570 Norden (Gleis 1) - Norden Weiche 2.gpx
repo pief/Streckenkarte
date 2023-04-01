@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 604 filtered ascend = 0 plain-ascend = 0 cost=604 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1570 Norden (Gleis 1) - Norden Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.58783/7.21929/osm-mapnik-german_style&amp;lonlats=7.219184,53.588028;7.225375,53.584073&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.588026" lon="7.219182"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.585928" lon="7.222342"><ele>0</ele></trkpt>
+   <trkpt lat="53.585127" lon="7.223565"><ele>0</ele></trkpt>
+   <trkpt lat="53.584899" lon="7.22394"><ele>0</ele></trkpt>
+   <trkpt lat="53.584073" lon="7.225369"><ele>0</ele></trkpt>
+   <trkpt lat="53.584071" lon="7.225371"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 253 filtered ascend = 0 plain-ascend = 0 cost=253 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1570 Norden (Gleis 1) - Norden Weiche 31</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.58963/7.21801/osm-mapnik-german_style&amp;lonlats=7.219184,53.588028;7.217457,53.58994&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.588026" lon="7.219182"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.588167" lon="7.218971"><ele>1</ele></trkpt>
+   <trkpt lat="53.588406" lon="7.218627"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.588637" lon="7.218334"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.588734" lon="7.218232"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.588848" lon="7.218107"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.589065" lon="7.21791"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.589319" lon="7.217729"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.589457" lon="7.217648"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.589587" lon="7.217585"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.589768" lon="7.217511"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.589934" lon="7.217461"><ele>1</ele></trkpt>
+   <trkpt lat="53.58994" lon="7.217459"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

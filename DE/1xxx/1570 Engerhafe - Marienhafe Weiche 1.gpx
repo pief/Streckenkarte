@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4050 filtered ascend = 1 plain-ascend = 0 cost=4050 energy=0.0kwh time=5m 24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1570 Engerhafe - Marienhafe Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/53.51795/7.27616/osm-mapnik-german_style&amp;lonlats=7.305071,53.485593;7.276761,53.517513&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.485593" lon="7.305071"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.486152" lon="7.304894"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.486346" lon="7.304823"><ele>2</ele></trkpt>
+   <trkpt lat="53.48698" lon="7.304556"><ele>1</ele></trkpt>
+   <trkpt lat="53.487412" lon="7.304344"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.487621" lon="7.304232"><ele>-1</ele></trkpt>
+   <trkpt lat="53.490693" lon="7.302352"><ele>-3</ele></trkpt>
+   <trkpt lat="53.493099" lon="7.300863"><ele>-3</ele></trkpt>
+   <trkpt lat="53.494108" lon="7.300204"><ele>-3</ele></trkpt>
+   <trkpt lat="53.494212" lon="7.300128"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.494838" lon="7.299632"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.49516" lon="7.299351"><ele>0</ele></trkpt>
+   <trkpt lat="53.497224" lon="7.297305"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.498605" lon="7.295908"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.501183" lon="7.293302"><ele>-2.5</ele></trkpt>
+   <trkpt lat="53.507758" lon="7.286654"><ele>-2</ele></trkpt>
+   <trkpt lat="53.512053" lon="7.282314"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.515038" lon="7.279295"><ele>2</ele></trkpt>
+   <trkpt lat="53.515403" lon="7.278924"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.516144" lon="7.278171"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.516734" lon="7.277586"><ele>0</ele></trkpt>
+   <trkpt lat="53.517385" lon="7.276913"><ele>0</ele></trkpt>
+   <trkpt lat="53.517513" lon="7.276761"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
