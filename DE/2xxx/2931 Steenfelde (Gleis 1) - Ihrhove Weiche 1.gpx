@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2085 filtered ascend = 2 plain-ascend = 0 cost=2085 energy=0.0kwh time=2m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Steenfelde (Gleis 1) - Ihrhove Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/53.15585/7.44332/osm-mapnik-german_style&amp;lonlats=7.430093,53.13805;7.441295,53.15549&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.138049" lon="7.430092"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.138236" lon="7.430212"><ele>1</ele></trkpt>
+   <trkpt lat="53.143919" lon="7.433866"><ele>0</ele></trkpt>
+   <trkpt lat="53.144461" lon="7.434212"><ele>0</ele></trkpt>
+   <trkpt lat="53.149317" lon="7.437335"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.152807" lon="7.439575"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.153283" lon="7.439879"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.155489" lon="7.441294"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

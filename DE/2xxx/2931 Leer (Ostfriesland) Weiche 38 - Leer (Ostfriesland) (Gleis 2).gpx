@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 492 filtered ascend = 2 plain-ascend = 3 cost=493 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Leer (Ostfriesland) Weiche 38 - Leer (Ostfriesland) (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.23116/7.46561/osm-mapnik-german_style&amp;lonlats=7.465207,53.226984;7.465202,53.231388&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.226984" lon="7.465207"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.227901" lon="7.465211"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.230293" lon="7.465209"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.231387" lon="7.4652"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

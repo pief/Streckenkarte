@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 967 filtered ascend = 2 plain-ascend = 0 cost=967 energy=0.0kwh time=1m 17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Papenburg (Ems) (Gleis 1) - Papenburg (Ems) Weiche 45</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.09643/7.39642/osm-mapnik-german_style&amp;lonlats=7.387023,53.089875;7.396284,53.096478&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.089874" lon="7.387022"><ele>0.25</ele></trkpt>
+   <trkpt lat="53.090177" lon="7.387448"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.090461" lon="7.387845"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.09114" lon="7.388771"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.092754" lon="7.391021"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.094361" lon="7.393332"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.094625" lon="7.393712"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.095958" lon="7.395555"><ele>0</ele></trkpt>
+   <trkpt lat="53.096476" lon="7.396282"><ele>-1.25</ele></trkpt>
+   <trkpt lat="53.096477" lon="7.396283"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

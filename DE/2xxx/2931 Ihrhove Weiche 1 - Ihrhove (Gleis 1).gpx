@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1079 filtered ascend = 1 plain-ascend = 1 cost=1079 energy=0.0kwh time=1m 26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Ihrhove Weiche 1 - Ihrhove (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/53.16471/7.44815/osm-mapnik-german_style&amp;lonlats=7.441295,53.15549;7.447089,53.164514&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.155489" lon="7.441294"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.155491" lon="7.441296"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.156186" lon="7.44175"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.158624" lon="7.443317"><ele>0.25</ele></trkpt>
+   <trkpt lat="53.162923" lon="7.44608"><ele>2</ele></trkpt>
+   <trkpt lat="53.16451" lon="7.447101"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
