@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 973 filtered ascend = 0 plain-ascend = -2 cost=973 energy=0.0kwh time=1m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Oldersum (Gleis 2) - Oldersum Weiche 416</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/53.3347/7.3189/osm-mapnik-german_style&amp;lonlats=7.339087,53.331907;7.32485,53.333706&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.331907" lon="7.339087"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.332088" lon="7.337676"><ele>0</ele></trkpt>
+   <trkpt lat="53.332105" lon="7.337542"><ele>0</ele></trkpt>
+   <trkpt lat="53.333625" lon="7.325469"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.333652" lon="7.325258"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.333677" lon="7.325055"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.333706" lon="7.32485"><ele>-2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

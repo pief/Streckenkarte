@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1000 filtered ascend = 1 plain-ascend = 0 cost=1000 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1570 Emden Rbf Weiche 112 - Emden Rbf Weiche 185</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.35984/7.20793/osm-mapnik-german_style&amp;lonlats=7.220376,53.357982;7.218693,53.358589;7.206276,53.360207&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.357982" lon="7.220376"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.357983" lon="7.220375"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.358273" lon="7.219652"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.358563" lon="7.2188"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.358594" lon="7.218697"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.358702" lon="7.218349"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.358827" lon="7.217946"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.358965" lon="7.217472"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.359099" lon="7.216933"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.359238" lon="7.216232"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.359304" lon="7.215797"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.359353" lon="7.215375"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.359383" lon="7.215034"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.35941" lon="7.214628"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.359692" lon="7.208852"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.359716" lon="7.208487"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.359754" lon="7.208113"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.359809" lon="7.207761"><ele>2</ele></trkpt>
+   <trkpt lat="53.359889" lon="7.207403"><ele>2</ele></trkpt>
+   <trkpt lat="53.359987" lon="7.207028"><ele>2</ele></trkpt>
+   <trkpt lat="53.360077" lon="7.206715"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.360206" lon="7.206281"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.360207" lon="7.206276"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
