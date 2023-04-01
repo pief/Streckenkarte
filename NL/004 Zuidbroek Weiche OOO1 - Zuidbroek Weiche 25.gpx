@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>004 Zuidbroek Weiche OOO1 - Zuidbroek Weiche 25</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.15985/6.87309/osm-mapnik-german_style&amp;lonlats=6.87275,53.15992;6.873329,53.159975&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.159917" lon="6.872749"><ele>-1.25</ele></trkpt>
+   <trkpt lat="53.159925" lon="6.872826"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.159975" lon="6.873327"><ele>-1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

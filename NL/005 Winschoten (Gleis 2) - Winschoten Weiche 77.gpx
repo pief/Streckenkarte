@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 2 plain-ascend = 2 cost=343 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005 Winschoten (Gleis 2) - Winschoten Weiche 77</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.13963/7.03139/osm-mapnik-german_style&amp;lonlats=7.035598,53.139116;7.030668,53.139753&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.139112" lon="7.035596"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.139161" lon="7.035203"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.139198" lon="7.034902"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.139336" lon="7.033741"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.139393" lon="7.033285"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.139529" lon="7.032291"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.139618" lon="7.031644"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.139728" lon="7.030825"><ele>4</ele></trkpt>
+   <trkpt lat="53.139749" lon="7.030674"><ele>4</ele></trkpt>
+   <trkpt lat="53.13975" lon="7.030666"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 179 filtered ascend = 1 plain-ascend = 1 cost=179 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>005 Zuidbroek Weiche 25 - Zuidbroek Weiche 33</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.15997/6.87384/osm-mapnik-german_style&amp;lonlats=6.87333,53.159977;6.875931,53.16024&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.159975" lon="6.873329"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.159976" lon="6.873338"><ele>-2</ele></trkpt>
+   <trkpt lat="53.160073" lon="6.874301"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.16022" lon="6.875773"><ele>-1</ele></trkpt>
+   <trkpt lat="53.160236" lon="6.875932"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.160236" lon="6.875932"><ele>-0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 759 filtered ascend = 2 plain-ascend = 1 cost=759 energy=0.0kwh time=1m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>003 Groningen Losplaats Weiche 2171 - Groningen Europapark Weiche 2111</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.20392/6.58741/osm-mapnik-german_style&amp;lonlats=6.59629,53.199867;6.587318,53.204004&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.199863" lon="6.596285"><ele>1</ele></trkpt>
+   <trkpt lat="53.199982" lon="6.596033"><ele>1</ele></trkpt>
+   <trkpt lat="53.201655" lon="6.59247"><ele>2</ele></trkpt>
+   <trkpt lat="53.202808" lon="6.590018"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.203089" lon="6.589401"><ele>3</ele></trkpt>
+   <trkpt lat="53.203558" lon="6.58834"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.203784" lon="6.587805"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.204003" lon="6.587319"><ele>2</ele></trkpt>
+   <trkpt lat="53.204003" lon="6.587317"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
