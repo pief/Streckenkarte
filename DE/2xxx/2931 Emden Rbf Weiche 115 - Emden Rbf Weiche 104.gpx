@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 192 filtered ascend = 1 plain-ascend = 1 cost=192 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Emden Rbf Weiche 115 - Emden Rbf Weiche 104</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.35737/7.22217/osm-mapnik-german_style&amp;lonlats=7.219447,53.358305;7.221818,53.357366&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.3583" lon="7.219442"><ele>1</ele></trkpt>
+   <trkpt lat="53.358298" lon="7.219451"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.357944" lon="7.220355"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.357735" lon="7.220879"><ele>2</ele></trkpt>
+   <trkpt lat="53.357363" lon="7.221819"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.357364" lon="7.221815"><ele>2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

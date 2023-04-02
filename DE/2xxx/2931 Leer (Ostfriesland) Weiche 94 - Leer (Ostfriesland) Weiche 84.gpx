@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 0 plain-ascend = -2 cost=280 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2931 Leer (Ostfriesland) Weiche 94 - Leer (Ostfriesland) Weiche 84</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/53.23455/7.46627/osm-mapnik-german_style&amp;lonlats=7.465085,53.236114;7.465097,53.233617&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.236114" lon="7.465085"><ele>8.25</ele></trkpt>
+   <trkpt lat="53.236113" lon="7.465086"><ele>8.25</ele></trkpt>
+   <trkpt lat="53.233992" lon="7.465095"><ele>5</ele></trkpt>
+   <trkpt lat="53.233617" lon="7.465097"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
