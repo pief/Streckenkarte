@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 289 filtered ascend = 0 plain-ascend = -2 cost=289 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>200 Winsum (Gleis 1) - Winsum Weiche 157</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.33239/6.52019/osm-mapnik-german_style&amp;lonlats=6.52041,53.330099;6.519734,53.332614&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.330098" lon="6.520405"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.330445" lon="6.520342"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.330625" lon="6.520309"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.331288" lon="6.520185"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.331525" lon="6.520122"><ele>1</ele></trkpt>
+   <trkpt lat="53.332019" lon="6.51994"><ele>0</ele></trkpt>
+   <trkpt lat="53.332031" lon="6.519936"><ele>0</ele></trkpt>
+   <trkpt lat="53.332409" lon="6.519795"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.332612" lon="6.519736"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.332614" lon="6.519735"><ele>-0.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

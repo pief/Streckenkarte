@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 0 plain-ascend = 0 cost=260 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>200 Baflo (Gleis 1) - Baflo Weiche 171</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.36328/6.52003/osm-mapnik-german_style&amp;lonlats=6.518889,53.36105;6.519208,53.363342&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.361048" lon="6.518892"><ele>1</ele></trkpt>
+   <trkpt lat="53.36169" lon="6.519008"><ele>1</ele></trkpt>
+   <trkpt lat="53.361892" lon="6.519044"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.362409" lon="6.519135"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.362418" lon="6.519137"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.362587" lon="6.519168"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.362795" lon="6.519193"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.363082" lon="6.51919"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.363338" lon="6.519207"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.363341" lon="6.519207"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

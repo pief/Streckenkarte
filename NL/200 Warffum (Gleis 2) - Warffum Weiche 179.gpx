@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 151 filtered ascend = 0 plain-ascend = 0 cost=151 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>200 Warffum (Gleis 2) - Warffum Weiche 179</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.38961/6.56640/osm-mapnik-german_style&amp;lonlats=6.566812,53.390159;6.565328,53.389159&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.390158" lon="6.566811"><ele>0.25</ele></trkpt>
+   <trkpt lat="53.389851" lon="6.566315"><ele>0</ele></trkpt>
+   <trkpt lat="53.389716" lon="6.566103"><ele>0</ele></trkpt>
+   <trkpt lat="53.389643" lon="6.565994"><ele>0</ele></trkpt>
+   <trkpt lat="53.389357" lon="6.56561"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.389161" lon="6.565332"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.389158" lon="6.565327"><ele>-0.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

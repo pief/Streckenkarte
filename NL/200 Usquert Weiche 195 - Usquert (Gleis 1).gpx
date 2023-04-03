@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 255 filtered ascend = 1 plain-ascend = 1 cost=255 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>200 Usquert Weiche 195 - Usquert (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.40103/6.60820/osm-mapnik-german_style&amp;lonlats=6.605709,53.40102;6.609508,53.400934&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.401018" lon="6.605708"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.401018" lon="6.60571"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.400999" lon="6.606625"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.400987" lon="6.607143"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.400953" lon="6.608636"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.400935" lon="6.609508"><ele>1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
