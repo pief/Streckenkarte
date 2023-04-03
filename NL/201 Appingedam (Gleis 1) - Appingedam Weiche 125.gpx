@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 231 filtered ascend = 0 plain-ascend = -1 cost=231 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>201 Appingedam (Gleis 1) - Appingedam Weiche 125</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/53.32549/6.86463/osm-mapnik-german_style&amp;lonlats=6.862013,53.325846;6.865404,53.325869&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.325852" lon="6.862014"><ele>0</ele></trkpt>
+   <trkpt lat="53.325832" lon="6.862318"><ele>0</ele></trkpt>
+   <trkpt lat="53.325818" lon="6.862644"><ele>0</ele></trkpt>
+   <trkpt lat="53.325811" lon="6.862922"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.325808" lon="6.863006"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.325801" lon="6.863401"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.325808" lon="6.864175"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.325809" lon="6.864188"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.325818" lon="6.864523"><ele>-1.25</ele></trkpt>
+   <trkpt lat="53.325867" lon="6.865401"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.325867" lon="6.865403"><ele>-1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

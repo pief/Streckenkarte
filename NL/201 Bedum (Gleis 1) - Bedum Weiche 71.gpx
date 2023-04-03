@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 213 filtered ascend = 1 plain-ascend = 1 cost=213 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>201 Bedum (Gleis 1) - Bedum Weiche 71</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.30729/6.59526/osm-mapnik-german_style&amp;lonlats=6.592738,53.306897;6.595697,53.307506&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.306894" lon="6.592738"><ele>-1.25</ele></trkpt>
+   <trkpt lat="53.306895" lon="6.592741"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.306912" lon="6.592821"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.306934" lon="6.59293"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.306943" lon="6.592971"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.307032" lon="6.593401"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.307187" lon="6.594157"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.307479" lon="6.595573"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.307504" lon="6.595694"><ele>0</ele></trkpt>
+   <trkpt lat="53.307504" lon="6.595696"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

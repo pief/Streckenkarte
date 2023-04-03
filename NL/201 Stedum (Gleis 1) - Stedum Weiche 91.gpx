@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 496 filtered ascend = 0 plain-ascend = -1 cost=496 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>201 Stedum (Gleis 1) - Stedum Weiche 91</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.32752/6.69410/osm-mapnik-german_style&amp;lonlats=6.687404,53.326319;6.694378,53.327753&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.32632" lon="6.687401"><ele>0</ele></trkpt>
+   <trkpt lat="53.326325" lon="6.687422"><ele>0</ele></trkpt>
+   <trkpt lat="53.326411" lon="6.687845"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.3267" lon="6.689249"><ele>-1</ele></trkpt>
+   <trkpt lat="53.326703" lon="6.689264"><ele>-1</ele></trkpt>
+   <trkpt lat="53.326995" lon="6.690688"><ele>-2</ele></trkpt>
+   <trkpt lat="53.327285" lon="6.692106"><ele>-2</ele></trkpt>
+   <trkpt lat="53.32756" lon="6.693451"><ele>-2</ele></trkpt>
+   <trkpt lat="53.327576" lon="6.693527"><ele>-2</ele></trkpt>
+   <trkpt lat="53.327749" lon="6.694378"><ele>-2</ele></trkpt>
+   <trkpt lat="53.327749" lon="6.694379"><ele>-2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
