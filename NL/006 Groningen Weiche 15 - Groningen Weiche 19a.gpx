@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 158 filtered ascend = 0 plain-ascend = 0 cost=158 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>006 Groningen Weiche 15 - Groningen Weiche 19a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.21055/6.55809/osm-mapnik-german_style&amp;lonlats=6.557237,53.210529;6.559562,53.210611&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.210525" lon="6.557236"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.210526" lon="6.557238"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.210547" lon="6.557862"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.210587" lon="6.559031"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.210597" lon="6.559357"><ele>1</ele></trkpt>
+   <trkpt lat="53.210603" lon="6.559534"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.210603" lon="6.559561"><ele>1.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

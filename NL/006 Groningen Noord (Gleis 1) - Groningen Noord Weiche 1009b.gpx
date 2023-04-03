@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 486 filtered ascend = 2 plain-ascend = 1 cost=486 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>006 Groningen Noord (Gleis 1) - Groningen Noord Weiche 1009b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.23413/6.55984/osm-mapnik-german_style&amp;lonlats=6.556606,53.230115;6.559055,53.234138&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.230114" lon="6.556604"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.230247" lon="6.556746"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.230421" lon="6.556921"><ele>0.25</ele></trkpt>
+   <trkpt lat="53.230897" lon="6.557352"><ele>0</ele></trkpt>
+   <trkpt lat="53.231217" lon="6.557611"><ele>1</ele></trkpt>
+   <trkpt lat="53.231617" lon="6.5579"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.232052" lon="6.558171"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.232306" lon="6.558309"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.232642" lon="6.55847"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.232755" lon="6.558519"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.232915" lon="6.558585"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.233177" lon="6.558687"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.233792" lon="6.558923"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.234136" lon="6.559054"><ele>1</ele></trkpt>
+   <trkpt lat="53.234137" lon="6.559054"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
