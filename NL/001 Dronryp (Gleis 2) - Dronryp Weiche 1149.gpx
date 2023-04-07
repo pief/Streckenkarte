@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 363 filtered ascend = 0 plain-ascend = 0 cost=363 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>001 Dronryp (Gleis 2) - Dronryp Weiche 1149</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/53.17775/5.63687/osm-mapnik-german_style&amp;lonlats=5.634777,53.17769;5.639998,53.178359&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.177691" lon="5.634775"><ele>0</ele></trkpt>
+   <trkpt lat="53.177832" lon="5.635957"><ele>0</ele></trkpt>
+   <trkpt lat="53.178009" lon="5.637423"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.178063" lon="5.637859"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.178105" lon="5.638202"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.178123" lon="5.638343"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.178194" lon="5.638888"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.17826" lon="5.639294"><ele>-1</ele></trkpt>
+   <trkpt lat="53.178359" lon="5.639996"><ele>-1</ele></trkpt>
+   <trkpt lat="53.178359" lon="5.639996"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

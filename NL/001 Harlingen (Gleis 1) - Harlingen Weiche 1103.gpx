@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 142 filtered ascend = 0 plain-ascend = 1 cost=142 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>001 Harlingen (Gleis 1) - Harlingen Weiche 1103</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.17051/5.42453/osm-mapnik-german_style&amp;lonlats=5.425205,53.170423;5.42311,53.170333&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.170422" lon="5.425204"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.170397" lon="5.424625"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.170397" lon="5.424622"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.170391" lon="5.424475"><ele>1</ele></trkpt>
+   <trkpt lat="53.170364" lon="5.423851"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.170332" lon="5.423109"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
