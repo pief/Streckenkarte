@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 2 plain-ascend = 2 cost=306 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>002 Zuidhorn (Gleis 2) - Zuidhorn Weiche 385</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.24925/6.40427/osm-mapnik-german_style&amp;lonlats=6.406767,53.248175;6.402766,53.249447&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.24817" lon="6.406763"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.248292" lon="6.406385"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.24833" lon="6.406265"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.248554" lon="6.405565"><ele>5</ele></trkpt>
+   <trkpt lat="53.248945" lon="6.404336"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.248979" lon="6.40423"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.249071" lon="6.403941"><ele>6</ele></trkpt>
+   <trkpt lat="53.249405" lon="6.402885"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.249443" lon="6.402767"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.249444" lon="6.402763"><ele>5.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

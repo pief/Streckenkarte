@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 276 filtered ascend = 0 plain-ascend = 0 cost=276 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>002 Hurdegaryp Weiche 313 - Hurdegaryp (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.21913/5.93546/osm-mapnik-german_style&amp;lonlats=5.938489,53.2201;5.93483,53.219022&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.220098" lon="5.938489"><ele>0</ele></trkpt>
+   <trkpt lat="53.220098" lon="5.938486"><ele>0</ele></trkpt>
+   <trkpt lat="53.220063" lon="5.938366"><ele>0</ele></trkpt>
+   <trkpt lat="53.219716" lon="5.937182"><ele>-0.5</ele></trkpt>
+   <trkpt lat="53.219668" lon="5.93702"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.219269" lon="5.93566"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.219182" lon="5.935364"><ele>0</ele></trkpt>
+   <trkpt lat="53.219024" lon="5.934826"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
