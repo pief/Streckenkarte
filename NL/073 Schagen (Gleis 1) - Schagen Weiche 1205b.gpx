@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 436 filtered ascend = 0 plain-ascend = -1 cost=436 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>073 Schagen (Gleis 1) - Schagen Weiche 1205b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.78159/4.80583/osm-mapnik-german_style&amp;lonlats=4.805228,52.78527;4.805599,52.781411&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.78527" lon="4.805229"><ele>2</ele></trkpt>
+   <trkpt lat="52.78527" lon="4.80523"><ele>2.25</ele></trkpt>
+   <trkpt lat="52.783289" lon="4.805415"><ele>0.75</ele></trkpt>
+   <trkpt lat="52.78305" lon="4.805437"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.78304" lon="4.805438"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.782784" lon="4.805463"><ele>0</ele></trkpt>
+   <trkpt lat="52.782719" lon="4.80547"><ele>0</ele></trkpt>
+   <trkpt lat="52.782636" lon="4.805478"><ele>0</ele></trkpt>
+   <trkpt lat="52.781412" lon="4.805598"><ele>0</ele></trkpt>
+   <trkpt lat="52.78141" lon="4.805598"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

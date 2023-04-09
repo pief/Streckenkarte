@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 204 filtered ascend = 0 plain-ascend = 0 cost=204 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>073 Anna Paulowna (Gleis 1) - Anna Paulowna Weiche 1153</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.86776/4.81196/osm-mapnik-german_style&amp;lonlats=4.811333,52.867741;4.811733,52.869533&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.867739" lon="4.811335"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.868726" lon="4.811591"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.868805" lon="4.811611"><ele>-1</ele></trkpt>
+   <trkpt lat="52.869536" lon="4.811738"><ele>-2</ele></trkpt>
+   <trkpt lat="52.869532" lon="4.811736"><ele>-1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

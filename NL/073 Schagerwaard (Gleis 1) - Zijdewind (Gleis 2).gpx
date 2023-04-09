@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1785 filtered ascend = 1 plain-ascend = 0 cost=1785 energy=0.0kwh time=2m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>073 Schagerwaard (Gleis 1) - Zijdewind (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.74181/4.83567/osm-mapnik-german_style&amp;lonlats=4.820965,52.755162;4.835162,52.74174&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.755163" lon="4.820967"><ele>-1</ele></trkpt>
+   <trkpt lat="52.752446" lon="4.824082"><ele>-2</ele></trkpt>
+   <trkpt lat="52.747885" lon="4.829304"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.747447" lon="4.829799"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.746569" lon="4.830757"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.745675" lon="4.831686"><ele>0.5</ele></trkpt>
+   <trkpt lat="52.745134" lon="4.832222"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.744367" lon="4.83294"><ele>-1</ele></trkpt>
+   <trkpt lat="52.743953" lon="4.833307"><ele>-1</ele></trkpt>
+   <trkpt lat="52.742166" lon="4.834817"><ele>-1</ele></trkpt>
+   <trkpt lat="52.741942" lon="4.835003"><ele>-1</ele></trkpt>
+   <trkpt lat="52.74188" lon="4.835054"><ele>-1</ele></trkpt>
+   <trkpt lat="52.74174" lon="4.835163"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

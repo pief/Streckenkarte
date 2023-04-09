@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=63 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>073 Den Helder Weiche 1113 - Den Helder Weiche 1115</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.95242/4.76276/osm-mapnik-german_style&amp;lonlats=4.761629,52.952807;4.761814,52.952269&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.952807" lon="4.761633"><ele>0</ele></trkpt>
+   <trkpt lat="52.952606" lon="4.761709"><ele>0</ele></trkpt>
+   <trkpt lat="52.95227" lon="4.761816"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.952269" lon="4.761816"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 234 filtered ascend = 0 plain-ascend = 0 cost=234 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>073 Heerhugowaard Weiche 1259a - Heerhugowaard Weiche 1261b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.67235/4.82846/osm-mapnik-german_style&amp;lonlats=4.830578,52.673411;4.827819,52.672168&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.67341" lon="4.830578"><ele>-1</ele></trkpt>
+   <trkpt lat="52.673145" lon="4.830025"><ele>-1</ele></trkpt>
+   <trkpt lat="52.672169" lon="4.827822"><ele>-1</ele></trkpt>
+   <trkpt lat="52.672167" lon="4.827818"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
