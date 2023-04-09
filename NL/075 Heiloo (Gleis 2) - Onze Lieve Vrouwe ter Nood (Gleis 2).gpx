@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1993 filtered ascend = 0 plain-ascend = 0 cost=1993 energy=0.0kwh time=2m 39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>075 Heiloo (Gleis 2) - Onze Lieve Vrouwe ter Nood (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.58428/4.68770/osm-mapnik-german_style&amp;lonlats=4.701046,52.600055;4.686755,52.584439&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.600054" lon="4.701045"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.599938" lon="4.700939"><ele>3.75</ele></trkpt>
+   <trkpt lat="52.597396" lon="4.698613"><ele>3</ele></trkpt>
+   <trkpt lat="52.59553" lon="4.696905"><ele>2</ele></trkpt>
+   <trkpt lat="52.590553" lon="4.69235"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.590317" lon="4.692134"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.584436" lon="4.686761"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

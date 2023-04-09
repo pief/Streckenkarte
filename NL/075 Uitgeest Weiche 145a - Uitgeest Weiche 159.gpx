@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 181 filtered ascend = 0 plain-ascend = 0 cost=181 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>075 Uitgeest Weiche 145a - Uitgeest Weiche 159</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.52407/4.69840/osm-mapnik-german_style&amp;lonlats=4.695799,52.525164;4.697782,52.524106&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.525164" lon="4.695799"><ele>-1</ele></trkpt>
+   <trkpt lat="52.525164" lon="4.695801"><ele>-1</ele></trkpt>
+   <trkpt lat="52.52445" lon="4.697135"><ele>-1.5</ele></trkpt>
+   <trkpt lat="52.524104" lon="4.697779"><ele>-1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
