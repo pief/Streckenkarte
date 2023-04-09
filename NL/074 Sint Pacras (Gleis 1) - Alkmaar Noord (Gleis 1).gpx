@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1189 filtered ascend = 0 plain-ascend = 1 cost=1189 energy=0.0kwh time=1m 35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>074 Sint Pacras (Gleis 1) - Alkmaar Noord (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.64362/4.76422/osm-mapnik-german_style&amp;lonlats=4.778084,52.650076;4.763938,52.643781&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.650073" lon="4.778085"><ele>0.5</ele></trkpt>
+   <trkpt lat="52.646521" lon="4.7701"><ele>-1</ele></trkpt>
+   <trkpt lat="52.646026" lon="4.768987"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.645914" lon="4.768736"><ele>0.5</ele></trkpt>
+   <trkpt lat="52.644732" lon="4.766078"><ele>1.25</ele></trkpt>
+   <trkpt lat="52.643779" lon="4.763938"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

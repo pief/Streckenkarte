@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 1 plain-ascend = 0 cost=268 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>074 Alkmaar Weiche 23 - Alkmaar (Gleis 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.63811/4.74071/osm-mapnik-german_style&amp;lonlats=4.74454,52.638444;4.740674,52.638186&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.638442" lon="4.744539"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.63841" lon="4.744122"><ele>3</ele></trkpt>
+   <trkpt lat="52.638396" lon="4.743771"><ele>3</ele></trkpt>
+   <trkpt lat="52.63839" lon="4.743071"><ele>3.25</ele></trkpt>
+   <trkpt lat="52.638358" lon="4.742353"><ele>4</ele></trkpt>
+   <trkpt lat="52.638338" lon="4.74195"><ele>4.5</ele></trkpt>
+   <trkpt lat="52.638263" lon="4.741314"><ele>4.25</ele></trkpt>
+   <trkpt lat="52.63822" lon="4.740951"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.638188" lon="4.740682"><ele>3</ele></trkpt>
+   <trkpt lat="52.638186" lon="4.740673"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
