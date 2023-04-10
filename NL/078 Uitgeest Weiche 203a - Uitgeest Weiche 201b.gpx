@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 0 plain-ascend = 0 cost=123 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>078 Uitgeest Weiche 203a - Uitgeest Weiche 201b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.52042/4.70521/osm-mapnik-german_style&amp;lonlats=4.703388,52.521116;4.704737,52.520399&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.521113" lon="4.703384"><ele>1.25</ele></trkpt>
+   <trkpt lat="52.521109" lon="4.703394"><ele>1.25</ele></trkpt>
+   <trkpt lat="52.520399" lon="4.704731"><ele>0.75</ele></trkpt>
+   <trkpt lat="52.520397" lon="4.704734"><ele>0.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

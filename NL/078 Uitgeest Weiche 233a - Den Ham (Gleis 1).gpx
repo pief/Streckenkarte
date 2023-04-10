@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2750 filtered ascend = 0 plain-ascend = -2 cost=2750 energy=0.0kwh time=3m 40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>078 Uitgeest Weiche 233a - Den Ham (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.50199/4.73978/osm-mapnik-german_style&amp;lonlats=4.708631,52.518338;4.739066,52.502121&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.518337" lon="4.708629"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.518336" lon="4.708632"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.518158" lon="4.708967"><ele>0.75</ele></trkpt>
+   <trkpt lat="52.517648" lon="4.709932"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.517635" lon="4.709956"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.51671" lon="4.711694"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.516668" lon="4.711771"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.513606" lon="4.717522"><ele>-1</ele></trkpt>
+   <trkpt lat="52.513571" lon="4.717589"><ele>-1</ele></trkpt>
+   <trkpt lat="52.512502" lon="4.719595"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.512497" lon="4.719606"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.510803" lon="4.722785"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.505176" lon="4.733347"><ele>-1</ele></trkpt>
+   <trkpt lat="52.503956" lon="4.735632"><ele>-2.25</ele></trkpt>
+   <trkpt lat="52.502284" lon="4.738766"><ele>-1.5</ele></trkpt>
+   <trkpt lat="52.502122" lon="4.739068"><ele>-1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

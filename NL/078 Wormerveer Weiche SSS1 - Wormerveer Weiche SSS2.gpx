@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 0 plain-ascend = 0 cost=359 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>078 Wormerveer Weiche SSS1 - Wormerveer Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.48397/4.80316/osm-mapnik-german_style&amp;lonlats=4.799853,52.486411;4.802766,52.48379&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.48641" lon="4.799852"><ele>0</ele></trkpt>
+   <trkpt lat="52.486281" lon="4.800039"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.486038" lon="4.800383"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.485995" lon="4.800443"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.485536" lon="4.801025"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.485281" lon="4.801326"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.484971" lon="4.801671"><ele>-1</ele></trkpt>
+   <trkpt lat="52.484658" lon="4.801993"><ele>-1.5</ele></trkpt>
+   <trkpt lat="52.484346" lon="4.802294"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.483791" lon="4.802769"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.48379" lon="4.802769"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

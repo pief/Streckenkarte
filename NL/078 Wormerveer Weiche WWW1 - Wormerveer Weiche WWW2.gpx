@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>078 Wormerveer Weiche WWW1 - Wormerveer Weiche WWW2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/52.48991/4.79060/osm-mapnik-german_style&amp;lonlats=4.788363,52.490202;4.789546,52.489952&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.490202" lon="4.788363"><ele>-1</ele></trkpt>
+   <trkpt lat="52.490202" lon="4.788364"><ele>-1</ele></trkpt>
+   <trkpt lat="52.489948" lon="4.789543"><ele>-1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
