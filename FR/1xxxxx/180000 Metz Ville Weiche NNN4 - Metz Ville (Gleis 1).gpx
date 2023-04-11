@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 2 plain-ascend = 3 cost=180 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Metz Ville Weiche NNN4 - Metz Ville (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.10911/6.17720/osm-mapnik-german_style&amp;lonlats=6.179075,49.110094;6.177001,49.109276">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.11009" lon="6.179077"><ele>176</ele></trkpt>
+   <trkpt lat="49.11009" lon="6.179075"><ele>176</ele></trkpt>
+   <trkpt lat="49.110004" lon="6.178835"><ele>176</ele></trkpt>
+   <trkpt lat="49.109829" lon="6.178238"><ele>176</ele></trkpt>
+   <trkpt lat="49.109746" lon="6.178003"><ele>176.25</ele></trkpt>
+   <trkpt lat="49.109681" lon="6.177833"><ele>176.75</ele></trkpt>
+   <trkpt lat="49.109277" lon="6.177013"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.109272" lon="6.177003"><ele>178.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

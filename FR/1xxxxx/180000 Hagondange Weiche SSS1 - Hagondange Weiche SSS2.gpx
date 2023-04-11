@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Hagondange Weiche SSS1 - Hagondange Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.24662/6.16314/osm-mapnik-german_style&amp;lonlats=6.163052,49.246888;6.163008,49.246586">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.246886" lon="6.163052"><ele>159.25</ele></trkpt>
+   <trkpt lat="49.246585" lon="6.163007"><ele>159.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

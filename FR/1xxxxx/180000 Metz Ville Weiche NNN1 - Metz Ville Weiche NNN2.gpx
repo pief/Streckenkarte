@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 2 cost=43 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Metz Ville Weiche NNN1 - Metz Ville Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.11063/6.18084/osm-mapnik-german_style&amp;lonlats=6.180895,49.110839;6.180648,49.110717;6.180457,49.110624">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.110838" lon="6.180894"><ele>175.5</ele></trkpt>
+   <trkpt lat="49.110837" lon="6.180892"><ele>175.75</ele></trkpt>
+   <trkpt lat="49.110717" lon="6.180646"><ele>176</ele></trkpt>
+   <trkpt lat="49.11067" lon="6.180551"><ele>176.25</ele></trkpt>
+   <trkpt lat="49.110624" lon="6.180458"><ele>176.5</ele></trkpt>
+   <trkpt lat="49.110623" lon="6.180456"><ele>176.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

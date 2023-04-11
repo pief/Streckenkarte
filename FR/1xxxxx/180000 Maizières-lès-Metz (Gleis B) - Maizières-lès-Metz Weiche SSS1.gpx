@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 692 filtered ascend = 0 plain-ascend = 0 cost=692 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Maizières-lès-Metz (Gleis B) - Maizières-lès-Metz Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.20909/6.15804/osm-mapnik-german_style&amp;lonlats=6.158387,49.215213;6.157421,49.209059">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.215212" lon="6.158386"><ele>164.5</ele></trkpt>
+   <trkpt lat="49.214941" lon="6.158345"><ele>164.75</ele></trkpt>
+   <trkpt lat="49.213471" lon="6.158073"><ele>164.75</ele></trkpt>
+   <trkpt lat="49.212292" lon="6.157884"><ele>164.75</ele></trkpt>
+   <trkpt lat="49.211244" lon="6.157723"><ele>164.5</ele></trkpt>
+   <trkpt lat="49.209698" lon="6.157505"><ele>165</ele></trkpt>
+   <trkpt lat="49.209059" lon="6.157423"><ele>164.5</ele></trkpt>
+   <trkpt lat="49.209057" lon="6.157422"><ele>164.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

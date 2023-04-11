@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 236 filtered ascend = 0 plain-ascend = 0 cost=237 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Gassion Weiche SSS1 - Gassion Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.34045/6.15750/osm-mapnik-german_style&amp;lonlats=6.157191,49.342319;6.156064,49.340351">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.342318" lon="6.157194"><ele>156</ele></trkpt>
+   <trkpt lat="49.3415" lon="6.156727"><ele>156.25</ele></trkpt>
+   <trkpt lat="49.340351" lon="6.156066"><ele>155</ele></trkpt>
+   <trkpt lat="49.340349" lon="6.156065"><ele>155</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
