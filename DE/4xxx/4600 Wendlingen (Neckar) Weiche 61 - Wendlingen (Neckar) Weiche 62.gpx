@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=16 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>4600 Wendlingen (Neckar) Weiche 61 - Wendlingen (Neckar) Weiche 62</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.66868/9.37066/osm-mapnik-german_style&amp;lonlats=9.370278,48.66927;9.370187,48.669153">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.66927" lon="9.370278"><ele>263</ele></trkpt>
+   <trkpt lat="48.669203" lon="9.370226"><ele>263</ele></trkpt>
+   <trkpt lat="48.669152" lon="9.370187"><ele>262.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

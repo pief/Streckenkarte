@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 5 plain-ascend = 5 cost=136 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>4813 Ulm Hbf Weiche 104 - Ulm Hbf Weiche 102</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.40551/9.98308/osm-mapnik-german_style&amp;lonlats=9.982871,48.40449;9.982904,48.405647&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.40449" lon="9.982871"><ele>478.25</ele></trkpt>
+   <trkpt lat="48.404572" lon="9.982884"><ele>478.25</ele></trkpt>
+   <trkpt lat="48.40493" lon="9.98294"><ele>478</ele></trkpt>
+   <trkpt lat="48.405033" lon="9.98295"><ele>478.25</ele></trkpt>
+   <trkpt lat="48.405145" lon="9.982961"><ele>480</ele></trkpt>
+   <trkpt lat="48.405361" lon="9.982957"><ele>483.25</ele></trkpt>
+   <trkpt lat="48.405504" lon="9.98294"><ele>483.25</ele></trkpt>
+   <trkpt lat="48.405646" lon="9.982905"><ele>483.25</ele></trkpt>
+   <trkpt lat="48.405647" lon="9.982904"><ele>483.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 217 filtered ascend = 0 plain-ascend = -1 cost=217 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>4500 Ulm Hbf (Gleis 3) - Ulm Hbf Weiche 138</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.40162/9.98319/osm-mapnik-german_style&amp;lonlats=9.982619,48.399569;9.982475,48.401487&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.399569" lon="9.982622"><ele>479.25</ele></trkpt>
+   <trkpt lat="48.399738" lon="9.982611"><ele>479.25</ele></trkpt>
+   <trkpt lat="48.400153" lon="9.982579"><ele>478.75</ele></trkpt>
+   <trkpt lat="48.400956" lon="9.982517"><ele>477</ele></trkpt>
+   <trkpt lat="48.401087" lon="9.982507"><ele>477</ele></trkpt>
+   <trkpt lat="48.401484" lon="9.982477"><ele>477</ele></trkpt>
+   <trkpt lat="48.401487" lon="9.982476"><ele>477</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
