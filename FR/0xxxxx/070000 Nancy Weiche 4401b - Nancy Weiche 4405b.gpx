@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=56 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Nancy Weiche 4401b - Nancy Weiche 4405b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.68296/6.18412/osm-mapnik-german_style&amp;lonlats=6.182961,48.683375;6.183546,48.68309">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.683373" lon="6.182959"><ele>212.5</ele></trkpt>
+   <trkpt lat="48.683373" lon="6.182961"><ele>212.5</ele></trkpt>
+   <trkpt lat="48.683089" lon="6.183541"><ele>212.25</ele></trkpt>
+   <trkpt lat="48.683087" lon="6.183543"><ele>212.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

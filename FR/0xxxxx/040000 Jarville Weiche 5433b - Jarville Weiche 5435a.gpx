@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 325 filtered ascend = 7 plain-ascend = 8 cost=325 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>040000 Jarville Weiche 5433b - Jarville Weiche 5435a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.66231/6.20299/osm-mapnik-german_style&amp;lonlats=6.202473,48.665887;6.202206,48.663073">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.665887" lon="6.202473"><ele>208.25</ele></trkpt>
+   <trkpt lat="48.665625" lon="6.202329"><ele>208.75</ele></trkpt>
+   <trkpt lat="48.665216" lon="6.202128"><ele>210</ele></trkpt>
+   <trkpt lat="48.665066" lon="6.202068"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.664856" lon="6.202002"><ele>211</ele></trkpt>
+   <trkpt lat="48.664621" lon="6.201951"><ele>211.75</ele></trkpt>
+   <trkpt lat="48.664343" lon="6.201926"><ele>212</ele></trkpt>
+   <trkpt lat="48.664175" lon="6.201928"><ele>212.25</ele></trkpt>
+   <trkpt lat="48.663917" lon="6.201956"><ele>213.5</ele></trkpt>
+   <trkpt lat="48.663771" lon="6.201985"><ele>214.25</ele></trkpt>
+   <trkpt lat="48.66341" lon="6.202089"><ele>215.5</ele></trkpt>
+   <trkpt lat="48.663073" lon="6.202206"><ele>215.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

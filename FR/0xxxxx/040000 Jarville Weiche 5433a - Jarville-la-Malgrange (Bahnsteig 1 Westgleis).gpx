@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 4 plain-ascend = 1 cost=399 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>040000 Jarville Weiche 5433a - Jarville-la-Malgrange (Bahnsteig 1 Westgleis)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.66667/6.20354/osm-mapnik-german_style&amp;lonlats=6.202783,48.666556;6.20238,48.669925">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.666554" lon="6.202784"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.666966" lon="6.202999"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.66719" lon="6.203095"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.667438" lon="6.20317"><ele>209.5</ele></trkpt>
+   <trkpt lat="48.667637" lon="6.203208"><ele>210.25</ele></trkpt>
+   <trkpt lat="48.66784" lon="6.203232"><ele>211</ele></trkpt>
+   <trkpt lat="48.668112" lon="6.20324"><ele>212.25</ele></trkpt>
+   <trkpt lat="48.668408" lon="6.203212"><ele>213.25</ele></trkpt>
+   <trkpt lat="48.668635" lon="6.203163"><ele>212.75</ele></trkpt>
+   <trkpt lat="48.668762" lon="6.203128"><ele>212.5</ele></trkpt>
+   <trkpt lat="48.668894" lon="6.20308"><ele>212.25</ele></trkpt>
+   <trkpt lat="48.669108" lon="6.202989"><ele>212</ele></trkpt>
+   <trkpt lat="48.66939" lon="6.202823"><ele>211.5</ele></trkpt>
+   <trkpt lat="48.669566" lon="6.202695"><ele>211.25</ele></trkpt>
+   <trkpt lat="48.669838" lon="6.202464"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.669925" lon="6.20238"><ele>210.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

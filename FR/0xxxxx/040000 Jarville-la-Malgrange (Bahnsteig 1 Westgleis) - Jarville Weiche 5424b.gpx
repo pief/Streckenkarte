@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=54 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>040000 Jarville-la-Malgrange (Bahnsteig 1 Westgleis) - Jarville Weiche 5424b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.66980/6.20256/osm-mapnik-german_style&amp;lonlats=6.202383,48.669927;6.201962,48.670308">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.669925" lon="6.20238"><ele>210.25</ele></trkpt>
+   <trkpt lat="48.670016" lon="6.202294"><ele>210.25</ele></trkpt>
+   <trkpt lat="48.670204" lon="6.202085"><ele>210.25</ele></trkpt>
+   <trkpt lat="48.670304" lon="6.20196"><ele>210.25</ele></trkpt>
+   <trkpt lat="48.670305" lon="6.201957"><ele>210</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

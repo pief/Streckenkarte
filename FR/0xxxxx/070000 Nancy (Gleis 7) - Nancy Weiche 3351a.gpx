@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = 0 cost=45 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Nancy (Gleis 7) - Nancy Weiche 3351a</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.68950/6.17448/osm-mapnik-german_style&amp;lonlats=6.173608,48.68969;6.17387,48.689333">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.689689" lon="6.173608"><ele>214.25</ele></trkpt>
+   <trkpt lat="48.689614" lon="6.173663"><ele>214.5</ele></trkpt>
+   <trkpt lat="48.689332" lon="6.173869"><ele>214.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
