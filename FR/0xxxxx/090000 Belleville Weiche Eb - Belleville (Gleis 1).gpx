@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 170 filtered ascend = 0 plain-ascend = 0 cost=170 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Belleville Weiche Eb - Belleville (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.81944/6.10209/osm-mapnik-german_style&amp;lonlats=6.103562,48.819302;6.101342,48.819658&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.819302" lon="6.103562"><ele>187.25</ele></trkpt>
+   <trkpt lat="48.819499" lon="6.102357"><ele>186.5</ele></trkpt>
+   <trkpt lat="48.819633" lon="6.101535"><ele>186.75</ele></trkpt>
+   <trkpt lat="48.819663" lon="6.101343"><ele>186.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 338 filtered ascend = 0 plain-ascend = 0 cost=338 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Pont-à-Mousson Weiche 12b/13 - Pont-à-Mousson (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.90027/6.05120/osm-mapnik-german_style&amp;lonlats=6.052375,48.897479;6.050605,48.900254&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.897479" lon="6.052375"><ele>181</ele></trkpt>
+   <trkpt lat="48.897478" lon="6.052377"><ele>181.25</ele></trkpt>
+   <trkpt lat="48.899519" lon="6.051069"><ele>180.5</ele></trkpt>
+   <trkpt lat="48.900243" lon="6.050605"><ele>180.5</ele></trkpt>
+   <trkpt lat="48.900252" lon="6.050599"><ele>180.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

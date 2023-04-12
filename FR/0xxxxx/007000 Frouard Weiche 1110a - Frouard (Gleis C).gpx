@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 144 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>007000 Frouard Weiche 1110a - Frouard (Gleis C)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.75558/6.14506/osm-mapnik-german_style&amp;lonlats=6.145515,48.754626;6.144485,48.755713&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.754624" lon="6.14551"><ele>192.25</ele></trkpt>
+   <trkpt lat="48.75549" lon="6.144704"><ele>192</ele></trkpt>
+   <trkpt lat="48.755713" lon="6.144485"><ele>191.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

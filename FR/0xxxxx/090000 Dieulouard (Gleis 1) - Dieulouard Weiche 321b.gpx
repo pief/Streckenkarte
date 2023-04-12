@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 277 filtered ascend = 0 plain-ascend = 0 cost=277 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Dieulouard (Gleis 1) - Dieulouard Weiche 321b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.84627/6.07186/osm-mapnik-german_style&amp;lonlats=6.071848,48.843854;6.071599,48.846286&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.843854" lon="6.071849"><ele>182</ele></trkpt>
+   <trkpt lat="48.844042" lon="6.071798"><ele>182</ele></trkpt>
+   <trkpt lat="48.84448" lon="6.071706"><ele>182</ele></trkpt>
+   <trkpt lat="48.844696" lon="6.071668"><ele>182</ele></trkpt>
+   <trkpt lat="48.845443" lon="6.071606"><ele>182.5</ele></trkpt>
+   <trkpt lat="48.846057" lon="6.071594"><ele>182.5</ele></trkpt>
+   <trkpt lat="48.846284" lon="6.071599"><ele>182.25</ele></trkpt>
+   <trkpt lat="48.846284" lon="6.071599"><ele>182</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

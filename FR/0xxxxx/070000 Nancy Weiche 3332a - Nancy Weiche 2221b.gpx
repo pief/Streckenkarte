@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1006 filtered ascend = 0 plain-ascend = -7 cost=1006 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Nancy Weiche 3332a - Nancy Weiche 2221b</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.70181/6.16880/osm-mapnik-german_style&amp;lonlats=6.172078,48.692679;6.168458,48.701335&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.692679" lon="6.172078"><ele>214.5</ele></trkpt>
+   <trkpt lat="48.694402" lon="6.17136"><ele>214</ele></trkpt>
+   <trkpt lat="48.695234" lon="6.171056"><ele>212</ele></trkpt>
+   <trkpt lat="48.696015" lon="6.170733"><ele>212</ele></trkpt>
+   <trkpt lat="48.696041" lon="6.170722"><ele>212</ele></trkpt>
+   <trkpt lat="48.697138" lon="6.170258"><ele>211</ele></trkpt>
+   <trkpt lat="48.697245" lon="6.170214"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.699314" lon="6.16934"><ele>208.5</ele></trkpt>
+   <trkpt lat="48.699403" lon="6.169301"><ele>208.25</ele></trkpt>
+   <trkpt lat="48.700028" lon="6.169033"><ele>207.25</ele></trkpt>
+   <trkpt lat="48.70065" lon="6.168749"><ele>206.75</ele></trkpt>
+   <trkpt lat="48.700764" lon="6.168701"><ele>206.75</ele></trkpt>
+   <trkpt lat="48.701335" lon="6.168462"><ele>207</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

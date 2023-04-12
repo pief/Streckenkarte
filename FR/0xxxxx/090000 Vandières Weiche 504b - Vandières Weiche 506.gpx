@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 394 filtered ascend = 0 plain-ascend = -1 cost=394 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Vandières Weiche 504b - Vandières Weiche 506</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.95739/6.03764/osm-mapnik-german_style&amp;lonlats=6.038598,48.953963;6.037379,48.957379&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.953963" lon="6.038598"><ele>177.25</ele></trkpt>
+   <trkpt lat="48.955156" lon="6.038211"><ele>176</ele></trkpt>
+   <trkpt lat="48.9552" lon="6.038196"><ele>176</ele></trkpt>
+   <trkpt lat="48.956037" lon="6.037915"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.956383" lon="6.037786"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.956919" lon="6.037575"><ele>176.25</ele></trkpt>
+   <trkpt lat="48.957378" lon="6.037378"><ele>175.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

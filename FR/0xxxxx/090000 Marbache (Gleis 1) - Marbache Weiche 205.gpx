@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 4 plain-ascend = 1 cost=314 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Marbache (Gleis 1) - Marbache Weiche 205</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.80371/6.11249/osm-mapnik-german_style&amp;lonlats=6.109306,48.801001;6.111185,48.803468&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.801" lon="6.109305"><ele>186.75</ele></trkpt>
+   <trkpt lat="48.801011" lon="6.10931"><ele>187</ele></trkpt>
+   <trkpt lat="48.801298" lon="6.109444"><ele>188.75</ele></trkpt>
+   <trkpt lat="48.801552" lon="6.109582"><ele>189.75</ele></trkpt>
+   <trkpt lat="48.801751" lon="6.109704"><ele>190</ele></trkpt>
+   <trkpt lat="48.802011" lon="6.109878"><ele>190.5</ele></trkpt>
+   <trkpt lat="48.802247" lon="6.110052"><ele>190.75</ele></trkpt>
+   <trkpt lat="48.802431" lon="6.110201"><ele>190.5</ele></trkpt>
+   <trkpt lat="48.802788" lon="6.110514"><ele>189.75</ele></trkpt>
+   <trkpt lat="48.803033" lon="6.110751"><ele>188.5</ele></trkpt>
+   <trkpt lat="48.803467" lon="6.111184"><ele>187.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
