@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 503 filtered ascend = 0 plain-ascend = 0 cost=503 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Pont-à-Mousson Weiche 20a - Pont-à-Mousson Weiche 7b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.87951/6.06454/osm-mapnik-german_style&amp;lonlats=6.061036,48.884002;6.063689,48.879848&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.884002" lon="6.061036"><ele>180.75</ele></trkpt>
+   <trkpt lat="48.884002" lon="6.061037"><ele>180.75</ele></trkpt>
+   <trkpt lat="48.883954" lon="6.061068"><ele>180.5</ele></trkpt>
+   <trkpt lat="48.879847" lon="6.063687"><ele>179.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

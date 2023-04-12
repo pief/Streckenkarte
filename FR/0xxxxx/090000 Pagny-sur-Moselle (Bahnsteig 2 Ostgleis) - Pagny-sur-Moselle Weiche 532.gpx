@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 0 plain-ascend = 0 cost=327 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Pagny-sur-Moselle (Bahnsteig 2 Ostgleis) - Pagny-sur-Moselle Weiche 532</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.98213/6.02683/osm-mapnik-german_style&amp;lonlats=6.025604,48.985243;6.026449,48.982405&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.985242" lon="6.025597"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.985234" lon="6.025598"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.985022" lon="6.025611"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.984817" lon="6.025635"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.984467" lon="6.025697"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.984157" lon="6.025765"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.983527" lon="6.025975"><ele>178.5</ele></trkpt>
+   <trkpt lat="48.98329" lon="6.026069"><ele>178.5</ele></trkpt>
+   <trkpt lat="48.982407" lon="6.026449"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.982405" lon="6.026449"><ele>178.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

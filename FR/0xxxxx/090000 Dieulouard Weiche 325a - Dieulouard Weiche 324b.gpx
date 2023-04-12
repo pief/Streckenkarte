@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=5 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Dieulouard Weiche 325a - Dieulouard Weiche 324b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.84581/6.07195/osm-mapnik-german_style&amp;lonlats=6.071645,48.84603;6.071641,48.845996&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.84603" lon="6.071645"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.845999" lon="6.071646"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.845996" lon="6.071646"><ele>182.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 173 filtered ascend = 0 plain-ascend = 0 cost=173 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Champigneulles Weiche 2211b - Champigneulles Weiche 2213</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.73156/6.17193/osm-mapnik-german_style&amp;lonlats=6.170756,48.732775;6.171401,48.731324&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.732775" lon="6.170756"><ele>194.5</ele></trkpt>
+   <trkpt lat="48.732771" lon="6.170759"><ele>194.5</ele></trkpt>
+   <trkpt lat="48.732454" lon="6.170926"><ele>193.75</ele></trkpt>
+   <trkpt lat="48.732042" lon="6.171124"><ele>193.75</ele></trkpt>
+   <trkpt lat="48.731892" lon="6.171184"><ele>193.5</ele></trkpt>
+   <trkpt lat="48.731875" lon="6.171192"><ele>193.5</ele></trkpt>
+   <trkpt lat="48.731848" lon="6.171203"><ele>193.5</ele></trkpt>
+   <trkpt lat="48.731698" lon="6.171267"><ele>193.25</ele></trkpt>
+   <trkpt lat="48.731324" lon="6.171401"><ele>193.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 0 plain-ascend = 0 cost=46 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Nancy Weiche 3345a - Nancy Weiche 3345b/3347a</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.69075/6.17350/osm-mapnik-german_style&amp;lonlats=6.172852,48.691195;6.172958,48.690809&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.691195" lon="6.172853"><ele>214.75</ele></trkpt>
+   <trkpt lat="48.691194" lon="6.172854"><ele>214.75</ele></trkpt>
+   <trkpt lat="48.690886" lon="6.172945"><ele>214.25</ele></trkpt>
+   <trkpt lat="48.690808" lon="6.172959"><ele>214.25</ele></trkpt>
+   <trkpt lat="48.690809" lon="6.172958"><ele>214.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

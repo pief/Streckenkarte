@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 419 filtered ascend = 0 plain-ascend = 0 cost=419 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Frouard Weiche 1122a - Champigneulles Weiche 2201a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.74313/6.15939/osm-mapnik-german_style&amp;lonlats=6.154182,48.746177;6.157824,48.743314&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.746177" lon="6.154182"><ele>193.5</ele></trkpt>
+   <trkpt lat="48.746174" lon="6.154186"><ele>193.5</ele></trkpt>
+   <trkpt lat="48.7459" lon="6.154498"><ele>193</ele></trkpt>
+   <trkpt lat="48.744996" lon="6.155637"><ele>191.75</ele></trkpt>
+   <trkpt lat="48.744287" lon="6.156553"><ele>191.75</ele></trkpt>
+   <trkpt lat="48.743805" lon="6.157171"><ele>192.25</ele></trkpt>
+   <trkpt lat="48.743313" lon="6.157822"><ele>193</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 304 filtered ascend = 1 plain-ascend = 0 cost=304 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Frouard Weiche 1112a - Frouard Weiche 1112b</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.75308/6.14820/osm-mapnik-german_style&amp;lonlats=6.145611,48.754665;6.14765,48.752316&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.754666" lon="6.145614"><ele>192</ele></trkpt>
+   <trkpt lat="48.754218" lon="6.14602"><ele>191.75</ele></trkpt>
+   <trkpt lat="48.753767" lon="6.146406"><ele>192.5</ele></trkpt>
+   <trkpt lat="48.75302" lon="6.14702"><ele>193.25</ele></trkpt>
+   <trkpt lat="48.752679" lon="6.147315"><ele>192.75</ele></trkpt>
+   <trkpt lat="48.752314" lon="6.147645"><ele>192</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Dieulouard Weiche 302a - Dieulouard Weiche 301b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.83549/6.07711/osm-mapnik-german_style&amp;lonlats=6.076406,48.835622;6.076427,48.835594&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.835622" lon="6.076406"><ele>186.25</ele></trkpt>
+   <trkpt lat="48.835622" lon="6.076407"><ele>186.5</ele></trkpt>
+   <trkpt lat="48.835595" lon="6.076424"><ele>186.5</ele></trkpt>
+   <trkpt lat="48.835593" lon="6.076425"><ele>186.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

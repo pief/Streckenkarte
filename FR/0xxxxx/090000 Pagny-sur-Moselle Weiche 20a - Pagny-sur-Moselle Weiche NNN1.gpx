@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 1 cost=30 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>090000 Pagny-sur-Moselle Weiche 20a - Pagny-sur-Moselle Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.99275/6.03001/osm-mapnik-german_style&amp;lonlats=6.029627,48.992756;6.029429,48.992547&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.992752" lon="6.029633"><ele>177.5</ele></trkpt>
+   <trkpt lat="48.992752" lon="6.029632"><ele>177.75</ele></trkpt>
+   <trkpt lat="48.992602" lon="6.029486"><ele>178</ele></trkpt>
+   <trkpt lat="48.992549" lon="6.029433"><ele>178</ele></trkpt>
+   <trkpt lat="48.992546" lon="6.029429"><ele>178</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
