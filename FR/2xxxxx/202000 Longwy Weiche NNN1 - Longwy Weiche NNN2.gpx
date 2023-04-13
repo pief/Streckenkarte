@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = 1 cost=57 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>202000 Longwy Weiche NNN1 - Longwy Weiche NNN2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.51379/5.77011/osm-mapnik-german_style&amp;lonlats=5.769547,49.513577;5.769745,49.514047&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.513576" lon="5.769546"><ele>255.5</ele></trkpt>
+   <trkpt lat="49.513685" lon="5.769597"><ele>255.5</ele></trkpt>
+   <trkpt lat="49.513707" lon="5.769605"><ele>255.5</ele></trkpt>
+   <trkpt lat="49.514046" lon="5.769749"><ele>256</ele></trkpt>
+   <trkpt lat="49.514046" lon="5.769749"><ele>256</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
