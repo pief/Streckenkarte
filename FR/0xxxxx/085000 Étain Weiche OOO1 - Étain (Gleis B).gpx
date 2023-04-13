@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 816 filtered ascend = 0 plain-ascend = -3 cost=816 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>085000 Étain Weiche OOO1 - Étain (Gleis B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.20739/5.64069/osm-mapnik-german_style&amp;lonlats=5.648298,49.20288;5.639717,49.207501&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.20288" lon="5.648298"><ele>207.5</ele></trkpt>
+   <trkpt lat="49.202881" lon="5.648297"><ele>207.5</ele></trkpt>
+   <trkpt lat="49.20546" lon="5.643962"><ele>202.25</ele></trkpt>
+   <trkpt lat="49.20572" lon="5.643509"><ele>202.75</ele></trkpt>
+   <trkpt lat="49.206029" lon="5.642952"><ele>203.25</ele></trkpt>
+   <trkpt lat="49.206444" lon="5.642165"><ele>204</ele></trkpt>
+   <trkpt lat="49.206777" lon="5.641489"><ele>204</ele></trkpt>
+   <trkpt lat="49.207081" lon="5.640807"><ele>203.75</ele></trkpt>
+   <trkpt lat="49.207284" lon="5.640309"><ele>203.75</ele></trkpt>
+   <trkpt lat="49.207506" lon="5.639721"><ele>203.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
