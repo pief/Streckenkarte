@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = -1 cost=128 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>095000 Pagny-sur-Moselle Weiche NNN2 - Pagny-sur-Moselle Weiche 8</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.99313/6.03034/osm-mapnik-german_style&amp;lonlats=6.028973,48.992234;6.02991,48.993183&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.992233" lon="6.028972"><ele>178.5</ele></trkpt>
+   <trkpt lat="48.992234" lon="6.028974"><ele>178.5</ele></trkpt>
+   <trkpt lat="48.992294" lon="6.029033"><ele>178.5</ele></trkpt>
+   <trkpt lat="48.993181" lon="6.029911"><ele>177</ele></trkpt>
+   <trkpt lat="48.993181" lon="6.029912"><ele>176.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
