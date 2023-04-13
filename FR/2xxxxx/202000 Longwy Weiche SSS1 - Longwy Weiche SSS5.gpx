@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>202000 Longwy Weiche SSS1 - Longwy Weiche SSS5</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.51048/5.76754/osm-mapnik-german_style&amp;lonlats=5.766858,49.510093;5.767192,49.510379&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.510092" lon="5.766857"><ele>251.25</ele></trkpt>
+   <trkpt lat="49.510095" lon="5.766861"><ele>251.25</ele></trkpt>
+   <trkpt lat="49.510378" lon="5.767193"><ele>251.5</ele></trkpt>
+   <trkpt lat="49.510378" lon="5.767193"><ele>251.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
