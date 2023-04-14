@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 0 plain-ascend = 0 cost=300 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>085000 Conflans-Jarny (Gleis C) - Conflans-Jarny Weiche 54a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.16670/5.86614/osm-mapnik-german_style&amp;lonlats=5.868239,49.166655;5.864222,49.166964&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.166648" lon="5.868238"><ele>188.75</ele></trkpt>
+   <trkpt lat="49.166649" lon="5.868233"><ele>189</ele></trkpt>
+   <trkpt lat="49.166685" lon="5.867083"><ele>188.25</ele></trkpt>
+   <trkpt lat="49.166701" lon="5.866467"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.166717" lon="5.86609"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.16673" lon="5.865836"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.166753" lon="5.865578"><ele>187.5</ele></trkpt>
+   <trkpt lat="49.166778" lon="5.865342"><ele>187.25</ele></trkpt>
+   <trkpt lat="49.166843" lon="5.864868"><ele>187</ele></trkpt>
+   <trkpt lat="49.166963" lon="5.86423"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.166964" lon="5.864222"><ele>187.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

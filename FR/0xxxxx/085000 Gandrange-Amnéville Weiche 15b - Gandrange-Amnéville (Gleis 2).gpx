@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 197 filtered ascend = 0 plain-ascend = 0 cost=197 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>085000 Gandrange-Amnéville Weiche 15b - Gandrange-Amnéville (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.26071/6.13665/osm-mapnik-german_style&amp;lonlats=6.138627,49.26119;6.136012,49.260849&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.261191" lon="6.138625"><ele>162.25</ele></trkpt>
+   <trkpt lat="49.261192" lon="6.138627"><ele>162.25</ele></trkpt>
+   <trkpt lat="49.260952" lon="6.136836"><ele>161.5</ele></trkpt>
+   <trkpt lat="49.260844" lon="6.136012"><ele>162.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

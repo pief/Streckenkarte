@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 0 cost=21 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Hagondange Weiche 107a - Hagondange Weiche 106</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.25640/6.16450/osm-mapnik-german_style&amp;lonlats=6.164317,49.256249;6.164347,49.256437&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.256248" lon="6.164316"><ele>160.75</ele></trkpt>
+   <trkpt lat="49.256435" lon="6.164347"><ele>160.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
