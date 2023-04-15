@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 219 filtered ascend = 0 plain-ascend = 0 cost=219 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Woippy Weiche SSS1 - Woippy (Gleis D)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.14849/6.15686/osm-mapnik-german_style&amp;lonlats=6.156354,49.146908;6.156067,49.148838&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.146908" lon="6.156356"><ele>165.5</ele></trkpt>
+   <trkpt lat="49.14691" lon="6.156356"><ele>165.5</ele></trkpt>
+   <trkpt lat="49.147207" lon="6.156283"><ele>165.75</ele></trkpt>
+   <trkpt lat="49.147488" lon="6.156232"><ele>165.75</ele></trkpt>
+   <trkpt lat="49.14785" lon="6.156168"><ele>165.25</ele></trkpt>
+   <trkpt lat="49.148151" lon="6.156127"><ele>165</ele></trkpt>
+   <trkpt lat="49.148455" lon="6.156095"><ele>165</ele></trkpt>
+   <trkpt lat="49.148804" lon="6.156071"><ele>164.75</ele></trkpt>
+   <trkpt lat="49.148838" lon="6.156069"><ele>164.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

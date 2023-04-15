@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 1 plain-ascend = 1 cost=228 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Hagondange (Gleis D) - Hagondange Weiche SSS5</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.25256/6.16463/osm-mapnik-german_style&amp;lonlats=6.163847,49.253557;6.163542,49.251535&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.253555" lon="6.163847"><ele>160.75</ele></trkpt>
+   <trkpt lat="49.252096" lon="6.163619"><ele>161.25</ele></trkpt>
+   <trkpt lat="49.251536" lon="6.163542"><ele>161.75</ele></trkpt>
+   <trkpt lat="49.251534" lon="6.163541"><ele>161.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

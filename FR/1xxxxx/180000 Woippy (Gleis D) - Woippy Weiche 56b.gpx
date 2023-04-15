@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1041 filtered ascend = 1 plain-ascend = 1 cost=1041 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>180000 Woippy (Gleis D) - Woippy Weiche 56b</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.15835/6.15616/osm-mapnik-german_style&amp;lonlats=6.156069,49.148838;6.156043,49.158151&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.148838" lon="6.156069"><ele>164.75</ele></trkpt>
+   <trkpt lat="49.14902" lon="6.156064"><ele>164.75</ele></trkpt>
+   <trkpt lat="49.151465" lon="6.15602"><ele>165.25</ele></trkpt>
+   <trkpt lat="49.151493" lon="6.156019"><ele>165.25</ele></trkpt>
+   <trkpt lat="49.156389" lon="6.155935"><ele>166.25</ele></trkpt>
+   <trkpt lat="49.15676" lon="6.155936"><ele>165.75</ele></trkpt>
+   <trkpt lat="49.157161" lon="6.15595"><ele>166.25</ele></trkpt>
+   <trkpt lat="49.157603" lon="6.155984"><ele>166.5</ele></trkpt>
+   <trkpt lat="49.15815" lon="6.156043"><ele>166</ele></trkpt>
+   <trkpt lat="49.15815" lon="6.156043"><ele>166</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
