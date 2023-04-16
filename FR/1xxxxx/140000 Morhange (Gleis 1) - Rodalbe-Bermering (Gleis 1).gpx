@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4105 filtered ascend = 2 plain-ascend = -15 cost=4105 energy=0.0kwh time=5m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>140000 Morhange (Gleis 1) - Rodalbe-Bermering (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.91675/6.70884/osm-mapnik-german_style&amp;lonlats=6.659292,48.936762;6.706553,48.917035&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.936759" lon="6.659289"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.934163" lon="6.665511"><ele>262.25</ele></trkpt>
+   <trkpt lat="48.933537" lon="6.66701"><ele>261.25</ele></trkpt>
+   <trkpt lat="48.933521" lon="6.667047"><ele>261.25</ele></trkpt>
+   <trkpt lat="48.931282" lon="6.672414"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.930753" lon="6.673713"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.930003" lon="6.675513"><ele>265</ele></trkpt>
+   <trkpt lat="48.929008" lon="6.677853"><ele>266.5</ele></trkpt>
+   <trkpt lat="48.928493" lon="6.67911"><ele>261.5</ele></trkpt>
+   <trkpt lat="48.926839" lon="6.683078"><ele>261</ele></trkpt>
+   <trkpt lat="48.926107" lon="6.684812"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.925624" lon="6.685984"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.917032" lon="6.70655"><ele>248.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

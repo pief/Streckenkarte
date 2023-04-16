@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4019 filtered ascend = 16 plain-ascend = 13 cost=4019 energy=0.1kwh time=5m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>140000 Landroff (Gleis 1) - Morhange (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.93652/6.66045/osm-mapnik-german_style&amp;lonlats=6.611833,48.954597;6.659292,48.936762&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.954595" lon="6.611832"><ele>251.25</ele></trkpt>
+   <trkpt lat="48.953972" lon="6.613995"><ele>252.25</ele></trkpt>
+   <trkpt lat="48.952784" lon="6.618093"><ele>256.25</ele></trkpt>
+   <trkpt lat="48.950885" lon="6.624688"><ele>254.75</ele></trkpt>
+   <trkpt lat="48.950532" lon="6.62588"><ele>254.5</ele></trkpt>
+   <trkpt lat="48.950302" lon="6.626589"><ele>254.5</ele></trkpt>
+   <trkpt lat="48.950045" lon="6.627311"><ele>255</ele></trkpt>
+   <trkpt lat="48.949905" lon="6.627682"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.949613" lon="6.628422"><ele>257.25</ele></trkpt>
+   <trkpt lat="48.944894" lon="6.639756"><ele>249.5</ele></trkpt>
+   <trkpt lat="48.94486" lon="6.639838"><ele>249.25</ele></trkpt>
+   <trkpt lat="48.943557" lon="6.642973"><ele>254</ele></trkpt>
+   <trkpt lat="48.941164" lon="6.648715"><ele>261.5</ele></trkpt>
+   <trkpt lat="48.938409" lon="6.655329"><ele>267.75</ele></trkpt>
+   <trkpt lat="48.9376" lon="6.657276"><ele>264.75</ele></trkpt>
+   <trkpt lat="48.937219" lon="6.658184"><ele>264</ele></trkpt>
+   <trkpt lat="48.936821" lon="6.659141"><ele>264</ele></trkpt>
+   <trkpt lat="48.936759" lon="6.659289"><ele>263.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

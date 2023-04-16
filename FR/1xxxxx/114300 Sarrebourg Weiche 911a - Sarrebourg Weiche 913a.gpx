@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 292 filtered ascend = 0 plain-ascend = 0 cost=292 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>114300 Sarrebourg Weiche 911a - Sarrebourg Weiche 913a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.74020/7.05533/osm-mapnik-german_style&amp;lonlats=7.054754,48.739996;7.057651,48.74171&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.739994" lon="7.054754"><ele>247.25</ele></trkpt>
+   <trkpt lat="48.740601" lon="7.056039"><ele>247.75</ele></trkpt>
+   <trkpt lat="48.740706" lon="7.056246"><ele>248</ele></trkpt>
+   <trkpt lat="48.74086" lon="7.056527"><ele>247.75</ele></trkpt>
+   <trkpt lat="48.741027" lon="7.056794"><ele>247.5</ele></trkpt>
+   <trkpt lat="48.741246" lon="7.057106"><ele>247.5</ele></trkpt>
+   <trkpt lat="48.74138" lon="7.05728"><ele>247.25</ele></trkpt>
+   <trkpt lat="48.741707" lon="7.057655"><ele>246.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 555 filtered ascend = 0 plain-ascend = -2 cost=555 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>140000 Bénestroff Weiche 602b - Bénestroff (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.90665/6.75378/osm-mapnik-german_style&amp;lonlats=6.745884,48.906497;6.753419,48.90667&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.906496" lon="6.745883"><ele>246.5</ele></trkpt>
+   <trkpt lat="48.906495" lon="6.745934"><ele>246.5</ele></trkpt>
+   <trkpt lat="48.906468" lon="6.74677"><ele>245.25</ele></trkpt>
+   <trkpt lat="48.906467" lon="6.747485"><ele>243.25</ele></trkpt>
+   <trkpt lat="48.906479" lon="6.748179"><ele>243.5</ele></trkpt>
+   <trkpt lat="48.906542" lon="6.749951"><ele>244</ele></trkpt>
+   <trkpt lat="48.906659" lon="6.75311"><ele>243</ele></trkpt>
+   <trkpt lat="48.906673" lon="6.753417"><ele>243.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

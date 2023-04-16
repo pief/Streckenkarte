@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2293 filtered ascend = 7 plain-ascend = 3 cost=2293 energy=0.0kwh time=3m 3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>140000 Loudrefing (Gleis 1) - Mittersheim (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.85710/6.91400/osm-mapnik-german_style&amp;lonlats=6.882023,48.858154;6.913168,48.857342&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.85815" lon="6.882022"><ele>235.25</ele></trkpt>
+   <trkpt lat="48.858027" lon="6.885792"><ele>242.25</ele></trkpt>
+   <trkpt lat="48.857906" lon="6.890429"><ele>241.75</ele></trkpt>
+   <trkpt lat="48.857784" lon="6.895525"><ele>240</ele></trkpt>
+   <trkpt lat="48.857654" lon="6.900552"><ele>239.5</ele></trkpt>
+   <trkpt lat="48.857594" lon="6.903117"><ele>239</ele></trkpt>
+   <trkpt lat="48.85755" lon="6.904838"><ele>239</ele></trkpt>
+   <trkpt lat="48.857384" lon="6.911464"><ele>236.5</ele></trkpt>
+   <trkpt lat="48.857379" lon="6.911606"><ele>236.75</ele></trkpt>
+   <trkpt lat="48.857339" lon="6.913167"><ele>238.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
