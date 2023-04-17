@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 2 plain-ascend = 3 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>089000 Metz Sablon Weiche 158a - Metz Sablon Weiche 157b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.09559/6.14945/standard&amp;lonlats=6.144258,49.095078;6.149452,49.095405&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.095076" lon="6.144257"><ele>175.75</ele></trkpt>
+   <trkpt lat="49.095077" lon="6.144259"><ele>176</ele></trkpt>
+   <trkpt lat="49.095218" lon="6.147398"><ele>178.5</ele></trkpt>
+   <trkpt lat="49.095252" lon="6.147988"><ele>178</ele></trkpt>
+   <trkpt lat="49.095321" lon="6.148795"><ele>178</ele></trkpt>
+   <trkpt lat="49.095405" lon="6.149447"><ele>178.25</ele></trkpt>
+   <trkpt lat="49.095405" lon="6.14945"><ele>178.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

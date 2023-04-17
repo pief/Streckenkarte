@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 374 filtered ascend = 0 plain-ascend = 0 cost=374 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Lérouville (Bahnsteig 3 Nordgleis) - Lérouville Weiche 209b</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.79548/5.54231/standard&amp;lonlats=5.538772,48.797274;5.542664,48.795166&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.797282" lon="5.538782"><ele>227.75</ele></trkpt>
+   <trkpt lat="48.797275" lon="5.538795"><ele>227.75</ele></trkpt>
+   <trkpt lat="48.79682" lon="5.539567"><ele>227.25</ele></trkpt>
+   <trkpt lat="48.796216" lon="5.540641"><ele>227.25</ele></trkpt>
+   <trkpt lat="48.795902" lon="5.541223"><ele>227.75</ele></trkpt>
+   <trkpt lat="48.79554" lon="5.541923"><ele>227.75</ele></trkpt>
+   <trkpt lat="48.795169" lon="5.542657"><ele>227.75</ele></trkpt>
+   <trkpt lat="48.795165" lon="5.542663"><ele>227.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

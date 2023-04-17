@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 715 filtered ascend = 5 plain-ascend = 2 cost=715 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>089000 Villecey-Waville (Gleis 1) - Onville Weiche 2115a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.01275/5.96617/standard&amp;lonlats=5.958906,49.00813;5.965388,49.012742&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.008129" lon="5.958905"><ele>190.5</ele></trkpt>
+   <trkpt lat="49.009147" lon="5.959997"><ele>192</ele></trkpt>
+   <trkpt lat="49.010352" lon="5.961226"><ele>193</ele></trkpt>
+   <trkpt lat="49.010768" lon="5.961688"><ele>193.25</ele></trkpt>
+   <trkpt lat="49.011077" lon="5.962076"><ele>195</ele></trkpt>
+   <trkpt lat="49.011339" lon="5.962445"><ele>195.5</ele></trkpt>
+   <trkpt lat="49.011476" lon="5.962651"><ele>195.5</ele></trkpt>
+   <trkpt lat="49.011646" lon="5.96293"><ele>194.5</ele></trkpt>
+   <trkpt lat="49.011779" lon="5.96316"><ele>194</ele></trkpt>
+   <trkpt lat="49.012019" lon="5.963625"><ele>194.5</ele></trkpt>
+   <trkpt lat="49.01229" lon="5.964211"><ele>194.25</ele></trkpt>
+   <trkpt lat="49.012473" lon="5.964643"><ele>193.25</ele></trkpt>
+   <trkpt lat="49.012617" lon="5.965022"><ele>193</ele></trkpt>
+   <trkpt lat="49.012739" lon="5.965388"><ele>192.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
