@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3212 Dillingen (Saar) Weiche 80 - Dillingen (Saar) Weiche 81</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.35616/6.71749/standard&amp;lonlats=6.717257,49.356343;6.717018,49.356569&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.356342" lon="6.717255"><ele>180</ele></trkpt>
+   <trkpt lat="49.356569" lon="6.717019"><ele>180</ele></trkpt>
+   <trkpt lat="49.356569" lon="6.717018"><ele>180</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 257 filtered ascend = 2 plain-ascend = 2 cost=257 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3212 Dillingen (Saar) Weiche 81 - Dillingen (Saar) Weiche 97</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.35657/6.71717/standard&amp;lonlats=6.717018,49.356569;6.715337,49.358539&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.356569" lon="6.717018"><ele>180</ele></trkpt>
+   <trkpt lat="49.356569" lon="6.717019"><ele>180</ele></trkpt>
+   <trkpt lat="49.357181" lon="6.716355"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.357463" lon="6.716055"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.357674" lon="6.71586"><ele>182</ele></trkpt>
+   <trkpt lat="49.35789" lon="6.715694"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.358045" lon="6.715585"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.358261" lon="6.715463"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.358537" lon="6.715339"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.358539" lon="6.715338"><ele>182.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

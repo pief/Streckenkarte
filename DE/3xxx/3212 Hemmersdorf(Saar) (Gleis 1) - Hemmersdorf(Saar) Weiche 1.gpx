@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 3 plain-ascend = 3 cost=132 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3212 Hemmersdorf(Saar) (Gleis 1) - Hemmersdorf(Saar) Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.35424/6.61603/standard&amp;lonlats=6.61554,49.354096;6.613773,49.354141&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.354095" lon="6.615539"><ele>191</ele></trkpt>
+   <trkpt lat="49.354098" lon="6.615413"><ele>191.25</ele></trkpt>
+   <trkpt lat="49.354118" lon="6.614617"><ele>192.5</ele></trkpt>
+   <trkpt lat="49.354122" lon="6.614507"><ele>192.75</ele></trkpt>
+   <trkpt lat="49.354123" lon="6.614493"><ele>192.75</ele></trkpt>
+   <trkpt lat="49.354139" lon="6.613772"><ele>194.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

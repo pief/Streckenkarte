@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 122 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3212 Dillingen (Saar) (Gleis 1) - Dillingen (Saar) Weiche 54</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.35257/6.72248/standard&amp;lonlats=6.722318,49.352617;6.721226,49.353424&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.352616" lon="6.722317"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.353131" lon="6.721627"><ele>181</ele></trkpt>
+   <trkpt lat="49.353191" lon="6.721544"><ele>181</ele></trkpt>
+   <trkpt lat="49.353423" lon="6.721225"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.353423" lon="6.721224"><ele>181.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
