@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 0 plain-ascend = 0 cost=295 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Sarrebourg (Gleis 2) - Sarrebourg Weiche 903a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.73763/7.05000/standard&amp;lonlats=7.052353,48.738731;7.049154,48.737185&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.738727" lon="7.052356"><ele>248</ele></trkpt>
+   <trkpt lat="48.738597" lon="7.052079"><ele>248</ele></trkpt>
+   <trkpt lat="48.738131" lon="7.0511"><ele>248.75</ele></trkpt>
+   <trkpt lat="48.73797" lon="7.050772"><ele>248.25</ele></trkpt>
+   <trkpt lat="48.737679" lon="7.050168"><ele>247.25</ele></trkpt>
+   <trkpt lat="48.737327" lon="7.049449"><ele>247.5</ele></trkpt>
+   <trkpt lat="48.737245" lon="7.049282"><ele>247.75</ele></trkpt>
+   <trkpt lat="48.737182" lon="7.049158"><ele>248</ele></trkpt>
+   <trkpt lat="48.737181" lon="7.049156"><ele>248</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
