@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 449 filtered ascend = 0 plain-ascend = -1 cost=449 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Jarville-la-Malgrange Weiche 5442b - Jarville-la-Malgrange (Bahnsteig 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.66993/6.20350/standard&amp;lonlats=6.207573,48.667752;6.202678,48.670086&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.66775" lon="6.207571"><ele>211</ele></trkpt>
+   <trkpt lat="48.667752" lon="6.207569"><ele>211</ele></trkpt>
+   <trkpt lat="48.668121" lon="6.206726"><ele>208</ele></trkpt>
+   <trkpt lat="48.668402" lon="6.206121"><ele>206</ele></trkpt>
+   <trkpt lat="48.668447" lon="6.206025"><ele>206</ele></trkpt>
+   <trkpt lat="48.668795" lon="6.205278"><ele>206</ele></trkpt>
+   <trkpt lat="48.669218" lon="6.204418"><ele>208.5</ele></trkpt>
+   <trkpt lat="48.669323" lon="6.204205"><ele>208.75</ele></trkpt>
+   <trkpt lat="48.669894" lon="6.203077"><ele>210</ele></trkpt>
+   <trkpt lat="48.670089" lon="6.202681"><ele>209.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

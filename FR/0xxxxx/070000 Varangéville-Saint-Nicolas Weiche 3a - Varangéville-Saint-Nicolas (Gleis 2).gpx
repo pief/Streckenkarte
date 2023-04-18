@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 116 filtered ascend = 1 plain-ascend = 1 cost=116 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Varangéville-Saint-Nicolas Weiche 3a - Varangéville-Saint-Nicolas (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.63521/6.31406/standard&amp;lonlats=6.314585,48.634893;6.313169,48.635314&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.634893" lon="6.314585"><ele>206.25</ele></trkpt>
+   <trkpt lat="48.634997" lon="6.314235"><ele>206.75</ele></trkpt>
+   <trkpt lat="48.635313" lon="6.313168"><ele>207.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

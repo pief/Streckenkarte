@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 820 filtered ascend = 0 plain-ascend = 0 cost=821 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Varangéville Écluse Weiche 2a - Varangéville-Saint-Nicolas Weiche 3a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.63519/6.31447/standard&amp;lonlats=6.32473,48.631953;6.314585,48.634893&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.631953" lon="6.32473"><ele>206.5</ele></trkpt>
+   <trkpt lat="48.632593" lon="6.322513"><ele>206</ele></trkpt>
+   <trkpt lat="48.633786" lon="6.318306"><ele>206</ele></trkpt>
+   <trkpt lat="48.634149" lon="6.317061"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.634893" lon="6.314587"><ele>206.25</ele></trkpt>
+   <trkpt lat="48.634893" lon="6.314585"><ele>206.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

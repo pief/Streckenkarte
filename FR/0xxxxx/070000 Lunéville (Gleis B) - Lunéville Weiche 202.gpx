@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 202 filtered ascend = 0 plain-ascend = 0 cost=202 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Lunéville (Gleis B) - Lunéville Weiche 202</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.58747/6.49470/standard&amp;lonlats=6.497093,48.587837;6.494484,48.587398&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.587838" lon="6.497091"><ele>228.75</ele></trkpt>
+   <trkpt lat="48.587838" lon="6.497085"><ele>228.75</ele></trkpt>
+   <trkpt lat="48.587797" lon="6.496799"><ele>228.75</ele></trkpt>
+   <trkpt lat="48.587613" lon="6.495647"><ele>229</ele></trkpt>
+   <trkpt lat="48.587434" lon="6.494668"><ele>228</ele></trkpt>
+   <trkpt lat="48.587398" lon="6.494485"><ele>228</ele></trkpt>
+   <trkpt lat="48.587397" lon="6.494483"><ele>228</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

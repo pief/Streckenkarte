@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Nancy Weiche SSS3 - Nancy Weiche SSS4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.68608/6.17773/standard&amp;lonlats=6.178895,48.685501;6.17785,48.686056&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.6855" lon="6.178893"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.68554" lon="6.178815"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.685788" lon="6.178326"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.686004" lon="6.177941"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.686052" lon="6.177853"><ele>209.5</ele></trkpt>
+   <trkpt lat="48.686055" lon="6.177848"><ele>209.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

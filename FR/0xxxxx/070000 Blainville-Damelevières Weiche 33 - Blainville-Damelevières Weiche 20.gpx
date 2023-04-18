@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 533 filtered ascend = 0 plain-ascend = -1 cost=533 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Blainville-Damelevières Weiche 33 - Blainville-Damelevières Weiche 20</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.57204/6.37843/standard&amp;lonlats=6.381674,48.567883;6.378077,48.571974&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.567882" lon="6.381672"><ele>213.75</ele></trkpt>
+   <trkpt lat="48.56813" lon="6.381395"><ele>213.75</ele></trkpt>
+   <trkpt lat="48.568573" lon="6.380925"><ele>214</ele></trkpt>
+   <trkpt lat="48.568987" lon="6.380514"><ele>213.75</ele></trkpt>
+   <trkpt lat="48.569283" lon="6.380243"><ele>214</ele></trkpt>
+   <trkpt lat="48.569607" lon="6.379966"><ele>214.25</ele></trkpt>
+   <trkpt lat="48.57045" lon="6.379279"><ele>213.5</ele></trkpt>
+   <trkpt lat="48.571973" lon="6.378077"><ele>212.5</ele></trkpt>
+   <trkpt lat="48.571973" lon="6.378076"><ele>212.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
