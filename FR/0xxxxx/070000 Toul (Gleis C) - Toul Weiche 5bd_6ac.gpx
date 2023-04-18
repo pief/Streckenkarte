@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1200 filtered ascend = 0 plain-ascend = 0 cost=1200 energy=0.0kwh time=1m 36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Toul (Gleis C) - Toul Weiche 5bd/6ac</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.67639/5.86513/standard&amp;lonlats=5.880464,48.679296;5.865094,48.676325&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.679297" lon="5.880462"><ele>220.25</ele></trkpt>
+   <trkpt lat="48.678835" lon="5.878486"><ele>221</ele></trkpt>
+   <trkpt lat="48.678593" lon="5.877344"><ele>220.75</ele></trkpt>
+   <trkpt lat="48.678459" lon="5.87669"><ele>220</ele></trkpt>
+   <trkpt lat="48.678375" lon="5.876243"><ele>219.25</ele></trkpt>
+   <trkpt lat="48.67828" lon="5.875675"><ele>219</ele></trkpt>
+   <trkpt lat="48.678206" lon="5.875136"><ele>219.5</ele></trkpt>
+   <trkpt lat="48.678147" lon="5.874592"><ele>220</ele></trkpt>
+   <trkpt lat="48.678104" lon="5.874104"><ele>220</ele></trkpt>
+   <trkpt lat="48.677931" lon="5.871887"><ele>218</ele></trkpt>
+   <trkpt lat="48.677841" lon="5.870845"><ele>217.75</ele></trkpt>
+   <trkpt lat="48.677735" lon="5.870019"><ele>219.25</ele></trkpt>
+   <trkpt lat="48.677659" lon="5.869554"><ele>219.25</ele></trkpt>
+   <trkpt lat="48.677549" lon="5.869022"><ele>218.75</ele></trkpt>
+   <trkpt lat="48.677429" lon="5.868517"><ele>219.25</ele></trkpt>
+   <trkpt lat="48.677279" lon="5.867981"><ele>219.75</ele></trkpt>
+   <trkpt lat="48.677016" lon="5.867151"><ele>220</ele></trkpt>
+   <trkpt lat="48.676477" lon="5.865532"><ele>219.25</ele></trkpt>
+   <trkpt lat="48.676364" lon="5.865217"><ele>219.25</ele></trkpt>
+   <trkpt lat="48.676326" lon="5.865094"><ele>219.25</ele></trkpt>
+   <trkpt lat="48.676325" lon="5.865092"><ele>219</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

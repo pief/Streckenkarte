@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>070000 Lérouville Weiche 205a - Lérouville Weiche 206b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.79613/5.54046/standard&amp;lonlats=5.540538,48.796123;5.540497,48.796147&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.796123" lon="5.540538"><ele>227.5</ele></trkpt>
+   <trkpt lat="48.796146" lon="5.540496"><ele>227.5</ele></trkpt>
+   <trkpt lat="48.796146" lon="5.540495"><ele>227.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
