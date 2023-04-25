@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13 filtered ascend = 0 plain-ascend = 0 cost=13 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5600 Mühldorf (Oberbayern) Weiche 7 - Mühldorf (Oberbayern) Weiche 8</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.24886/12.50252/standard&amp;lonlats=12.502593,48.248727;12.502745,48.248726&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.248727" lon="12.502593"><ele>414</ele></trkpt>
+   <trkpt lat="48.248727" lon="12.502596"><ele>414.25</ele></trkpt>
+   <trkpt lat="48.248723" lon="12.502742"><ele>414.25</ele></trkpt>
+   <trkpt lat="48.248723" lon="12.502744"><ele>414</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

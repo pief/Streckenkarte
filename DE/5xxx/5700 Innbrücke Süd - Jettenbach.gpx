@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1234 filtered ascend = 11 plain-ascend = 8 cost=1240 energy=0.0kwh time=1m 38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5700 Innbrücke Süd - Jettenbach</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.17884/12.37867/standard&amp;lonlats=12.378352,48.179043;12.37789,48.178183;12.377526,48.177673;12.377313,48.177431;12.376865,48.177001;12.376305,48.17657;12.37553,48.176108;12.372871,48.174666;12.366803,48.171433&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.17904" lon="12.378356"><ele>410.5</ele></trkpt>
+   <trkpt lat="48.178501" lon="12.378081"><ele>414.25</ele></trkpt>
+   <trkpt lat="48.178183" lon="12.37789"><ele>415.25</ele></trkpt>
+   <trkpt lat="48.177914" lon="12.377711"><ele>414.5</ele></trkpt>
+   <trkpt lat="48.177673" lon="12.377526"><ele>414</ele></trkpt>
+   <trkpt lat="48.177431" lon="12.377313"><ele>413</ele></trkpt>
+   <trkpt lat="48.177203" lon="12.377084"><ele>411</ele></trkpt>
+   <trkpt lat="48.177001" lon="12.376865"><ele>409.5</ele></trkpt>
+   <trkpt lat="48.176742" lon="12.376545"><ele>408</ele></trkpt>
+   <trkpt lat="48.17657" lon="12.376305"><ele>406.25</ele></trkpt>
+   <trkpt lat="48.176342" lon="12.375947"><ele>405.25</ele></trkpt>
+   <trkpt lat="48.176108" lon="12.37553"><ele>405.75</ele></trkpt>
+   <trkpt lat="48.174666" lon="12.372871"><ele>406.25</ele></trkpt>
+   <trkpt lat="48.174456" lon="12.372478"><ele>406.75</ele></trkpt>
+   <trkpt lat="48.171432" lon="12.366802"><ele>413.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
