@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 403 filtered ascend = 0 plain-ascend = -1 cost=403 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5720 Landshut (Bayern) Hbf (Gleis 1) - Landshut (Bayern) Hbf Weiche 427</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.54732/12.13605/standard&amp;lonlats=12.136169,48.547362;12.1311,48.546101&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.547358" lon="12.13617"><ele>392.25</ele></trkpt>
+   <trkpt lat="48.547044" lon="12.134983"><ele>392.5</ele></trkpt>
+   <trkpt lat="48.546353" lon="12.132388"><ele>393</ele></trkpt>
+   <trkpt lat="48.546265" lon="12.131992"><ele>391.75</ele></trkpt>
+   <trkpt lat="48.54618" lon="12.131536"><ele>390.75</ele></trkpt>
+   <trkpt lat="48.5461" lon="12.131099"><ele>390.25</ele></trkpt>
+   <trkpt lat="48.5461" lon="12.131099"><ele>390.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

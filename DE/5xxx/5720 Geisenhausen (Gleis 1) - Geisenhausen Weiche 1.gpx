@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 255 filtered ascend = 0 plain-ascend = -3 cost=255 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5720 Geisenhausen (Gleis 1) - Geisenhausen Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.47383/12.24852/standard&amp;lonlats=12.248295,48.473955;12.251065,48.472669&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.473954" lon="12.248294"><ele>461.25</ele></trkpt>
+   <trkpt lat="48.473928" lon="12.248358"><ele>461.25</ele></trkpt>
+   <trkpt lat="48.47373" lon="12.248849"><ele>461.5</ele></trkpt>
+   <trkpt lat="48.473426" lon="12.249606"><ele>460.75</ele></trkpt>
+   <trkpt lat="48.473195" lon="12.250123"><ele>460.25</ele></trkpt>
+   <trkpt lat="48.472978" lon="12.250538"><ele>459.5</ele></trkpt>
+   <trkpt lat="48.472669" lon="12.251063"><ele>457.75</ele></trkpt>
+   <trkpt lat="48.472668" lon="12.251064"><ele>457.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

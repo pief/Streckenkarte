@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 326 filtered ascend = 0 plain-ascend = -1 cost=326 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5720 Egglkofen (Gleis 1) - Egglkofen Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.39590/12.44657/standard&amp;lonlats=12.445723,48.395817;12.449787,48.394806&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.395818" lon="12.445723"><ele>456.5</ele></trkpt>
+   <trkpt lat="48.395817" lon="12.445729"><ele>456.75</ele></trkpt>
+   <trkpt lat="48.395731" lon="12.446072"><ele>456.75</ele></trkpt>
+   <trkpt lat="48.395272" lon="12.447939"><ele>454</ele></trkpt>
+   <trkpt lat="48.394954" lon="12.44923"><ele>453.25</ele></trkpt>
+   <trkpt lat="48.394806" lon="12.449788"><ele>454.5</ele></trkpt>
+   <trkpt lat="48.394806" lon="12.449787"><ele>454.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

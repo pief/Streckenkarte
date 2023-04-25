@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 234 filtered ascend = 0 plain-ascend = 0 cost=234 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5720 Vilsbiburg (Gleis 1) - Vilsbiburg Weiche 9</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.44923/12.34877/standard&amp;lonlats=12.347498,48.447166;12.348373,48.449155&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.447166" lon="12.347492"><ele>450.75</ele></trkpt>
+   <trkpt lat="48.447172" lon="12.347495"><ele>451</ele></trkpt>
+   <trkpt lat="48.447349" lon="12.347579"><ele>451.5</ele></trkpt>
+   <trkpt lat="48.447982" lon="12.347884"><ele>450.5</ele></trkpt>
+   <trkpt lat="48.448428" lon="12.348072"><ele>450</ele></trkpt>
+   <trkpt lat="48.448564" lon="12.348123"><ele>450.25</ele></trkpt>
+   <trkpt lat="48.448779" lon="12.348196"><ele>450.5</ele></trkpt>
+   <trkpt lat="48.449154" lon="12.348368"><ele>450.75</ele></trkpt>
+   <trkpt lat="48.449155" lon="12.348368"><ele>450.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

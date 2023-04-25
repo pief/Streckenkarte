@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 524 filtered ascend = 0 plain-ascend = -1 cost=524 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5720 Geisenhausen (Gleis 1) - Geisenhausen Weiche 9</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.47632/12.24292/standard&amp;lonlats=12.248295,48.473955;12.242289,48.476419&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.473954" lon="12.248294"><ele>461.25</ele></trkpt>
+   <trkpt lat="48.474059" lon="12.248044"><ele>461.5</ele></trkpt>
+   <trkpt lat="48.474306" lon="12.247442"><ele>461.75</ele></trkpt>
+   <trkpt lat="48.474433" lon="12.247149"><ele>461.5</ele></trkpt>
+   <trkpt lat="48.476414" lon="12.24229"><ele>459.75</ele></trkpt>
+   <trkpt lat="48.476415" lon="12.242285"><ele>459.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
