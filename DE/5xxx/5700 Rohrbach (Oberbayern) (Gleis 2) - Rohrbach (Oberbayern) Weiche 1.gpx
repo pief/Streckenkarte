@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 414 filtered ascend = 0 plain-ascend = -2 cost=414 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5700 Rohrbach (Oberbayern) (Gleis 2) - Rohrbach (Oberbayern) Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.29784/12.55112/standard&amp;lonlats=12.551102,48.298037;12.554479,48.295118&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.298047" lon="12.551122"><ele>418.5</ele></trkpt>
+   <trkpt lat="48.298026" lon="12.551148"><ele>418.75</ele></trkpt>
+   <trkpt lat="48.295873" lon="12.553734"><ele>415.25</ele></trkpt>
+   <trkpt lat="48.295734" lon="12.553882"><ele>415.5</ele></trkpt>
+   <trkpt lat="48.295525" lon="12.554095"><ele>415.75</ele></trkpt>
+   <trkpt lat="48.295115" lon="12.554479"><ele>416</ele></trkpt>
+   <trkpt lat="48.295117" lon="12.554477"><ele>415.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
