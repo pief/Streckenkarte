@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 0 plain-ascend = -1 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5710 Steinhöring (Gleis 1) - Steinhöring Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.08367/12.03165/standard&amp;lonlats=12.031695,48.083548;12.029024,48.083125&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.083547" lon="12.031694"><ele>510.25</ele></trkpt>
+   <trkpt lat="48.083532" lon="12.031594"><ele>510.5</ele></trkpt>
+   <trkpt lat="48.083294" lon="12.030115"><ele>510</ele></trkpt>
+   <trkpt lat="48.083126" lon="12.029035"><ele>508.75</ele></trkpt>
+   <trkpt lat="48.083124" lon="12.029023"><ele>508.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

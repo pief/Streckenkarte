@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1218 filtered ascend = 5 plain-ascend = 4 cost=1218 energy=0.0kwh time=1m 37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5710 Neuhausen (b Ebersberg) - Oberndorf (b Ebersberg)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.08167/12.00996/standard&amp;lonlats=12.009752,48.081702;11.994131,48.078925&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.081699" lon="12.009751"><ele>519.75</ele></trkpt>
+   <trkpt lat="48.081693" lon="12.009412"><ele>519.75</ele></trkpt>
+   <trkpt lat="48.081654" lon="12.008525"><ele>519.25</ele></trkpt>
+   <trkpt lat="48.081628" lon="12.00817"><ele>519.25</ele></trkpt>
+   <trkpt lat="48.081574" lon="12.007687"><ele>519.75</ele></trkpt>
+   <trkpt lat="48.081499" lon="12.007111"><ele>520</ele></trkpt>
+   <trkpt lat="48.081463" lon="12.006881"><ele>520</ele></trkpt>
+   <trkpt lat="48.080191" lon="11.998655"><ele>521</ele></trkpt>
+   <trkpt lat="48.080003" lon="11.997513"><ele>521.75</ele></trkpt>
+   <trkpt lat="48.079911" lon="11.99704"><ele>523</ele></trkpt>
+   <trkpt lat="48.079818" lon="11.996691"><ele>524.5</ele></trkpt>
+   <trkpt lat="48.079686" lon="11.996286"><ele>525.25</ele></trkpt>
+   <trkpt lat="48.078923" lon="11.994131"><ele>523.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

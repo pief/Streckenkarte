@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 1 plain-ascend = 2 cost=299 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5710 Ebersberg (Oberbayern) (Gleis 2) - Ebersberg (Oberbayern) Weiche 101</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.07490/11.97120/standard&amp;lonlats=11.970589,48.074893;11.966706,48.074569&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.074893" lon="11.970587"><ele>564.25</ele></trkpt>
+   <trkpt lat="48.074863" lon="11.970253"><ele>564.5</ele></trkpt>
+   <trkpt lat="48.074853" lon="11.970057"><ele>564.75</ele></trkpt>
+   <trkpt lat="48.074832" lon="11.969311"><ele>564</ele></trkpt>
+   <trkpt lat="48.074823" lon="11.968309"><ele>564</ele></trkpt>
+   <trkpt lat="48.07481" lon="11.967804"><ele>564.25</ele></trkpt>
+   <trkpt lat="48.074799" lon="11.967659"><ele>564.25</ele></trkpt>
+   <trkpt lat="48.074776" lon="11.96749"><ele>564.25</ele></trkpt>
+   <trkpt lat="48.074722" lon="11.967208"><ele>564.75</ele></trkpt>
+   <trkpt lat="48.074643" lon="11.96692"><ele>565.25</ele></trkpt>
+   <trkpt lat="48.07457" lon="11.966709"><ele>565.75</ele></trkpt>
+   <trkpt lat="48.074568" lon="11.966705"><ele>565.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
