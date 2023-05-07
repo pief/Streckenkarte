@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1082 filtered ascend = 0 plain-ascend = 0 cost=1082 energy=0.0kwh time=1m 27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5113 Gosberg - Pinzberg</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.70424/11.10909/standard&amp;lonlats=11.108937,49.704309;11.097177,49.6988&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.704307" lon="11.108938"><ele>267.75</ele></trkpt>
+   <trkpt lat="49.701358" lon="11.104504"><ele>268.25</ele></trkpt>
+   <trkpt lat="49.700196" lon="11.102593"><ele>267.75</ele></trkpt>
+   <trkpt lat="49.69961" lon="11.101504"><ele>268.25</ele></trkpt>
+   <trkpt lat="49.69941" lon="11.101027"><ele>268.5</ele></trkpt>
+   <trkpt lat="49.699253" lon="11.100491"><ele>268.5</ele></trkpt>
+   <trkpt lat="49.699167" lon="11.100046"><ele>268</ele></trkpt>
+   <trkpt lat="49.698911" lon="11.098076"><ele>267</ele></trkpt>
+   <trkpt lat="49.698806" lon="11.097206"><ele>267</ele></trkpt>
+   <trkpt lat="49.698802" lon="11.097175"><ele>267</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

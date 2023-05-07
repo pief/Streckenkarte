@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 0 plain-ascend = 0 cost=183 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5113 Ebermannstadt (Gleis 1) - Ebermannstadt Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.77659/11.18665/standard&amp;lonlats=11.186646,49.776676;11.185916,49.775152&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.776673" lon="11.18665"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.776512" lon="11.186523"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.776262" lon="11.186331"><ele>290.5</ele></trkpt>
+   <trkpt lat="49.776041" lon="11.18619"><ele>290</ele></trkpt>
+   <trkpt lat="49.775858" lon="11.186092"><ele>290</ele></trkpt>
+   <trkpt lat="49.775574" lon="11.185997"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.775433" lon="11.185959"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.775151" lon="11.185916"><ele>290.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

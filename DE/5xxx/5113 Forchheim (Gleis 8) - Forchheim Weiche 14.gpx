@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 216 filtered ascend = 0 plain-ascend = 0 cost=216 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5113 Forchheim (Gleis 8) - Forchheim Weiche 14</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.71554/11.07112/standard&amp;lonlats=11.070423,49.71696;11.070938,49.715066&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.71696" lon="11.070425"><ele>264</ele></trkpt>
+   <trkpt lat="49.716812" lon="11.070475"><ele>264</ele></trkpt>
+   <trkpt lat="49.716329" lon="11.070632"><ele>264</ele></trkpt>
+   <trkpt lat="49.716033" lon="11.070716"><ele>264.5</ele></trkpt>
+   <trkpt lat="49.715608" lon="11.070819"><ele>264.5</ele></trkpt>
+   <trkpt lat="49.715067" lon="11.070939"><ele>264</ele></trkpt>
+   <trkpt lat="49.715066" lon="11.070939"><ele>264</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

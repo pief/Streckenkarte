@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1248 filtered ascend = 0 plain-ascend = -3 cost=1248 energy=0.0kwh time=1m 40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5113 Pinzberg - Sigritzau</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.69856/11.09751/standard&amp;lonlats=11.097177,49.6988;11.080827,49.701228&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.698802" lon="11.097175"><ele>267</ele></trkpt>
+   <trkpt lat="49.698754" lon="11.09678"><ele>267.25</ele></trkpt>
+   <trkpt lat="49.69842" lon="11.094098"><ele>266</ele></trkpt>
+   <trkpt lat="49.69839" lon="11.093389"><ele>266</ele></trkpt>
+   <trkpt lat="49.698405" lon="11.092379"><ele>265.75</ele></trkpt>
+   <trkpt lat="49.6985" lon="11.091463"><ele>266</ele></trkpt>
+   <trkpt lat="49.698522" lon="11.091351"><ele>266</ele></trkpt>
+   <trkpt lat="49.698689" lon="11.090437"><ele>266.25</ele></trkpt>
+   <trkpt lat="49.698763" lon="11.0901"><ele>266</ele></trkpt>
+   <trkpt lat="49.699013" lon="11.089151"><ele>264.75</ele></trkpt>
+   <trkpt lat="49.699641" lon="11.086914"><ele>265.75</ele></trkpt>
+   <trkpt lat="49.701226" lon="11.080825"><ele>263.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
