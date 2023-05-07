@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 7 plain-ascend = 8 cost=288 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>677000 Cerbère (Gleis C) - Cerbère Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/42.43952/3.16168/standard&amp;lonlats=3.163518,42.441469;3.161462,42.439462&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.441468" lon="3.163517"><ele>19.5</ele></trkpt>
+   <trkpt lat="42.441426" lon="3.163445"><ele>20</ele></trkpt>
+   <trkpt lat="42.441292" lon="3.163242"><ele>20.5</ele></trkpt>
+   <trkpt lat="42.441071" lon="3.162934"><ele>20.5</ele></trkpt>
+   <trkpt lat="42.440857" lon="3.162662"><ele>20.75</ele></trkpt>
+   <trkpt lat="42.440641" lon="3.162407"><ele>21</ele></trkpt>
+   <trkpt lat="42.440528" lon="3.162284"><ele>21</ele></trkpt>
+   <trkpt lat="42.440268" lon="3.162026"><ele>20.75</ele></trkpt>
+   <trkpt lat="42.440087" lon="3.161868"><ele>20.5</ele></trkpt>
+   <trkpt lat="42.439868" lon="3.161704"><ele>21.75</ele></trkpt>
+   <trkpt lat="42.439782" lon="3.161648"><ele>22.75</ele></trkpt>
+   <trkpt lat="42.439462" lon="3.161463"><ele>27</ele></trkpt>
+   <trkpt lat="42.43946" lon="3.161462"><ele>27</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

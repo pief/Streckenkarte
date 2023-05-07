@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 1 plain-ascend = 1 cost=228 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>677000 Cerbère Weiche NNN3 - Cerbère (Gleis C)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/42.44238/3.16545/standard&amp;lonlats=3.165736,42.44264;3.163519,42.44147&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.442637" lon="3.165737"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.442637" lon="3.165737"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.442573" lon="3.165624"><ele>17.75</ele></trkpt>
+   <trkpt lat="42.442383" lon="3.165245"><ele>18.25</ele></trkpt>
+   <trkpt lat="42.442084" lon="3.164633"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.441612" lon="3.163761"><ele>18.75</ele></trkpt>
+   <trkpt lat="42.441498" lon="3.163567"><ele>19.5</ele></trkpt>
+   <trkpt lat="42.441469" lon="3.163518"><ele>19.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = 0 cost=109 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>677000 Perpignan Weiche SSS1 - Perpignan Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/42.69037/2.88185/standard&amp;lonlats=2.880973,42.692184;2.881344,42.691258&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.692184" lon="2.880973"><ele>37</ele></trkpt>
+   <trkpt lat="42.691831" lon="2.881118"><ele>36.75</ele></trkpt>
+   <trkpt lat="42.69126" lon="2.881347"><ele>37</ele></trkpt>
+   <trkpt lat="42.691258" lon="2.881347"><ele>37</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

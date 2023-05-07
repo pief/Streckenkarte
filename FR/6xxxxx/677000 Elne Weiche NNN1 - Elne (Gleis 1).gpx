@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 619 filtered ascend = 4 plain-ascend = 4 cost=620 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>677000 Elne Weiche NNN1 - Elne (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.59718/2.96336/standard&amp;lonlats=2.964871,42.602554;2.963462,42.597118&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.602553" lon="2.964871"><ele>15.5</ele></trkpt>
+   <trkpt lat="42.602155" lon="2.964818"><ele>16.25</ele></trkpt>
+   <trkpt lat="42.601408" lon="2.964658"><ele>17.75</ele></trkpt>
+   <trkpt lat="42.600467" lon="2.964403"><ele>18.25</ele></trkpt>
+   <trkpt lat="42.599372" lon="2.964084"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.599296" lon="2.964063"><ele>18.75</ele></trkpt>
+   <trkpt lat="42.597138" lon="2.963475"><ele>19.75</ele></trkpt>
+   <trkpt lat="42.597115" lon="2.963468"><ele>19.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

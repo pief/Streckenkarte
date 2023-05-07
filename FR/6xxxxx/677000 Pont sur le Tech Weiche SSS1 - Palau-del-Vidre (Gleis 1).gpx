@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 810 filtered ascend = 0 plain-ascend = 0 cost=810 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>677000 Pont sur le Tech Weiche SSS1 - Palau-del-Vidre (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/42.57614/2.96589/standard&amp;lonlats=2.961602,42.58263;2.965426,42.576197&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.58263" lon="2.961602"/>
+   <trkpt lat="42.582628" lon="2.961603"/>
+   <trkpt lat="42.582153" lon="2.961685"><ele>19.5</ele></trkpt>
+   <trkpt lat="42.581275" lon="2.961834"><ele>18</ele></trkpt>
+   <trkpt lat="42.581054" lon="2.961881"><ele>18</ele></trkpt>
+   <trkpt lat="42.580813" lon="2.96194"><ele>18</ele></trkpt>
+   <trkpt lat="42.580168" lon="2.962144"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.579734" lon="2.962339"><ele>19.25</ele></trkpt>
+   <trkpt lat="42.579344" lon="2.962543"><ele>19.5</ele></trkpt>
+   <trkpt lat="42.578878" lon="2.962805"><ele>19.5</ele></trkpt>
+   <trkpt lat="42.578432" lon="2.963116"><ele>18.5</ele></trkpt>
+   <trkpt lat="42.577602" lon="2.963789"><ele>17.25</ele></trkpt>
+   <trkpt lat="42.577204" lon="2.964159"><ele>17.5</ele></trkpt>
+   <trkpt lat="42.57661" lon="2.96484"><ele>19</ele></trkpt>
+   <trkpt lat="42.57635" lon="2.965182"><ele>19.25</ele></trkpt>
+   <trkpt lat="42.576273" lon="2.965288"><ele>19.25</ele></trkpt>
+   <trkpt lat="42.576192" lon="2.96542"><ele>19</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

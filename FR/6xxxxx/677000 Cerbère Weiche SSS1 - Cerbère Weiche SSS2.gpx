@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 39 filtered ascend = 2 plain-ascend = 3 cost=39 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>677000 Cerbère Weiche SSS1 - Cerbère Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/42.43932/3.16165/standard&amp;lonlats=3.161462,42.439462;3.161288,42.439158&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="42.43946" lon="3.161462"><ele>27</ele></trkpt>
+   <trkpt lat="42.439235" lon="3.161337"><ele>29</ele></trkpt>
+   <trkpt lat="42.439157" lon="3.16129"><ele>29.75</ele></trkpt>
+   <trkpt lat="42.439157" lon="3.16129"><ele>29.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
