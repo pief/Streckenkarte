@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 255 filtered ascend = 0 plain-ascend = 0 cost=255 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>819000 Vauvert Weiche NNN1 - Vauvert (Ostgleis)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.69528/4.27000/standard&amp;lonlats=4.271005,43.697264;4.270058,43.695104&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.697263" lon="4.271005"><ele>19.75</ele></trkpt>
+   <trkpt lat="43.697253" lon="4.271"><ele>19.75</ele></trkpt>
+   <trkpt lat="43.69694" lon="4.27084"><ele>19.25</ele></trkpt>
+   <trkpt lat="43.696111" lon="4.270486"><ele>18.5</ele></trkpt>
+   <trkpt lat="43.696074" lon="4.270469"><ele>18.5</ele></trkpt>
+   <trkpt lat="43.695102" lon="4.270058"><ele>18.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

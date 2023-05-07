@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 665 filtered ascend = 1 plain-ascend = 0 cost=665 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>819000 Saint-Césaire (Gleis 3) - Saint-Césaire Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.80741/4.32100/standard&amp;lonlats=4.325753,43.81206;4.320454,43.807532&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.812065" lon="4.325744"><ele>37</ele></trkpt>
+   <trkpt lat="43.811726" lon="4.325265"><ele>37</ele></trkpt>
+   <trkpt lat="43.811135" lon="4.324455"><ele>37</ele></trkpt>
+   <trkpt lat="43.810571" lon="4.323739"><ele>36.5</ele></trkpt>
+   <trkpt lat="43.809556" lon="4.322564"><ele>38.25</ele></trkpt>
+   <trkpt lat="43.808846" lon="4.321809"><ele>38</ele></trkpt>
+   <trkpt lat="43.807787" lon="4.320716"><ele>37.5</ele></trkpt>
+   <trkpt lat="43.807531" lon="4.32046"><ele>37</ele></trkpt>
+   <trkpt lat="43.807528" lon="4.320458"><ele>37</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

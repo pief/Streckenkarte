@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 424 filtered ascend = 1 plain-ascend = 2 cost=424 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>819000 Vauvert Weiche SSS1 - Vauvert (Westgleis)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.69137/4.26834/standard&amp;lonlats=4.268449,43.69149;4.27001,43.69511&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.691488" lon="4.268449"><ele>17</ele></trkpt>
+   <trkpt lat="43.691495" lon="4.268453"><ele>17</ele></trkpt>
+   <trkpt lat="43.691759" lon="4.268593"><ele>17</ele></trkpt>
+   <trkpt lat="43.692086" lon="4.268734"><ele>16.5</ele></trkpt>
+   <trkpt lat="43.69507" lon="4.269998"><ele>18.75</ele></trkpt>
+   <trkpt lat="43.695107" lon="4.270014"><ele>18.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
