@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 112 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5510 München Ost Pbf Weiche 131 - München Ost Pbf Weiche 132</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.12508/11.60261/standard&amp;lonlats=11.601509,48.124811;11.602624,48.125442&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.12481" lon="11.601508"><ele>530.75</ele></trkpt>
+   <trkpt lat="48.124813" lon="11.601513"><ele>530.75</ele></trkpt>
+   <trkpt lat="48.125007" lon="11.601869"><ele>529.75</ele></trkpt>
+   <trkpt lat="48.125103" lon="11.602049"><ele>529.75</ele></trkpt>
+   <trkpt lat="48.125442" lon="11.602624"><ele>530</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

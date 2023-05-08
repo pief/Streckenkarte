@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=25 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5510 München Süd Weiche 2 - München Süd Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.12613/11.54519/standard&amp;lonlats=11.544949,48.126339;11.545211,48.126206">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.126339" lon="11.544949"><ele>527.75</ele></trkpt>
+   <trkpt lat="48.126206" lon="11.545211"><ele>526.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 363 filtered ascend = 0 plain-ascend = 0 cost=363 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5510 München Hbf (Gleis 10) - München Hbf Weiche 267</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.14053/11.55202/standard&amp;lonlats=11.554753,48.139956;11.550132,48.140866">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.139954" lon="11.554752"><ele>521.75</ele></trkpt>
+   <trkpt lat="48.140002" lon="11.554554"><ele>521.25</ele></trkpt>
+   <trkpt lat="48.140297" lon="11.553308"><ele>520.25</ele></trkpt>
+   <trkpt lat="48.140552" lon="11.552217"><ele>519</ele></trkpt>
+   <trkpt lat="48.140671" lon="11.551573"><ele>518</ele></trkpt>
+   <trkpt lat="48.140762" lon="11.550969"><ele>519.75</ele></trkpt>
+   <trkpt lat="48.140809" lon="11.55066"><ele>520.25</ele></trkpt>
+   <trkpt lat="48.140866" lon="11.550132"><ele>520.75</ele></trkpt>
+   <trkpt lat="48.140866" lon="11.550132"><ele>520.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

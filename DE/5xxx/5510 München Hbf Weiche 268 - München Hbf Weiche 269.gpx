@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 2 plain-ascend = 2 cost=57 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5510 München Hbf Weiche 268 - München Hbf Weiche 269</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.14094/11.54870/standard&amp;lonlats=11.549365,48.140926;11.548629,48.140971">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.140924" lon="11.549364"><ele>520.75</ele></trkpt>
+   <trkpt lat="48.140956" lon="11.548946"><ele>521.5</ele></trkpt>
+   <trkpt lat="48.14097" lon="11.548627"><ele>523</ele></trkpt>
+   <trkpt lat="48.14097" lon="11.548629"><ele>522.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

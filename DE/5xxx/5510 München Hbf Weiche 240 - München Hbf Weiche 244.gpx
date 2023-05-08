@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5510 München Hbf Weiche 240 - München Hbf Weiche 244</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.14120/11.54569/standard&amp;lonlats=11.545161,48.141278;11.545837,48.141232">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.141278" lon="11.545161"><ele>519</ele></trkpt>
+   <trkpt lat="48.141231" lon="11.545835"><ele>517.75</ele></trkpt>
+   <trkpt lat="48.14123" lon="11.545836"><ele>517.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
