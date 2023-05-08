@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 2 plain-ascend = 3 cost=343 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5914 Bad Windsheim Weiche 16 - Bad Windsheim (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.50662/10.41397/standard&amp;lonlats=10.417094,49.50815;10.413006,49.506659&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.508148" lon="10.417094"><ele>314</ele></trkpt>
+   <trkpt lat="49.508146" lon="10.417088"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.508054" lon="10.416797"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.508045" lon="10.416769"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.507948" lon="10.416461"><ele>315</ele></trkpt>
+   <trkpt lat="49.507531" lon="10.415347"><ele>316</ele></trkpt>
+   <trkpt lat="49.506665" lon="10.412998"><ele>316.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

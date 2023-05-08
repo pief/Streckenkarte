@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = -1 cost=47 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5914 Neustadt (Aisch) Weiche 55 - Neustadt (Aisch) Weiche 56</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.57661/10.58279/standard&amp;lonlats=10.583398,49.576732;10.58276,49.576753&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.576732" lon="10.583398"><ele>304.25</ele></trkpt>
+   <trkpt lat="49.576751" lon="10.582759"><ele>302.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
