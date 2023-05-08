@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 297 filtered ascend = 1 plain-ascend = 1 cost=298 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Oberschleißheim (Gleis 1) - Oberschleißheim Weiche 200</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.25467/11.55629/standard&amp;lonlats=11.557541,48.256971;11.555965,48.254528">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.25697" lon="11.557541"><ele>481.25</ele></trkpt>
+   <trkpt lat="48.255494" lon="11.556585"><ele>482.25</ele></trkpt>
+   <trkpt lat="48.254529" lon="11.555967"><ele>482.25</ele></trkpt>
+   <trkpt lat="48.254527" lon="11.555965"><ele>482</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

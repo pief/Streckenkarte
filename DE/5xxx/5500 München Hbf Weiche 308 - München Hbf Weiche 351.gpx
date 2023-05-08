@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 232 filtered ascend = 2 plain-ascend = 1 cost=232 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 München Hbf Weiche 308 - München Hbf Weiche 351</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.14132/11.54873/standard&amp;lonlats=11.55068,48.141304;11.547636,48.14153&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.141304" lon="11.55068"><ele>518.75</ele></trkpt>
+   <trkpt lat="48.141305" lon="11.550679"><ele>519</ele></trkpt>
+   <trkpt lat="48.141344" lon="11.550155"><ele>520</ele></trkpt>
+   <trkpt lat="48.141492" lon="11.548169"><ele>521.25</ele></trkpt>
+   <trkpt lat="48.141519" lon="11.547805"><ele>520.5</ele></trkpt>
+   <trkpt lat="48.141531" lon="11.547636"><ele>520</ele></trkpt>
+   <trkpt lat="48.14153" lon="11.547636"><ele>520</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 826 filtered ascend = 5 plain-ascend = 5 cost=826 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 München-Feldmoching Weiche 36 - München-Feldmoching (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.21364/11.54122/standard&amp;lonlats=11.541591,48.221174;11.541151,48.213785">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.221174" lon="11.541591"><ele>489.5</ele></trkpt>
+   <trkpt lat="48.221175" lon="11.541591"><ele>489.5</ele></trkpt>
+   <trkpt lat="48.220272" lon="11.541537"><ele>491</ele></trkpt>
+   <trkpt lat="48.219662" lon="11.541522"><ele>491.75</ele></trkpt>
+   <trkpt lat="48.218303" lon="11.541447"><ele>493.25</ele></trkpt>
+   <trkpt lat="48.215266" lon="11.54125"><ele>494.5</ele></trkpt>
+   <trkpt lat="48.213784" lon="11.541148"><ele>494.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

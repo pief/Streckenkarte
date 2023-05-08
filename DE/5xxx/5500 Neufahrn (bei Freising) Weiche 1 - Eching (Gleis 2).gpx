@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1559 filtered ascend = 4 plain-ascend = 4 cost=1559 energy=0.0kwh time=2m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Neufahrn (bei Freising) Weiche 1 - Eching (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.30292/11.61674/standard&amp;lonlats=11.634892,48.310016;11.616742,48.302998">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.310013" lon="11.634893"><ele>461.75</ele></trkpt>
+   <trkpt lat="48.308353" lon="11.630584"><ele>462.25</ele></trkpt>
+   <trkpt lat="48.308193" lon="11.630165"><ele>461.75</ele></trkpt>
+   <trkpt lat="48.307888" lon="11.629385"><ele>461.25</ele></trkpt>
+   <trkpt lat="48.307006" lon="11.627104"><ele>466</ele></trkpt>
+   <trkpt lat="48.305768" lon="11.623888"><ele>463.75</ele></trkpt>
+   <trkpt lat="48.303608" lon="11.61831"><ele>465</ele></trkpt>
+   <trkpt lat="48.303" lon="11.616738"><ele>466</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

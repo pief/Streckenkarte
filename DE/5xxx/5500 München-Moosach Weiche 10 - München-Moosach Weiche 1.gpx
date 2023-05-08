@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 351 filtered ascend = 2 plain-ascend = 2 cost=351 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 München-Moosach Weiche 10 - München-Moosach Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.17353/11.49927/standard&amp;lonlats=11.501724,48.176138;11.499007,48.173591">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.176137" lon="11.501723"><ele>507.5</ele></trkpt>
+   <trkpt lat="48.175737" lon="11.501302"><ele>508.75</ele></trkpt>
+   <trkpt lat="48.174174" lon="11.499634"><ele>509.25</ele></trkpt>
+   <trkpt lat="48.174032" lon="11.499481"><ele>509.5</ele></trkpt>
+   <trkpt lat="48.173591" lon="11.499008"><ele>509.5</ele></trkpt>
+   <trkpt lat="48.17359" lon="11.499006"><ele>509.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

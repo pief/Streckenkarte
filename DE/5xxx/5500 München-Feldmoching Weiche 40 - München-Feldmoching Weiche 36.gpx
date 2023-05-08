@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 151 filtered ascend = 0 plain-ascend = 0 cost=151 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 München-Feldmoching Weiche 40 - München-Feldmoching Weiche 36</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.22114/11.54212/standard&amp;lonlats=11.54172,48.222517;11.541591,48.221174">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.222517" lon="11.54172"><ele>490</ele></trkpt>
+   <trkpt lat="48.221417" lon="11.541615"><ele>489.25</ele></trkpt>
+   <trkpt lat="48.221175" lon="11.541591"><ele>489.5</ele></trkpt>
+   <trkpt lat="48.221174" lon="11.541591"><ele>489.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

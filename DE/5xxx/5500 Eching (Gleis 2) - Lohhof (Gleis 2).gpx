@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3125 filtered ascend = 6 plain-ascend = 5 cost=3125 energy=0.0kwh time=4m 10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Eching (Gleis 2) - Lohhof (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.28853/11.58208/standard&amp;lonlats=11.616742,48.302998;11.581172,48.288283">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.303" lon="11.616738"><ele>466</ele></trkpt>
+   <trkpt lat="48.302829" lon="11.616296"><ele>466.5</ele></trkpt>
+   <trkpt lat="48.302505" lon="11.615462"><ele>466.25</ele></trkpt>
+   <trkpt lat="48.302409" lon="11.615213"><ele>466.75</ele></trkpt>
+   <trkpt lat="48.296991" lon="11.601173"><ele>465.5</ele></trkpt>
+   <trkpt lat="48.293343" lon="11.591717"><ele>471</ele></trkpt>
+   <trkpt lat="48.291939" lon="11.588075"><ele>468</ele></trkpt>
+   <trkpt lat="48.291056" lon="11.585815"><ele>471</ele></trkpt>
+   <trkpt lat="48.290853" lon="11.585341"><ele>471</ele></trkpt>
+   <trkpt lat="48.290537" lon="11.584669"><ele>471.75</ele></trkpt>
+   <trkpt lat="48.290345" lon="11.584287"><ele>472.5</ele></trkpt>
+   <trkpt lat="48.290139" lon="11.583917"><ele>472.25</ele></trkpt>
+   <trkpt lat="48.289733" lon="11.583244"><ele>471</ele></trkpt>
+   <trkpt lat="48.289511" lon="11.582903"><ele>471.5</ele></trkpt>
+   <trkpt lat="48.289318" lon="11.582622"><ele>471.75</ele></trkpt>
+   <trkpt lat="48.288833" lon="11.581929"><ele>472</ele></trkpt>
+   <trkpt lat="48.288785" lon="11.58186"><ele>472</ele></trkpt>
+   <trkpt lat="48.288282" lon="11.581171"><ele>471</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 1 plain-ascend = -7 cost=327 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 München Hbf (Gleis 25) - München Hbf Weiche 327</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/48.14057/11.55619/standard&amp;lonlats=11.558836,48.140881;11.554494,48.141189">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.140879" lon="11.558835"><ele>529.75</ele></trkpt>
+   <trkpt lat="48.140973" lon="11.557567"><ele>531.25</ele></trkpt>
+   <trkpt lat="48.141135" lon="11.555347"><ele>522</ele></trkpt>
+   <trkpt lat="48.141188" lon="11.554495"><ele>522.25</ele></trkpt>
+   <trkpt lat="48.141188" lon="11.554493"><ele>522</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

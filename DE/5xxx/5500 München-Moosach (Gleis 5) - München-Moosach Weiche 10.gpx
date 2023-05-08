@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 559 filtered ascend = 0 plain-ascend = -1 cost=559 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 München-Moosach (Gleis 5) - München-Moosach Weiche 10</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.17621/11.50206/standard&amp;lonlats=11.506041,48.180205;11.501724,48.176138">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.180204" lon="11.50604"><ele>509</ele></trkpt>
+   <trkpt lat="48.18009" lon="11.505915"><ele>509.5</ele></trkpt>
+   <trkpt lat="48.178635" lon="11.504353"><ele>508</ele></trkpt>
+   <trkpt lat="48.177377" lon="11.503044"><ele>509.5</ele></trkpt>
+   <trkpt lat="48.176653" lon="11.502269"><ele>507</ele></trkpt>
+   <trkpt lat="48.176139" lon="11.501725"><ele>507.5</ele></trkpt>
+   <trkpt lat="48.176137" lon="11.501723"><ele>507.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=89 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 München Kanal Weiche 105 - München Kanal Weiche 101</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.14671/11.48902/standard&amp;lonlats=11.487974,48.147459;11.488757,48.146884">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.147457" lon="11.487971"><ele>526</ele></trkpt>
+   <trkpt lat="48.147334" lon="11.488131"><ele>526</ele></trkpt>
+   <trkpt lat="48.147138" lon="11.488395"><ele>525.75</ele></trkpt>
+   <trkpt lat="48.146883" lon="11.488755"><ele>525</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 430 filtered ascend = 1 plain-ascend = 1 cost=430 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Oberschleißheim Weiche 200 - Schleißheim Weiche 145</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.25107/11.55399/standard&amp;lonlats=11.555965,48.254528;11.55377,48.250973">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.254527" lon="11.555965"><ele>482</ele></trkpt>
+   <trkpt lat="48.253754" lon="11.555477"><ele>481.5</ele></trkpt>
+   <trkpt lat="48.253284" lon="11.55518"><ele>481.75</ele></trkpt>
+   <trkpt lat="48.251828" lon="11.554263"><ele>483.75</ele></trkpt>
+   <trkpt lat="48.251616" lon="11.554132"><ele>483.75</ele></trkpt>
+   <trkpt lat="48.251249" lon="11.553913"><ele>483.25</ele></trkpt>
+   <trkpt lat="48.250972" lon="11.55377"><ele>483</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
