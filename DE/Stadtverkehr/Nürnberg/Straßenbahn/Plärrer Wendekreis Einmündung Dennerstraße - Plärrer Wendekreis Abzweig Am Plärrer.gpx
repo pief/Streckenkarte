@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 0 plain-ascend = -1 cost=146 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Plärrer Wendekreis Einmündung Dennerstraße - Plärrer Wendekreis Abzweig Am Plärrer</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.44884/11.06447/standard&amp;lonlats=11.064111,49.448747;11.064244,49.448245&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.448746" lon="11.06411"><ele>310</ele></trkpt>
+   <trkpt lat="49.448578" lon="11.063974"><ele>310</ele></trkpt>
+   <trkpt lat="49.448514" lon="11.063945"><ele>310</ele></trkpt>
+   <trkpt lat="49.448447" lon="11.063946"><ele>309.75</ele></trkpt>
+   <trkpt lat="49.448414" lon="11.063958"><ele>309.5</ele></trkpt>
+   <trkpt lat="49.448354" lon="11.064"><ele>309.25</ele></trkpt>
+   <trkpt lat="49.448305" lon="11.064063"><ele>308.75</ele></trkpt>
+   <trkpt lat="49.448245" lon="11.064244"><ele>308.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

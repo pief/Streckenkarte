@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 0 plain-ascend = -6 cost=220 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Neutorgraben Einmündung Johannisstraße - Hallertor</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.45521/11.07117/standard&amp;lonlats=11.070415,49.456327;11.070351,49.455353&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.456325" lon="11.070418"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.455591" lon="11.070386"><ele>305.5</ele></trkpt>
+   <trkpt lat="49.45547" lon="11.070376"><ele>304.75</ele></trkpt>
+   <trkpt lat="49.455357" lon="11.07035"><ele>304</ele></trkpt>
+   <trkpt lat="49.455352" lon="11.070348"><ele>303.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
