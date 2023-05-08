@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 484 filtered ascend = 0 plain-ascend = -1 cost=968 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Arminiusstraße - Marthastraße</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.45367/11.11427/standard&amp;lonlats=11.108165,49.451566;11.113778,49.453848&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.451567" lon="11.108162"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.452159" lon="11.109672"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.45226" lon="11.109939"><ele>312</ele></trkpt>
+   <trkpt lat="49.452703" lon="11.111065"><ele>311</ele></trkpt>
+   <trkpt lat="49.453269" lon="11.112451"><ele>311.75</ele></trkpt>
+   <trkpt lat="49.453429" lon="11.112828"><ele>312</ele></trkpt>
+   <trkpt lat="49.453551" lon="11.113116"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.453667" lon="11.113367"><ele>312</ele></trkpt>
+   <trkpt lat="49.453796" lon="11.113656"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.453849" lon="11.113775"><ele>312.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

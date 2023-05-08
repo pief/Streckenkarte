@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 5 plain-ascend = 4 cost=576 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Widhalmstraße - Allersberger Straße Einmündung Scheurlstraße Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44294/11.08816/standard&amp;lonlats=11.085783,49.444574;11.088374,49.442913&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.444572" lon="11.085783"><ele>310</ele></trkpt>
+   <trkpt lat="49.444571" lon="11.085783"><ele>310</ele></trkpt>
+   <trkpt lat="49.444439" lon="11.085775"><ele>310</ele></trkpt>
+   <trkpt lat="49.444343" lon="11.085779"><ele>310</ele></trkpt>
+   <trkpt lat="49.444269" lon="11.085796"><ele>310</ele></trkpt>
+   <trkpt lat="49.444181" lon="11.085839"><ele>310</ele></trkpt>
+   <trkpt lat="49.444137" lon="11.085872"><ele>310.25</ele></trkpt>
+   <trkpt lat="49.44408" lon="11.085943"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.444014" lon="11.086052"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.443948" lon="11.08619"><ele>311.75</ele></trkpt>
+   <trkpt lat="49.443666" lon="11.086811"><ele>314</ele></trkpt>
+   <trkpt lat="49.443504" lon="11.087307"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.4434" lon="11.087582"><ele>315</ele></trkpt>
+   <trkpt lat="49.443233" lon="11.087889"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.443125" lon="11.088058"><ele>314.5</ele></trkpt>
+   <trkpt lat="49.443042" lon="11.088189"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.442912" lon="11.088374"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.442912" lon="11.088373"><ele>313.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

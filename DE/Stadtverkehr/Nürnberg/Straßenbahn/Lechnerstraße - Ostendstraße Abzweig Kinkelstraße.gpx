@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 405 filtered ascend = 3 plain-ascend = 3 cost=810 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Lechnerstraße - Ostendstraße Abzweig Kinkelstraße</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.45929/11.13024/standard&amp;lonlats=11.124742,49.45764;11.12972,49.459067&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.45764" lon="11.12474"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.457641" lon="11.124744"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.457759" lon="11.125152"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.457771" lon="11.125191"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.458015" lon="11.125953"><ele>314</ele></trkpt>
+   <trkpt lat="49.458098" lon="11.12623"><ele>314</ele></trkpt>
+   <trkpt lat="49.458317" lon="11.126952"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.458468" lon="11.127508"><ele>314</ele></trkpt>
+   <trkpt lat="49.458648" lon="11.128312"><ele>315.5</ele></trkpt>
+   <trkpt lat="49.45866" lon="11.128366"><ele>315.5</ele></trkpt>
+   <trkpt lat="49.458678" lon="11.128444"><ele>315.5</ele></trkpt>
+   <trkpt lat="49.458753" lon="11.128784"><ele>316</ele></trkpt>
+   <trkpt lat="49.458842" lon="11.129102"><ele>316.5</ele></trkpt>
+   <trkpt lat="49.458938" lon="11.129433"><ele>316.5</ele></trkpt>
+   <trkpt lat="49.459066" lon="11.129721"><ele>316.25</ele></trkpt>
+   <trkpt lat="49.459066" lon="11.129721"><ele>316.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

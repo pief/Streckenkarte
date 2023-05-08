@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Scharrerstraße (Ost) - Regensburger Straße Einmündung Scharrerstraße West</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.44299/11.10376/standard&amp;lonlats=11.104949,49.442731;11.104171,49.442984&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.442731" lon="11.104949"><ele>314</ele></trkpt>
+   <trkpt lat="49.442787" lon="11.10481"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.442876" lon="11.104587"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.442919" lon="11.104456"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.44294" lon="11.104372"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.442983" lon="11.10417"><ele>313</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

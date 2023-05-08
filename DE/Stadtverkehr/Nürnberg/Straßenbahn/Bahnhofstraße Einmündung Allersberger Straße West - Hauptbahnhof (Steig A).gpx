@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = 0 cost=242 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bahnhofstraße Einmündung Allersberger Straße West - Hauptbahnhof (Steig A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44736/11.08282/standard&amp;lonlats=11.084398,49.447346;11.082822,49.447478&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.447344" lon="11.084397"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.447345" lon="11.084396"><ele>311</ele></trkpt>
+   <trkpt lat="49.447363" lon="11.084157"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.447372" lon="11.08365"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.447382" lon="11.083507"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.447413" lon="11.083198"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.44743" lon="11.083076"><ele>311</ele></trkpt>
+   <trkpt lat="49.447472" lon="11.082851"><ele>311</ele></trkpt>
+   <trkpt lat="49.447478" lon="11.082822"><ele>311</ele></trkpt>
+   <trkpt lat="49.447478" lon="11.082822"><ele>311</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Hauptbahnhof Abzweig Königstorgraben - Hauptbahnhof Einmündung Königstorgraben/Abzweig Celtisunterführung</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44739/11.08242/standard&amp;lonlats=11.082629,49.447515;11.08206,49.447335&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.447514" lon="11.082628"><ele>311</ele></trkpt>
+   <trkpt lat="49.447515" lon="11.082624"><ele>311</ele></trkpt>
+   <trkpt lat="49.447542" lon="11.082469"><ele>311</ele></trkpt>
+   <trkpt lat="49.447543" lon="11.082411"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.447531" lon="11.082307"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.447518" lon="11.082263"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.44747" lon="11.082163"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.447444" lon="11.082128"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.447406" lon="11.082099"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.447328" lon="11.082057"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.447334" lon="11.082059"><ele>310.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

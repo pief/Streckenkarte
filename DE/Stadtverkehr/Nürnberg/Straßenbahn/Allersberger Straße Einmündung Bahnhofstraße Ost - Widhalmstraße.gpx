@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 283 filtered ascend = 0 plain-ascend = 0 cost=566 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Allersberger Straße Einmündung Bahnhofstraße Ost - Widhalmstraße</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44459/11.08587/standard&amp;lonlats=11.084926,49.446998;11.085783,49.444574&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.446998" lon="11.084926"><ele>311</ele></trkpt>
+   <trkpt lat="49.446998" lon="11.084927"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.446567" lon="11.085153"><ele>311.75</ele></trkpt>
+   <trkpt lat="49.445523" lon="11.085708"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.445322" lon="11.085779"><ele>310.25</ele></trkpt>
+   <trkpt lat="49.445266" lon="11.085796"><ele>310.25</ele></trkpt>
+   <trkpt lat="49.445053" lon="11.085812"><ele>310</ele></trkpt>
+   <trkpt lat="49.444572" lon="11.085783"><ele>310</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

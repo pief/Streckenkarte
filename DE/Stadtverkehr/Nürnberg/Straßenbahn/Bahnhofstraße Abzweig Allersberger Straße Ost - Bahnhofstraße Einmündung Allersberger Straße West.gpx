@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Bahnhofstraße Abzweig Allersberger Straße Ost - Bahnhofstraße Einmündung Allersberger Straße West</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.44734/11.08427/standard&amp;lonlats=11.085311,49.447277;11.084398,49.447346&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.447275" lon="11.08531"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.447276" lon="11.085305"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.447296" lon="11.085052"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.447344" lon="11.084397"><ele>310.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

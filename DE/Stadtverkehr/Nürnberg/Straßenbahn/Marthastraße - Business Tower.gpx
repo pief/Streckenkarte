@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 1 plain-ascend = 1 cost=700 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Marthastraße - Business Tower</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.45545/11.11828/standard&amp;lonlats=11.113778,49.453848;11.117839,49.455499&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.453849" lon="11.113775"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.45385" lon="11.113778"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.453954" lon="11.114018"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.454379" lon="11.115023"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.45465" lon="11.115704"><ele>313</ele></trkpt>
+   <trkpt lat="49.454812" lon="11.11613"><ele>312.75</ele></trkpt>
+   <trkpt lat="49.454908" lon="11.116382"><ele>312.5</ele></trkpt>
+   <trkpt lat="49.455495" lon="11.117841"><ele>313</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

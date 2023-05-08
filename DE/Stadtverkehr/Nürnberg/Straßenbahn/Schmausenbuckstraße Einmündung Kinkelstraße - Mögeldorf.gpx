@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=50 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Schmausenbuckstraße Einmündung Kinkelstraße - Mögeldorf</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/49.45960/11.13184/standard&amp;lonlats=11.131845,49.459468;11.131682,49.459657&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.459468" lon="11.131845"><ele>315.75</ele></trkpt>
+   <trkpt lat="49.459655" lon="11.131679"><ele>315.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
