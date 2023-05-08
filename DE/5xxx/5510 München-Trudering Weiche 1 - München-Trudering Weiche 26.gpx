@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1525 filtered ascend = 3 plain-ascend = 3 cost=1525 energy=0.0kwh time=2m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5510 München-Trudering Weiche 1 - München-Trudering Weiche 26</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.12422/11.67071/standard&amp;lonlats=11.652763,48.129989;11.67104,48.124238&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.129989" lon="11.652763"><ele>524.25</ele></trkpt>
+   <trkpt lat="48.129989" lon="11.652764"><ele>524.5</ele></trkpt>
+   <trkpt lat="48.128668" lon="11.655507"><ele>527.75</ele></trkpt>
+   <trkpt lat="48.127529" lon="11.657873"><ele>523.25</ele></trkpt>
+   <trkpt lat="48.127234" lon="11.658511"><ele>524.25</ele></trkpt>
+   <trkpt lat="48.127095" lon="11.658829"><ele>524.25</ele></trkpt>
+   <trkpt lat="48.126935" lon="11.659232"><ele>524.75</ele></trkpt>
+   <trkpt lat="48.126837" lon="11.6595"><ele>525.5</ele></trkpt>
+   <trkpt lat="48.12671" lon="11.659882"><ele>526.5</ele></trkpt>
+   <trkpt lat="48.126581" lon="11.660314"><ele>526.5</ele></trkpt>
+   <trkpt lat="48.126422" lon="11.660938"><ele>525.5</ele></trkpt>
+   <trkpt lat="48.126339" lon="11.6613"><ele>525.5</ele></trkpt>
+   <trkpt lat="48.126037" lon="11.662676"><ele>526.25</ele></trkpt>
+   <trkpt lat="48.125483" lon="11.665247"><ele>526.25</ele></trkpt>
+   <trkpt lat="48.12547" lon="11.665306"><ele>526.25</ele></trkpt>
+   <trkpt lat="48.124576" lon="11.669497"><ele>527.25</ele></trkpt>
+   <trkpt lat="48.124238" lon="11.67104"><ele>527.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

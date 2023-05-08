@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 992 filtered ascend = 0 plain-ascend = 0 cost=992 energy=0.0kwh time=1m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5510 Kirchseeon Weiche 101 - Kirchseeon Weiche 152</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.06942/11.88927/standard&amp;lonlats=11.879549,48.07528;11.889467,48.069381&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.075279" lon="11.879548"><ele>560.75</ele></trkpt>
+   <trkpt lat="48.075279" lon="11.87955"><ele>561</ele></trkpt>
+   <trkpt lat="48.074591" lon="11.880678"><ele>560.5</ele></trkpt>
+   <trkpt lat="48.074035" lon="11.881568"><ele>560.25</ele></trkpt>
+   <trkpt lat="48.072324" lon="11.884468"><ele>560.5</ele></trkpt>
+   <trkpt lat="48.070149" lon="11.888135"><ele>560.75</ele></trkpt>
+   <trkpt lat="48.069891" lon="11.888568"><ele>561</ele></trkpt>
+   <trkpt lat="48.069381" lon="11.889467"><ele>560.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
