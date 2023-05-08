@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 386 filtered ascend = 0 plain-ascend = -1 cost=386 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Landshut (Bayern) Hbf Weiche 414 - Landshut (Bayern) Hbf Weiche 403</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.54561/12.12244/standard&amp;lonlats=12.126779,48.545817;12.121619,48.545526&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.545815" lon="12.126778"><ele>392</ele></trkpt>
+   <trkpt lat="48.545815" lon="12.126776"><ele>392</ele></trkpt>
+   <trkpt lat="48.545785" lon="12.126213"><ele>391.5</ele></trkpt>
+   <trkpt lat="48.545763" lon="12.125806"><ele>391</ele></trkpt>
+   <trkpt lat="48.545635" lon="12.123617"><ele>392.5</ele></trkpt>
+   <trkpt lat="48.5456" lon="12.12301"><ele>392.25</ele></trkpt>
+   <trkpt lat="48.545525" lon="12.12162"><ele>390.25</ele></trkpt>
+   <trkpt lat="48.545524" lon="12.121618"><ele>390.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

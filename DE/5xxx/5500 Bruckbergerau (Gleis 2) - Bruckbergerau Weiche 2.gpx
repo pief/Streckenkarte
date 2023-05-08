@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 29 filtered ascend = 0 plain-ascend = 1 cost=29 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Bruckbergerau (Gleis 2) - Bruckbergerau Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.52064/12.01351/standard&amp;lonlats=12.013579,48.520659;12.013251,48.52056">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.520658" lon="12.013578"><ele>400.75</ele></trkpt>
+   <trkpt lat="48.520626" lon="12.013466"><ele>401</ele></trkpt>
+   <trkpt lat="48.520561" lon="12.013252"><ele>401.25</ele></trkpt>
+   <trkpt lat="48.52056" lon="12.013249"><ele>401.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

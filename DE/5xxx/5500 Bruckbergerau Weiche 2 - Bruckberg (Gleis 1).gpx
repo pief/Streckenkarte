@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1254 filtered ascend = 4 plain-ascend = 4 cost=1254 energy=0.0kwh time=1m 40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Bruckbergerau Weiche 2 - Bruckberg (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.51599/11.99802/standard&amp;lonlats=12.013251,48.52056;11.997807,48.516005">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.52056" lon="12.013249"><ele>401.25</ele></trkpt>
+   <trkpt lat="48.520561" lon="12.013252"><ele>401.25</ele></trkpt>
+   <trkpt lat="48.519774" lon="12.010581"><ele>402.25</ele></trkpt>
+   <trkpt lat="48.519126" lon="12.008389"><ele>402</ele></trkpt>
+   <trkpt lat="48.519098" lon="12.008292"><ele>402</ele></trkpt>
+   <trkpt lat="48.519006" lon="12.007978"><ele>402</ele></trkpt>
+   <trkpt lat="48.518379" lon="12.005849"><ele>402.75</ele></trkpt>
+   <trkpt lat="48.517702" lon="12.003544"><ele>402.25</ele></trkpt>
+   <trkpt lat="48.516928" lon="12.000929"><ele>405.75</ele></trkpt>
+   <trkpt lat="48.516542" lon="11.999623"><ele>404.75</ele></trkpt>
+   <trkpt lat="48.516513" lon="11.999529"><ele>404.75</ele></trkpt>
+   <trkpt lat="48.516006" lon="11.997804"><ele>405.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 602 filtered ascend = 0 plain-ascend = 0 cost=602 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Landshut (Bayern) Hbf (Gleis 6) - Landshut (Bayern) Hbf Weiche 430</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.54637/12.13080/standard&amp;lonlats=12.136016,48.54766;12.128402,48.545911&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.54766" lon="12.136014"><ele>391.5</ele></trkpt>
+   <trkpt lat="48.547429" lon="12.135151"><ele>391</ele></trkpt>
+   <trkpt lat="48.547418" lon="12.135109"><ele>391.25</ele></trkpt>
+   <trkpt lat="48.546462" lon="12.131493"><ele>390.75</ele></trkpt>
+   <trkpt lat="48.546268" lon="12.130766"><ele>390</ele></trkpt>
+   <trkpt lat="48.546222" lon="12.130581"><ele>390.5</ele></trkpt>
+   <trkpt lat="48.54614" lon="12.130255"><ele>391.25</ele></trkpt>
+   <trkpt lat="48.546038" lon="12.129725"><ele>391.5</ele></trkpt>
+   <trkpt lat="48.545992" lon="12.129406"><ele>390.75</ele></trkpt>
+   <trkpt lat="48.545943" lon="12.128952"><ele>390.5</ele></trkpt>
+   <trkpt lat="48.54591" lon="12.128401"><ele>391.75</ele></trkpt>
+   <trkpt lat="48.54591" lon="12.128401"><ele>391.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

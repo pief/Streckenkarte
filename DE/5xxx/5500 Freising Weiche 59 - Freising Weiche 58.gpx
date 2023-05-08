@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = 0 cost=99 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Freising Weiche 59 - Freising Weiche 58</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.39742/11.74756/standard&amp;lonlats=11.748338,48.39809;11.747483,48.397425">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.398089" lon="11.748337"><ele>443.25</ele></trkpt>
+   <trkpt lat="48.397427" lon="11.747483"><ele>442.75</ele></trkpt>
+   <trkpt lat="48.397425" lon="11.74748"><ele>442.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

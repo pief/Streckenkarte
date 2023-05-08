@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 1 plain-ascend = 1 cost=133 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Langenbach (Oberbayern) Weiche 16 - Langenbach (Oberbayern) Weiche 14</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.44105/11.85652/standard&amp;lonlats=11.856577,48.441832;11.855595,48.440854">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.441832" lon="11.856576"><ele>426.25</ele></trkpt>
+   <trkpt lat="48.441121" lon="11.855854"><ele>427.25</ele></trkpt>
+   <trkpt lat="48.441069" lon="11.855805"><ele>427.25</ele></trkpt>
+   <trkpt lat="48.440854" lon="11.855594"><ele>427.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 1 plain-ascend = 2 cost=214 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Neufahrn (bei Freising) Nord Weiche 34W64 - Neufahrn (bei Freising) Nord Weiche 36W61</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.34645/11.68941/standard&amp;lonlats=11.690805,48.347877;11.689158,48.346322">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.347875" lon="11.690806"><ele>450.5</ele></trkpt>
+   <trkpt lat="48.347875" lon="11.690805"><ele>450.5</ele></trkpt>
+   <trkpt lat="48.347068" lon="11.689949"><ele>451</ele></trkpt>
+   <trkpt lat="48.346322" lon="11.689159"><ele>452.25</ele></trkpt>
+   <trkpt lat="48.346321" lon="11.689157"><ele>452.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

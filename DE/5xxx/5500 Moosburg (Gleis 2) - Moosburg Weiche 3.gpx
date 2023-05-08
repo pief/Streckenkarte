@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 269 filtered ascend = 0 plain-ascend = 1 cost=269 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Moosburg (Gleis 2) - Moosburg Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.46852/11.92985/standard&amp;lonlats=11.930621,48.470446;11.929473,48.468202">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.470444" lon="11.930626"><ele>414.75</ele></trkpt>
+   <trkpt lat="48.469707" lon="11.930336"><ele>415.5</ele></trkpt>
+   <trkpt lat="48.469428" lon="11.930212"><ele>415.25</ele></trkpt>
+   <trkpt lat="48.469123" lon="11.930069"><ele>414.75</ele></trkpt>
+   <trkpt lat="48.468835" lon="11.929907"><ele>415</ele></trkpt>
+   <trkpt lat="48.468747" lon="11.929853"><ele>415</ele></trkpt>
+   <trkpt lat="48.46846" lon="11.92967"><ele>415.25</ele></trkpt>
+   <trkpt lat="48.468203" lon="11.929473"><ele>415.5</ele></trkpt>
+   <trkpt lat="48.468201" lon="11.929472"><ele>415.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 397 filtered ascend = 2 plain-ascend = 2 cost=397 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5500 Freising (Gleis 2) - Freising Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.39271/11.74148/standard&amp;lonlats=11.744532,48.395167;11.740988,48.392538">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.395165" lon="11.744533"><ele>443.75</ele></trkpt>
+   <trkpt lat="48.395083" lon="11.744425"><ele>444</ele></trkpt>
+   <trkpt lat="48.394535" lon="11.743695"><ele>443.5</ele></trkpt>
+   <trkpt lat="48.393132" lon="11.741786"><ele>444.25</ele></trkpt>
+   <trkpt lat="48.393097" lon="11.74174"><ele>444.25</ele></trkpt>
+   <trkpt lat="48.392538" lon="11.740992"><ele>445.75</ele></trkpt>
+   <trkpt lat="48.392536" lon="11.740989"><ele>445.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
