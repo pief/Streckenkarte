@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 199 filtered ascend = 2 plain-ascend = 3 cost=199 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5250 Steinach (bei Rotenburg ob der Tauber) Weiche 96W15 - Steinach (bei Rotenburg ob der Tauber) Weiche 96W18</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.45248/10.27396/standard&amp;lonlats=10.274632,49.450986;10.273841,49.452262;10.27372,49.452633&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.450985" lon="10.274631"><ele>368.25</ele></trkpt>
+   <trkpt lat="49.450985" lon="10.274632"><ele>368.25</ele></trkpt>
+   <trkpt lat="49.4514" lon="10.274305"><ele>369</ele></trkpt>
+   <trkpt lat="49.451826" lon="10.274035"><ele>369.5</ele></trkpt>
+   <trkpt lat="49.4522" lon="10.273859"><ele>370.25</ele></trkpt>
+   <trkpt lat="49.452261" lon="10.273839"><ele>370.25</ele></trkpt>
+   <trkpt lat="49.452633" lon="10.273723"><ele>370.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
