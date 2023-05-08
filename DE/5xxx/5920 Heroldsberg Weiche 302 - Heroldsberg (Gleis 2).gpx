@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 272 filtered ascend = 0 plain-ascend = -5 cost=272 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5920 Heroldsberg Weiche 302 - Heroldsberg (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.52862/11.15035/standard&amp;lonlats=11.149327,49.531001;11.149873,49.528616&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.531001" lon="11.149328"><ele>357.25</ele></trkpt>
+   <trkpt lat="49.531001" lon="11.149329"><ele>357.25</ele></trkpt>
+   <trkpt lat="49.53057" lon="11.14941"><ele>355.75</ele></trkpt>
+   <trkpt lat="49.529668" lon="11.14965"><ele>353.25</ele></trkpt>
+   <trkpt lat="49.529184" lon="11.14974"><ele>353</ele></trkpt>
+   <trkpt lat="49.528865" lon="11.149803"><ele>352</ele></trkpt>
+   <trkpt lat="49.528615" lon="11.149871"><ele>351</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

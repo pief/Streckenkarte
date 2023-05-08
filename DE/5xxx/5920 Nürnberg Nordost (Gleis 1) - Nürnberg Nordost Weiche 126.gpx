@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 511 filtered ascend = 3 plain-ascend = 5 cost=511 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5920 Nürnberg Nordost (Gleis 1) - Nürnberg Nordost Weiche 126</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.47455/11.10897/standard&amp;lonlats=11.105255,49.473717;11.110077,49.474692;11.111912,49.475042&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.473716" lon="11.105254"><ele>320.25</ele></trkpt>
+   <trkpt lat="49.473898" lon="11.106199"><ele>323</ele></trkpt>
+   <trkpt lat="49.474048" lon="11.106977"><ele>322.25</ele></trkpt>
+   <trkpt lat="49.474054" lon="11.107009"><ele>322.25</ele></trkpt>
+   <trkpt lat="49.474116" lon="11.107289"><ele>321.5</ele></trkpt>
+   <trkpt lat="49.474138" lon="11.107373"><ele>321.25</ele></trkpt>
+   <trkpt lat="49.474292" lon="11.107963"><ele>320.5</ele></trkpt>
+   <trkpt lat="49.474623" lon="11.109689"><ele>323</ele></trkpt>
+   <trkpt lat="49.474694" lon="11.110074"><ele>323</ele></trkpt>
+   <trkpt lat="49.474897" lon="11.111169"><ele>323.25</ele></trkpt>
+   <trkpt lat="49.475042" lon="11.111912"><ele>324.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

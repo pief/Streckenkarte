@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 181 filtered ascend = 0 plain-ascend = -1 cost=181 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5920 Gräfenberg - Gräfenberg Weiche SSS1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.64009/11.25070/standard&amp;lonlats=11.250281,49.641418;11.250115,49.639815&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.641416" lon="11.250286"><ele>391.25</ele></trkpt>
+   <trkpt lat="49.641331" lon="11.250276"><ele>391.25</ele></trkpt>
+   <trkpt lat="49.640804" lon="11.250233"><ele>390.75</ele></trkpt>
+   <trkpt lat="49.640349" lon="11.250185"><ele>390.5</ele></trkpt>
+   <trkpt lat="49.639816" lon="11.250115"><ele>389.5</ele></trkpt>
+   <trkpt lat="49.639814" lon="11.250114"><ele>389.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
