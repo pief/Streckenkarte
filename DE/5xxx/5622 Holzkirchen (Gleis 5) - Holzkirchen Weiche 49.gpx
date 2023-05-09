@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 152 filtered ascend = 1 plain-ascend = 2 cost=152 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5622 Holzkirchen (Gleis 5) - Holzkirchen Weiche 49</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.88457/11.69756/standard&amp;lonlats=11.697446,47.884532;11.698685,47.883488&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.884532" lon="11.697448"><ele>682.5</ele></trkpt>
+   <trkpt lat="47.883959" lon="11.69813"><ele>683.75</ele></trkpt>
+   <trkpt lat="47.883773" lon="11.698344"><ele>684</ele></trkpt>
+   <trkpt lat="47.883587" lon="11.698563"><ele>684</ele></trkpt>
+   <trkpt lat="47.88353" lon="11.698633"><ele>684</ele></trkpt>
+   <trkpt lat="47.883487" lon="11.698683"><ele>684</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
