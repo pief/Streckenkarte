@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 138 filtered ascend = 0 plain-ascend = 0 cost=138 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5702 Rosenheim Weiche 211 - Rosenheim Weiche 218</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.84798/12.12516/standard&amp;lonlats=12.123625,47.848488;12.125272,47.847977&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.848487" lon="12.123624"><ele>447.75</ele></trkpt>
+   <trkpt lat="47.848487" lon="12.123626"><ele>447.75</ele></trkpt>
+   <trkpt lat="47.848382" lon="12.124007"><ele>448.5</ele></trkpt>
+   <trkpt lat="47.847975" lon="12.125266"><ele>447.5</ele></trkpt>
+   <trkpt lat="47.847973" lon="12.125269"><ele>447.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

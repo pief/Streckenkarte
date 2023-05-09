@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 812 filtered ascend = 16 plain-ascend = 15 cost=813 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5702 Kiefersfelden Weiche 32 - Kiefersfelden Grenze</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.60109/12.17779/standard&amp;lonlats=12.184971,47.606367;12.177331,47.601253&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.606365" lon="12.184973"><ele>480.25</ele></trkpt>
+   <trkpt lat="47.604479" lon="12.182027"><ele>480.5</ele></trkpt>
+   <trkpt lat="47.60362" lon="12.180696"><ele>486.75</ele></trkpt>
+   <trkpt lat="47.603141" lon="12.179981"><ele>488.75</ele></trkpt>
+   <trkpt lat="47.602248" lon="12.178695"><ele>496.25</ele></trkpt>
+   <trkpt lat="47.601688" lon="12.177931"><ele>495.5</ele></trkpt>
+   <trkpt lat="47.601672" lon="12.177909"><ele>495.25</ele></trkpt>
+   <trkpt lat="47.601656" lon="12.177887"><ele>495</ele></trkpt>
+   <trkpt lat="47.60125" lon="12.177334"><ele>495</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

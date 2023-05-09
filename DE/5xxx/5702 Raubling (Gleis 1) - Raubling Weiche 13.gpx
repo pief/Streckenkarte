@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 334 filtered ascend = 1 plain-ascend = 1 cost=334 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5702 Raubling (Gleis 1) - Raubling Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.78621/12.10859/standard&amp;lonlats=12.110195,47.788591;12.108165,47.785934&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.78859" lon="12.110194"><ele>458</ele></trkpt>
+   <trkpt lat="47.788586" lon="12.110191"><ele>458</ele></trkpt>
+   <trkpt lat="47.787616" lon="12.109444"><ele>458</ele></trkpt>
+   <trkpt lat="47.785939" lon="12.108169"><ele>459.25</ele></trkpt>
+   <trkpt lat="47.785933" lon="12.108164"><ele>459.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

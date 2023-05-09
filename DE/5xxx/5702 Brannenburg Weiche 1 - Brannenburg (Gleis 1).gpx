@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 1 plain-ascend = 1 cost=432 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5702 Brannenburg Weiche 1 - Brannenburg (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/47.74104/12.10756/standard&amp;lonlats=12.103738,47.744222;12.106869,47.741051&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.744222" lon="12.103738"><ele>471.5</ele></trkpt>
+   <trkpt lat="47.744222" lon="12.103739"><ele>471.5</ele></trkpt>
+   <trkpt lat="47.743758" lon="12.104008"><ele>472.25</ele></trkpt>
+   <trkpt lat="47.743408" lon="12.104246"><ele>473</ele></trkpt>
+   <trkpt lat="47.742965" lon="12.104578"><ele>473.25</ele></trkpt>
+   <trkpt lat="47.742158" lon="12.105417"><ele>472.5</ele></trkpt>
+   <trkpt lat="47.741878" lon="12.105755"><ele>472.75</ele></trkpt>
+   <trkpt lat="47.741536" lon="12.106196"><ele>473</ele></trkpt>
+   <trkpt lat="47.741057" lon="12.106879"><ele>472.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

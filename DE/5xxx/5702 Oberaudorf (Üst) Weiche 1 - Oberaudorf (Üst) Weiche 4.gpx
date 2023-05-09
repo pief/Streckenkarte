@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 199 filtered ascend = 2 plain-ascend = 2 cost=199 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5702 Oberaudorf (Üst) Weiche 1 - Oberaudorf (Üst) Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.65526/12.17638/standard&amp;lonlats=12.17655,47.656747;12.176011,47.655023&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.656746" lon="12.176548"><ele>479</ele></trkpt>
+   <trkpt lat="47.656751" lon="12.176549"><ele>479</ele></trkpt>
+   <trkpt lat="47.656464" lon="12.17646"><ele>479.25</ele></trkpt>
+   <trkpt lat="47.655023" lon="12.176012"><ele>481.25</ele></trkpt>
+   <trkpt lat="47.655021" lon="12.176011"><ele>481</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

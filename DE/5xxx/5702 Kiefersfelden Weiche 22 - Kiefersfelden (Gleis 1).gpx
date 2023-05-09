@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 290 filtered ascend = 0 plain-ascend = 0 cost=290 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5702 Kiefersfelden Weiche 22 - Kiefersfelden (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.60989/12.19056/standard&amp;lonlats=12.193254,47.611634;12.190479,47.609867&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.611633" lon="12.193254"/>
+   <trkpt lat="47.611632" lon="12.193253"/>
+   <trkpt lat="47.61151" lon="12.193054"><ele>482.25</ele></trkpt>
+   <trkpt lat="47.610527" lon="12.191528"><ele>481.75</ele></trkpt>
+   <trkpt lat="47.609992" lon="12.190672"><ele>482</ele></trkpt>
+   <trkpt lat="47.609867" lon="12.190476"><ele>482</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
