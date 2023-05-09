@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2027 filtered ascend = 0 plain-ascend = -2 cost=2027 energy=0.0kwh time=2m 42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Kundl Weiche 556 - Abzw Wörgl Hbf 2 Weiche 101</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.46271/11.95325/standard&amp;lonlats=11.975639,47.473081;11.953278,47.463111&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.47308" lon="11.975638"><ele>511</ele></trkpt>
+   <trkpt lat="47.472757" lon="11.97493"><ele>510.75</ele></trkpt>
+   <trkpt lat="47.472592" lon="11.974558"><ele>510.25</ele></trkpt>
+   <trkpt lat="47.472324" lon="11.973955"><ele>509.5</ele></trkpt>
+   <trkpt lat="47.472273" lon="11.973841"><ele>509.25</ele></trkpt>
+   <trkpt lat="47.471921" lon="11.973047"><ele>507.75</ele></trkpt>
+   <trkpt lat="47.470861" lon="11.970642"><ele>508</ele></trkpt>
+   <trkpt lat="47.469787" lon="11.968228"><ele>506.5</ele></trkpt>
+   <trkpt lat="47.469312" lon="11.967146"><ele>508</ele></trkpt>
+   <trkpt lat="47.469265" lon="11.967041"><ele>508</ele></trkpt>
+   <trkpt lat="47.467204" lon="11.962399"><ele>508.75</ele></trkpt>
+   <trkpt lat="47.466553" lon="11.960931"><ele>507.75</ele></trkpt>
+   <trkpt lat="47.465369" lon="11.958265"><ele>507.5</ele></trkpt>
+   <trkpt lat="47.46421" lon="11.955739"><ele>507.75</ele></trkpt>
+   <trkpt lat="47.463112" lon="11.953277"><ele>507.75</ele></trkpt>
+   <trkpt lat="47.463111" lon="11.953275"><ele>507.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

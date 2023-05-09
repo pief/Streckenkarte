@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1025 filtered ascend = 1 plain-ascend = 2 cost=1025 energy=0.0kwh time=1m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Kundl Weiche 507 - Wörgl Kundl Weiche 551</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.47465/11.97938/standard&amp;lonlats=11.991646,47.47803;11.979336,47.474759&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.47803" lon="11.991644"><ele>509.25</ele></trkpt>
+   <trkpt lat="47.47803" lon="11.991644"><ele>509.5</ele></trkpt>
+   <trkpt lat="47.477879" lon="11.99019"><ele>510.25</ele></trkpt>
+   <trkpt lat="47.477857" lon="11.989979"><ele>510.25</ele></trkpt>
+   <trkpt lat="47.477838" lon="11.989792"><ele>510</ele></trkpt>
+   <trkpt lat="47.477656" lon="11.988159"><ele>508.5</ele></trkpt>
+   <trkpt lat="47.477577" lon="11.987566"><ele>508.75</ele></trkpt>
+   <trkpt lat="47.477492" lon="11.987022"><ele>507.25</ele></trkpt>
+   <trkpt lat="47.477414" lon="11.986585"><ele>506.5</ele></trkpt>
+   <trkpt lat="47.477296" lon="11.986024"><ele>507.5</ele></trkpt>
+   <trkpt lat="47.477183" lon="11.985523"><ele>508.25</ele></trkpt>
+   <trkpt lat="47.477038" lon="11.984951"><ele>509</ele></trkpt>
+   <trkpt lat="47.47686" lon="11.984335"><ele>510.5</ele></trkpt>
+   <trkpt lat="47.476685" lon="11.983782"><ele>510</ele></trkpt>
+   <trkpt lat="47.476412" lon="11.983011"><ele>509.5</ele></trkpt>
+   <trkpt lat="47.476103" lon="11.982254"><ele>510.25</ele></trkpt>
+   <trkpt lat="47.475701" lon="11.981358"><ele>510.75</ele></trkpt>
+   <trkpt lat="47.475457" lon="11.980835"><ele>510.75</ele></trkpt>
+   <trkpt lat="47.474758" lon="11.979338"><ele>510.75</ele></trkpt>
+   <trkpt lat="47.474757" lon="11.979336"><ele>510.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

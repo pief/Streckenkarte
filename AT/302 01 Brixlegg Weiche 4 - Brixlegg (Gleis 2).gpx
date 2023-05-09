@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 436 filtered ascend = 0 plain-ascend = -5 cost=437 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Brixlegg Weiche 4 - Brixlegg (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.43472/11.88018/standard&amp;lonlats=11.885561,47.4363;11.880228,47.4349&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.4363" lon="11.88556"><ele>530.25</ele></trkpt>
+   <trkpt lat="47.436184" lon="11.885141"><ele>528</ele></trkpt>
+   <trkpt lat="47.436135" lon="11.88495"><ele>526.5</ele></trkpt>
+   <trkpt lat="47.436114" lon="11.88487"><ele>526.25</ele></trkpt>
+   <trkpt lat="47.435882" lon="11.883969"><ele>521.75</ele></trkpt>
+   <trkpt lat="47.435606" lon="11.882839"><ele>520.75</ele></trkpt>
+   <trkpt lat="47.435359" lon="11.881825"><ele>520.5</ele></trkpt>
+   <trkpt lat="47.435216" lon="11.881285"><ele>521.75</ele></trkpt>
+   <trkpt lat="47.435045" lon="11.880695"><ele>523.75</ele></trkpt>
+   <trkpt lat="47.434996" lon="11.880525"><ele>524</ele></trkpt>
+   <trkpt lat="47.434902" lon="11.880224"><ele>524</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2200 filtered ascend = 6 plain-ascend = 6 cost=2200 energy=0.0kwh time=2m 56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Terminal West Weiche 418 - Wörgl Kundl Weiche 502</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.47837/11.99447/standard&amp;lonlats=12.023525,47.481406;11.994772,47.478332&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.481405" lon="12.023524"><ele>501.25</ele></trkpt>
+   <trkpt lat="47.481404" lon="12.023515"><ele>501.5</ele></trkpt>
+   <trkpt lat="47.481312" lon="12.022665"><ele>501.5</ele></trkpt>
+   <trkpt lat="47.481209" lon="12.021711"><ele>501.75</ele></trkpt>
+   <trkpt lat="47.481205" lon="12.021667"><ele>501.75</ele></trkpt>
+   <trkpt lat="47.481019" lon="12.019939"><ele>501.5</ele></trkpt>
+   <trkpt lat="47.480309" lon="12.013327"><ele>500.75</ele></trkpt>
+   <trkpt lat="47.479456" lon="12.005409"><ele>502.75</ele></trkpt>
+   <trkpt lat="47.478677" lon="11.998136"><ele>507</ele></trkpt>
+   <trkpt lat="47.478558" lon="11.997017"><ele>507</ele></trkpt>
+   <trkpt lat="47.47848" lon="11.99628"><ele>507.25</ele></trkpt>
+   <trkpt lat="47.478447" lon="11.995957"><ele>507.5</ele></trkpt>
+   <trkpt lat="47.47833" lon="11.994777"><ele>507</ele></trkpt>
+   <trkpt lat="47.478329" lon="11.994771"><ele>506.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1523 filtered ascend = 3 plain-ascend = 2 cost=1523 energy=0.0kwh time=2m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Terminal Nord Weiche 303 - Wörgl Terminal West Weiche 413</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/47.48121/12.02656/standard&amp;lonlats=12.045857,47.484283;12.026996,47.481786;12.026218,47.4817&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.48428" lon="12.045857"><ele>500.25</ele></trkpt>
+   <trkpt lat="47.484281" lon="12.045859"><ele>500.5</ele></trkpt>
+   <trkpt lat="47.484176" lon="12.045498"><ele>500.5</ele></trkpt>
+   <trkpt lat="47.484039" lon="12.044986"><ele>499.75</ele></trkpt>
+   <trkpt lat="47.48395" lon="12.044632"><ele>500</ele></trkpt>
+   <trkpt lat="47.483787" lon="12.043934"><ele>501</ele></trkpt>
+   <trkpt lat="47.483641" lon="12.043233"><ele>501.75</ele></trkpt>
+   <trkpt lat="47.483486" lon="12.042352"><ele>502.25</ele></trkpt>
+   <trkpt lat="47.483368" lon="12.041533"><ele>502.5</ele></trkpt>
+   <trkpt lat="47.483267" lon="12.040721"><ele>501</ele></trkpt>
+   <trkpt lat="47.483131" lon="12.039475"><ele>502</ele></trkpt>
+   <trkpt lat="47.483113" lon="12.039296"><ele>502</ele></trkpt>
+   <trkpt lat="47.482658" lon="12.035073"><ele>503.5</ele></trkpt>
+   <trkpt lat="47.48201" lon="12.029018"><ele>504</ele></trkpt>
+   <trkpt lat="47.481949" lon="12.028456"><ele>503.5</ele></trkpt>
+   <trkpt lat="47.481834" lon="12.027391"><ele>502.5</ele></trkpt>
+   <trkpt lat="47.481788" lon="12.026994"><ele>501.75</ele></trkpt>
+   <trkpt lat="47.481699" lon="12.026215"><ele>500.5</ele></trkpt>
+   <trkpt lat="47.481699" lon="12.026217"><ele>500.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

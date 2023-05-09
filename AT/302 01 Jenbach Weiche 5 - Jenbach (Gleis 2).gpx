@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 786 filtered ascend = 6 plain-ascend = 6 cost=787 energy=0.0kwh time=1m 3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Jenbach Weiche 5 - Jenbach (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.38832/11.77882/standard&amp;lonlats=11.787464,47.391687;11.778234,47.388457&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.391687" lon="11.787464"><ele>523.25</ele></trkpt>
+   <trkpt lat="47.391211" lon="11.786099"><ele>526.75</ele></trkpt>
+   <trkpt lat="47.388505" lon="11.778351"><ele>529.75</ele></trkpt>
+   <trkpt lat="47.388462" lon="11.778228"><ele>529.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

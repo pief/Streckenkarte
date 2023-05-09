@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 298 filtered ascend = 1 plain-ascend = 0 cost=298 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Kundl Weiche 553 - Wörgl Kundl Weiche 556</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.47341/11.97667/standard&amp;lonlats=11.978909,47.474564;11.975639,47.473083&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.474564" lon="11.978909"><ele>511</ele></trkpt>
+   <trkpt lat="47.474249" lon="11.9782"><ele>511</ele></trkpt>
+   <trkpt lat="47.473955" lon="11.97757"><ele>512.25</ele></trkpt>
+   <trkpt lat="47.473082" lon="11.975642"><ele>511.25</ele></trkpt>
+   <trkpt lat="47.473081" lon="11.975639"><ele>511</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

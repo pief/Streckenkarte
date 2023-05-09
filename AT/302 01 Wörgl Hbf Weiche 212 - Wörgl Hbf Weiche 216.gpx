@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 0 plain-ascend = 0 cost=103 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Hbf Weiche 212 - Wörgl Hbf Weiche 216</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.48771/12.05393/standard&amp;lonlats=12.054625,47.488341;12.053579,47.487785&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.488341" lon="12.054623"><ele>501.25</ele></trkpt>
+   <trkpt lat="47.488344" lon="12.054628"><ele>501.5</ele></trkpt>
+   <trkpt lat="47.487789" lon="12.053584"><ele>501.5</ele></trkpt>
+   <trkpt lat="47.487785" lon="12.053577"><ele>501.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

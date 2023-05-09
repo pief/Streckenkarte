@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 0 plain-ascend = 1 cost=76 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Terminal West Weiche 415 - Wörgl Terminal West Weiche 416</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.48137/12.02460/standard&amp;lonlats=12.025418,47.481608;12.024438,47.481503&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.481608" lon="12.025418"><ele>500</ele></trkpt>
+   <trkpt lat="47.481503" lon="12.024438"><ele>500.75</ele></trkpt>
+   <trkpt lat="47.481503" lon="12.024438"><ele>500.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
