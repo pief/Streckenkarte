@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 456 filtered ascend = 0 plain-ascend = 1 cost=456 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5622 Rosenheim (Gleis 6) - Rosenheim Weiche 55</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.85008/12.11892/standard&amp;lonlats=12.11914,47.849874;12.113835,47.851825&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.849874" lon="12.11914"><ele>447.25</ele></trkpt>
+   <trkpt lat="47.850589" lon="12.117031"><ele>446</ele></trkpt>
+   <trkpt lat="47.850867" lon="12.116323"><ele>446.25</ele></trkpt>
+   <trkpt lat="47.851041" lon="12.115931"><ele>446.5</ele></trkpt>
+   <trkpt lat="47.851245" lon="12.115429"><ele>446.75</ele></trkpt>
+   <trkpt lat="47.851504" lon="12.114765"><ele>447.75</ele></trkpt>
+   <trkpt lat="47.851821" lon="12.113836"><ele>448</ele></trkpt>
+   <trkpt lat="47.851822" lon="12.113832"><ele>448</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 372 filtered ascend = 0 plain-ascend = -1 cost=372 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5622 Bad Aibling Weiche 1 - Bad Aibling (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.86238/12.00296/standard&amp;lonlats=11.998398,47.86451;12.00251,47.862699&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.864509" lon="11.998397"><ele>482.25</ele></trkpt>
+   <trkpt lat="47.864509" lon="11.9984"><ele>482.5</ele></trkpt>
+   <trkpt lat="47.864339" lon="11.998856"><ele>482.75</ele></trkpt>
+   <trkpt lat="47.864218" lon="11.999148"><ele>482.75</ele></trkpt>
+   <trkpt lat="47.864077" lon="11.999446"><ele>482</ele></trkpt>
+   <trkpt lat="47.864027" lon="11.999571"><ele>481.75</ele></trkpt>
+   <trkpt lat="47.863993" lon="11.999656"><ele>481.5</ele></trkpt>
+   <trkpt lat="47.863302" lon="12.001199"><ele>479.75</ele></trkpt>
+   <trkpt lat="47.862701" lon="12.002512"><ele>480.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

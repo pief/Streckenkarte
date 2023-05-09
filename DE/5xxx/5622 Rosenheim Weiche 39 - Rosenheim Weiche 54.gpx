@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 1 plain-ascend = 1 cost=228 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5622 Rosenheim Weiche 39 - Rosenheim Weiche 54</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.85218/12.11242/standard&amp;lonlats=12.110106,47.853085;12.112792,47.852174&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.853084" lon="12.110105"><ele>447</ele></trkpt>
+   <trkpt lat="47.853085" lon="12.110105"><ele>447</ele></trkpt>
+   <trkpt lat="47.852172" lon="12.11279"><ele>448</ele></trkpt>
+   <trkpt lat="47.852171" lon="12.11279"><ele>448</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1166 filtered ascend = 0 plain-ascend = -8 cost=1166 energy=0.0kwh time=1m 33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5622 Heufeldmühle (Östlicher Bahnsteig) - Hinrichssegen</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.87414/11.95068/standard&amp;lonlats=11.935684,47.877319;11.95062,47.874422&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.87732" lon="11.935684"><ele>505.5</ele></trkpt>
+   <trkpt lat="47.876898" lon="11.937851"><ele>504</ele></trkpt>
+   <trkpt lat="47.875806" lon="11.9435"><ele>500.25</ele></trkpt>
+   <trkpt lat="47.875642" lon="11.944436"><ele>501.75</ele></trkpt>
+   <trkpt lat="47.875083" lon="11.94733"><ele>499</ele></trkpt>
+   <trkpt lat="47.87462" lon="11.949615"><ele>498.5</ele></trkpt>
+   <trkpt lat="47.874424" lon="11.95062"><ele>497</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
