@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 923 filtered ascend = 1 plain-ascend = 2 cost=923 energy=0.0kwh time=1m 14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5550 München Rosenheimer Platz (Gleis 1) - München Ost Pbf Weiche 45W17</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.12630/11.60271/standard&amp;lonlats=11.593017,48.129141;11.603142,48.126231&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.129141" lon="11.593017"/>
+   <trkpt lat="48.128695" lon="11.593696"/>
+   <trkpt lat="48.127767" lon="11.595236"/>
+   <trkpt lat="48.12624" lon="11.597774"/>
+   <trkpt lat="48.125967" lon="11.598321"/>
+   <trkpt lat="48.12578" lon="11.59886"/>
+   <trkpt lat="48.12567" lon="11.599279"/>
+   <trkpt lat="48.125601" lon="11.599742"/>
+   <trkpt lat="48.125588" lon="11.60023"/>
+   <trkpt lat="48.125596" lon="11.600361"/>
+   <trkpt lat="48.125623" lon="11.600861"><ele>528.5</ele></trkpt>
+   <trkpt lat="48.125645" lon="11.601142"><ele>528.75</ele></trkpt>
+   <trkpt lat="48.125679" lon="11.601421"><ele>529</ele></trkpt>
+   <trkpt lat="48.125745" lon="11.60183"><ele>529.25</ele></trkpt>
+   <trkpt lat="48.125783" lon="11.602021"><ele>529.25</ele></trkpt>
+   <trkpt lat="48.125853" lon="11.602273"><ele>529.25</ele></trkpt>
+   <trkpt lat="48.125938" lon="11.6025"><ele>530</ele></trkpt>
+   <trkpt lat="48.125963" lon="11.602562"><ele>530</ele></trkpt>
+   <trkpt lat="48.126105" lon="11.602884"><ele>530.25</ele></trkpt>
+   <trkpt lat="48.126231" lon="11.60314"><ele>530.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
