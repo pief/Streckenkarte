@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 2 plain-ascend = 2 cost=359 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5552 Neubiberg (Gleis 2) - Neubiberg Weiche 65</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.07362/11.66344/standard&amp;lonlats=11.660173,48.075825;11.663501,48.073538&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.075823" lon="11.66017"><ele>550.75</ele></trkpt>
+   <trkpt lat="48.075796" lon="11.660211"><ele>551</ele></trkpt>
+   <trkpt lat="48.075504" lon="11.660635"><ele>552.25</ele></trkpt>
+   <trkpt lat="48.074907" lon="11.661503"><ele>551.25</ele></trkpt>
+   <trkpt lat="48.074169" lon="11.66258"><ele>552.75</ele></trkpt>
+   <trkpt lat="48.073537" lon="11.6635"><ele>552.75</ele></trkpt>
+   <trkpt lat="48.073537" lon="11.663499"><ele>552.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

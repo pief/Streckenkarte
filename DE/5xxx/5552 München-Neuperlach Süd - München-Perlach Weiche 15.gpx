@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 965 filtered ascend = 2 plain-ascend = 1 cost=965 energy=0.0kwh time=1m 17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5552 München-Neuperlach Süd - München-Perlach Weiche 15</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.08880/11.64497/standard&amp;lonlats=11.64501,48.088817;11.634626,48.093154&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.088816" lon="11.645008"/>
+   <trkpt lat="48.088849" lon="11.644973"/>
+   <trkpt lat="48.089822" lon="11.643889"/>
+   <trkpt lat="48.089844" lon="11.643863"><ele>541.5</ele></trkpt>
+   <trkpt lat="48.089915" lon="11.643781"><ele>541.25</ele></trkpt>
+   <trkpt lat="48.090424" lon="11.643192"><ele>542.75</ele></trkpt>
+   <trkpt lat="48.090646" lon="11.642912"><ele>543.5</ele></trkpt>
+   <trkpt lat="48.090896" lon="11.642564"><ele>543.75</ele></trkpt>
+   <trkpt lat="48.09114" lon="11.642194"><ele>543.25</ele></trkpt>
+   <trkpt lat="48.091512" lon="11.641547"><ele>542.25</ele></trkpt>
+   <trkpt lat="48.091747" lon="11.641082"><ele>542.25</ele></trkpt>
+   <trkpt lat="48.091946" lon="11.640644"><ele>543.25</ele></trkpt>
+   <trkpt lat="48.092143" lon="11.640149"><ele>543.75</ele></trkpt>
+   <trkpt lat="48.092327" lon="11.639635"><ele>543</ele></trkpt>
+   <trkpt lat="48.092341" lon="11.63959"><ele>543</ele></trkpt>
+   <trkpt lat="48.092472" lon="11.639183"><ele>543</ele></trkpt>
+   <trkpt lat="48.092535" lon="11.63895"><ele>543.25</ele></trkpt>
+   <trkpt lat="48.09274" lon="11.638123"><ele>544</ele></trkpt>
+   <trkpt lat="48.092821" lon="11.637702"><ele>543.75</ele></trkpt>
+   <trkpt lat="48.092869" lon="11.637445"><ele>543.75</ele></trkpt>
+   <trkpt lat="48.092905" lon="11.637201"><ele>543.75</ele></trkpt>
+   <trkpt lat="48.092991" lon="11.636551"><ele>544</ele></trkpt>
+   <trkpt lat="48.093124" lon="11.635011"><ele>542.25</ele></trkpt>
+   <trkpt lat="48.093139" lon="11.63482"><ele>542</ele></trkpt>
+   <trkpt lat="48.093154" lon="11.634628"><ele>542</ele></trkpt>
+   <trkpt lat="48.093154" lon="11.634626"><ele>542</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

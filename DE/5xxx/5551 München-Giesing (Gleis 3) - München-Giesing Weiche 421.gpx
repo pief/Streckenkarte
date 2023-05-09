@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = 1 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5551 München-Giesing (Gleis 3) - München-Giesing Weiche 421</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.10800/11.59745/standard&amp;lonlats=11.596269,48.111166;11.597703,48.107875&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.111166" lon="11.596269"><ele>537.5</ele></trkpt>
+   <trkpt lat="48.111165" lon="11.59627"><ele>537.5</ele></trkpt>
+   <trkpt lat="48.110064" lon="11.596758"><ele>535.75</ele></trkpt>
+   <trkpt lat="48.109996" lon="11.596788"><ele>535.75</ele></trkpt>
+   <trkpt lat="48.10863" lon="11.597377"><ele>536.25</ele></trkpt>
+   <trkpt lat="48.107877" lon="11.5977"><ele>538</ele></trkpt>
+   <trkpt lat="48.107874" lon="11.597701"><ele>538</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 0 plain-ascend = -1 cost=125 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5552 Kreuzstraße (Gleis 1) - Kreuzstraße Weiche 11</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.91727/11.75997/standard&amp;lonlats=11.759386,47.917144;11.760124,47.918129&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.917142" lon="11.759388"><ele>627.75</ele></trkpt>
+   <trkpt lat="47.917149" lon="11.759394"><ele>628</ele></trkpt>
+   <trkpt lat="47.917452" lon="11.759618"><ele>626.75</ele></trkpt>
+   <trkpt lat="47.918128" lon="11.760123"><ele>626</ele></trkpt>
+   <trkpt lat="47.918128" lon="11.760123"><ele>626</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

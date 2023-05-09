@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 236 filtered ascend = 0 plain-ascend = 0 cost=236 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5552 München-Perlach (Gleis 2) - München-Perlach Weiche 15</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.09317/11.63419/standard&amp;lonlats=11.631509,48.093364;11.634626,48.093154&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.093364" lon="11.631509"><ele>542.75</ele></trkpt>
+   <trkpt lat="48.09325" lon="11.633224"><ele>542.75</ele></trkpt>
+   <trkpt lat="48.093221" lon="11.633642"><ele>542.25</ele></trkpt>
+   <trkpt lat="48.093159" lon="11.63455"><ele>542</ele></trkpt>
+   <trkpt lat="48.093154" lon="11.634626"><ele>542</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 2 plain-ascend = 2 cost=218 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5552 Hohenbrunn (Gleis 1) - Hohenbrunn Weiche 90</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.04510/11.70032/standard&amp;lonlats=11.698849,48.046596;11.700535,48.045&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.046595" lon="11.698849"><ele>568</ele></trkpt>
+   <trkpt lat="48.045899" lon="11.699588"><ele>569.25</ele></trkpt>
+   <trkpt lat="48.045463" lon="11.700048"><ele>569.5</ele></trkpt>
+   <trkpt lat="48.044999" lon="11.700532"><ele>570</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
