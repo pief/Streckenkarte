@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 187 filtered ascend = 1 plain-ascend = 1 cost=187 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Jenbach Weiche 62 - Jenbach Weiche 67</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.38731/11.77528/standard&amp;lonlats=11.776842,47.387973;11.774662,47.387203&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.387973" lon="11.77684"><ele>529.75</ele></trkpt>
+   <trkpt lat="47.387894" lon="11.776623"><ele>529.75</ele></trkpt>
+   <trkpt lat="47.38745" lon="11.775377"><ele>529.75</ele></trkpt>
+   <trkpt lat="47.387201" lon="11.774663"><ele>531</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

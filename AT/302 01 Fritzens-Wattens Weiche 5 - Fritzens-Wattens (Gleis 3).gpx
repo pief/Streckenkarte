@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 601 filtered ascend = 8 plain-ascend = 8 cost=601 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Fritzens-Wattens Weiche 5 - Fritzens-Wattens (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.30208/11.58987/standard&amp;lonlats=11.596769,47.302254;11.588932,47.30217&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.302253" lon="11.596768"><ele>548.75</ele></trkpt>
+   <trkpt lat="47.302253" lon="11.596765"><ele>548.75</ele></trkpt>
+   <trkpt lat="47.302194" lon="11.596378"><ele>549</ele></trkpt>
+   <trkpt lat="47.302123" lon="11.595818"><ele>549.25</ele></trkpt>
+   <trkpt lat="47.302031" lon="11.594774"><ele>550.5</ele></trkpt>
+   <trkpt lat="47.302004" lon="11.594174"><ele>550</ele></trkpt>
+   <trkpt lat="47.301994" lon="11.593628"><ele>550.25</ele></trkpt>
+   <trkpt lat="47.301999" lon="11.592988"><ele>550</ele></trkpt>
+   <trkpt lat="47.302011" lon="11.592453"><ele>549.5</ele></trkpt>
+   <trkpt lat="47.302037" lon="11.591817"><ele>551.25</ele></trkpt>
+   <trkpt lat="47.302164" lon="11.588931"><ele>556.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1298 filtered ascend = 2 plain-ascend = 3 cost=1298 energy=0.0kwh time=1m 44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Hall-Thaur (Gleis 2) - Rum (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.27794/11.45728/standard&amp;lonlats=11.474006,47.277129;11.456977,47.277978&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.277131" lon="11.474006"><ele>561.5</ele></trkpt>
+   <trkpt lat="47.277201" lon="11.472611"><ele>560.25</ele></trkpt>
+   <trkpt lat="47.277249" lon="11.471636"><ele>561</ele></trkpt>
+   <trkpt lat="47.277529" lon="11.465982"><ele>560.75</ele></trkpt>
+   <trkpt lat="47.277558" lon="11.465405"><ele>561.25</ele></trkpt>
+   <trkpt lat="47.277605" lon="11.464481"><ele>561.75</ele></trkpt>
+   <trkpt lat="47.277638" lon="11.463812"><ele>561.25</ele></trkpt>
+   <trkpt lat="47.277838" lon="11.459765"><ele>561.75</ele></trkpt>
+   <trkpt lat="47.277854" lon="11.459449"><ele>561.5</ele></trkpt>
+   <trkpt lat="47.277864" lon="11.459258"><ele>561.5</ele></trkpt>
+   <trkpt lat="47.277929" lon="11.457906"><ele>563.25</ele></trkpt>
+   <trkpt lat="47.277976" lon="11.456976"><ele>564.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

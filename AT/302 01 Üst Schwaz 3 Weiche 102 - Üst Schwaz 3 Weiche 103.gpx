@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = -1 cost=62 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Üst Schwaz 3 Weiche 102 - Üst Schwaz 3 Weiche 103</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/47.31951/11.64570/standard&amp;lonlats=11.646031,47.319588;11.64525,47.31944&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.319588" lon="11.646029"><ele>548</ele></trkpt>
+   <trkpt lat="47.319454" lon="11.645321"><ele>546.5</ele></trkpt>
+   <trkpt lat="47.31944" lon="11.645248"><ele>546.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

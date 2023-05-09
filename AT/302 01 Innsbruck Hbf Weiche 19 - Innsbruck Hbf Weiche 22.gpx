@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 0 plain-ascend = 0 cost=164 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Innsbruck Hbf Weiche 19 - Innsbruck Hbf Weiche 22</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.26574/11.40210/standard&amp;lonlats=11.402003,47.266942;11.401605,47.265536&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.266941" lon="11.402004"/>
+   <trkpt lat="47.266938" lon="11.402004"/>
+   <trkpt lat="47.266574" lon="11.401902"/>
+   <trkpt lat="47.266374" lon="11.401846"/>
+   <trkpt lat="47.266343" lon="11.401837"/>
+   <trkpt lat="47.266226" lon="11.401804"/>
+   <trkpt lat="47.266183" lon="11.401792"><ele>581.75</ele></trkpt>
+   <trkpt lat="47.265929" lon="11.401719"><ele>581.75</ele></trkpt>
+   <trkpt lat="47.265773" lon="11.401681"><ele>581.75</ele></trkpt>
+   <trkpt lat="47.265536" lon="11.401606"><ele>582</ele></trkpt>
+   <trkpt lat="47.265534" lon="11.401605"><ele>582</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

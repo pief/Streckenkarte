@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 791 filtered ascend = 0 plain-ascend = 0 cost=791 energy=0.0kwh time=1m 3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Knoten Stans Weiche 101 - Knoten Stans Weiche 112</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.37080/11.73672/standard&amp;lonlats=11.744492,47.375789;11.736877,47.370929&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.375788" lon="11.744492"><ele>528</ele></trkpt>
+   <trkpt lat="47.371555" lon="11.737862"><ele>528</ele></trkpt>
+   <trkpt lat="47.370927" lon="11.736877"><ele>528</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

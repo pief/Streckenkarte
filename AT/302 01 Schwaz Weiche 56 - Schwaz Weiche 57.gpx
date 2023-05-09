@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 95 filtered ascend = 0 plain-ascend = 0 cost=95 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Schwaz Weiche 56 - Schwaz Weiche 57</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.34506/11.69706/standard&amp;lonlats=11.697387,47.345345;11.696719,47.344633&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.345344" lon="11.697386"><ele>538.25</ele></trkpt>
+   <trkpt lat="47.344635" lon="11.696718"><ele>537.75</ele></trkpt>
+   <trkpt lat="47.344632" lon="11.696716"><ele>537.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

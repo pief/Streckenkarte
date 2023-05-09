@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 212 filtered ascend = 0 plain-ascend = 0 cost=212 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Hall in Tirol Weiche 215 - Hall in Tirol Weiche 248</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.27656/11.48604/standard&amp;lonlats=11.488495,47.27641;11.485735,47.276546&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.276407" lon="11.488494"><ele>560.5</ele></trkpt>
+   <trkpt lat="47.276408" lon="11.488493"><ele>560.5</ele></trkpt>
+   <trkpt lat="47.276438" lon="11.487922"><ele>560.25</ele></trkpt>
+   <trkpt lat="47.276547" lon="11.485736"><ele>560</ele></trkpt>
+   <trkpt lat="47.276547" lon="11.485735"><ele>559.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=48 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Innsbruck Hbf Weiche 6 - Innsbruck Hbf Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.26763/11.40288/standard&amp;lonlats=11.402341,47.26813;11.402222,47.267716&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.268129" lon="11.40234"/>
+   <trkpt lat="47.26805" lon="11.402319"/>
+   <trkpt lat="47.267717" lon="11.402225"/>
+   <trkpt lat="47.267714" lon="11.402224"/>
+  </trkseg>
+ </trk>
+</gpx>

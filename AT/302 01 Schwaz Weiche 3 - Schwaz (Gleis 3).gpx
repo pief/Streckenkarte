@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 505 filtered ascend = 2 plain-ascend = 3 cost=505 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Schwaz Weiche 3 - Schwaz (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.34967/11.70178/standard&amp;lonlats=11.705136,47.353564;11.701518,47.349769&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.353562" lon="11.705136"><ele>534</ele></trkpt>
+   <trkpt lat="47.353121" lon="11.704717"><ele>534</ele></trkpt>
+   <trkpt lat="47.352696" lon="11.70431"><ele>534</ele></trkpt>
+   <trkpt lat="47.350672" lon="11.702363"><ele>534.75</ele></trkpt>
+   <trkpt lat="47.349769" lon="11.701514"><ele>536.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

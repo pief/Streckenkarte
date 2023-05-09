@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 894 filtered ascend = 3 plain-ascend = 2 cost=894 energy=0.0kwh time=1m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Hall in Tirol Weiche 248 - Hall-Thaur (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.27697/11.47419/standard&amp;lonlats=11.485735,47.276546;11.474006,47.277129&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.276547" lon="11.485735"><ele>559.75</ele></trkpt>
+   <trkpt lat="47.276573" lon="11.485217"><ele>559.75</ele></trkpt>
+   <trkpt lat="47.276762" lon="11.481396"><ele>562.75</ele></trkpt>
+   <trkpt lat="47.276838" lon="11.479883"><ele>561.75</ele></trkpt>
+   <trkpt lat="47.276844" lon="11.479753"><ele>561.75</ele></trkpt>
+   <trkpt lat="47.277048" lon="11.475689"><ele>561.75</ele></trkpt>
+   <trkpt lat="47.277126" lon="11.474115"><ele>561.75</ele></trkpt>
+   <trkpt lat="47.277131" lon="11.474006"><ele>561.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
