@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 1 plain-ascend = 1 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Kufstein Weiche 107 - Kufstein Weiche 108</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.58778/12.16543/standard&amp;lonlats=12.165107,47.588017;12.165203,47.587753&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.588017" lon="12.165107"><ele>479.75</ele></trkpt>
+   <trkpt lat="47.588013" lon="12.165108"><ele>480</ele></trkpt>
+   <trkpt lat="47.587755" lon="12.165203"><ele>480.75</ele></trkpt>
+   <trkpt lat="47.587753" lon="12.165203"><ele>480.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 274 filtered ascend = 0 plain-ascend = -4 cost=274 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Kufstein Weiche 102 - Kufstein Weiche 105</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/47.58879/12.16515/standard&amp;lonlats=12.165166,47.591587;12.164868,47.589199&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.591586" lon="12.165165"><ele>484.75</ele></trkpt>
+   <trkpt lat="47.591426" lon="12.165084"><ele>484.75</ele></trkpt>
+   <trkpt lat="47.591077" lon="12.164941"><ele>484</ele></trkpt>
+   <trkpt lat="47.590675" lon="12.164847"><ele>483</ele></trkpt>
+   <trkpt lat="47.590512" lon="12.164821"><ele>483</ele></trkpt>
+   <trkpt lat="47.590334" lon="12.164804"><ele>483</ele></trkpt>
+   <trkpt lat="47.589932" lon="12.164796"><ele>482.75</ele></trkpt>
+   <trkpt lat="47.589897" lon="12.164799"><ele>482.75</ele></trkpt>
+   <trkpt lat="47.589433" lon="12.164835"><ele>481</ele></trkpt>
+   <trkpt lat="47.5892" lon="12.164868"><ele>480</ele></trkpt>
+   <trkpt lat="47.589199" lon="12.164868"><ele>479.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
