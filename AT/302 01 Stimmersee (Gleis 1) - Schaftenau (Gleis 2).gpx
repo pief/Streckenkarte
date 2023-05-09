@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1876 filtered ascend = 4 plain-ascend = 3 cost=1876 energy=0.0kwh time=2m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Stimmersee (Gleis 1) - Schaftenau (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.55861/12.12522/standard&amp;lonlats=12.141244,47.571698;12.125283,47.558781&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.571702" lon="12.141235"><ele>481</ele></trkpt>
+   <trkpt lat="47.568707" lon="12.137535"><ele>481.5</ele></trkpt>
+   <trkpt lat="47.565824" lon="12.133981"><ele>485.75</ele></trkpt>
+   <trkpt lat="47.565759" lon="12.133901"><ele>485.5</ele></trkpt>
+   <trkpt lat="47.56555" lon="12.133643"><ele>484.75</ele></trkpt>
+   <trkpt lat="47.558792" lon="12.125302"><ele>484</ele></trkpt>
+   <trkpt lat="47.558779" lon="12.125285"><ele>483.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

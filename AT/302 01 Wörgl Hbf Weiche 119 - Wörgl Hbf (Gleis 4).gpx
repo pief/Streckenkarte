@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 349 filtered ascend = 1 plain-ascend = 1 cost=349 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Wörgl Hbf Weiche 119 - Wörgl Hbf (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.49151/12.06173/standard&amp;lonlats=12.064241,47.493445;12.060593,47.491528&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.493443" lon="12.064241"><ele>504</ele></trkpt>
+   <trkpt lat="47.493165" lon="12.063712"><ele>504.5</ele></trkpt>
+   <trkpt lat="47.49181" lon="12.061134"><ele>505.5</ele></trkpt>
+   <trkpt lat="47.49175" lon="12.06102"><ele>505.75</ele></trkpt>
+   <trkpt lat="47.491712" lon="12.060947"><ele>505.75</ele></trkpt>
+   <trkpt lat="47.491526" lon="12.060593"><ele>505</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

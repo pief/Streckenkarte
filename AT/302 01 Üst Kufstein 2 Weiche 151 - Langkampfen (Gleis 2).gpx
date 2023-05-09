@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1342 filtered ascend = 2 plain-ascend = 1 cost=1342 energy=0.0kwh time=1m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Üst Kufstein 2 Weiche 151 - Langkampfen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=15/47.5485/12.1031/standard&amp;lonlats=12.120778,47.555129;12.109388,47.545895&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.555128" lon="12.120777"><ele>485.25</ele></trkpt>
+   <trkpt lat="47.55497" lon="12.120583"><ele>485.5</ele></trkpt>
+   <trkpt lat="47.55429" lon="12.119744"><ele>485.75</ele></trkpt>
+   <trkpt lat="47.552368" lon="12.117373"><ele>487.75</ele></trkpt>
+   <trkpt lat="47.547651" lon="12.111556"><ele>486.25</ele></trkpt>
+   <trkpt lat="47.547194" lon="12.110992"><ele>486.5</ele></trkpt>
+   <trkpt lat="47.546701" lon="12.110384"><ele>485</ele></trkpt>
+   <trkpt lat="47.545919" lon="12.109419"><ele>486.75</ele></trkpt>
+   <trkpt lat="47.545893" lon="12.109388"><ele>486.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

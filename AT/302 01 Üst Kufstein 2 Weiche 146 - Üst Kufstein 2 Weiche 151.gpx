@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = 0 cost=241 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Üst Kufstein 2 Weiche 146 - Üst Kufstein 2 Weiche 151</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.55532/12.12102/standard&amp;lonlats=12.122811,47.556779;12.120779,47.55513&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.556779" lon="12.12281"><ele>486</ele></trkpt>
+   <trkpt lat="47.556014" lon="12.12187"><ele>485.5</ele></trkpt>
+   <trkpt lat="47.555131" lon="12.120781"><ele>485.25</ele></trkpt>
+   <trkpt lat="47.555129" lon="12.120778"><ele>485.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

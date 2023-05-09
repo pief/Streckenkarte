@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 97 filtered ascend = 3 plain-ascend = 4 cost=97 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Kufstein Weiche 276 - Kufstein Weiche 278</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/47.57856/12.16123/standard&amp;lonlats=12.161769,47.578939;12.160649,47.578565&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.578938" lon="12.161768"><ele>485.75</ele></trkpt>
+   <trkpt lat="47.578935" lon="12.161759"><ele>485.75</ele></trkpt>
+   <trkpt lat="47.578916" lon="12.161702"><ele>486</ele></trkpt>
+   <trkpt lat="47.578848" lon="12.161496"><ele>486.75</ele></trkpt>
+   <trkpt lat="47.578565" lon="12.160649"><ele>489.5</ele></trkpt>
+   <trkpt lat="47.578565" lon="12.160649"><ele>489.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>302 01 Unterwerk Wörgl Weiche 112 - Unterwerk Wörgl Weiche 113</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/47.49627/12.06919/standard&amp;lonlats=12.070705,47.497373;12.069624,47.49647&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.497372" lon="12.070704"><ele>506.75</ele></trkpt>
+   <trkpt lat="47.496963" lon="12.070259"><ele>506.75</ele></trkpt>
+   <trkpt lat="47.496468" lon="12.069624"><ele>506</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
