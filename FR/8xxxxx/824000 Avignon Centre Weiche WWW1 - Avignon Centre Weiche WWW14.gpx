@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 1 plain-ascend = 2 cost=130 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>824000 Avignon Centre Weiche WWW1 - Avignon Centre Weiche WWW14</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.94096/4.79672/standard&amp;lonlats=4.797702,43.941555;4.796181,43.941297&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.941554" lon="4.797701"><ele>21.75</ele></trkpt>
+   <trkpt lat="43.941556" lon="4.797709"><ele>21.75</ele></trkpt>
+   <trkpt lat="43.941529" lon="4.797452"><ele>21.5</ele></trkpt>
+   <trkpt lat="43.941445" lon="4.79687"><ele>22.5</ele></trkpt>
+   <trkpt lat="43.941377" lon="4.796507"><ele>23</ele></trkpt>
+   <trkpt lat="43.941296" lon="4.796183"><ele>23.5</ele></trkpt>
+   <trkpt lat="43.941295" lon="4.79618"><ele>23.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

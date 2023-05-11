@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 605 filtered ascend = 0 plain-ascend = -1 cost=605 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>824000 Avignon Centre Weiche WWW16 - Bif. vers la ligne de Villeneuve-lès-Avignon à Avignon Weiche 405</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/43.94255/4.77976/standard&amp;lonlats=4.783353,43.938161;4.779195,43.942666&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.938161" lon="4.783353"><ele>20</ele></trkpt>
+   <trkpt lat="43.938162" lon="4.783353"><ele>20</ele></trkpt>
+   <trkpt lat="43.938271" lon="4.783261"><ele>20.5</ele></trkpt>
+   <trkpt lat="43.942492" lon="4.779364"><ele>17.25</ele></trkpt>
+   <trkpt lat="43.942664" lon="4.779195"><ele>18.25</ele></trkpt>
+   <trkpt lat="43.942665" lon="4.779193"><ele>18.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

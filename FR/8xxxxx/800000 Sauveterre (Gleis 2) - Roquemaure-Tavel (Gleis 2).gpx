@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3666 filtered ascend = 4 plain-ascend = 5 cost=3666 energy=0.0kwh time=4m 53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>800000 Sauveterre (Gleis 2) - Roquemaure-Tavel (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/44.04909/4.77506/standard&amp;lonlats=4.801915,44.024086;4.774021,44.049234&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.024089" lon="4.801925"><ele>23.25</ele></trkpt>
+   <trkpt lat="44.026097" lon="4.800753"><ele>23.5</ele></trkpt>
+   <trkpt lat="44.029991" lon="4.798521"><ele>24.75</ele></trkpt>
+   <trkpt lat="44.032961" lon="4.796792"><ele>26.75</ele></trkpt>
+   <trkpt lat="44.033504" lon="4.796465"><ele>25.75</ele></trkpt>
+   <trkpt lat="44.033961" lon="4.796164"><ele>24.75</ele></trkpt>
+   <trkpt lat="44.034257" lon="4.795967"><ele>23.5</ele></trkpt>
+   <trkpt lat="44.034471" lon="4.795798"><ele>23.25</ele></trkpt>
+   <trkpt lat="44.034922" lon="4.795398"><ele>23</ele></trkpt>
+   <trkpt lat="44.035362" lon="4.794971"><ele>23.5</ele></trkpt>
+   <trkpt lat="44.035837" lon="4.794404"><ele>24.25</ele></trkpt>
+   <trkpt lat="44.03628" lon="4.793829"><ele>25</ele></trkpt>
+   <trkpt lat="44.036744" lon="4.793168"><ele>24.25</ele></trkpt>
+   <trkpt lat="44.038317" lon="4.790749"><ele>24</ele></trkpt>
+   <trkpt lat="44.03948" lon="4.788975"><ele>27.25</ele></trkpt>
+   <trkpt lat="44.039724" lon="4.788574"><ele>26.75</ele></trkpt>
+   <trkpt lat="44.039829" lon="4.788423"><ele>26.75</ele></trkpt>
+   <trkpt lat="44.041117" lon="4.786471"><ele>26.25</ele></trkpt>
+   <trkpt lat="44.043736" lon="4.782459"><ele>24.5</ele></trkpt>
+   <trkpt lat="44.045466" lon="4.779806"><ele>25.25</ele></trkpt>
+   <trkpt lat="44.045561" lon="4.779662"><ele>25</ele></trkpt>
+   <trkpt lat="44.048726" lon="4.77481"><ele>26.75</ele></trkpt>
+   <trkpt lat="44.048818" lon="4.774667"><ele>27</ele></trkpt>
+   <trkpt lat="44.049236" lon="4.774023"><ele>27.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

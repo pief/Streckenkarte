@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 1 cost=35 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>800000 Pont-Saint-Esprit Weiche D - Pont-Saint-Esprit (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/44.25339/4.64309/standard&amp;lonlats=4.643104,44.253169;4.643109,44.253478&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.253168" lon="4.643102"><ele>60</ele></trkpt>
+   <trkpt lat="44.253477" lon="4.643105"><ele>60.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

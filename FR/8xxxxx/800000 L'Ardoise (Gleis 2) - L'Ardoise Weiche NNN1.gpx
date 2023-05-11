@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 266 filtered ascend = 0 plain-ascend = 0 cost=266 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>800000 L'Ardoise (Gleis 2) - L'Ardoise Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/44.09896/4.69659/standard&amp;lonlats=4.69952,44.096242;4.698067,44.098385&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.09625" lon="4.699543"><ele>34.75</ele></trkpt>
+   <trkpt lat="44.097009" lon="4.699031"><ele>35.5</ele></trkpt>
+   <trkpt lat="44.098385" lon="4.698069"><ele>34.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
