@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 469 filtered ascend = 5 plain-ascend = 5 cost=469 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>800000 Villeneuve-lès-Avignon (Gleis 1) - Villeneuve-lès-Avignon Weiche SSS2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.95313/4.79056/standard&amp;lonlats=4.792078,43.956795;4.789951,43.952967&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.956793" lon="4.792079"><ele>36.75</ele></trkpt>
+   <trkpt lat="43.9554" lon="4.791598"><ele>28.75</ele></trkpt>
+   <trkpt lat="43.955016" lon="4.791447"><ele>28.75</ele></trkpt>
+   <trkpt lat="43.954613" lon="4.791254"><ele>28.5</ele></trkpt>
+   <trkpt lat="43.954536" lon="4.791213"><ele>28.5</ele></trkpt>
+   <trkpt lat="43.954259" lon="4.791048"><ele>29.25</ele></trkpt>
+   <trkpt lat="43.954018" lon="4.790892"><ele>29.75</ele></trkpt>
+   <trkpt lat="43.953628" lon="4.790592"><ele>32.75</ele></trkpt>
+   <trkpt lat="43.953291" lon="4.790288"><ele>37.5</ele></trkpt>
+   <trkpt lat="43.952972" lon="4.789961"><ele>41.75</ele></trkpt>
+   <trkpt lat="43.952964" lon="4.789953"><ele>41.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

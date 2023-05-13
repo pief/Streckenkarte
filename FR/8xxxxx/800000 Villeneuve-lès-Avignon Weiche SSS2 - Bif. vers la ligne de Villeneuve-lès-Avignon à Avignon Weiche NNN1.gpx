@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 866 filtered ascend = 0 plain-ascend = -20 cost=866 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>800000 Villeneuve-lès-Avignon Weiche SSS2 - Bif. vers la ligne de Villeneuve-lès-Avignon à Avignon Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/43.94891/4.78110/standard&amp;lonlats=4.789953,43.952964;4.781007,43.948859&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="43.952963" lon="4.789952"><ele>41.75</ele></trkpt>
+   <trkpt lat="43.952959" lon="4.789947"><ele>41.75</ele></trkpt>
+   <trkpt lat="43.952773" lon="4.789745"><ele>41.75</ele></trkpt>
+   <trkpt lat="43.952688" lon="4.789643"><ele>41.75</ele></trkpt>
+   <trkpt lat="43.95253" lon="4.78945"><ele>41.75</ele></trkpt>
+   <trkpt lat="43.952415" lon="4.789291"><ele>41.5</ele></trkpt>
+   <trkpt lat="43.952032" lon="4.788709"><ele>39.75</ele></trkpt>
+   <trkpt lat="43.951703" lon="4.788099"><ele>36.75</ele></trkpt>
+   <trkpt lat="43.9516" lon="4.78789"><ele>36.75</ele></trkpt>
+   <trkpt lat="43.951501" lon="4.787668"><ele>36.75</ele></trkpt>
+   <trkpt lat="43.951209" lon="4.786964"><ele>36.5</ele></trkpt>
+   <trkpt lat="43.949883" lon="4.783603"><ele>24</ele></trkpt>
+   <trkpt lat="43.94987" lon="4.78357"><ele>23.75</ele></trkpt>
+   <trkpt lat="43.949761" lon="4.783292"><ele>22.75</ele></trkpt>
+   <trkpt lat="43.94946" lon="4.782529"><ele>21</ele></trkpt>
+   <trkpt lat="43.948858" lon="4.781006"><ele>20.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
