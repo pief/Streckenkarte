@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 437 filtered ascend = 0 plain-ascend = -9 cost=437 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Uttenheim (Gleis 2) - Uttenheim Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/49.5533/10.2374/standard&amp;lonlats=10.242832,49.5513;10.237536,49.553108&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.5513" lon="10.242832"><ele>343.75</ele></trkpt>
+   <trkpt lat="49.552" lon="10.240729"><ele>343.25</ele></trkpt>
+   <trkpt lat="49.552385" lon="10.239539"><ele>340.5</ele></trkpt>
+   <trkpt lat="49.552758" lon="10.238416"><ele>337.75</ele></trkpt>
+   <trkpt lat="49.552796" lon="10.238305"><ele>337.25</ele></trkpt>
+   <trkpt lat="49.552857" lon="10.238141"><ele>336.25</ele></trkpt>
+   <trkpt lat="49.553106" lon="10.237534"><ele>334</ele></trkpt>
+   <trkpt lat="49.553106" lon="10.237533"><ele>333.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

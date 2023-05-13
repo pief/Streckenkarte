@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 754 filtered ascend = 1 plain-ascend = 0 cost=754 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Herrnbrechtheim Weiche 201 - Herrnbrechtheim (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.59027/10.19462/standard&amp;lonlats=10.195642,49.5836;10.195414,49.59034&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.5836" lon="10.195643"><ele>310.25</ele></trkpt>
+   <trkpt lat="49.583604" lon="10.195643"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.58701" lon="10.195519"><ele>309.75</ele></trkpt>
+   <trkpt lat="49.587956" lon="10.195516"><ele>307.75</ele></trkpt>
+   <trkpt lat="49.588271" lon="10.195495"><ele>307.5</ele></trkpt>
+   <trkpt lat="49.589531" lon="10.195442"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.590163" lon="10.195429"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.59034" lon="10.195421"><ele>310.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

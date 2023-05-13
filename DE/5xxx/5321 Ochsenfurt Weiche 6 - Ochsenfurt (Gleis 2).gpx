@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 476 filtered ascend = 0 plain-ascend = 1 cost=476 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Ochsenfurt Weiche 6 - Ochsenfurt (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.66307/10.07256/standard&amp;lonlats=10.078162,49.663557;10.071636,49.663098&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.663554" lon="10.078161"><ele>191.25</ele></trkpt>
+   <trkpt lat="49.663554" lon="10.078158"><ele>191.25</ele></trkpt>
+   <trkpt lat="49.663174" lon="10.072678"><ele>191.25</ele></trkpt>
+   <trkpt lat="49.6631" lon="10.071634"><ele>191.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

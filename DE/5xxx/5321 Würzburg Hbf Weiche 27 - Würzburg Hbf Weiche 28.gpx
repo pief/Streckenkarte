@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = 0 cost=90 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Würzburg Hbf Weiche 27 - Würzburg Hbf Weiche 28</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.80061/9.94594/standard&amp;lonlats=9.945355,49.8005;9.946556,49.800338&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.800499" lon="9.945354"><ele>184.75</ele></trkpt>
+   <trkpt lat="49.800499" lon="9.945357"><ele>184.75</ele></trkpt>
+   <trkpt lat="49.800338" lon="9.946556"><ele>183.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

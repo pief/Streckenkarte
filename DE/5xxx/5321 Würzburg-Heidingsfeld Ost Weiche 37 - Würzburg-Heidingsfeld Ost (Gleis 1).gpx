@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 336 filtered ascend = 2 plain-ascend = 3 cost=336 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Würzburg-Heidingsfeld Ost Weiche 37 - Würzburg-Heidingsfeld Ost (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.76120/9.95345/standard&amp;lonlats=9.957543,49.760688;9.95297,49.761213&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.760685" lon="9.957542"><ele>185.5</ele></trkpt>
+   <trkpt lat="49.761085" lon="9.954082"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.761163" lon="9.953399"><ele>187</ele></trkpt>
+   <trkpt lat="49.761211" lon="9.952969"><ele>188</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

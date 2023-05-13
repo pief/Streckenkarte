@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 863 filtered ascend = 3 plain-ascend = -4 cost=863 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Obernbreit (Gleis 1) - Marktbreit Weiche 301</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/49.6600/10.1574/standard&amp;lonlats=10.162802,49.655865;10.153963,49.660906&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.655865" lon="10.162802"><ele>220.25</ele></trkpt>
+   <trkpt lat="49.656312" lon="10.162232"><ele>223.25</ele></trkpt>
+   <trkpt lat="49.656812" lon="10.161616"><ele>223</ele></trkpt>
+   <trkpt lat="49.65711" lon="10.161231"><ele>222.25</ele></trkpt>
+   <trkpt lat="49.657397" lon="10.160811"><ele>220.25</ele></trkpt>
+   <trkpt lat="49.657714" lon="10.160282"><ele>216.75</ele></trkpt>
+   <trkpt lat="49.65801" lon="10.159689"><ele>213.75</ele></trkpt>
+   <trkpt lat="49.658725" lon="10.158114"><ele>208.75</ele></trkpt>
+   <trkpt lat="49.659106" lon="10.157325"><ele>207.75</ele></trkpt>
+   <trkpt lat="49.65962" lon="10.156408"><ele>206.25</ele></trkpt>
+   <trkpt lat="49.65982" lon="10.156077"><ele>206</ele></trkpt>
+   <trkpt lat="49.660214" lon="10.155416"><ele>207.5</ele></trkpt>
+   <trkpt lat="49.660393" lon="10.155083"><ele>209</ele></trkpt>
+   <trkpt lat="49.660567" lon="10.154738"><ele>211.5</ele></trkpt>
+   <trkpt lat="49.660734" lon="10.154373"><ele>214</ele></trkpt>
+   <trkpt lat="49.660909" lon="10.153966"><ele>215.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

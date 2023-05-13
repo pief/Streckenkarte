@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 676 filtered ascend = 0 plain-ascend = -4 cost=676 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Marktbreit Weiche 301 - Marktbreit (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.66376/10.14661/standard&amp;lonlats=10.153963,49.660906;10.145906,49.663888&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.660909" lon="10.153966"><ele>215.75</ele></trkpt>
+   <trkpt lat="49.660911" lon="10.153963"><ele>216</ele></trkpt>
+   <trkpt lat="49.661145" lon="10.153331"><ele>216.25</ele></trkpt>
+   <trkpt lat="49.661607" lon="10.151973"><ele>212.5</ele></trkpt>
+   <trkpt lat="49.661737" lon="10.151608"><ele>213</ele></trkpt>
+   <trkpt lat="49.661997" lon="10.150895"><ele>213.75</ele></trkpt>
+   <trkpt lat="49.662526" lon="10.149494"><ele>209.5</ele></trkpt>
+   <trkpt lat="49.66299" lon="10.148264"><ele>206.75</ele></trkpt>
+   <trkpt lat="49.663531" lon="10.146834"><ele>209.5</ele></trkpt>
+   <trkpt lat="49.66384" lon="10.146037"><ele>211</ele></trkpt>
+   <trkpt lat="49.663888" lon="10.145906"><ele>211</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

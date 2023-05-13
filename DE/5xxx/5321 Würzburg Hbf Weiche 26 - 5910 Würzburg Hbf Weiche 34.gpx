@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 1 plain-ascend = 1 cost=89 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>5321 Würzburg Hbf Weiche 26 - 5910 Würzburg Hbf Weiche 34</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.80086/9.94448/standard&amp;lonlats=9.944904,49.800566;9.943719,49.800775&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.800562" lon="9.944902"><ele>185</ele></trkpt>
+   <trkpt lat="49.800564" lon="9.944893"><ele>185.25</ele></trkpt>
+   <trkpt lat="49.800775" lon="9.943719"><ele>186</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
