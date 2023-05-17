@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>037A Angleur Weiche WWW1 - Y Aguesses Weiche XXX1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.61465/5.58996/standard&amp;lonlats=5.590469,50.614646;5.589444,50.614829&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.614644" lon="5.590468"><ele>65</ele></trkpt>
+   <trkpt lat="50.614665" lon="5.590357"><ele>65</ele></trkpt>
+   <trkpt lat="50.614713" lon="5.590096"><ele>65</ele></trkpt>
+   <trkpt lat="50.614829" lon="5.589447"><ele>64.5</ele></trkpt>
+   <trkpt lat="50.614829" lon="5.589444"><ele>64.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

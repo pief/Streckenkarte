@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 1 plain-ascend = 1 cost=96 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>037A Angleur Weiche WWW3 - 037 Angleur Weiche WWW4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.61419/5.59329/standard&amp;lonlats=5.592021,50.614411;5.59329,50.614221&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.61441" lon="5.59202"><ele>64.75</ele></trkpt>
+   <trkpt lat="50.61441" lon="5.592022"><ele>64.75</ele></trkpt>
+   <trkpt lat="50.614352" lon="5.592381"><ele>65</ele></trkpt>
+   <trkpt lat="50.614289" lon="5.592853"><ele>65.5</ele></trkpt>
+   <trkpt lat="50.614221" lon="5.593285"><ele>66</ele></trkpt>
+   <trkpt lat="50.61422" lon="5.593289"><ele>66</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
