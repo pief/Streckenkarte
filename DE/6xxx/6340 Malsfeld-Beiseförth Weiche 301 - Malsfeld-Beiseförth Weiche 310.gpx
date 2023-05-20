@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 373 filtered ascend = 8 plain-ascend = 8 cost=373 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Malsfeld-Beiseförth Weiche 301 - Malsfeld-Beiseförth Weiche 310</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.08308/9.55349/standard&amp;lonlats=9.554833,51.080021;9.553107,51.083084&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.08002" lon="9.554831"><ele>173.5</ele></trkpt>
+   <trkpt lat="51.080022" lon="9.55483"><ele>173.5</ele></trkpt>
+   <trkpt lat="51.080068" lon="9.554782"><ele>173.25</ele></trkpt>
+   <trkpt lat="51.080218" lon="9.554621"><ele>173.25</ele></trkpt>
+   <trkpt lat="51.080492" lon="9.554356"><ele>173.25</ele></trkpt>
+   <trkpt lat="51.080904" lon="9.553996"><ele>174.25</ele></trkpt>
+   <trkpt lat="51.081205" lon="9.553779"><ele>175.75</ele></trkpt>
+   <trkpt lat="51.081512" lon="9.55361"><ele>177.25</ele></trkpt>
+   <trkpt lat="51.081861" lon="9.553463"><ele>178.75</ele></trkpt>
+   <trkpt lat="51.082086" lon="9.55339"><ele>179.25</ele></trkpt>
+   <trkpt lat="51.083085" lon="9.553108"><ele>182</ele></trkpt>
+   <trkpt lat="51.083084" lon="9.553108"><ele>181.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

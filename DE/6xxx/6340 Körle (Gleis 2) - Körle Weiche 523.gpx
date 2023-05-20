@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 282 filtered ascend = 0 plain-ascend = -1 cost=283 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Körle (Gleis 2) - Körle Weiche 523</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.17283/9.51189/standard&amp;lonlats=9.510527,51.173642;9.512898,51.171619&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.173642" lon="9.510527"><ele>162.75</ele></trkpt>
+   <trkpt lat="51.173621" lon="9.510549"><ele>162.75</ele></trkpt>
+   <trkpt lat="51.172672" lon="9.511551"><ele>162</ele></trkpt>
+   <trkpt lat="51.172338" lon="9.511931"><ele>161.5</ele></trkpt>
+   <trkpt lat="51.171933" lon="9.512447"><ele>160.75</ele></trkpt>
+   <trkpt lat="51.171743" lon="9.512717"><ele>160.75</ele></trkpt>
+   <trkpt lat="51.171619" lon="9.512898"><ele>160.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

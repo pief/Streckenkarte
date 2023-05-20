@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 476 filtered ascend = 2 plain-ascend = 2 cost=476 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Melsungen Weiche 2 - Melsungen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.12596/9.54775/standard&amp;lonlats=9.542195,51.122839;9.5464,51.126167&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.122838" lon="9.542195"><ele>176.25</ele></trkpt>
+   <trkpt lat="51.123454" lon="9.542947"><ele>175.75</ele></trkpt>
+   <trkpt lat="51.124122" lon="9.543782"><ele>175.75</ele></trkpt>
+   <trkpt lat="51.124426" lon="9.544174"><ele>176.75</ele></trkpt>
+   <trkpt lat="51.124583" lon="9.54438"><ele>177</ele></trkpt>
+   <trkpt lat="51.125172" lon="9.545152"><ele>177</ele></trkpt>
+   <trkpt lat="51.126066" lon="9.546273"><ele>178.25</ele></trkpt>
+   <trkpt lat="51.126167" lon="9.546397"><ele>178.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

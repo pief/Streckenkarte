@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = -1 cost=43 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3600 Bebra Pbf Weiche 167 - Bebra Pbf Weiche 172</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.96501/9.80198/standard&amp;lonlats=9.802153,50.964786;9.801866,50.965101&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.964786" lon="9.802153"><ele>205</ele></trkpt>
+   <trkpt lat="50.964787" lon="9.802153"><ele>205</ele></trkpt>
+   <trkpt lat="50.965099" lon="9.801864"><ele>203.75</ele></trkpt>
+   <trkpt lat="50.9651" lon="9.801863"><ele>203.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

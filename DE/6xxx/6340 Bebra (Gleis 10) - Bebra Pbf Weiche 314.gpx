@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 279 filtered ascend = 2 plain-ascend = 0 cost=279 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Bebra (Gleis 10) - Bebra Pbf Weiche 314</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.97107/9.79665/standard&amp;lonlats=9.798667,50.969123;9.796603,50.971238&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.969123" lon="9.798667"><ele>204</ele></trkpt>
+   <trkpt lat="50.969365" lon="9.798454"><ele>204.5</ele></trkpt>
+   <trkpt lat="50.969825" lon="9.798048"><ele>206</ele></trkpt>
+   <trkpt lat="50.970688" lon="9.797246"><ele>205.25</ele></trkpt>
+   <trkpt lat="50.971236" lon="9.7966"><ele>204</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

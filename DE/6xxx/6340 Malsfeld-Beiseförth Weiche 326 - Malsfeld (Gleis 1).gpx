@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 992 filtered ascend = 5 plain-ascend = 5 cost=992 energy=0.0kwh time=1m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Malsfeld-Beiseförth Weiche 326 - Malsfeld (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.09730/9.53649/standard&amp;lonlats=9.545236,51.09136;9.534875,51.097376&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.091361" lon="9.545238"><ele>176.75</ele></trkpt>
+   <trkpt lat="51.094117" lon="9.540395"><ele>173.25</ele></trkpt>
+   <trkpt lat="51.094279" lon="9.54011"><ele>173.75</ele></trkpt>
+   <trkpt lat="51.094924" lon="9.538986"><ele>177.25</ele></trkpt>
+   <trkpt lat="51.096427" lon="9.536361"><ele>178</ele></trkpt>
+   <trkpt lat="51.096561" lon="9.536125"><ele>178</ele></trkpt>
+   <trkpt lat="51.096787" lon="9.535751"><ele>178.75</ele></trkpt>
+   <trkpt lat="51.097014" lon="9.535395"><ele>179.75</ele></trkpt>
+   <trkpt lat="51.097196" lon="9.535125"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.097379" lon="9.534881"><ele>181.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

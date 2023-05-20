@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 0 plain-ascend = 1 cost=22 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Malsfeld-Beiseförth Weiche 310 - Malsfeld-Beiseförth (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.08323/9.55383/standard&amp;lonlats=9.553107,51.083084;9.55306,51.083264&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.083084" lon="9.553108"><ele>181.75</ele></trkpt>
+   <trkpt lat="51.083085" lon="9.553108"><ele>182</ele></trkpt>
+   <trkpt lat="51.083197" lon="9.553074"><ele>182.5</ele></trkpt>
+   <trkpt lat="51.083263" lon="9.553055"><ele>182.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
