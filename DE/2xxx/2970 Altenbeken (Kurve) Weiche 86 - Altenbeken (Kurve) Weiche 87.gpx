@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 0 plain-ascend = -1 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>2970 Altenbeken (Kurve) Weiche 86 - Altenbeken (Kurve) Weiche 87</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.76192/8.95287/standard&amp;lonlats=8.952361,51.762479;8.952994,51.761803&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.762478" lon="8.952359"><ele>272.75</ele></trkpt>
+   <trkpt lat="51.762477" lon="8.952361"><ele>272.75</ele></trkpt>
+   <trkpt lat="51.762204" lon="8.952621"><ele>271</ele></trkpt>
+   <trkpt lat="51.762082" lon="8.952722"><ele>270.5</ele></trkpt>
+   <trkpt lat="51.761803" lon="8.952994"><ele>270.75</ele></trkpt>
+   <trkpt lat="51.761803" lon="8.952994"><ele>270.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
