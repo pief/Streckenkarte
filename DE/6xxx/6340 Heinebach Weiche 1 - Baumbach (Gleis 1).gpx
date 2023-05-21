@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1185 filtered ascend = 5 plain-ascend = 3 cost=1185 energy=0.0kwh time=1m 35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Heinebach Weiche 1 - Baumbach (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.02842/9.68253/standard&amp;lonlats=9.673714,51.03752;9.682323,51.028481&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.037519" lon="9.673712"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.032518" lon="9.679487"><ele>186</ele></trkpt>
+   <trkpt lat="51.032046" lon="9.679991"><ele>185.25</ele></trkpt>
+   <trkpt lat="51.031748" lon="9.680278"><ele>184.5</ele></trkpt>
+   <trkpt lat="51.031362" lon="9.680601"><ele>183.5</ele></trkpt>
+   <trkpt lat="51.031014" lon="9.680865"><ele>182</ele></trkpt>
+   <trkpt lat="51.030656" lon="9.681101"><ele>181.25</ele></trkpt>
+   <trkpt lat="51.02848" lon="9.68232"><ele>183.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

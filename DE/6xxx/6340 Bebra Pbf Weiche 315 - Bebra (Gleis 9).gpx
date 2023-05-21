@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 347 filtered ascend = 0 plain-ascend = 0 cost=347 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Bebra Pbf Weiche 315 - Bebra (Gleis 9)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.96931/9.79740/standard&amp;lonlats=9.796028,50.971758;9.798484,50.969074&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.971758" lon="9.796028"><ele>204.5</ele></trkpt>
+   <trkpt lat="50.971758" lon="9.796029"><ele>204.75</ele></trkpt>
+   <trkpt lat="50.971202" lon="9.79655"><ele>204</ele></trkpt>
+   <trkpt lat="50.970719" lon="9.797003"><ele>204.75</ele></trkpt>
+   <trkpt lat="50.969314" lon="9.798268"><ele>204.5</ele></trkpt>
+   <trkpt lat="50.969074" lon="9.798484"><ele>203.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

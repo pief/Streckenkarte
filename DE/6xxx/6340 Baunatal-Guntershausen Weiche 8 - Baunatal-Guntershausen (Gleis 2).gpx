@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 224 filtered ascend = 5 plain-ascend = 6 cost=224 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Baunatal-Guntershausen Weiche 8 - Baunatal-Guntershausen (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.23001/9.46749/standard&amp;lonlats=9.46611,51.231817;9.467267,51.229969">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.231816" lon="9.466109"><ele>162</ele></trkpt>
+   <trkpt lat="51.231816" lon="9.46611"><ele>162.25</ele></trkpt>
+   <trkpt lat="51.231429" lon="9.466345"><ele>165</ele></trkpt>
+   <trkpt lat="51.230213" lon="9.467135"><ele>167.75</ele></trkpt>
+   <trkpt lat="51.22997" lon="9.467273"><ele>167.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

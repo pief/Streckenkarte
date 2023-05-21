@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1125 filtered ascend = 0 plain-ascend = -1 cost=1125 energy=0.0kwh time=1m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Heinebach (Gleis 2) - Heinebach Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.03749/9.67399/standard&amp;lonlats=9.66429,51.045676;9.673714,51.03752&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.045676" lon="9.66429"><ele>182.5</ele></trkpt>
+   <trkpt lat="51.043303" lon="9.66703"><ele>180</ele></trkpt>
+   <trkpt lat="51.042613" lon="9.667836"><ele>180</ele></trkpt>
+   <trkpt lat="51.03752" lon="9.673712"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.037519" lon="9.673712"><ele>180.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

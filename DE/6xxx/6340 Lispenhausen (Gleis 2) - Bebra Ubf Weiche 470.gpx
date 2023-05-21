@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 1 plain-ascend = 1 cost=364 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>6340 Lispenhausen (Gleis 2) - Bebra Ubf Weiche 470</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.98888/9.76921/standard&amp;lonlats=9.765553,50.990762;9.769588,50.988762&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.990761" lon="9.765552"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.990558" lon="9.765985"><ele>191.5</ele></trkpt>
+   <trkpt lat="50.990374" lon="9.766358"><ele>192</ele></trkpt>
+   <trkpt lat="50.99034" lon="9.766426"><ele>192</ele></trkpt>
+   <trkpt lat="50.990025" lon="9.767048"><ele>192</ele></trkpt>
+   <trkpt lat="50.988762" lon="9.769588"><ele>192</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
