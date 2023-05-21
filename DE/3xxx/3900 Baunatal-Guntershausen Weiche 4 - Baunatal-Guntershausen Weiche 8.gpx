@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 1 plain-ascend = 2 cost=81 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>3900 Baunatal-Guntershausen Weiche 4 - Baunatal-Guntershausen Weiche 8</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.23183/9.46616/standard&amp;lonlats=9.465751,51.232485;9.46611,51.231817">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.232485" lon="9.465751"/>
+   <trkpt lat="51.232058" lon="9.465979"/>
+   <trkpt lat="51.23202" lon="9.466"><ele>160.25</ele></trkpt>
+   <trkpt lat="51.231886" lon="9.466071"><ele>161.5</ele></trkpt>
+   <trkpt lat="51.231816" lon="9.466109"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
