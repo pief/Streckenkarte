@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1960 filtered ascend = 4 plain-ascend = 4 cost=1960 energy=0.0kwh time=2m 37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>9107 Fiefbergen - Passade</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/54.36868/10.31855/standard&amp;lonlats=10.347549,54.375993;10.319767,54.36934&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.375997" lon="10.347543"><ele>24.5</ele></trkpt>
+   <trkpt lat="54.375782" lon="10.346913"><ele>25</ele></trkpt>
+   <trkpt lat="54.375746" lon="10.346805"><ele>25</ele></trkpt>
+   <trkpt lat="54.375239" lon="10.34531"><ele>27</ele></trkpt>
+   <trkpt lat="54.375156" lon="10.345014"><ele>27.5</ele></trkpt>
+   <trkpt lat="54.375013" lon="10.344418"><ele>28.5</ele></trkpt>
+   <trkpt lat="54.373663" lon="10.338572"><ele>29</ele></trkpt>
+   <trkpt lat="54.369907" lon="10.322243"><ele>27.75</ele></trkpt>
+   <trkpt lat="54.369869" lon="10.322082"><ele>27.75</ele></trkpt>
+   <trkpt lat="54.369417" lon="10.320114"><ele>28.25</ele></trkpt>
+   <trkpt lat="54.369337" lon="10.319767"><ele>28.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
