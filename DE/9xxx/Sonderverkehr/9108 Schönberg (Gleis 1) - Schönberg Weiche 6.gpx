@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 179 filtered ascend = 0 plain-ascend = 0 cost=179 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>9108 Schönberg (Gleis 1) - Schönberg Weiche 6</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.38700/10.37485/standard&amp;lonlats=10.375136,54.387091;10.377614,54.387754&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.387089" lon="10.375136"><ele>16</ele></trkpt>
+   <trkpt lat="54.387238" lon="10.375688"><ele>16</ele></trkpt>
+   <trkpt lat="54.387752" lon="10.377613"><ele>15.25</ele></trkpt>
+   <trkpt lat="54.387752" lon="10.377614"><ele>15.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
