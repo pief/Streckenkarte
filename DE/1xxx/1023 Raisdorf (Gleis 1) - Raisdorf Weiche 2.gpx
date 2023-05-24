@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 342 filtered ascend = 0 plain-ascend = -1 cost=342 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1023 Raisdorf (Gleis 1) - Raisdorf Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.28077/10.24403/standard&amp;lonlats=10.243685,54.280857;10.245609,54.278066&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.280857" lon="10.243687"><ele>36.25</ele></trkpt>
+   <trkpt lat="54.280728" lon="10.243823"><ele>36.25</ele></trkpt>
+   <trkpt lat="54.28044" lon="10.244105"><ele>35.5</ele></trkpt>
+   <trkpt lat="54.280205" lon="10.244295"><ele>34.75</ele></trkpt>
+   <trkpt lat="54.279956" lon="10.244477"><ele>34.25</ele></trkpt>
+   <trkpt lat="54.279709" lon="10.244639"><ele>34</ele></trkpt>
+   <trkpt lat="54.279458" lon="10.244784"><ele>34</ele></trkpt>
+   <trkpt lat="54.278991" lon="10.245033"><ele>34</ele></trkpt>
+   <trkpt lat="54.278638" lon="10.245228"><ele>34.25</ele></trkpt>
+   <trkpt lat="54.278242" lon="10.245504"><ele>34.5</ele></trkpt>
+   <trkpt lat="54.278062" lon="10.24561"><ele>34.75</ele></trkpt>
+   <trkpt lat="54.278065" lon="10.245608"><ele>34.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

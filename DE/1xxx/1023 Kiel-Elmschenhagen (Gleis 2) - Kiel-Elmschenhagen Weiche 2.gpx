@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 435 filtered ascend = 0 plain-ascend = 1 cost=435 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1023 Kiel-Elmschenhagen (Gleis 2) - Kiel-Elmschenhagen Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.28727/10.18027/standard&amp;lonlats=10.180279,54.287156;10.186433,54.285802&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.287155" lon="10.180278"><ele>38.75</ele></trkpt>
+   <trkpt lat="54.287124" lon="10.180368"><ele>38.5</ele></trkpt>
+   <trkpt lat="54.286861" lon="10.181199"><ele>37.5</ele></trkpt>
+   <trkpt lat="54.286633" lon="10.182013"><ele>36.75</ele></trkpt>
+   <trkpt lat="54.286608" lon="10.18211"><ele>36.5</ele></trkpt>
+   <trkpt lat="54.286474" lon="10.182659"><ele>36.25</ele></trkpt>
+   <trkpt lat="54.286346" lon="10.183243"><ele>36.25</ele></trkpt>
+   <trkpt lat="54.286232" lon="10.183813"><ele>36.75</ele></trkpt>
+   <trkpt lat="54.286128" lon="10.184391"><ele>37.5</ele></trkpt>
+   <trkpt lat="54.285953" lon="10.185485"><ele>38.75</ele></trkpt>
+   <trkpt lat="54.285869" lon="10.185962"><ele>39</ele></trkpt>
+   <trkpt lat="54.285801" lon="10.186432"><ele>39.5</ele></trkpt>
+   <trkpt lat="54.2858" lon="10.186432"><ele>39.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

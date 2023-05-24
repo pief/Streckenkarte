@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 802 filtered ascend = 4 plain-ascend = 4 cost=802 energy=0.0kwh time=1m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1023 Kiel-Elmschenhagen Weiche 2 - Kroog</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/54.2850/10.1861/standard&amp;lonlats=10.186433,54.285802;10.198415,54.284353&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.2858" lon="10.186432"><ele>39.25</ele></trkpt>
+   <trkpt lat="54.285297" lon="10.190599"><ele>37</ele></trkpt>
+   <trkpt lat="54.284805" lon="10.194672"><ele>40.5</ele></trkpt>
+   <trkpt lat="54.284792" lon="10.194778"><ele>40.5</ele></trkpt>
+   <trkpt lat="54.284788" lon="10.19482"><ele>40.75</ele></trkpt>
+   <trkpt lat="54.284394" lon="10.198071"><ele>43.25</ele></trkpt>
+   <trkpt lat="54.28437" lon="10.198271"><ele>43.5</ele></trkpt>
+   <trkpt lat="54.284353" lon="10.198415"><ele>43.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 5 plain-ascend = 4 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1023 Plön Weiche 3 - Plön (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/54.15958/10.42260/standard&amp;lonlats=10.422646,54.159535;10.427499,54.16135&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.159534" lon="10.422645"><ele>23</ele></trkpt>
+   <trkpt lat="54.159619" lon="10.422891"><ele>23</ele></trkpt>
+   <trkpt lat="54.159712" lon="10.423182"><ele>23</ele></trkpt>
+   <trkpt lat="54.159857" lon="10.423667"><ele>23.25</ele></trkpt>
+   <trkpt lat="54.160206" lon="10.424913"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.160337" lon="10.42532"><ele>24.25</ele></trkpt>
+   <trkpt lat="54.160403" lon="10.425506"><ele>24.75</ele></trkpt>
+   <trkpt lat="54.160485" lon="10.42572"><ele>25.5</ele></trkpt>
+   <trkpt lat="54.160652" lon="10.426105"><ele>26.75</ele></trkpt>
+   <trkpt lat="54.161026" lon="10.426872"><ele>28.25</ele></trkpt>
+   <trkpt lat="54.161348" lon="10.427499"><ele>27.25</ele></trkpt>
+   <trkpt lat="54.161348" lon="10.427499"><ele>27</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

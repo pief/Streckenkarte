@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 1 plain-ascend = 1 cost=90 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1023 Kiel Hbf (Ss) Weiche 3 - Kiel Hbf (Ss) Weiche 5</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/54.29540/10.14444/standard&amp;lonlats=10.144238,54.295853;10.145427,54.295487&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.295852" lon="10.144237"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.295851" lon="10.144244"><ele>24</ele></trkpt>
+   <trkpt lat="54.295567" lon="10.145171"><ele>25</ele></trkpt>
+   <trkpt lat="54.295558" lon="10.145198"><ele>25</ele></trkpt>
+   <trkpt lat="54.295487" lon="10.145427"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

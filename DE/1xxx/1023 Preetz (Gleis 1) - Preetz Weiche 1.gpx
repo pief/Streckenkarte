@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 1 plain-ascend = -1 cost=353 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1023 Preetz (Gleis 1) - Preetz Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.23664/10.27590/standard&amp;lonlats=10.275912,54.233622;10.275798,54.236755&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.233621" lon="10.275907"><ele>32</ele></trkpt>
+   <trkpt lat="54.234606" lon="10.275834"><ele>32.75</ele></trkpt>
+   <trkpt lat="54.234954" lon="10.275821"><ele>33</ele></trkpt>
+   <trkpt lat="54.235353" lon="10.275834"><ele>32.5</ele></trkpt>
+   <trkpt lat="54.235552" lon="10.275845"><ele>32.25</ele></trkpt>
+   <trkpt lat="54.235974" lon="10.275849"><ele>31.75</ele></trkpt>
+   <trkpt lat="54.236233" lon="10.275832"><ele>31.5</ele></trkpt>
+   <trkpt lat="54.236405" lon="10.275809"><ele>31.25</ele></trkpt>
+   <trkpt lat="54.236753" lon="10.275797"><ele>30.75</ele></trkpt>
+   <trkpt lat="54.236754" lon="10.275797"><ele>30.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
