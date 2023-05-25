@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 1 plain-ascend = 1 cost=200 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Bordesholm Weiche 601 - Bordesholm Weiche 604</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.17357/10.04278/standard&amp;lonlats=10.040503,54.172383;10.042612,54.173634&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.172382" lon="10.040502"><ele>30.5</ele></trkpt>
+   <trkpt lat="54.17239" lon="10.040516"><ele>30.75</ele></trkpt>
+   <trkpt lat="54.172849" lon="10.0413"><ele>31.25</ele></trkpt>
+   <trkpt lat="54.173068" lon="10.041664"><ele>31.25</ele></trkpt>
+   <trkpt lat="54.173633" lon="10.042613"><ele>31.5</ele></trkpt>
+   <trkpt lat="54.173633" lon="10.042613"><ele>31.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
