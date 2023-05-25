@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 307 filtered ascend = 0 plain-ascend = -1 cost=307 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Neumünster (Gleis 5) - Neumünster Weiche 26</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.07580/9.97973/standard&amp;lonlats=9.979648,54.075735;9.980987,54.078309&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.075733" lon="9.97965"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.076035" lon="9.979791"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.07626" lon="9.979914"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.076407" lon="9.979999"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.076639" lon="9.98015"><ele>24</ele></trkpt>
+   <trkpt lat="54.076869" lon="9.980316"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.076899" lon="9.980337"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.077192" lon="9.980531"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.077235" lon="9.980557"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.07738" lon="9.980637"><ele>23.25</ele></trkpt>
+   <trkpt lat="54.077642" lon="9.980755"><ele>22.75</ele></trkpt>
+   <trkpt lat="54.078306" lon="9.980987"><ele>22</ele></trkpt>
+   <trkpt lat="54.078308" lon="9.980987"><ele>22</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

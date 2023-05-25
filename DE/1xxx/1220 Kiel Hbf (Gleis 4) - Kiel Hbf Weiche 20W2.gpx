@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 285 filtered ascend = 1 plain-ascend = 2 cost=285 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Kiel Hbf (Gleis 4) - Kiel Hbf Weiche 20W2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.31245/10.13040/standard&amp;lonlats=10.131778,54.314969;10.130416,54.312546&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.314967" lon="10.131781"><ele>7.5</ele></trkpt>
+   <trkpt lat="54.314898" lon="10.131742"><ele>7.75</ele></trkpt>
+   <trkpt lat="54.313337" lon="10.130863"><ele>5.75</ele></trkpt>
+   <trkpt lat="54.313287" lon="10.130834"><ele>6</ele></trkpt>
+   <trkpt lat="54.312545" lon="10.130417"><ele>9.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

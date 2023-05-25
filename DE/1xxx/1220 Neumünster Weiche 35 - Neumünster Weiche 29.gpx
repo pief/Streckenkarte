@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 0 cost=21 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Neumünster Weiche 35 - Neumünster Weiche 29</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.07932/9.98130/standard&amp;lonlats=9.981424,54.079362;9.981363,54.079177&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.07936" lon="9.981424"><ele>22</ele></trkpt>
+   <trkpt lat="54.079176" lon="9.981362"><ele>22</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

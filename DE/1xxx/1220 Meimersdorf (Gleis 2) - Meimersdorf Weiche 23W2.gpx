@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 9 filtered ascend = 0 plain-ascend = 0 cost=9 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Meimersdorf (Gleis 2) - Meimersdorf Weiche 23W2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.28010/10.09654/standard&amp;lonlats=10.096376,54.280076;10.096309,54.280025&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.280075" lon="10.096375"><ele>20.25</ele></trkpt>
+   <trkpt lat="54.280029" lon="10.096315"><ele>20.5</ele></trkpt>
+   <trkpt lat="54.280026" lon="10.096312"><ele>20.5</ele></trkpt>
+   <trkpt lat="54.280024" lon="10.096309"><ele>20.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
