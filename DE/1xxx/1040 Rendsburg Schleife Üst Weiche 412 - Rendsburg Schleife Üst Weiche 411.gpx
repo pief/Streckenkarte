@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 1 plain-ascend = 1 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Rendsburg Schleife Üst Weiche 412 - Rendsburg Schleife Üst Weiche 411</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/54.30510/9.68627/standard&amp;lonlats=9.687447,54.305913;9.686798,54.30566&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.305913" lon="9.687447"><ele>20</ele></trkpt>
+   <trkpt lat="54.305858" lon="9.687312"><ele>20.75</ele></trkpt>
+   <trkpt lat="54.305719" lon="9.686955"><ele>21</ele></trkpt>
+   <trkpt lat="54.305659" lon="9.686798"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

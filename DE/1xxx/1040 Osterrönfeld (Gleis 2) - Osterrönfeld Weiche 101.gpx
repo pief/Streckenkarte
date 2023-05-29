@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1257 filtered ascend = 0 plain-ascend = -6 cost=1257 energy=0.0kwh time=1m 41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Osterrönfeld (Gleis 2) - Osterrönfeld Weiche 101</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/54.27757/9.73366/standard&amp;lonlats=9.718165,54.284065;9.733781,54.277497&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.284064" lon="9.718163"><ele>17.5</ele></trkpt>
+   <trkpt lat="54.283775" lon="9.718829"><ele>16.25</ele></trkpt>
+   <trkpt lat="54.283654" lon="9.719115"><ele>16.25</ele></trkpt>
+   <trkpt lat="54.282546" lon="9.721772"><ele>16</ele></trkpt>
+   <trkpt lat="54.280698" lon="9.726112"><ele>12.75</ele></trkpt>
+   <trkpt lat="54.279456" lon="9.729119"><ele>11.5</ele></trkpt>
+   <trkpt lat="54.27902" lon="9.730156"><ele>12.5</ele></trkpt>
+   <trkpt lat="54.277497" lon="9.73378"><ele>10.75</ele></trkpt>
+   <trkpt lat="54.277496" lon="9.73378"><ele>10.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

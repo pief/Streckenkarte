@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 4 plain-ascend = 4 cost=382 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Rendsburg Weiche 7 - Rendsburg Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.29708/9.68089/standard&amp;lonlats=9.675335,54.298975;9.68012,54.297125&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.298974" lon="9.675333"><ele>9</ele></trkpt>
+   <trkpt lat="54.298973" lon="9.675336"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.298776" lon="9.675701"><ele>9.75</ele></trkpt>
+   <trkpt lat="54.298536" lon="9.676176"><ele>10.25</ele></trkpt>
+   <trkpt lat="54.298119" lon="9.677078"><ele>9.5</ele></trkpt>
+   <trkpt lat="54.297863" lon="9.677698"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.297702" lon="9.678121"><ele>9</ele></trkpt>
+   <trkpt lat="54.297552" lon="9.678545"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.297413" lon="9.678972"><ele>10.5</ele></trkpt>
+   <trkpt lat="54.297276" lon="9.679456"><ele>11.75</ele></trkpt>
+   <trkpt lat="54.297216" lon="9.679706"><ele>12.5</ele></trkpt>
+   <trkpt lat="54.297125" lon="9.680119"><ele>13.25</ele></trkpt>
+   <trkpt lat="54.297124" lon="9.680119"><ele>13.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
