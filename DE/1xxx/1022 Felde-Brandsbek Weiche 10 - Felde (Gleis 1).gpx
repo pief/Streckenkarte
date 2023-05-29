@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 216 filtered ascend = 0 plain-ascend = -4 cost=216 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1022 Felde-Brandsbek Weiche 10 - Felde (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.30984/9.94773/standard&amp;lonlats=9.944488,54.309987;9.947732,54.309833&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.309988" lon="9.944488"><ele>13.25</ele></trkpt>
+   <trkpt lat="54.309988" lon="9.94449"><ele>13.25</ele></trkpt>
+   <trkpt lat="54.309903" lon="9.946235"><ele>10.75</ele></trkpt>
+   <trkpt lat="54.309898" lon="9.946333"><ele>10.5</ele></trkpt>
+   <trkpt lat="54.309889" lon="9.946519"><ele>10</ele></trkpt>
+   <trkpt lat="54.309888" lon="9.946553"><ele>10</ele></trkpt>
+   <trkpt lat="54.309836" lon="9.947645"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.309831" lon="9.947731"><ele>8</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

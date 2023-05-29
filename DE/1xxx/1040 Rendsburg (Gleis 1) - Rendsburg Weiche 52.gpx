@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 326 filtered ascend = 0 plain-ascend = 0 cost=326 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Rendsburg (Gleis 1) - Rendsburg Weiche 52</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.30016/9.67378/standard&amp;lonlats=9.670737,54.30238;9.673652,54.300039&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.302379" lon="9.670736"><ele>8</ele></trkpt>
+   <trkpt lat="54.30232" lon="9.67081"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.302102" lon="9.671084"><ele>8.75</ele></trkpt>
+   <trkpt lat="54.300764" lon="9.67271"><ele>8.5</ele></trkpt>
+   <trkpt lat="54.30069" lon="9.672805"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.300457" lon="9.673097"><ele>7.75</ele></trkpt>
+   <trkpt lat="54.300039" lon="9.673652"><ele>7.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

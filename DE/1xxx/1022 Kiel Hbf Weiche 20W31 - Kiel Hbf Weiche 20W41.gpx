@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 2 plain-ascend = 3 cost=61 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1022 Kiel Hbf Weiche 20W31 - Kiel Hbf Weiche 20W41</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.31259/10.13029/standard&amp;lonlats=10.130312,54.312658;10.130124,54.312143&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.312657" lon="10.13031"><ele>9.5</ele></trkpt>
+   <trkpt lat="54.312659" lon="10.130311"><ele>9.5</ele></trkpt>
+   <trkpt lat="54.312143" lon="10.130125"><ele>12</ele></trkpt>
+   <trkpt lat="54.312141" lon="10.130124"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

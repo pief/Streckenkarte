@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 346 filtered ascend = 0 plain-ascend = 1 cost=346 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1022 Kiel-Hassee CITTI-Park (Gleis 2) - Kiel-Hassee Cittipark Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.30840/10.10053/standard&amp;lonlats=10.098183,54.311184;10.100266,54.308341&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.311183" lon="10.098181"><ele>26</ele></trkpt>
+   <trkpt lat="54.309564" lon="10.099257"><ele>26.5</ele></trkpt>
+   <trkpt lat="54.309215" lon="10.099498"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.30902" lon="10.099648"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.308341" lon="10.100266"><ele>26.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1333 filtered ascend = 5 plain-ascend = 5 cost=1333 energy=0.0kwh time=1m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1022 Kiel-Mettenhof - Melsdorf</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/54.31011/10.05109/standard&amp;lonlats=10.050674,54.310552;10.030636,54.312779&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.310555" lon="10.050674"><ele>13.5</ele></trkpt>
+   <trkpt lat="54.31079" lon="10.048614"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.311401" lon="10.043247"><ele>15.25</ele></trkpt>
+   <trkpt lat="54.311539" lon="10.04203"><ele>14.5</ele></trkpt>
+   <trkpt lat="54.312173" lon="10.036137"><ele>14</ele></trkpt>
+   <trkpt lat="54.312558" lon="10.032568"><ele>18</ele></trkpt>
+   <trkpt lat="54.31257" lon="10.03246"><ele>18.25</ele></trkpt>
+   <trkpt lat="54.31263" lon="10.031945"><ele>18.25</ele></trkpt>
+   <trkpt lat="54.312672" lon="10.031579"><ele>18.5</ele></trkpt>
+   <trkpt lat="54.312779" lon="10.030641"><ele>18.5</ele></trkpt>
+   <trkpt lat="54.312779" lon="10.030636"><ele>18.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
