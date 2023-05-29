@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = 1 cost=128 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Rendsburg Weiche 3 - Rendsburg Weiche 6</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.29851/9.67786/standard&amp;lonlats=9.677954,54.297815;9.676387,54.298487&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.297815" lon="9.677954"><ele>9</ele></trkpt>
+   <trkpt lat="54.298078" lon="9.677297"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.298278" lon="9.676838"><ele>9.75</ele></trkpt>
+   <trkpt lat="54.298486" lon="9.676386"><ele>9.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

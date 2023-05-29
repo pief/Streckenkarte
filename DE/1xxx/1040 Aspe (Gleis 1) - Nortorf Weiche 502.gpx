@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3885 filtered ascend = 5 plain-ascend = 4 cost=3885 energy=0.0kwh time=5m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Aspe (Gleis 1) - Nortorf Weiche 502</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.16324/9.85843/standard&amp;lonlats=9.900629,54.139327;9.857773,54.16339&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.139324" lon="9.900625"><ele>25.5</ele></trkpt>
+   <trkpt lat="54.142205" lon="9.896086"><ele>25.5</ele></trkpt>
+   <trkpt lat="54.146583" lon="9.889178"><ele>24.75</ele></trkpt>
+   <trkpt lat="54.1481" lon="9.886804"><ele>29</ele></trkpt>
+   <trkpt lat="54.149008" lon="9.885264"><ele>28</ele></trkpt>
+   <trkpt lat="54.150509" lon="9.882461"><ele>24.75</ele></trkpt>
+   <trkpt lat="54.154818" lon="9.8742"><ele>24.75</ele></trkpt>
+   <trkpt lat="54.155797" lon="9.872329"><ele>26</ele></trkpt>
+   <trkpt lat="54.160833" lon="9.86267"><ele>30.75</ele></trkpt>
+   <trkpt lat="54.163388" lon="9.857773"><ele>29</ele></trkpt>
+   <trkpt lat="54.163388" lon="9.857771"><ele>29</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

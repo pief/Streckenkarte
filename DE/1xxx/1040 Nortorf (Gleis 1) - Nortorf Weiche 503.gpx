@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 278 filtered ascend = 1 plain-ascend = 1 cost=278 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Nortorf (Gleis 1) - Nortorf Weiche 503</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/54.1679/9.8515/standard&amp;lonlats=9.853533,54.16599;9.85091,54.167917&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.16599" lon="9.853533"><ele>28.25</ele></trkpt>
+   <trkpt lat="54.166314" lon="9.853093"><ele>29</ele></trkpt>
+   <trkpt lat="54.166822" lon="9.852399"><ele>29</ele></trkpt>
+   <trkpt lat="54.167378" lon="9.851644"><ele>29.75</ele></trkpt>
+   <trkpt lat="54.167916" lon="9.85091"><ele>29</ele></trkpt>
+   <trkpt lat="54.167916" lon="9.850909"><ele>28.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

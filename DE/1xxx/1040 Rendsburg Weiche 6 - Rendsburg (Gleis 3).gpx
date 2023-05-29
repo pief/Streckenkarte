@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 576 filtered ascend = 0 plain-ascend = -1 cost=576 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Rendsburg Weiche 6 - Rendsburg (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/54.30246/9.67108/standard&amp;lonlats=9.676387,54.298487;9.670948,54.302465&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.298486" lon="9.676386"><ele>9.75</ele></trkpt>
+   <trkpt lat="54.298487" lon="9.676386"><ele>10</ele></trkpt>
+   <trkpt lat="54.298639" lon="9.676073"><ele>10</ele></trkpt>
+   <trkpt lat="54.298767" lon="9.675826"><ele>9.75</ele></trkpt>
+   <trkpt lat="54.299053" lon="9.6753"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.299496" lon="9.674561"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.299844" lon="9.674041"><ele>7.75</ele></trkpt>
+   <trkpt lat="54.30021" lon="9.673555"><ele>7.25</ele></trkpt>
+   <trkpt lat="54.30056" lon="9.673144"><ele>7.75</ele></trkpt>
+   <trkpt lat="54.301792" lon="9.671765"><ele>8.75</ele></trkpt>
+   <trkpt lat="54.302372" lon="9.671063"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.302395" lon="9.671035"><ele>8</ele></trkpt>
+   <trkpt lat="54.302465" lon="9.670949"><ele>7.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
