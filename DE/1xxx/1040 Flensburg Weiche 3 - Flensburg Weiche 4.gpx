@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 1 plain-ascend = 1 cost=46 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Flensburg Weiche 3 - Flensburg Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.77530/9.43090/standard&amp;lonlats=9.430189,54.775406;9.430879,54.775333&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.775406" lon="9.430189"><ele>35</ele></trkpt>
+   <trkpt lat="54.775406" lon="9.430193"><ele>35.25</ele></trkpt>
+   <trkpt lat="54.775333" lon="9.430879"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
