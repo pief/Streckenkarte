@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6198 filtered ascend = 0 plain-ascend = -11 cost=6198 energy=0.1kwh time=8m 16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Schuby (Gleis 1) - Jübek Weiche 07W2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.55717/9.40875/standard&amp;lonlats=9.479291,54.519954;9.408371,54.557293&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.519957" lon="9.479296"><ele>25</ele></trkpt>
+   <trkpt lat="54.51998" lon="9.479253"><ele>25</ele></trkpt>
+   <trkpt lat="54.520073" lon="9.479083"><ele>24.5</ele></trkpt>
+   <trkpt lat="54.520388" lon="9.47847"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.520568" lon="9.478135"><ele>22.75</ele></trkpt>
+   <trkpt lat="54.524461" lon="9.470743"><ele>19</ele></trkpt>
+   <trkpt lat="54.526022" lon="9.467777"><ele>18.25</ele></trkpt>
+   <trkpt lat="54.532169" lon="9.4561"><ele>16</ele></trkpt>
+   <trkpt lat="54.542471" lon="9.43651"><ele>13</ele></trkpt>
+   <trkpt lat="54.545417" lon="9.43091"><ele>13.75</ele></trkpt>
+   <trkpt lat="54.548678" lon="9.424702"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.554681" lon="9.413298"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.556607" lon="9.409671"><ele>13.25</ele></trkpt>
+   <trkpt lat="54.557291" lon="9.408373"><ele>13.5</ele></trkpt>
+   <trkpt lat="54.557292" lon="9.40837"><ele>13.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

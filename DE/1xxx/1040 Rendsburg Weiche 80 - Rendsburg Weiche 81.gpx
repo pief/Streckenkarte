@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 1 plain-ascend = 1 cost=80 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Rendsburg Weiche 80 - Rendsburg Weiche 81</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/54.30502/9.66815/standard&amp;lonlats=9.668281,54.304457;9.667542,54.305027&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.304457" lon="9.668281"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.304883" lon="9.667744"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.305026" lon="9.66754"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

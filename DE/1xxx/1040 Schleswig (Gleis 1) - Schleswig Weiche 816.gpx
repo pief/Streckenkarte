@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 312 filtered ascend = 0 plain-ascend = 0 cost=312 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Schleswig (Gleis 1) - Schleswig Weiche 816</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/54.50135/9.53448/standard&amp;lonlats=9.537992,54.499648;9.534333,54.501405&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.499645" lon="9.537988"><ele>14.25</ele></trkpt>
+   <trkpt lat="54.499828" lon="9.537623"><ele>14.25</ele></trkpt>
+   <trkpt lat="54.500004" lon="9.537269"><ele>13.5</ele></trkpt>
+   <trkpt lat="54.500508" lon="9.536254"><ele>13.25</ele></trkpt>
+   <trkpt lat="54.501049" lon="9.535138"><ele>14.25</ele></trkpt>
+   <trkpt lat="54.501403" lon="9.534334"><ele>13.75</ele></trkpt>
+   <trkpt lat="54.501403" lon="9.534332"><ele>13.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
