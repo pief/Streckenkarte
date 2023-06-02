@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 715 filtered ascend = 2 plain-ascend = 2 cost=715 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Jübek Weiche 07W8 - Jübek (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/54.5579/9.4044/standard&amp;lonlats=9.396959,54.56321;9.405106,54.558929&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.563209" lon="9.396958"><ele>12</ele></trkpt>
+   <trkpt lat="54.563209" lon="9.396959"><ele>12</ele></trkpt>
+   <trkpt lat="54.562634" lon="9.398059"><ele>12</ele></trkpt>
+   <trkpt lat="54.560742" lon="9.401659"><ele>12.75</ele></trkpt>
+   <trkpt lat="54.559911" lon="9.403243"><ele>14</ele></trkpt>
+   <trkpt lat="54.558993" lon="9.404985"><ele>14</ele></trkpt>
+   <trkpt lat="54.558929" lon="9.405106"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

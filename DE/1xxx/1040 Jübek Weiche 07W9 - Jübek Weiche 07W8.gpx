@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Jübek Weiche 07W9 - Jübek Weiche 07W8</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.56310/9.39777/standard&amp;lonlats=9.396855,54.563263;9.396959,54.56321&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.563263" lon="9.396855"><ele>12</ele></trkpt>
+   <trkpt lat="54.563226" lon="9.396929"><ele>12</ele></trkpt>
+   <trkpt lat="54.563209" lon="9.396958"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

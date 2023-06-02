@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2402 filtered ascend = 2 plain-ascend = -1 cost=2402 energy=0.0kwh time=3m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1000 Padborg Grenze - Harrislee (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.79465/9.37471/standard&amp;lonlats=9.362983,54.815219;9.374544,54.794744&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.815216" lon="9.362971"><ele>44</ele></trkpt>
+   <trkpt lat="54.814794" lon="9.363232"><ele>44.25</ele></trkpt>
+   <trkpt lat="54.814306" lon="9.36351"><ele>43.25</ele></trkpt>
+   <trkpt lat="54.814028" lon="9.363663"><ele>43</ele></trkpt>
+   <trkpt lat="54.8089" lon="9.36656"><ele>46.5</ele></trkpt>
+   <trkpt lat="54.80576" lon="9.36833"><ele>42.75</ele></trkpt>
+   <trkpt lat="54.803835" lon="9.369416"><ele>42.25</ele></trkpt>
+   <trkpt lat="54.803705" lon="9.369491"><ele>42.5</ele></trkpt>
+   <trkpt lat="54.79505" lon="9.374374"><ele>42</ele></trkpt>
+   <trkpt lat="54.794744" lon="9.374546"><ele>42</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
