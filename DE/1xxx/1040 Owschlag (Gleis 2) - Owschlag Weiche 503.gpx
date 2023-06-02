@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 571 filtered ascend = 1 plain-ascend = 0 cost=571 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1040 Owschlag (Gleis 2) - Owschlag Weiche 503</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/54.38782/9.59441/standard&amp;lonlats=9.590647,54.392402;9.594356,54.387806&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.392401" lon="9.590647"><ele>10.75</ele></trkpt>
+   <trkpt lat="54.39214" lon="9.590865"><ele>11.25</ele></trkpt>
+   <trkpt lat="54.39206" lon="9.590931"><ele>11.5</ele></trkpt>
+   <trkpt lat="54.391327" lon="9.591514"><ele>11.75</ele></trkpt>
+   <trkpt lat="54.388575" lon="9.593633"><ele>10</ele></trkpt>
+   <trkpt lat="54.388477" lon="9.593711"><ele>10</ele></trkpt>
+   <trkpt lat="54.388433" lon="9.593748"><ele>10</ele></trkpt>
+   <trkpt lat="54.388271" lon="9.593885"><ele>10</ele></trkpt>
+   <trkpt lat="54.38803" lon="9.594115"><ele>10.5</ele></trkpt>
+   <trkpt lat="54.387807" lon="9.594356"><ele>11</ele></trkpt>
+   <trkpt lat="54.387806" lon="9.594356"><ele>11</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
