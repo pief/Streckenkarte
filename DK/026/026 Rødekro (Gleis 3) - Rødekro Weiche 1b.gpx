@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 753 filtered ascend = 2 plain-ascend = -1 cost=753 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Rødekro (Gleis 3) - Rødekro Weiche 1b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/55.06311/9.33080/standard&amp;lonlats=9.332736,55.069638;9.330637,55.063001&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.069636" lon="9.332736"><ele>44</ele></trkpt>
+   <trkpt lat="55.069535" lon="9.332703"><ele>44.25</ele></trkpt>
+   <trkpt lat="55.06833" lon="9.332308"><ele>46.25</ele></trkpt>
+   <trkpt lat="55.066371" lon="9.331754"><ele>43.5</ele></trkpt>
+   <trkpt lat="55.065658" lon="9.331526"><ele>42.75</ele></trkpt>
+   <trkpt lat="55.062999" lon="9.330639"><ele>42.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

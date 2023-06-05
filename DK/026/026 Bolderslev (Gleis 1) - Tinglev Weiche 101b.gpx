@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5469 filtered ascend = 0 plain-ascend = -12 cost=5469 energy=0.1kwh time=7m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Bolderslev (Gleis 1) - Tinglev Weiche 101b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.94433/9.26188/standard&amp;lonlats=9.28207,54.991856;9.261511,54.944219&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.991854" lon="9.282072"><ele>33.5</ele></trkpt>
+   <trkpt lat="54.991523" lon="9.281836"><ele>33.75</ele></trkpt>
+   <trkpt lat="54.990248" lon="9.281093"><ele>32.5</ele></trkpt>
+   <trkpt lat="54.989154" lon="9.280536"><ele>32</ele></trkpt>
+   <trkpt lat="54.976649" lon="9.275194"><ele>29.75</ele></trkpt>
+   <trkpt lat="54.964796" lon="9.270194"><ele>28.75</ele></trkpt>
+   <trkpt lat="54.95267" lon="9.265043"><ele>26</ele></trkpt>
+   <trkpt lat="54.949792" lon="9.263843"><ele>22</ele></trkpt>
+   <trkpt lat="54.946589" lon="9.262507"><ele>20.75</ele></trkpt>
+   <trkpt lat="54.946497" lon="9.262467"><ele>21</ele></trkpt>
+   <trkpt lat="54.94422" lon="9.261512"><ele>21</ele></trkpt>
+   <trkpt lat="54.944217" lon="9.261511"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

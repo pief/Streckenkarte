@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4029 filtered ascend = 0 plain-ascend = -2 cost=4029 energy=0.0kwh time=5m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Hjordkær (Gleis 2) - Bolderslev (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/54.9912/9.2825/standard&amp;lonlats=9.309212,55.024487;9.28207,54.991856&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.024486" lon="9.309211"><ele>36.75</ele></trkpt>
+   <trkpt lat="55.017326" lon="9.303226"><ele>34.75</ele></trkpt>
+   <trkpt lat="55.004821" lon="9.292815"><ele>34.75</ele></trkpt>
+   <trkpt lat="55.000648" lon="9.289362"><ele>31</ele></trkpt>
+   <trkpt lat="54.992798" lon="9.282745"><ele>33.5</ele></trkpt>
+   <trkpt lat="54.991854" lon="9.282072"><ele>33.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Tinglev Weiche 128b - Tinglev Weiche 129a</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.93398/9.25734/standard&amp;lonlats=9.257386,54.934097;9.257359,54.934033&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.934097" lon="9.257386"><ele>24</ele></trkpt>
+   <trkpt lat="54.934032" lon="9.257359"><ele>24</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
