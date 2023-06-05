@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 699 filtered ascend = 1 plain-ascend = 1 cost=699 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Rødekro (Gleis 2) - Rødekro Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/55.07585/9.33417/standard&amp;lonlats=9.332921,55.069622;9.334176,55.075818&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.06962" lon="9.332922"><ele>44</ele></trkpt>
+   <trkpt lat="55.070642" lon="9.333263"><ele>43</ele></trkpt>
+   <trkpt lat="55.071452" lon="9.333494"><ele>43</ele></trkpt>
+   <trkpt lat="55.071707" lon="9.333554"><ele>43</ele></trkpt>
+   <trkpt lat="55.072375" lon="9.333717"><ele>44.5</ele></trkpt>
+   <trkpt lat="55.073154" lon="9.333858"><ele>45.75</ele></trkpt>
+   <trkpt lat="55.074257" lon="9.334021"><ele>45.75</ele></trkpt>
+   <trkpt lat="55.075816" lon="9.334176"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

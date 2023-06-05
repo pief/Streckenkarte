@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7221 filtered ascend = 0 plain-ascend = -9 cost=7221 energy=0.1kwh time=9m 38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Hovslund (Gleis 2) - Over Jerstal (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/55.19513/9.30433/standard&amp;lonlats=9.335563,55.132958;9.303686,55.194968&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.132958" lon="9.335567"><ele>55.5</ele></trkpt>
+   <trkpt lat="55.133159" lon="9.335487"><ele>55.75</ele></trkpt>
+   <trkpt lat="55.138111" lon="9.333523"><ele>53.75</ele></trkpt>
+   <trkpt lat="55.146954" lon="9.328113"><ele>52.25</ele></trkpt>
+   <trkpt lat="55.156956" lon="9.321723"><ele>43</ele></trkpt>
+   <trkpt lat="55.166484" lon="9.315615"><ele>43.75</ele></trkpt>
+   <trkpt lat="55.175483" lon="9.309998"><ele>47.25</ele></trkpt>
+   <trkpt lat="55.176752" lon="9.309365"><ele>46.25</ele></trkpt>
+   <trkpt lat="55.17797" lon="9.308896"><ele>47</ele></trkpt>
+   <trkpt lat="55.194967" lon="9.303685"><ele>45.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

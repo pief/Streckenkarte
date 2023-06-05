@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 307 filtered ascend = 1 plain-ascend = 1 cost=307 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Padborg Weiche 28b - Padborg Weiche 26a</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/54.81977/9.36095/standard&amp;lonlats=9.361974,54.817131;9.360692,54.819763&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.817131" lon="9.361975"><ele>41.5</ele></trkpt>
+   <trkpt lat="54.817132" lon="9.361975"><ele>41.5</ele></trkpt>
+   <trkpt lat="54.81819" lon="9.361377"><ele>43</ele></trkpt>
+   <trkpt lat="54.818652" lon="9.361154"><ele>42.5</ele></trkpt>
+   <trkpt lat="54.81976" lon="9.360695"><ele>42.25</ele></trkpt>
+   <trkpt lat="54.819763" lon="9.360693"><ele>42.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

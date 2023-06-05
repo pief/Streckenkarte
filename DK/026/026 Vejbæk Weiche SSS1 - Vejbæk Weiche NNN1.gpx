@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1162 filtered ascend = 0 plain-ascend = -1 cost=1162 energy=0.0kwh time=1m 33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Vejbæk Weiche SSS1 - Vejbæk Weiche NNN1</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/54.88062/9.30184/standard&amp;lonlats=9.309965,54.872573;9.302496,54.879273;9.300131,54.881288&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.872572" lon="9.309963"><ele>28.5</ele></trkpt>
+   <trkpt lat="54.872901" lon="9.309669"><ele>28.25</ele></trkpt>
+   <trkpt lat="54.873085" lon="9.309475"><ele>28</ele></trkpt>
+   <trkpt lat="54.879271" lon="9.302491"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.88083" lon="9.300732"><ele>26</ele></trkpt>
+   <trkpt lat="54.881063" lon="9.300438"><ele>26</ele></trkpt>
+   <trkpt lat="54.881286" lon="9.300132"><ele>26</ele></trkpt>
+   <trkpt lat="54.881287" lon="9.30013"><ele>25.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

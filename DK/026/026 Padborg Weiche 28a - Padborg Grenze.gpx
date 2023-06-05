@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 302 filtered ascend = 1 plain-ascend = 2 cost=302 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Padborg Weiche 28a - Padborg Grenze</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.81532/9.36255/standard&amp;lonlats=9.36154,54.81777;9.362971,54.815216&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.817769" lon="9.361538"><ele>42.25</ele></trkpt>
+   <trkpt lat="54.817769" lon="9.361539"><ele>42.25</ele></trkpt>
+   <trkpt lat="54.817313" lon="9.361793"><ele>41.5</ele></trkpt>
+   <trkpt lat="54.815594" lon="9.362775"><ele>43.5</ele></trkpt>
+   <trkpt lat="54.815217" lon="9.362971"><ele>44</ele></trkpt>
+   <trkpt lat="54.815216" lon="9.362971"><ele>44</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

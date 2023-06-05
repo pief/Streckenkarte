@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 584 filtered ascend = 0 plain-ascend = -2 cost=584 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Padborg (Gleis 2) - Padborg Weiche 26b</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/54.81852/9.36130/standard&amp;lonlats=9.358783,54.823533;9.361092,54.818511&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.823532" lon="9.358782"><ele>46.25</ele></trkpt>
+   <trkpt lat="54.82353" lon="9.358783"><ele>46.25</ele></trkpt>
+   <trkpt lat="54.822912" lon="9.35904"><ele>46.5</ele></trkpt>
+   <trkpt lat="54.822686" lon="9.359133"><ele>46.75</ele></trkpt>
+   <trkpt lat="54.822339" lon="9.359275"><ele>46.75</ele></trkpt>
+   <trkpt lat="54.820143" lon="9.360177"><ele>43.75</ele></trkpt>
+   <trkpt lat="54.81997" lon="9.360247"><ele>43.25</ele></trkpt>
+   <trkpt lat="54.819527" lon="9.360464"><ele>42.5</ele></trkpt>
+   <trkpt lat="54.819005" lon="9.360785"><ele>42.25</ele></trkpt>
+   <trkpt lat="54.818511" lon="9.361092"><ele>43</ele></trkpt>
+   <trkpt lat="54.818511" lon="9.361092"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

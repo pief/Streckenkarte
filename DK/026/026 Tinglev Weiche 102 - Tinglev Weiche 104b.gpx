@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 0 plain-ascend = 0 cost=399 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Tinglev Weiche 102 - Tinglev Weiche 104b</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/54.94327/9.26086/standard&amp;lonlats=9.2597,54.939659;9.261119,54.943127&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.939658" lon="9.2597"><ele>22.75</ele></trkpt>
+   <trkpt lat="54.940803" lon="9.260139"><ele>21</ele></trkpt>
+   <trkpt lat="54.943125" lon="9.26112"><ele>22</ele></trkpt>
+   <trkpt lat="54.943125" lon="9.26112"><ele>21.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

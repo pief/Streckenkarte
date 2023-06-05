@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 205 filtered ascend = 0 plain-ascend = 0 cost=205 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Vojens Weiche 105a - Vojens (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/55.24852/9.30499/standard&amp;lonlats=9.305136,55.246646;9.30503,55.248472&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.246646" lon="9.305136"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.247056" lon="9.305112"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.24726" lon="9.305104"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.248472" lon="9.305031"><ele>41</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
