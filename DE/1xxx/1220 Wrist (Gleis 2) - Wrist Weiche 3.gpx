@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 231 filtered ascend = 1 plain-ascend = -1 cost=231 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>1220 Wrist (Gleis 2) - Wrist Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/53.93048/9.74706/standard&amp;lonlats=9.747901,53.932101;9.746217,53.93031&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.932099" lon="9.747903"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.931735" lon="9.747554"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.931272" lon="9.747102"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.931205" lon="9.747039"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.930845" lon="9.746683"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.930588" lon="9.746471"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.93031" lon="9.746225"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.930307" lon="9.746223"><ele>2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

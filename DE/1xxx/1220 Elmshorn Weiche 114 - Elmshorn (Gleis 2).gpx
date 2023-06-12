@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 212 filtered ascend = 1 plain-ascend = 0 cost=212 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>1220 Elmshorn Weiche 114 - Elmshorn (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/53.75407/9.65955/standard&amp;lonlats=9.658801,53.756063;9.659326,53.754223&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.756063" lon="9.658805"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.756061" lon="9.658806"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.755498" lon="9.658971"><ele>4.25</ele></trkpt>
+   <trkpt lat="53.755415" lon="9.658994"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.75526" lon="9.659039"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.755258" lon="9.65904"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.755219" lon="9.659051"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.754662" lon="9.659207"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.754432" lon="9.659272"><ele>4</ele></trkpt>
+   <trkpt lat="53.754223" lon="9.659331"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 152 filtered ascend = 0 plain-ascend = 1 cost=152 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>1220 Elmshorn Weiche 117 - Elmshorn Weiche 115</name>
+  <link href="https://bikerouter.de/#map=19/53.75552/9.65918/standard&amp;lonlats=9.658372,53.757554;9.658761,53.756219&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.757554" lon="9.658373"><ele>3</ele></trkpt>
+   <trkpt lat="53.75755" lon="9.658375"><ele>3</ele></trkpt>
+   <trkpt lat="53.756222" lon="9.658761"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.756219" lon="9.658761"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3066 filtered ascend = 1 plain-ascend = 1 cost=3066 energy=0.0kwh time=4m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>1220 Wrist Weiche 2 - Siebenecksknöll (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=17/53.90567/9.72679/standard&amp;lonlats=9.745857,53.929871;9.725065,53.905239&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.929869" lon="9.745858"><ele>1</ele></trkpt>
+   <trkpt lat="53.928783" lon="9.744945"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.927475" lon="9.743839"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.926279" lon="9.742827"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.919393" lon="9.737016"><ele>0</ele></trkpt>
+   <trkpt lat="53.910332" lon="9.729363"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.905562" lon="9.725337"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.905238" lon="9.725064"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4896 filtered ascend = 1 plain-ascend = -2 cost=4896 energy=0.1kwh time=6m 32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>1220 Arpsdorf (Gleis 1) - Brokstedt Weiche 213</name>
+  <link href="https://bikerouter.de/#map=19/53.99133/9.82689/standard&amp;lonlats=9.882103,54.020122;9.825905,53.991218&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.020123" lon="9.8821"><ele>14</ele></trkpt>
+   <trkpt lat="54.019908" lon="9.881676"><ele>14.75</ele></trkpt>
+   <trkpt lat="54.019538" lon="9.880952"><ele>15.75</ele></trkpt>
+   <trkpt lat="54.014856" lon="9.871832"><ele>11</ele></trkpt>
+   <trkpt lat="54.013591" lon="9.869367"><ele>11.5</ele></trkpt>
+   <trkpt lat="54.004601" lon="9.851877"><ele>10.75</ele></trkpt>
+   <trkpt lat="53.999298" lon="9.841581"><ele>8.75</ele></trkpt>
+   <trkpt lat="53.997893" lon="9.83887"><ele>9</ele></trkpt>
+   <trkpt lat="53.993366" lon="9.830072"><ele>10.75</ele></trkpt>
+   <trkpt lat="53.99202" lon="9.827467"><ele>10.5</ele></trkpt>
+   <trkpt lat="53.991219" lon="9.825915"><ele>11</ele></trkpt>
+   <trkpt lat="53.991215" lon="9.825907"><ele>10.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
