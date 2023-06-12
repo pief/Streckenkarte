@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8004 filtered ascend = 14 plain-ascend = 4 cost=8004 energy=0.1kwh time=10m 40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Somersted (Gleis 2) - Farris (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/55.38495/9.27108/standard&amp;lonlats=9.287033,55.314498;9.270288,55.385467&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.314498" lon="9.287035"><ele>38.25</ele></trkpt>
+   <trkpt lat="55.321747" lon="9.284023"><ele>33</ele></trkpt>
+   <trkpt lat="55.327432" lon="9.281647"><ele>42.75</ele></trkpt>
+   <trkpt lat="55.32897" lon="9.281019"><ele>46.5</ele></trkpt>
+   <trkpt lat="55.332885" lon="9.279388"><ele>52.5</ele></trkpt>
+   <trkpt lat="55.339289" lon="9.276741"><ele>51.5</ele></trkpt>
+   <trkpt lat="55.340713" lon="9.276237"><ele>49.25</ele></trkpt>
+   <trkpt lat="55.341216" lon="9.276079"><ele>49.25</ele></trkpt>
+   <trkpt lat="55.342025" lon="9.27585"><ele>49</ele></trkpt>
+   <trkpt lat="55.342566" lon="9.275708"><ele>48.75</ele></trkpt>
+   <trkpt lat="55.343635" lon="9.275475"><ele>47.75</ele></trkpt>
+   <trkpt lat="55.344913" lon="9.275263"><ele>47.75</ele></trkpt>
+   <trkpt lat="55.346933" lon="9.275003"><ele>46</ele></trkpt>
+   <trkpt lat="55.350213" lon="9.274611"><ele>44.75</ele></trkpt>
+   <trkpt lat="55.356622" lon="9.273828"><ele>44</ele></trkpt>
+   <trkpt lat="55.357651" lon="9.273694"><ele>43.5</ele></trkpt>
+   <trkpt lat="55.374893" lon="9.271581"><ele>43</ele></trkpt>
+   <trkpt lat="55.377009" lon="9.27131"><ele>42</ele></trkpt>
+   <trkpt lat="55.383032" lon="9.270581"><ele>40.75</ele></trkpt>
+   <trkpt lat="55.383507" lon="9.270544"><ele>40.75</ele></trkpt>
+   <trkpt lat="55.383801" lon="9.27051"><ele>41.25</ele></trkpt>
+   <trkpt lat="55.385467" lon="9.270301"><ele>42.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

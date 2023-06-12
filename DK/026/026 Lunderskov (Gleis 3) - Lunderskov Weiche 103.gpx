@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 709 filtered ascend = 0 plain-ascend = -4 cost=709 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Lunderskov (Gleis 3) - Lunderskov Weiche 103</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/55.48586/9.30866/standard&amp;lonlats=9.304175,55.48039;9.308429,55.486193&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.480388" lon="9.304177"><ele>37.75</ele></trkpt>
+   <trkpt lat="55.48039" lon="9.304178"><ele>38</ele></trkpt>
+   <trkpt lat="55.481754" lon="9.304862"><ele>38.25</ele></trkpt>
+   <trkpt lat="55.482217" lon="9.305115"><ele>37.75</ele></trkpt>
+   <trkpt lat="55.482892" lon="9.305513"><ele>36.5</ele></trkpt>
+   <trkpt lat="55.483446" lon="9.305884"><ele>36</ele></trkpt>
+   <trkpt lat="55.483718" lon="9.306087"><ele>36.5</ele></trkpt>
+   <trkpt lat="55.484261" lon="9.306521"><ele>36</ele></trkpt>
+   <trkpt lat="55.484545" lon="9.306771"><ele>35.5</ele></trkpt>
+   <trkpt lat="55.484837" lon="9.307043"><ele>35.25</ele></trkpt>
+   <trkpt lat="55.485433" lon="9.307635"><ele>34.75</ele></trkpt>
+   <trkpt lat="55.486195" lon="9.308432"><ele>33</ele></trkpt>
+   <trkpt lat="55.486192" lon="9.308428"><ele>33</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
