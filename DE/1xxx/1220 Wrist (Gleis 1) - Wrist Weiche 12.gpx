@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1144 filtered ascend = 0 plain-ascend = -1 cost=1144 energy=0.0kwh time=1m 32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Wrist (Gleis 1) - Wrist Weiche 12</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.94101/9.75627/standard&amp;lonlats=9.747957,53.932081;9.755572,53.941282&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.932078" lon="9.747962"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.932234" lon="9.74811"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.932721" lon="9.748538"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.933219" lon="9.748956"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.935073" lon="9.750491"><ele>2</ele></trkpt>
+   <trkpt lat="53.935871" lon="9.751143"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.936356" lon="9.751533"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.939036" lon="9.7537"><ele>2</ele></trkpt>
+   <trkpt lat="53.939616" lon="9.754172"><ele>2</ele></trkpt>
+   <trkpt lat="53.940918" lon="9.755269"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.94128" lon="9.755573"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.941281" lon="9.755573"><ele>2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

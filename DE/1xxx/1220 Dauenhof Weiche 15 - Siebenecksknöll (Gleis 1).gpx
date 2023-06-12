@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5366 filtered ascend = 0 plain-ascend = -1 cost=5366 energy=0.1kwh time=7m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Dauenhof Weiche 15 - Siebenecksknöll (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest//#map=18/53.90447/9.72659/standard&amp;lonlats=9.688802,53.862128;9.725121,53.905229&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.862126" lon="9.688802"><ele>4</ele></trkpt>
+   <trkpt lat="53.862132" lon="9.688806"><ele>4</ele></trkpt>
+   <trkpt lat="53.862671" lon="9.68927"><ele>4</ele></trkpt>
+   <trkpt lat="53.864644" lon="9.690932"><ele>4.25</ele></trkpt>
+   <trkpt lat="53.872683" lon="9.697696"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.877841" lon="9.702034"><ele>1</ele></trkpt>
+   <trkpt lat="53.879426" lon="9.703373"><ele>0</ele></trkpt>
+   <trkpt lat="53.879492" lon="9.703428"><ele>0</ele></trkpt>
+   <trkpt lat="53.887179" lon="9.709905"><ele>2</ele></trkpt>
+   <trkpt lat="53.890762" lon="9.712923"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.89081" lon="9.712964"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.890986" lon="9.713114"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.895215" lon="9.716676"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.895777" lon="9.717152"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.90071" lon="9.721304"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.905227" lon="9.725122"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

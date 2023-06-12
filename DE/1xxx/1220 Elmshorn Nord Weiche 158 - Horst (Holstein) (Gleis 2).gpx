@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3830 filtered ascend = 1 plain-ascend = 0 cost=3830 energy=0.0kwh time=5m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Elmshorn Nord Weiche 158 - Horst (Holstein) (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.80420/9.64541/standard&amp;lonlats=9.654829,53.770336;9.645285,53.804224&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.770336" lon="9.654829"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.770337" lon="9.654829"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.771753" lon="9.654456"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.773254" lon="9.654007"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.77378" lon="9.653857"><ele>5</ele></trkpt>
+   <trkpt lat="53.777942" lon="9.652689"><ele>5</ele></trkpt>
+   <trkpt lat="53.780422" lon="9.651986"><ele>4</ele></trkpt>
+   <trkpt lat="53.782635" lon="9.651357"><ele>5</ele></trkpt>
+   <trkpt lat="53.78449" lon="9.650838"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.794037" lon="9.648148"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.795015" lon="9.647877"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.798255" lon="9.646964"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.804223" lon="9.645281"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

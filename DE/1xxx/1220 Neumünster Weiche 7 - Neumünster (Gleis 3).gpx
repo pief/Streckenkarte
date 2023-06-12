@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 466 filtered ascend = 1 plain-ascend = 1 cost=466 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Neumünster Weiche 7 - Neumünster (Gleis 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/54.07580/9.98087/standard&amp;lonlats=9.977946,54.072182;9.980063,54.07608&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.072181" lon="9.977946"><ele>22.5</ele></trkpt>
+   <trkpt lat="54.072184" lon="9.977949"><ele>22.5</ele></trkpt>
+   <trkpt lat="54.07304" lon="9.978685"><ele>22.25</ele></trkpt>
+   <trkpt lat="54.073281" lon="9.978856"><ele>22</ele></trkpt>
+   <trkpt lat="54.073422" lon="9.978952"><ele>22</ele></trkpt>
+   <trkpt lat="54.073693" lon="9.979093"><ele>22.25</ele></trkpt>
+   <trkpt lat="54.073859" lon="9.979167"><ele>22.5</ele></trkpt>
+   <trkpt lat="54.074052" lon="9.97924"><ele>22.75</ele></trkpt>
+   <trkpt lat="54.07447" lon="9.979388"><ele>23</ele></trkpt>
+   <trkpt lat="54.074806" lon="9.979499"><ele>23.25</ele></trkpt>
+   <trkpt lat="54.075116" lon="9.979605"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.075276" lon="9.979671"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.075586" lon="9.979824"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.075722" lon="9.979889"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.07608" lon="9.980061"><ele>23.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4821 filtered ascend = 3 plain-ascend = 2 cost=4821 energy=0.1kwh time=6m 26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>1220 Brokstedt Weiche 214 - Arpsdorf (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/54.02141/9.88135/standard&amp;lonlats=9.826817,53.991633;9.882145,54.020101&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.991631" lon="9.826819"><ele>11.75</ele></trkpt>
+   <trkpt lat="53.993335" lon="9.830114"><ele>10.75</ele></trkpt>
+   <trkpt lat="53.994334" lon="9.832044"><ele>9.5</ele></trkpt>
+   <trkpt lat="53.997863" lon="9.838913"><ele>9</ele></trkpt>
+   <trkpt lat="53.99927" lon="9.841617"><ele>8.75</ele></trkpt>
+   <trkpt lat="54.001005" lon="9.844987"><ele>9.75</ele></trkpt>
+   <trkpt lat="54.008116" lon="9.858808"><ele>10.5</ele></trkpt>
+   <trkpt lat="54.013564" lon="9.869414"><ele>11.5</ele></trkpt>
+   <trkpt lat="54.018274" lon="9.878582"><ele>14.75</ele></trkpt>
+   <trkpt lat="54.019514" lon="9.880995"><ele>15.5</ele></trkpt>
+   <trkpt lat="54.019884" lon="9.881718"><ele>14.75</ele></trkpt>
+   <trkpt lat="54.020101" lon="9.882142"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
