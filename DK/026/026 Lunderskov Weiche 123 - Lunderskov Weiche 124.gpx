@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 1 cost=55 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Lunderskov Weiche 123 - Lunderskov Weiche 124</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/55.47690/9.30463/standard&amp;lonlats=9.302639,55.477385;9.302435,55.476906&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.477384" lon="9.302638"><ele>35</ele></trkpt>
+   <trkpt lat="55.476904" lon="9.302441"><ele>35.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

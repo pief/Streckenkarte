@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1768 filtered ascend = 1 plain-ascend = 0 cost=1768 energy=0.0kwh time=2m 21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Jegerup (Gleis 1) - Vojens Weiche 113a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/55.26124/9.30279/standard&amp;lonlats=9.299207,55.27699;9.302617,55.261258&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.27699" lon="9.299207"><ele>38.75</ele></trkpt>
+   <trkpt lat="55.276871" lon="9.299233"><ele>38.75</ele></trkpt>
+   <trkpt lat="55.276672" lon="9.299276"><ele>38.75</ele></trkpt>
+   <trkpt lat="55.26281" lon="9.302291"><ele>40.25</ele></trkpt>
+   <trkpt lat="55.261259" lon="9.30262"><ele>38.25</ele></trkpt>
+   <trkpt lat="55.261258" lon="9.30262"><ele>38.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

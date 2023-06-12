@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4261 filtered ascend = 0 plain-ascend = -1 cost=4261 energy=0.1kwh time=5m 41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Somersted (Gleis 1) - Jegerup (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=15/55.2801/9.3008/standard&amp;lonlats=9.286945,55.314489;9.299203,55.27699&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.314489" lon="9.286947"><ele>40.25</ele></trkpt>
+   <trkpt lat="55.313026" lon="9.287554"><ele>40</ele></trkpt>
+   <trkpt lat="55.31244" lon="9.287808"><ele>40</ele></trkpt>
+   <trkpt lat="55.311368" lon="9.288263"><ele>41</ele></trkpt>
+   <trkpt lat="55.309169" lon="9.289149"><ele>40</ele></trkpt>
+   <trkpt lat="55.303445" lon="9.291523"><ele>39</ele></trkpt>
+   <trkpt lat="55.300902" lon="9.292568"><ele>39.75</ele></trkpt>
+   <trkpt lat="55.299936" lon="9.292979"><ele>40</ele></trkpt>
+   <trkpt lat="55.295134" lon="9.294961"><ele>36.75</ele></trkpt>
+   <trkpt lat="55.294465" lon="9.295231"><ele>36.25</ele></trkpt>
+   <trkpt lat="55.294041" lon="9.295387"><ele>36</ele></trkpt>
+   <trkpt lat="55.293615" lon="9.295529"><ele>36.25</ele></trkpt>
+   <trkpt lat="55.293169" lon="9.29566"><ele>36.5</ele></trkpt>
+   <trkpt lat="55.292451" lon="9.29584"><ele>36</ele></trkpt>
+   <trkpt lat="55.291965" lon="9.295948"><ele>36</ele></trkpt>
+   <trkpt lat="55.27992" lon="9.298569"><ele>39.75</ele></trkpt>
+   <trkpt lat="55.27699" lon="9.299207"><ele>38.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

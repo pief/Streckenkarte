@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 367 filtered ascend = 0 plain-ascend = 0 cost=367 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Vamdrup (Gleis 1) - Vamdrup Weiche 105a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/55.42558/9.28415/standard&amp;lonlats=9.286467,55.427962;9.283125,55.425294&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.42796" lon="9.286469"><ele>38.75</ele></trkpt>
+   <trkpt lat="55.427915" lon="9.286412"><ele>38.75</ele></trkpt>
+   <trkpt lat="55.426993" lon="9.285272"><ele>38.75</ele></trkpt>
+   <trkpt lat="55.426229" lon="9.284327"><ele>37.75</ele></trkpt>
+   <trkpt lat="55.425793" lon="9.283771"><ele>38</ele></trkpt>
+   <trkpt lat="55.425584" lon="9.2835"><ele>38.25</ele></trkpt>
+   <trkpt lat="55.425296" lon="9.283127"><ele>38.5</ele></trkpt>
+   <trkpt lat="55.425293" lon="9.283124"><ele>38.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

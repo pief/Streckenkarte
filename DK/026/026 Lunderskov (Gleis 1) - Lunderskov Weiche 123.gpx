@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 0 plain-ascend = -1 cost=350 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Lunderskov (Gleis 1) - Lunderskov Weiche 123</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/55.47806/9.30354/standard&amp;lonlats=9.303899,55.480422;9.302638,55.477387&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.48042" lon="9.303903"><ele>37.25</ele></trkpt>
+   <trkpt lat="55.479983" lon="9.30371"><ele>37.25</ele></trkpt>
+   <trkpt lat="55.479588" lon="9.30355"><ele>36.75</ele></trkpt>
+   <trkpt lat="55.479475" lon="9.303503"><ele>36.5</ele></trkpt>
+   <trkpt lat="55.477387" lon="9.30264"><ele>35</ele></trkpt>
+   <trkpt lat="55.477385" lon="9.302639"><ele>35</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
