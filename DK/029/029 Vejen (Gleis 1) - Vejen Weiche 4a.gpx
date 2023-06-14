@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 552 filtered ascend = 2 plain-ascend = 1 cost=552 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>029 Vejen (Gleis 1) - Vejen Weiche 4a</name>
+  <link href="https://bikerouter.de/#map=17/55.47486/9.13835/standard&amp;lonlats=9.135811,55.475881;9.128198,55.478214&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.475881" lon="9.135811"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.475901" lon="9.135744"><ele>42</ele></trkpt>
+   <trkpt lat="55.476507" lon="9.133657"><ele>42.25</ele></trkpt>
+   <trkpt lat="55.476805" lon="9.132676"><ele>42.5</ele></trkpt>
+   <trkpt lat="55.477109" lon="9.131705"><ele>42.75</ele></trkpt>
+   <trkpt lat="55.477612" lon="9.130109"><ele>43.75</ele></trkpt>
+   <trkpt lat="55.478214" lon="9.128198"><ele>43</ele></trkpt>
+   <trkpt lat="55.478214" lon="9.128198"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
