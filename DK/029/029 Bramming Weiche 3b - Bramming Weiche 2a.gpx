@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 208 filtered ascend = 0 plain-ascend = 1 cost=208 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>029 Bramming Weiche 3b - Bramming Weiche 2a</name>
+  <link href="https://bikerouter.de/#map=19/55.46500/8.71500/standard&amp;lonlats=8.712587,55.464879;8.715809,55.465105&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.464878" lon="8.712586"><ele>14</ele></trkpt>
+   <trkpt lat="55.464879" lon="8.712588"><ele>14</ele></trkpt>
+   <trkpt lat="55.465106" lon="8.715809"><ele>14.75</ele></trkpt>
+   <trkpt lat="55.465105" lon="8.715807"><ele>14.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
