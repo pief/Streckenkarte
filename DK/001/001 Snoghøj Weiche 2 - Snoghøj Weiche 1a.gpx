@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 136 filtered ascend = 1 plain-ascend = 1 cost=136 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Snoghøj Weiche 2 - Snoghøj Weiche 1a</name>
+  <link href="https://bikerouter.de/#map=19/55.53445/9.71067/standard&amp;lonlats=9.708982,55.535428;9.709701,55.534294&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.535428" lon="9.708985"/>
+   <trkpt lat="55.534753" lon="9.709399"><ele>23</ele></trkpt>
+   <trkpt lat="55.534486" lon="9.709569"><ele>23.5</ele></trkpt>
+   <trkpt lat="55.534296" lon="9.709702"><ele>24.25</ele></trkpt>
+   <trkpt lat="55.534294" lon="9.709703"><ele>24.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

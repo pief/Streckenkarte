@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1265 filtered ascend = 0 plain-ascend = 0 cost=1265 energy=0.0kwh time=1m 41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Taulov Weiche 4 - Taulov Weiche 8b</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/55.5470/9.6371/standard&amp;lonlats=9.623322,55.545151;9.642678,55.54795&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.545151" lon="9.62332"><ele>27</ele></trkpt>
+   <trkpt lat="55.545152" lon="9.623325"><ele>27</ele></trkpt>
+   <trkpt lat="55.545268" lon="9.624351"><ele>26.75</ele></trkpt>
+   <trkpt lat="55.545372" lon="9.625154"><ele>26</ele></trkpt>
+   <trkpt lat="55.545585" lon="9.626603"><ele>25.25</ele></trkpt>
+   <trkpt lat="55.547387" lon="9.638645"><ele>24.25</ele></trkpt>
+   <trkpt lat="55.547755" lon="9.641182"><ele>26.75</ele></trkpt>
+   <trkpt lat="55.547949" lon="9.642677"><ele>26.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

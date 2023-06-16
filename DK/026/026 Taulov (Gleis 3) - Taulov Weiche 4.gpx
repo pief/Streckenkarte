@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 488 filtered ascend = 0 plain-ascend = 0 cost=488 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Taulov (Gleis 3) - Taulov Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/55.54529/9.62374/standard&amp;lonlats=9.615673,55.54485;9.623323,55.545153&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.544847" lon="9.615672"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.544848" lon="9.61568"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.544857" lon="9.617976"><ele>26.75</ele></trkpt>
+   <trkpt lat="55.544885" lon="9.619479"><ele>27</ele></trkpt>
+   <trkpt lat="55.544942" lon="9.620688"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.545015" lon="9.621831"><ele>28</ele></trkpt>
+   <trkpt lat="55.545078" lon="9.62258"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.545152" lon="9.623325"><ele>27</ele></trkpt>
+   <trkpt lat="55.545151" lon="9.623322"><ele>27</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
