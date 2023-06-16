@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4264 filtered ascend = 1 plain-ascend = -1 cost=4264 energy=0.1kwh time=5m 41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Nørre Åby (Gleis 2) - Kavslunde (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/55.47564/9.81173/standard&amp;lonlats=9.871674,55.459862;9.810882,55.475895&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.45986" lon="9.871672"><ele>22</ele></trkpt>
+   <trkpt lat="55.460095" lon="9.871044"><ele>22</ele></trkpt>
+   <trkpt lat="55.460594" lon="9.869697"><ele>21.5</ele></trkpt>
+   <trkpt lat="55.46088" lon="9.868887"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.461101" lon="9.86823"><ele>23</ele></trkpt>
+   <trkpt lat="55.461332" lon="9.86751"><ele>23</ele></trkpt>
+   <trkpt lat="55.461554" lon="9.866787"><ele>23</ele></trkpt>
+   <trkpt lat="55.461755" lon="9.866099"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.462046" lon="9.86504"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.462234" lon="9.864302"><ele>22.75</ele></trkpt>
+   <trkpt lat="55.462565" lon="9.862913"><ele>22.75</ele></trkpt>
+   <trkpt lat="55.463917" lon="9.856988"><ele>21</ele></trkpt>
+   <trkpt lat="55.468501" lon="9.836861"><ele>17.5</ele></trkpt>
+   <trkpt lat="55.46961" lon="9.831986"><ele>16.75</ele></trkpt>
+   <trkpt lat="55.470352" lon="9.828729"><ele>16</ele></trkpt>
+   <trkpt lat="55.470808" lon="9.826718"><ele>17</ele></trkpt>
+   <trkpt lat="55.470982" lon="9.825986"><ele>17.75</ele></trkpt>
+   <trkpt lat="55.471208" lon="9.8251"><ele>18</ele></trkpt>
+   <trkpt lat="55.471308" lon="9.82473"><ele>18</ele></trkpt>
+   <trkpt lat="55.471519" lon="9.824005"><ele>18</ele></trkpt>
+   <trkpt lat="55.471955" lon="9.822646"><ele>18</ele></trkpt>
+   <trkpt lat="55.475898" lon="9.810885"><ele>19.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

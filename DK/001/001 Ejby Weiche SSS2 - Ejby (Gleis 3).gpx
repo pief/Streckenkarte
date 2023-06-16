@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 895 filtered ascend = 3 plain-ascend = 4 cost=895 energy=0.0kwh time=1m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Ejby Weiche SSS2 - Ejby (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/55.42851/9.93071/standard&amp;lonlats=9.937727,55.42196;9.930171,55.428717&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.421959" lon="9.937727"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.421962" lon="9.937724"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.422451" lon="9.937184"><ele>19.75</ele></trkpt>
+   <trkpt lat="55.422939" lon="9.936633"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.425728" lon="9.933413"><ele>20.75</ele></trkpt>
+   <trkpt lat="55.426645" lon="9.932405"><ele>22</ele></trkpt>
+   <trkpt lat="55.428715" lon="9.930168"><ele>22.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

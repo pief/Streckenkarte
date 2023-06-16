@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2411 filtered ascend = 0 plain-ascend = -4 cost=2411 energy=0.0kwh time=3m 13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Skalbjerg (Gleis 2) - Bred (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/55.37299/10.10713/standard&amp;lonlats=10.14144,55.366009;10.105842,55.373293&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.366005" lon="10.141435"><ele>55</ele></trkpt>
+   <trkpt lat="55.36602" lon="10.141397"><ele>55</ele></trkpt>
+   <trkpt lat="55.36627" lon="10.14066"><ele>54.75</ele></trkpt>
+   <trkpt lat="55.36639" lon="10.14028"><ele>54.5</ele></trkpt>
+   <trkpt lat="55.36661" lon="10.13952"><ele>54.75</ele></trkpt>
+   <trkpt lat="55.366832" lon="10.138663"><ele>55</ele></trkpt>
+   <trkpt lat="55.366941" lon="10.138194"><ele>55</ele></trkpt>
+   <trkpt lat="55.36708" lon="10.137549"><ele>54</ele></trkpt>
+   <trkpt lat="55.367241" lon="10.136727"><ele>52.5</ele></trkpt>
+   <trkpt lat="55.369527" lon="10.124099"><ele>51</ele></trkpt>
+   <trkpt lat="55.369775" lon="10.122776"><ele>51</ele></trkpt>
+   <trkpt lat="55.369936" lon="10.121953"><ele>51.5</ele></trkpt>
+   <trkpt lat="55.371403" lon="10.114713"><ele>49</ele></trkpt>
+   <trkpt lat="55.372633" lon="10.108655"><ele>48.5</ele></trkpt>
+   <trkpt lat="55.372816" lon="10.107802"><ele>49</ele></trkpt>
+   <trkpt lat="55.372911" lon="10.107389"><ele>49.5</ele></trkpt>
+   <trkpt lat="55.373108" lon="10.106573"><ele>50</ele></trkpt>
+   <trkpt lat="55.373295" lon="10.105844"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
