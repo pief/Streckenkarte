@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 774 filtered ascend = 0 plain-ascend = -2 cost=774 energy=0.0kwh time=1m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Kavslunde (Gleis 2) - Kavslunde Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/55.47197/9.82239/standard&amp;lonlats=9.810796,55.475822;9.821343,55.472346&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.475822" lon="9.810796"><ele>19.75</ele></trkpt>
+   <trkpt lat="55.475821" lon="9.810802"><ele>20</ele></trkpt>
+   <trkpt lat="55.473998" lon="9.816416"><ele>18</ele></trkpt>
+   <trkpt lat="55.472402" lon="9.821176"><ele>17.25</ele></trkpt>
+   <trkpt lat="55.472346" lon="9.821343"><ele>17.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 623 filtered ascend = 0 plain-ascend = 0 cost=623 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Middelfart (Gleis 4) - Middelfart Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/55.50024/9.74387/standard&amp;lonlats=9.734425,55.501529;9.743851,55.500134&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.501529" lon="9.734425"><ele>9.5</ele></trkpt>
+   <trkpt lat="55.501097" lon="9.739071"><ele>9.25</ele></trkpt>
+   <trkpt lat="55.501005" lon="9.739883"><ele>8</ele></trkpt>
+   <trkpt lat="55.50096" lon="9.740193"><ele>7.75</ele></trkpt>
+   <trkpt lat="55.500867" lon="9.740768"><ele>7.75</ele></trkpt>
+   <trkpt lat="55.500818" lon="9.741035"><ele>7.75</ele></trkpt>
+   <trkpt lat="55.50065" lon="9.741819"><ele>7.25</ele></trkpt>
+   <trkpt lat="55.500425" lon="9.742727"><ele>8.25</ele></trkpt>
+   <trkpt lat="55.500135" lon="9.74385"><ele>9</ele></trkpt>
+   <trkpt lat="55.500134" lon="9.743851"><ele>9</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

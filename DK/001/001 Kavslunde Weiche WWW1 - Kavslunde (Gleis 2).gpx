@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 645 filtered ascend = 3 plain-ascend = 4 cost=645 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Kavslunde Weiche WWW1 - Kavslunde (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/55.47547/9.81152/standard&amp;lonlats=9.801519,55.478046;9.810801,55.475827&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.478045" lon="9.801518"><ele>16.25</ele></trkpt>
+   <trkpt lat="55.478045" lon="9.801519"><ele>16.5</ele></trkpt>
+   <trkpt lat="55.477504" lon="9.804621"><ele>16.75</ele></trkpt>
+   <trkpt lat="55.477314" lon="9.805601"><ele>17.25</ele></trkpt>
+   <trkpt lat="55.477169" lon="9.806263"><ele>17.5</ele></trkpt>
+   <trkpt lat="55.476947" lon="9.807163"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.476782" lon="9.807759"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.476513" lon="9.808656"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.476122" lon="9.809875"><ele>19.75</ele></trkpt>
+   <trkpt lat="55.475822" lon="9.810796"><ele>19.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

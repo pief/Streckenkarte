@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 391 filtered ascend = 0 plain-ascend = -2 cost=391 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Tommerup Weiche NNN2 - Tommerup (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/55.34952/10.18405/standard&amp;lonlats=10.178868,55.352199;10.182762,55.349545&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.352199" lon="10.178868"><ele>58.25</ele></trkpt>
+   <trkpt lat="55.352199" lon="10.178869"><ele>58.25</ele></trkpt>
+   <trkpt lat="55.351302" lon="10.180066"><ele>55.5</ele></trkpt>
+   <trkpt lat="55.351008" lon="10.180466"><ele>54.5</ele></trkpt>
+   <trkpt lat="55.350762" lon="10.180818"><ele>54.25</ele></trkpt>
+   <trkpt lat="55.350493" lon="10.181214"><ele>55.25</ele></trkpt>
+   <trkpt lat="55.350198" lon="10.181674"><ele>55.75</ele></trkpt>
+   <trkpt lat="55.349965" lon="10.182047"><ele>56</ele></trkpt>
+   <trkpt lat="55.349554" lon="10.182741"><ele>55.5</ele></trkpt>
+   <trkpt lat="55.349543" lon="10.182759"><ele>55.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

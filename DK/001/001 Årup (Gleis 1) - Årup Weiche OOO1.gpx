@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1035 filtered ascend = 0 plain-ascend = -2 cost=1035 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Årup (Gleis 1) - Årup Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=16/55.3826/10.0688/standard&amp;lonlats=10.051908,55.383019;10.068077,55.382862&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.383019" lon="10.051906"><ele>48</ele></trkpt>
+   <trkpt lat="55.38302" lon="10.051919"><ele>48</ele></trkpt>
+   <trkpt lat="55.383071" lon="10.054286"><ele>47.5</ele></trkpt>
+   <trkpt lat="55.383093" lon="10.055415"><ele>47</ele></trkpt>
+   <trkpt lat="55.383174" lon="10.059309"><ele>44.5</ele></trkpt>
+   <trkpt lat="55.383183" lon="10.060857"><ele>45</ele></trkpt>
+   <trkpt lat="55.383168" lon="10.062232"><ele>44</ele></trkpt>
+   <trkpt lat="55.383117" lon="10.063933"><ele>45.75</ele></trkpt>
+   <trkpt lat="55.383092" lon="10.064499"><ele>46.75</ele></trkpt>
+   <trkpt lat="55.383047" lon="10.065354"><ele>48</ele></trkpt>
+   <trkpt lat="55.382974" lon="10.066491"><ele>48</ele></trkpt>
+   <trkpt lat="55.38287" lon="10.067925"><ele>45.25</ele></trkpt>
+   <trkpt lat="55.38286" lon="10.068076"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
