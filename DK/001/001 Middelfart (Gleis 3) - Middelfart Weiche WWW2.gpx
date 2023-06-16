@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 525 filtered ascend = 3 plain-ascend = 4 cost=525 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Middelfart (Gleis 3) - Middelfart Weiche WWW2</name>
+  <link href="https://bikerouter.de/#map=18/55.50164/9.72742/standard&amp;lonlats=9.734428,55.501567;9.726226,55.50184&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.501567" lon="9.734428"><ele>9.5</ele></trkpt>
+   <trkpt lat="55.501568" lon="9.734428"><ele>9.75</ele></trkpt>
+   <trkpt lat="55.501661" lon="9.733407"><ele>9.75</ele></trkpt>
+   <trkpt lat="55.501706" lon="9.732816"><ele>10.5</ele></trkpt>
+   <trkpt lat="55.501739" lon="9.732251"><ele>11</ele></trkpt>
+   <trkpt lat="55.501757" lon="9.731833"><ele>11.5</ele></trkpt>
+   <trkpt lat="55.501774" lon="9.730982"><ele>11.75</ele></trkpt>
+   <trkpt lat="55.501827" lon="9.727021"><ele>12.25</ele></trkpt>
+   <trkpt lat="55.501827" lon="9.726981"><ele>12.5</ele></trkpt>
+   <trkpt lat="55.501832" lon="9.726589"><ele>12.75</ele></trkpt>
+   <trkpt lat="55.501838" lon="9.726227"><ele>13.25</ele></trkpt>
+   <trkpt lat="55.501838" lon="9.726225"><ele>13.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

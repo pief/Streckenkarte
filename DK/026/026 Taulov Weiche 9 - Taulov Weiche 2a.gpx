@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1261 filtered ascend = 0 plain-ascend = 0 cost=1261 energy=0.0kwh time=1m 41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>026 Taulov Weiche 9 - Taulov Weiche 2a</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/55.54570/9.62538/standard&amp;lonlats=9.642578,55.547979;9.623262,55.545226&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.547979" lon="9.642578"><ele>26.75</ele></trkpt>
+   <trkpt lat="55.547764" lon="9.640931"><ele>26.25</ele></trkpt>
+   <trkpt lat="55.547428" lon="9.638626"><ele>24.25</ele></trkpt>
+   <trkpt lat="55.545625" lon="9.626592"><ele>25.25</ele></trkpt>
+   <trkpt lat="55.545473" lon="9.625498"><ele>26</ele></trkpt>
+   <trkpt lat="55.545363" lon="9.624603"><ele>26.25</ele></trkpt>
+   <trkpt lat="55.545224" lon="9.623261"><ele>27</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
