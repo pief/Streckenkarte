@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 715 filtered ascend = 5 plain-ascend = 4 cost=715 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Ullerslev Weiche WWW3 - Ullerslev (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/55.35450/10.66422/standard&amp;lonlats=10.652039,55.355816;10.662988,55.354535&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.355816" lon="10.652039"><ele>6.75</ele></trkpt>
+   <trkpt lat="55.355816" lon="10.652043"><ele>7</ele></trkpt>
+   <trkpt lat="55.355756" lon="10.652549"><ele>7</ele></trkpt>
+   <trkpt lat="55.355677" lon="10.653087"><ele>7</ele></trkpt>
+   <trkpt lat="55.355619" lon="10.653545"><ele>7.25</ele></trkpt>
+   <trkpt lat="55.355433" lon="10.655365"><ele>9.25</ele></trkpt>
+   <trkpt lat="55.354998" lon="10.659195"><ele>11.75</ele></trkpt>
+   <trkpt lat="55.354896" lon="10.660045"><ele>10.75</ele></trkpt>
+   <trkpt lat="55.354685" lon="10.661638"><ele>10.75</ele></trkpt>
+   <trkpt lat="55.354616" lon="10.662197"><ele>11</ele></trkpt>
+   <trkpt lat="55.354547" lon="10.662835"><ele>11</ele></trkpt>
+   <trkpt lat="55.354535" lon="10.662988"><ele>10.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

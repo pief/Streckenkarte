@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 162 filtered ascend = 0 plain-ascend = 0 cost=162 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Ullerslev (Gleis 3) - Ullerslev Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/55.35443/10.66531/standard&amp;lonlats=10.662988,55.354535;10.665496,55.354396&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.354535" lon="10.662988"><ele>10.75</ele></trkpt>
+   <trkpt lat="55.354503" lon="10.663414"><ele>10.75</ele></trkpt>
+   <trkpt lat="55.354432" lon="10.664958"><ele>9.5</ele></trkpt>
+   <trkpt lat="55.354396" lon="10.665496"><ele>9.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

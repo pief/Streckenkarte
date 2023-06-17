@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 468 filtered ascend = 0 plain-ascend = -3 cost=468 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Nyborg Weiche WWW2 - Nyborg Weiche WWW3</name>
+  <link href="https://bikerouter.de/#map=18/55.31618/10.79978/standard&amp;lonlats=10.793715,55.319015;10.79929,55.316355&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.319015" lon="10.793715"><ele>6.5</ele></trkpt>
+   <trkpt lat="55.318751" lon="10.794426"><ele>6</ele></trkpt>
+   <trkpt lat="55.318606" lon="10.794806"><ele>5.5</ele></trkpt>
+   <trkpt lat="55.318186" lon="10.795828"><ele>4.5</ele></trkpt>
+   <trkpt lat="55.317913" lon="10.796434"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.317636" lon="10.797012"><ele>3.5</ele></trkpt>
+   <trkpt lat="55.317484" lon="10.797314"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.317198" lon="10.79785"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.316973" lon="10.798258"><ele>3.5</ele></trkpt>
+   <trkpt lat="55.316354" lon="10.799289"><ele>2.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

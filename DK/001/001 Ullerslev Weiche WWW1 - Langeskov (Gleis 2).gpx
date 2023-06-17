@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4098 filtered ascend = 15 plain-ascend = 12 cost=4098 energy=0.1kwh time=5m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Ullerslev Weiche WWW1 - Langeskov (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/55.35562/10.65287/standard&amp;lonlats=10.65014,55.356044;10.58662,55.36177&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.356046" lon="10.65014"><ele>6.25</ele></trkpt>
+   <trkpt lat="55.357797" lon="10.632581"><ele>16.25</ele></trkpt>
+   <trkpt lat="55.358113" lon="10.629368"><ele>18.25</ele></trkpt>
+   <trkpt lat="55.358235" lon="10.627868"><ele>18.25</ele></trkpt>
+   <trkpt lat="55.358286" lon="10.627122"><ele>17.5</ele></trkpt>
+   <trkpt lat="55.358398" lon="10.62519"><ele>16</ele></trkpt>
+   <trkpt lat="55.359808" lon="10.600405"><ele>18.5</ele></trkpt>
+   <trkpt lat="55.359919" lon="10.598664"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.359953" lon="10.598232"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.360032" lon="10.597375"><ele>21</ele></trkpt>
+   <trkpt lat="55.360124" lon="10.59652"><ele>21.5</ele></trkpt>
+   <trkpt lat="55.360225" lon="10.59567"><ele>21.25</ele></trkpt>
+   <trkpt lat="55.360336" lon="10.594823"><ele>21.25</ele></trkpt>
+   <trkpt lat="55.360508" lon="10.593608"><ele>21.25</ele></trkpt>
+   <trkpt lat="55.360654" lon="10.592699"><ele>20.25</ele></trkpt>
+   <trkpt lat="55.360804" lon="10.591847"><ele>20</ele></trkpt>
+   <trkpt lat="55.361351" lon="10.58893"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.36177" lon="10.58662"><ele>18.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

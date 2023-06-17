@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3816 filtered ascend = 0 plain-ascend = -5 cost=3816 energy=0.0kwh time=5m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Langeskov (Gleis 2) - Marslev Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/55.36180/10.58593/standard&amp;lonlats=10.586619,55.361768;10.532394,55.376274&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.36177" lon="10.58662"><ele>18.5</ele></trkpt>
+   <trkpt lat="55.361784" lon="10.586547"><ele>18.5</ele></trkpt>
+   <trkpt lat="55.363662" lon="10.576121"><ele>15</ele></trkpt>
+   <trkpt lat="55.363817" lon="10.575309"><ele>14.75</ele></trkpt>
+   <trkpt lat="55.364065" lon="10.574092"><ele>15</ele></trkpt>
+   <trkpt lat="55.364151" lon="10.573692"><ele>15</ele></trkpt>
+   <trkpt lat="55.36443" lon="10.572471"><ele>16.5</ele></trkpt>
+   <trkpt lat="55.364724" lon="10.571269"><ele>16.75</ele></trkpt>
+   <trkpt lat="55.364821" lon="10.570896"><ele>16</ele></trkpt>
+   <trkpt lat="55.365018" lon="10.570153"><ele>15</ele></trkpt>
+   <trkpt lat="55.36532" lon="10.569077"><ele>13.5</ele></trkpt>
+   <trkpt lat="55.368437" lon="10.558633"><ele>13</ele></trkpt>
+   <trkpt lat="55.375984" lon="10.533372"><ele>12.75</ele></trkpt>
+   <trkpt lat="55.376275" lon="10.532395"><ele>13</ele></trkpt>
+   <trkpt lat="55.376275" lon="10.532394"><ele>13</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

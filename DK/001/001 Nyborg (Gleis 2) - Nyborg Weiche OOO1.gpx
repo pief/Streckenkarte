@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 640 filtered ascend = 0 plain-ascend = 1 cost=640 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Nyborg (Gleis 2) - Nyborg Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/55.30965/10.81027/standard&amp;lonlats=10.803377,55.313795;10.81012,55.30955&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.313792" lon="10.803373"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.313218" lon="10.804287"><ele>0.5</ele></trkpt>
+   <trkpt lat="55.3124" lon="10.805589"><ele>0</ele></trkpt>
+   <trkpt lat="55.309551" lon="10.810124"><ele>1</ele></trkpt>
+   <trkpt lat="55.309551" lon="10.810123"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
