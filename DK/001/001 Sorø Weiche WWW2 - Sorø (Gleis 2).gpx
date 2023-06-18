@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 802 filtered ascend = 0 plain-ascend = -8 cost=802 energy=0.0kwh time=1m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Sorø Weiche WWW2 - Sorø (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/55.41893/11.56961/standard&amp;lonlats=11.556877,55.417909;11.569241,55.419093&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.417908" lon="11.556876"><ele>51.25</ele></trkpt>
+   <trkpt lat="55.417909" lon="11.556879"><ele>51.25</ele></trkpt>
+   <trkpt lat="55.417933" lon="11.557863"><ele>49.75</ele></trkpt>
+   <trkpt lat="55.417958" lon="11.558537"><ele>48</ele></trkpt>
+   <trkpt lat="55.418001" lon="11.559354"><ele>45</ele></trkpt>
+   <trkpt lat="55.418052" lon="11.560159"><ele>42.25</ele></trkpt>
+   <trkpt lat="55.418113" lon="11.560943"><ele>41</ele></trkpt>
+   <trkpt lat="55.418248" lon="11.562519"><ele>39</ele></trkpt>
+   <trkpt lat="55.418324" lon="11.563308"><ele>39</ele></trkpt>
+   <trkpt lat="55.41843" lon="11.564305"><ele>39.5</ele></trkpt>
+   <trkpt lat="55.418495" lon="11.564877"><ele>39.75</ele></trkpt>
+   <trkpt lat="55.418614" lon="11.565838"><ele>40.25</ele></trkpt>
+   <trkpt lat="55.418722" lon="11.566648"><ele>41</ele></trkpt>
+   <trkpt lat="55.419095" lon="11.569238"><ele>42</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

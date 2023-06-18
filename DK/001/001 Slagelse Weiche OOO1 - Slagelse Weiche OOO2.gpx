@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 582 filtered ascend = 9 plain-ascend = 9 cost=582 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.16">
+ <trk>
+  <name>001 Slagelse Weiche OOO1 - Slagelse Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=18/55.41076/11.36143/standard&amp;lonlats=11.352428,55.407937;11.360191,55.410501&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.407937" lon="11.352426"><ele>33.5</ele></trkpt>
+   <trkpt lat="55.407938" lon="11.35243"><ele>33.75</ele></trkpt>
+   <trkpt lat="55.408149" lon="11.353627"><ele>36</ele></trkpt>
+   <trkpt lat="55.408306" lon="11.354385"><ele>36.25</ele></trkpt>
+   <trkpt lat="55.408445" lon="11.354976"><ele>37</ele></trkpt>
+   <trkpt lat="55.408533" lon="11.355319"><ele>37.5</ele></trkpt>
+   <trkpt lat="55.408736" lon="11.356036"><ele>38.25</ele></trkpt>
+   <trkpt lat="55.408846" lon="11.356391"><ele>38.5</ele></trkpt>
+   <trkpt lat="55.409044" lon="11.356975"><ele>38.5</ele></trkpt>
+   <trkpt lat="55.409187" lon="11.357362"><ele>38.75</ele></trkpt>
+   <trkpt lat="55.409342" lon="11.357765"><ele>39.5</ele></trkpt>
+   <trkpt lat="55.40957" lon="11.358307"><ele>40.25</ele></trkpt>
+   <trkpt lat="55.409849" lon="11.358917"><ele>41.5</ele></trkpt>
+   <trkpt lat="55.410115" lon="11.35945"><ele>42.25</ele></trkpt>
+   <trkpt lat="55.4105" lon="11.36019"><ele>42.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
