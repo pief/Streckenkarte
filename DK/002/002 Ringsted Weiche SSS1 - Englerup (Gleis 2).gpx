@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2078 filtered ascend = 2 plain-ascend = -4 cost=2078 energy=0.0kwh time=2m 46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>002 Ringsted Weiche SSS1 - Englerup (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/55.41070/11.74786/standard&amp;lonlats=11.759864,55.428073;11.748228,55.410713&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.428071" lon="11.759866"><ele>25.75</ele></trkpt>
+   <trkpt lat="55.427499" lon="11.759548"><ele>26.5</ele></trkpt>
+   <trkpt lat="55.420969" lon="11.755933"><ele>28.5</ele></trkpt>
+   <trkpt lat="55.420243" lon="11.755524"><ele>26</ele></trkpt>
+   <trkpt lat="55.41952" lon="11.755085"><ele>25</ele></trkpt>
+   <trkpt lat="55.419031" lon="11.754754"><ele>24</ele></trkpt>
+   <trkpt lat="55.418539" lon="11.754392"><ele>22</ele></trkpt>
+   <trkpt lat="55.418054" lon="11.754019"><ele>20</ele></trkpt>
+   <trkpt lat="55.412868" lon="11.749879"><ele>18.25</ele></trkpt>
+   <trkpt lat="55.411604" lon="11.748885"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.411412" lon="11.748739"><ele>20</ele></trkpt>
+   <trkpt lat="55.41071" lon="11.748236"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

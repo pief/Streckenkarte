@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 530 filtered ascend = 0 plain-ascend = -8 cost=531 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>002 Ringsted (Gleis 3) - Ringsted Weiche WWW3</name>
+  <link href="https://bikerouter.de/#map=19/55.43767/11.77849/standard&amp;lonlats=11.786104,55.438013;11.777821,55.437564&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.438012" lon="11.786104"><ele>36</ele></trkpt>
+   <trkpt lat="55.437899" lon="11.783678"><ele>35</ele></trkpt>
+   <trkpt lat="55.437821" lon="11.782125"><ele>33</ele></trkpt>
+   <trkpt lat="55.437759" lon="11.781147"><ele>31.25</ele></trkpt>
+   <trkpt lat="55.437654" lon="11.779594"><ele>28.75</ele></trkpt>
+   <trkpt lat="55.437589" lon="11.77842"><ele>26.75</ele></trkpt>
+   <trkpt lat="55.437561" lon="11.777825"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.437561" lon="11.77782"><ele>27.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

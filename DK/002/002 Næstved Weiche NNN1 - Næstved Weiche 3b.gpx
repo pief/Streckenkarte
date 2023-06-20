@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=52 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>002 Næstved Weiche NNN1 - Næstved Weiche 3b</name>
+  <link href="https://bikerouter.de/#map=19/55.23631/11.76360/standard&amp;lonlats=11.76312,55.236033;11.762836,55.236453">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.236033" lon="11.76312"><ele>12</ele></trkpt>
+   <trkpt lat="55.236453" lon="11.762838"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

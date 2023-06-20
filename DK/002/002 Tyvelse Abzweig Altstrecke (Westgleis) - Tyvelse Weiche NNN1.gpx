@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 286 filtered ascend = 6 plain-ascend = 6 cost=286 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>002 Tyvelse Abzweig Altstrecke (Westgleis) - Tyvelse Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=17/55.38348/11.72600/standard&amp;lonlats=11.726787,55.385417;11.723622,55.383613&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.385417" lon="11.726787"><ele>21.75</ele></trkpt>
+   <trkpt lat="55.38485" lon="11.725812"><ele>23.25</ele></trkpt>
+   <trkpt lat="55.383615" lon="11.723623"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.383613" lon="11.723619"><ele>27.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
