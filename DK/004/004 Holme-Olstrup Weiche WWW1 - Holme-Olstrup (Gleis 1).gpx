@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226 filtered ascend = 1 plain-ascend = 0 cost=226 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>004 Holme-Olstrup Weiche WWW1 - Holme-Olstrup (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/55.26103/11.84889/standard&amp;lonlats=11.845965,55.260078;11.848968,55.261127&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.260076" lon="11.845965"><ele>37</ele></trkpt>
+   <trkpt lat="55.260077" lon="11.845967"><ele>37</ele></trkpt>
+   <trkpt lat="55.260466" lon="11.847114"><ele>38</ele></trkpt>
+   <trkpt lat="55.260915" lon="11.848337"><ele>37.5</ele></trkpt>
+   <trkpt lat="55.261083" lon="11.84883"><ele>37</ele></trkpt>
+   <trkpt lat="55.261126" lon="11.848967"><ele>36.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

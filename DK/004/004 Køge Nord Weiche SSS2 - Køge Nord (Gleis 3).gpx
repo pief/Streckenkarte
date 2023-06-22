@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1014 filtered ascend = 1 plain-ascend = -2 cost=1014 energy=0.0kwh time=1m 21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>004 Køge Nord Weiche SSS2 - Køge Nord (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/55.49968/12.17276/standard&amp;lonlats=12.170577,55.490731;12.172906,55.499525&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.49073" lon="12.170575"><ele>7</ele></trkpt>
+   <trkpt lat="55.490732" lon="12.170575"><ele>7.25</ele></trkpt>
+   <trkpt lat="55.491491" lon="12.17026"><ele>8.25</ele></trkpt>
+   <trkpt lat="55.491875" lon="12.17011"><ele>8.25</ele></trkpt>
+   <trkpt lat="55.49233" lon="12.170002"><ele>8</ele></trkpt>
+   <trkpt lat="55.492605" lon="12.169979"><ele>7.5</ele></trkpt>
+   <trkpt lat="55.492942" lon="12.169986"><ele>6.75</ele></trkpt>
+   <trkpt lat="55.493097" lon="12.170006"><ele>6.5</ele></trkpt>
+   <trkpt lat="55.493317" lon="12.170052"><ele>6</ele></trkpt>
+   <trkpt lat="55.493537" lon="12.170119"><ele>5.5</ele></trkpt>
+   <trkpt lat="55.493685" lon="12.170176"><ele>5</ele></trkpt>
+   <trkpt lat="55.494134" lon="12.170397"><ele>4</ele></trkpt>
+   <trkpt lat="55.494589" lon="12.170647"><ele>3.25</ele></trkpt>
+   <trkpt lat="55.495046" lon="12.170882"><ele>3</ele></trkpt>
+   <trkpt lat="55.498112" lon="12.172285"><ele>5</ele></trkpt>
+   <trkpt lat="55.499523" lon="12.172913"><ele>4.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 2 plain-ascend = 3 cost=112 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>006 København H Weiche SSS2 - København H Weiche SSS3</name>
+  <link href="https://bikerouter.de/#map=19/55.67026/12.56764/standard&amp;lonlats=12.567233,55.669462;12.56734,55.670081;12.567348,55.670444&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.669461" lon="12.567239"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.669952" lon="12.56733"><ele>5.25</ele></trkpt>
+   <trkpt lat="55.670077" lon="12.567341"><ele>5.5</ele></trkpt>
+   <trkpt lat="55.670441" lon="12.567348"><ele>6.5</ele></trkpt>
+   <trkpt lat="55.670443" lon="12.567347"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

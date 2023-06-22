@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 266 filtered ascend = 3 plain-ascend = 3 cost=266 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>006 København H (Gleis 1) - København H Weiche SSS3</name>
+  <link href="https://bikerouter.de/#map=18/55.67109/12.56675/standard&amp;lonlats=12.565865,55.672611;12.567348,55.670444&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.672609" lon="12.565861"/>
+   <trkpt lat="55.672095" lon="12.566403"/>
+   <trkpt lat="55.671839" lon="12.566661"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.671714" lon="12.566779"><ele>3.25</ele></trkpt>
+   <trkpt lat="55.671429" lon="12.566988"><ele>4.25</ele></trkpt>
+   <trkpt lat="55.671107" lon="12.56717"><ele>4.25</ele></trkpt>
+   <trkpt lat="55.670878" lon="12.567264"><ele>7</ele></trkpt>
+   <trkpt lat="55.670638" lon="12.567329"><ele>6.75</ele></trkpt>
+   <trkpt lat="55.670443" lon="12.567347"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

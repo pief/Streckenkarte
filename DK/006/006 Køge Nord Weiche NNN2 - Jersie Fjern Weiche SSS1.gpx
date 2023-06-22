@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 602 filtered ascend = 0 plain-ascend = -1 cost=602 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>006 Køge Nord Weiche NNN2 - Køge Nord Weiche NNN3</name>
+  <link href="https://bikerouter.de/#map=18/55.51553/12.18220/standard&amp;lonlats=12.178078,55.510127;12.181534,55.515137&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.510126" lon="12.178078"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.510324" lon="12.17821"><ele>1.5</ele></trkpt>
+   <trkpt lat="55.510476" lon="12.178312"><ele>1.25</ele></trkpt>
+   <trkpt lat="55.512217" lon="12.179476"><ele>1.25</ele></trkpt>
+   <trkpt lat="55.512288" lon="12.179524"><ele>1.25</ele></trkpt>
+   <trkpt lat="55.513157" lon="12.180127"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.515137" lon="12.181529"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

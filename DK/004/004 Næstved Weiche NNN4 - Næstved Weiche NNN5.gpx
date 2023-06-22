@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 287 filtered ascend = 0 plain-ascend = -1 cost=287 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>004 Næstved Weiche NNN4 - Næstved Weiche NNN5</name>
+  <link href="https://bikerouter.de/#map=19/55.23667/11.76281/standard&amp;lonlats=11.764437,55.234575;11.762648,55.236902&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.234575" lon="11.764437"><ele>13.75</ele></trkpt>
+   <trkpt lat="55.234574" lon="11.764439"><ele>13.75</ele></trkpt>
+   <trkpt lat="55.234877" lon="11.764133"><ele>13.75</ele></trkpt>
+   <trkpt lat="55.235101" lon="11.763927"><ele>13.5</ele></trkpt>
+   <trkpt lat="55.235266" lon="11.763785"><ele>13</ele></trkpt>
+   <trkpt lat="55.235754" lon="11.763395"><ele>12</ele></trkpt>
+   <trkpt lat="55.236236" lon="11.763064"><ele>12</ele></trkpt>
+   <trkpt lat="55.236901" lon="11.762647"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

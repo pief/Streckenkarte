@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 370 filtered ascend = 0 plain-ascend = -4 cost=370 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>004 Tureby (Gleis 1) - Tureby Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/55.37555/12.07996/standard&amp;lonlats=12.076051,55.373382;12.0802,55.37566&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.373382" lon="12.076048"><ele>34.25</ele></trkpt>
+   <trkpt lat="55.373388" lon="12.07606"><ele>34.25</ele></trkpt>
+   <trkpt lat="55.37343" lon="12.076145"><ele>34</ele></trkpt>
+   <trkpt lat="55.374961" lon="12.078991"><ele>31</ele></trkpt>
+   <trkpt lat="55.375533" lon="12.079966"><ele>30</ele></trkpt>
+   <trkpt lat="55.37566" lon="12.080202"><ele>29.75</ele></trkpt>
+   <trkpt lat="55.375658" lon="12.0802"><ele>29.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

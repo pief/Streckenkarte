@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 417 filtered ascend = 1 plain-ascend = 1 cost=417 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>004 Næstved (Gleis 3) - Næstved Weiche NNN4</name>
+  <link href="https://bikerouter.de/#map=19/55.23431/11.76555/standard&amp;lonlats=11.767801,55.231392;11.764437,55.234575&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.231392" lon="11.767803"><ele>12.5</ele></trkpt>
+   <trkpt lat="55.231547" lon="11.767659"><ele>12.75</ele></trkpt>
+   <trkpt lat="55.232078" lon="11.767142"><ele>12.5</ele></trkpt>
+   <trkpt lat="55.23254" lon="11.766668"><ele>12</ele></trkpt>
+   <trkpt lat="55.233756" lon="11.765333"><ele>13</ele></trkpt>
+   <trkpt lat="55.2344" lon="11.764626"><ele>13.5</ele></trkpt>
+   <trkpt lat="55.234574" lon="11.764439"><ele>13.75</ele></trkpt>
+   <trkpt lat="55.234575" lon="11.764437"><ele>13.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
