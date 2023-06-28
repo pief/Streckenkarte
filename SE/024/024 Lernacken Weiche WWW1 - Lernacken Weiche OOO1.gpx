@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 0 plain-ascend = -1 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Lernacken Weiche WWW1 - Lernacken Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/55.56566/12.90692/standard&amp;lonlats=12.904271,55.565543;12.906218,55.565632;12.907474,55.565695&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.565539" lon="12.90427"><ele>14</ele></trkpt>
+   <trkpt lat="55.56554" lon="12.904276"><ele>14</ele></trkpt>
+   <trkpt lat="55.565618" lon="12.905876"><ele>12.75</ele></trkpt>
+   <trkpt lat="55.565634" lon="12.906216"><ele>12.25</ele></trkpt>
+   <trkpt lat="55.565694" lon="12.90747"><ele>11.5</ele></trkpt>
+   <trkpt lat="55.565694" lon="12.907473"><ele>11.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

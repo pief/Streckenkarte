@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 569 filtered ascend = 6 plain-ascend = 7 cost=569 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Hyllie Weiche WWW1 - Hyllie Weiche WWW2</name>
+  <link href="https://bikerouter.de/#map=18/55.56161/12.97523/standard&amp;lonlats=12.966211,55.55963;12.972547,55.561374;12.974135,55.561918&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.559627" lon="12.966211"><ele>13</ele></trkpt>
+   <trkpt lat="55.55963" lon="12.966222"><ele>13</ele></trkpt>
+   <trkpt lat="55.55982" lon="12.967054"><ele>13</ele></trkpt>
+   <trkpt lat="55.560042" lon="12.967964"><ele>13.5</ele></trkpt>
+   <trkpt lat="55.560088" lon="12.968143"><ele>13.5</ele></trkpt>
+   <trkpt lat="55.560142" lon="12.968354"><ele>13.75</ele></trkpt>
+   <trkpt lat="55.560329" lon="12.969059"><ele>14.25</ele></trkpt>
+   <trkpt lat="55.560621" lon="12.970115"><ele>16</ele></trkpt>
+   <trkpt lat="55.56082" lon="12.970788"><ele>16.75</ele></trkpt>
+   <trkpt lat="55.561071" lon="12.971613"><ele>18.25</ele></trkpt>
+   <trkpt lat="55.561371" lon="12.972548"><ele>17.75</ele></trkpt>
+   <trkpt lat="55.56146" lon="12.972826"><ele>17.75</ele></trkpt>
+   <trkpt lat="55.561916" lon="12.974134"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.561916" lon="12.974135"><ele>19.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
