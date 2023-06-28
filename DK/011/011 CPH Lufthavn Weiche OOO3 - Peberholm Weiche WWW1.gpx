@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5159 filtered ascend = 2 plain-ascend = 2 cost=5159 energy=0.1kwh time=6m 53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>011 CPH Lufthavn Weiche OOO3 - Peberholm Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=18/55.60114/12.74837/standard&amp;lonlats=12.680583,55.629609;12.745988,55.601881&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.629609" lon="12.680583"/>
+   <trkpt lat="55.629609" lon="12.680585"/>
+   <trkpt lat="55.629389" lon="12.681156"/>
+   <trkpt lat="55.629197" lon="12.681621"/>
+   <trkpt lat="55.627368" lon="12.686101"/>
+   <trkpt lat="55.62649" lon="12.688246"/>
+   <trkpt lat="55.623862" lon="12.694684"/>
+   <trkpt lat="55.61838" lon="12.708107"/>
+   <trkpt lat="55.616984" lon="12.711535"/>
+   <trkpt lat="55.616156" lon="12.713559"/>
+   <trkpt lat="55.612895" lon="12.721533"/>
+   <trkpt lat="55.609737" lon="12.729299"><ele>0</ele></trkpt>
+   <trkpt lat="55.608684" lon="12.731852"><ele>-0.25</ele></trkpt>
+   <trkpt lat="55.608274" lon="12.732815"><ele>0</ele></trkpt>
+   <trkpt lat="55.60754" lon="12.734494"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.607368" lon="12.734882"><ele>0.5</ele></trkpt>
+   <trkpt lat="55.606739" lon="12.736266"><ele>1.5</ele></trkpt>
+   <trkpt lat="55.60601" lon="12.737818"><ele>2.25</ele></trkpt>
+   <trkpt lat="55.605421" lon="12.739038"><ele>2.25</ele></trkpt>
+   <trkpt lat="55.604405" lon="12.741066"><ele>2.75</ele></trkpt>
+   <trkpt lat="55.601882" lon="12.74599"><ele>1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

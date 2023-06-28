@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = 0 cost=74 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>011 København H Weiche SSS8 - København H Weiche SSS9</name>
+  <link href="https://bikerouter.de/#map=19/55.66704/12.56511/standard&amp;lonlats=12.565253,55.667387;12.564475,55.666915&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.667385" lon="12.565255"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.667382" lon="12.565252"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.667287" lon="12.565112"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.66717" lon="12.56492"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.666915" lon="12.56448"><ele>0.25</ele></trkpt>
+   <trkpt lat="55.666913" lon="12.564476"><ele>0.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

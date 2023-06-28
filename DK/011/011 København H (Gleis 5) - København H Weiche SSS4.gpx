@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 257 filtered ascend = 1 plain-ascend = 0 cost=257 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>011 København H (Gleis 5) - København H Weiche SSS4</name>
+  <link href="https://bikerouter.de/#map=18/55.67000/12.56818/standard&amp;lonlats=12.565323,55.67244;12.566707,55.67035&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.672438" lon="12.565319"/>
+   <trkpt lat="55.672435" lon="12.565323"/>
+   <trkpt lat="55.671921" lon="12.565877"/>
+   <trkpt lat="55.671655" lon="12.566137"><ele>3.5</ele></trkpt>
+   <trkpt lat="55.671527" lon="12.56625"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.671375" lon="12.566363"><ele>4</ele></trkpt>
+   <trkpt lat="55.671098" lon="12.566529"><ele>4.5</ele></trkpt>
+   <trkpt lat="55.670954" lon="12.566604"><ele>4.75</ele></trkpt>
+   <trkpt lat="55.670813" lon="12.566652"><ele>4.75</ele></trkpt>
+   <trkpt lat="55.670664" lon="12.566689"><ele>4.5</ele></trkpt>
+   <trkpt lat="55.670588" lon="12.566701"><ele>4.5</ele></trkpt>
+   <trkpt lat="55.670349" lon="12.566706"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 471 filtered ascend = 0 plain-ascend = 1 cost=471 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>011 Peberholm Weiche WWW1 - Peberholm Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/55.59919/12.75169/standard&amp;lonlats=12.745988,55.601881;12.75149,55.599069&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.601882" lon="12.74599"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.601881" lon="12.745994"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.60133" lon="12.747073"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.600722" lon="12.748262"><ele>2.5</ele></trkpt>
+   <trkpt lat="55.599721" lon="12.750217"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.599069" lon="12.751487"><ele>2.5</ele></trkpt>
+   <trkpt lat="55.599068" lon="12.751488"><ele>2.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

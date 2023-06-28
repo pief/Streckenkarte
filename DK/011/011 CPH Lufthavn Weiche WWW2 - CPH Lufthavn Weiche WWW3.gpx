@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>011 CPH Lufthavn Weiche WWW2 - CPH Lufthavn Weiche WWW3</name>
+  <link href="https://bikerouter.de/#map=19/55.62987/12.64385/standard&amp;lonlats=12.641908,55.630179;12.643214,55.630024;12.643652,55.629971&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.630178" lon="12.641907"/>
+   <trkpt lat="55.630178" lon="12.641909"/>
+   <trkpt lat="55.63013" lon="12.642293"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.630079" lon="12.642736"><ele>3.5</ele></trkpt>
+   <trkpt lat="55.630021" lon="12.643213"><ele>3.5</ele></trkpt>
+   <trkpt lat="55.62997" lon="12.643647"/>
+   <trkpt lat="55.629969" lon="12.643651"/>
+  </trkseg>
+ </trk>
+</gpx>
