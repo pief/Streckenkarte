@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 203 filtered ascend = 0 plain-ascend = 0 cost=203 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Östervärn (Gleis 1) - Östervärn Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/55.60765/13.03217/standard&amp;lonlats=13.031575,55.607898;13.029458,55.609219&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.607898" lon="13.031576"><ele>6.5</ele></trkpt>
+   <trkpt lat="55.6079" lon="13.031574"><ele>6.75</ele></trkpt>
+   <trkpt lat="55.60842" lon="13.030753"><ele>6</ele></trkpt>
+   <trkpt lat="55.608732" lon="13.030274"><ele>6</ele></trkpt>
+   <trkpt lat="55.608842" lon="13.030103"><ele>6.75</ele></trkpt>
+   <trkpt lat="55.609" lon="13.029854"><ele>7</ele></trkpt>
+   <trkpt lat="55.609217" lon="13.029467"><ele>6.5</ele></trkpt>
+   <trkpt lat="55.60922" lon="13.029459"><ele>6.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

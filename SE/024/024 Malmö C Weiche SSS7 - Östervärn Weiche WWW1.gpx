@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 752 filtered ascend = 2 plain-ascend = 3 cost=752 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Malmö C Weiche SSS7 - Östervärn Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/55.60872/13.02996/standard&amp;lonlats=13.017954,55.609606;13.029458,55.609219&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.609606" lon="13.017954"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.609606" lon="13.017956"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.609593" lon="13.018524"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.609563" lon="13.019817"><ele>2</ele></trkpt>
+   <trkpt lat="55.609554" lon="13.02068"><ele>2</ele></trkpt>
+   <trkpt lat="55.609562" lon="13.021594"><ele>1.5</ele></trkpt>
+   <trkpt lat="55.609582" lon="13.022064"><ele>1.5</ele></trkpt>
+   <trkpt lat="55.609803" lon="13.025068"><ele>1</ele></trkpt>
+   <trkpt lat="55.609828" lon="13.02541"><ele>1</ele></trkpt>
+   <trkpt lat="55.609863" lon="13.025913"><ele>1</ele></trkpt>
+   <trkpt lat="55.609872" lon="13.026149"><ele>1</ele></trkpt>
+   <trkpt lat="55.609864" lon="13.026686"><ele>1.25</ele></trkpt>
+   <trkpt lat="55.609836" lon="13.027079"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.609799" lon="13.027414"><ele>2</ele></trkpt>
+   <trkpt lat="55.609745" lon="13.027768"><ele>2.75</ele></trkpt>
+   <trkpt lat="55.609689" lon="13.028055"><ele>3.25</ele></trkpt>
+   <trkpt lat="55.609625" lon="13.028315"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.609519" lon="13.028665"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.6094" lon="13.029011"><ele>5.25</ele></trkpt>
+   <trkpt lat="55.609388" lon="13.029044"><ele>5.25</ele></trkpt>
+   <trkpt lat="55.60922" lon="13.029459"><ele>6.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

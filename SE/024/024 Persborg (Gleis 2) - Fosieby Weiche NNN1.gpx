@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1819 filtered ascend = 12 plain-ascend = 10 cost=1819 energy=0.0kwh time=2m 26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Persborg (Gleis 2) - Fosieby Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/55.56427/13.03242/standard&amp;lonlats=13.029297,55.580608;13.03093,55.564375&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.580608" lon="13.029297"/>
+   <trkpt lat="55.58027" lon="13.029319"/>
+   <trkpt lat="55.579916" lon="13.029356"><ele>16</ele></trkpt>
+   <trkpt lat="55.575928" lon="13.02966"><ele>17.5</ele></trkpt>
+   <trkpt lat="55.575631" lon="13.029683"><ele>17.75</ele></trkpt>
+   <trkpt lat="55.575081" lon="13.029725"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.575023" lon="13.02973"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.572138" lon="13.02995"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.568512" lon="13.030228"><ele>24.75</ele></trkpt>
+   <trkpt lat="55.567475" lon="13.030325"><ele>26</ele></trkpt>
+   <trkpt lat="55.566993" lon="13.03039"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.566493" lon="13.030467"><ele>28.75</ele></trkpt>
+   <trkpt lat="55.566074" lon="13.030547"><ele>28.25</ele></trkpt>
+   <trkpt lat="55.565607" lon="13.030649"><ele>27</ele></trkpt>
+   <trkpt lat="55.565085" lon="13.03076"><ele>27</ele></trkpt>
+   <trkpt lat="55.564435" lon="13.030918"><ele>25.75</ele></trkpt>
+   <trkpt lat="55.564375" lon="13.030932"><ele>25.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

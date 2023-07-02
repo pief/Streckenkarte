@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 779 filtered ascend = 1 plain-ascend = 1 cost=780 energy=0.0kwh time=1m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Rosengård Weiche NNN3 - Rosengård (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/55.58888/13.03184/standard&amp;lonlats=13.034093,55.595598;13.030762,55.58889&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.595598" lon="13.034093"><ele>9</ele></trkpt>
+   <trkpt lat="55.593698" lon="13.033145"><ele>9.25</ele></trkpt>
+   <trkpt lat="55.592662" lon="13.032629"><ele>10</ele></trkpt>
+   <trkpt lat="55.590169" lon="13.031387"><ele>9</ele></trkpt>
+   <trkpt lat="55.590011" lon="13.031304"><ele>9</ele></trkpt>
+   <trkpt lat="55.589908" lon="13.031249"><ele>9</ele></trkpt>
+   <trkpt lat="55.58969" lon="13.031146"><ele>9.5</ele></trkpt>
+   <trkpt lat="55.588902" lon="13.030768"><ele>10.25</ele></trkpt>
+   <trkpt lat="55.588888" lon="13.030762"><ele>10.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

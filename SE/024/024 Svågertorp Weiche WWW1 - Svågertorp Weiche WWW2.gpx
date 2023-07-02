@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 83 filtered ascend = 0 plain-ascend = 0 cost=83 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Svågertorp Weiche WWW1 - Svågertorp Weiche WWW2</name>
+  <link href="https://bikerouter.de/#map=19/55.54688/12.98436/standard&amp;lonlats=12.985142,55.547093;12.983839,55.547061&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.547092" lon="12.985141"><ele>21.25</ele></trkpt>
+   <trkpt lat="55.547061" lon="12.98385"><ele>21</ele></trkpt>
+   <trkpt lat="55.54706" lon="12.983838"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

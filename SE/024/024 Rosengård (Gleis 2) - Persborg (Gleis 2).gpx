@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 939 filtered ascend = 7 plain-ascend = 7 cost=939 energy=0.0kwh time=1m 15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Rosengård (Gleis 2) - Persborg (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/55.58041/13.03057/standard&amp;lonlats=13.030762,55.58889;13.029303,55.580609&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.588888" lon="13.030762"><ele>10.25</ele></trkpt>
+   <trkpt lat="55.588014" lon="13.030372"><ele>10.5</ele></trkpt>
+   <trkpt lat="55.58785" lon="13.030306"><ele>10.25</ele></trkpt>
+   <trkpt lat="55.587159" lon="13.030048"><ele>10</ele></trkpt>
+   <trkpt lat="55.586652" lon="13.029884"><ele>10</ele></trkpt>
+   <trkpt lat="55.586151" lon="13.029737"><ele>11.25</ele></trkpt>
+   <trkpt lat="55.585644" lon="13.029608"><ele>11.75</ele></trkpt>
+   <trkpt lat="55.585164" lon="13.029501"><ele>11</ele></trkpt>
+   <trkpt lat="55.584538" lon="13.029389"><ele>11.5</ele></trkpt>
+   <trkpt lat="55.584267" lon="13.029346"><ele>11.75</ele></trkpt>
+   <trkpt lat="55.584144" lon="13.029331"><ele>12</ele></trkpt>
+   <trkpt lat="55.583344" lon="13.029246"><ele>13</ele></trkpt>
+   <trkpt lat="55.583089" lon="13.029229"><ele>13.25</ele></trkpt>
+   <trkpt lat="55.582098" lon="13.029221"><ele>15.75</ele></trkpt>
+   <trkpt lat="55.58112" lon="13.029264"><ele>17.25</ele></trkpt>
+   <trkpt lat="55.580622" lon="13.029297"><ele>17</ele></trkpt>
+   <trkpt lat="55.580608" lon="13.029297"><ele>17</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
