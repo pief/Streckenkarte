@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 274 filtered ascend = 0 plain-ascend = 1 cost=274 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Hyllie Weiche NNN5 - Hyllie Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=17/55.56663/12.98497/standard&amp;lonlats=12.981811,55.565622;12.984377,55.56757&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.565621" lon="12.98181"><ele>17</ele></trkpt>
+   <trkpt lat="55.565624" lon="12.981814"><ele>17</ele></trkpt>
+   <trkpt lat="55.566006" lon="12.982382"><ele>17</ele></trkpt>
+   <trkpt lat="55.566455" lon="12.98301"><ele>17.25</ele></trkpt>
+   <trkpt lat="55.56673" lon="12.98337"><ele>17.75</ele></trkpt>
+   <trkpt lat="55.567357" lon="12.98413"><ele>17.75</ele></trkpt>
+   <trkpt lat="55.567565" lon="12.984372"><ele>17.75</ele></trkpt>
+   <trkpt lat="55.567569" lon="12.984376"><ele>17.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

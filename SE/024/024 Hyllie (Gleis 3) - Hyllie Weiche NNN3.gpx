@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 386 filtered ascend = 0 plain-ascend = -1 cost=386 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Hyllie (Gleis 3) - Hyllie Weiche NNN3</name>
+  <link href="https://bikerouter.de/#map=19/55.56452/12.98057/standard&amp;lonlats=12.975839,55.562707;12.980524,55.564859&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.562706" lon="12.975838"/>
+   <trkpt lat="55.562725" lon="12.975886"/>
+   <trkpt lat="55.5629" lon="12.976317"/>
+   <trkpt lat="55.562906" lon="12.976331"/>
+   <trkpt lat="55.563235" lon="12.977143"><ele>20.5</ele></trkpt>
+   <trkpt lat="55.563918" lon="12.978661"><ele>21</ele></trkpt>
+   <trkpt lat="55.564296" lon="12.979453"><ele>20.75</ele></trkpt>
+   <trkpt lat="55.564651" lon="12.980144"><ele>19.75</ele></trkpt>
+   <trkpt lat="55.564857" lon="12.980521"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.564858" lon="12.980523"><ele>19</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
