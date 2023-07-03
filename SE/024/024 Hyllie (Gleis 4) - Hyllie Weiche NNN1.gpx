@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 0 plain-ascend = 0 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.17">
+ <trk>
+  <name>024 Hyllie (Gleis 4) - Hyllie Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/55.56476/12.98156/standard&amp;lonlats=12.975993,55.562606;12.979048,55.563938&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.562606" lon="12.975993"/>
+   <trkpt lat="55.562874" lon="12.976653"/>
+   <trkpt lat="55.562878" lon="12.976662"/>
+   <trkpt lat="55.563085" lon="12.977145"><ele>20.75</ele></trkpt>
+   <trkpt lat="55.563806" lon="12.97877"><ele>21</ele></trkpt>
+   <trkpt lat="55.563911" lon="12.978996"><ele>21</ele></trkpt>
+   <trkpt lat="55.563935" lon="12.97905"><ele>21</ele></trkpt>
+   <trkpt lat="55.563935" lon="12.97905"><ele>20.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
