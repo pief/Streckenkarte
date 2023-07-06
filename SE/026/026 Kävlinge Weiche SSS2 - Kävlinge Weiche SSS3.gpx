@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 3 plain-ascend = 3 cost=241 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>026 Kävlinge Weiche SSS2 - Kävlinge Weiche SSS3</name>
+  <link href="https://bikerouter.de/#map=18/55.79305/13.11115/standard&amp;lonlats=13.110961,55.790635;13.111354,55.792755&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.790633" lon="13.110961"><ele>11.25</ele></trkpt>
+   <trkpt lat="55.790638" lon="13.110963"><ele>11.5</ele></trkpt>
+   <trkpt lat="55.791387" lon="13.111218"><ele>12.5</ele></trkpt>
+   <trkpt lat="55.791626" lon="13.11129"><ele>12.75</ele></trkpt>
+   <trkpt lat="55.791866" lon="13.111339"><ele>13.25</ele></trkpt>
+   <trkpt lat="55.792094" lon="13.111369"><ele>13.5</ele></trkpt>
+   <trkpt lat="55.792334" lon="13.111383"><ele>14</ele></trkpt>
+   <trkpt lat="55.792546" lon="13.111378"><ele>14.25</ele></trkpt>
+   <trkpt lat="55.792755" lon="13.111357"><ele>14.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

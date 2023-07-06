@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 0 plain-ascend = 0 cost=280 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>024 Malmö C Weiche WWW3 - Malmö C (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/55.60947/12.99998/standard&amp;lonlats=12.996378,55.608767;13.000439,55.609686&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.608767" lon="12.996376"/>
+   <trkpt lat="55.608769" lon="12.996379"/>
+   <trkpt lat="55.608958" lon="12.996929"/>
+   <trkpt lat="55.609133" lon="12.997623"/>
+   <trkpt lat="55.609174" lon="12.997787"/>
+   <trkpt lat="55.609314" lon="12.998331"/>
+   <trkpt lat="55.60959" lon="12.999775"/>
+   <trkpt lat="55.609688" lon="13.000429"/>
+   <trkpt lat="55.609688" lon="13.000437"/>
+  </trkseg>
+ </trk>
+</gpx>
