@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 94 filtered ascend = 0 plain-ascend = 0 cost=94 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>032 Teckomatorp Weiche OOO3 - Teckomatorp Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/55.87052/13.08822/standard&amp;lonlats=13.087818,55.870596;13.089261,55.870599&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.870595" lon="13.087817"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.87059" lon="13.088249"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.870589" lon="13.088718"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.8706" lon="13.089267"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.870599" lon="13.089259"><ele>29.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

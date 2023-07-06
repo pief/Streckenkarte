@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 655 filtered ascend = 2 plain-ascend = 1 cost=655 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>026 Kävlinge (Gleis 1) - Kävlinge Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/55.80044/13.11211/standard&amp;lonlats=13.111011,55.794861;13.110506,55.800666&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.794861" lon="13.111011"><ele>14.5</ele></trkpt>
+   <trkpt lat="55.79626" lon="13.110829"><ele>15</ele></trkpt>
+   <trkpt lat="55.797114" lon="13.110772"><ele>16</ele></trkpt>
+   <trkpt lat="55.797464" lon="13.110737"><ele>17</ele></trkpt>
+   <trkpt lat="55.798136" lon="13.110648"><ele>17</ele></trkpt>
+   <trkpt lat="55.798714" lon="13.110572"><ele>16.25</ele></trkpt>
+   <trkpt lat="55.799224" lon="13.110507"><ele>15.25</ele></trkpt>
+   <trkpt lat="55.799766" lon="13.110433"><ele>14.75</ele></trkpt>
+   <trkpt lat="55.799877" lon="13.110424"><ele>14.5</ele></trkpt>
+   <trkpt lat="55.800105" lon="13.110431"><ele>14.5</ele></trkpt>
+   <trkpt lat="55.800422" lon="13.110486"><ele>15</ele></trkpt>
+   <trkpt lat="55.800661" lon="13.110505"><ele>15.25</ele></trkpt>
+   <trkpt lat="55.800666" lon="13.110505"><ele>15.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

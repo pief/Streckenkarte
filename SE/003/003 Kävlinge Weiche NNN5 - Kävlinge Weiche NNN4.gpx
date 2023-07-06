@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>003 Kävlinge Weiche NNN5 - Kävlinge Weiche NNN4</name>
+  <link href="https://bikerouter.de/#map=19/55.80346/13.11075/standard&amp;lonlats=13.110394,55.80352;13.110415,55.803266&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.80352" lon="13.110394"><ele>15.5</ele></trkpt>
+   <trkpt lat="55.803519" lon="13.110395"><ele>15.5</ele></trkpt>
+   <trkpt lat="55.803273" lon="13.110415"><ele>15.5</ele></trkpt>
+   <trkpt lat="55.803266" lon="13.110415"><ele>15.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
