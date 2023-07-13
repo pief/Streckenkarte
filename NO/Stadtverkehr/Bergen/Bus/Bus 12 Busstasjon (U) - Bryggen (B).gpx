@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1601 filtered ascend = 0 plain-ascend = 0 cost=4927 energy=0.2kwh time=5m 53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="OsmAndRouter">
+ <rte>
+  <rtept lat="60.388734" lon="5.331907">
+   <desc>start</desc>
+  </rtept>
+  <rtept lat="60.397455" lon="5.321902">
+   <desc>destination</desc>
+   <extensions>
+    <time>0</time>
+    <offset>79</offset>
+   </extensions>
+  </rtept>
+ </rte>
+ <trk>
+  <name>Bus 12 Busstasjon (U) - Bryggen (B)</name>
+  <link href="https://bikerouter.de/#map=18/60.39752/5.32299/standard&amp;lonlats=5.33192,60.388739;5.325558,60.389728;5.324737,60.390536;5.325649,60.394747;5.321916,60.397479&amp;profile=car-eco">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.388734" lon="5.331907"/>
+   <trkpt lat="60.388749" lon="5.331888"/>
+   <trkpt lat="60.389135" lon="5.33134"/>
+   <trkpt lat="60.389297" lon="5.331044"/>
+   <trkpt lat="60.389344" lon="5.330935"/>
+   <trkpt lat="60.389358" lon="5.330868"/>
+   <trkpt lat="60.389355" lon="5.330637"/>
+   <trkpt lat="60.388985" lon="5.330075"/>
+   <trkpt lat="60.388957" lon="5.330033"/>
+   <trkpt lat="60.388915" lon="5.329968"/>
+   <trkpt lat="60.388837" lon="5.32985"/>
+   <trkpt lat="60.388889" lon="5.329597"/>
+   <trkpt lat="60.389127" lon="5.328466"/>
+   <trkpt lat="60.389146" lon="5.328375"/>
+   <trkpt lat="60.389232" lon="5.327948"/>
+   <trkpt lat="60.389381" lon="5.32722"/>
+   <trkpt lat="60.389441" lon="5.32689"/>
+   <trkpt lat="60.389542" lon="5.326366"/>
+   <trkpt lat="60.389712" lon="5.325544"/>
+   <trkpt lat="60.389767" lon="5.325279"/>
+   <trkpt lat="60.389798" lon="5.32513"/>
+   <trkpt lat="60.389895" lon="5.324747"/>
+   <trkpt lat="60.390019" lon="5.324366"/>
+   <trkpt lat="60.390048" lon="5.324251"/>
+   <trkpt lat="60.390328" lon="5.32453"/>
+   <trkpt lat="60.390538" lon="5.324721"/>
+   <trkpt lat="60.390642" lon="5.324815"/>
+   <trkpt lat="60.390892" lon="5.325073"/>
+   <trkpt lat="60.391211" lon="5.3254"/>
+   <trkpt lat="60.391414" lon="5.32562"/>
+   <trkpt lat="60.391787" lon="5.325993"/>
+   <trkpt lat="60.391871" lon="5.326072"/>
+   <trkpt lat="60.391885" lon="5.326086"/>
+   <trkpt lat="60.391898" lon="5.326098"/>
+   <trkpt lat="60.391951" lon="5.326151"/>
+   <trkpt lat="60.392172" lon="5.32639"/>
+   <trkpt lat="60.392242" lon="5.326469"/>
+   <trkpt lat="60.392432" lon="5.326669"/>
+   <trkpt lat="60.392755" lon="5.326957"/>
+   <trkpt lat="60.392894" lon="5.327078"/>
+   <trkpt lat="60.393019" lon="5.327139"/>
+   <trkpt lat="60.393078" lon="5.327155"/>
+   <trkpt lat="60.393159" lon="5.327173"/>
+   <trkpt lat="60.393171" lon="5.326996"/>
+   <trkpt lat="60.393188" lon="5.326852"/>
+   <trkpt lat="60.393215" lon="5.326707"/>
+   <trkpt lat="60.393318" lon="5.326212"/>
+   <trkpt lat="60.393362" lon="5.326004"/>
+   <trkpt lat="60.393493" lon="5.325404"/>
+   <trkpt lat="60.393552" lon="5.325122"/>
+   <trkpt lat="60.393582" lon="5.325068"/>
+   <trkpt lat="60.393613" lon="5.325043"/>
+   <trkpt lat="60.393651" lon="5.325034"/>
+   <trkpt lat="60.393703" lon="5.325041"/>
+   <trkpt lat="60.394063" lon="5.32528"/>
+   <trkpt lat="60.394164" lon="5.325309"/>
+   <trkpt lat="60.394253" lon="5.325309"/>
+   <trkpt lat="60.39457" lon="5.325524"/>
+   <trkpt lat="60.394746" lon="5.325644"/>
+   <trkpt lat="60.395145" lon="5.325915"/>
+   <trkpt lat="60.395258" lon="5.325984"/>
+   <trkpt lat="60.395346" lon="5.326027"/>
+   <trkpt lat="60.39545" lon="5.326018"/>
+   <trkpt lat="60.395491" lon="5.325999"/>
+   <trkpt lat="60.39555" lon="5.325952"/>
+   <trkpt lat="60.395606" lon="5.325861"/>
+   <trkpt lat="60.395635" lon="5.325818"/>
+   <trkpt lat="60.395675" lon="5.325756"/>
+   <trkpt lat="60.395852" lon="5.325495"/>
+   <trkpt lat="60.396042" lon="5.325184"/>
+   <trkpt lat="60.396209" lon="5.324886"/>
+   <trkpt lat="60.396551" lon="5.32419"/>
+   <trkpt lat="60.396586" lon="5.324086"/>
+   <trkpt lat="60.396609" lon="5.323975"/>
+   <trkpt lat="60.396636" lon="5.32383"/>
+   <trkpt lat="60.396699" lon="5.323608"/>
+   <trkpt lat="60.396742" lon="5.323508"/>
+   <trkpt lat="60.396942" lon="5.323059"/>
+   <trkpt lat="60.396994" lon="5.322941"/>
+   <trkpt lat="60.397455" lon="5.321902"/>
+  </trkseg>
+ </trk>
+</gpx>
