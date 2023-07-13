@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 29 filtered ascend = 0 plain-ascend = 0 cost=29 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Bergen Busstasjon Weiche südlich Steig D - Bergen Busstasjon Weiche südliche Steig C</name>
+  <link href="https://bikerouter.de/#map=19/60.38755/5.33597/standard&amp;lonlats=5.335673,60.387667;5.335799,60.387435">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.387666" lon="5.335671"/>
+   <trkpt lat="60.387664" lon="5.335673"/>
+   <trkpt lat="60.387435" lon="5.335798"/>
+   <trkpt lat="60.387434" lon="5.335798"/>
+  </trkseg>
+ </trk>
+</gpx>
