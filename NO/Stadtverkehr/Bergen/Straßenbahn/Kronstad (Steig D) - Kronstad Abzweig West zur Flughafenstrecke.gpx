@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Kronstad (Steig D) - Kronstad Abzweig West zur Flughafenstrecke</name>
+  <link href="https://bikerouter.de/#map=19/60.37141/5.34981/standard&amp;lonlats=5.348494,60.371227;5.34906,60.371364">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.371227" lon="5.348492"/>
+   <trkpt lat="60.37131" lon="5.348843"/>
+   <trkpt lat="60.371348" lon="5.349001"/>
+   <trkpt lat="60.371361" lon="5.34906"/>
+  </trkseg>
+ </trk>
+</gpx>

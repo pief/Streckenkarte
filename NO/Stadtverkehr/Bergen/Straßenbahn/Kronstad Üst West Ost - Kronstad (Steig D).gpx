@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Kronstad Üst West Ost - Kronstad (Steig D)</name>
+  <link href="https://bikerouter.de/#map=19/60.37133/5.34935/standard&amp;lonlats=5.346546,60.37077;5.348496,60.371227">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.370769" lon="5.346545"/>
+   <trkpt lat="60.370974" lon="5.347416"/>
+   <trkpt lat="60.371227" lon="5.348494"/>
+  </trkseg>
+ </trk>
+</gpx>
