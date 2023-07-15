@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 307 filtered ascend = 0 plain-ascend = 0 cost=307 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Birkelandsskiftet terminal Üst Nord - Kokstad</name>
+  <link href="https://bikerouter.de/#map=16/60.2912/5.2675/standard&amp;lonlats=5.265326,60.290747;5.267431,60.293261">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.290746" lon="5.265329"/>
+   <trkpt lat="60.29143" lon="5.266004"/>
+   <trkpt lat="60.291615" lon="5.266174"/>
+   <trkpt lat="60.291863" lon="5.266368"/>
+   <trkpt lat="60.292325" lon="5.266667"/>
+   <trkpt lat="60.292639" lon="5.266884"/>
+   <trkpt lat="60.292898" lon="5.267102"/>
+   <trkpt lat="60.293259" lon="5.267431"/>
+  </trkseg>
+ </trk>
+</gpx>
