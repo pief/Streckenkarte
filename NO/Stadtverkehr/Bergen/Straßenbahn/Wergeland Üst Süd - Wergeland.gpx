@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Wergeland Üst Süd - Wergeland</name>
+  <link href="https://bikerouter.de/#map=19/60.36098/5.35163/standard&amp;lonlats=5.351195,60.361251;5.35113,60.360965">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.361249" lon="5.351197"/>
+   <trkpt lat="60.361178" lon="5.35118"/>
+   <trkpt lat="60.360964" lon="5.351133"/>
+  </trkseg>
+ </trk>
+</gpx>
