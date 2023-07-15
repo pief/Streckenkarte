@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=48 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Nesttun terminal (Steig B) - Nesttun terminal Üst Nord</name>
+  <link href="https://bikerouter.de/#map=19/60.32012/5.35289/standard&amp;lonlats=5.352705,60.319664;5.352434,60.320048">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.319663" lon="5.352702"/>
+   <trkpt lat="60.319859" lon="5.352569"/>
+   <trkpt lat="60.319905" lon="5.352536"/>
+   <trkpt lat="60.320045" lon="5.352436"/>
+   <trkpt lat="60.320047" lon="5.352434"/>
+  </trkseg>
+ </trk>
+</gpx>
