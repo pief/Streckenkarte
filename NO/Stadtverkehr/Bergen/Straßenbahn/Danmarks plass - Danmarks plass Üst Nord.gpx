@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = 0 cost=85 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Danmarks plass - Danmarks plass Üst Nord</name>
+  <link href="https://bikerouter.de/#map=19/60.37626/5.33943/standard&amp;lonlats=5.339782,60.375538;5.3392,60.376214">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.375537" lon="5.339782"/>
+   <trkpt lat="60.375775" lon="5.339606"/>
+   <trkpt lat="60.375855" lon="5.33953"/>
+   <trkpt lat="60.376035" lon="5.339343"/>
+   <trkpt lat="60.376212" lon="5.339202"/>
+   <trkpt lat="60.376214" lon="5.3392"/>
+  </trkseg>
+ </trk>
+</gpx>
