@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 3 plain-ascend = 0 cost=513 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>026 Svalöv (Gleis 1) - Svalöv Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=17/55.90894/13.11172/standard&amp;lonlats=13.110333,55.912281;13.11038,55.907721&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.912281" lon="13.110338"><ele>64.75</ele></trkpt>
+   <trkpt lat="55.910491" lon="13.110414"><ele>67.25</ele></trkpt>
+   <trkpt lat="55.909733" lon="13.110426"><ele>67.5</ele></trkpt>
+   <trkpt lat="55.909688" lon="13.110424"><ele>67.75</ele></trkpt>
+   <trkpt lat="55.908695" lon="13.110384"><ele>66.75</ele></trkpt>
+   <trkpt lat="55.907728" lon="13.110383"><ele>64.5</ele></trkpt>
+   <trkpt lat="55.907719" lon="13.110382"><ele>64.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

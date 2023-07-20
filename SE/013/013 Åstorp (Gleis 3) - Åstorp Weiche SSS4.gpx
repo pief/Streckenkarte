@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 2 plain-ascend = 3 cost=218 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>013 Åstorp (Gleis 3) - Åstorp Weiche SSS4</name>
+  <link href="https://bikerouter.de/#map=19/56.13395/12.94884/standard&amp;lonlats=12.949223,56.133916;12.946891,56.132482&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.133911" lon="12.949229"><ele>36.25</ele></trkpt>
+   <trkpt lat="56.133827" lon="12.949086"><ele>36.75</ele></trkpt>
+   <trkpt lat="56.132924" lon="12.947538"><ele>39</ele></trkpt>
+   <trkpt lat="56.132823" lon="12.94738"><ele>39</ele></trkpt>
+   <trkpt lat="56.132484" lon="12.946893"><ele>38.75</ele></trkpt>
+   <trkpt lat="56.132481" lon="12.94689"><ele>38.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

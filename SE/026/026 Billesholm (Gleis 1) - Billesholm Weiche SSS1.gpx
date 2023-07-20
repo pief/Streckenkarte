@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 604 filtered ascend = 2 plain-ascend = 2 cost=604 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>026 Billesholm (Gleis 1) - Billesholm Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/56.05647/12.97600/standard&amp;lonlats=12.976877,56.056552;12.975291,56.051292&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.056552" lon="12.976883"><ele>41</ele></trkpt>
+   <trkpt lat="56.056506" lon="12.976887"><ele>41</ele></trkpt>
+   <trkpt lat="56.056111" lon="12.976895"><ele>41</ele></trkpt>
+   <trkpt lat="56.055677" lon="12.976882"><ele>41</ele></trkpt>
+   <trkpt lat="56.055248" lon="12.976839"><ele>41</ele></trkpt>
+   <trkpt lat="56.054809" lon="12.976765"><ele>41</ele></trkpt>
+   <trkpt lat="56.05436" lon="12.976658"><ele>40.75</ele></trkpt>
+   <trkpt lat="56.053689" lon="12.976443"><ele>41</ele></trkpt>
+   <trkpt lat="56.053467" lon="12.976353"><ele>41</ele></trkpt>
+   <trkpt lat="56.053003" lon="12.976143"><ele>40.75</ele></trkpt>
+   <trkpt lat="56.052128" lon="12.975741"><ele>41</ele></trkpt>
+   <trkpt lat="56.051949" lon="12.975653"><ele>41.5</ele></trkpt>
+   <trkpt lat="56.051427" lon="12.975357"><ele>42.5</ele></trkpt>
+   <trkpt lat="56.051295" lon="12.975291"><ele>43</ele></trkpt>
+   <trkpt lat="56.051291" lon="12.975289"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
