@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 832 filtered ascend = 1 plain-ascend = 1 cost=832 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>6340 Körle Süd Weiche 503 - (Nebengleis) - Körle Weiche 520</name>
+  <link href="https://bikerouter.de/#map=19/51.17061/9.51442/standard&amp;lonlats=9.522636,51.165869;9.514686,51.17054;9.513986,51.170927&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.16587" lon="9.522637"><ele>161.25</ele></trkpt>
+   <trkpt lat="51.165872" lon="9.522635"><ele>161.25</ele></trkpt>
+   <trkpt lat="51.166072" lon="9.522177"><ele>162.25</ele></trkpt>
+   <trkpt lat="51.166366" lon="9.521611"><ele>162</ele></trkpt>
+   <trkpt lat="51.166867" lon="9.520648"><ele>161.25</ele></trkpt>
+   <trkpt lat="51.167173" lon="9.520088"><ele>160.75</ele></trkpt>
+   <trkpt lat="51.169111" lon="9.516972"><ele>160.5</ele></trkpt>
+   <trkpt lat="51.170321" lon="9.515042"><ele>163</ele></trkpt>
+   <trkpt lat="51.170529" lon="9.514706"><ele>162.75</ele></trkpt>
+   <trkpt lat="51.17054" lon="9.514686"><ele>162.5</ele></trkpt>
+   <trkpt lat="51.170925" lon="9.513989"><ele>161.5</ele></trkpt>
+   <trkpt lat="51.170926" lon="9.513986"><ele>161.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
