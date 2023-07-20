@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 158 filtered ascend = 4 plain-ascend = 4 cost=159 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>013 Åstorp Weiche SSS5 - Åstorp Weiche SSS6</name>
+  <link href="https://bikerouter.de/#map=19/56.13147/12.94586/standard&amp;lonlats=12.946674,56.132412;12.945588,56.13116&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.132412" lon="12.946673"><ele>38.25</ele></trkpt>
+   <trkpt lat="56.131981" lon="12.946184"><ele>40.25</ele></trkpt>
+   <trkpt lat="56.131873" lon="12.946081"><ele>40.75</ele></trkpt>
+   <trkpt lat="56.131624" lon="12.945872"><ele>42</ele></trkpt>
+   <trkpt lat="56.13116" lon="12.945593"><ele>42.75</ele></trkpt>
+   <trkpt lat="56.131158" lon="12.945592"><ele>42.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

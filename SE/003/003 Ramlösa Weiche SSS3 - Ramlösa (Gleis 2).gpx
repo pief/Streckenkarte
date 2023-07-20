@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 119 filtered ascend = 0 plain-ascend = 1 cost=119 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>003 Ramlösa Weiche SSS3 - Ramlösa (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/56.02364/12.72778/standard&amp;lonlats=12.728761,56.022801;12.727621,56.023624&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.022801" lon="12.728761"><ele>8.75</ele></trkpt>
+   <trkpt lat="56.02295" lon="12.728553"><ele>9</ele></trkpt>
+   <trkpt lat="56.022989" lon="12.728499"><ele>9</ele></trkpt>
+   <trkpt lat="56.022998" lon="12.728486"><ele>9</ele></trkpt>
+   <trkpt lat="56.023328" lon="12.728028"><ele>9.5</ele></trkpt>
+   <trkpt lat="56.023625" lon="12.727623"><ele>9.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

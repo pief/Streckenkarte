@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 685 filtered ascend = 0 plain-ascend = 0 cost=685 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>013 Mörarp (Gleis 1) - Mörarp Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/56.04984/12.87359/standard&amp;lonlats=12.873499,56.055672;12.874051,56.049741&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.055671" lon="12.873494"><ele>48.25</ele></trkpt>
+   <trkpt lat="56.055197" lon="12.873722"><ele>48.75</ele></trkpt>
+   <trkpt lat="56.055159" lon="12.873739"><ele>48.75</ele></trkpt>
+   <trkpt lat="56.053697" lon="12.874414"><ele>49</ele></trkpt>
+   <trkpt lat="56.053205" lon="12.87463"><ele>48.75</ele></trkpt>
+   <trkpt lat="56.052866" lon="12.874748"><ele>48</ele></trkpt>
+   <trkpt lat="56.05264" lon="12.874808"><ele>47.5</ele></trkpt>
+   <trkpt lat="56.052202" lon="12.874872"><ele>46.75</ele></trkpt>
+   <trkpt lat="56.051944" lon="12.874884"><ele>46.25</ele></trkpt>
+   <trkpt lat="56.0515" lon="12.874848"><ele>46</ele></trkpt>
+   <trkpt lat="56.051224" lon="12.874792"><ele>46</ele></trkpt>
+   <trkpt lat="56.051018" lon="12.874737"><ele>46.25</ele></trkpt>
+   <trkpt lat="56.050766" lon="12.874647"><ele>46.25</ele></trkpt>
+   <trkpt lat="56.050542" lon="12.874551"><ele>46.5</ele></trkpt>
+   <trkpt lat="56.050415" lon="12.874488"><ele>46.5</ele></trkpt>
+   <trkpt lat="56.050144" lon="12.874331"><ele>46.75</ele></trkpt>
+   <trkpt lat="56.04992" lon="12.874179"><ele>47</ele></trkpt>
+   <trkpt lat="56.049747" lon="12.874049"><ele>47.25</ele></trkpt>
+   <trkpt lat="56.049742" lon="12.874044"><ele>47.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
