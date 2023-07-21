@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = 0 cost=121 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>032 Gantofta - Gantofta Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=18/55.99046/12.80656/standard&amp;lonlats=12.805671,55.990466;12.804147,55.991088&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.99047" lon="12.805676"><ele>19.75</ele></trkpt>
+   <trkpt lat="55.990478" lon="12.805658"><ele>20</ele></trkpt>
+   <trkpt lat="55.990603" lon="12.805341"><ele>19.75</ele></trkpt>
+   <trkpt lat="55.990944" lon="12.804526"><ele>19.5</ele></trkpt>
+   <trkpt lat="55.991088" lon="12.804154"><ele>19.75</ele></trkpt>
+   <trkpt lat="55.991089" lon="12.804149"><ele>19.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

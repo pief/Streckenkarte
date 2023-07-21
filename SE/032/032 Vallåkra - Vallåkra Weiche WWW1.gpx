@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 633 filtered ascend = 2 plain-ascend = 3 cost=633 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>032 Vallåkra - Vallåkra Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=18/55.96334/12.86366/standard&amp;lonlats=12.861909,55.963897;12.852459,55.965846&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.963893" lon="12.861906"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.963914" lon="12.861807"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.963994" lon="12.861417"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.96429" lon="12.859983"><ele>22.5</ele></trkpt>
+   <trkpt lat="55.965184" lon="12.85567"><ele>19.5</ele></trkpt>
+   <trkpt lat="55.965264" lon="12.855278"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.965576" lon="12.853778"><ele>21.25</ele></trkpt>
+   <trkpt lat="55.965849" lon="12.852461"><ele>25</ele></trkpt>
+   <trkpt lat="55.965849" lon="12.85246"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

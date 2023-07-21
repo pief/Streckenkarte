@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2133 filtered ascend = 5 plain-ascend = 2 cost=2133 energy=0.0kwh time=2m 51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>032 Tågarp Weiche WWW1 - Ottarps kyrka</name>
+  <link href="https://bikerouter.de/#map=17/55.92967/12.94559/standard&amp;lonlats=12.94088,55.929728;12.915232,55.942256&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.929727" lon="12.940879"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.931056" lon="12.938182"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.931064" lon="12.938166"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.931174" lon="12.937939"><ele>27</ele></trkpt>
+   <trkpt lat="55.934102" lon="12.93199"><ele>25</ele></trkpt>
+   <trkpt lat="55.935068" lon="12.930019"><ele>25.5</ele></trkpt>
+   <trkpt lat="55.935478" lon="12.929152"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.935878" lon="12.928273"><ele>30</ele></trkpt>
+   <trkpt lat="55.93736" lon="12.92496"><ele>31.5</ele></trkpt>
+   <trkpt lat="55.938675" lon="12.922018"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.939066" lon="12.921157"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.939466" lon="12.920311"><ele>30.75</ele></trkpt>
+   <trkpt lat="55.93981" lon="12.919622"><ele>31.5</ele></trkpt>
+   <trkpt lat="55.940201" lon="12.918872"><ele>32.5</ele></trkpt>
+   <trkpt lat="55.940604" lon="12.918138"><ele>31</ele></trkpt>
+   <trkpt lat="55.942256" lon="12.915232"><ele>29.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

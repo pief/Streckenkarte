@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 181 filtered ascend = 0 plain-ascend = 0 cost=181 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>032 Vallåkra - Vallåkra Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/55.96314/12.86550/standard&amp;lonlats=12.861909,55.963897;12.864601,55.963334&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.963893" lon="12.861906"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.963605" lon="12.863296"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.963336" lon="12.864601"><ele>22.25</ele></trkpt>
+   <trkpt lat="55.963335" lon="12.864602"><ele>22.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 0 plain-ascend = 0 cost=214 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>032 Tågarp - Tågarp Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/55.92653/12.95601/standard&amp;lonlats=12.952087,55.926708;12.95537,55.926317&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.926704" lon="12.952085"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.926704" lon="12.952089"><ele>29.75</ele></trkpt>
+   <trkpt lat="55.926696" lon="12.952152"><ele>29.75</ele></trkpt>
+   <trkpt lat="55.926437" lon="12.954253"><ele>29.75</ele></trkpt>
+   <trkpt lat="55.926372" lon="12.954909"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.926319" lon="12.95537"><ele>29.75</ele></trkpt>
+   <trkpt lat="55.926318" lon="12.95537"><ele>29.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
