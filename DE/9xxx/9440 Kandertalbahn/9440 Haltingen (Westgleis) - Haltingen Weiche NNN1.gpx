@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = 0 cost=77 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>9440 Haltingen (Westgleis) - Haltingen Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/47.61543/7.61032/standard&amp;lonlats=7.610081,47.61498;7.609958,47.615642&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.61498" lon="7.610083"><ele>268</ele></trkpt>
+   <trkpt lat="47.615088" lon="7.610045"><ele>268</ele></trkpt>
+   <trkpt lat="47.615208" lon="7.610014"><ele>268</ele></trkpt>
+   <trkpt lat="47.615343" lon="7.609993"><ele>267.75</ele></trkpt>
+   <trkpt lat="47.615546" lon="7.609977"><ele>267.75</ele></trkpt>
+   <trkpt lat="47.615642" lon="7.609959"><ele>267.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
