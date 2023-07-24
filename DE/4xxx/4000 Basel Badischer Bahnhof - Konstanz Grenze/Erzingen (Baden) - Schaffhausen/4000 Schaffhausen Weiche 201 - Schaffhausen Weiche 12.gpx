@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 4 plain-ascend = 5 cost=130 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Schaffhausen Weiche 201 - Schaffhausen Weiche 12</name>
+  <link href="https://bikerouter.de/#map=19/47.69600/8.63170/standard&amp;lonlats=8.631032,47.695038;8.631349,47.695695;8.631375,47.696126&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.695036" lon="8.631033"><ele>407.5</ele></trkpt>
+   <trkpt lat="47.695039" lon="8.631035"><ele>407.75</ele></trkpt>
+   <trkpt lat="47.69533" lon="8.631214"><ele>409.5</ele></trkpt>
+   <trkpt lat="47.695482" lon="8.631279"><ele>410.5</ele></trkpt>
+   <trkpt lat="47.695676" lon="8.631335"><ele>411.75</ele></trkpt>
+   <trkpt lat="47.695694" lon="8.631338"><ele>411.75</ele></trkpt>
+   <trkpt lat="47.695787" lon="8.631353"><ele>412.5</ele></trkpt>
+   <trkpt lat="47.696126" lon="8.631377"><ele>412.25</ele></trkpt>
+   <trkpt lat="47.696124" lon="8.631376"><ele>412.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2614 filtered ascend = 12 plain-ascend = 12 cost=2614 energy=0.0kwh time=3m 29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Trasadingen (Gleis 1) - Wilchingen-Hallau (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/47.67983/8.46587/standard&amp;lonlats=8.436787,47.665156;8.464012,47.679442&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.665157" lon="8.436783"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.665546" lon="8.43734"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.669851" lon="8.443555"><ele>404</ele></trkpt>
+   <trkpt lat="47.671314" lon="8.445687"><ele>405</ele></trkpt>
+   <trkpt lat="47.671803" lon="8.446494"><ele>406.25</ele></trkpt>
+   <trkpt lat="47.672221" lon="8.447233"><ele>406.25</ele></trkpt>
+   <trkpt lat="47.672624" lon="8.448018"><ele>406.25</ele></trkpt>
+   <trkpt lat="47.672959" lon="8.448717"><ele>406.25</ele></trkpt>
+   <trkpt lat="47.673631" lon="8.450282"><ele>406</ele></trkpt>
+   <trkpt lat="47.675249" lon="8.454113"><ele>407</ele></trkpt>
+   <trkpt lat="47.675674" lon="8.455126"><ele>407.75</ele></trkpt>
+   <trkpt lat="47.67576" lon="8.455331"><ele>408.25</ele></trkpt>
+   <trkpt lat="47.676315" lon="8.456637"><ele>408.25</ele></trkpt>
+   <trkpt lat="47.676659" lon="8.457445"><ele>408.75</ele></trkpt>
+   <trkpt lat="47.679222" lon="8.463497"><ele>414</ele></trkpt>
+   <trkpt lat="47.679438" lon="8.464014"><ele>413.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

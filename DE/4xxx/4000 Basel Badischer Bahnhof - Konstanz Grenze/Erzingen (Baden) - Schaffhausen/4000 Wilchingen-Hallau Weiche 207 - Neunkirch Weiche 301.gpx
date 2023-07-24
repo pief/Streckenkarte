@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1706 filtered ascend = 11 plain-ascend = 11 cost=1706 energy=0.0kwh time=2m 16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Wilchingen-Hallau Weiche 207 - Neunkirch Weiche 301</name>
+  <link href="https://bikerouter.de/#map=17/47.68833/8.48528/standard&amp;lonlats=8.466428,47.680452;8.486187,47.687892&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.680452" lon="8.466426"><ele>410.5</ele></trkpt>
+   <trkpt lat="47.684803" lon="8.476693"><ele>419</ele></trkpt>
+   <trkpt lat="47.685877" lon="8.479253"><ele>421.5</ele></trkpt>
+   <trkpt lat="47.686252" lon="8.480309"><ele>418.25</ele></trkpt>
+   <trkpt lat="47.68653" lon="8.481216"><ele>419.25</ele></trkpt>
+   <trkpt lat="47.687887" lon="8.486189"><ele>421.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
