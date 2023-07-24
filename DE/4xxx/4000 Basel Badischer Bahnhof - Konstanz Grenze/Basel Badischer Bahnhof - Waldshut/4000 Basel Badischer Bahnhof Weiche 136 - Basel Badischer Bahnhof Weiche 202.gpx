@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 1 plain-ascend = 0 cost=260 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Basel Badischer Bahnhof Weiche 136 - Basel Badischer Bahnhof Weiche 202</name>
+  <link href="https://bikerouter.de/#map=19/47.56299/7.61355/standard&amp;lonlats=7.610721,47.564459;7.613072,47.562872&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.564459" lon="7.610721"><ele>258.75</ele></trkpt>
+   <trkpt lat="47.56446" lon="7.610721"><ele>259</ele></trkpt>
+   <trkpt lat="47.56428" lon="7.61086"><ele>258.75</ele></trkpt>
+   <trkpt lat="47.564022" lon="7.611098"><ele>259</ele></trkpt>
+   <trkpt lat="47.563808" lon="7.611327"><ele>259.25</ele></trkpt>
+   <trkpt lat="47.563743" lon="7.611414"><ele>259.25</ele></trkpt>
+   <trkpt lat="47.563563" lon="7.611654"><ele>259.5</ele></trkpt>
+   <trkpt lat="47.563376" lon="7.61198"><ele>259.75</ele></trkpt>
+   <trkpt lat="47.563303" lon="7.612135"><ele>259.75</ele></trkpt>
+   <trkpt lat="47.563161" lon="7.612423"><ele>259.75</ele></trkpt>
+   <trkpt lat="47.563097" lon="7.612566"><ele>259.5</ele></trkpt>
+   <trkpt lat="47.562992" lon="7.6128"><ele>259</ele></trkpt>
+   <trkpt lat="47.562871" lon="7.613071"><ele>258.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

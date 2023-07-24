@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 249 filtered ascend = 0 plain-ascend = 0 cost=249 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Rheinfelden (Baden) (Gleis 1) - Rheinfelden (Baden) Weiche 28</name>
+  <link href="https://bikerouter.de/#map=18/47.55788/7.78791/standard&amp;lonlats=7.78457,47.556901;7.78777,47.557422&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.556901" lon="7.784568"><ele>277.75</ele></trkpt>
+   <trkpt lat="47.556907" lon="7.784602"><ele>278</ele></trkpt>
+   <trkpt lat="47.557422" lon="7.787766"><ele>277</ele></trkpt>
+   <trkpt lat="47.557422" lon="7.787768"><ele>276.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

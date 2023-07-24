@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1012 filtered ascend = 5 plain-ascend = 3 cost=1012 energy=0.0kwh time=1m 21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Murg (Baden) (Gleis 2) - Murg Gbf Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/47.55355/8.03328/standard&amp;lonlats=8.018633,47.553443;8.031867,47.553592&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.553433" lon="8.018629"><ele>296.75</ele></trkpt>
+   <trkpt lat="47.553337" lon="8.019202"><ele>297</ele></trkpt>
+   <trkpt lat="47.553301" lon="8.019519"><ele>297.25</ele></trkpt>
+   <trkpt lat="47.553258" lon="8.020052"><ele>297.75</ele></trkpt>
+   <trkpt lat="47.553247" lon="8.020281"><ele>297.75</ele></trkpt>
+   <trkpt lat="47.553231" lon="8.020614"><ele>298.25</ele></trkpt>
+   <trkpt lat="47.553232" lon="8.021484"><ele>296.75</ele></trkpt>
+   <trkpt lat="47.553232" lon="8.021903"><ele>295.75</ele></trkpt>
+   <trkpt lat="47.553232" lon="8.022278"><ele>295</ele></trkpt>
+   <trkpt lat="47.553232" lon="8.022715"><ele>295.5</ele></trkpt>
+   <trkpt lat="47.553232" lon="8.023129"><ele>297.25</ele></trkpt>
+   <trkpt lat="47.55321" lon="8.028413"><ele>301.25</ele></trkpt>
+   <trkpt lat="47.553235" lon="8.028949"><ele>302.5</ele></trkpt>
+   <trkpt lat="47.553287" lon="8.02964"><ele>301.75</ele></trkpt>
+   <trkpt lat="47.55337" lon="8.030362"><ele>299.5</ele></trkpt>
+   <trkpt lat="47.553589" lon="8.031861"><ele>299.5</ele></trkpt>
+   <trkpt lat="47.553589" lon="8.031866"><ele>299.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

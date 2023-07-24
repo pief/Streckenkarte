@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 469 filtered ascend = 0 plain-ascend = 0 cost=469 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Grenzach (Gleis 2) - Grenzach Weiche 12</name>
+  <link href="https://bikerouter.de/#map=19/47.54979/7.66657/standard&amp;lonlats=7.659676,47.550909;7.665745,47.550024&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.550907" lon="7.659675"><ele>262.5</ele></trkpt>
+   <trkpt lat="47.550128" lon="7.66503"><ele>261.75</ele></trkpt>
+   <trkpt lat="47.550023" lon="7.665743"><ele>262.75</ele></trkpt>
+   <trkpt lat="47.550022" lon="7.665744"><ele>262.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

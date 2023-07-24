@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1780 filtered ascend = 4 plain-ascend = -10 cost=1780 energy=0.0kwh time=2m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Albert-Hauenstein (Gleis 2) - Albbruck Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/47.59153/8.13078/standard&amp;lonlats=8.106455,47.582631;8.126771,47.590547&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.58263" lon="8.106454"><ele>333.25</ele></trkpt>
+   <trkpt lat="47.583433" lon="8.107773"><ele>328</ele></trkpt>
+   <trkpt lat="47.583903" lon="8.108546"><ele>324.25</ele></trkpt>
+   <trkpt lat="47.584561" lon="8.109593"><ele>329.25</ele></trkpt>
+   <trkpt lat="47.584696" lon="8.109871"><ele>330.25</ele></trkpt>
+   <trkpt lat="47.584954" lon="8.110452"><ele>333.25</ele></trkpt>
+   <trkpt lat="47.585219" lon="8.111076"><ele>336.5</ele></trkpt>
+   <trkpt lat="47.585782" lon="8.112732"><ele>337.25</ele></trkpt>
+   <trkpt lat="47.585853" lon="8.112942"><ele>335.75</ele></trkpt>
+   <trkpt lat="47.587567" lon="8.117976"><ele>329.25</ele></trkpt>
+   <trkpt lat="47.588818" lon="8.12167"><ele>330</ele></trkpt>
+   <trkpt lat="47.590545" lon="8.12677"><ele>322</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

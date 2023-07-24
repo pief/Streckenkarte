@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 347 filtered ascend = 3 plain-ascend = 3 cost=347 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Murg Gbf Weiche 2 - Murg Gbf Weiche 3</name>
+  <link href="https://bikerouter.de/#map=17/47.55428/8.03723/standard&amp;lonlats=8.031866,47.553589;8.036357,47.554247&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.553589" lon="8.031864"><ele>299.5</ele></trkpt>
+   <trkpt lat="47.553827" lon="8.033487"><ele>302.75</ele></trkpt>
+   <trkpt lat="47.554245" lon="8.036356"><ele>302.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

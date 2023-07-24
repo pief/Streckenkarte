@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1546 filtered ascend = 0 plain-ascend = 1 cost=1546 energy=0.0kwh time=2m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Rheinfelden (Baden) Weiche 63 - Beuggen (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/47.58202/7.81209/standard&amp;lonlats=7.802881,47.569646;7.811232,47.582326&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.569645" lon="7.80288"><ele>282</ele></trkpt>
+   <trkpt lat="47.569648" lon="7.802882"><ele>282</ele></trkpt>
+   <trkpt lat="47.569684" lon="7.802906"><ele>282.25</ele></trkpt>
+   <trkpt lat="47.575088" lon="7.80646"><ele>279.25</ele></trkpt>
+   <trkpt lat="47.581865" lon="7.81092"><ele>282.75</ele></trkpt>
+   <trkpt lat="47.582327" lon="7.811224"><ele>282.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

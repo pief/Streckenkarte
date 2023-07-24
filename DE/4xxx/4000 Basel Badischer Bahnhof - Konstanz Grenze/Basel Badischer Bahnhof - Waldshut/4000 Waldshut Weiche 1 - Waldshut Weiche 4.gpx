@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 275 filtered ascend = 0 plain-ascend = -1 cost=275 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Waldshut Weiche 1 - Waldshut Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/47.62321/8.21684/standard&amp;lonlats=8.213037,47.623747;8.215869,47.623765;8.21655,47.62362&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.623745" lon="8.213036"><ele>343.75</ele></trkpt>
+   <trkpt lat="47.623745" lon="8.213034"><ele>344</ele></trkpt>
+   <trkpt lat="47.623749" lon="8.213128"><ele>344</ele></trkpt>
+   <trkpt lat="47.623821" lon="8.214531"><ele>343</ele></trkpt>
+   <trkpt lat="47.623827" lon="8.214935"><ele>343.25</ele></trkpt>
+   <trkpt lat="47.623816" lon="8.215295"><ele>343</ele></trkpt>
+   <trkpt lat="47.623787" lon="8.215642"><ele>342.75</ele></trkpt>
+   <trkpt lat="47.623759" lon="8.215867"><ele>342.25</ele></trkpt>
+   <trkpt lat="47.623739" lon="8.216033"><ele>342.25</ele></trkpt>
+   <trkpt lat="47.623696" lon="8.216239"><ele>342</ele></trkpt>
+   <trkpt lat="47.62362" lon="8.216545"><ele>341.25</ele></trkpt>
+   <trkpt lat="47.623618" lon="8.216549"><ele>341</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
