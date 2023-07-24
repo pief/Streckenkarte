@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 588 filtered ascend = 0 plain-ascend = -2 cost=588 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Lauchringen Weiche 1 - Lauchringen West</name>
+  <link href="https://bikerouter.de/#map=17/47.63102/8.31516/standard&amp;lonlats=8.31554,47.630837;8.308286,47.632772&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.630836" lon="8.315539"><ele>362</ele></trkpt>
+   <trkpt lat="47.630986" lon="8.314987"><ele>362.5</ele></trkpt>
+   <trkpt lat="47.632577" lon="8.309019"><ele>359</ele></trkpt>
+   <trkpt lat="47.63276" lon="8.308335"><ele>358.75</ele></trkpt>
+   <trkpt lat="47.632772" lon="8.308286"><ele>358.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
