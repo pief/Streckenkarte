@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 1 plain-ascend = 1 cost=124 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>770 Neuhausen Weiche SSS3 - Neuhausen (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.68314/8.62519/standard&amp;lonlats=8.62534,47.681915;8.625092,47.682993&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.681915" lon="8.62534"><ele>394</ele></trkpt>
+   <trkpt lat="47.681919" lon="8.62534"><ele>394</ele></trkpt>
+   <trkpt lat="47.682215" lon="8.62531"><ele>394.5</ele></trkpt>
+   <trkpt lat="47.682429" lon="8.625267"><ele>395.25</ele></trkpt>
+   <trkpt lat="47.68283" lon="8.625151"><ele>395.5</ele></trkpt>
+   <trkpt lat="47.682992" lon="8.625092"><ele>395</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
