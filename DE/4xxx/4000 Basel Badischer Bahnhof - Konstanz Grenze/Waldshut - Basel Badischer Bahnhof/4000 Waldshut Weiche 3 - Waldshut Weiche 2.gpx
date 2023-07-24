@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Waldshut Weiche 3 - Waldshut Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/47.62354/8.21459/standard&amp;lonlats=8.215323,47.623859;8.214075,47.623857&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.623859" lon="8.215323"><ele>343</ele></trkpt>
+   <trkpt lat="47.623877" lon="8.214956"><ele>343.25</ele></trkpt>
+   <trkpt lat="47.623875" lon="8.214532"><ele>342.75</ele></trkpt>
+   <trkpt lat="47.623856" lon="8.214077"><ele>342.75</ele></trkpt>
+   <trkpt lat="47.623855" lon="8.214074"><ele>342.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1600 filtered ascend = 0 plain-ascend = -1 cost=1600 energy=0.0kwh time=2m 8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Beuggen (Gleis 1) - Rheinfelden (Baden) Weiche 62</name>
+  <link href="https://bikerouter.de/#map=19/47.56939/7.80344/standard&amp;lonlats=7.811191,47.582358;7.802549,47.56923&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.582359" lon="7.811184"><ele>283</ele></trkpt>
+   <trkpt lat="47.581879" lon="7.810869"><ele>283</ele></trkpt>
+   <trkpt lat="47.575101" lon="7.806411"><ele>279.5</ele></trkpt>
+   <trkpt lat="47.5701" lon="7.803122"><ele>283</ele></trkpt>
+   <trkpt lat="47.569753" lon="7.802902"><ele>282.5</ele></trkpt>
+   <trkpt lat="47.56923" lon="7.802551"><ele>281</ele></trkpt>
+   <trkpt lat="47.569228" lon="7.80255"><ele>281</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

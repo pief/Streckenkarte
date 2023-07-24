@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = -1 cost=42 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Rheinfelden (Baden) Weiche 1 - Rheinfelden (Baden) Weiche 12</name>
+  <link href="https://bikerouter.de/#map=19/47.55475/7.77234/standard&amp;lonlats=7.77255,47.554959;7.772025,47.554877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.554959" lon="7.772548"><ele>275</ele></trkpt>
+   <trkpt lat="47.554953" lon="7.772499"><ele>275</ele></trkpt>
+   <trkpt lat="47.554888" lon="7.7721"><ele>273.75</ele></trkpt>
+   <trkpt lat="47.554876" lon="7.772027"><ele>273.5</ele></trkpt>
+   <trkpt lat="47.554875" lon="7.772024"><ele>273.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 573 filtered ascend = 0 plain-ascend = 0 cost=573 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Grenzach Weiche 14 - Grenzach (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/47.55083/7.65922/standard&amp;lonlats=7.667127,47.549861;7.659694,47.550948&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.54986" lon="7.667126"><ele>263.25</ele></trkpt>
+   <trkpt lat="47.550159" lon="7.66504"><ele>261.75</ele></trkpt>
+   <trkpt lat="47.550948" lon="7.659694"><ele>262.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
