@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Basel Badischer Bahnhof Weiche 28 - Basel Badischer Bahnhof Weiche 43</name>
+  <link href="https://bikerouter.de/#map=19/47.57186/7.60390/standard&amp;lonlats=7.604441,47.57191;7.604509,47.571822&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.57191" lon="7.604441"><ele>258.25</ele></trkpt>
+   <trkpt lat="47.571822" lon="7.604509"><ele>258.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
