@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 558 filtered ascend = 0 plain-ascend = 0 cost=558 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Trasadingen Weiche 106 - Erzingen (Baden) (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/47.66012/8.43102/standard&amp;lonlats=8.435094,47.664052;8.430594,47.660132&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.664052" lon="8.435091"><ele>401.5</ele></trkpt>
+   <trkpt lat="47.664054" lon="8.435094"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.663446" lon="8.434215"><ele>401</ele></trkpt>
+   <trkpt lat="47.662977" lon="8.433559"><ele>401.25</ele></trkpt>
+   <trkpt lat="47.662543" lon="8.433046"><ele>401.25</ele></trkpt>
+   <trkpt lat="47.662276" lon="8.432717"><ele>401.25</ele></trkpt>
+   <trkpt lat="47.662009" lon="8.432412"><ele>401.25</ele></trkpt>
+   <trkpt lat="47.661711" lon="8.432107"><ele>401.25</ele></trkpt>
+   <trkpt lat="47.660131" lon="8.430593"><ele>400.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

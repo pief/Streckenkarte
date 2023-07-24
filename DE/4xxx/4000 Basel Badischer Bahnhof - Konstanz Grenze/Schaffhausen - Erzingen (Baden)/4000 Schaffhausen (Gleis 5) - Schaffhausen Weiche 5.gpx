@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 171 filtered ascend = 7 plain-ascend = 7 cost=171 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Schaffhausen (Gleis 5) - Schaffhausen Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/47.69713/8.63183/standard&amp;lonlats=8.632151,47.69826;8.631383,47.696886&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.69826" lon="8.632148"><ele>403.5</ele></trkpt>
+   <trkpt lat="47.69779" lon="8.631697"><ele>405</ele></trkpt>
+   <trkpt lat="47.697648" lon="8.631603"><ele>405</ele></trkpt>
+   <trkpt lat="47.697533" lon="8.631538"><ele>405.5</ele></trkpt>
+   <trkpt lat="47.697323" lon="8.631452"><ele>407.25</ele></trkpt>
+   <trkpt lat="47.697132" lon="8.631407"><ele>409</ele></trkpt>
+   <trkpt lat="47.696886" lon="8.631384"><ele>410.5</ele></trkpt>
+   <trkpt lat="47.696884" lon="8.631383"><ele>410.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

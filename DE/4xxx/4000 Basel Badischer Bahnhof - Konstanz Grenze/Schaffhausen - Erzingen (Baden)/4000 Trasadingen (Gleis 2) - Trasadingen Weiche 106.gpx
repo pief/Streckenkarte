@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 182 filtered ascend = 0 plain-ascend = 0 cost=182 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Trasadingen (Gleis 2) - Trasadingen Weiche 106</name>
+  <link href="https://bikerouter.de/#map=19/47.66410/8.43606/standard&amp;lonlats=8.436769,47.665212;8.435094,47.664052&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.665212" lon="8.436767"><ele>401.25</ele></trkpt>
+   <trkpt lat="47.665033" lon="8.43651"><ele>401.25</ele></trkpt>
+   <trkpt lat="47.664697" lon="8.436029"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.664415" lon="8.435613"><ele>402</ele></trkpt>
+   <trkpt lat="47.664299" lon="8.435446"><ele>402</ele></trkpt>
+   <trkpt lat="47.664054" lon="8.435094"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.664052" lon="8.435091"><ele>401.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

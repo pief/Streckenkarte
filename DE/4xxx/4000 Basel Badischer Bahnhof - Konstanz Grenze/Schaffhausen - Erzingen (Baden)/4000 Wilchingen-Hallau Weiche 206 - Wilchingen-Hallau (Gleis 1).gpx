@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 1 plain-ascend = 2 cost=121 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Wilchingen-Hallau Weiche 206 - Wilchingen-Hallau (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/47.67970/8.46406/standard&amp;lonlats=8.465344,47.680048;8.463985,47.67948&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.680045" lon="8.465345"><ele>412.5</ele></trkpt>
+   <trkpt lat="47.679475" lon="8.463988"><ele>414</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

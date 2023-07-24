@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 0 plain-ascend = 0 cost=228 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>4000 Neunkirch Weiche 307 - Neunkirch (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/47.68923/8.49578/standard&amp;lonlats=8.497812,47.689089;8.494807,47.689161&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.689089" lon="8.497812"><ele>426.5</ele></trkpt>
+   <trkpt lat="47.689147" lon="8.496768"><ele>426</ele></trkpt>
+   <trkpt lat="47.689164" lon="8.496182"><ele>426</ele></trkpt>
+   <trkpt lat="47.689163" lon="8.495452"><ele>426.25</ele></trkpt>
+   <trkpt lat="47.689162" lon="8.494805"><ele>426.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
