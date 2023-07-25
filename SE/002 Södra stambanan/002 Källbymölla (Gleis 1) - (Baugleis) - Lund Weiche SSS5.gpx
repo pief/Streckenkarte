@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1331 filtered ascend = 17 plain-ascend = 18 cost=1331 energy=0.0kwh time=1m 46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Källbymölla (Gleis 1) - (Baugleis) - Lund Weiche SSS5</name>
+  <link href="https://bikerouter.de/#map=19/55.70109/13.18411/standard&amp;lonlats=13.168477,55.693088;13.183977,55.701116&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.693086" lon="13.168478"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.69648" lon="13.174431"><ele>29</ele></trkpt>
+   <trkpt lat="55.697515" lon="13.176365"><ele>29.25</ele></trkpt>
+   <trkpt lat="55.69812" lon="13.177674"><ele>30.75</ele></trkpt>
+   <trkpt lat="55.698714" lon="13.179059"><ele>31.75</ele></trkpt>
+   <trkpt lat="55.698866" lon="13.179364"><ele>32.25</ele></trkpt>
+   <trkpt lat="55.69912" lon="13.179878"><ele>32.75</ele></trkpt>
+   <trkpt lat="55.699428" lon="13.180492"><ele>33.25</ele></trkpt>
+   <trkpt lat="55.700143" lon="13.181962"><ele>36</ele></trkpt>
+   <trkpt lat="55.700736" lon="13.183188"><ele>35</ele></trkpt>
+   <trkpt lat="55.701115" lon="13.183978"><ele>36.5</ele></trkpt>
+   <trkpt lat="55.701115" lon="13.183978"><ele>36.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 636 filtered ascend = 2 plain-ascend = 1 cost=636 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Arlöv Weiche SSS6 - Burlöv Weiche SSS5</name>
+  <link href="https://bikerouter.de/#map=19/55.63690/13.07356/standard&amp;lonlats=13.066384,55.632856;13.073269,55.636997&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.632854" lon="13.066385"><ele>2.75</ele></trkpt>
+   <trkpt lat="55.632858" lon="13.066392"><ele>3</ele></trkpt>
+   <trkpt lat="55.633834" lon="13.068048"><ele>2</ele></trkpt>
+   <trkpt lat="55.634092" lon="13.068486"><ele>2</ele></trkpt>
+   <trkpt lat="55.634117" lon="13.068527"><ele>2</ele></trkpt>
+   <trkpt lat="55.634126" lon="13.068543"><ele>2.25</ele></trkpt>
+   <trkpt lat="55.635398" lon="13.070694"><ele>5.25</ele></trkpt>
+   <trkpt lat="55.636375" lon="13.072285"><ele>3.25</ele></trkpt>
+   <trkpt lat="55.636994" lon="13.073268"><ele>3.25</ele></trkpt>
+   <trkpt lat="55.636995" lon="13.07327"><ele>3.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

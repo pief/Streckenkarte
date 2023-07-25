@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 194 filtered ascend = 0 plain-ascend = 1 cost=194 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Burlöv Weiche SSS6 - Burlöv (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/55.64065/13.07924/standard&amp;lonlats=13.077099,55.6394;13.079179,55.640659&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.639397" lon="13.077102"><ele>5</ele></trkpt>
+   <trkpt lat="55.639398" lon="13.077104"><ele>5.25</ele></trkpt>
+   <trkpt lat="55.639424" lon="13.077147"><ele>5.25</ele></trkpt>
+   <trkpt lat="55.640218" lon="13.078429"><ele>5.25</ele></trkpt>
+   <trkpt lat="55.640659" lon="13.079171"><ele>5.75</ele></trkpt>
+   <trkpt lat="55.64066" lon="13.079174"><ele>5.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

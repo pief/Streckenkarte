@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 340 filtered ascend = 3 plain-ascend = 3 cost=340 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Åkarp Weiche NNN3 - (Baugleis) - Åkarp Weiche NNN4</name>
+  <link href="https://bikerouter.de/#map=19/55.66150/13.11584/standard&amp;lonlats=13.112703,55.659573;13.116367,55.661786&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.659571" lon="13.112704"><ele>8</ele></trkpt>
+   <trkpt lat="55.659573" lon="13.112706"><ele>8</ele></trkpt>
+   <trkpt lat="55.660663" lon="13.114554"><ele>10</ele></trkpt>
+   <trkpt lat="55.661782" lon="13.116365"><ele>11.25</ele></trkpt>
+   <trkpt lat="55.661784" lon="13.116368"><ele>11</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
