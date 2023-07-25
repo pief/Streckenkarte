@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 0 plain-ascend = 0 cost=264 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>024 Malmö C Weiche NNN6 - Malmö C Weiche NNN7</name>
+  <link href="https://bikerouter.de/#map=19/55.61002/13.01322/standard&amp;lonlats=13.015995,55.609934;13.011868,55.609998&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.609934" lon="13.015995"><ele>2</ele></trkpt>
+   <trkpt lat="55.609935" lon="13.015763"><ele>2</ele></trkpt>
+   <trkpt lat="55.609932" lon="13.014717"><ele>1.5</ele></trkpt>
+   <trkpt lat="55.609931" lon="13.013819"><ele>1</ele></trkpt>
+   <trkpt lat="55.609938" lon="13.013477"><ele>1</ele></trkpt>
+   <trkpt lat="55.609941" lon="13.013393"><ele>1</ele></trkpt>
+   <trkpt lat="55.609996" lon="13.011864"><ele>2</ele></trkpt>
+   <trkpt lat="55.609996" lon="13.011867"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

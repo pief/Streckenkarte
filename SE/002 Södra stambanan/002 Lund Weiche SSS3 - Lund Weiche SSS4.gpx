@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 174 filtered ascend = 0 plain-ascend = -1 cost=174 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Lund Weiche SSS3 - Lund Weiche SSS4</name>
+  <link href="https://bikerouter.de/#map=19/55.70043/13.18285/standard&amp;lonlats=13.185048,55.701581;13.182969,55.700578&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.701581" lon="13.185046"><ele>37.25</ele></trkpt>
+   <trkpt lat="55.7013" lon="13.184475"><ele>37.25</ele></trkpt>
+   <trkpt lat="55.7007" lon="13.183229"><ele>35</ele></trkpt>
+   <trkpt lat="55.700577" lon="13.182971"><ele>35.25</ele></trkpt>
+   <trkpt lat="55.700576" lon="13.182969"><ele>35.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 23 filtered ascend = 0 plain-ascend = 0 cost=24 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Arlöv Weiche SSS3 - Arlöv Weiche SSS4</name>
+  <link href="https://bikerouter.de/#map=19/55.63175/13.06537/standard&amp;lonlats=13.065301,55.632008;13.065067,55.63186&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.632008" lon="13.0653"><ele>2.75</ele></trkpt>
+   <trkpt lat="55.63186" lon="13.065064"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
