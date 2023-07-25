@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 958 filtered ascend = 1 plain-ascend = 0 cost=958 energy=0.0kwh time=1m 17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Tornhill Weiche NNN2 - Tornhill Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/55.73550/13.18781/standard&amp;lonlats=13.193558,55.74271;13.187233,55.734918&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.742708" lon="13.193561"><ele>51.25</ele></trkpt>
+   <trkpt lat="55.741951" lon="13.192944"><ele>52.25</ele></trkpt>
+   <trkpt lat="55.741249" lon="13.192367"><ele>52.25</ele></trkpt>
+   <trkpt lat="55.739611" lon="13.191039"><ele>52</ele></trkpt>
+   <trkpt lat="55.735646" lon="13.187832"><ele>52</ele></trkpt>
+   <trkpt lat="55.735178" lon="13.187442"><ele>51.5</ele></trkpt>
+   <trkpt lat="55.734918" lon="13.18724"><ele>51.5</ele></trkpt>
+   <trkpt lat="55.734915" lon="13.187238"><ele>51.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

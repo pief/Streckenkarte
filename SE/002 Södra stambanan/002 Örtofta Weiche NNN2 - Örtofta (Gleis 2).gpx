@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 654 filtered ascend = 0 plain-ascend = 0 cost=654 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Örtofta Weiche NNN2 - Örtofta (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/55.77852/13.24310/standard&amp;lonlats=13.250802,55.781845;13.242493,55.778406&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.781844" lon="13.250801"><ele>19.5</ele></trkpt>
+   <trkpt lat="55.781453" lon="13.249958"><ele>19.25</ele></trkpt>
+   <trkpt lat="55.781053" lon="13.249119"><ele>18.25</ele></trkpt>
+   <trkpt lat="55.780168" lon="13.247248"><ele>18</ele></trkpt>
+   <trkpt lat="55.779799" lon="13.246415"><ele>18.75</ele></trkpt>
+   <trkpt lat="55.77953" lon="13.245783"><ele>19</ele></trkpt>
+   <trkpt lat="55.779141" lon="13.244786"><ele>18.5</ele></trkpt>
+   <trkpt lat="55.778917" lon="13.244148"><ele>18.25</ele></trkpt>
+   <trkpt lat="55.778675" lon="13.243411"><ele>18</ele></trkpt>
+   <trkpt lat="55.778476" lon="13.24274"><ele>18.5</ele></trkpt>
+   <trkpt lat="55.778406" lon="13.242491"><ele>18.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

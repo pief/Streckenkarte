@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 851 filtered ascend = 4 plain-ascend = 4 cost=851 energy=0.0kwh time=1m 8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>002 Stångby (Gleis 2) - Tornhill Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/55.74312/13.19454/standard&amp;lonlats=13.199322,55.749815;13.193703,55.742887&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.749814" lon="13.199321"><ele>46.75</ele></trkpt>
+   <trkpt lat="55.745685" lon="13.195963"><ele>49.5</ele></trkpt>
+   <trkpt lat="55.74567" lon="13.195951"><ele>49.5</ele></trkpt>
+   <trkpt lat="55.744392" lon="13.19492"><ele>49.5</ele></trkpt>
+   <trkpt lat="55.744237" lon="13.194796"><ele>49.5</ele></trkpt>
+   <trkpt lat="55.7434" lon="13.194122"><ele>49.75</ele></trkpt>
+   <trkpt lat="55.742891" lon="13.193708"><ele>51</ele></trkpt>
+   <trkpt lat="55.742886" lon="13.193703"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
