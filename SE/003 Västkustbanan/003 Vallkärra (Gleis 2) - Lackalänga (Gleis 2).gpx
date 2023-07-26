@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3385 filtered ascend = 1 plain-ascend = 1 cost=3385 energy=0.0kwh time=4m 31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>003 Vallkärra (Gleis 2) - Lackalänga (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=17/55.77181/13.12168/standard&amp;lonlats=13.149991,55.744329;13.121538,55.770074&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.744329" lon="13.149993"><ele>26.75</ele></trkpt>
+   <trkpt lat="55.746354" lon="13.14776"><ele>24.5</ele></trkpt>
+   <trkpt lat="55.74676" lon="13.147313"><ele>24</ele></trkpt>
+   <trkpt lat="55.749548" lon="13.144236"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.750903" lon="13.142743"><ele>28</ele></trkpt>
+   <trkpt lat="55.754125" lon="13.139183"><ele>27</ele></trkpt>
+   <trkpt lat="55.754132" lon="13.139176"><ele>27</ele></trkpt>
+   <trkpt lat="55.757174" lon="13.135817"><ele>26.75</ele></trkpt>
+   <trkpt lat="55.761888" lon="13.130613"><ele>28.25</ele></trkpt>
+   <trkpt lat="55.762781" lon="13.129626"><ele>28.25</ele></trkpt>
+   <trkpt lat="55.764715" lon="13.12749"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.764718" lon="13.127486"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.764799" lon="13.127397"><ele>27</ele></trkpt>
+   <trkpt lat="55.767447" lon="13.124468"><ele>28.25</ele></trkpt>
+   <trkpt lat="55.767874" lon="13.123997"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.769712" lon="13.121971"><ele>27.5</ele></trkpt>
+   <trkpt lat="55.770085" lon="13.121571"><ele>27.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

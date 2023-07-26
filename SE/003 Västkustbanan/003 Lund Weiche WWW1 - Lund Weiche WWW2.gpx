@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 309 filtered ascend = 3 plain-ascend = 3 cost=309 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>003 Lund Weiche WWW1 - Lund Weiche WWW2</name>
+  <link href="https://bikerouter.de/#map=18/55.71607/13.18181/standard&amp;lonlats=13.183058,55.714611;13.180102,55.716795&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.714611" lon="13.183058"><ele>42.5</ele></trkpt>
+   <trkpt lat="55.714685" lon="13.182963"><ele>42.5</ele></trkpt>
+   <trkpt lat="55.714906" lon="13.182676"><ele>42.75</ele></trkpt>
+   <trkpt lat="55.716098" lon="13.181072"><ele>44.25</ele></trkpt>
+   <trkpt lat="55.716381" lon="13.180671"><ele>44.75</ele></trkpt>
+   <trkpt lat="55.716773" lon="13.180128"><ele>45.5</ele></trkpt>
+   <trkpt lat="55.716793" lon="13.1801"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

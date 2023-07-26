@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 673 filtered ascend = 0 plain-ascend = -7 cost=673 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>003 Gunnesbo (Gleis 2) - Norra Nöbbelöv (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=17/55.73022/13.16688/standard&amp;lonlats=13.16748,55.726952;13.163016,55.732414&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.726953" lon="13.167486"><ele>35</ele></trkpt>
+   <trkpt lat="55.729681" lon="13.165372"><ele>32</ele></trkpt>
+   <trkpt lat="55.730708" lon="13.164555"><ele>31.5</ele></trkpt>
+   <trkpt lat="55.731217" lon="13.164129"><ele>31</ele></trkpt>
+   <trkpt lat="55.731864" lon="13.163561"><ele>29.5</ele></trkpt>
+   <trkpt lat="55.732418" lon="13.163029"><ele>27.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

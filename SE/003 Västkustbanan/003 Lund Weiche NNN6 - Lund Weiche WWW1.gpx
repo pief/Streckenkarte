@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 508 filtered ascend = 1 plain-ascend = 1 cost=508 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>003 Lund Weiche NNN6 - Lund Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/55.71485/13.18356/standard&amp;lonlats=13.185699,55.710469;13.18306,55.714612&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.710469" lon="13.185702"><ele>42</ele></trkpt>
+   <trkpt lat="55.710474" lon="13.185702"><ele>42</ele></trkpt>
+   <trkpt lat="55.71165" lon="13.185467"><ele>41.5</ele></trkpt>
+   <trkpt lat="55.711867" lon="13.185402"><ele>41.5</ele></trkpt>
+   <trkpt lat="55.712008" lon="13.185349"><ele>41.5</ele></trkpt>
+   <trkpt lat="55.712343" lon="13.185202"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.712529" lon="13.185104"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.712682" lon="13.18501"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.712989" lon="13.184798"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.713162" lon="13.184661"><ele>41.75</ele></trkpt>
+   <trkpt lat="55.713344" lon="13.184504"><ele>42</ele></trkpt>
+   <trkpt lat="55.713602" lon="13.184254"><ele>42.75</ele></trkpt>
+   <trkpt lat="55.713873" lon="13.183961"><ele>43</ele></trkpt>
+   <trkpt lat="55.714066" lon="13.183742"><ele>42.5</ele></trkpt>
+   <trkpt lat="55.714318" lon="13.183438"><ele>42.25</ele></trkpt>
+   <trkpt lat="55.71461" lon="13.18306"><ele>42.5</ele></trkpt>
+   <trkpt lat="55.714611" lon="13.183058"><ele>42.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

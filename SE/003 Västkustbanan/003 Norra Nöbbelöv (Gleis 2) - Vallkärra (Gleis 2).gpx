@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1563 filtered ascend = 0 plain-ascend = 0 cost=1563 energy=0.0kwh time=2m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>003 Norra Nöbbelöv (Gleis 2) - Vallkärra (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=17/55.74424/13.15172/standard&amp;lonlats=13.163016,55.732414;13.149991,55.744329&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.732418" lon="13.163029"><ele>27.5</ele></trkpt>
+   <trkpt lat="55.732617" lon="13.162839"><ele>27</ele></trkpt>
+   <trkpt lat="55.733034" lon="13.162416"><ele>25.5</ele></trkpt>
+   <trkpt lat="55.733041" lon="13.162409"><ele>25.5</ele></trkpt>
+   <trkpt lat="55.733512" lon="13.161913"><ele>24.75</ele></trkpt>
+   <trkpt lat="55.73427" lon="13.161092"><ele>23</ele></trkpt>
+   <trkpt lat="55.739371" lon="13.155465"><ele>24</ele></trkpt>
+   <trkpt lat="55.741883" lon="13.152694"><ele>27.25</ele></trkpt>
+   <trkpt lat="55.743518" lon="13.150889"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.743526" lon="13.15088"><ele>27.75</ele></trkpt>
+   <trkpt lat="55.744329" lon="13.149993"><ele>26.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
