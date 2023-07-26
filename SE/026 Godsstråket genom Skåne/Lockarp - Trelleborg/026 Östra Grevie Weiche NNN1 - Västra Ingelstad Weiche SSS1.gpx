@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1903 filtered ascend = 0 plain-ascend = -2 cost=1903 energy=0.0kwh time=2m 32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>026 Östra Grevie Weiche NNN1 - Västra Ingelstad Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/55.48911/13.11101/standard&amp;lonlats=13.128009,55.473857;13.110922,55.487877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.473857" lon="13.128009"><ele>37.25</ele></trkpt>
+   <trkpt lat="55.474182" lon="13.127643"><ele>37.25</ele></trkpt>
+   <trkpt lat="55.474897" lon="13.12681"><ele>36.25</ele></trkpt>
+   <trkpt lat="55.475427" lon="13.126166"><ele>37.5</ele></trkpt>
+   <trkpt lat="55.476421" lon="13.124941"><ele>37.75</ele></trkpt>
+   <trkpt lat="55.479421" lon="13.12127"><ele>33</ele></trkpt>
+   <trkpt lat="55.485441" lon="13.113904"><ele>34.5</ele></trkpt>
+   <trkpt lat="55.486412" lon="13.112719"><ele>34.25</ele></trkpt>
+   <trkpt lat="55.486819" lon="13.112221"><ele>34.25</ele></trkpt>
+   <trkpt lat="55.487877" lon="13.110923"><ele>34.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

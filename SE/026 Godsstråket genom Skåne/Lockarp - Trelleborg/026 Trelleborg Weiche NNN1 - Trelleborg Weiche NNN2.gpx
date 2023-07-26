@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 661 filtered ascend = 0 plain-ascend = 0 cost=661 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>026 Trelleborg Weiche NNN1 - Trelleborg Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/55.36892/13.17564/standard&amp;lonlats=13.16554,55.37057;13.175483,55.368887&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.370568" lon="13.165539"><ele>1.5</ele></trkpt>
+   <trkpt lat="55.370549" lon="13.16564"><ele>1.5</ele></trkpt>
+   <trkpt lat="55.370399" lon="13.166449"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.370085" lon="13.168424"><ele>2.25</ele></trkpt>
+   <trkpt lat="55.36955" lon="13.171652"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.369504" lon="13.171938"><ele>1.75</ele></trkpt>
+   <trkpt lat="55.369219" lon="13.173679"><ele>1</ele></trkpt>
+   <trkpt lat="55.369127" lon="13.174206"><ele>1</ele></trkpt>
+   <trkpt lat="55.368884" lon="13.175481"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
