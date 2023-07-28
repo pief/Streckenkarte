@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 345 filtered ascend = 0 plain-ascend = 1 cost=345 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Weiche Abzweig Czerwonka-Schleife - (Südwesttrasse) - Weiche Abstellgleis Norddamm</name>
+  <link href="https://bikerouter.de/#map=18/53.74484/9.85624/standard&amp;lonlats=9.857582,53.744609;9.854264,53.745025;9.854463,53.745339">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.744608" lon="9.857581"><ele>11.75</ele></trkpt>
+   <trkpt lat="53.74461" lon="9.85758"><ele>12</ele></trkpt>
+   <trkpt lat="53.744651" lon="9.857477"><ele>12</ele></trkpt>
+   <trkpt lat="53.744666" lon="9.8574"><ele>12</ele></trkpt>
+   <trkpt lat="53.744668" lon="9.857323"><ele>12</ele></trkpt>
+   <trkpt lat="53.744595" lon="9.856976"><ele>11.5</ele></trkpt>
+   <trkpt lat="53.744103" lon="9.855656"><ele>10</ele></trkpt>
+   <trkpt lat="53.744076" lon="9.855544"><ele>10</ele></trkpt>
+   <trkpt lat="53.744078" lon="9.855415"><ele>10</ele></trkpt>
+   <trkpt lat="53.744094" lon="9.855305"><ele>10</ele></trkpt>
+   <trkpt lat="53.744149" lon="9.855208"><ele>10</ele></trkpt>
+   <trkpt lat="53.745025" lon="9.854266"><ele>11.75</ele></trkpt>
+   <trkpt lat="53.745053" lon="9.854237"><ele>12</ele></trkpt>
+   <trkpt lat="53.74511" lon="9.854205"><ele>12</ele></trkpt>
+   <trkpt lat="53.745166" lon="9.854207"><ele>12.25</ele></trkpt>
+   <trkpt lat="53.745212" lon="9.854239"><ele>12.25</ele></trkpt>
+   <trkpt lat="53.745255" lon="9.854286"><ele>12.25</ele></trkpt>
+   <trkpt lat="53.745341" lon="9.854459"><ele>12.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

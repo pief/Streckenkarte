@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Dreifachweiche am Ende der kleinen Torfwerkschleife - Weiche zum Torfwerkbypass</name>
+  <link href="https://bikerouter.de/#map=19/53.74110/9.87201/standard&amp;lonlats=9.870824,53.741462;9.870349,53.741446">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.741464" lon="9.870827"><ele>11</ele></trkpt>
+   <trkpt lat="53.741465" lon="9.870826"><ele>11</ele></trkpt>
+   <trkpt lat="53.741507" lon="9.870642"><ele>11</ele></trkpt>
+   <trkpt lat="53.741507" lon="9.870544"><ele>11</ele></trkpt>
+   <trkpt lat="53.74149" lon="9.870466"><ele>11</ele></trkpt>
+   <trkpt lat="53.741447" lon="9.870353"><ele>11.25</ele></trkpt>
+   <trkpt lat="53.741445" lon="9.870348"><ele>11.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

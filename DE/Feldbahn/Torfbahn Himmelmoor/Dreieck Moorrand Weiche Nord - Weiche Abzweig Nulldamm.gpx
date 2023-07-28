@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 760 filtered ascend = 1 plain-ascend = 2 cost=760 energy=0.0kwh time=1m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Dreieck Moorrand Weiche Nord - Weiche Abzweig Nulldamm</name>
+  <link href="https://bikerouter.de/#map=17/53.73727/9.86312/standard&amp;lonlats=9.853851,53.735297;9.863344,53.738938">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.735297" lon="9.853851"><ele>12</ele></trkpt>
+   <trkpt lat="53.735297" lon="9.853852"><ele>12.25</ele></trkpt>
+   <trkpt lat="53.735346" lon="9.853861"><ele>12</ele></trkpt>
+   <trkpt lat="53.735384" lon="9.853884"><ele>12</ele></trkpt>
+   <trkpt lat="53.735424" lon="9.853945"><ele>11.75</ele></trkpt>
+   <trkpt lat="53.736363" lon="9.856386"><ele>12</ele></trkpt>
+   <trkpt lat="53.738961" lon="9.863141"><ele>13.5</ele></trkpt>
+   <trkpt lat="53.738979" lon="9.863225"><ele>13.5</ele></trkpt>
+   <trkpt lat="53.738962" lon="9.86328"><ele>13.5</ele></trkpt>
+   <trkpt lat="53.738943" lon="9.86334"><ele>13.75</ele></trkpt>
+   <trkpt lat="53.738938" lon="9.863344"><ele>13.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

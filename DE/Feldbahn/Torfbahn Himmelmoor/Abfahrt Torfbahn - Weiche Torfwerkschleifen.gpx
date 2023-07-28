@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=25 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Abfahrt Torfbahn - Weiche Torfwerkschleifen</name>
+  <link href="https://bikerouter.de/#map=19/53.74114/9.87114/standard&amp;lonlats=9.870194,53.741385;9.869881,53.741262">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.741384" lon="9.870193"><ele>11.25</ele></trkpt>
+   <trkpt lat="53.741266" lon="9.869892"><ele>11.5</ele></trkpt>
+   <trkpt lat="53.741261" lon="9.86988"><ele>11.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
