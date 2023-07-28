@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 117 filtered ascend = 1 plain-ascend = 1 cost=117 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Westliche Weiche Moorschuppen/Nordumfahrung - Östliche Weiche Moorschuppen Nordgleis/Nordumfahrung</name>
+  <link href="https://bikerouter.de/#map=19/53.89373/9.91043/standard&amp;lonlats=9.9086,53.893582;9.910151,53.893677">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.89358" lon="9.9086"><ele>16.25</ele></trkpt>
+   <trkpt lat="53.893581" lon="9.908602"><ele>16.25</ele></trkpt>
+   <trkpt lat="53.893641" lon="9.908714"><ele>16.75</ele></trkpt>
+   <trkpt lat="53.893694" lon="9.908839"><ele>17</ele></trkpt>
+   <trkpt lat="53.893729" lon="9.90896"><ele>17.25</ele></trkpt>
+   <trkpt lat="53.893754" lon="9.909106"><ele>17.5</ele></trkpt>
+   <trkpt lat="53.893782" lon="9.909763"><ele>17.5</ele></trkpt>
+   <trkpt lat="53.893775" lon="9.909858"><ele>17.5</ele></trkpt>
+   <trkpt lat="53.893746" lon="9.909974"><ele>17.25</ele></trkpt>
+   <trkpt lat="53.893678" lon="9.91015"><ele>17.25</ele></trkpt>
+   <trkpt lat="53.893677" lon="9.910151"><ele>17</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

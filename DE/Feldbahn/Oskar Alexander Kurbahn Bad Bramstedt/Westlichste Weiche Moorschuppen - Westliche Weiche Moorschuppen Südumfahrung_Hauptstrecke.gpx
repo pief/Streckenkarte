@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>Westlichste Weiche Moorschuppen - Westliche Weiche Moorschuppen Südumfahrung/Hauptstrecke</name>
+  <link href="https://bikerouter.de/#map=19/53.89366/9.90963/standard&amp;lonlats=9.908498,53.893544;9.909078,53.893563">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.893544" lon="9.908496"><ele>16</ele></trkpt>
+   <trkpt lat="53.893546" lon="9.908504"><ele>16.25</ele></trkpt>
+   <trkpt lat="53.893573" lon="9.908703"><ele>16.25</ele></trkpt>
+   <trkpt lat="53.893575" lon="9.908824"><ele>16.25</ele></trkpt>
+   <trkpt lat="53.893562" lon="9.909077"><ele>16.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
