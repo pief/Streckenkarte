@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 221 filtered ascend = 0 plain-ascend = -1 cost=221 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>9122 Moorbekhalle Weiche SSS1 - Moorbekhalle (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/53.71679/9.99118/standard&amp;lonlats=9.991844,53.715179;9.991731,53.717136&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.715179" lon="9.991844"><ele>32.25</ele></trkpt>
+   <trkpt lat="53.715183" lon="9.991844"><ele>32.25</ele></trkpt>
+   <trkpt lat="53.715465" lon="9.991825"><ele>33</ele></trkpt>
+   <trkpt lat="53.716477" lon="9.991773"><ele>31.75</ele></trkpt>
+   <trkpt lat="53.716564" lon="9.99177"><ele>31.25</ele></trkpt>
+   <trkpt lat="53.716571" lon="9.99177"><ele>31.25</ele></trkpt>
+   <trkpt lat="53.716699" lon="9.99176"><ele>31</ele></trkpt>
+   <trkpt lat="53.717028" lon="9.991737"><ele>31</ele></trkpt>
+   <trkpt lat="53.717135" lon="9.99173"><ele>30.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

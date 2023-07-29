@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 560 filtered ascend = 1 plain-ascend = 0 cost=560 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>9122 Ulzburg Süd Weiche OOO2 - Ulzburg Süd Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/53.77198/9.97237/standard&amp;lonlats=9.971587,53.766962;9.972064,53.771805&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.766962" lon="9.971589"><ele>34.25</ele></trkpt>
+   <trkpt lat="53.766964" lon="9.971589"><ele>34.25</ele></trkpt>
+   <trkpt lat="53.767668" lon="9.971264"><ele>32.75</ele></trkpt>
+   <trkpt lat="53.768156" lon="9.971063"><ele>32.75</ele></trkpt>
+   <trkpt lat="53.768517" lon="9.970959"><ele>33</ele></trkpt>
+   <trkpt lat="53.768854" lon="9.970925"><ele>33.5</ele></trkpt>
+   <trkpt lat="53.769194" lon="9.970915"><ele>33.75</ele></trkpt>
+   <trkpt lat="53.769828" lon="9.971022"><ele>35.25</ele></trkpt>
+   <trkpt lat="53.7702" lon="9.971169"><ele>35</ele></trkpt>
+   <trkpt lat="53.770568" lon="9.971359"><ele>34.25</ele></trkpt>
+   <trkpt lat="53.770935" lon="9.971569"><ele>33.75</ele></trkpt>
+   <trkpt lat="53.771802" lon="9.972062"><ele>34</ele></trkpt>
+   <trkpt lat="53.771804" lon="9.972063"><ele>33.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

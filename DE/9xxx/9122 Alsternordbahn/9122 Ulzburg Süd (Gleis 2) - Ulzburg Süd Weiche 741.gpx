@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 1 plain-ascend = 1 cost=86 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>9122 Ulzburg Süd (Gleis 2) - Ulzburg Süd Weiche 741</name>
+  <link href="https://bikerouter.de/#map=19/53.77314/9.97312/standard&amp;lonlats=9.972964,53.773371;9.972555,53.772661&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.773369" lon="9.972964"><ele>32.5</ele></trkpt>
+   <trkpt lat="53.773233" lon="9.972886"><ele>32.5</ele></trkpt>
+   <trkpt lat="53.772754" lon="9.972608"><ele>33.25</ele></trkpt>
+   <trkpt lat="53.772676" lon="9.97256"><ele>33.5</ele></trkpt>
+   <trkpt lat="53.772663" lon="9.972555"><ele>33.5</ele></trkpt>
+   <trkpt lat="53.77266" lon="9.972553"><ele>33.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
