@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=26 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>1041 Neumünster Weiche 31 - Neumünster Weiche 70</name>
+  <link href="https://bikerouter.de/#map=19/54.07985/9.98125/standard&amp;lonlats=9.981593,54.079443;9.981661,54.079655&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.079443" lon="9.981593"><ele>22.25</ele></trkpt>
+   <trkpt lat="54.079534" lon="9.981627"><ele>22.25</ele></trkpt>
+   <trkpt lat="54.079558" lon="9.981635"><ele>22.25</ele></trkpt>
+   <trkpt lat="54.079653" lon="9.981668"><ele>22.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
