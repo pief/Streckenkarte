@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = 1 cost=90 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>1210 Itzehoe Weiche 3 - Itzehoe Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/53.91984/9.51207/standard&amp;lonlats=9.511408,53.919456;9.511371,53.92023&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.919454" lon="9.511413"><ele>2</ele></trkpt>
+   <trkpt lat="53.919458" lon="9.511414"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.919651" lon="9.511426"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.919915" lon="9.511411"><ele>2.75</ele></trkpt>
+   <trkpt lat="53.920229" lon="9.511373"><ele>2.5</ele></trkpt>
+   <trkpt lat="53.92023" lon="9.511373"><ele>2.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

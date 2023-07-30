@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 201 filtered ascend = 0 plain-ascend = 0 cost=201 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>1210 Itzehoe Weiche 201 - Itzehoe Weiche 204</name>
+  <link href="https://bikerouter.de/#map=19/53.91174/9.50604/standard&amp;lonlats=9.505564,53.911673;9.506722,53.913324&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.911672" lon="9.505564"><ele>-2</ele></trkpt>
+   <trkpt lat="53.911675" lon="9.505567"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.913322" lon="9.506723"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.913323" lon="9.506723"><ele>-1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
