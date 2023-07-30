@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>1043 Neumünster Weiche 22 - Neumünster Weiche 23</name>
+  <link href="https://bikerouter.de/#map=19/54.07795/9.98132/standard&amp;lonlats=9.981004,54.077761;9.981092,54.078206&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.077759" lon="9.981004"><ele>22.25</ele></trkpt>
+   <trkpt lat="54.077761" lon="9.981005"><ele>22.25</ele></trkpt>
+   <trkpt lat="54.078208" lon="9.981093"><ele>22</ele></trkpt>
+   <trkpt lat="54.078205" lon="9.981091"><ele>22</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
