@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 411 filtered ascend = 1 plain-ascend = 1 cost=411 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>1218 Lägerdorf Zementwerk Weiche SSS1 - Lägerdorf Zementwerk hinter Beladevorichtung</name>
+  <link href="https://bikerouter.de/#map=18/53.87541/9.58275/standard&amp;lonlats=9.579021,53.8733;9.582674,53.876151&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.8733" lon="9.579019"><ele>-1</ele></trkpt>
+   <trkpt lat="53.873301" lon="9.579024"><ele>-1</ele></trkpt>
+   <trkpt lat="53.873385" lon="9.579408"><ele>-1.25</ele></trkpt>
+   <trkpt lat="53.873492" lon="9.579725"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.873575" lon="9.579908"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.873666" lon="9.580074"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.873807" lon="9.580277"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.873932" lon="9.580419"><ele>-1.25</ele></trkpt>
+   <trkpt lat="53.874345" lon="9.58084"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.875616" lon="9.582113"><ele>0</ele></trkpt>
+   <trkpt lat="53.876148" lon="9.582678"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 482 filtered ascend = 0 plain-ascend = 0 cost=482 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>1218 Lägerdorf Rbf Weiche WWW1 - Lägerdorf Rbf Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/53.88651/9.56853/standard&amp;lonlats=9.561614,53.888758;9.567609,53.886706;9.567906,53.886605&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.888757" lon="9.561613"><ele>5</ele></trkpt>
+   <trkpt lat="53.888757" lon="9.561616"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.887869" lon="9.564197"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.886706" lon="9.567609"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.886607" lon="9.567902"><ele>5.5</ele></trkpt>
+   <trkpt lat="53.886605" lon="9.567906"><ele>5.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
