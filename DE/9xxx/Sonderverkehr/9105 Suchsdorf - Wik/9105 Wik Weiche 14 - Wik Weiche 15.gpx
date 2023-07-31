@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 1 plain-ascend = 1 cost=25 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9105 Wik Weiche 14 - Wik Weiche 15</name>
+  <link href="https://bikerouter.de/#map=19/54.36684/10.12517/standard&amp;lonlats=10.125001,54.36694;10.124642,54.366987&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.366936" lon="10.124999"><ele>7.25</ele></trkpt>
+   <trkpt lat="54.366987" lon="10.124644"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.366987" lon="10.124642"><ele>8.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

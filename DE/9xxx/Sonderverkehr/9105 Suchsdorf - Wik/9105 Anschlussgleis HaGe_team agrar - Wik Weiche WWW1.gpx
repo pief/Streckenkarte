@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = 0 cost=99 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9105 Anschlussgleis HaGe/team agrar - Wik Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/54.36753/10.11989/standard&amp;lonlats=10.119459,54.367772;10.120916,54.367565&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.367772" lon="10.119459"><ele>11.5</ele></trkpt>
+   <trkpt lat="54.367758" lon="10.119558"><ele>11.25</ele></trkpt>
+   <trkpt lat="54.367604" lon="10.120622"><ele>11.25</ele></trkpt>
+   <trkpt lat="54.367565" lon="10.120916"><ele>11.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
