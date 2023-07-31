@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5229 filtered ascend = 2 plain-ascend = 2 cost=5229 energy=0.1kwh time=6m 58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1210 Krempe (Gleis 2) - Kremperheide (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/53.88254/9.47982/standard&amp;lonlats=9.482691,53.836322;9.47993,53.882678&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.836321" lon="9.482689"><ele>-0.25</ele></trkpt>
+   <trkpt lat="53.837227" lon="9.483032"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.837687" lon="9.483205"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.8427" lon="9.485233"><ele>-2</ele></trkpt>
+   <trkpt lat="53.84279" lon="9.485267"><ele>-2</ele></trkpt>
+   <trkpt lat="53.845156" lon="9.486205"><ele>-3.25</ele></trkpt>
+   <trkpt lat="53.84639" lon="9.486571"><ele>-3</ele></trkpt>
+   <trkpt lat="53.847408" lon="9.486666"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.848285" lon="9.486674"><ele>-3</ele></trkpt>
+   <trkpt lat="53.848423" lon="9.486662"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.855706" lon="9.485633"><ele>-2</ele></trkpt>
+   <trkpt lat="53.858615" lon="9.485124"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.866004" lon="9.483929"><ele>-4.75</ele></trkpt>
+   <trkpt lat="53.872118" lon="9.483122"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.872263" lon="9.483103"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.875505" lon="9.482206"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.879416" lon="9.48101"><ele>0</ele></trkpt>
+   <trkpt lat="53.879993" lon="9.480811"><ele>0</ele></trkpt>
+   <trkpt lat="53.881501" lon="9.480299"><ele>1</ele></trkpt>
+   <trkpt lat="53.881796" lon="9.480209"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.882678" lon="9.479935"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

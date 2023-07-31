@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5995 filtered ascend = 1 plain-ascend = 1 cost=5995 energy=0.1kwh time=8m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18">
+ <trk>
+  <name>1210 Siethwende (Gleis 1) - Herzhorn (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/53.78288/9.48334/standard&amp;lonlats=9.571865,53.787025;9.482317,53.783349&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.787016" lon="9.571863"><ele>-2</ele></trkpt>
+   <trkpt lat="53.787056" lon="9.57119"><ele>-2</ele></trkpt>
+   <trkpt lat="53.787977" lon="9.554535"><ele>-0.75</ele></trkpt>
+   <trkpt lat="53.788818" lon="9.539245"><ele>-1.5</ele></trkpt>
+   <trkpt lat="53.78893" lon="9.53696"><ele>-2</ele></trkpt>
+   <trkpt lat="53.789111" lon="9.533868"><ele>-3</ele></trkpt>
+   <trkpt lat="53.789158" lon="9.532311"><ele>-2</ele></trkpt>
+   <trkpt lat="53.789174" lon="9.530767"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.789165" lon="9.529834"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.789119" lon="9.52891"><ele>-2</ele></trkpt>
+   <trkpt lat="53.789025" lon="9.527595"><ele>-2</ele></trkpt>
+   <trkpt lat="53.788884" lon="9.526262"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.786478" lon="9.507069"><ele>-2</ele></trkpt>
+   <trkpt lat="53.785967" lon="9.503138"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.784935" lon="9.494937"><ele>-3.75</ele></trkpt>
+   <trkpt lat="53.783638" lon="9.484621"><ele>-1</ele></trkpt>
+   <trkpt lat="53.783594" lon="9.484259"><ele>-1</ele></trkpt>
+   <trkpt lat="53.783554" lon="9.483948"><ele>-1</ele></trkpt>
+   <trkpt lat="53.783345" lon="9.482317"><ele>-1.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
