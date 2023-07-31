@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 2 plain-ascend = 3 cost=288 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1020 Suchsdorf Weiche 1 - Suchsdorf Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/54.34851/10.09224/standard&amp;lonlats=10.089049,54.346367;10.090586,54.348754&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.346364" lon="10.089053"><ele>16.5</ele></trkpt>
+   <trkpt lat="54.346368" lon="10.089055"><ele>16.75</ele></trkpt>
+   <trkpt lat="54.346541" lon="10.089159"><ele>17.5</ele></trkpt>
+   <trkpt lat="54.346918" lon="10.089357"><ele>17.75</ele></trkpt>
+   <trkpt lat="54.34754" lon="10.089783"><ele>17.75</ele></trkpt>
+   <trkpt lat="54.347831" lon="10.089982"><ele>18.25</ele></trkpt>
+   <trkpt lat="54.348234" lon="10.090235"><ele>18.75</ele></trkpt>
+   <trkpt lat="54.348753" lon="10.090587"><ele>19</ele></trkpt>
+   <trkpt lat="54.348753" lon="10.090587"><ele>19</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
