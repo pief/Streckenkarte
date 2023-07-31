@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2453 filtered ascend = 5 plain-ascend = 5 cost=2453 energy=0.0kwh time=3m 16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1220 Prisdorf (Gleis 1) - Tornesch Weiche 1</name>
+  <link href="https://bikerouter.de/#map=17/53.68707/9.73424/standard&amp;lonlats=9.75855,53.676044;9.728834,53.689158&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.676044" lon="9.75855"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.676841" lon="9.756753"><ele>3</ele></trkpt>
+   <trkpt lat="53.678034" lon="9.754113"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.678594" lon="9.752827"><ele>0.5</ele></trkpt>
+   <trkpt lat="53.679591" lon="9.750537"><ele>2</ele></trkpt>
+   <trkpt lat="53.682095" lon="9.744799"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.682394" lon="9.744165"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.683287" lon="9.742277"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.68514" lon="9.738033"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.68775" lon="9.7321"><ele>8.5</ele></trkpt>
+   <trkpt lat="53.688108" lon="9.731288"><ele>8.5</ele></trkpt>
+   <trkpt lat="53.689158" lon="9.728834"><ele>9</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
