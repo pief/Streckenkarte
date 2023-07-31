@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5241 filtered ascend = 0 plain-ascend = 0 cost=5241 energy=0.1kwh time=6m 59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1210 Kremperheide (Gleis 1) - Krempe (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/53.83349/9.48251/standard&amp;lonlats=9.480638,53.880304;9.481652,53.833831&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.880304" lon="9.48064"><ele>0.25</ele></trkpt>
+   <trkpt lat="53.879426" lon="9.480943"><ele>0</ele></trkpt>
+   <trkpt lat="53.875515" lon="9.482139"><ele>-2</ele></trkpt>
+   <trkpt lat="53.872259" lon="9.483026"><ele>-1.75</ele></trkpt>
+   <trkpt lat="53.866014" lon="9.483862"><ele>-4.75</ele></trkpt>
+   <trkpt lat="53.85861" lon="9.485059"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.855719" lon="9.485551"><ele>-2</ele></trkpt>
+   <trkpt lat="53.848421" lon="9.486569"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.848287" lon="9.486582"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.847402" lon="9.486587"><ele>-2.75</ele></trkpt>
+   <trkpt lat="53.846389" lon="9.486479"><ele>-3</ele></trkpt>
+   <trkpt lat="53.845071" lon="9.486098"><ele>-3.5</ele></trkpt>
+   <trkpt lat="53.842794" lon="9.485197"><ele>-2</ele></trkpt>
+   <trkpt lat="53.842698" lon="9.485158"><ele>-2</ele></trkpt>
+   <trkpt lat="53.839318" lon="9.483794"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.837671" lon="9.483132"><ele>-2.25</ele></trkpt>
+   <trkpt lat="53.835187" lon="9.482191"><ele>0.75</ele></trkpt>
+   <trkpt lat="53.834951" lon="9.482098"><ele>1</ele></trkpt>
+   <trkpt lat="53.834738" lon="9.482014"><ele>1</ele></trkpt>
+   <trkpt lat="53.833828" lon="9.481659"><ele>0.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

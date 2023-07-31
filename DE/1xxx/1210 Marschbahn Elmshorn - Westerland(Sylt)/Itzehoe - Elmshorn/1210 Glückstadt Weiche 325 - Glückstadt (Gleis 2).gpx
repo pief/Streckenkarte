@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 428 filtered ascend = 0 plain-ascend = -3 cost=428 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1210 Glückstadt Weiche 325 - Glückstadt (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/53.78934/9.42755/standard&amp;lonlats=9.42444,53.791543;9.428318,53.78853&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.791543" lon="9.424441"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.791142" lon="9.424774"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.790793" lon="9.425085"><ele>3</ele></trkpt>
+   <trkpt lat="53.789632" lon="9.426522"><ele>2</ele></trkpt>
+   <trkpt lat="53.789252" lon="9.427125"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.789168" lon="9.427272"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.78853" lon="9.428318"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
