@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 0 plain-ascend = 0 cost=41 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1031 Meimersdorf Weiche 23W5 - Meimersdorf Weiche 23W7</name>
+  <link href="https://bikerouter.de/#map=19/54.28137/10.09904/standard&amp;lonlats=10.097603,54.281044;10.097962,54.281329&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.281043" lon="10.097602"><ele>18</ele></trkpt>
+   <trkpt lat="54.281047" lon="10.097608"><ele>18</ele></trkpt>
+   <trkpt lat="54.281206" lon="10.097819"><ele>17.75</ele></trkpt>
+   <trkpt lat="54.281328" lon="10.097961"><ele>17.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
