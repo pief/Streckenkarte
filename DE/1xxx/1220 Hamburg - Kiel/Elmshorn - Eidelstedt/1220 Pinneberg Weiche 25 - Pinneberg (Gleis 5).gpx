@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 461 filtered ascend = 1 plain-ascend = 2 cost=461 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1220 Pinneberg Weiche 25 - Pinneberg (Gleis 5)</name>
+  <link href="https://bikerouter.de/#map=19/53.65507/9.79822/standard&amp;lonlats=9.793139,53.658149;9.797614,53.654998&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.65815" lon="9.793142"><ele>6.25</ele></trkpt>
+   <trkpt lat="53.65755" lon="9.793983"><ele>6.5</ele></trkpt>
+   <trkpt lat="53.657537" lon="9.794002"><ele>6.5</ele></trkpt>
+   <trkpt lat="53.656282" lon="9.795749"><ele>7.75</ele></trkpt>
+   <trkpt lat="53.655951" lon="9.796204"><ele>7.75</ele></trkpt>
+   <trkpt lat="53.655456" lon="9.796924"><ele>7.75</ele></trkpt>
+   <trkpt lat="53.65527" lon="9.797196"><ele>7.75</ele></trkpt>
+   <trkpt lat="53.654996" lon="9.79761"><ele>7.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

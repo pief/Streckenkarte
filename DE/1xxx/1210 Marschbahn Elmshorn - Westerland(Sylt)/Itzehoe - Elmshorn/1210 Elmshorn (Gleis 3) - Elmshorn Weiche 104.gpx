@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 486 filtered ascend = 1 plain-ascend = 1 cost=486 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1210 Elmshorn (Gleis 3) - Elmshorn Weiche 104</name>
+  <link href="https://bikerouter.de/#map=19/53.75050/9.66103/standard&amp;lonlats=9.659168,53.754213;9.660518,53.749969&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.754213" lon="9.659168"><ele>4</ele></trkpt>
+   <trkpt lat="53.754202" lon="9.659172"><ele>4</ele></trkpt>
+   <trkpt lat="53.754115" lon="9.659199"><ele>4</ele></trkpt>
+   <trkpt lat="53.753799" lon="9.65929"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.753165" lon="9.659457"><ele>4.25</ele></trkpt>
+   <trkpt lat="53.751717" lon="9.659867"><ele>4</ele></trkpt>
+   <trkpt lat="53.751159" lon="9.660063"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.750235" lon="9.660429"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.74997" lon="9.660514"><ele>5</ele></trkpt>
+   <trkpt lat="53.749968" lon="9.660514"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 273 filtered ascend = 0 plain-ascend = 1 cost=273 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1220 Tornesch (Gleis 1) - Tornesch Weiche 16</name>
+  <link href="https://bikerouter.de/#map=19/53.69528/9.71850/standard&amp;lonlats=9.715236,53.69698;9.717627,53.69502&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.696983" lon="9.715244"><ele>9</ele></trkpt>
+   <trkpt lat="53.6964" lon="9.715931"><ele>8.75</ele></trkpt>
+   <trkpt lat="53.696351" lon="9.715988"><ele>8.75</ele></trkpt>
+   <trkpt lat="53.69592" lon="9.716488"><ele>9.5</ele></trkpt>
+   <trkpt lat="53.6958" lon="9.716628"><ele>9.75</ele></trkpt>
+   <trkpt lat="53.69502" lon="9.717629"><ele>9.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
