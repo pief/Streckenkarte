@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 182 filtered ascend = 0 plain-ascend = -1 cost=182 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9129 Uetersen Ossenpadd Weiche 6 - Uetersen Ost Weiche 7</name>
+  <link href="https://bikerouter.de/#map=19/53.68234/9.68172/standard&amp;lonlats=9.683481,53.683163;9.681565,53.682024&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.683162" lon="9.68348"><ele>8.25</ele></trkpt>
+   <trkpt lat="53.682489" lon="9.682375"><ele>6</ele></trkpt>
+   <trkpt lat="53.682405" lon="9.682223"><ele>6</ele></trkpt>
+   <trkpt lat="53.682345" lon="9.682098"><ele>6</ele></trkpt>
+   <trkpt lat="53.682049" lon="9.681606"><ele>6.25</ele></trkpt>
+   <trkpt lat="53.682026" lon="9.681568"><ele>6.25</ele></trkpt>
+   <trkpt lat="53.682023" lon="9.681564"><ele>6.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

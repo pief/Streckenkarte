@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 195 filtered ascend = 0 plain-ascend = -1 cost=195 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1220 Tornesch Weiche 15 - Tornesch Weiche 10</name>
+  <link href="https://bikerouter.de/#map=19/53.69379/9.72048/standard&amp;lonlats=9.717729,53.694941;9.719532,53.693603&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.694941" lon="9.717729"><ele>9.75</ele></trkpt>
+   <trkpt lat="53.69494" lon="9.717731"><ele>9.75</ele></trkpt>
+   <trkpt lat="53.694736" lon="9.717991"><ele>9.25</ele></trkpt>
+   <trkpt lat="53.694446" lon="9.718316"><ele>8.5</ele></trkpt>
+   <trkpt lat="53.69422" lon="9.71861"><ele>8</ele></trkpt>
+   <trkpt lat="53.694088" lon="9.718799"><ele>7.75</ele></trkpt>
+   <trkpt lat="53.693603" lon="9.719533"><ele>8.25</ele></trkpt>
+   <trkpt lat="53.693603" lon="9.719532"><ele>8</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
