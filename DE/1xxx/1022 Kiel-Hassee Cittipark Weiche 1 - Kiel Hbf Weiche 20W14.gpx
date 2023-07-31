@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 2356 filtered ascend = 0 plain-ascend = -14 cost=2357 energy=0.0kwh time=3m 8s -->
+<!-- track-length = 2242 filtered ascend = 10 plain-ascend = -6 cost=2252 energy=0.0kwh time=3m  -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.18a">
  <trk>
-  <name>1022 Kiel-Hassee Cittipark Weiche 2 - Kiel Hbf Weiche 20W14</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/54.31103/10.13048/standard&amp;lonlats=10.100266,54.308341;10.129569,54.311033&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>1022 Kiel-Hassee Cittipark Weiche 1 - Kiel Hbf Weiche 20W14</name>
+  <link href="https://bikerouter.de/#map=18/54.30688/10.10468/standard&amp;lonlats=10.10122,54.307498;10.102824,54.306654;10.104473,54.306163;10.106317,54.305915;10.108361,54.30595;10.112604,54.306607;10.120161,54.307128;10.125075,54.307008;10.127003,54.307423;10.128314,54.308192;10.128723,54.308745;10.129133,54.310099;10.129566,54.311032&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="54.308341" lon="10.100266"><ele>26.5</ele></trkpt>
-   <trkpt lat="54.308296" lon="10.100306"><ele>26.5</ele></trkpt>
-   <trkpt lat="54.308085" lon="10.100508"><ele>26.5</ele></trkpt>
-   <trkpt lat="54.308017" lon="10.100578"><ele>26.25</ele></trkpt>
-   <trkpt lat="54.307959" lon="10.100643"><ele>26.25</ele></trkpt>
-   <trkpt lat="54.307704" lon="10.100943"><ele>25.75</ele></trkpt>
+   <trkpt lat="54.307498" lon="10.10122"><ele>24.75</ele></trkpt>
    <trkpt lat="54.307496" lon="10.101224"><ele>24.75</ele></trkpt>
    <trkpt lat="54.30739" lon="10.101378"><ele>24.5</ele></trkpt>
    <trkpt lat="54.307193" lon="10.101698"><ele>24.25</ele></trkpt>
@@ -86,7 +81,7 @@
    <trkpt lat="54.310384" lon="10.129246"><ele>11.5</ele></trkpt>
    <trkpt lat="54.310663" lon="10.129374"><ele>11.5</ele></trkpt>
    <trkpt lat="54.310986" lon="10.129543"><ele>11.75</ele></trkpt>
-   <trkpt lat="54.311032" lon="10.129566"><ele>11.75</ele></trkpt>
+   <trkpt lat="54.311031" lon="10.129565"><ele>11.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
