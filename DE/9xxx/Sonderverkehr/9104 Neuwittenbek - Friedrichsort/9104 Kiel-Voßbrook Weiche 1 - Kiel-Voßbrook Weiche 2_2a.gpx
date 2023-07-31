@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=44 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9104 Kiel-Voßbrook Weiche 1 - Kiel-Voßbrook Weiche 2/2a</name>
+  <link href="https://bikerouter.de/#map=19/54.38304/10.16187/standard&amp;lonlats=10.160398,54.383722;10.160607,54.383357&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.383721" lon="10.160398"/>
+   <trkpt lat="54.383357" lon="10.160607"/>
+   <trkpt lat="54.383357" lon="10.160607"/>
+  </trkseg>
+ </trk>
+</gpx>

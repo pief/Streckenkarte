@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 340 filtered ascend = 3 plain-ascend = 4 cost=340 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9104 Kiel-Schusterkrug Weiche 1 - Kiel-Voßbrook Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/54.38332/10.16207/standard&amp;lonlats=10.15797,54.386378;10.160398,54.383722&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.386378" lon="10.15797"><ele>0.75</ele></trkpt>
+   <trkpt lat="54.386378" lon="10.157971"><ele>0.75</ele></trkpt>
+   <trkpt lat="54.385438" lon="10.158873"><ele>1</ele></trkpt>
+   <trkpt lat="54.385356" lon="10.158961"><ele>1.25</ele></trkpt>
+   <trkpt lat="54.384951" lon="10.159341"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.384599" lon="10.159694"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.384032" lon="10.160213"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.383723" lon="10.160397"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.383721" lon="10.160398"><ele>4.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
