@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 153 filtered ascend = 0 plain-ascend = 1 cost=153 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1023 Anschlussgleis Kiel-Wellsee Weiche 3 - Anschlussgleis Kiel-Wellsee Weiche 4</name>
+  <link href="https://bikerouter.de/#map=17/54.27691/10.15410/standard&amp;lonlats=10.154047,54.277229;10.154425,54.275944&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.277229" lon="10.154047"><ele>46.25</ele></trkpt>
+   <trkpt lat="54.27696" lon="10.154261"><ele>46.5</ele></trkpt>
+   <trkpt lat="54.276799" lon="10.154356"><ele>46.75</ele></trkpt>
+   <trkpt lat="54.276597" lon="10.154436"><ele>47</ele></trkpt>
+   <trkpt lat="54.276499" lon="10.154462"><ele>47</ele></trkpt>
+   <trkpt lat="54.276397" lon="10.154474"><ele>47</ele></trkpt>
+   <trkpt lat="54.276196" lon="10.154477"><ele>47</ele></trkpt>
+   <trkpt lat="54.275951" lon="10.154417"><ele>46.75</ele></trkpt>
+   <trkpt lat="54.275944" lon="10.154414"><ele>46.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
