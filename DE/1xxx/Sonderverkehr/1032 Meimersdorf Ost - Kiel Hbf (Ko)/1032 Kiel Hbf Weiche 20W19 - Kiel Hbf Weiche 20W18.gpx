@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=55 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1032 Kiel Hbf Weiche 20W19 - Kiel Hbf Weiche 20W18</name>
+  <link href="https://bikerouter.de/#map=19/54.31033/10.12988/standard&amp;lonlats=10.129912,54.310035;10.12995,54.310484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.310033" lon="10.129916"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.310036" lon="10.129917"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.310084" lon="10.129919"><ele>8.25</ele></trkpt>
+   <trkpt lat="54.310263" lon="10.129937"><ele>8.5</ele></trkpt>
+   <trkpt lat="54.310491" lon="10.129957"><ele>8.75</ele></trkpt>
+   <trkpt lat="54.310482" lon="10.129954"><ele>8.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
