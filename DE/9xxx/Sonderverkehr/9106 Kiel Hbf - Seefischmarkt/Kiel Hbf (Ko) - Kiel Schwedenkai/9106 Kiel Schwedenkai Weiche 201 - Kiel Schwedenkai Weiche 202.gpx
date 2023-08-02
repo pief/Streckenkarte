@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 398 filtered ascend = 0 plain-ascend = -1 cost=398 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9106 Kiel Schwedenkai Weiche 201 - Kiel Schwedenkai Weiche 202</name>
+  <link href="https://bikerouter.de/#map=19/54.31450/10.13334/standard&amp;lonlats=10.13142,54.311311;10.133509,54.314629&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.311309" lon="10.131422"><ele>4</ele></trkpt>
+   <trkpt lat="54.311312" lon="10.131423"><ele>4</ele></trkpt>
+   <trkpt lat="54.311525" lon="10.131508"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.311705" lon="10.131618"><ele>2.25</ele></trkpt>
+   <trkpt lat="54.312167" lon="10.132006"><ele>2.25</ele></trkpt>
+   <trkpt lat="54.312414" lon="10.132172"><ele>2.25</ele></trkpt>
+   <trkpt lat="54.314625" lon="10.133508"><ele>2.25</ele></trkpt>
+   <trkpt lat="54.314628" lon="10.133509"><ele>2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

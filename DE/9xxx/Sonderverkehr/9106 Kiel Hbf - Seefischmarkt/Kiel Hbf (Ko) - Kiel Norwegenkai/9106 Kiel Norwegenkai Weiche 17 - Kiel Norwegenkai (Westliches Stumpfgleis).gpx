@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 0 plain-ascend = 0 cost=126 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9106 Kiel Norwegenkai Weiche 17 - Kiel Norwegenkai (Westliches Stumpfgleis)</name>
+  <link href="https://bikerouter.de/#map=18/54.31599/10.14139/standard&amp;lonlats=10.140609,54.314564;10.141101,54.315604&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.314563" lon="10.14061"><ele>4</ele></trkpt>
+   <trkpt lat="54.314842" lon="10.140881"><ele>3.5</ele></trkpt>
+   <trkpt lat="54.314944" lon="10.14096"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.315076" lon="10.14104"><ele>3</ele></trkpt>
+   <trkpt lat="54.315204" lon="10.141088"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.315319" lon="10.141111"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.315447" lon="10.141119"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.315527" lon="10.141115"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.315603" lon="10.141098"><ele>3.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
