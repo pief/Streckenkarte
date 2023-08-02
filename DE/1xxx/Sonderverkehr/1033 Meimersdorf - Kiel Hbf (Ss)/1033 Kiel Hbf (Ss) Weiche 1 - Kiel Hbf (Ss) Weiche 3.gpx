@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 217 filtered ascend = 0 plain-ascend = -1 cost=217 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1033 Kiel Hbf (Ss) Weiche 1 - Kiel Hbf (Ss) Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/54.29601/10.14270/standard&amp;lonlats=10.141145,54.296383;10.144237,54.295852&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.296382" lon="10.141144"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.296383" lon="10.141146"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.296376" lon="10.141466"><ele>24.75</ele></trkpt>
+   <trkpt lat="54.29636" lon="10.141736"><ele>24.5</ele></trkpt>
+   <trkpt lat="54.296316" lon="10.142163"><ele>24</ele></trkpt>
+   <trkpt lat="54.296253" lon="10.142565"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.29621" lon="10.142784"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.296077" lon="10.143378"><ele>22.75</ele></trkpt>
+   <trkpt lat="54.295977" lon="10.143802"><ele>23.25</ele></trkpt>
+   <trkpt lat="54.295852" lon="10.144237"><ele>23.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
