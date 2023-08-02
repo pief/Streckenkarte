@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 1 plain-ascend = 1 cost=77 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9107 Kiel-Oppendorf Weiche 41W3 - Kiel-Oppendorf Weiche 41W13</name>
+  <link href="https://bikerouter.de/#map=19/54.32723/10.21065/standard&amp;lonlats=10.210354,54.327113;10.211092,54.3276&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.327112" lon="10.210353"><ele>20.25</ele></trkpt>
+   <trkpt lat="54.327114" lon="10.210356"><ele>20.5</ele></trkpt>
+   <trkpt lat="54.327236" lon="10.210561"><ele>20.5</ele></trkpt>
+   <trkpt lat="54.327351" lon="10.210736"><ele>20.75</ele></trkpt>
+   <trkpt lat="54.327601" lon="10.211095"><ele>21.25</ele></trkpt>
+   <trkpt lat="54.327599" lon="10.211091"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 0 plain-ascend = 2 cost=104 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9107 Kiel-Ostuferhafen Weiche 8 - Kiel-Ostuferhafen Weiche 9</name>
+  <link href="https://bikerouter.de/#map=19/54.33287/10.17800/standard&amp;lonlats=10.178399,54.333691;10.177892,54.333045;10.177814,54.332881&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.33369" lon="10.178399"><ele>5.5</ele></trkpt>
+   <trkpt lat="54.33349" lon="10.178192"><ele>5.25</ele></trkpt>
+   <trkpt lat="54.333361" lon="10.178082"><ele>5.25</ele></trkpt>
+   <trkpt lat="54.333098" lon="10.177919"><ele>5.75</ele></trkpt>
+   <trkpt lat="54.333043" lon="10.177894"><ele>6</ele></trkpt>
+   <trkpt lat="54.332882" lon="10.17782"><ele>6.75</ele></trkpt>
+   <trkpt lat="54.332879" lon="10.177819"><ele>6.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
