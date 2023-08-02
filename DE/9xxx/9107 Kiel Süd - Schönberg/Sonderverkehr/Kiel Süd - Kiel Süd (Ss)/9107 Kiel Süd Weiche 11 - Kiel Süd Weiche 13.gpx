@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>9107 Kiel Süd Weiche 11 - Kiel Süd Weiche 13</name>
+  <link href="https://bikerouter.de/#map=19/54.29885/10.14000/standard&amp;lonlats=10.139796,54.299122;10.1403,54.298627&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.299121" lon="10.139794"><ele>20.5</ele></trkpt>
+   <trkpt lat="54.299116" lon="10.139799"><ele>20.5</ele></trkpt>
+   <trkpt lat="54.298759" lon="10.140179"><ele>20.75</ele></trkpt>
+   <trkpt lat="54.298631" lon="10.140303"><ele>20.75</ele></trkpt>
+   <trkpt lat="54.298628" lon="10.140305"><ele>20.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
