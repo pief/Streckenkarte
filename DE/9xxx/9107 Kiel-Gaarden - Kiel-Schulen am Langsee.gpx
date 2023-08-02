@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1659 filtered ascend = 11 plain-ascend = 9 cost=1659 energy=0.0kwh time=2m 13s -->
+<!-- track-length = 1638 filtered ascend = 11 plain-ascend = 11 cost=1646 energy=0.0kwh time=2m 12s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.18a">
  <trk>
   <name>9107 Kiel-Gaarden - Kiel-Schulen am Langsee</name>
-  <link href="https://brouter.damsy.net/latest/#map=21/54.29628/10.14469/standard&amp;lonlats=10.144698,54.296277;10.157248,54.307463&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=18/54.29662/10.14487/standard&amp;lonlats=10.145018,54.296279;10.146891,54.296253;10.148288,54.296394;10.14961,54.296795;10.150118,54.297054;10.150731,54.297499;10.151201,54.298073;10.152057,54.300094;10.154518,54.304416;10.157247,54.307462&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="54.296283" lon="10.144698"><ele>24</ele></trkpt>
+   <trkpt lat="54.296273" lon="10.145017"><ele>24.5</ele></trkpt>
    <trkpt lat="54.296268" lon="10.145205"><ele>25</ele></trkpt>
    <trkpt lat="54.296267" lon="10.14524"><ele>25</ele></trkpt>
    <trkpt lat="54.296248" lon="10.145891"><ele>26</ele></trkpt>
@@ -61,7 +61,7 @@
    <trkpt lat="54.307121" lon="10.156939"><ele>32.25</ele></trkpt>
    <trkpt lat="54.30719" lon="10.156992"><ele>32.25</ele></trkpt>
    <trkpt lat="54.307205" lon="10.157007"><ele>32.25</ele></trkpt>
-   <trkpt lat="54.307462" lon="10.157247"><ele>32.5</ele></trkpt>
+   <trkpt lat="54.307461" lon="10.157247"><ele>32.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
