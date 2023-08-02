@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 193 filtered ascend = 0 plain-ascend = -1 cost=193 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>7644 Kiel Hbf (Ss) Weiche 1 - Kiel Süd (Ss) Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/54.29625/10.14188/standard&amp;lonlats=10.141145,54.296383;10.144012,54.296303&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.296382" lon="10.141144"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.296383" lon="10.141146"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.29638" lon="10.142108"><ele>24</ele></trkpt>
+   <trkpt lat="54.296366" lon="10.142374"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.296338" lon="10.142658"><ele>23.5</ele></trkpt>
+   <trkpt lat="54.296315" lon="10.142889"><ele>23</ele></trkpt>
+   <trkpt lat="54.296301" lon="10.143104"><ele>22.75</ele></trkpt>
+   <trkpt lat="54.296296" lon="10.143433"><ele>22.5</ele></trkpt>
+   <trkpt lat="54.296307" lon="10.143808"><ele>23</ele></trkpt>
+   <trkpt lat="54.296303" lon="10.144012"><ele>23</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
