@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1430 filtered ascend = 0 plain-ascend = -2 cost=1430 energy=0.0kwh time=1m 54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Häljarp (Gleis 1) - Landskrona Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/55.86412/12.89012/standard&amp;lonlats=12.911737,55.860925;12.889721,55.864143&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="55.860925" lon="12.911737"><ele>4.75</ele></trkpt>
+   <trkpt lat="55.861243" lon="12.909566"><ele>3.5</ele></trkpt>
+   <trkpt lat="55.861396" lon="12.908524"><ele>2.5</ele></trkpt>
+   <trkpt lat="55.862433" lon="12.901438"><ele>2</ele></trkpt>
+   <trkpt lat="55.862606" lon="12.900225"><ele>2.75</ele></trkpt>
+   <trkpt lat="55.863112" lon="12.896789"><ele>3.5</ele></trkpt>
+   <trkpt lat="55.863377" lon="12.894941"><ele>3.75</ele></trkpt>
+   <trkpt lat="55.863787" lon="12.892169"><ele>2.5</ele></trkpt>
+   <trkpt lat="55.864142" lon="12.889722"><ele>2.25</ele></trkpt>
+   <trkpt lat="55.864142" lon="12.88972"><ele>2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
