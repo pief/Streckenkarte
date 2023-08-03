@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1002 filtered ascend = 1 plain-ascend = 0 cost=1002 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1220 Elmshorn Nord Weiche 140 - (Gleis 113) - Elmshorn Nord Weiche 141</name>
+  <link href="https://bikerouter.de/#map=18/53.76005/9.65798/standard&amp;lonlats=9.655192,53.768847;9.65761,53.760016&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.768847" lon="9.655192"><ele>4</ele></trkpt>
+   <trkpt lat="53.768603" lon="9.655254"><ele>4</ele></trkpt>
+   <trkpt lat="53.768292" lon="9.655301"><ele>4</ele></trkpt>
+   <trkpt lat="53.768163" lon="9.655332"><ele>4.25</ele></trkpt>
+   <trkpt lat="53.768087" lon="9.65535"><ele>4.25</ele></trkpt>
+   <trkpt lat="53.76795" lon="9.655389"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.767607" lon="9.655489"><ele>5</ele></trkpt>
+   <trkpt lat="53.767133" lon="9.655626"><ele>5</ele></trkpt>
+   <trkpt lat="53.764065" lon="9.656525"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.762419" lon="9.656988"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.761811" lon="9.657168"><ele>4</ele></trkpt>
+   <trkpt lat="53.761113" lon="9.657348"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.760018" lon="9.65761"><ele>4</ele></trkpt>
+   <trkpt lat="53.760016" lon="9.65761"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
