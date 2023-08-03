@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1357 filtered ascend = 1 plain-ascend = 0 cost=1357 energy=0.0kwh time=1m 49s -->
+<!-- track-length = 1093 filtered ascend = 1 plain-ascend = 0 cost=1093 energy=0.0kwh time=1m 27s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.16">
+ creator="bikerouter.de 2023.18a">
  <trk>
-  <name>1220 Elmshorn Nord Weiche 157 - Elmshorn Weiche 117</name>
-  <link href="https://bikerouter.de/#map=19/53.75748/9.65889/standard&amp;lonlats=9.654993,53.769537;9.658372,53.757554&amp;profile=rail">
+  <name>1220 Elmshorn Nord Weiche 156 - Elmshorn Nord Weiche 140</name>
+  <link href="https://bikerouter.de/#map=19/53.75943/9.65806/standard&amp;lonlats=9.655191,53.768847;9.657902,53.759203&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="53.769537" lon="9.654993"><ele>4.25</ele></trkpt>
-   <trkpt lat="53.769491" lon="9.655007"><ele>4.25</ele></trkpt>
-   <trkpt lat="53.76889" lon="9.655181"><ele>4</ele></trkpt>
+   <trkpt lat="53.768847" lon="9.655192"><ele>4</ele></trkpt>
    <trkpt lat="53.768851" lon="9.655192"><ele>4</ele></trkpt>
    <trkpt lat="53.767955" lon="9.655458"><ele>4.5</ele></trkpt>
    <trkpt lat="53.767141" lon="9.655694"><ele>5</ele></trkpt>
@@ -22,8 +20,7 @@
    <trkpt lat="53.761817" lon="9.657235"><ele>4</ele></trkpt>
    <trkpt lat="53.759905" lon="9.657709"><ele>4.25</ele></trkpt>
    <trkpt lat="53.759206" lon="9.657906"><ele>4.5</ele></trkpt>
-   <trkpt lat="53.757639" lon="9.658349"><ele>3</ele></trkpt>
-   <trkpt lat="53.757554" lon="9.658373"><ele>3</ele></trkpt>
+   <trkpt lat="53.759203" lon="9.657906"><ele>4.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
