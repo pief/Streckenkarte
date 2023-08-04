@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 0 plain-ascend = 0 cost=382 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6776 Ostseebad Binz (Gleis 1) - Ostseebad Binz Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/54.40778/13.59746/standard&amp;lonlats=13.600452,54.404797;13.59741,54.407696&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.404794" lon="13.600447"><ele>3.75</ele></trkpt>
+   <trkpt lat="54.404811" lon="13.600429"><ele>3.75</ele></trkpt>
+   <trkpt lat="54.405603" lon="13.599597"><ele>4</ele></trkpt>
+   <trkpt lat="54.407355" lon="13.597773"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.407695" lon="13.597414"><ele>3</ele></trkpt>
+   <trkpt lat="54.407696" lon="13.597412"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

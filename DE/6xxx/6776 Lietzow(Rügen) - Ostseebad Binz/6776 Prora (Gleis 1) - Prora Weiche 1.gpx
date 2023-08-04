@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 568 filtered ascend = 0 plain-ascend = 0 cost=568 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6776 Prora (Gleis 1) - Prora Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/54.44994/13.56129/standard&amp;lonlats=13.56416,54.444804;13.561608,54.449668&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.444803" lon="13.564157"><ele>7.75</ele></trkpt>
+   <trkpt lat="54.445563" lon="13.563763"><ele>7.75</ele></trkpt>
+   <trkpt lat="54.447844" lon="13.562564"><ele>7.5</ele></trkpt>
+   <trkpt lat="54.449668" lon="13.561613"><ele>6.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
