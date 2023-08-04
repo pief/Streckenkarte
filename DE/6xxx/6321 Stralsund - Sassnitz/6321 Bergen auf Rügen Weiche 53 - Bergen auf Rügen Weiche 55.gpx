@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = 0 cost=62 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6321 Bergen auf Rügen Weiche 53 - Bergen auf Rügen Weiche 55</name>
+  <link href="https://bikerouter.de/#map=19/54.42159/13.41929/standard&amp;lonlats=13.418724,54.421146;13.41945,54.421467&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.421145" lon="13.418723"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.421148" lon="13.418728"><ele>26.5</ele></trkpt>
+   <trkpt lat="54.421469" lon="13.419453"><ele>26.75</ele></trkpt>
+   <trkpt lat="54.421466" lon="13.419449"><ele>26.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

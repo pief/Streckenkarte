@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6321 Bergen auf Rügen (Gleis 4) - Bergen auf Rügen Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/54.42088/13.41823/standard&amp;lonlats=13.416911,54.420214;13.418233,54.420929&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.420213" lon="13.416911"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.42049" lon="13.417415"><ele>26.75</ele></trkpt>
+   <trkpt lat="54.420703" lon="13.417803"><ele>26.75</ele></trkpt>
+   <trkpt lat="54.420931" lon="13.41824"><ele>26</ele></trkpt>
+   <trkpt lat="54.420927" lon="13.418233"><ele>26</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
