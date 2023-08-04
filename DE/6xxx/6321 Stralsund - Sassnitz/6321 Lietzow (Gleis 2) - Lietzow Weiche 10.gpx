@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 0 plain-ascend = 0 cost=196 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6321 Lietzow (Gleis 2) - Lietzow Weiche 10</name>
+  <link href="https://bikerouter.de/#map=19/54.48097/13.50993/standard&amp;lonlats=13.511794,54.481039;13.50883,54.480854&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.481039" lon="13.511794"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.48104" lon="13.511769"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.481029" lon="13.510999"><ele>0</ele></trkpt>
+   <trkpt lat="54.481017" lon="13.510665"><ele>0</ele></trkpt>
+   <trkpt lat="54.480958" lon="13.509795"><ele>-0.25</ele></trkpt>
+   <trkpt lat="54.480853" lon="13.508832"><ele>-0.75</ele></trkpt>
+   <trkpt lat="54.480852" lon="13.508829"><ele>-0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
