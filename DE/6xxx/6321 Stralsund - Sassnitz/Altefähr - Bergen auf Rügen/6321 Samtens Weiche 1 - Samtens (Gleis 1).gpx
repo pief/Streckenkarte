@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 673 filtered ascend = 3 plain-ascend = 3 cost=673 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6321 Samtens Weiche 1 - Samtens (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/54.35434/13.29065/standard&amp;lonlats=13.281299,54.354365;13.291504,54.354113&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.354362" lon="13.281298"><ele>1.75</ele></trkpt>
+   <trkpt lat="54.354362" lon="13.281301"><ele>1.75</ele></trkpt>
+   <trkpt lat="54.35422" lon="13.283158"><ele>2.5</ele></trkpt>
+   <trkpt lat="54.354048" lon="13.285463"><ele>3.75</ele></trkpt>
+   <trkpt lat="54.354008" lon="13.28631"><ele>4.5</ele></trkpt>
+   <trkpt lat="54.353989" lon="13.289035"><ele>3.25</ele></trkpt>
+   <trkpt lat="54.354007" lon="13.290062"><ele>4</ele></trkpt>
+   <trkpt lat="54.354036" lon="13.290753"><ele>4</ele></trkpt>
+   <trkpt lat="54.354078" lon="13.291231"><ele>4.5</ele></trkpt>
+   <trkpt lat="54.354113" lon="13.291502"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

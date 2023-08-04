@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 913 filtered ascend = 2 plain-ascend = 2 cost=913 energy=0.0kwh time=1m 13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6321 Altefähr (Gleis 1) - Altefähr Weiche 4</name>
+  <link href="https://bikerouter.de/#map=16/54.3295/13.1495/standard&amp;lonlats=13.140931,54.322817;13.149613,54.329183&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.322816" lon="13.14093"><ele>4</ele></trkpt>
+   <trkpt lat="54.323025" lon="13.141312"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.323558" lon="13.142242"><ele>5</ele></trkpt>
+   <trkpt lat="54.324023" lon="13.142987"><ele>5.25</ele></trkpt>
+   <trkpt lat="54.324426" lon="13.143591"><ele>6.25</ele></trkpt>
+   <trkpt lat="54.324879" lon="13.144235"><ele>6.75</ele></trkpt>
+   <trkpt lat="54.325229" lon="13.1447"><ele>5.75</ele></trkpt>
+   <trkpt lat="54.325689" lon="13.145281"><ele>4</ele></trkpt>
+   <trkpt lat="54.326182" lon="13.145883"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.328358" lon="13.148618"><ele>6</ele></trkpt>
+   <trkpt lat="54.329011" lon="13.149395"><ele>6.5</ele></trkpt>
+   <trkpt lat="54.32918" lon="13.149617"><ele>6.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

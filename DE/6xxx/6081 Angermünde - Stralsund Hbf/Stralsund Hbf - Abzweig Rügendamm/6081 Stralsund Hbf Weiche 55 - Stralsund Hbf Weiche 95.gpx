@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 334 filtered ascend = 2 plain-ascend = 2 cost=334 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6081 Stralsund Hbf Weiche 55 - Stralsund Hbf Weiche 95</name>
+  <link href="https://bikerouter.de/#map=19/54.30239/13.08325/standard&amp;lonlats=13.083188,54.302293;13.081064,54.304978&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.302293" lon="13.083189"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.302296" lon="13.083187"><ele>5</ele></trkpt>
+   <trkpt lat="54.303679" lon="13.081974"><ele>5.75</ele></trkpt>
+   <trkpt lat="54.30414" lon="13.081629"><ele>6.75</ele></trkpt>
+   <trkpt lat="54.304531" lon="13.081352"><ele>6.5</ele></trkpt>
+   <trkpt lat="54.304546" lon="13.081341"><ele>6.5</ele></trkpt>
+   <trkpt lat="54.304979" lon="13.081062"><ele>6.25</ele></trkpt>
+   <trkpt lat="54.304977" lon="13.081063"><ele>6.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
