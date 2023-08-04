@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 1 plain-ascend = 0 cost=343 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6775 Bergen auf Rügen Weiche 13W21 - Bergen auf Rügen Weiche 13W31</name>
+  <link href="https://bikerouter.de/#map=19/54.41621/13.41044/standard&amp;lonlats=13.410179,54.416111;13.413856,54.41826&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.41611" lon="13.410178"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.416112" lon="13.410181"><ele>25.5</ele></trkpt>
+   <trkpt lat="54.416353" lon="13.410539"><ele>26</ele></trkpt>
+   <trkpt lat="54.416506" lon="13.410788"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.416637" lon="13.411003"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.417216" lon="13.411972"><ele>25.75</ele></trkpt>
+   <trkpt lat="54.418051" lon="13.413482"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.418257" lon="13.413859"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

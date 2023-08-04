@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 92 filtered ascend = 0 plain-ascend = -1 cost=92 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6775 Putbus (Gleis 1) - Putbus Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/54.35665/13.48113/standard&amp;lonlats=13.480833,54.35692;13.480911,54.357724&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.356919" lon="13.480833"><ele>31.25</ele></trkpt>
+   <trkpt lat="54.357157" lon="13.480856"><ele>31.25</ele></trkpt>
+   <trkpt lat="54.357306" lon="13.480869"><ele>31</ele></trkpt>
+   <trkpt lat="54.357723" lon="13.48091"><ele>29.75</ele></trkpt>
+   <trkpt lat="54.357723" lon="13.48091"><ele>29.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

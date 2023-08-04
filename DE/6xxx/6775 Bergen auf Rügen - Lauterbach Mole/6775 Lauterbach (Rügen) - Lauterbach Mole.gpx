@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 470 filtered ascend = 0 plain-ascend = -3 cost=470 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6775 Lauterbach (Rügen) - Lauterbach Mole</name>
+  <link href="https://bikerouter.de/#map=19/54.34174/13.50392/standard&amp;lonlats=13.500668,54.345326;13.503669,54.341533">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.345324" lon="13.500662"><ele>4</ele></trkpt>
+   <trkpt lat="54.344502" lon="13.501207"><ele>2.75</ele></trkpt>
+   <trkpt lat="54.343598" lon="13.501802"><ele>0.5</ele></trkpt>
+   <trkpt lat="54.343503" lon="13.501877"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.343437" lon="13.501933"><ele>0</ele></trkpt>
+   <trkpt lat="54.342959" lon="13.502353"><ele>0</ele></trkpt>
+   <trkpt lat="54.342856" lon="13.502454"><ele>0</ele></trkpt>
+   <trkpt lat="54.342543" lon="13.502776"><ele>0</ele></trkpt>
+   <trkpt lat="54.342073" lon="13.503189"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.341533" lon="13.503669"><ele>0.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

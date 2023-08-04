@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 171 filtered ascend = 0 plain-ascend = -1 cost=171 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6775 Putbus (Gleis 2) - Putbus Weiche 29</name>
+  <link href="https://bikerouter.de/#map=19/54.35684/13.48135/standard&amp;lonlats=13.480946,54.356923;13.480815,54.3554">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.356921" lon="13.480946"><ele>30.75</ele></trkpt>
+   <trkpt lat="54.356887" lon="13.480943"><ele>31</ele></trkpt>
+   <trkpt lat="54.355671" lon="13.480834"><ele>29.75</ele></trkpt>
+   <trkpt lat="54.355402" lon="13.480815"><ele>29.5</ele></trkpt>
+   <trkpt lat="54.355399" lon="13.480814"><ele>29.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

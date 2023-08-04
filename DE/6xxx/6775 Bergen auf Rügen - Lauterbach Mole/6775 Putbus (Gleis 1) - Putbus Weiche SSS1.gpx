@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 233 filtered ascend = 0 plain-ascend = -1 cost=233 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6775 Putbus (Gleis 1) - Putbus Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/54.35476/13.48100/standard&amp;lonlats=13.480833,54.35692;13.480638,54.354857">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.356919" lon="13.480833"><ele>31.25</ele></trkpt>
+   <trkpt lat="54.356887" lon="13.480831"><ele>31.5</ele></trkpt>
+   <trkpt lat="54.356033" lon="13.480748"><ele>30.75</ele></trkpt>
+   <trkpt lat="54.355193" lon="13.480671"><ele>29.25</ele></trkpt>
+   <trkpt lat="54.355154" lon="13.480667"><ele>29.25</ele></trkpt>
+   <trkpt lat="54.35486" lon="13.48064"><ele>29.25</ele></trkpt>
+   <trkpt lat="54.354857" lon="13.48064"><ele>29.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
