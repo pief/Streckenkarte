@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 1 plain-ascend = 2 cost=114 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6982 Baabe (Westliches Gleis) - Baabe Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/54.36239/13.70493/standard&amp;lonlats=13.704744,54.362301;13.70486,54.363306">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.3623" lon="13.704739"><ele>1</ele></trkpt>
+   <trkpt lat="54.362431" lon="13.704754"><ele>1.25</ele></trkpt>
+   <trkpt lat="54.36293" lon="13.704828"><ele>2</ele></trkpt>
+   <trkpt lat="54.363305" lon="13.704863"><ele>2.5</ele></trkpt>
+   <trkpt lat="54.363305" lon="13.704863"><ele>2.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

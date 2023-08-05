@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 0 plain-ascend = 0 cost=81 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6982 Putbus (Gleis 2) - Putbus Weiche 25</name>
+  <link href="https://bikerouter.de/#map=19/54.35745/13.48141/standard&amp;lonlats=13.480945,54.35692;13.481005,54.357625">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.356918" lon="13.480945"><ele>30.75</ele></trkpt>
+   <trkpt lat="54.357224" lon="13.480973"><ele>30.5</ele></trkpt>
+   <trkpt lat="54.357305" lon="13.48098"><ele>30.25</ele></trkpt>
+   <trkpt lat="54.35743" lon="13.480991"><ele>30.25</ele></trkpt>
+   <trkpt lat="54.357623" lon="13.481005"><ele>29.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
