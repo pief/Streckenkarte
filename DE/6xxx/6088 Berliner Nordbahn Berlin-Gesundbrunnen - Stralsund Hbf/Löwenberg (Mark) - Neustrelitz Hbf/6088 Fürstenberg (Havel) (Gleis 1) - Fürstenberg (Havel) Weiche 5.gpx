@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 311 filtered ascend = 0 plain-ascend = 0 cost=311 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Fürstenberg (Havel) (Gleis 1) - Fürstenberg (Havel) Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/53.18935/13.14072/standard&amp;lonlats=13.139342,53.186771;13.140764,53.189375&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.18677" lon="13.139338"><ele>59</ele></trkpt>
+   <trkpt lat="53.186772" lon="13.139339"><ele>59.25</ele></trkpt>
+   <trkpt lat="53.186885" lon="13.13942"><ele>59.25</ele></trkpt>
+   <trkpt lat="53.187317" lon="13.13973"><ele>58.75</ele></trkpt>
+   <trkpt lat="53.187323" lon="13.139734"><ele>58.75</ele></trkpt>
+   <trkpt lat="53.187793" lon="13.140049"><ele>58</ele></trkpt>
+   <trkpt lat="53.187906" lon="13.140122"><ele>58</ele></trkpt>
+   <trkpt lat="53.188611" lon="13.140468"><ele>58.25</ele></trkpt>
+   <trkpt lat="53.188799" lon="13.14056"><ele>58.5</ele></trkpt>
+   <trkpt lat="53.189372" lon="13.140764"><ele>59.25</ele></trkpt>
+   <trkpt lat="53.189374" lon="13.140764"><ele>59.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 659 filtered ascend = 1 plain-ascend = 1 cost=659 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Neubrandenburg Gbf Weiche 11 - Neubrandenburg Weiche 33</name>
+  <link href="https://bikerouter.de/#map=19/53.56122/13.26696/standard&amp;lonlats=13.276071,53.560165;13.266407,53.561388&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.560164" lon="13.27607"><ele>16.5</ele></trkpt>
+   <trkpt lat="53.560439" lon="13.274514"><ele>17</ele></trkpt>
+   <trkpt lat="53.560506" lon="13.274051"><ele>17</ele></trkpt>
+   <trkpt lat="53.560891" lon="13.270701"><ele>18</ele></trkpt>
+   <trkpt lat="53.561301" lon="13.267214"><ele>17.75</ele></trkpt>
+   <trkpt lat="53.561302" lon="13.267203"><ele>17.75</ele></trkpt>
+   <trkpt lat="53.561388" lon="13.266407"><ele>17.25</ele></trkpt>
+   <trkpt lat="53.561388" lon="13.266407"><ele>17.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

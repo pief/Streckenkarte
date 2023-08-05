@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 476 filtered ascend = 0 plain-ascend = -4 cost=476 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Burg Stargard (Mecklenburg) (Gleis 1) - Burg Stargard (Mecklenburg) Weiche 26</name>
+  <link href="https://bikerouter.de/#map=19/53.50353/13.29963/standard&amp;lonlats=13.303083,53.499731;13.299269,53.503327&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.499728" lon="13.303077"><ele>50</ele></trkpt>
+   <trkpt lat="53.499848" lon="13.302954"><ele>49.75</ele></trkpt>
+   <trkpt lat="53.500977" lon="13.301765"><ele>46.25</ele></trkpt>
+   <trkpt lat="53.502928" lon="13.299731"><ele>45</ele></trkpt>
+   <trkpt lat="53.503323" lon="13.299267"><ele>45.75</ele></trkpt>
+   <trkpt lat="53.503325" lon="13.299264"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

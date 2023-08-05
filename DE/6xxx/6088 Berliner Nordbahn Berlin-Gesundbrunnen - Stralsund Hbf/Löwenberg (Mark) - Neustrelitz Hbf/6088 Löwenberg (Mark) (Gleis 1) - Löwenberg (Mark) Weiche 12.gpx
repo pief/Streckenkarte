@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 187 filtered ascend = 1 plain-ascend = 1 cost=187 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Löwenberg (Mark) (Gleis 1) - Löwenberg (Mark) Weiche 12</name>
+  <link href="https://bikerouter.de/#map=19/52.89839/13.18948/standard&amp;lonlats=13.189991,52.896731;13.189082,52.898294">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.89673" lon="13.189989"><ele>61</ele></trkpt>
+   <trkpt lat="52.897226" lon="13.189702"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.898111" lon="13.18919"><ele>62</ele></trkpt>
+   <trkpt lat="52.898292" lon="13.189085"><ele>61.75</ele></trkpt>
+   <trkpt lat="52.898294" lon="13.189083"><ele>61.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

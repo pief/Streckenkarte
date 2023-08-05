@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 401 filtered ascend = 0 plain-ascend = -4 cost=401 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Blankenburg (Mecklenburg) (Gleis 2) - Blankenburg (Mecklenburg) Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/53.40806/13.26368/standard&amp;lonlats=13.263056,53.408216;13.260383,53.405021&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.408217" lon="13.263049"><ele>68.5</ele></trkpt>
+   <trkpt lat="53.407163" lon="13.262316"><ele>69</ele></trkpt>
+   <trkpt lat="53.406514" lon="13.261836"><ele>69</ele></trkpt>
+   <trkpt lat="53.406067" lon="13.261452"><ele>68</ele></trkpt>
+   <trkpt lat="53.405304" lon="13.260723"><ele>64</ele></trkpt>
+   <trkpt lat="53.405021" lon="13.260389"><ele>63.25</ele></trkpt>
+   <trkpt lat="53.405019" lon="13.260386"><ele>63.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

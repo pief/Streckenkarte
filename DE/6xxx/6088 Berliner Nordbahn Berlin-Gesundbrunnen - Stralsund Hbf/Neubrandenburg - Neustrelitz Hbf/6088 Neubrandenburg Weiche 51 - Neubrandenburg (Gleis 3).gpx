@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 246 filtered ascend = 1 plain-ascend = 1 cost=246 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Neubrandenburg Weiche 51 - Neubrandenburg (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/53.56199/13.26144/standard&amp;lonlats=13.265219,53.561519;13.261585,53.561902&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.561516" lon="13.265218"><ele>16</ele></trkpt>
+   <trkpt lat="53.561604" lon="13.26442"><ele>16</ele></trkpt>
+   <trkpt lat="53.561695" lon="13.263486"><ele>16</ele></trkpt>
+   <trkpt lat="53.56189" lon="13.261717"><ele>17</ele></trkpt>
+   <trkpt lat="53.561905" lon="13.261585"><ele>16.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

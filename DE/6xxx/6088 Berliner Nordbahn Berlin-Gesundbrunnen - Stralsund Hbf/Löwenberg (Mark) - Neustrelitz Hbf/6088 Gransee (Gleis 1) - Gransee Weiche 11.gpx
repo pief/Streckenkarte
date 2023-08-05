@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 0 plain-ascend = -2 cost=228 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Gransee (Gleis 1) - Gransee Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/53.00475/13.17115/standard&amp;lonlats=13.169196,53.002908;13.170947,53.004632">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.002904" lon="13.169203"><ele>57.25</ele></trkpt>
+   <trkpt lat="53.003993" lon="13.170347"><ele>56.25</ele></trkpt>
+   <trkpt lat="53.004206" lon="13.170578"><ele>55.75</ele></trkpt>
+   <trkpt lat="53.004632" lon="13.170949"><ele>54.25</ele></trkpt>
+   <trkpt lat="53.004631" lon="13.170947"><ele>54.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

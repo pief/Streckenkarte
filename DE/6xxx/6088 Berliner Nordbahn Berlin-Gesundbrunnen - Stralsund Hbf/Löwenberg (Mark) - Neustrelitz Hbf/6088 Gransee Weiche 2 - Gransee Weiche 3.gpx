@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 590 filtered ascend = 2 plain-ascend = 0 cost=590 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Gransee Weiche 2 - Gransee Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/52.99806/13.16473/standard&amp;lonlats=13.162622,52.992451;13.163662,52.997632">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.992451" lon="13.162622"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.994003" lon="13.162568"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.994731" lon="13.162559"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.995283" lon="13.162629"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.995744" lon="13.162729"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.996217" lon="13.162879"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.997043" lon="13.163291"><ele>62</ele></trkpt>
+   <trkpt lat="52.997629" lon="13.163669"><ele>60.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
