@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 0 plain-ascend = 1 cost=110 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Helsingborg Weiche SSS4 - Helsingborg Weiche SSS5</name>
+  <link href="https://bikerouter.de/#map=19/56.04019/12.69864/standard&amp;lonlats=12.698951,56.039577;12.69821,56.040458&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.039577" lon="12.698952"><ele>5.25</ele></trkpt>
+   <trkpt lat="56.03958" lon="12.69895"><ele>5.25</ele></trkpt>
+   <trkpt lat="56.039849" lon="12.698713"><ele>4.75</ele></trkpt>
+   <trkpt lat="56.040152" lon="12.698475"><ele>5.25</ele></trkpt>
+   <trkpt lat="56.040458" lon="12.698212"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 421 filtered ascend = 1 plain-ascend = 1 cost=421 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Helsingborg (Gleis 1) - Helsingborg Weiche SSS6</name>
+  <link href="https://bikerouter.de/#map=19/56.04379/12.69542/standard&amp;lonlats=12.694878,56.043905;12.69806,56.040614&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.043905" lon="12.69488"/>
+   <trkpt lat="56.043528" lon="12.69528"/>
+   <trkpt lat="56.043521" lon="12.695287"/>
+   <trkpt lat="56.042747" lon="12.696098"/>
+   <trkpt lat="56.04198" lon="12.696865"/>
+   <trkpt lat="56.041551" lon="12.697294"/>
+   <trkpt lat="56.041493" lon="12.697345"><ele>5</ele></trkpt>
+   <trkpt lat="56.040878" lon="12.697837"><ele>6.5</ele></trkpt>
+   <trkpt lat="56.040617" lon="12.698064"><ele>6.5</ele></trkpt>
+   <trkpt lat="56.040615" lon="12.698065"><ele>6.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
