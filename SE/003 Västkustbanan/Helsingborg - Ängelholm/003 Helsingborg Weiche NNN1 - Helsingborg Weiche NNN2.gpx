@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Helsingborg Weiche NNN1 - Helsingborg Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/56.04574/12.69286/standard&amp;lonlats=12.692966,56.04563;12.692205,56.046178&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.045629" lon="12.692965"/>
+   <trkpt lat="56.046175" lon="12.692209"/>
+   <trkpt lat="56.046177" lon="12.692204"/>
+  </trkseg>
+ </trk>
+</gpx>

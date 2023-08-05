@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 424 filtered ascend = 0 plain-ascend = -3 cost=424 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Ödakra Weiche SSS1 - Ödakra (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/56.10472/12.74558/standard&amp;lonlats=12.741555,56.10156;12.745072,56.104768&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.101558" lon="12.741558"><ele>33</ele></trkpt>
+   <trkpt lat="56.10156" lon="12.741561"><ele>33</ele></trkpt>
+   <trkpt lat="56.101789" lon="12.741802"><ele>32.5</ele></trkpt>
+   <trkpt lat="56.102134" lon="12.742128"><ele>31.5</ele></trkpt>
+   <trkpt lat="56.102354" lon="12.742351"><ele>31</ele></trkpt>
+   <trkpt lat="56.102561" lon="12.742576"><ele>30.5</ele></trkpt>
+   <trkpt lat="56.103174" lon="12.743299"><ele>29</ele></trkpt>
+   <trkpt lat="56.103594" lon="12.743788"><ele>29.75</ele></trkpt>
+   <trkpt lat="56.104606" lon="12.744902"><ele>29.5</ele></trkpt>
+   <trkpt lat="56.1047" lon="12.745003"><ele>29.25</ele></trkpt>
+   <trkpt lat="56.104765" lon="12.745075"><ele>29</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

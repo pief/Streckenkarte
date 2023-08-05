@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 106 filtered ascend = 0 plain-ascend = 0 cost=106 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Ängelholm Weiche SSS3 - Ängelholm (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/56.24552/12.85422/standard&amp;lonlats=12.854323,56.244837;12.853957,56.245746&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.244837" lon="12.854325"><ele>5</ele></trkpt>
+   <trkpt lat="56.24484" lon="12.854324"><ele>5</ele></trkpt>
+   <trkpt lat="56.245318" lon="12.854132"><ele>4.75</ele></trkpt>
+   <trkpt lat="56.245725" lon="12.853965"><ele>4.75</ele></trkpt>
+   <trkpt lat="56.245745" lon="12.853956"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 3 plain-ascend = 4 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Maria (Gleis 2) - Maria Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/56.07706/12.71355/standard&amp;lonlats=12.710858,56.075752;12.713851,56.07716&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.075749" lon="12.71086"><ele>40.5</ele></trkpt>
+   <trkpt lat="56.075797" lon="12.710957"><ele>40.75</ele></trkpt>
+   <trkpt lat="56.076036" lon="12.711446"><ele>41.5</ele></trkpt>
+   <trkpt lat="56.076641" lon="12.712697"><ele>43.5</ele></trkpt>
+   <trkpt lat="56.076991" lon="12.713498"><ele>43.75</ele></trkpt>
+   <trkpt lat="56.077157" lon="12.713854"><ele>44</ele></trkpt>
+   <trkpt lat="56.077157" lon="12.713854"><ele>44</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

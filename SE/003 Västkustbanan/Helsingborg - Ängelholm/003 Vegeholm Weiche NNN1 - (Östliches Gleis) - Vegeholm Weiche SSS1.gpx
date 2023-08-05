@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 663 filtered ascend = 0 plain-ascend = 0 cost=663 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Vegeholm Weiche NNN1 - (Östliches Gleis) - Vegeholm Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=16/56.2110/12.7984/standard&amp;lonlats=12.796328,56.211026;12.790822,56.20596&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.211024" lon="12.796329"><ele>11</ele></trkpt>
+   <trkpt lat="56.211024" lon="12.796328"><ele>11.25</ele></trkpt>
+   <trkpt lat="56.210275" lon="12.795514"><ele>11</ele></trkpt>
+   <trkpt lat="56.209516" lon="12.794689"><ele>10</ele></trkpt>
+   <trkpt lat="56.208618" lon="12.793714"><ele>10.25</ele></trkpt>
+   <trkpt lat="56.207551" lon="12.792551"><ele>10.75</ele></trkpt>
+   <trkpt lat="56.206735" lon="12.791665"><ele>10.75</ele></trkpt>
+   <trkpt lat="56.205964" lon="12.790826"><ele>10.75</ele></trkpt>
+   <trkpt lat="56.205959" lon="12.790821"><ele>10.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 859 filtered ascend = 0 plain-ascend = -2 cost=859 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Kattarp (Gleis 1) - Kattarp Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/56.15229/12.77776/standard&amp;lonlats=12.778307,56.14475;12.777885,56.152413&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.144749" lon="12.778302"><ele>11</ele></trkpt>
+   <trkpt lat="56.144959" lon="12.77829"><ele>11</ele></trkpt>
+   <trkpt lat="56.150722" lon="12.777924"><ele>7.5</ele></trkpt>
+   <trkpt lat="56.151299" lon="12.777885"><ele>7.75</ele></trkpt>
+   <trkpt lat="56.15166" lon="12.777874"><ele>7.75</ele></trkpt>
+   <trkpt lat="56.152197" lon="12.777896"><ele>8.25</ele></trkpt>
+   <trkpt lat="56.152413" lon="12.777889"><ele>8.25</ele></trkpt>
+   <trkpt lat="56.152413" lon="12.777888"><ele>8.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
