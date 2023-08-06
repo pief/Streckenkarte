@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1088 filtered ascend = 0 plain-ascend = -10 cost=1088 energy=0.0kwh time=1m 27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Nassenheide Weiche 3 - Nassenheide Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/52.81863/13.23876/standard&amp;lonlats=13.242828,52.809262;13.238507,52.818647&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.809262" lon="13.24283"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.809263" lon="13.24283"><ele>47.5</ele></trkpt>
+   <trkpt lat="52.815729" lon="13.23986"><ele>42</ele></trkpt>
+   <trkpt lat="52.817591" lon="13.238993"><ele>36</ele></trkpt>
+   <trkpt lat="52.817664" lon="13.238962"><ele>36</ele></trkpt>
+   <trkpt lat="52.817707" lon="13.238943"><ele>36</ele></trkpt>
+   <trkpt lat="52.818645" lon="13.23851"><ele>36.25</ele></trkpt>
+   <trkpt lat="52.818647" lon="13.238508"><ele>36.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

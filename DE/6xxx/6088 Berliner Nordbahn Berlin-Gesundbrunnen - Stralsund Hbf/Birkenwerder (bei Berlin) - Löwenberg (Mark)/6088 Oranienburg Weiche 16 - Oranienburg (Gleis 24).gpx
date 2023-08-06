@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 1 plain-ascend = 1 cost=306 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Oranienburg Weiche 16 - Oranienburg (Gleis 24)</name>
+  <link href="https://bikerouter.de/#map=19/52.75399/13.24974/standard&amp;lonlats=13.251349,52.751469;13.249421,52.753932&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.751469" lon="13.251349"><ele>35.5</ele></trkpt>
+   <trkpt lat="52.751471" lon="13.251348"><ele>35.5</ele></trkpt>
+   <trkpt lat="52.752114" lon="13.250833"><ele>36</ele></trkpt>
+   <trkpt lat="52.753791" lon="13.249537"><ele>37</ele></trkpt>
+   <trkpt lat="52.753934" lon="13.249428"><ele>36.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
