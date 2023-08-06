@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 0 plain-ascend = -1 cost=135 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6170 Berlin-Gesundbrunnen Weiche 114 - Berlin-Gesundbrunnen Weiche 116</name>
+  <link href="https://bikerouter.de/#map=19/52.54793/13.38493/standard&amp;lonlats=13.381377,52.548116;13.383324,52.548284&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.548115" lon="13.381376"><ele>43.25</ele></trkpt>
+   <trkpt lat="52.548117" lon="13.381382"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.548206" lon="13.382163"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.548251" lon="13.38277"><ele>42.75</ele></trkpt>
+   <trkpt lat="52.548284" lon="13.383322"><ele>41.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

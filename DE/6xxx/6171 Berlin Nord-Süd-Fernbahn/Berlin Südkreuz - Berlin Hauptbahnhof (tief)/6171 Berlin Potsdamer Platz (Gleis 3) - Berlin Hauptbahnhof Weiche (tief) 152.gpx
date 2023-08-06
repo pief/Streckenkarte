@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1235 filtered ascend = 0 plain-ascend = 0 cost=1235 energy=0.0kwh time=1m 39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6171 Berlin Potsdamer Platz (Gleis 3) - Berlin Hauptbahnhof (tief) Weiche 152</name>
+  <link href="https://bikerouter.de/#map=19/52.51992/13.37296/standard&amp;lonlats=13.375944,52.509386;13.372609,52.520117&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.509384" lon="13.375944"/>
+   <trkpt lat="52.510046" lon="13.375974"/>
+   <trkpt lat="52.510113" lon="13.375978"/>
+   <trkpt lat="52.510958" lon="13.376018"/>
+   <trkpt lat="52.511368" lon="13.376027"/>
+   <trkpt lat="52.511773" lon="13.376005"/>
+   <trkpt lat="52.512182" lon="13.375965"/>
+   <trkpt lat="52.512597" lon="13.375888"/>
+   <trkpt lat="52.513012" lon="13.375787"/>
+   <trkpt lat="52.513346" lon="13.375693"/>
+   <trkpt lat="52.513973" lon="13.375481"/>
+   <trkpt lat="52.515864" lon="13.374516"/>
+   <trkpt lat="52.517102" lon="13.373896"/>
+   <trkpt lat="52.517636" lon="13.37367"/>
+   <trkpt lat="52.518595" lon="13.373301"/>
+   <trkpt lat="52.519208" lon="13.373061"/>
+   <trkpt lat="52.519633" lon="13.372859"/>
+   <trkpt lat="52.520111" lon="13.372617"/>
+   <trkpt lat="52.520117" lon="13.372613"/>
+  </trkseg>
+ </trk>
+</gpx>

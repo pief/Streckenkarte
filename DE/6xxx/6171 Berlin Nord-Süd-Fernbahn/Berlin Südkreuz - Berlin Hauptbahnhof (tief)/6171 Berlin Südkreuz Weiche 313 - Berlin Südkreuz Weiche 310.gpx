@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 284 filtered ascend = 2 plain-ascend = 2 cost=284 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6171 Berlin Südkreuz Weiche 313 - Berlin Südkreuz Weiche 310</name>
+  <link href="https://bikerouter.de/#map=18/52.48169/13.37122/standard&amp;lonlats=13.367807,52.479521;13.369283,52.481875&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.47952" lon="13.367806"><ele>42</ele></trkpt>
+   <trkpt lat="52.479756" lon="13.367949"><ele>42</ele></trkpt>
+   <trkpt lat="52.480175" lon="13.368258"><ele>42</ele></trkpt>
+   <trkpt lat="52.481045" lon="13.368792"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.481781" lon="13.369232"><ele>44</ele></trkpt>
+   <trkpt lat="52.481872" lon="13.369287"><ele>44</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

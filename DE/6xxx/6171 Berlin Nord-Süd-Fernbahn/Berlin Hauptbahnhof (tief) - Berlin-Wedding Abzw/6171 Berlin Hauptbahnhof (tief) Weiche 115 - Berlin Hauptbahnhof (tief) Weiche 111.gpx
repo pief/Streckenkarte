@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 199 filtered ascend = 1 plain-ascend = 0 cost=199 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6171 Berlin Hauptbahnhof (tief) Weiche 115 - Berlin Hauptbahnhof (tief) Weiche 111</name>
+  <link href="https://bikerouter.de/#map=19/52.53054/13.36492/standard&amp;lonlats=13.366464,52.528965;13.364881,52.53044&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.528966" lon="13.366466"/>
+   <trkpt lat="52.529113" lon="13.366313"/>
+   <trkpt lat="52.529176" lon="13.366246"><ele>29.5</ele></trkpt>
+   <trkpt lat="52.529771" lon="13.365605"><ele>30.75</ele></trkpt>
+   <trkpt lat="52.530439" lon="13.364884"><ele>29</ele></trkpt>
+   <trkpt lat="52.53044" lon="13.364882"><ele>29</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
