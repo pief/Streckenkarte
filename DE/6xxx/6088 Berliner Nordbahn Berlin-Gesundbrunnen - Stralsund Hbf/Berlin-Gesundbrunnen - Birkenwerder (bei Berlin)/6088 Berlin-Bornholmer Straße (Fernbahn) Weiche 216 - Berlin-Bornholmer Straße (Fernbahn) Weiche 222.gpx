@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 98 filtered ascend = 1 plain-ascend = 2 cost=98 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Berlin-Bornholmer Straße (Fernbahn) Weiche 216 - Berlin-Bornholmer Straße (Fernbahn) Weiche 222</name>
+  <link href="https://bikerouter.de/#map=19/52.55416/13.39976/standard&amp;lonlats=13.398763,52.553598;13.398541,52.554454&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.553597" lon="13.398762"><ele>47</ele></trkpt>
+   <trkpt lat="52.554451" lon="13.398544"><ele>48.5</ele></trkpt>
+   <trkpt lat="52.554454" lon="13.398543"><ele>48.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

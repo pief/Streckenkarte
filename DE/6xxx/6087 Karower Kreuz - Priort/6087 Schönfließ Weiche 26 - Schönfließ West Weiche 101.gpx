@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1284 filtered ascend = 2 plain-ascend = 1 cost=1284 energy=0.0kwh time=1m 43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6087 Schönfließ Weiche 26 - Schönfließ West Weiche 101</name>
+  <link href="https://bikerouter.de/#map=18/52.67013/13.32122/standard&amp;lonlats=13.336094,52.665808;13.318957,52.670696&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.665808" lon="13.336094"><ele>49.5</ele></trkpt>
+   <trkpt lat="52.666023" lon="13.335213"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.666056" lon="13.335077"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.666088" lon="13.334961"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.666632" lon="13.33297"><ele>51.25</ele></trkpt>
+   <trkpt lat="52.667822" lon="13.328864"><ele>52</ele></trkpt>
+   <trkpt lat="52.669872" lon="13.321792"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.670695" lon="13.318956"><ele>50.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

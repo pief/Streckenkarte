@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 213 filtered ascend = 1 plain-ascend = 2 cost=213 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6087 Berlin-Karow West Weiche 5 - Berlin-Karow West Weiche 7</name>
+  <link href="https://bikerouter.de/#map=18/52.61301/13.45416/standard&amp;lonlats=13.452855,52.61207;13.450876,52.613537&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.612072" lon="13.452859"><ele>46.25</ele></trkpt>
+   <trkpt lat="52.612084" lon="13.452843"><ele>46.25</ele></trkpt>
+   <trkpt lat="52.612276" lon="13.452585"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.613535" lon="13.450875"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.613535" lon="13.450874"><ele>47.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

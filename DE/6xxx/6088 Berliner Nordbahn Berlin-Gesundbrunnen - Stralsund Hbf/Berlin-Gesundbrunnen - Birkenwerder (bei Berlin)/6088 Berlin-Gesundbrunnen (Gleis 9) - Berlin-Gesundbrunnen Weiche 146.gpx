@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 342 filtered ascend = 0 plain-ascend = -3 cost=342 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Berlin-Gesundbrunnen (Gleis 9) - Berlin-Gesundbrunnen Weiche 146</name>
+  <link href="https://bikerouter.de/#map=19/52.54892/13.39459/standard&amp;lonlats=13.390226,52.54848;13.395156,52.548832&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.548481" lon="13.390224"><ele>44.75</ele></trkpt>
+   <trkpt lat="52.548501" lon="13.390603"><ele>44.5</ele></trkpt>
+   <trkpt lat="52.548514" lon="13.390851"><ele>44.25</ele></trkpt>
+   <trkpt lat="52.548532" lon="13.391199"><ele>44</ele></trkpt>
+   <trkpt lat="52.548559" lon="13.391681"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.548599" lon="13.392396"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.548622" lon="13.392796"><ele>44</ele></trkpt>
+   <trkpt lat="52.548675" lon="13.393578"><ele>44</ele></trkpt>
+   <trkpt lat="52.548776" lon="13.394717"><ele>42.25</ele></trkpt>
+   <trkpt lat="52.548826" lon="13.395155"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.548826" lon="13.395156"><ele>41.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

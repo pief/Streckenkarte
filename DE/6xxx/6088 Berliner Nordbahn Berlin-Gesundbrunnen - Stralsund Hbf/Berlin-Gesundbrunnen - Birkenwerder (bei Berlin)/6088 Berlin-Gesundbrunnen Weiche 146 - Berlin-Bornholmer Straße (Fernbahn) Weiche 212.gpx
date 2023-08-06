@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 590 filtered ascend = 6 plain-ascend = 6 cost=590 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Berlin-Gesundbrunnen Weiche 146 - Berlin-Bornholmer Straße (Fernbahn) Weiche 212</name>
+  <link href="https://bikerouter.de/#map=18/52.55287/13.40072/standard&amp;lonlats=13.395156,52.548832;13.398975,52.552741&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.548826" lon="13.395156"><ele>41.25</ele></trkpt>
+   <trkpt lat="52.548867" lon="13.395506"><ele>41.25</ele></trkpt>
+   <trkpt lat="52.548905" lon="13.395773"><ele>41.25</ele></trkpt>
+   <trkpt lat="52.548985" lon="13.396241"><ele>40.25</ele></trkpt>
+   <trkpt lat="52.549069" lon="13.396573"><ele>39.5</ele></trkpt>
+   <trkpt lat="52.549162" lon="13.396899"><ele>39</ele></trkpt>
+   <trkpt lat="52.549319" lon="13.397308"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.549498" lon="13.397695"><ele>39.5</ele></trkpt>
+   <trkpt lat="52.549872" lon="13.398263"><ele>39.75</ele></trkpt>
+   <trkpt lat="52.549928" lon="13.398324"><ele>39.75</ele></trkpt>
+   <trkpt lat="52.550212" lon="13.398633"><ele>41.25</ele></trkpt>
+   <trkpt lat="52.550366" lon="13.398767"><ele>42</ele></trkpt>
+   <trkpt lat="52.550519" lon="13.398879"><ele>42.5</ele></trkpt>
+   <trkpt lat="52.550856" lon="13.399057"><ele>44</ele></trkpt>
+   <trkpt lat="52.551181" lon="13.399169"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.551218" lon="13.399174"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.55154" lon="13.399209"><ele>47.5</ele></trkpt>
+   <trkpt lat="52.552103" lon="13.399133"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.552746" lon="13.398979"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.552741" lon="13.398979"><ele>47.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
