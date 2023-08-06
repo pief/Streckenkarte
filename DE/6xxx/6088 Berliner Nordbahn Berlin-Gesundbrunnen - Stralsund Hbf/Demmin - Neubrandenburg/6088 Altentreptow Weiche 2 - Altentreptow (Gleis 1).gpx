@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 4 plain-ascend = 5 cost=264 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Altentreptow Weiche 2 - Altentreptow (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/53.69171/13.24353/standard&amp;lonlats=13.242543,53.689558;13.242825,53.691912&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.689556" lon="13.242546"><ele>27</ele></trkpt>
+   <trkpt lat="53.689562" lon="13.242547"><ele>27.25</ele></trkpt>
+   <trkpt lat="53.689981" lon="13.242623"><ele>28.75</ele></trkpt>
+   <trkpt lat="53.69134" lon="13.242766"><ele>30.75</ele></trkpt>
+   <trkpt lat="53.691678" lon="13.242803"><ele>31.5</ele></trkpt>
+   <trkpt lat="53.691911" lon="13.242826"><ele>31.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

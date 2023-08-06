@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = 0 cost=45 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Stralsund Hbf Weiche 94 - Stralsund Hbf Weiche 97</name>
+  <link href="https://bikerouter.de/#map=19/54.30528/13.08170/standard&amp;lonlats=13.080983,54.304974;13.080736,54.305341&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.304974" lon="13.080985"><ele>6</ele></trkpt>
+   <trkpt lat="54.305338" lon="13.080738"><ele>6</ele></trkpt>
+   <trkpt lat="54.305341" lon="13.080736"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

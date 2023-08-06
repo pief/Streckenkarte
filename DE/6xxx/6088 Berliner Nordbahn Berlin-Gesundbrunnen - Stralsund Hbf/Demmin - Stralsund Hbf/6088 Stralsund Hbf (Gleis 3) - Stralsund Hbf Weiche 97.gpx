@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 406 filtered ascend = 0 plain-ascend = -2 cost=406 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Stralsund Hbf (Gleis 3) - Stralsund Hbf Weiche 97</name>
+  <link href="https://bikerouter.de/#map=19/54.30841/13.07909/standard&amp;lonlats=13.07807,54.30861;13.080736,54.305341&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.30861" lon="13.07807"><ele>9</ele></trkpt>
+   <trkpt lat="54.308508" lon="13.07816"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.307757" lon="13.078816"><ele>7</ele></trkpt>
+   <trkpt lat="54.307142" lon="13.079362"><ele>5.5</ele></trkpt>
+   <trkpt lat="54.306422" lon="13.079985"><ele>5.25</ele></trkpt>
+   <trkpt lat="54.306214" lon="13.080145"><ele>5.25</ele></trkpt>
+   <trkpt lat="54.30581" lon="13.080425"><ele>6</ele></trkpt>
+   <trkpt lat="54.305341" lon="13.080736"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

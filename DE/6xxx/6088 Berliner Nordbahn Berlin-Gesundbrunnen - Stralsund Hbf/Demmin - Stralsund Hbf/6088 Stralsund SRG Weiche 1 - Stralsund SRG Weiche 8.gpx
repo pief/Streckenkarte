@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 289 filtered ascend = 1 plain-ascend = 0 cost=289 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Stralsund SRG Weiche 1 - Stralsund SRG Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/54.28940/13.09268/standard&amp;lonlats=13.093413,54.286825;13.091959,54.289249&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.286825" lon="13.093415"><ele>13</ele></trkpt>
+   <trkpt lat="54.286832" lon="13.093412"><ele>13</ele></trkpt>
+   <trkpt lat="54.287605" lon="13.092962"><ele>14.25</ele></trkpt>
+   <trkpt lat="54.287762" lon="13.09287"><ele>14</ele></trkpt>
+   <trkpt lat="54.287912" lon="13.092779"><ele>14</ele></trkpt>
+   <trkpt lat="54.288162" lon="13.092626"><ele>14</ele></trkpt>
+   <trkpt lat="54.289249" lon="13.091962"><ele>12.75</ele></trkpt>
+   <trkpt lat="54.289249" lon="13.091961"><ele>12.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

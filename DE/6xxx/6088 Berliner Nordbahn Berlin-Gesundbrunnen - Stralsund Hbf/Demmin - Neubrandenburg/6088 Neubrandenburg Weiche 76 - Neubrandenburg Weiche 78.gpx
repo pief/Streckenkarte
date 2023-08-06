@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = 0 cost=121 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6088 Neubrandenburg Weiche 76 - Neubrandenburg Weiche 78</name>
+  <link href="https://bikerouter.de/#map=19/53.56291/13.25531/standard&amp;lonlats=13.256553,53.5626;13.254892,53.562981&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.562599" lon="13.256552"><ele>15</ele></trkpt>
+   <trkpt lat="53.562733" lon="13.255844"><ele>15</ele></trkpt>
+   <trkpt lat="53.562798" lon="13.255542"><ele>15</ele></trkpt>
+   <trkpt lat="53.562881" lon="13.255215"><ele>15</ele></trkpt>
+   <trkpt lat="53.56298" lon="13.254896"><ele>14.75</ele></trkpt>
+   <trkpt lat="53.562981" lon="13.254892"><ele>14.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
