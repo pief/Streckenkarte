@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 153 filtered ascend = 0 plain-ascend = 0 cost=153 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1239 Hamburg Airport (Gleis 4) - Hamburg Airport Weiche SSS3</name>
+  <link href="https://bikerouter.de/#map=19/53.63274/10.00719/standard&amp;lonlats=10.006573,53.632644;10.006869,53.631307">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.632644" lon="10.006578"/>
+   <trkpt lat="53.632605" lon="10.006583"/>
+   <trkpt lat="53.631783" lon="10.006672"/>
+   <trkpt lat="53.631704" lon="10.00669"/>
+   <trkpt lat="53.631635" lon="10.006718"/>
+   <trkpt lat="53.631308" lon="10.006869"/>
+   <trkpt lat="53.631307" lon="10.006869"/>
+  </trkseg>
+ </trk>
+</gpx>

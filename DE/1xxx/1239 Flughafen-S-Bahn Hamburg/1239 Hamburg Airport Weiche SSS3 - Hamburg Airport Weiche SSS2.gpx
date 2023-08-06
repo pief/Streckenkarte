@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=50 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>1239 Hamburg Airport Weiche SSS3 - Hamburg Airport Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/53.63116/10.00738/standard&amp;lonlats=10.006869,53.631307;10.007085,53.630889">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.631307" lon="10.006869"/>
+   <trkpt lat="53.631022" lon="10.00701"/>
+   <trkpt lat="53.630889" lon="10.007085"/>
+  </trkseg>
+ </trk>
+</gpx>
