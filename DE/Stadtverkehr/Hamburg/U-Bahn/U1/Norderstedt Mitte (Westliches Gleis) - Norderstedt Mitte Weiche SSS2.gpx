@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 2 plain-ascend = 3 cost=576 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Norderstedt Mitte (Westliches Gleis) - Norderstedt Mitte Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/53.70792/9.99245/standard&amp;lonlats=9.992219,53.708244;9.992452,53.705678&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.708244" lon="9.992223"><ele>32</ele></trkpt>
+   <trkpt lat="53.707883" lon="9.992252"><ele>33</ele></trkpt>
+   <trkpt lat="53.707425" lon="9.992288"><ele>34.5</ele></trkpt>
+   <trkpt lat="53.705678" lon="9.992453"><ele>34.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

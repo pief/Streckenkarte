@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1339 filtered ascend = 1 plain-ascend = 1 cost=2678 energy=0.0kwh time=1m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Garstedt (Östliches Gleis) - Richtweg (Östliches Gleis)</name>
+  <link href="https://bikerouter.de/#map=19/53.69552/9.98973/standard&amp;lonlats=9.986128,53.684475;9.989805,53.695768&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.684475" lon="9.986129"/>
+   <trkpt lat="53.684479" lon="9.986129"/>
+   <trkpt lat="53.685602" lon="9.986032"/>
+   <trkpt lat="53.686756" lon="9.985873"/>
+   <trkpt lat="53.688894" lon="9.985673"/>
+   <trkpt lat="53.689692" lon="9.985609"/>
+   <trkpt lat="53.690154" lon="9.985584"/>
+   <trkpt lat="53.690403" lon="9.985591"><ele>29</ele></trkpt>
+   <trkpt lat="53.690411" lon="9.985593"><ele>29</ele></trkpt>
+   <trkpt lat="53.690828" lon="9.985668"><ele>28</ele></trkpt>
+   <trkpt lat="53.691202" lon="9.985769"><ele>28</ele></trkpt>
+   <trkpt lat="53.691573" lon="9.98592"><ele>28</ele></trkpt>
+   <trkpt lat="53.691895" lon="9.986068"><ele>28.25</ele></trkpt>
+   <trkpt lat="53.692085" lon="9.986173"><ele>28.5</ele></trkpt>
+   <trkpt lat="53.692281" lon="9.98629"><ele>28.75</ele></trkpt>
+   <trkpt lat="53.692734" lon="9.986611"><ele>29</ele></trkpt>
+   <trkpt lat="53.692811" lon="9.986673"><ele>29</ele></trkpt>
+   <trkpt lat="53.693153" lon="9.98696"><ele>29.25</ele></trkpt>
+   <trkpt lat="53.693632" lon="9.987451"><ele>30.25</ele></trkpt>
+   <trkpt lat="53.695595" lon="9.989618"><ele>29.75</ele></trkpt>
+   <trkpt lat="53.695766" lon="9.989807"><ele>30</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

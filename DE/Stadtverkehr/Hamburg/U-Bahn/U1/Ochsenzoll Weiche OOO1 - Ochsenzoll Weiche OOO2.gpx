@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 0 plain-ascend = 0 cost=114 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Ochsenzoll Weiche OOO1 - Ochsenzoll Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/53.67842/10.00361/standard&amp;lonlats=10.005973,53.678453;10.004897,53.678423;10.004312,53.678369">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.678454" lon="10.005973"><ele>25.75</ele></trkpt>
+   <trkpt lat="53.678455" lon="10.005968"><ele>26</ele></trkpt>
+   <trkpt lat="53.67845" lon="10.005363"><ele>26</ele></trkpt>
+   <trkpt lat="53.678413" lon="10.004898"><ele>26</ele></trkpt>
+   <trkpt lat="53.678368" lon="10.00432"><ele>26</ele></trkpt>
+   <trkpt lat="53.678367" lon="10.004311"><ele>26</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

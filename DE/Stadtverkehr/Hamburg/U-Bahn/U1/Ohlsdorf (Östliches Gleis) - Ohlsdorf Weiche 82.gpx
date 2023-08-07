@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=47 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Ohlsdorf (Östliches Gleis) - Ohlsdorf Weiche 82</name>
+  <link href="https://bikerouter.de/#map=19/53.62115/10.03219/standard&amp;lonlats=10.031513,53.620555;10.031604,53.620961">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.620553" lon="10.031516"><ele>12.75</ele></trkpt>
+   <trkpt lat="53.620782" lon="10.031571"><ele>12.75</ele></trkpt>
+   <trkpt lat="53.620956" lon="10.031606"><ele>12.75</ele></trkpt>
+   <trkpt lat="53.620961" lon="10.031605"><ele>12.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

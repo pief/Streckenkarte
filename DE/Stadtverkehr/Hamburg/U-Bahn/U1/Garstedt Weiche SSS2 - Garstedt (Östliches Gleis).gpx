@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = 0 cost=242 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Garstedt Weiche SSS2 - Garstedt (Östliches Gleis)</name>
+  <link href="https://bikerouter.de/#map=19/53.68455/9.98651/standard&amp;lonlats=9.986229,53.683405;9.986128,53.684475&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.683404" lon="9.986228"/>
+   <trkpt lat="53.683405" lon="9.986228"/>
+   <trkpt lat="53.684475" lon="9.986129"/>
+  </trkseg>
+ </trk>
+</gpx>

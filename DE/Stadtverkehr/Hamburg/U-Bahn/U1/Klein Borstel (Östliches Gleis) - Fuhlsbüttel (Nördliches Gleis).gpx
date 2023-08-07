@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 666 filtered ascend = 5 plain-ascend = 5 cost=666 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Klein Borstel (Östliches Gleis) - Fuhlsbüttel (Nördliches Gleis)</name>
+  <link href="https://bikerouter.de/#map=19/53.63246/10.02740/standard&amp;lonlats=10.033363,53.628034;10.026913,53.632452">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.628034" lon="10.033367"><ele>14.5</ele></trkpt>
+   <trkpt lat="53.628162" lon="10.033277"><ele>14.5</ele></trkpt>
+   <trkpt lat="53.62852" lon="10.03292"><ele>14.5</ele></trkpt>
+   <trkpt lat="53.628968" lon="10.032317"><ele>14.5</ele></trkpt>
+   <trkpt lat="53.62912" lon="10.032092"><ele>14.75</ele></trkpt>
+   <trkpt lat="53.629358" lon="10.031815"><ele>14</ele></trkpt>
+   <trkpt lat="53.629611" lon="10.031523"><ele>12.5</ele></trkpt>
+   <trkpt lat="53.629823" lon="10.031274"><ele>11.5</ele></trkpt>
+   <trkpt lat="53.630851" lon="10.030084"><ele>14</ele></trkpt>
+   <trkpt lat="53.630865" lon="10.030067"><ele>14</ele></trkpt>
+   <trkpt lat="53.630996" lon="10.029911"><ele>14.25</ele></trkpt>
+   <trkpt lat="53.631143" lon="10.02973"><ele>14.75</ele></trkpt>
+   <trkpt lat="53.631294" lon="10.029525"><ele>15.25</ele></trkpt>
+   <trkpt lat="53.631418" lon="10.029336"><ele>15.75</ele></trkpt>
+   <trkpt lat="53.631528" lon="10.029139"><ele>16.25</ele></trkpt>
+   <trkpt lat="53.631755" lon="10.028653"><ele>17</ele></trkpt>
+   <trkpt lat="53.632452" lon="10.026913"><ele>19.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 39 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Norderstedt Mitte Weiche SSS1 - Norderstedt Mitte Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/53.70569/9.99235/standard&amp;lonlats=9.992682,53.7054;9.992452,53.705678&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.7054" lon="9.992682"/>
+   <trkpt lat="53.705405" lon="9.992682"/>
+   <trkpt lat="53.705495" lon="9.992608"/>
+   <trkpt lat="53.705538" lon="9.992571"/>
+   <trkpt lat="53.705587" lon="9.99253"/>
+   <trkpt lat="53.705678" lon="9.992454"/>
+   <trkpt lat="53.705678" lon="9.992453"/>
+  </trkseg>
+ </trk>
+</gpx>
