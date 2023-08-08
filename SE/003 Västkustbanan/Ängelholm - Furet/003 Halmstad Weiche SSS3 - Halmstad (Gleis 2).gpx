@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 186 filtered ascend = 2 plain-ascend = 2 cost=186 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Halmstad Weiche SSS3 - Halmstad (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/56.66933/12.86464/standard&amp;lonlats=12.863971,56.667618;12.864603,56.669239&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.667616" lon="12.863972"><ele>4</ele></trkpt>
+   <trkpt lat="56.667619" lon="12.863973"><ele>4</ele></trkpt>
+   <trkpt lat="56.6684" lon="12.864281"><ele>5</ele></trkpt>
+   <trkpt lat="56.668888" lon="12.864476"><ele>5.75</ele></trkpt>
+   <trkpt lat="56.669188" lon="12.864582"><ele>6</ele></trkpt>
+   <trkpt lat="56.669238" lon="12.864601"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

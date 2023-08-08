@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 342 filtered ascend = 1 plain-ascend = 2 cost=342 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Båstad Weiche SSS3 - Båstad (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/56.43121/12.90574/standard&amp;lonlats=12.901221,56.429436;12.905706,56.431227&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.429434" lon="12.901221"><ele>7.25</ele></trkpt>
+   <trkpt lat="56.429436" lon="12.901225"><ele>7.5</ele></trkpt>
+   <trkpt lat="56.429821" lon="12.90209"><ele>7.5</ele></trkpt>
+   <trkpt lat="56.429848" lon="12.902146"><ele>7.5</ele></trkpt>
+   <trkpt lat="56.429944" lon="12.902377"><ele>7.75</ele></trkpt>
+   <trkpt lat="56.430524" lon="12.903878"><ele>8.5</ele></trkpt>
+   <trkpt lat="56.431224" lon="12.905708"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

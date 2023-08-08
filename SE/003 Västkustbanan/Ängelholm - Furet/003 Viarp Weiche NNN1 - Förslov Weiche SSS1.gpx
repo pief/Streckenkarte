@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1557 filtered ascend = 6 plain-ascend = 7 cost=1557 energy=0.0kwh time=2m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Viarp Weiche NNN1 - Förslov Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=15/56.3502/12.8042/standard&amp;lonlats=12.807424,56.333102;12.800628,56.346535&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.333102" lon="12.807424"><ele>25.5</ele></trkpt>
+   <trkpt lat="56.333105" lon="12.807423"><ele>25.5</ele></trkpt>
+   <trkpt lat="56.334041" lon="12.806994"><ele>26</ele></trkpt>
+   <trkpt lat="56.334542" lon="12.806761"><ele>26</ele></trkpt>
+   <trkpt lat="56.335057" lon="12.806529"><ele>25.75</ele></trkpt>
+   <trkpt lat="56.335963" lon="12.806111"><ele>25.75</ele></trkpt>
+   <trkpt lat="56.336301" lon="12.805954"><ele>25.75</ele></trkpt>
+   <trkpt lat="56.337116" lon="12.805544"><ele>26</ele></trkpt>
+   <trkpt lat="56.337559" lon="12.805315"><ele>26.25</ele></trkpt>
+   <trkpt lat="56.337652" lon="12.805265"><ele>26.25</ele></trkpt>
+   <trkpt lat="56.339026" lon="12.804516"><ele>27</ele></trkpt>
+   <trkpt lat="56.341129" lon="12.803238"><ele>28.5</ele></trkpt>
+   <trkpt lat="56.342634" lon="12.802341"><ele>31.75</ele></trkpt>
+   <trkpt lat="56.34336" lon="12.801946"><ele>31.25</ele></trkpt>
+   <trkpt lat="56.344356" lon="12.80144"><ele>32</ele></trkpt>
+   <trkpt lat="56.345297" lon="12.801038"><ele>31.25</ele></trkpt>
+   <trkpt lat="56.345711" lon="12.800891"><ele>31</ele></trkpt>
+   <trkpt lat="56.345787" lon="12.800863"><ele>31</ele></trkpt>
+   <trkpt lat="56.346535" lon="12.800629"><ele>32</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

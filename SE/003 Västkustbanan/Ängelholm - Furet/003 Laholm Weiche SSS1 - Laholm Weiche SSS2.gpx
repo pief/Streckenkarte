@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 170 filtered ascend = 1 plain-ascend = 1 cost=170 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Laholm Weiche SSS1 - Laholm Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=17/56.49958/12.99838/standard&amp;lonlats=12.995972,56.497961;12.996971,56.499376&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.49796" lon="12.995971"><ele>10.75</ele></trkpt>
+   <trkpt lat="56.497963" lon="12.995973"><ele>11</ele></trkpt>
+   <trkpt lat="56.499374" lon="12.996973"><ele>11.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

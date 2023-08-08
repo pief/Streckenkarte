@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 322 filtered ascend = 2 plain-ascend = 3 cost=322 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Halmstad (Gleis 2) - Halmstad Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/56.67210/12.86618/standard&amp;lonlats=12.864603,56.669239;12.865615,56.672066&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.669238" lon="12.864601"><ele>6</ele></trkpt>
+   <trkpt lat="56.670868" lon="12.865229"><ele>6</ele></trkpt>
+   <trkpt lat="56.671371" lon="12.8654"><ele>7</ele></trkpt>
+   <trkpt lat="56.671429" lon="12.865418"><ele>7.25</ele></trkpt>
+   <trkpt lat="56.67206" lon="12.865617"><ele>8.5</ele></trkpt>
+   <trkpt lat="56.672064" lon="12.865618"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1267 filtered ascend = 0 plain-ascend = 0 cost=1267 energy=0.0kwh time=1m 41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Halmstad Weiche SSS1 - Halmstad Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/56.66421/12.86647/standard&amp;lonlats=12.881089,56.656197;12.866323,56.664152&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.656196" lon="12.881087"><ele>5</ele></trkpt>
+   <trkpt lat="56.656979" lon="12.879659"><ele>5.75</ele></trkpt>
+   <trkpt lat="56.657379" lon="12.878896"><ele>4.75</ele></trkpt>
+   <trkpt lat="56.657891" lon="12.877968"><ele>5</ele></trkpt>
+   <trkpt lat="56.659003" lon="12.875899"><ele>5.75</ele></trkpt>
+   <trkpt lat="56.659234" lon="12.875469"><ele>5.5</ele></trkpt>
+   <trkpt lat="56.660663" lon="12.8728"><ele>5</ele></trkpt>
+   <trkpt lat="56.662587" lon="12.869229"><ele>3.25</ele></trkpt>
+   <trkpt lat="56.662615" lon="12.869179"><ele>3.25</ele></trkpt>
+   <trkpt lat="56.66375" lon="12.867046"><ele>4</ele></trkpt>
+   <trkpt lat="56.664145" lon="12.866332"><ele>4.5</ele></trkpt>
+   <trkpt lat="56.664151" lon="12.866322"><ele>4.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
