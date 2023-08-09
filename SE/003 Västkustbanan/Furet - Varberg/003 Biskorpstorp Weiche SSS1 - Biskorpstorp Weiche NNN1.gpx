@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 0 plain-ascend = 0 cost=214 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Biskorpstorp Weiche SSS1 - Biskorpstorp Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/56.74999/12.85811/standard&amp;lonlats=12.859937,56.748815;12.857834,56.750335&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.748815" lon="12.859938"><ele>36.25</ele></trkpt>
+   <trkpt lat="56.748817" lon="12.859936"><ele>36.25</ele></trkpt>
+   <trkpt lat="56.749915" lon="12.858414"><ele>36.5</ele></trkpt>
+   <trkpt lat="56.750332" lon="12.857837"><ele>36</ele></trkpt>
+   <trkpt lat="56.750334" lon="12.857833"><ele>35.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

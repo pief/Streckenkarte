@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 879 filtered ascend = 0 plain-ascend = -1 cost=879 energy=0.0kwh time=1m 10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Tyllered Weiche SSS2 - Tyllered Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/57.02067/12.39183/standard&amp;lonlats=12.396097,57.01315;12.391097,57.020536&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.01315" lon="12.396098"><ele>14</ele></trkpt>
+   <trkpt lat="57.013152" lon="12.396097"><ele>14</ele></trkpt>
+   <trkpt lat="57.01396" lon="12.395557"><ele>13.5</ele></trkpt>
+   <trkpt lat="57.014789" lon="12.394999"><ele>13.25</ele></trkpt>
+   <trkpt lat="57.015869" lon="12.394293"><ele>11.75</ele></trkpt>
+   <trkpt lat="57.016575" lon="12.393829"><ele>12</ele></trkpt>
+   <trkpt lat="57.018038" lon="12.392843"><ele>11</ele></trkpt>
+   <trkpt lat="57.019502" lon="12.391839"><ele>11.5</ele></trkpt>
+   <trkpt lat="57.019654" lon="12.391727"><ele>11.25</ele></trkpt>
+   <trkpt lat="57.020535" lon="12.391105"><ele>12</ele></trkpt>
+   <trkpt lat="57.020537" lon="12.391103"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

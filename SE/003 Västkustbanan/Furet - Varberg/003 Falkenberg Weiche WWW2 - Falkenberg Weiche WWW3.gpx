@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 365 filtered ascend = 6 plain-ascend = 7 cost=365 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Falkenberg Weiche WWW2 - Falkenberg Weiche WWW3</name>
+  <link href="https://bikerouter.de/#map=19/56.92076/12.49909/standard&amp;lonlats=12.503767,56.919998;12.497919,56.920642&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="56.919998" lon="12.503767"><ele>21</ele></trkpt>
+   <trkpt lat="56.919999" lon="12.503767"><ele>21.25</ele></trkpt>
+   <trkpt lat="56.920297" lon="12.501028"><ele>23.25</ele></trkpt>
+   <trkpt lat="56.920642" lon="12.497922"><ele>27.25</ele></trkpt>
+   <trkpt lat="56.920642" lon="12.497919"><ele>27.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
