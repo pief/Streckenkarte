@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 378 filtered ascend = 1 plain-ascend = 1 cost=756 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Krokslätts Fabriker - Krokslätts torg</name>
+  <link href="https://bikerouter.de/#map=19/57.67528/12.00768/standard&amp;lonlats=12.009969,57.672069;12.008048,57.675279">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.672069" lon="12.009971"><ele>4</ele></trkpt>
+   <trkpt lat="57.672584" lon="12.009773"><ele>4.5</ele></trkpt>
+   <trkpt lat="57.67299" lon="12.009583"><ele>5.25</ele></trkpt>
+   <trkpt lat="57.673855" lon="12.009138"><ele>5.25</ele></trkpt>
+   <trkpt lat="57.674364" lon="12.008818"><ele>5</ele></trkpt>
+   <trkpt lat="57.674698" lon="12.008567"><ele>4.75</ele></trkpt>
+   <trkpt lat="57.674996" lon="12.008317"><ele>4</ele></trkpt>
+   <trkpt lat="57.675276" lon="12.008051"><ele>4.75</ele></trkpt>
+   <trkpt lat="57.675278" lon="12.008048"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

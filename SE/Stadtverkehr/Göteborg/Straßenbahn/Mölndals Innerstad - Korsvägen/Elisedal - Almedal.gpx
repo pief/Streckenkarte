@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 419 filtered ascend = 6 plain-ascend = 7 cost=838 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Elisedal - Almedal</name>
+  <link href="https://bikerouter.de/#map=19/57.68737/11.99651/standard&amp;lonlats=11.999929,57.684305;11.996569,57.687551">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.684305" lon="11.999935"><ele>4</ele></trkpt>
+   <trkpt lat="57.684306" lon="11.999935"><ele>4</ele></trkpt>
+   <trkpt lat="57.684749" lon="11.999676"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.685058" lon="11.999458"><ele>4.5</ele></trkpt>
+   <trkpt lat="57.685538" lon="11.999067"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.685912" lon="11.998722"><ele>4.5</ele></trkpt>
+   <trkpt lat="57.686085" lon="11.998539"><ele>4.75</ele></trkpt>
+   <trkpt lat="57.686253" lon="11.99834"><ele>4.75</ele></trkpt>
+   <trkpt lat="57.687063" lon="11.997209"><ele>8</ele></trkpt>
+   <trkpt lat="57.687151" lon="11.997097"><ele>8.25</ele></trkpt>
+   <trkpt lat="57.687265" lon="11.996948"><ele>8.5</ele></trkpt>
+   <trkpt lat="57.68741" lon="11.996747"><ele>8.75</ele></trkpt>
+   <trkpt lat="57.68755" lon="11.996572"><ele>9.5</ele></trkpt>
+   <trkpt lat="57.687551" lon="11.99657"><ele>10.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

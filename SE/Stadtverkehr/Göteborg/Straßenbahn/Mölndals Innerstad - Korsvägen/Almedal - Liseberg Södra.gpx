@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 562 filtered ascend = 8 plain-ascend = 8 cost=1124 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Almedal - Liseberg Södra</name>
+  <link href="https://bikerouter.de/#map=19/57.69193/11.99181/standard&amp;lonlats=11.996569,57.687551;11.991888,57.691915">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.687551" lon="11.99657"><ele>9.5</ele></trkpt>
+   <trkpt lat="57.687765" lon="11.996329"><ele>10.5</ele></trkpt>
+   <trkpt lat="57.688785" lon="11.995251"><ele>10.25</ele></trkpt>
+   <trkpt lat="57.68948" lon="11.994618"><ele>10.75</ele></trkpt>
+   <trkpt lat="57.689554" lon="11.994547"><ele>10.75</ele></trkpt>
+   <trkpt lat="57.689734" lon="11.994367"><ele>10.5</ele></trkpt>
+   <trkpt lat="57.690176" lon="11.993896"><ele>10.75</ele></trkpt>
+   <trkpt lat="57.690924" lon="11.99302"><ele>12.25</ele></trkpt>
+   <trkpt lat="57.691535" lon="11.992356"><ele>15.5</ele></trkpt>
+   <trkpt lat="57.691647" lon="11.992229"><ele>16.25</ele></trkpt>
+   <trkpt lat="57.691675" lon="11.992197"><ele>16.5</ele></trkpt>
+   <trkpt lat="57.691918" lon="11.991899"><ele>17.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
