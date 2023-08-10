@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 735 filtered ascend = 1 plain-ascend = 0 cost=735 energy=0.0kwh time=59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Varberg Weiche NNN1 - Varberg Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/57.12009/12.25351/standard&amp;lonlats=12.249393,57.114071;12.253857,57.120154&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.11407" lon="12.249392"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.114076" lon="12.249396"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.114885" lon="12.249692"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.11513" lon="12.249781"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.115418" lon="12.249908"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.11594" lon="12.250217"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.116474" lon="12.250586"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.116773" lon="12.250758"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.117089" lon="12.250966"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.117602" lon="12.251323"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.118258" lon="12.251911"><ele>2</ele></trkpt>
+   <trkpt lat="57.118674" lon="12.252277"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.119333" lon="12.252942"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.119447" lon="12.253071"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.120027" lon="12.253743"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.120152" lon="12.253858"><ele>2.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

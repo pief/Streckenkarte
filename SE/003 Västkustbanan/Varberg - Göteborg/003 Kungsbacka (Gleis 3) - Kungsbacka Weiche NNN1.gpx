@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 480 filtered ascend = 2 plain-ascend = 2 cost=480 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Kungsbacka (Gleis 3) - Kungsbacka Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/57.49297/12.07998/standard&amp;lonlats=12.079766,57.488688;12.080015,57.492992&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.488686" lon="12.079766"><ele>5</ele></trkpt>
+   <trkpt lat="57.490584" lon="12.079874"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.49299" lon="12.080014"><ele>5</ele></trkpt>
+   <trkpt lat="57.492991" lon="12.080014"><ele>7</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

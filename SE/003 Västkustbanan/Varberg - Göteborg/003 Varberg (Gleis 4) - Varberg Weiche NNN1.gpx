@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 532 filtered ascend = 0 plain-ascend = 0 cost=532 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Varberg (Gleis 4) - Varberg Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/57.11452/12.25160/standard&amp;lonlats=12.248062,57.109346;12.249394,57.114072&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.109344" lon="12.248062"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.110821" lon="12.248459"><ele>3</ele></trkpt>
+   <trkpt lat="57.111042" lon="12.248518"><ele>3</ele></trkpt>
+   <trkpt lat="57.112492" lon="12.24891"><ele>2</ele></trkpt>
+   <trkpt lat="57.113642" lon="12.249227"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.114055" lon="12.249385"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.114071" lon="12.249393"><ele>2.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 746 filtered ascend = 5 plain-ascend = 5 cost=746 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>003 Ledsgård Weiche NNN1 - Anneberg (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/57.53759/12.10130/standard&amp;lonlats=12.097795,57.53077;12.100788,57.537204&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.53077" lon="12.097794"><ele>9</ele></trkpt>
+   <trkpt lat="57.531309" lon="12.098242"><ele>9.5</ele></trkpt>
+   <trkpt lat="57.531797" lon="12.098632"><ele>9.75</ele></trkpt>
+   <trkpt lat="57.532302" lon="12.099009"><ele>9.75</ele></trkpt>
+   <trkpt lat="57.532807" lon="12.099353"><ele>10.25</ele></trkpt>
+   <trkpt lat="57.533307" lon="12.099654"><ele>10.75</ele></trkpt>
+   <trkpt lat="57.533322" lon="12.099663"><ele>10.75</ele></trkpt>
+   <trkpt lat="57.533756" lon="12.099891"><ele>11.25</ele></trkpt>
+   <trkpt lat="57.534181" lon="12.10009"><ele>11.75</ele></trkpt>
+   <trkpt lat="57.53458" lon="12.100254"><ele>12</ele></trkpt>
+   <trkpt lat="57.535094" lon="12.100433"><ele>12.5</ele></trkpt>
+   <trkpt lat="57.535582" lon="12.100571"><ele>13.5</ele></trkpt>
+   <trkpt lat="57.536039" lon="12.100671"><ele>14.25</ele></trkpt>
+   <trkpt lat="57.536573" lon="12.10075"><ele>14.75</ele></trkpt>
+   <trkpt lat="57.537111" lon="12.10079"><ele>14.25</ele></trkpt>
+   <trkpt lat="57.537202" lon="12.100791"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
