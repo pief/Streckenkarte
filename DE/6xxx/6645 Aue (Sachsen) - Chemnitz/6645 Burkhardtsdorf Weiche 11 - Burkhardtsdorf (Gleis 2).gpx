@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 2 plain-ascend = 3 cost=92 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6645 Burkhardtsdorf Weiche 11 - Burkhardtsdorf (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.73282/12.93240/standard&amp;lonlats=12.930836,50.732804;12.932026,50.733119&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.732804" lon="12.930836"><ele>401.5</ele></trkpt>
+   <trkpt lat="50.732841" lon="12.930995"><ele>402</ele></trkpt>
+   <trkpt lat="50.733123" lon="12.932022"><ele>404</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

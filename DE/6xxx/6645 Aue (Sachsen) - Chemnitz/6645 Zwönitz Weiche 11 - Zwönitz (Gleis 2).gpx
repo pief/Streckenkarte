@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 2 plain-ascend = 2 cost=242 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6645 Zwönitz Weiche 11 - Zwönitz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.63197/12.79894/standard&amp;lonlats=12.79547,50.630603;12.797809,50.632156&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.630602" lon="12.79547"><ele>547.5</ele></trkpt>
+   <trkpt lat="50.631474" lon="12.79697"><ele>548.75</ele></trkpt>
+   <trkpt lat="50.631765" lon="12.797373"><ele>549.25</ele></trkpt>
+   <trkpt lat="50.632001" lon="12.797648"><ele>549.5</ele></trkpt>
+   <trkpt lat="50.632156" lon="12.797806"><ele>549.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

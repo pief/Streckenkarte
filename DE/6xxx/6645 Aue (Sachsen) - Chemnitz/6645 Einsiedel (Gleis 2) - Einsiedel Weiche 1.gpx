@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 153 filtered ascend = 2 plain-ascend = 2 cost=153 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6645 Einsiedel (Gleis 2) - Einsiedel Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.77367/12.97227/standard&amp;lonlats=12.972832,50.772946;12.971088,50.773773&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.772951" lon="12.972838"><ele>347.75</ele></trkpt>
+   <trkpt lat="50.773009" lon="12.972722"><ele>347.75</ele></trkpt>
+   <trkpt lat="50.773199" lon="12.972343"><ele>346.75</ele></trkpt>
+   <trkpt lat="50.773216" lon="12.97231"><ele>346.5</ele></trkpt>
+   <trkpt lat="50.773438" lon="12.971844"><ele>345.5</ele></trkpt>
+   <trkpt lat="50.773496" lon="12.971727"><ele>345.5</ele></trkpt>
+   <trkpt lat="50.773608" lon="12.971451"><ele>347.25</ele></trkpt>
+   <trkpt lat="50.77377" lon="12.971096"><ele>349.5</ele></trkpt>
+   <trkpt lat="50.773773" lon="12.971088"><ele>350</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
