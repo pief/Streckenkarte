@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 971 filtered ascend = 10 plain-ascend = 10 cost=971 energy=0.0kwh time=1m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6614 Rechenberg Weiche 31 - Rechenberg Schule</name>
+  <link href="https://bikerouter.de/#map=17/50.73895/13.53215/standard&amp;lonlats=13.530766,50.739796;13.543803,50.737124&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.739793" lon="13.530764"><ele>556</ele></trkpt>
+   <trkpt lat="50.738828" lon="13.534486"><ele>554.75</ele></trkpt>
+   <trkpt lat="50.738255" lon="13.53786"><ele>556</ele></trkpt>
+   <trkpt lat="50.73759" lon="13.541991"><ele>562</ele></trkpt>
+   <trkpt lat="50.737354" lon="13.543025"><ele>563.25</ele></trkpt>
+   <trkpt lat="50.737124" lon="13.543803"><ele>566.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

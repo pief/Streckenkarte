@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 204 filtered ascend = 0 plain-ascend = -1 cost=204 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6614 Mulda (Sachsen) (Gleis 2) - Mulda (Sachsen) Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.80993/13.41073/standard&amp;lonlats=13.413178,50.809048;13.410656,50.809916&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.809045" lon="13.413176"><ele>431</ele></trkpt>
+   <trkpt lat="50.809159" lon="13.412644"><ele>429.5</ele></trkpt>
+   <trkpt lat="50.809201" lon="13.412485"><ele>429.5</ele></trkpt>
+   <trkpt lat="50.809312" lon="13.41211"><ele>429.5</ele></trkpt>
+   <trkpt lat="50.809445" lon="13.41172"><ele>428.75</ele></trkpt>
+   <trkpt lat="50.809628" lon="13.411286"><ele>429</ele></trkpt>
+   <trkpt lat="50.809914" lon="13.410664"><ele>428.5</ele></trkpt>
+   <trkpt lat="50.809917" lon="13.410657"><ele>429</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

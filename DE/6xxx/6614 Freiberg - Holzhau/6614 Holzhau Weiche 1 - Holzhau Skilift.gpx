@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1002 filtered ascend = 0 plain-ascend = -21 cost=1002 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6614 Holzhau Weiche 1 - Holzhau Skilift</name>
+  <link href="https://bikerouter.de/#map=19/50.73405/13.57651/standard&amp;lonlats=13.590844,50.734038;13.576669,50.733844&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.734035" lon="13.590843"><ele>621.25</ele></trkpt>
+   <trkpt lat="50.73399" lon="13.590365"><ele>620.75</ele></trkpt>
+   <trkpt lat="50.733915" lon="13.589302"><ele>618.5</ele></trkpt>
+   <trkpt lat="50.733873" lon="13.588582"><ele>616.75</ele></trkpt>
+   <trkpt lat="50.73372" lon="13.58621"><ele>613.5</ele></trkpt>
+   <trkpt lat="50.733697" lon="13.585642"><ele>612.25</ele></trkpt>
+   <trkpt lat="50.733686" lon="13.584775"><ele>610.5</ele></trkpt>
+   <trkpt lat="50.73369" lon="13.584487"><ele>609.75</ele></trkpt>
+   <trkpt lat="50.733768" lon="13.581132"><ele>603.75</ele></trkpt>
+   <trkpt lat="50.733785" lon="13.579878"><ele>603.25</ele></trkpt>
+   <trkpt lat="50.733837" lon="13.576668"><ele>599.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 105 filtered ascend = 0 plain-ascend = -7 cost=105 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6614 Holzhau (Nördliches Gleis) - Holzhau Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.73405/13.59142/standard&amp;lonlats=13.592293,50.734202;13.590844,50.734038&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.7342" lon="13.592292"><ele>628.5</ele></trkpt>
+   <trkpt lat="50.734168" lon="13.592056"><ele>626</ele></trkpt>
+   <trkpt lat="50.734121" lon="13.591641"><ele>622.75</ele></trkpt>
+   <trkpt lat="50.734036" lon="13.590848"><ele>621.5</ele></trkpt>
+   <trkpt lat="50.734035" lon="13.590843"><ele>620.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

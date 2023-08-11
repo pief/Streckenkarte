@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 166 filtered ascend = 4 plain-ascend = 4 cost=166 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6614 Berthelsdorf (Erzgebirge) (Gleis 2) - Berthelsdorf (Erzgebirge) Weiche 23</name>
+  <link href="https://bikerouter.de/#map=19/50.87549/13.36409/standard&amp;lonlats=13.363614,50.875739;13.36479,50.874456&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.87574" lon="13.363619"><ele>448.25</ele></trkpt>
+   <trkpt lat="50.875707" lon="13.363644"><ele>448.5</ele></trkpt>
+   <trkpt lat="50.875182" lon="13.364036"><ele>449.5</ele></trkpt>
+   <trkpt lat="50.875114" lon="13.364087"><ele>449.75</ele></trkpt>
+   <trkpt lat="50.874951" lon="13.364233"><ele>450</ele></trkpt>
+   <trkpt lat="50.874734" lon="13.364459"><ele>451</ele></trkpt>
+   <trkpt lat="50.874462" lon="13.364784"><ele>452</ele></trkpt>
+   <trkpt lat="50.874457" lon="13.364791"><ele>452.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
