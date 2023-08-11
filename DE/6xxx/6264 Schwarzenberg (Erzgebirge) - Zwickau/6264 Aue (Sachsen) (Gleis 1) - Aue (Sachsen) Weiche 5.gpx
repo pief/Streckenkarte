@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 304 filtered ascend = 6 plain-ascend = 7 cost=304 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6264 Aue (Sachsen) (Gleis 1) - Aue (Sachsen) Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/50.59162/12.69873/standard&amp;lonlats=12.698404,50.591678;12.701266,50.589718&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.591677" lon="12.6984"><ele>346.5</ele></trkpt>
+   <trkpt lat="50.591403" lon="12.698593"><ele>348</ele></trkpt>
+   <trkpt lat="50.591387" lon="12.698606"><ele>348</ele></trkpt>
+   <trkpt lat="50.59114" lon="12.698815"><ele>349</ele></trkpt>
+   <trkpt lat="50.590884" lon="12.699078"><ele>349.75</ele></trkpt>
+   <trkpt lat="50.590753" lon="12.699236"><ele>349.75</ele></trkpt>
+   <trkpt lat="50.59061" lon="12.699447"><ele>349.75</ele></trkpt>
+   <trkpt lat="50.5905" lon="12.699625"><ele>349.5</ele></trkpt>
+   <trkpt lat="50.590373" lon="12.699859"><ele>349.25</ele></trkpt>
+   <trkpt lat="50.590059" lon="12.700535"><ele>351.25</ele></trkpt>
+   <trkpt lat="50.58972" lon="12.701265"><ele>353</ele></trkpt>
+   <trkpt lat="50.589718" lon="12.701267"><ele>353</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
