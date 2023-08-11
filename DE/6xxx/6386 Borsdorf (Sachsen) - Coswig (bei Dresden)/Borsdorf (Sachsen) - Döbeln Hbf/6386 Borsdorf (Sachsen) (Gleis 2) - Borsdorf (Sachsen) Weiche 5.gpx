@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 1 plain-ascend = 1 cost=280 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6386 Borsdorf (Sachsen) (Gleis 2) - Borsdorf (Sachsen) Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/51.34519/12.53830/standard&amp;lonlats=12.541138,51.34568;12.537246,51.345094&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.345678" lon="12.541137"><ele>126</ele></trkpt>
+   <trkpt lat="51.345447" lon="12.539618"><ele>126</ele></trkpt>
+   <trkpt lat="51.345213" lon="12.538072"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.345095" lon="12.537248"><ele>127</ele></trkpt>
+   <trkpt lat="51.345094" lon="12.537244"><ele>127</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

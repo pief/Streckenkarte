@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 233 filtered ascend = 2 plain-ascend = 2 cost=233 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6386 Beucha (Gleis 1) - Beucha Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/51.32507/12.57211/standard&amp;lonlats=12.573142,51.323502;12.572171,51.32549&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.323501" lon="12.573136"><ele>129</ele></trkpt>
+   <trkpt lat="51.323914" lon="12.572951"><ele>129.75</ele></trkpt>
+   <trkpt lat="51.323959" lon="12.572931"><ele>129.75</ele></trkpt>
+   <trkpt lat="51.324473" lon="12.572701"><ele>130.25</ele></trkpt>
+   <trkpt lat="51.324517" lon="12.57268"><ele>130.25</ele></trkpt>
+   <trkpt lat="51.324824" lon="12.572525"><ele>130.75</ele></trkpt>
+   <trkpt lat="51.32495" lon="12.572454"><ele>131</ele></trkpt>
+   <trkpt lat="51.325174" lon="12.572345"><ele>130.75</ele></trkpt>
+   <trkpt lat="51.325425" lon="12.572204"><ele>130.25</ele></trkpt>
+   <trkpt lat="51.325489" lon="12.572167"><ele>130</ele></trkpt>
+   <trkpt lat="51.325488" lon="12.572167"><ele>130.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

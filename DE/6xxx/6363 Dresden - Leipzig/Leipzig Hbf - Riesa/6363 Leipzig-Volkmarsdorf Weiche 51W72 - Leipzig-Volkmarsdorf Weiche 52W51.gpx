@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 1 plain-ascend = 1 cost=75 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6363 Leipzig-Volkmarsdorf Weiche 51W72 - Leipzig-Volkmarsdorf Weiche 52W51</name>
+  <link href="https://bikerouter.de/#map=19/51.35006/12.40108/standard&amp;lonlats=12.401161,51.350232;12.402234,51.350232&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.350236" lon="12.401161"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.350236" lon="12.401224"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.350238" lon="12.401278"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.350246" lon="12.401628"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.350233" lon="12.402228"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.350232" lon="12.402234"><ele>110.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

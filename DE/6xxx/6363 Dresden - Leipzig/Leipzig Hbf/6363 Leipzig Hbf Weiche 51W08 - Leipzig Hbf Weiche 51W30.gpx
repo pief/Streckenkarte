@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = 0 cost=240 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6363 Leipzig Hbf Weiche 51W08 - Leipzig Hbf Weiche 51W30</name>
+  <link href="https://bikerouter.de/#map=18/51.34780/12.38820/standard&amp;lonlats=12.38502,51.347351;12.385363,51.347656;12.387079,51.34907&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.34735" lon="12.385019"><ele>110</ele></trkpt>
+   <trkpt lat="51.347354" lon="12.385024"><ele>110</ele></trkpt>
+   <trkpt lat="51.347659" lon="12.385352"><ele>110</ele></trkpt>
+   <trkpt lat="51.348264" lon="12.386005"><ele>110</ele></trkpt>
+   <trkpt lat="51.348509" lon="12.386318"><ele>110</ele></trkpt>
+   <trkpt lat="51.348828" lon="12.386755"><ele>110</ele></trkpt>
+   <trkpt lat="51.34907" lon="12.387079"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

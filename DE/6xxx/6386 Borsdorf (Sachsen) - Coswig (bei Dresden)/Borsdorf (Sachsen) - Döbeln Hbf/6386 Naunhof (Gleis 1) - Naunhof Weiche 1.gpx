@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 515 filtered ascend = 0 plain-ascend = 0 cost=515 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6386 Naunhof (Gleis 1) - Naunhof Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/51.28150/12.59259/standard&amp;lonlats=12.594162,51.27707;12.592041,51.281493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.27707" lon="12.594163"><ele>132.75</ele></trkpt>
+   <trkpt lat="51.277347" lon="12.593986"><ele>132.75</ele></trkpt>
+   <trkpt lat="51.277686" lon="12.593791"><ele>132.5</ele></trkpt>
+   <trkpt lat="51.277903" lon="12.593665"><ele>132.5</ele></trkpt>
+   <trkpt lat="51.278406" lon="12.593419"><ele>132</ele></trkpt>
+   <trkpt lat="51.279535" lon="12.592913"><ele>132</ele></trkpt>
+   <trkpt lat="51.280075" lon="12.592671"><ele>131.75</ele></trkpt>
+   <trkpt lat="51.280608" lon="12.592435"><ele>132</ele></trkpt>
+   <trkpt lat="51.281494" lon="12.592038"><ele>131</ele></trkpt>
+   <trkpt lat="51.281492" lon="12.592038"><ele>131.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

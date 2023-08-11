@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 1 plain-ascend = 2 cost=359 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6386 Leisnig (Gleis 1) - Leisnig Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/51.16019/12.93367/standard&amp;lonlats=12.93818,51.160275;12.933081,51.160144&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.160275" lon="12.938178"><ele>155.5</ele></trkpt>
+   <trkpt lat="51.160162" lon="12.935618"><ele>152.5</ele></trkpt>
+   <trkpt lat="51.160138" lon="12.935141"><ele>152</ele></trkpt>
+   <trkpt lat="51.160115" lon="12.934475"><ele>153.25</ele></trkpt>
+   <trkpt lat="51.160105" lon="12.934175"><ele>154</ele></trkpt>
+   <trkpt lat="51.160102" lon="12.934025"><ele>154.25</ele></trkpt>
+   <trkpt lat="51.160108" lon="12.933641"><ele>154.5</ele></trkpt>
+   <trkpt lat="51.160122" lon="12.933315"><ele>155</ele></trkpt>
+   <trkpt lat="51.160143" lon="12.933085"><ele>156.25</ele></trkpt>
+   <trkpt lat="51.160143" lon="12.93308"><ele>157.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

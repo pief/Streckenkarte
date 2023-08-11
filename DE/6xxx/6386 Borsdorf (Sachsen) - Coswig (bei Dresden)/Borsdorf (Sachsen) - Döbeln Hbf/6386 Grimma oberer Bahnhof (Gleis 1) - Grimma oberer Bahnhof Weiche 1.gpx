@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 227 filtered ascend = 1 plain-ascend = -1 cost=227 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6386 Grimma oberer Bahnhof (Gleis 1) - Grimma oberer Bahnhof Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/51.23168/12.71382/standard&amp;lonlats=12.714221,51.230091;12.713757,51.232091&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.230091" lon="12.714221"><ele>158.75</ele></trkpt>
+   <trkpt lat="51.230169" lon="12.714214"><ele>159</ele></trkpt>
+   <trkpt lat="51.230534" lon="12.714182"><ele>159.5</ele></trkpt>
+   <trkpt lat="51.230543" lon="12.714181"><ele>159.5</ele></trkpt>
+   <trkpt lat="51.230805" lon="12.714161"><ele>159.75</ele></trkpt>
+   <trkpt lat="51.230867" lon="12.714156"><ele>159.75</ele></trkpt>
+   <trkpt lat="51.231136" lon="12.71412"><ele>159</ele></trkpt>
+   <trkpt lat="51.231512" lon="12.714027"><ele>158.25</ele></trkpt>
+   <trkpt lat="51.231874" lon="12.713877"><ele>157.5</ele></trkpt>
+   <trkpt lat="51.232087" lon="12.71376"><ele>157</ele></trkpt>
+   <trkpt lat="51.232091" lon="12.713757"><ele>157</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

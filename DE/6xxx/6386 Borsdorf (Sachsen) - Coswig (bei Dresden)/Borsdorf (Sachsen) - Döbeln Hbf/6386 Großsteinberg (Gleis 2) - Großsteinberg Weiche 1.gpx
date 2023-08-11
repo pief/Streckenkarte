@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 229 filtered ascend = 0 plain-ascend = -1 cost=229 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6386 Großsteinberg (Gleis 2) - Großsteinberg Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/51.25112/12.63588/standard&amp;lonlats=12.637459,51.250641;12.634486,51.251477&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.250639" lon="12.637458"><ele>139.75</ele></trkpt>
+   <trkpt lat="51.250751" lon="12.636981"><ele>139.75</ele></trkpt>
+   <trkpt lat="51.250804" lon="12.636757"><ele>139.75</ele></trkpt>
+   <trkpt lat="51.250963" lon="12.636184"><ele>139.5</ele></trkpt>
+   <trkpt lat="51.251209" lon="12.635389"><ele>138.75</ele></trkpt>
+   <trkpt lat="51.251357" lon="12.634864"><ele>138.25</ele></trkpt>
+   <trkpt lat="51.25148" lon="12.634494"><ele>138</ele></trkpt>
+   <trkpt lat="51.251481" lon="12.63449"><ele>138.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
