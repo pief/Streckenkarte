@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 223 filtered ascend = 1 plain-ascend = 1 cost=448 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Zentralhaltestelle (Steig 7A) - Roter Turm (Steig 3B)</name>
+  <link href="https://bikerouter.de/#map=19/50.83449/12.92381/standard&amp;lonlats=12.921508,50.832581;12.922739,50.834162&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.83258" lon="12.921507"><ele>303.25</ele></trkpt>
+   <trkpt lat="50.832831" lon="12.921299"><ele>303.75</ele></trkpt>
+   <trkpt lat="50.832893" lon="12.92126"><ele>303.75</ele></trkpt>
+   <trkpt lat="50.832985" lon="12.921202"><ele>304</ele></trkpt>
+   <trkpt lat="50.833025" lon="12.921193"><ele>304</ele></trkpt>
+   <trkpt lat="50.833129" lon="12.921229"><ele>304</ele></trkpt>
+   <trkpt lat="50.833761" lon="12.922208"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.833828" lon="12.922302"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.833899" lon="12.922403"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.83396" lon="12.922485"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.834161" lon="12.92274"><ele>304.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

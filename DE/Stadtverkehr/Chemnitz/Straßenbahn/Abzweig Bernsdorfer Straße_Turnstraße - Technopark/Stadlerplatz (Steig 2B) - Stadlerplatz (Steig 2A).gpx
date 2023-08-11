@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Stadlerplatz (Steig 2B) - Stadlerplatz (Steig 2A)</name>
+  <link href="https://bikerouter.de/#map=19/50.82162/12.92695/standard&amp;lonlats=12.927253,50.820979;12.927044,50.821289&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.820979" lon="12.927255"><ele>315.25</ele></trkpt>
+   <trkpt lat="50.820981" lon="12.927254"><ele>315.25</ele></trkpt>
+   <trkpt lat="50.821288" lon="12.927042"><ele>314.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

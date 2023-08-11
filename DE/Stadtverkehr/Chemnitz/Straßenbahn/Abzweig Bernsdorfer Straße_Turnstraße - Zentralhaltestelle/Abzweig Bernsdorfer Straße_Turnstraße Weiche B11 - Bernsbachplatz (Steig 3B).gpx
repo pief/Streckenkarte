@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 0 plain-ascend = -1 cost=422 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Abzweig Bernsdorfer Straße/Turnstraße Weiche B11 - Bernsbachplatz (Steig 3B)</name>
+  <link href="https://bikerouter.de/#map=19/50.82499/12.92796/standard&amp;lonlats=12.92931,50.823532;12.927162,50.824854&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.823534" lon="12.929314"><ele>308.5</ele></trkpt>
+   <trkpt lat="50.823775" lon="12.928914"><ele>308</ele></trkpt>
+   <trkpt lat="50.824034" lon="12.92852"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.824523" lon="12.927717"><ele>306.5</ele></trkpt>
+   <trkpt lat="50.824697" lon="12.927413"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.824853" lon="12.92716"><ele>306.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 3 plain-ascend = 4 cost=205 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>Chemnitz Süd Straßenbahnübergang - Technopark Weiche U7</name>
+  <link href="https://bikerouter.de/#map=19/50.81130/12.92427/standard&amp;lonlats=12.922374,50.811182;12.923795,50.811365&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.811179" lon="12.922374"><ele>318.75</ele></trkpt>
+   <trkpt lat="50.811182" lon="12.922388"><ele>319</ele></trkpt>
+   <trkpt lat="50.811205" lon="12.922569"><ele>319.25</ele></trkpt>
+   <trkpt lat="50.811221" lon="12.922703"><ele>319.5</ele></trkpt>
+   <trkpt lat="50.811244" lon="12.922888"><ele>320</ele></trkpt>
+   <trkpt lat="50.81128" lon="12.923175"><ele>320.75</ele></trkpt>
+   <trkpt lat="50.811362" lon="12.923791"><ele>322</ele></trkpt>
+   <trkpt lat="50.811362" lon="12.923794"><ele>322.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
