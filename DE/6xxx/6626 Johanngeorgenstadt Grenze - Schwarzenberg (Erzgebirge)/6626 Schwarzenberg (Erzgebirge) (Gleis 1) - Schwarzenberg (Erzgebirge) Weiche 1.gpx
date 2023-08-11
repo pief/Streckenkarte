@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 0 plain-ascend = -2 cost=124 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6626 Schwarzenberg (Erzgebirge) (Gleis 1) - Schwarzenberg (Erzgebirge) Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.54454/12.78821/standard&amp;lonlats=12.788518,50.544653;12.789992,50.544074&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.544652" lon="12.788517"><ele>424.75</ele></trkpt>
+   <trkpt lat="50.544549" lon="12.788832"><ele>424.75</ele></trkpt>
+   <trkpt lat="50.544371" lon="12.7893"><ele>424.25</ele></trkpt>
+   <trkpt lat="50.544359" lon="12.789329"><ele>424.25</ele></trkpt>
+   <trkpt lat="50.544283" lon="12.789518"><ele>423.75</ele></trkpt>
+   <trkpt lat="50.544203" lon="12.789691"><ele>423</ele></trkpt>
+   <trkpt lat="50.544075" lon="12.789992"><ele>422</ele></trkpt>
+   <trkpt lat="50.544074" lon="12.789992"><ele>422</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

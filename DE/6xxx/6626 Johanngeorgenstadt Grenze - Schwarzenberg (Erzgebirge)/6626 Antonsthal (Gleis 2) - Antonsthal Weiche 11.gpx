@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 2 plain-ascend = 2 cost=314 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6626 Antonsthal (Gleis 2) - Antonsthal Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/50.50098/12.75908/standard&amp;lonlats=12.75524,50.499892;12.759223,50.500984&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.49989" lon="12.75524"><ele>524</ele></trkpt>
+   <trkpt lat="50.500259" lon="12.756186"><ele>524</ele></trkpt>
+   <trkpt lat="50.500319" lon="12.756342"><ele>524</ele></trkpt>
+   <trkpt lat="50.500527" lon="12.756875"><ele>522.75</ele></trkpt>
+   <trkpt lat="50.500628" lon="12.757135"><ele>522.5</ele></trkpt>
+   <trkpt lat="50.500722" lon="12.757401"><ele>522</ele></trkpt>
+   <trkpt lat="50.500823" lon="12.757739"><ele>522</ele></trkpt>
+   <trkpt lat="50.500863" lon="12.757909"><ele>522.25</ele></trkpt>
+   <trkpt lat="50.500891" lon="12.758081"><ele>522.75</ele></trkpt>
+   <trkpt lat="50.500927" lon="12.758399"><ele>523.75</ele></trkpt>
+   <trkpt lat="50.500984" lon="12.759221"><ele>526.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
