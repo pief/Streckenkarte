@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 140 filtered ascend = 1 plain-ascend = 2 cost=140 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Frankenstein (Sachsen) (Gleis 1) - Frankenstein (Sachsen) Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/50.90199/13.22758/standard&amp;lonlats=13.228464,50.9029;13.22763,50.901759&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.902901" lon="13.228454"><ele>395</ele></trkpt>
+   <trkpt lat="50.902074" lon="13.227849"><ele>396</ele></trkpt>
+   <trkpt lat="50.901761" lon="13.227639"><ele>396.25</ele></trkpt>
+   <trkpt lat="50.901756" lon="13.227636"><ele>396.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
