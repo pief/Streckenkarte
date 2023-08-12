@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 340 filtered ascend = 1 plain-ascend = 1 cost=340 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6396 Leipzig Nord Weiche 302 - Leipzig Nord (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.36768/12.40015/standard&amp;lonlats=12.400483,51.367464;12.401043,51.364459&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.367464" lon="12.400485"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.367461" lon="12.400487"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.36729" lon="12.400572"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.367275" lon="12.40058"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.366944" lon="12.400745"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.366629" lon="12.40089"><ele>115</ele></trkpt>
+   <trkpt lat="51.3662" lon="12.401032"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.365801" lon="12.401116"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.365595" lon="12.401138"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.365294" lon="12.40115"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.365281" lon="12.40115"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.365018" lon="12.401137"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.364738" lon="12.401105"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.364459" lon="12.401043"><ele>116.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

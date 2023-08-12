@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 490 filtered ascend = 0 plain-ascend = -1 cost=490 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6360 Jesewitz (Leipzig) (Gleis 1) - Jesewitz (bei Leipzig) Weiche 16</name>
+  <link href="https://bikerouter.de/#map=19/51.42224/12.55124/standard&amp;lonlats=12.545278,51.419867;12.551274,51.422179&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.419865" lon="12.545278"><ele>129.25</ele></trkpt>
+   <trkpt lat="51.419893" lon="12.545355"><ele>129.5</ele></trkpt>
+   <trkpt lat="51.419971" lon="12.545563"><ele>129.75</ele></trkpt>
+   <trkpt lat="51.420088" lon="12.545887"><ele>129.75</ele></trkpt>
+   <trkpt lat="51.420711" lon="12.547617"><ele>129.5</ele></trkpt>
+   <trkpt lat="51.42092" lon="12.548183"><ele>129</ele></trkpt>
+   <trkpt lat="51.421508" lon="12.549718"><ele>128</ele></trkpt>
+   <trkpt lat="51.421714" lon="12.550249"><ele>127.75</ele></trkpt>
+   <trkpt lat="51.421984" lon="12.550865"><ele>127.5</ele></trkpt>
+   <trkpt lat="51.422176" lon="12.551271"><ele>127.5</ele></trkpt>
+   <trkpt lat="51.422177" lon="12.551275"><ele>127.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

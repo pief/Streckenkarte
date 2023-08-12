@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 688 filtered ascend = 1 plain-ascend = 0 cost=688 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6396 Leipzig Berliner Straße Weiche 244 - Leipzig Berliner Straße Weiche 209</name>
+  <link href="https://bikerouter.de/#map=19/51.35856/12.39532/standard&amp;lonlats=12.396103,51.358713;12.390277,51.353722&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.358712" lon="12.396102"><ele>111</ele></trkpt>
+   <trkpt lat="51.358707" lon="12.396096"><ele>111</ele></trkpt>
+   <trkpt lat="51.35727" lon="12.394375"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.357178" lon="12.394264"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.356546" lon="12.393507"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.356094" lon="12.392965"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.355241" lon="12.391941"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.354847" lon="12.39148"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.354615" lon="12.391226"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.354464" lon="12.391065"><ele>110</ele></trkpt>
+   <trkpt lat="51.354364" lon="12.390959"><ele>110</ele></trkpt>
+   <trkpt lat="51.35372" lon="12.390278"><ele>110.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = 0 cost=24 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6396 Leipzig Berliner Straße Weiche 209 - Leipzig Berliner Straße Weiche 206</name>
+  <link href="https://bikerouter.de/#map=19/51.35356/12.38976/standard&amp;lonlats=12.390277,51.353722;12.390095,51.35355&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.35372" lon="12.390278"><ele>110</ele></trkpt>
+   <trkpt lat="51.35372" lon="12.390277"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.353553" lon="12.390097"><ele>110</ele></trkpt>
+   <trkpt lat="51.353549" lon="12.390094"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

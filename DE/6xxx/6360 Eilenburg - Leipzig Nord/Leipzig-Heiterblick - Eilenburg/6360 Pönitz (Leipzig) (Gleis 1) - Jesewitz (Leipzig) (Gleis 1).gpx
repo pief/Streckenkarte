@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2500 filtered ascend = 1 plain-ascend = 2 cost=2500 energy=0.0kwh time=3m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6360 Pönitz (Leipzig) (Gleis 1) - Jesewitz (Leipzig) (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.41989/12.54518/standard&amp;lonlats=12.514346,51.408445;12.545278,51.419867&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.408447" lon="12.514342"><ele>127.75</ele></trkpt>
+   <trkpt lat="51.408453" lon="12.514353"><ele>127.75</ele></trkpt>
+   <trkpt lat="51.4087" lon="12.514904"><ele>127.5</ele></trkpt>
+   <trkpt lat="51.40892" lon="12.515411"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.409097" lon="12.515854"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.40936" lon="12.51651"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.410025" lon="12.518329"><ele>127.75</ele></trkpt>
+   <trkpt lat="51.4109" lon="12.520724"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.41091" lon="12.520752"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.411338" lon="12.521922"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.411818" lon="12.523234"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.412794" lon="12.525908"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.413455" lon="12.527714"><ele>128.75</ele></trkpt>
+   <trkpt lat="51.414352" lon="12.530169"><ele>126.5</ele></trkpt>
+   <trkpt lat="51.415279" lon="12.532717"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.415537" lon="12.533425"><ele>126</ele></trkpt>
+   <trkpt lat="51.415865" lon="12.534322"><ele>126</ele></trkpt>
+   <trkpt lat="51.416419" lon="12.53583"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.417261" lon="12.53812"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.41805" lon="12.540293"><ele>127.5</ele></trkpt>
+   <trkpt lat="51.419044" lon="12.543023"><ele>127</ele></trkpt>
+   <trkpt lat="51.419865" lon="12.545278"><ele>129.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

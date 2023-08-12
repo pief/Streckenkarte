@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 309 filtered ascend = 0 plain-ascend = 0 cost=309 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6360 Leipzig-Heiterblick Weiche 2 - Leipzig-Heiterblick (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/51.36916/12.46063/standard&amp;lonlats=12.455065,51.367517;12.458884,51.368903&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.367516" lon="12.455064"><ele>128</ele></trkpt>
+   <trkpt lat="51.367517" lon="12.455067"><ele>128</ele></trkpt>
+   <trkpt lat="51.367803" lon="12.455911"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.367815" lon="12.455947"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.368065" lon="12.456679"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.368369" lon="12.457511"><ele>128.75</ele></trkpt>
+   <trkpt lat="51.36867" lon="12.458324"><ele>128</ele></trkpt>
+   <trkpt lat="51.368893" lon="12.458892"><ele>128</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

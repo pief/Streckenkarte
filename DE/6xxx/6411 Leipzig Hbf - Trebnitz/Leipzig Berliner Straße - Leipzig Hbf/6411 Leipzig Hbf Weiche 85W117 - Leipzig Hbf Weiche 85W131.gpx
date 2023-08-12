@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 0 plain-ascend = 1 cost=265 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6411 Leipzig Hbf Weiche 85W117 - Leipzig Hbf Weiche 85W131</name>
+  <link href="https://bikerouter.de/#map=19/51.34951/12.38518/standard&amp;lonlats=12.385532,51.349785;12.383526,51.347771&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.349785" lon="12.38553"><ele>110</ele></trkpt>
+   <trkpt lat="51.349781" lon="12.385527"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.349548" lon="12.385305"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.349079" lon="12.384895"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.348864" lon="12.384692"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.347776" lon="12.383533"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.34777" lon="12.383526"><ele>110.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
