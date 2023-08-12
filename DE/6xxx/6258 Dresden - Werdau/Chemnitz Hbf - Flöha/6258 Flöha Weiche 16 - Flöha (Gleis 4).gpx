@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 430 filtered ascend = 3 plain-ascend = 3 cost=430 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Flöha Weiche 16 - Flöha (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/50.85396/13.07565/standard&amp;lonlats=13.070099,50.856016;13.075388,50.854281&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.856016" lon="13.070099"><ele>272</ele></trkpt>
+   <trkpt lat="50.856017" lon="13.070099"><ele>272</ele></trkpt>
+   <trkpt lat="50.855895" lon="13.071046"><ele>272</ele></trkpt>
+   <trkpt lat="50.855872" lon="13.071201"><ele>272</ele></trkpt>
+   <trkpt lat="50.855789" lon="13.071682"><ele>271.75</ele></trkpt>
+   <trkpt lat="50.855783" lon="13.071722"><ele>271.75</ele></trkpt>
+   <trkpt lat="50.855716" lon="13.072036"><ele>271.75</ele></trkpt>
+   <trkpt lat="50.855626" lon="13.072406"><ele>271.75</ele></trkpt>
+   <trkpt lat="50.855513" lon="13.07281"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.855324" lon="13.073371"><ele>273</ele></trkpt>
+   <trkpt lat="50.855188" lon="13.073731"><ele>273.25</ele></trkpt>
+   <trkpt lat="50.854912" lon="13.074341"><ele>274</ele></trkpt>
+   <trkpt lat="50.854679" lon="13.074774"><ele>274.5</ele></trkpt>
+   <trkpt lat="50.854352" lon="13.0753"><ele>275</ele></trkpt>
+   <trkpt lat="50.854287" lon="13.075399"><ele>274.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

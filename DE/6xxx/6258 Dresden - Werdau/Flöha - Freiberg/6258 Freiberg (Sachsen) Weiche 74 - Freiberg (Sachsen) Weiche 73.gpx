@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 0 plain-ascend = 0 cost=17 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Freiberg (Sachsen) Weiche 74 - Freiberg (Sachsen) Weiche 73</name>
+  <link href="https://bikerouter.de/#map=19/50.90909/13.33544/standard&amp;lonlats=13.33545,50.909152;13.335691,50.909149&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.909152" lon="13.33545"><ele>413</ele></trkpt>
+   <trkpt lat="50.909149" lon="13.335691"><ele>413</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
