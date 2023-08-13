@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 339 filtered ascend = 4 plain-ascend = 0 cost=339 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6623 Bärenstein (Annaberg) - Bärenstein Grenze</name>
+  <link href="https://bikerouter.de/#map=19/50.50461/13.03175/standard&amp;lonlats=13.029873,50.507781;13.031586,50.505055&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.50778" lon="13.029871"><ele>707.5</ele></trkpt>
+   <trkpt lat="50.506754" lon="13.030087"><ele>710.75</ele></trkpt>
+   <trkpt lat="50.506535" lon="13.030124"><ele>711.5</ele></trkpt>
+   <trkpt lat="50.506242" lon="13.030219"><ele>711.5</ele></trkpt>
+   <trkpt lat="50.506118" lon="13.03028"><ele>711.5</ele></trkpt>
+   <trkpt lat="50.505931" lon="13.030407"><ele>710.75</ele></trkpt>
+   <trkpt lat="50.50582" lon="13.030498"><ele>710.25</ele></trkpt>
+   <trkpt lat="50.505686" lon="13.030624"><ele>709.25</ele></trkpt>
+   <trkpt lat="50.505529" lon="13.030792"><ele>708.25</ele></trkpt>
+   <trkpt lat="50.505331" lon="13.031093"><ele>706.25</ele></trkpt>
+   <trkpt lat="50.50521" lon="13.031291"/>
+   <trkpt lat="50.505055" lon="13.031586"/>
+  </trkseg>
+ </trk>
+</gpx>
