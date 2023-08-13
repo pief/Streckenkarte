@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 189 filtered ascend = 8 plain-ascend = 8 cost=189 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Niederbobritzsch Weiche 40 - Niederbobritzsch (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.90152/13.43958/standard&amp;lonlats=13.438009,50.902001;13.440457,50.901299&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.902002" lon="13.43801"><ele>401</ele></trkpt>
+   <trkpt lat="50.901975" lon="13.438127"><ele>401.25</ele></trkpt>
+   <trkpt lat="50.901629" lon="13.439291"><ele>407.5</ele></trkpt>
+   <trkpt lat="50.901415" lon="13.440038"><ele>409.75</ele></trkpt>
+   <trkpt lat="50.901293" lon="13.440453"><ele>409</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

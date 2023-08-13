@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 0 plain-ascend = -6 cost=364 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Muldenhütten Weiche 6 - Muldenhütten (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.90549/13.38920/standard&amp;lonlats=13.389408,50.902519;13.388832,50.905746&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.902519" lon="13.389409"><ele>396.75</ele></trkpt>
+   <trkpt lat="50.902522" lon="13.389409"><ele>396.75</ele></trkpt>
+   <trkpt lat="50.903111" lon="13.389426"><ele>397.5</ele></trkpt>
+   <trkpt lat="50.903603" lon="13.389426"><ele>397.5</ele></trkpt>
+   <trkpt lat="50.903781" lon="13.389414"><ele>397.25</ele></trkpt>
+   <trkpt lat="50.903977" lon="13.38938"><ele>396.75</ele></trkpt>
+   <trkpt lat="50.904168" lon="13.389337"><ele>396.25</ele></trkpt>
+   <trkpt lat="50.904376" lon="13.389272"><ele>395.75</ele></trkpt>
+   <trkpt lat="50.904884" lon="13.389071"><ele>393.75</ele></trkpt>
+   <trkpt lat="50.905336" lon="13.388909"><ele>391.5</ele></trkpt>
+   <trkpt lat="50.905527" lon="13.388864"><ele>390.5</ele></trkpt>
+   <trkpt lat="50.90567" lon="13.388841"><ele>390</ele></trkpt>
+   <trkpt lat="50.905746" lon="13.388835"><ele>389.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

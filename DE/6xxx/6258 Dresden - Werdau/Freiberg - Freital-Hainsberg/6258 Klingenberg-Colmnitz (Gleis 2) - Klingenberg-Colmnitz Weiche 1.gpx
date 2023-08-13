@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 660 filtered ascend = 6 plain-ascend = 4 cost=661 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Klingenberg-Colmnitz (Gleis 2) - Klingenberg-Colmnitz Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.92715/13.50965/standard&amp;lonlats=13.500978,50.925877;13.509909,50.92698&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.925876" lon="13.500977"><ele>438.25</ele></trkpt>
+   <trkpt lat="50.92602" lon="13.50131"><ele>438.75</ele></trkpt>
+   <trkpt lat="50.926192" lon="13.501712"><ele>439.5</ele></trkpt>
+   <trkpt lat="50.926254" lon="13.501869"><ele>440</ele></trkpt>
+   <trkpt lat="50.926529" lon="13.502594"><ele>440.5</ele></trkpt>
+   <trkpt lat="50.926727" lon="13.503235"><ele>439.75</ele></trkpt>
+   <trkpt lat="50.926815" lon="13.503588"><ele>441</ele></trkpt>
+   <trkpt lat="50.92689" lon="13.503919"><ele>442.5</ele></trkpt>
+   <trkpt lat="50.926999" lon="13.504564"><ele>444.25</ele></trkpt>
+   <trkpt lat="50.927069" lon="13.505125"><ele>444.75</ele></trkpt>
+   <trkpt lat="50.927105" lon="13.505566"><ele>444.5</ele></trkpt>
+   <trkpt lat="50.927129" lon="13.506175"><ele>444.25</ele></trkpt>
+   <trkpt lat="50.927127" lon="13.506554"><ele>444</ele></trkpt>
+   <trkpt lat="50.927117" lon="13.506835"><ele>444</ele></trkpt>
+   <trkpt lat="50.927093" lon="13.507493"><ele>444</ele></trkpt>
+   <trkpt lat="50.927017" lon="13.50911"><ele>443.25</ele></trkpt>
+   <trkpt lat="50.92698" lon="13.509909"><ele>442.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

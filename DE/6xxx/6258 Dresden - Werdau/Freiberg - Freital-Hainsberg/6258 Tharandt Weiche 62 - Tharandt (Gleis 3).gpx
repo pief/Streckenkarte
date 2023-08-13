@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 0 plain-ascend = -6 cost=288 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Tharandt Weiche 62 - Tharandt (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/50.98291/13.59212/standard&amp;lonlats=13.588022,50.98235;13.592029,50.982848&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.982347" lon="13.588021"><ele>230.75</ele></trkpt>
+   <trkpt lat="50.982348" lon="13.588025"><ele>230.75</ele></trkpt>
+   <trkpt lat="50.982482" lon="13.589439"><ele>219</ele></trkpt>
+   <trkpt lat="50.982523" lon="13.589791"><ele>217</ele></trkpt>
+   <trkpt lat="50.982635" lon="13.590582"><ele>220.75</ele></trkpt>
+   <trkpt lat="50.982638" lon="13.590604"><ele>220.75</ele></trkpt>
+   <trkpt lat="50.98266" lon="13.590757"><ele>221.5</ele></trkpt>
+   <trkpt lat="50.982846" lon="13.592028"><ele>223.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

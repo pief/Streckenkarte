@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 441 filtered ascend = 7 plain-ascend = 8 cost=441 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6258 Klingenberg-Colmnitz Weiche 20 - Klingenberg-Colmnitz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.92574/13.50087/standard&amp;lonlats=13.495795,50.923648;13.500978,50.925877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.923647" lon="13.495794"><ele>431.25</ele></trkpt>
+   <trkpt lat="50.92365" lon="13.495799"><ele>431.25</ele></trkpt>
+   <trkpt lat="50.925188" lon="13.499377"><ele>436.75</ele></trkpt>
+   <trkpt lat="50.925876" lon="13.500977"><ele>438.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
