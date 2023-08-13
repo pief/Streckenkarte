@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 201 filtered ascend = 1 plain-ascend = 1 cost=201 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6644 Hennersdorf (Sachsen) Weiche 11 - Hennersdorf (Sachsen) (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.79160/13.07097/standard&amp;lonlats=13.070598,50.793595;13.070746,50.791845&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.793594" lon="13.070594"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.793596" lon="13.070595"><ele>298</ele></trkpt>
+   <trkpt lat="50.793293" lon="13.070472"><ele>296.25</ele></trkpt>
+   <trkpt lat="50.793037" lon="13.070404"><ele>296.5</ele></trkpt>
+   <trkpt lat="50.792766" lon="13.070394"><ele>297</ele></trkpt>
+   <trkpt lat="50.792615" lon="13.070411"><ele>297.5</ele></trkpt>
+   <trkpt lat="50.79237" lon="13.070476"><ele>298</ele></trkpt>
+   <trkpt lat="50.792159" lon="13.070563"><ele>298.25</ele></trkpt>
+   <trkpt lat="50.791938" lon="13.070689"><ele>298.5</ele></trkpt>
+   <trkpt lat="50.791846" lon="13.07075"><ele>299</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

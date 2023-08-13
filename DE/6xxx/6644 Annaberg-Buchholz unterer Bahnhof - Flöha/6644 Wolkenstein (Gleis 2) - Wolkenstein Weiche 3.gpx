@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 216 filtered ascend = 0 plain-ascend = -6 cost=216 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6644 Wolkenstein (Gleis 2) - Wolkenstein Weiche 3</name>
+  <link href="https://bikerouter.de/#map=17/50.65089/13.06645/standard&amp;lonlats=13.065231,50.652617;13.066759,50.65104&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.652617" lon="13.065231"><ele>402.25</ele></trkpt>
+   <trkpt lat="50.652584" lon="13.065335"><ele>402.5</ele></trkpt>
+   <trkpt lat="50.652524" lon="13.065492"><ele>402.5</ele></trkpt>
+   <trkpt lat="50.652446" lon="13.06567"><ele>402</ele></trkpt>
+   <trkpt lat="50.652338" lon="13.06586"><ele>401.25</ele></trkpt>
+   <trkpt lat="50.652253" lon="13.065995"><ele>400.75</ele></trkpt>
+   <trkpt lat="50.652157" lon="13.066129"><ele>400</ele></trkpt>
+   <trkpt lat="50.652058" lon="13.066246"><ele>399.5</ele></trkpt>
+   <trkpt lat="50.651958" lon="13.066348"><ele>398.75</ele></trkpt>
+   <trkpt lat="50.651861" lon="13.066432"><ele>398</ele></trkpt>
+   <trkpt lat="50.651735" lon="13.066524"><ele>397.25</ele></trkpt>
+   <trkpt lat="50.651621" lon="13.066593"><ele>396.5</ele></trkpt>
+   <trkpt lat="50.651389" lon="13.066687"><ele>395.5</ele></trkpt>
+   <trkpt lat="50.651143" lon="13.066745"><ele>395.75</ele></trkpt>
+   <trkpt lat="50.65104" lon="13.066759"><ele>395.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

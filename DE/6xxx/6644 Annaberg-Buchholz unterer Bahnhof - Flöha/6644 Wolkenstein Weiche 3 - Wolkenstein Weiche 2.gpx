@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 204 filtered ascend = 0 plain-ascend = 0 cost=205 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6644 Wolkenstein Weiche 3 - Wolkenstein Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/50.64922/13.06641/standard&amp;lonlats=13.066759,50.65104;13.066285,50.649273&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.65104" lon="13.066759"><ele>395.75</ele></trkpt>
+   <trkpt lat="50.650771" lon="13.066787"><ele>395.5</ele></trkpt>
+   <trkpt lat="50.650633" lon="13.066791"><ele>395.5</ele></trkpt>
+   <trkpt lat="50.650401" lon="13.066782"><ele>395</ele></trkpt>
+   <trkpt lat="50.650189" lon="13.066754"><ele>394.25</ele></trkpt>
+   <trkpt lat="50.649972" lon="13.066691"><ele>393.25</ele></trkpt>
+   <trkpt lat="50.649883" lon="13.066654"><ele>393</ele></trkpt>
+   <trkpt lat="50.649629" lon="13.066522"><ele>393.75</ele></trkpt>
+   <trkpt lat="50.649277" lon="13.066288"><ele>394.75</ele></trkpt>
+   <trkpt lat="50.649272" lon="13.066284"><ele>395</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
