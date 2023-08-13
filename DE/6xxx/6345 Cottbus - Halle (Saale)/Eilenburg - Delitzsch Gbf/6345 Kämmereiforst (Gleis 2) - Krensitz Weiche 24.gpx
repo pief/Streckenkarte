@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5522 filtered ascend = 0 plain-ascend = -13 cost=5522 energy=0.1kwh time=7m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Kämmereiforst (Gleis 2) - Krensitz Weiche 24</name>
+  <link href="https://bikerouter.de/#map=19/51.48994/12.46552/standard&amp;lonlats=12.540934,51.476258;12.464711,51.490015&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.476255" lon="12.540932"><ele>120.75</ele></trkpt>
+   <trkpt lat="51.476351" lon="12.540552"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.476464" lon="12.540089"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.476987" lon="12.537935"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.479205" lon="12.528898"><ele>120.25</ele></trkpt>
+   <trkpt lat="51.479918" lon="12.525961"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.480126" lon="12.524999"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.480333" lon="12.52389"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.483876" lon="12.502301"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.484584" lon="12.497951"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.485136" lon="12.494598"><ele>108</ele></trkpt>
+   <trkpt lat="51.486141" lon="12.488392"><ele>107</ele></trkpt>
+   <trkpt lat="51.489279" lon="12.469168"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.490014" lon="12.464714"><ele>106.25</ele></trkpt>
+   <trkpt lat="51.490014" lon="12.46471"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2622 filtered ascend = 3 plain-ascend = 4 cost=2622 energy=0.0kwh time=3m 29.28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Kyhna (Gleis 1) - Klitschmar (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/51.50975/12.22762/standard&amp;lonlats=12.266208,51.511111;12.26604,51.511108;12.264718,51.511024;12.228706,51.508327&amp;straight=0&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.511111" lon="12.266208"/>
+   <trkpt lat="51.511099" lon="12.265986"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.511065" lon="12.26537"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.511027" lon="12.264716"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.510809" lon="12.260887"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.51011" lon="12.248835"><ele>96</ele></trkpt>
+   <trkpt lat="51.509988" lon="12.246835"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.509766" lon="12.244213"><ele>97</ele></trkpt>
+   <trkpt lat="51.509224" lon="12.238427"><ele>98.75</ele></trkpt>
+   <trkpt lat="51.508334" lon="12.228765"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.508327" lon="12.228705"><ele>101.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

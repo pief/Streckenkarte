@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4025 filtered ascend = 0 plain-ascend = -3 cost=4025 energy=0.0kwh time=5m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Delitzsch Gbf Weiche 4 - Kyhna (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.51110/12.26596/standard&amp;lonlats=12.323981,51.514428;12.266209,51.511114&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.514425" lon="12.32398"><ele>102</ele></trkpt>
+   <trkpt lat="51.514413" lon="12.323696"><ele>101.75</ele></trkpt>
+   <trkpt lat="51.514373" lon="12.322713"><ele>100</ele></trkpt>
+   <trkpt lat="51.513858" lon="12.313708"><ele>98</ele></trkpt>
+   <trkpt lat="51.513555" lon="12.308431"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.513261" lon="12.303267"><ele>101.75</ele></trkpt>
+   <trkpt lat="51.512264" lon="12.286042"><ele>102</ele></trkpt>
+   <trkpt lat="51.511111" lon="12.266208"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

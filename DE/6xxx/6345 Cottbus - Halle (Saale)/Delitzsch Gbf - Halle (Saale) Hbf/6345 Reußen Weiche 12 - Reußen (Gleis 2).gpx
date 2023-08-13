@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1049 filtered ascend = 3 plain-ascend = 3 cost=1049 energy=0.0kwh time=1m 24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Reußen Weiche 12 - Reußen (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.50342/12.13501/standard&amp;lonlats=12.150045,51.503726;12.134948,51.503245&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.503725" lon="12.150044"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.503713" lon="12.149596"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.503674" lon="12.148366"><ele>107.25</ele></trkpt>
+   <trkpt lat="51.503247" lon="12.135055"><ele>109</ele></trkpt>
+   <trkpt lat="51.503243" lon="12.134947"><ele>108.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 262 filtered ascend = 0 plain-ascend = 0 cost=262 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Krensitz Weiche 24 - Krensitz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.49072/12.46110/standard&amp;lonlats=12.464711,51.490015;12.461076,51.490602&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.490014" lon="12.46471"><ele>106.25</ele></trkpt>
+   <trkpt lat="51.490045" lon="12.464518"><ele>106.5</ele></trkpt>
+   <trkpt lat="51.490155" lon="12.463826"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.490603" lon="12.461078"><ele>105.5</ele></trkpt>
+   <trkpt lat="51.490603" lon="12.461076"><ele>105.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

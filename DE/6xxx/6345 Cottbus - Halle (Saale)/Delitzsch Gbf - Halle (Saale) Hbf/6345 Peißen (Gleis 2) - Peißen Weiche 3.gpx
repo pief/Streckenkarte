@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 287 filtered ascend = 1 plain-ascend = 0 cost=287 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Peißen (Gleis 2) - Peißen Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/51.50080/12.05657/standard&amp;lonlats=12.060103,51.500851;12.055979,51.500712&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.500842" lon="12.060102"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.500836" lon="12.05989"><ele>98</ele></trkpt>
+   <trkpt lat="51.500812" lon="12.0591"><ele>99</ele></trkpt>
+   <trkpt lat="51.500709" lon="12.055984"><ele>99</ele></trkpt>
+   <trkpt lat="51.500708" lon="12.055978"><ele>96.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

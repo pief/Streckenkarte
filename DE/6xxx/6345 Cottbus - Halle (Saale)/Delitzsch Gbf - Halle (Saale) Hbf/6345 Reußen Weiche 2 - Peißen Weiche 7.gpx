@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4855 filtered ascend = 0 plain-ascend = -9 cost=4855 energy=0.1kwh time=6m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Reußen Weiche 2 - Peißen Weiche 7</name>
+  <link href="https://bikerouter.de/#map=18/51.50075/12.06385/standard&amp;lonlats=12.133615,51.503203;12.063731,51.500961&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.503203" lon="12.133615"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.501997" lon="12.095982"><ele>101</ele></trkpt>
+   <trkpt lat="51.501995" lon="12.095898"><ele>101</ele></trkpt>
+   <trkpt lat="51.501968" lon="12.095129"><ele>101</ele></trkpt>
+   <trkpt lat="51.501872" lon="12.091937"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.501112" lon="12.068428"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.500959" lon="12.063735"><ele>96</ele></trkpt>
+   <trkpt lat="51.500958" lon="12.06373"><ele>98</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3952 filtered ascend = 5 plain-ascend = 4 cost=3952 energy=0.0kwh time=5m 16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Klitschmar (Gleis 2) - Landsberg (bei Halle/Saale) Süd (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.50450/12.17168/standard&amp;lonlats=12.228706,51.508327;12.172155,51.504419&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.508327" lon="12.228705"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.508261" lon="12.22804"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.508242" lon="12.227825"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.507284" lon="12.217486"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.505643" lon="12.199815"><ele>105.5</ele></trkpt>
+   <trkpt lat="51.505196" lon="12.194914"><ele>105</ele></trkpt>
+   <trkpt lat="51.505142" lon="12.194151"><ele>105</ele></trkpt>
+   <trkpt lat="51.505088" lon="12.19321"><ele>105</ele></trkpt>
+   <trkpt lat="51.505057" lon="12.192405"><ele>105.75</ele></trkpt>
+   <trkpt lat="51.504424" lon="12.172153"><ele>104.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

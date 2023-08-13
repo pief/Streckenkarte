@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 421 filtered ascend = 0 plain-ascend = 0 cost=422 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>6345 Eilenburg (Gleis 1) - Eilenburg Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/51.45005/12.63193/standard&amp;lonlats=12.636746,51.451902;12.631568,51.449939&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.451899" lon="12.636747"><ele>102.5</ele></trkpt>
+   <trkpt lat="51.451649" lon="12.636064"><ele>102.5</ele></trkpt>
+   <trkpt lat="51.450552" lon="12.633097"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.449939" lon="12.631567"><ele>102.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
