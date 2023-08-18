@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 379 filtered ascend = 3 plain-ascend = -1 cost=379 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>OBVL Kornsjø Weiche 2 - Kornsjø Grenze</name>
+  <link href="https://bikerouter.de/#map=17/58.93773/11.66673/standard&amp;lonlats=11.666837,58.937689;11.66985,58.9348&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.93769" lon="11.666839"><ele>147.25</ele></trkpt>
+   <trkpt lat="58.937459" lon="11.667412"><ele>148.25</ele></trkpt>
+   <trkpt lat="58.937371" lon="11.667613"><ele>148.75</ele></trkpt>
+   <trkpt lat="58.937205" lon="11.667937"><ele>148.75</ele></trkpt>
+   <trkpt lat="58.937112" lon="11.6681"><ele>148.75</ele></trkpt>
+   <trkpt lat="58.936897" lon="11.668439"><ele>149</ele></trkpt>
+   <trkpt lat="58.936786" lon="11.668592"><ele>149.25</ele></trkpt>
+   <trkpt lat="58.936669" lon="11.668742"><ele>149.25</ele></trkpt>
+   <trkpt lat="58.936442" lon="11.66899"><ele>150.25</ele></trkpt>
+   <trkpt lat="58.936184" lon="11.669226"><ele>150.5</ele></trkpt>
+   <trkpt lat="58.936066" lon="11.669314"><ele>150.25</ele></trkpt>
+   <trkpt lat="58.935823" lon="11.66947"><ele>150</ele></trkpt>
+   <trkpt lat="58.935581" lon="11.669588"><ele>148.75</ele></trkpt>
+   <trkpt lat="58.935383" lon="11.669665"><ele>147.75</ele></trkpt>
+   <trkpt lat="58.935175" lon="11.669738"><ele>146.5</ele></trkpt>
+   <trkpt lat="58.934898" lon="11.669817"><ele>145.5</ele></trkpt>
+   <trkpt lat="58.934799" lon="11.669849"><ele>145.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

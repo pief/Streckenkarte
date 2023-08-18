@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 391 filtered ascend = 0 plain-ascend = 1 cost=391 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>OBVL Berg Weiche 2 - Berg Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/59.12675/11.29045/standard&amp;lonlats=11.294198,59.124312;11.289576,59.126865&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.12431" lon="11.294195"><ele>13.75</ele></trkpt>
+   <trkpt lat="59.12431" lon="11.294196"><ele>13.75</ele></trkpt>
+   <trkpt lat="59.124436" lon="11.29387"><ele>13.75</ele></trkpt>
+   <trkpt lat="59.124668" lon="11.293331"><ele>13.75</ele></trkpt>
+   <trkpt lat="59.124915" lon="11.292793"><ele>13</ele></trkpt>
+   <trkpt lat="59.125308" lon="11.292017"><ele>12.5</ele></trkpt>
+   <trkpt lat="59.125562" lon="11.291552"><ele>12.25</ele></trkpt>
+   <trkpt lat="59.125888" lon="11.291009"><ele>12.75</ele></trkpt>
+   <trkpt lat="59.126024" lon="11.2908"><ele>13</ele></trkpt>
+   <trkpt lat="59.126249" lon="11.290463"><ele>13</ele></trkpt>
+   <trkpt lat="59.126864" lon="11.289575"><ele>13.25</ele></trkpt>
+   <trkpt lat="59.126864" lon="11.289574"><ele>14.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

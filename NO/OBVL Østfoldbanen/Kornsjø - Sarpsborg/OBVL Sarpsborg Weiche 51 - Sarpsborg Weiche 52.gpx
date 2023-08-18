@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 541 filtered ascend = 8 plain-ascend = 7 cost=541 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>OBVL Sarpsborg Weiche 51 - Sarpsborg Weiche 52</name>
+  <link href="https://bikerouter.de/#map=18/59.27590/11.13559/standard&amp;lonlats=11.134659,59.275686;11.140877,59.27218&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.27569" lon="11.134664"><ele>44.5</ele></trkpt>
+   <trkpt lat="59.275689" lon="11.134668"><ele>44.75</ele></trkpt>
+   <trkpt lat="59.275517" lon="11.135216"><ele>46.75</ele></trkpt>
+   <trkpt lat="59.275265" lon="11.136007"><ele>47.75</ele></trkpt>
+   <trkpt lat="59.275153" lon="11.136337"><ele>47.75</ele></trkpt>
+   <trkpt lat="59.275033" lon="11.136678"><ele>47.75</ele></trkpt>
+   <trkpt lat="59.274821" lon="11.137219"><ele>49.25</ele></trkpt>
+   <trkpt lat="59.274627" lon="11.137663"><ele>50</ele></trkpt>
+   <trkpt lat="59.274466" lon="11.137995"><ele>50.25</ele></trkpt>
+   <trkpt lat="59.274288" lon="11.138336"><ele>50.25</ele></trkpt>
+   <trkpt lat="59.274156" lon="11.138567"><ele>50.75</ele></trkpt>
+   <trkpt lat="59.273878" lon="11.139014"><ele>52</ele></trkpt>
+   <trkpt lat="59.273763" lon="11.139178"><ele>52.25</ele></trkpt>
+   <trkpt lat="59.273494" lon="11.139538"><ele>52.75</ele></trkpt>
+   <trkpt lat="59.273338" lon="11.139721"><ele>52.75</ele></trkpt>
+   <trkpt lat="59.2731" lon="11.139991"><ele>52</ele></trkpt>
+   <trkpt lat="59.272831" lon="11.140266"><ele>52</ele></trkpt>
+   <trkpt lat="59.27218" lon="11.140877"><ele>51.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

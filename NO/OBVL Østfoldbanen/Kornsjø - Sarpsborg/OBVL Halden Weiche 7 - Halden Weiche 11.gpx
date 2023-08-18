@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 1 cost=49 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>OBVL Halden Weiche 7 - Halden Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/59.11905/11.37895/standard&amp;lonlats=11.37914,59.119132;11.379921,59.119296&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.11913" lon="11.37914"><ele>2</ele></trkpt>
+   <trkpt lat="59.11913" lon="11.379139"><ele>2</ele></trkpt>
+   <trkpt lat="59.119294" lon="11.379921"><ele>2.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

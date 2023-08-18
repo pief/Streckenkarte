@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 379 filtered ascend = 2 plain-ascend = 3 cost=379 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>OBVL Sarpsborg Weiche 2 - Sarpsborg Weiche 8</name>
+  <link href="https://bikerouter.de/#map=16/59.2784/11.1339/standard&amp;lonlats=11.12655,59.28064;11.122174,59.283171&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.28064" lon="11.12655"><ele>38.75</ele></trkpt>
+   <trkpt lat="59.280643" lon="11.126545"><ele>39</ele></trkpt>
+   <trkpt lat="59.281509" lon="11.124765"><ele>40.5</ele></trkpt>
+   <trkpt lat="59.281796" lon="11.124202"><ele>40.5</ele></trkpt>
+   <trkpt lat="59.282043" lon="11.123761"><ele>40.75</ele></trkpt>
+   <trkpt lat="59.282246" lon="11.123454"><ele>40.5</ele></trkpt>
+   <trkpt lat="59.282576" lon="11.122979"><ele>41</ele></trkpt>
+   <trkpt lat="59.283171" lon="11.122176"><ele>41.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
