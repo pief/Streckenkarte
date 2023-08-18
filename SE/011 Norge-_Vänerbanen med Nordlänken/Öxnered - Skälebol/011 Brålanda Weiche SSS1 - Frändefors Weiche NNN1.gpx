@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7624 filtered ascend = 1 plain-ascend = -2 cost=7625 energy=0.1kwh time=10m 10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Brålanda Weiche SSS1 - Frändefors Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=16/58.5585/12.3530/standard&amp;lonlats=12.344971,58.556631;12.28143,58.497095&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.55663" lon="12.344971"><ele>65</ele></trkpt>
+   <trkpt lat="58.556565" lon="12.344894"><ele>65</ele></trkpt>
+   <trkpt lat="58.554781" lon="12.342806"><ele>66</ele></trkpt>
+   <trkpt lat="58.554568" lon="12.342555"><ele>66.25</ele></trkpt>
+   <trkpt lat="58.554557" lon="12.342542"><ele>66.5</ele></trkpt>
+   <trkpt lat="58.549874" lon="12.337045"><ele>66</ele></trkpt>
+   <trkpt lat="58.547112" lon="12.333801"><ele>65.5</ele></trkpt>
+   <trkpt lat="58.546752" lon="12.333377"><ele>65</ele></trkpt>
+   <trkpt lat="58.544565" lon="12.330838"><ele>64</ele></trkpt>
+   <trkpt lat="58.539459" lon="12.324824"><ele>62.25</ele></trkpt>
+   <trkpt lat="58.539062" lon="12.32435"><ele>61.75</ele></trkpt>
+   <trkpt lat="58.535335" lon="12.319978"><ele>61.25</ele></trkpt>
+   <trkpt lat="58.531801" lon="12.315837"><ele>61.25</ele></trkpt>
+   <trkpt lat="58.529096" lon="12.312666"><ele>60.5</ele></trkpt>
+   <trkpt lat="58.524157" lon="12.306876"><ele>61</ele></trkpt>
+   <trkpt lat="58.522745" lon="12.305221"><ele>61</ele></trkpt>
+   <trkpt lat="58.51655" lon="12.297961"><ele>61.25</ele></trkpt>
+   <trkpt lat="58.510894" lon="12.291333"><ele>62.25</ele></trkpt>
+   <trkpt lat="58.509481" lon="12.289686"><ele>62.5</ele></trkpt>
+   <trkpt lat="58.509" lon="12.289148"><ele>62</ele></trkpt>
+   <trkpt lat="58.508842" lon="12.28898"><ele>62</ele></trkpt>
+   <trkpt lat="58.508487" lon="12.288627"><ele>62</ele></trkpt>
+   <trkpt lat="58.508127" lon="12.288292"><ele>62</ele></trkpt>
+   <trkpt lat="58.50763" lon="12.287857"><ele>62</ele></trkpt>
+   <trkpt lat="58.507094" lon="12.287439"><ele>62</ele></trkpt>
+   <trkpt lat="58.506449" lon="12.28703"><ele>62</ele></trkpt>
+   <trkpt lat="58.500365" lon="12.283397"><ele>63.5</ele></trkpt>
+   <trkpt lat="58.499" lon="12.282573"><ele>64</ele></trkpt>
+   <trkpt lat="58.498991" lon="12.282567"><ele>64</ele></trkpt>
+   <trkpt lat="58.497913" lon="12.281927"><ele>62.5</ele></trkpt>
+   <trkpt lat="58.497424" lon="12.281625"><ele>61</ele></trkpt>
+   <trkpt lat="58.497128" lon="12.281446"><ele>62</ele></trkpt>
+   <trkpt lat="58.497095" lon="12.28143"><ele>62.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

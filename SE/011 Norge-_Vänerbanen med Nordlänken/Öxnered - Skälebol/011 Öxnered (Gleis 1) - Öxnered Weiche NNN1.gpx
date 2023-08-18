@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 427 filtered ascend = 0 plain-ascend = 0 cost=428 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Öxnered (Gleis 1) - Öxnered Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/58.36266/12.27601/standard&amp;lonlats=12.273886,58.359225;12.276095,58.362872&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.359224" lon="12.273884"><ele>63.75</ele></trkpt>
+   <trkpt lat="58.36113" lon="12.274985"><ele>61.5</ele></trkpt>
+   <trkpt lat="58.361516" lon="12.275206"><ele>61.25</ele></trkpt>
+   <trkpt lat="58.36176" lon="12.275355"><ele>61.5</ele></trkpt>
+   <trkpt lat="58.362457" lon="12.275827"><ele>62.75</ele></trkpt>
+   <trkpt lat="58.362871" lon="12.276093"><ele>63.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
