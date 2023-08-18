@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 476 filtered ascend = 7 plain-ascend = 4 cost=477 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Ed (Gleis 1) - Ed Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/58.91316/11.93234/standard&amp;lonlats=11.931775,58.913467;11.939816,58.912631&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.913462" lon="11.931774"><ele>141.5</ele></trkpt>
+   <trkpt lat="58.913483" lon="11.932145"><ele>142.25</ele></trkpt>
+   <trkpt lat="58.913493" lon="11.932636"><ele>143.75</ele></trkpt>
+   <trkpt lat="58.913492" lon="11.933149"><ele>145.75</ele></trkpt>
+   <trkpt lat="58.913481" lon="11.933646"><ele>146.25</ele></trkpt>
+   <trkpt lat="58.913464" lon="11.934009"><ele>146.25</ele></trkpt>
+   <trkpt lat="58.91343" lon="11.934499"><ele>146.75</ele></trkpt>
+   <trkpt lat="58.913388" lon="11.934925"><ele>147.5</ele></trkpt>
+   <trkpt lat="58.913338" lon="11.935348"><ele>147.75</ele></trkpt>
+   <trkpt lat="58.913143" lon="11.936608"><ele>148.5</ele></trkpt>
+   <trkpt lat="58.912789" lon="11.938822"><ele>147.25</ele></trkpt>
+   <trkpt lat="58.912631" lon="11.939816"><ele>145.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

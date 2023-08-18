@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 777 filtered ascend = 5 plain-ascend = 3 cost=777 energy=0.0kwh time=1m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Bäckefors Weiche NNN1 - (Westliches Gleis) - Bäckefors Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/58.80654/12.15802/standard&amp;lonlats=12.15737,58.806462;12.15781,58.805977;12.163153,58.800175&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.806462" lon="12.157372"><ele>153</ele></trkpt>
+   <trkpt lat="58.806462" lon="12.157373"><ele>153</ele></trkpt>
+   <trkpt lat="58.806004" lon="12.157797"><ele>152.5</ele></trkpt>
+   <trkpt lat="58.805979" lon="12.157819"><ele>152.5</ele></trkpt>
+   <trkpt lat="58.805915" lon="12.157876"><ele>152.5</ele></trkpt>
+   <trkpt lat="58.804347" lon="12.159315"><ele>153.75</ele></trkpt>
+   <trkpt lat="58.801686" lon="12.161761"><ele>155</ele></trkpt>
+   <trkpt lat="58.800602" lon="12.162758"><ele>157.75</ele></trkpt>
+   <trkpt lat="58.800179" lon="12.163148"><ele>156.75</ele></trkpt>
+   <trkpt lat="58.800174" lon="12.163152"><ele>155</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
