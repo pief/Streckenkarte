@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 1 plain-ascend = 2 cost=41 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Olskroken Weiche NNN2 - Olskroken Weiche NNN3</name>
+  <link href="https://bikerouter.de/#map=19/57.72292/12.00425/standard&amp;lonlats=12.002955,57.722801;12.003052,57.723156&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.722799" lon="12.002955"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.722806" lon="12.002957"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.723153" lon="12.003055"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.723154" lon="12.003055"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

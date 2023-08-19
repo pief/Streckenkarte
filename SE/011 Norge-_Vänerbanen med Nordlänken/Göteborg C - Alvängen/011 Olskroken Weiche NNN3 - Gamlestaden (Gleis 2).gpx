@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 473 filtered ascend = 1 plain-ascend = 1 cost=473 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Olskroken Weiche NNN3 - Gamlestaden (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=17/57.72632/12.00482/standard&amp;lonlats=12.003055,57.723154;12.003693,57.725871;12.004122,57.727354&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.723153" lon="12.003055"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.723943" lon="12.003277"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.724664" lon="12.003457"><ele>4.5</ele></trkpt>
+   <trkpt lat="57.724945" lon="12.003508"><ele>5</ele></trkpt>
+   <trkpt lat="57.725101" lon="12.003535"><ele>5</ele></trkpt>
+   <trkpt lat="57.725688" lon="12.003651"><ele>4</ele></trkpt>
+   <trkpt lat="57.725871" lon="12.003693"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.726633" lon="12.003921"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.727119" lon="12.004056"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.727312" lon="12.004109"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.727353" lon="12.004121"><ele>2.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

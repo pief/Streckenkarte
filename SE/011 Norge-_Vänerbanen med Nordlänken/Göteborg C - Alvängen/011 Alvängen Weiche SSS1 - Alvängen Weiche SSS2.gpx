@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 339 filtered ascend = 0 plain-ascend = 0 cost=339 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Alvängen Weiche SSS1 - Alvängen Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=18/57.95535/12.11003/standard&amp;lonlats=12.104444,57.953596;12.109026,57.955404&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.953595" lon="12.104443"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.953598" lon="12.10445"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.955398" lon="12.109018"><ele>1.5</ele></trkpt>
+   <trkpt lat="57.955401" lon="12.109028"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

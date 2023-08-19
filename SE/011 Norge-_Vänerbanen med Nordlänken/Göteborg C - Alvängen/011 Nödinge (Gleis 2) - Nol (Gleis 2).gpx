@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2943 filtered ascend = 5 plain-ascend = 0 cost=2943 energy=0.0kwh time=3m 55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Nödinge (Gleis 2) - Nol (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/57.91802/12.06099/standard&amp;lonlats=12.043276,57.893156;12.060685,57.91779&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.893155" lon="12.043278"><ele>1.25</ele></trkpt>
+   <trkpt lat="57.893157" lon="12.04328"><ele>1.25</ele></trkpt>
+   <trkpt lat="57.895302" lon="12.044453"><ele>0.5</ele></trkpt>
+   <trkpt lat="57.897726" lon="12.045785"><ele>2</ele></trkpt>
+   <trkpt lat="57.897741" lon="12.045794"><ele>2</ele></trkpt>
+   <trkpt lat="57.903912" lon="12.049177"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.906353" lon="12.050545"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.907634" lon="12.051366"><ele>3</ele></trkpt>
+   <trkpt lat="57.90835" lon="12.051866"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.90937" lon="12.052648"><ele>1</ele></trkpt>
+   <trkpt lat="57.909385" lon="12.052659"><ele>1</ele></trkpt>
+   <trkpt lat="57.909844" lon="12.053007"><ele>0.75</ele></trkpt>
+   <trkpt lat="57.911814" lon="12.054758"><ele>1.5</ele></trkpt>
+   <trkpt lat="57.912298" lon="12.055221"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.914018" lon="12.056924"><ele>6.75</ele></trkpt>
+   <trkpt lat="57.91779" lon="12.060681"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

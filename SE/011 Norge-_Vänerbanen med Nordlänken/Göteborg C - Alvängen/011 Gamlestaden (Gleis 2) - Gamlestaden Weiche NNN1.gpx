@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 817 filtered ascend = 1 plain-ascend = 2 cost=817 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Gamlestaden (Gleis 2) - Gamlestaden Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/57.73549/12.00474/standard&amp;lonlats=12.004125,57.727355;12.004621,57.734663&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.727354" lon="12.004122"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.728007" lon="12.004323"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.72858" lon="12.004473"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.729155" lon="12.0046"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.730148" lon="12.00474"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.730379" lon="12.004767"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.730794" lon="12.004799"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.731227" lon="12.00481"><ele>2.25</ele></trkpt>
+   <trkpt lat="57.731985" lon="12.0048"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.7333" lon="12.004711"><ele>2</ele></trkpt>
+   <trkpt lat="57.734664" lon="12.004624"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.734663" lon="12.004624"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

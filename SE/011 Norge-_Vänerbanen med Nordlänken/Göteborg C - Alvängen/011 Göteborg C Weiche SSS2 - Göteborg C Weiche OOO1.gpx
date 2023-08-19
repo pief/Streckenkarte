@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 664 filtered ascend = 1 plain-ascend = 1 cost=664 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Göteborg C Weiche SSS2 - Göteborg C Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/57.71464/11.99287/standard&amp;lonlats=11.983402,57.710611;11.99169,57.714422&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.71061" lon="11.983401"><ele>5</ele></trkpt>
+   <trkpt lat="57.710689" lon="11.983771"><ele>5</ele></trkpt>
+   <trkpt lat="57.71086" lon="11.984542"><ele>4.5</ele></trkpt>
+   <trkpt lat="57.710969" lon="11.984962"><ele>4</ele></trkpt>
+   <trkpt lat="57.711161" lon="11.985618"><ele>4</ele></trkpt>
+   <trkpt lat="57.711357" lon="11.986198"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.711512" lon="11.98658"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.711686" lon="11.986967"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.711689" lon="11.986973"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.711831" lon="11.987258"><ele>3</ele></trkpt>
+   <trkpt lat="57.711978" lon="11.987526"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.713801" lon="11.990633"><ele>6.75</ele></trkpt>
+   <trkpt lat="57.714423" lon="11.991689"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.714422" lon="11.991687"><ele>6.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

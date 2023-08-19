@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 857 filtered ascend = 1 plain-ascend = 1 cost=857 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Gamlestaden Weiche NNN2 - Göteborg Marieholm Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=16/57.7437/12.0095/standard&amp;lonlats=12.004601,57.735011;12.006002,57.742591&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.735011" lon="12.004601"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.735012" lon="12.004601"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.737014" lon="12.004464"><ele>4.5</ele></trkpt>
+   <trkpt lat="57.737603" lon="12.00443"><ele>5</ele></trkpt>
+   <trkpt lat="57.738211" lon="12.004423"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.73871" lon="12.00447"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.73918" lon="12.004545"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.739679" lon="12.004668"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.739983" lon="12.004766"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.74035" lon="12.004906"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.740733" lon="12.005078"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.741454" lon="12.005427"><ele>5</ele></trkpt>
+   <trkpt lat="57.742291" lon="12.005853"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.74259" lon="12.006004"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

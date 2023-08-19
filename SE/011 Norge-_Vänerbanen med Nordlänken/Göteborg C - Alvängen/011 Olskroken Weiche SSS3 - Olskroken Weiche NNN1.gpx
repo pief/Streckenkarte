@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 484 filtered ascend = 1 plain-ascend = 0 cost=484 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Olskroken Weiche SSS3 - Olskroken Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/57.72224/12.00344/standard&amp;lonlats=11.998889,57.718684;12.002837,57.722377&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.718683" lon="11.998888"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.718891" lon="11.99924"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.719359" lon="12.000026"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.719502" lon="12.000268"><ele>4.75</ele></trkpt>
+   <trkpt lat="57.719628" lon="12.000481"><ele>5.25</ele></trkpt>
+   <trkpt lat="57.719768" lon="12.000692"><ele>5.5</ele></trkpt>
+   <trkpt lat="57.720208" lon="12.001303"><ele>5.25</ele></trkpt>
+   <trkpt lat="57.720494" lon="12.001651"><ele>4.5</ele></trkpt>
+   <trkpt lat="57.7208" lon="12.001997"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.721052" lon="12.002204"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.72149" lon="12.002486"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.7217" lon="12.002604"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.721875" lon="12.002686"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.722022" lon="12.002738"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.722376" lon="12.002836"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
