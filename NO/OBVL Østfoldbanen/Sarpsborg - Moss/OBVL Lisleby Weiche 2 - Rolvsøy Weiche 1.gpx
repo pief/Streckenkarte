@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2333 filtered ascend = 4 plain-ascend = 3 cost=2333 energy=0.0kwh time=3m 7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>OBVL Lisleby Weiche 2 - Rolvsøy Weiche 1</name>
+  <link href="https://bikerouter.de/#map=14/59.2342/11.0027/standard&amp;lonlats=10.98073,59.236981;11.002859,59.254553&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.23698" lon="10.980729"><ele>16.75</ele></trkpt>
+   <trkpt lat="59.236982" lon="10.980731"><ele>16.75</ele></trkpt>
+   <trkpt lat="59.237165" lon="10.980931"><ele>16.75</ele></trkpt>
+   <trkpt lat="59.240686" lon="10.984825"><ele>12</ele></trkpt>
+   <trkpt lat="59.240854" lon="10.985009"><ele>12</ele></trkpt>
+   <trkpt lat="59.243982" lon="10.988468"><ele>20</ele></trkpt>
+   <trkpt lat="59.245212" lon="10.989824"><ele>20.5</ele></trkpt>
+   <trkpt lat="59.24639" lon="10.991129"><ele>20</ele></trkpt>
+   <trkpt lat="59.246922" lon="10.991763"><ele>19.75</ele></trkpt>
+   <trkpt lat="59.247277" lon="10.992215"><ele>20.5</ele></trkpt>
+   <trkpt lat="59.247628" lon="10.992691"><ele>21.25</ele></trkpt>
+   <trkpt lat="59.248212" lon="10.993539"><ele>21.5</ele></trkpt>
+   <trkpt lat="59.24823" lon="10.993564"><ele>21.5</ele></trkpt>
+   <trkpt lat="59.254552" lon="11.002858"><ele>19.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 624 filtered ascend = 0 plain-ascend = 0 cost=624 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>OBVL Moss Weiche SSS1 - Moss Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=17/59.42962/10.66029/standard&amp;lonlats=10.658747,59.424077;10.658592,59.429677&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.424075" lon="10.658747"><ele>5</ele></trkpt>
+   <trkpt lat="59.424083" lon="10.658748"><ele>5</ele></trkpt>
+   <trkpt lat="59.429677" lon="10.658592"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 439 filtered ascend = 1 plain-ascend = 0 cost=439 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>OBVL Lisleby Weiche 1 - Lisleby Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/59.23357/10.97898/standard&amp;lonlats=10.978542,59.233267;10.98073,59.236981&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.233267" lon="10.978544"><ele>17.75</ele></trkpt>
+   <trkpt lat="59.233269" lon="10.978544"><ele>17.75</ele></trkpt>
+   <trkpt lat="59.233937" lon="10.978565"><ele>18.5</ele></trkpt>
+   <trkpt lat="59.234124" lon="10.9786"><ele>18.75</ele></trkpt>
+   <trkpt lat="59.234471" lon="10.978696"><ele>18.75</ele></trkpt>
+   <trkpt lat="59.234819" lon="10.97884"><ele>18.5</ele></trkpt>
+   <trkpt lat="59.235163" lon="10.979026"><ele>18.5</ele></trkpt>
+   <trkpt lat="59.235497" lon="10.979251"><ele>18.5</ele></trkpt>
+   <trkpt lat="59.235657" lon="10.979374"><ele>18.25</ele></trkpt>
+   <trkpt lat="59.235854" lon="10.979543"><ele>18.25</ele></trkpt>
+   <trkpt lat="59.236048" lon="10.979725"><ele>18</ele></trkpt>
+   <trkpt lat="59.236415" lon="10.980107"><ele>17</ele></trkpt>
+   <trkpt lat="59.23698" lon="10.980729"><ele>16.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 313 filtered ascend = 1 plain-ascend = 0 cost=313 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>OBVL Råde (Gleis 2) - Råde Weiche 2</name>
+  <link href="https://bikerouter.de/#map=18/59.34743/10.86710/standard&amp;lonlats=10.865479,59.347543;10.870366,59.346282&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.347543" lon="10.865479"><ele>20</ele></trkpt>
+   <trkpt lat="59.347394" lon="10.866329"><ele>21.25</ele></trkpt>
+   <trkpt lat="59.347287" lon="10.866857"><ele>21</ele></trkpt>
+   <trkpt lat="59.34706" lon="10.867852"><ele>19.5</ele></trkpt>
+   <trkpt lat="59.346962" lon="10.868247"><ele>19.25</ele></trkpt>
+   <trkpt lat="59.346859" lon="10.868635"><ele>18.75</ele></trkpt>
+   <trkpt lat="59.346736" lon="10.869064"><ele>18.25</ele></trkpt>
+   <trkpt lat="59.346624" lon="10.869412"><ele>18.25</ele></trkpt>
+   <trkpt lat="59.346509" lon="10.869741"><ele>18.5</ele></trkpt>
+   <trkpt lat="59.346282" lon="10.87036"><ele>19</ele></trkpt>
+   <trkpt lat="59.34628" lon="10.870363"><ele>18.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 1 plain-ascend = -2 cost=198 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>OBVL Frederikstad (Gleis 1) - Frederikstad Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/59.20985/10.94842/standard&amp;lonlats=10.950341,59.209052;10.947468,59.210007&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.20905" lon="10.950339"><ele>11.25</ele></trkpt>
+   <trkpt lat="59.209052" lon="10.950326"><ele>11.25</ele></trkpt>
+   <trkpt lat="59.209112" lon="10.949988"><ele>11</ele></trkpt>
+   <trkpt lat="59.209237" lon="10.949426"><ele>12</ele></trkpt>
+   <trkpt lat="59.209344" lon="10.949032"><ele>12.25</ele></trkpt>
+   <trkpt lat="59.209454" lon="10.948686"><ele>12.25</ele></trkpt>
+   <trkpt lat="59.209545" lon="10.948432"><ele>12</ele></trkpt>
+   <trkpt lat="59.209663" lon="10.948147"><ele>11.25</ele></trkpt>
+   <trkpt lat="59.210006" lon="10.947473"><ele>8.75</ele></trkpt>
+   <trkpt lat="59.210007" lon="10.94747"><ele>8.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
