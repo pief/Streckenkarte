@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = -2 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>OBVL Ski (Gleis 3) - Ski Weiche 10</name>
+  <link href="https://bikerouter.de/#map=19/59.71890/10.83407/standard&amp;lonlats=10.834089,59.718982;10.833177,59.715559&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.71898" lon="10.834089"><ele>132.75</ele></trkpt>
+   <trkpt lat="59.71885" lon="10.834042"><ele>132.75</ele></trkpt>
+   <trkpt lat="59.718413" lon="10.8339"><ele>132.5</ele></trkpt>
+   <trkpt lat="59.718003" lon="10.833791"><ele>132.5</ele></trkpt>
+   <trkpt lat="59.715562" lon="10.833182"><ele>130</ele></trkpt>
+   <trkpt lat="59.715558" lon="10.83318"><ele>129.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

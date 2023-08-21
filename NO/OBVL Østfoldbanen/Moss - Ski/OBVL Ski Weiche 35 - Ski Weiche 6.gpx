@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=43 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>OBVL Ski Weiche 35 - Ski Weiche 6</name>
+  <link href="https://bikerouter.de/#map=18/59.71197/10.83232/standard&amp;lonlats=10.8308,59.711674;10.831093,59.712027&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.711673" lon="10.830799"/>
+   <trkpt lat="59.711676" lon="10.830801"/>
+   <trkpt lat="59.712026" lon="10.831089"/>
+  </trkseg>
+ </trk>
+</gpx>
