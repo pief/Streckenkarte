@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1157 filtered ascend = 4 plain-ascend = 4 cost=1157 energy=0.0kwh time=1m 33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Alvhem Weiche SSS2 - Alvhem Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/58.01322/12.16178/standard&amp;lonlats=12.150825,58.004782;12.161498,58.013438&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.004781" lon="12.150824"><ele>1</ele></trkpt>
+   <trkpt lat="58.004785" lon="12.150827"><ele>1</ele></trkpt>
+   <trkpt lat="58.005948" lon="12.151921"><ele>1.25</ele></trkpt>
+   <trkpt lat="58.006656" lon="12.152597"><ele>1</ele></trkpt>
+   <trkpt lat="58.007063" lon="12.152999"><ele>1.5</ele></trkpt>
+   <trkpt lat="58.007833" lon="12.153797"><ele>2</ele></trkpt>
+   <trkpt lat="58.008292" lon="12.154299"><ele>2</ele></trkpt>
+   <trkpt lat="58.009175" lon="12.155348"><ele>2</ele></trkpt>
+   <trkpt lat="58.009674" lon="12.155979"><ele>2</ele></trkpt>
+   <trkpt lat="58.009918" lon="12.156294"><ele>2.5</ele></trkpt>
+   <trkpt lat="58.010183" lon="12.156685"><ele>2.75</ele></trkpt>
+   <trkpt lat="58.010694" lon="12.157369"><ele>2</ele></trkpt>
+   <trkpt lat="58.011243" lon="12.158166"><ele>2.75</ele></trkpt>
+   <trkpt lat="58.012011" lon="12.15932"><ele>3</ele></trkpt>
+   <trkpt lat="58.013279" lon="12.161254"><ele>4.5</ele></trkpt>
+   <trkpt lat="58.013437" lon="12.161496"><ele>4.75</ele></trkpt>
+   <trkpt lat="58.013437" lon="12.161497"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

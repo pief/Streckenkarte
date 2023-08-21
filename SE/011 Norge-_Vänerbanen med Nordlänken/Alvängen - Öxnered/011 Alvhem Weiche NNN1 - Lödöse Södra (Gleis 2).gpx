@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 224 filtered ascend = 2 plain-ascend = 2 cost=224 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.18a">
+ <trk>
+  <name>011 Alvhem Weiche NNN1 - Lödöse Södra (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/58.01498/12.16398/standard&amp;lonlats=12.161498,58.013438;12.163872,58.014995&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.013437" lon="12.161497"><ele>4.75</ele></trkpt>
+   <trkpt lat="58.013861" lon="12.162143"><ele>5</ele></trkpt>
+   <trkpt lat="58.014334" lon="12.162861"><ele>5.25</ele></trkpt>
+   <trkpt lat="58.014995" lon="12.163869"><ele>6.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

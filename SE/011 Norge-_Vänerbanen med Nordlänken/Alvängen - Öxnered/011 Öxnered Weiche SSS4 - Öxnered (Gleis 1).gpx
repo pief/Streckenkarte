@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 347 filtered ascend = 2 plain-ascend = 0 cost=347 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>011 Öxnered Weiche SSS4 - Öxnered (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=17/58.35820/12.27565/standard&amp;lonlats=12.272163,58.356238;12.273884,58.359224&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.356237" lon="12.272164"><ele>62</ele></trkpt>
+   <trkpt lat="58.356239" lon="12.272166"><ele>62</ele></trkpt>
+   <trkpt lat="58.356802" lon="12.272478"><ele>62</ele></trkpt>
+   <trkpt lat="58.357768" lon="12.273035"><ele>63.75</ele></trkpt>
+   <trkpt lat="58.357821" lon="12.273065"><ele>63.75</ele></trkpt>
+   <trkpt lat="58.359049" lon="12.273783"><ele>64</ele></trkpt>
+   <trkpt lat="58.359223" lon="12.273883"><ele>61.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

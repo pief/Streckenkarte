@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 602 filtered ascend = 0 plain-ascend = 0 cost=602 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>011 Trollhättan Weiche SSS1 - Trollhättan Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=18/58.28309/12.30672/standard&amp;lonlats=12.312139,58.278527;12.3073,58.283138&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.278527" lon="12.312139"><ele>52.25</ele></trkpt>
+   <trkpt lat="58.27885" lon="12.312015"><ele>51.75</ele></trkpt>
+   <trkpt lat="58.279402" lon="12.311776"><ele>51</ele></trkpt>
+   <trkpt lat="58.279679" lon="12.31164"><ele>50.75</ele></trkpt>
+   <trkpt lat="58.279949" lon="12.31149"><ele>50.75</ele></trkpt>
+   <trkpt lat="58.280329" lon="12.311249"><ele>50.5</ele></trkpt>
+   <trkpt lat="58.280687" lon="12.310956"><ele>50.25</ele></trkpt>
+   <trkpt lat="58.280983" lon="12.310679"><ele>50</ele></trkpt>
+   <trkpt lat="58.281194" lon="12.310462"><ele>50</ele></trkpt>
+   <trkpt lat="58.281575" lon="12.310016"><ele>50.75</ele></trkpt>
+   <trkpt lat="58.281816" lon="12.309695"><ele>50</ele></trkpt>
+   <trkpt lat="58.282044" lon="12.309364"><ele>49.5</ele></trkpt>
+   <trkpt lat="58.282246" lon="12.309043"><ele>49.5</ele></trkpt>
+   <trkpt lat="58.282431" lon="12.308719"><ele>49.75</ele></trkpt>
+   <trkpt lat="58.282637" lon="12.308336"><ele>50</ele></trkpt>
+   <trkpt lat="58.282839" lon="12.307931"><ele>50.25</ele></trkpt>
+   <trkpt lat="58.283138" lon="12.307302"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

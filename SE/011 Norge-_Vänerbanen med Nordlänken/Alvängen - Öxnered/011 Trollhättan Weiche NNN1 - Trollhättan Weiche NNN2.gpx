@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 0 plain-ascend = -1 cost=254 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>011 Trollhättan Weiche NNN1 - Trollhättan Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/58.29101/12.29354/standard&amp;lonlats=12.295885,58.289353;12.293014,58.291035&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="58.289353" lon="12.295887"><ele>45</ele></trkpt>
+   <trkpt lat="58.289355" lon="12.295885"><ele>45</ele></trkpt>
+   <trkpt lat="58.290283" lon="12.294288"><ele>44.5</ele></trkpt>
+   <trkpt lat="58.291034" lon="12.293018"><ele>45.25</ele></trkpt>
+   <trkpt lat="58.291035" lon="12.293015"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
