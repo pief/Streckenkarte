@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 0 plain-ascend = 0 cost=200 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9166 Dörenthe Weiche 1 - (Südliches Gleis) - Dörenthe Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/52.23064/7.69169/standard&amp;lonlats=7.689013,52.230229;7.691202,52.230796;7.691704,52.230927&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.230227" lon="7.689013"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.230229" lon="7.689017"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.230797" lon="7.691199"><ele>51</ele></trkpt>
+   <trkpt lat="52.230928" lon="7.691701"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
