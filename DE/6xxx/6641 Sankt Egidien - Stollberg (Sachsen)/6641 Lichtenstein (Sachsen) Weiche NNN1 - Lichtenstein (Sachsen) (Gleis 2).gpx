@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 189 filtered ascend = 2 plain-ascend = 2 cost=189 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6641 Lichtenstein (Sachsen) Weiche NNN1 - Lichtenstein (Sachsen) (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.75733/12.62634/standard&amp;lonlats=12.626169,50.759102;12.626324,50.757413">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.759101" lon="12.626168"><ele>319.75</ele></trkpt>
+   <trkpt lat="50.759103" lon="12.626168"><ele>319.75</ele></trkpt>
+   <trkpt lat="50.758601" lon="12.626165"><ele>320.75</ele></trkpt>
+   <trkpt lat="50.758231" lon="12.626206"><ele>321.5</ele></trkpt>
+   <trkpt lat="50.757761" lon="12.626262"><ele>321.75</ele></trkpt>
+   <trkpt lat="50.757413" lon="12.626329"><ele>321.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
