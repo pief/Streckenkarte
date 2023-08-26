@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Schule Altchemnitz (Steig Ost) - Gleiswechsel Schule Altchemnitz Weiche A21</name>
+  <link href="https://bikerouter.de/#map=19/50.79923/12.91255/standard&amp;lonlats=12.912956,50.799015;12.912275,50.799371">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.799012" lon="12.912953"><ele>315.25</ele></trkpt>
+   <trkpt lat="50.799045" lon="12.912891"><ele>315.25</ele></trkpt>
+   <trkpt lat="50.799369" lon="12.912279"><ele>314.75</ele></trkpt>
+   <trkpt lat="50.799371" lon="12.912275"><ele>314.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Robert-Siewert-Straße (Steig Südost) - Gleiswechsel Robert-Siewert-Straße Weiche M3</name>
+  <link href="https://bikerouter.de/#map=19/50.79796/12.89789/standard&amp;lonlats=12.897193,50.79784;12.897536,50.798101">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.797837" lon="12.897196"><ele>329</ele></trkpt>
+   <trkpt lat="50.79784" lon="12.897199"><ele>329</ele></trkpt>
+   <trkpt lat="50.798101" lon="12.897533"><ele>327.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

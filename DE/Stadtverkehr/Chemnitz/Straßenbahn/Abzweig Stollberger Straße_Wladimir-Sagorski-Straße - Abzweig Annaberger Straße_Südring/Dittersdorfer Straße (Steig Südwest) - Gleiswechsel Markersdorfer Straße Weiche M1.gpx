@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 0 plain-ascend = -2 cost=396 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Dittersdorfer Straße (Steig Südwest) - Gleiswechsel Markersdorfer Straße Weiche M1</name>
+  <link href="https://bikerouter.de/#map=19/50.79667/12.90552/standard&amp;lonlats=12.902978,50.797293;12.905532,50.796608">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.797293" lon="12.902978"><ele>322.5</ele></trkpt>
+   <trkpt lat="50.797293" lon="12.90298"><ele>322.5</ele></trkpt>
+   <trkpt lat="50.79727" lon="12.903051"><ele>322.5</ele></trkpt>
+   <trkpt lat="50.797103" lon="12.903579"><ele>322.75</ele></trkpt>
+   <trkpt lat="50.796996" lon="12.903944"><ele>323</ele></trkpt>
+   <trkpt lat="50.796859" lon="12.904456"><ele>322.75</ele></trkpt>
+   <trkpt lat="50.79661" lon="12.905531"><ele>320.5</ele></trkpt>
+   <trkpt lat="50.796609" lon="12.905532"><ele>319.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
