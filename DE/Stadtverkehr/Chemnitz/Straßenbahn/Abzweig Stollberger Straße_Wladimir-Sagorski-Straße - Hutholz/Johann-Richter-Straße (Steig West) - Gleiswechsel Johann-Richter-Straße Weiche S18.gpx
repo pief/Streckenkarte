@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 5 plain-ascend = 5 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Johann-Richter-Straße (Steig West) - Gleiswechsel Johann-Richter-Straße Weiche S18</name>
+  <link href="https://bikerouter.de/#map=19/50.79080/12.87863/standard&amp;lonlats=12.879085,50.791688;12.87816,50.790733">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.791687" lon="12.879084"><ele>399.5</ele></trkpt>
+   <trkpt lat="50.791648" lon="12.879045"><ele>399.5</ele></trkpt>
+   <trkpt lat="50.790735" lon="12.878162"><ele>402</ele></trkpt>
+   <trkpt lat="50.790732" lon="12.878159"><ele>404.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

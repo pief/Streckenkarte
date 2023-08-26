@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 3 plain-ascend = 3 cost=132 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Abzweig Stollberger Straße/Wladimir-Sagorski-Straße Weiche S12 - Morgenleite (Steig 3)</name>
+  <link href="https://bikerouter.de/#map=19/50.79533/12.88247/standard&amp;lonlats=12.88229,50.795704;12.882108,50.795128">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.795702" lon="12.882293"><ele>385.75</ele></trkpt>
+   <trkpt lat="50.795337" lon="12.882184"><ele>387.5</ele></trkpt>
+   <trkpt lat="50.795129" lon="12.882112"><ele>388.25</ele></trkpt>
+   <trkpt lat="50.795126" lon="12.882111"><ele>389</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

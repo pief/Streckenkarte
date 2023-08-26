@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 443 filtered ascend = 8 plain-ascend = 8 cost=886 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Dittersdorfer Straße (Steig Nordost) - Gleiswechsel Robert-Siewert-Straße Weiche M4</name>
+  <link href="https://bikerouter.de/#map=19/50.79802/12.89762/standard&amp;lonlats=12.902519,50.797475;12.897265,50.797934">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.797479" lon="12.902522"><ele>322</ele></trkpt>
+   <trkpt lat="50.798601" lon="12.899201"><ele>322.5</ele></trkpt>
+   <trkpt lat="50.798675" lon="12.898931"><ele>322.5</ele></trkpt>
+   <trkpt lat="50.798702" lon="12.898738"><ele>322.5</ele></trkpt>
+   <trkpt lat="50.798703" lon="12.89855"><ele>322.75</ele></trkpt>
+   <trkpt lat="50.798681" lon="12.898399"><ele>323.25</ele></trkpt>
+   <trkpt lat="50.798637" lon="12.898245"><ele>323.5</ele></trkpt>
+   <trkpt lat="50.798569" lon="12.898096"><ele>324.25</ele></trkpt>
+   <trkpt lat="50.798471" lon="12.897946"><ele>325</ele></trkpt>
+   <trkpt lat="50.798384" lon="12.897831"><ele>325.75</ele></trkpt>
+   <trkpt lat="50.797935" lon="12.897268"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.797933" lon="12.897265"><ele>330.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

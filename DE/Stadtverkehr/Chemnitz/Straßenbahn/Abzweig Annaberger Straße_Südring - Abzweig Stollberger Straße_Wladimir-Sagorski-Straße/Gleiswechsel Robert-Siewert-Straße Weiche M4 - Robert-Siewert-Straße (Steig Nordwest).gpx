@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 2 plain-ascend = 2 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Robert-Siewert-Straße Weiche M4 - Robert-Siewert-Straße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/50.79753/12.89727/standard&amp;lonlats=12.897265,50.797934;12.896839,50.797593">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.797933" lon="12.897265"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.797593" lon="12.896841"><ele>330.25</ele></trkpt>
+   <trkpt lat="50.797592" lon="12.896839"><ele>330.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

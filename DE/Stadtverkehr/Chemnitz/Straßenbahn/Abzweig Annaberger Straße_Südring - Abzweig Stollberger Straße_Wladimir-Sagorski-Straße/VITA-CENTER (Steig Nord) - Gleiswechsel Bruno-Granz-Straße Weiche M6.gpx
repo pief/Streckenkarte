@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 324 filtered ascend = 18 plain-ascend = 18 cost=648 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>VITA-CENTER (Steig Nord) - Gleiswechsel Bruno-Granz-Straße Weiche M6</name>
+  <link href="https://bikerouter.de/#map=19/50.79544/12.88661/standard&amp;lonlats=12.890139,50.794853;12.885678,50.795463">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.794853" lon="12.890139"><ele>360.25</ele></trkpt>
+   <trkpt lat="50.794853" lon="12.890035"><ele>360.5</ele></trkpt>
+   <trkpt lat="50.794853" lon="12.889764"><ele>361.75</ele></trkpt>
+   <trkpt lat="50.794871" lon="12.889375"><ele>363.75</ele></trkpt>
+   <trkpt lat="50.794906" lon="12.889038"><ele>365.25</ele></trkpt>
+   <trkpt lat="50.795242" lon="12.887052"><ele>371.25</ele></trkpt>
+   <trkpt lat="50.795465" lon="12.88568"><ele>375.75</ele></trkpt>
+   <trkpt lat="50.795465" lon="12.885678"><ele>378.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 6 plain-ascend = 7 cost=366 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Markersdorfer Straße (Steig Nord) - Gleiswechsel Markersdorfer Straße Weiche M2</name>
+  <link href="https://bikerouter.de/#map=19/50.79631/12.90552/standard&amp;lonlats=12.907627,50.796374;12.905105,50.796733">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.796379" lon="12.907627"><ele>316</ele></trkpt>
+   <trkpt lat="50.796379" lon="12.907564"><ele>316</ele></trkpt>
+   <trkpt lat="50.796383" lon="12.907175"><ele>316.75</ele></trkpt>
+   <trkpt lat="50.796403" lon="12.906841"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.796422" lon="12.906658"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.796449" lon="12.906474"><ele>318</ele></trkpt>
+   <trkpt lat="50.796523" lon="12.906075"><ele>319</ele></trkpt>
+   <trkpt lat="50.796732" lon="12.90511"><ele>321.25</ele></trkpt>
+   <trkpt lat="50.796733" lon="12.905105"><ele>322.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
