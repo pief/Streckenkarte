@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 213 filtered ascend = 0 plain-ascend = -4 cost=426 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Metropol Weiche R4 - Reichsstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/50.82781/12.91135/standard&amp;lonlats=12.914287,50.828559;12.911727,50.8276">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.828558" lon="12.914286"><ele>302.5</ele></trkpt>
+   <trkpt lat="50.828129" lon="12.913466"><ele>300.75</ele></trkpt>
+   <trkpt lat="50.827958" lon="12.913045"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.827877" lon="12.912814"><ele>300</ele></trkpt>
+   <trkpt lat="50.827866" lon="12.912782"><ele>300</ele></trkpt>
+   <trkpt lat="50.827823" lon="12.912621"><ele>299.75</ele></trkpt>
+   <trkpt lat="50.827772" lon="12.912446"><ele>299.5</ele></trkpt>
+   <trkpt lat="50.827724" lon="12.912254"><ele>299.25</ele></trkpt>
+   <trkpt lat="50.827715" lon="12.912216"><ele>299</ele></trkpt>
+   <trkpt lat="50.827599" lon="12.911727"><ele>298</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
