@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=230 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Abzweig Bahnhofstraße/Annaberger Straße Weiche Z5 - Zentralhaltestelle (Steig 10)</name>
+  <link href="https://bikerouter.de/#map=19/50.83121/12.92140/standard&amp;lonlats=12.920051,50.830438;12.921431,50.830989">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.830437" lon="12.920051"><ele>301</ele></trkpt>
+   <trkpt lat="50.830535" lon="12.920356"><ele>301.25</ele></trkpt>
+   <trkpt lat="50.830696" lon="12.920755"><ele>301.25</ele></trkpt>
+   <trkpt lat="50.830742" lon="12.920855"><ele>301.25</ele></trkpt>
+   <trkpt lat="50.830989" lon="12.921429"><ele>301.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
