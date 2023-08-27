@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 1 plain-ascend = 1 cost=232 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Hauptbahnhof Weiche H8 - Hauptbahnhof (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/50.84031/12.93024/standard&amp;lonlats=12.929562,50.839054;12.929878,50.840065">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.839053" lon="12.929565"><ele>309</ele></trkpt>
+   <trkpt lat="50.839337" lon="12.929642"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.839394" lon="12.929657"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.83947" lon="12.929678"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.839672" lon="12.929739"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.839835" lon="12.929792"><ele>310</ele></trkpt>
+   <trkpt lat="50.840063" lon="12.929883"><ele>310.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

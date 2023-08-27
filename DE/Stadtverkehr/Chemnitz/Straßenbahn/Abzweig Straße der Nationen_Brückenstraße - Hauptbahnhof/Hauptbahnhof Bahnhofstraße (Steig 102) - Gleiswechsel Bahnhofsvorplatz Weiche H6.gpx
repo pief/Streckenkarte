@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 39 filtered ascend = 1 plain-ascend = 2 cost=78 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Hauptbahnhof Bahnhofstraße (Steig 102) - Gleiswechsel Bahnhofsvorplatz Weiche H6</name>
+  <link href="https://bikerouter.de/#map=19/50.83861/12.92950/standard&amp;lonlats=12.929236,50.838229;12.929366,50.838554">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.838228" lon="12.929235"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.838233" lon="12.929237"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.838343" lon="12.929283"><ele>307.75</ele></trkpt>
+   <trkpt lat="50.83855" lon="12.929367"><ele>308</ele></trkpt>
+   <trkpt lat="50.838552" lon="12.929368"><ele>309</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
