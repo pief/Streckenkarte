@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = 0 cost=180 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Annenstraße (Steig 2A) - Gleiswechsel Clara-Zetkin-Straße Weiche B10</name>
+  <link href="https://bikerouter.de/#map=19/50.82736/12.92495/standard&amp;lonlats=12.92436,50.827975;12.924895,50.82725">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.827975" lon="12.924361"><ele>302</ele></trkpt>
+   <trkpt lat="50.827753" lon="12.924522"><ele>302</ele></trkpt>
+   <trkpt lat="50.827249" lon="12.924894"><ele>302.25</ele></trkpt>
+   <trkpt lat="50.827249" lon="12.924893"><ele>302</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

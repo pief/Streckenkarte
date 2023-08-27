@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 212 filtered ascend = 2 plain-ascend = 3 cost=424 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Bernsbachplatz (Steig 2A) - Abzweig Bernsdorfer Straße/Turnstraße Weiche B12</name>
+  <link href="https://bikerouter.de/#map=19/50.82356/12.92903/standard&amp;lonlats=12.927126,50.824837;12.929283,50.823512">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.824837" lon="12.927126"><ele>306.25</ele></trkpt>
+   <trkpt lat="50.824836" lon="12.927129"><ele>306.5</ele></trkpt>
+   <trkpt lat="50.824676" lon="12.927383"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.82447" lon="12.927704"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.824011" lon="12.928446"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.823513" lon="12.929285"><ele>308.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

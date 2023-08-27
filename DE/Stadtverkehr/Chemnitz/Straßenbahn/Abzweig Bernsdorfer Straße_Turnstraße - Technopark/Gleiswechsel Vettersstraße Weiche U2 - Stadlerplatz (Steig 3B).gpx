@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 201 filtered ascend = 3 plain-ascend = 3 cost=402 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Vettersstraße Weiche U2 - Stadlerplatz (Steig 3B)</name>
+  <link href="https://bikerouter.de/#map=19/50.82148/12.92737/standard&amp;lonlats=12.928234,50.822628;12.926997,50.821279">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.822622" lon="12.92824"><ele>311.25</ele></trkpt>
+   <trkpt lat="50.822515" lon="12.928036"><ele>311.5</ele></trkpt>
+   <trkpt lat="50.821969" lon="12.926935"><ele>312</ele></trkpt>
+   <trkpt lat="50.8219" lon="12.926829"><ele>312.25</ele></trkpt>
+   <trkpt lat="50.821833" lon="12.926772"><ele>312.5</ele></trkpt>
+   <trkpt lat="50.82178" lon="12.926749"><ele>312.5</ele></trkpt>
+   <trkpt lat="50.82174" lon="12.926742"><ele>312.75</ele></trkpt>
+   <trkpt lat="50.821661" lon="12.926749"><ele>313</ele></trkpt>
+   <trkpt lat="50.821448" lon="12.926883"><ele>313.75</ele></trkpt>
+   <trkpt lat="50.821279" lon="12.926998"><ele>314.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

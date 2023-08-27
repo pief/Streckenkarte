@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 405 filtered ascend = 9 plain-ascend = 9 cost=810 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Rosenbergstraße (Steig West A) - TU Campus (Steig 2B)</name>
+  <link href="https://bikerouter.de/#map=19/50.81378/12.93070/standard&amp;lonlats=12.929513,50.81737;12.930695,50.813857">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.817368" lon="12.929506"><ele>323.5</ele></trkpt>
+   <trkpt lat="50.817291" lon="12.929542"><ele>323.75</ele></trkpt>
+   <trkpt lat="50.817186" lon="12.929584"><ele>324.25</ele></trkpt>
+   <trkpt lat="50.817018" lon="12.929629"><ele>324.5</ele></trkpt>
+   <trkpt lat="50.816317" lon="12.929714"><ele>326.25</ele></trkpt>
+   <trkpt lat="50.81553" lon="12.929768"><ele>328</ele></trkpt>
+   <trkpt lat="50.815415" lon="12.92979"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.814694" lon="12.930024"><ele>330.25</ele></trkpt>
+   <trkpt lat="50.81458" lon="12.930075"><ele>330.5</ele></trkpt>
+   <trkpt lat="50.814452" lon="12.930148"><ele>330.75</ele></trkpt>
+   <trkpt lat="50.814301" lon="12.930279"><ele>331</ele></trkpt>
+   <trkpt lat="50.814104" lon="12.930457"><ele>331.5</ele></trkpt>
+   <trkpt lat="50.814035" lon="12.930523"><ele>331.75</ele></trkpt>
+   <trkpt lat="50.813857" lon="12.930695"><ele>332.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

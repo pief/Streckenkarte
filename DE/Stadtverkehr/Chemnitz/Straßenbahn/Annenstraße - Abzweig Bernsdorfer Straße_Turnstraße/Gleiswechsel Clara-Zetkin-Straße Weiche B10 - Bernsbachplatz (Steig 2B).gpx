@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 273 filtered ascend = 4 plain-ascend = 5 cost=546 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Clara-Zetkin-Straße Weiche B10 - Bernsbachplatz (Steig 2B)</name>
+  <link href="https://bikerouter.de/#map=19/50.82514/12.92696/standard&amp;lonlats=12.924895,50.82725;12.926696,50.825104">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.827249" lon="12.924893"><ele>302</ele></trkpt>
+   <trkpt lat="50.827249" lon="12.924894"><ele>302.25</ele></trkpt>
+   <trkpt lat="50.826756" lon="12.925239"><ele>303.75</ele></trkpt>
+   <trkpt lat="50.82604" lon="12.925742"><ele>304.25</ele></trkpt>
+   <trkpt lat="50.825711" lon="12.925988"><ele>304.25</ele></trkpt>
+   <trkpt lat="50.825552" lon="12.926131"><ele>304.5</ele></trkpt>
+   <trkpt lat="50.825458" lon="12.926226"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.82533" lon="12.926383"><ele>305.25</ele></trkpt>
+   <trkpt lat="50.825209" lon="12.926544"><ele>305.5</ele></trkpt>
+   <trkpt lat="50.825106" lon="12.926696"><ele>305.75</ele></trkpt>
+   <trkpt lat="50.825105" lon="12.926697"><ele>306.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

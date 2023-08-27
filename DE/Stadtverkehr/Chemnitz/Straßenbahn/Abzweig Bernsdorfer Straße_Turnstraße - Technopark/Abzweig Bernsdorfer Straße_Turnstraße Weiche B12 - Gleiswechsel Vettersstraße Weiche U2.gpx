@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 142 filtered ascend = 3 plain-ascend = 3 cost=284 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Abzweig Bernsdorfer Straße/Turnstraße Weiche B12 - Gleiswechsel Vettersstraße Weiche U2</name>
+  <link href="https://bikerouter.de/#map=19/50.82306/12.92889/standard&amp;lonlats=12.929283,50.823512;12.928234,50.822628">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.823513" lon="12.929285"><ele>308.5</ele></trkpt>
+   <trkpt lat="50.823513" lon="12.929286"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.823462" lon="12.929352"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.823434" lon="12.929377"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.823408" lon="12.929395"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.823365" lon="12.929408"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.823319" lon="12.929407"><ele>309</ele></trkpt>
+   <trkpt lat="50.82326" lon="12.929387"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.823162" lon="12.929297"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.823132" lon="12.929251"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.823064" lon="12.929127"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.822624" lon="12.928242"><ele>311.25</ele></trkpt>
+   <trkpt lat="50.822622" lon="12.92824"><ele>311.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

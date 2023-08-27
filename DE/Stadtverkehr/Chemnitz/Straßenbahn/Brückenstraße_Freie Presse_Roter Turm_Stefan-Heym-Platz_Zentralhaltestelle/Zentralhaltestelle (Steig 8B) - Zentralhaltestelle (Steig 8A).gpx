@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Zentralhaltestelle (Steig 8B) - Zentralhaltestelle (Steig 8A)</name>
+  <link href="https://bikerouter.de/#map=19/50.83238/12.92180/standard&amp;lonlats=12.921647,50.832342;12.922051,50.831865">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.832344" lon="12.921653"><ele>302.25</ele></trkpt>
+   <trkpt lat="50.832307" lon="12.921685"><ele>302.25</ele></trkpt>
+   <trkpt lat="50.832164" lon="12.921805"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.831865" lon="12.922051"><ele>301</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 2 plain-ascend = 2 cost=70 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>TU Campus (Steig 2B) - TU Campus (Steig 2A)</name>
+  <link href="https://bikerouter.de/#map=19/50.81398/12.93042/standard&amp;lonlats=12.930695,50.813857;12.930931,50.813587">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.813857" lon="12.930695"><ele>332.25</ele></trkpt>
+   <trkpt lat="50.813856" lon="12.930697"><ele>332.5</ele></trkpt>
+   <trkpt lat="50.813596" lon="12.930926"><ele>333.5</ele></trkpt>
+   <trkpt lat="50.813588" lon="12.930934"><ele>334.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
