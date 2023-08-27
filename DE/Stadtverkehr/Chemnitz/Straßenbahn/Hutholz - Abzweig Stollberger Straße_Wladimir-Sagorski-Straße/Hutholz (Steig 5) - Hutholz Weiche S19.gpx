@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 39 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Hutholz (Steig 5) - Hutholz Weiche S19</name>
+  <link href="https://bikerouter.de/#map=19/50.78331/12.87786/standard&amp;lonlats=12.876666,50.783302;12.877165,50.783447">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.783304" lon="12.876663"><ele>401.75</ele></trkpt>
+   <trkpt lat="50.783338" lon="12.876863"><ele>401.5</ele></trkpt>
+   <trkpt lat="50.783353" lon="12.876951"><ele>401.25</ele></trkpt>
+   <trkpt lat="50.7834" lon="12.877073"><ele>401.25</ele></trkpt>
+   <trkpt lat="50.783448" lon="12.877161"><ele>401</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

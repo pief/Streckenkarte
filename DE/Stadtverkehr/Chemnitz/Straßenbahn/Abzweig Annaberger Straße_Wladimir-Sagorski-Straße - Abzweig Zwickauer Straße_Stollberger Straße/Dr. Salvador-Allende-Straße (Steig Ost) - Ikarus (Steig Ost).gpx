@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 482 filtered ascend = 0 plain-ascend = -2 cost=964 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Dr. Salvador-Allende-Straße (Steig Ost) - Ikarus (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/50.80882/12.89220/standard&amp;lonlats=12.888791,50.805421;12.892854,50.8089">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.805418" lon="12.888793"><ele>361</ele></trkpt>
+   <trkpt lat="50.805427" lon="12.888802"><ele>361</ele></trkpt>
+   <trkpt lat="50.805618" lon="12.889033"><ele>360.25</ele></trkpt>
+   <trkpt lat="50.807442" lon="12.891134"><ele>358.25</ele></trkpt>
+   <trkpt lat="50.807583" lon="12.891301"><ele>357.75</ele></trkpt>
+   <trkpt lat="50.808628" lon="12.892534"><ele>358.25</ele></trkpt>
+   <trkpt lat="50.808899" lon="12.892853"><ele>358.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

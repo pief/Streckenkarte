@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = -3 cost=218 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Südring (Steig Ost) - Gleiswechsel Dr. Salvador-Allende-Straße Weiche S7</name>
+  <link href="https://bikerouter.de/#map=19/50.80453/12.88772/standard&amp;lonlats=12.88692,50.803774;12.887808,50.804562">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.803775" lon="12.886914"><ele>367.25</ele></trkpt>
+   <trkpt lat="50.80379" lon="12.88693"><ele>367.25</ele></trkpt>
+   <trkpt lat="50.804097" lon="12.887271"><ele>366.5</ele></trkpt>
+   <trkpt lat="50.804558" lon="12.887805"><ele>365.25</ele></trkpt>
+   <trkpt lat="50.804561" lon="12.887808"><ele>363.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

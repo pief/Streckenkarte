@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 395 filtered ascend = 0 plain-ascend = -5 cost=790 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Goetheplatz (Steig Ost) - Parkstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/50.82377/12.91095/standard&amp;lonlats=12.906544,50.821338;12.910847,50.823578">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.821336" lon="12.906547"><ele>329</ele></trkpt>
+   <trkpt lat="50.82143" lon="12.906642"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.821634" lon="12.906871"><ele>328.25</ele></trkpt>
+   <trkpt lat="50.821765" lon="12.907029"><ele>328.25</ele></trkpt>
+   <trkpt lat="50.821947" lon="12.907293"><ele>328.25</ele></trkpt>
+   <trkpt lat="50.822116" lon="12.907581"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.822403" lon="12.908203"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.822507" lon="12.908426"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.823052" lon="12.909749"><ele>325.25</ele></trkpt>
+   <trkpt lat="50.823204" lon="12.910098"><ele>325</ele></trkpt>
+   <trkpt lat="50.823577" lon="12.910846"><ele>323.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 496 filtered ascend = 0 plain-ascend = 1 cost=992 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Haydnstraße (Steig Ost) - Gleiswechsel Goetheplatz Weiche S3</name>
+  <link href="https://bikerouter.de/#map=19/50.82075/12.90574/standard&amp;lonlats=12.901856,50.817102;12.905878,50.820737">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.8171" lon="12.901856"><ele>329</ele></trkpt>
+   <trkpt lat="50.817103" lon="12.901859"><ele>329</ele></trkpt>
+   <trkpt lat="50.817245" lon="12.902051"><ele>329</ele></trkpt>
+   <trkpt lat="50.81856" lon="12.903487"><ele>329</ele></trkpt>
+   <trkpt lat="50.820036" lon="12.905102"><ele>329.75</ele></trkpt>
+   <trkpt lat="50.820734" lon="12.905875"><ele>329.75</ele></trkpt>
+   <trkpt lat="50.820736" lon="12.905877"><ele>329.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
