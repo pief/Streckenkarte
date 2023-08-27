@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 1 plain-ascend = 1 cost=482 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Theaterplatz (Steig West) - Abzweig Straße der Nationen/Brückenstraße Weiche H1</name>
+  <link href="https://bikerouter.de/#map=19/50.83530/12.92388/standard&amp;lonlats=12.925698,50.837266;12.92406,50.835378">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.837265" lon="12.925697"><ele>301.25</ele></trkpt>
+   <trkpt lat="50.83707" lon="12.925565"><ele>301</ele></trkpt>
+   <trkpt lat="50.836991" lon="12.925506"><ele>300.75</ele></trkpt>
+   <trkpt lat="50.836784" lon="12.925348"><ele>300.5</ele></trkpt>
+   <trkpt lat="50.836321" lon="12.924973"><ele>300.75</ele></trkpt>
+   <trkpt lat="50.835794" lon="12.924486"><ele>302.5</ele></trkpt>
+   <trkpt lat="50.835377" lon="12.924059"><ele>301.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
