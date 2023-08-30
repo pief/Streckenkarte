@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 502 filtered ascend = 5 plain-ascend = 6 cost=502 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Hohenstein-Ernstthal Weiche 15 - Hohenstein-Ernstthal (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.79832/12.70696/standard&amp;lonlats=12.700031,50.796503;12.706309,50.798461&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.7965" lon="12.700032"><ele>337.75</ele></trkpt>
+   <trkpt lat="50.796502" lon="12.700034"><ele>337.75</ele></trkpt>
+   <trkpt lat="50.79711" lon="12.701176"><ele>338.5</ele></trkpt>
+   <trkpt lat="50.797302" lon="12.701569"><ele>338.75</ele></trkpt>
+   <trkpt lat="50.797555" lon="12.702152"><ele>340.25</ele></trkpt>
+   <trkpt lat="50.797779" lon="12.702754"><ele>342</ele></trkpt>
+   <trkpt lat="50.797886" lon="12.703093"><ele>342.25</ele></trkpt>
+   <trkpt lat="50.797984" lon="12.703442"><ele>342.5</ele></trkpt>
+   <trkpt lat="50.79807" lon="12.703785"><ele>342.5</ele></trkpt>
+   <trkpt lat="50.798152" lon="12.704152"><ele>342.25</ele></trkpt>
+   <trkpt lat="50.79821" lon="12.704454"><ele>342</ele></trkpt>
+   <trkpt lat="50.798261" lon="12.70476"><ele>341.75</ele></trkpt>
+   <trkpt lat="50.798273" lon="12.704827"><ele>341.75</ele></trkpt>
+   <trkpt lat="50.798376" lon="12.70558"><ele>342.25</ele></trkpt>
+   <trkpt lat="50.798461" lon="12.706307"><ele>343.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

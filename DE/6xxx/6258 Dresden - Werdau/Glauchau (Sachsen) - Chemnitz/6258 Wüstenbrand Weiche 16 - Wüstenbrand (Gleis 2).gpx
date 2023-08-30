@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 247 filtered ascend = 1 plain-ascend = 2 cost=247 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Wüstenbrand Weiche 16 - Wüstenbrand (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.80532/12.75769/standard&amp;lonlats=12.753112,50.805006;12.756555,50.80536&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.805005" lon="12.753111"><ele>377.5</ele></trkpt>
+   <trkpt lat="50.805006" lon="12.753116"><ele>377.5</ele></trkpt>
+   <trkpt lat="50.80502" lon="12.753374"><ele>378</ele></trkpt>
+   <trkpt lat="50.805052" lon="12.754493"><ele>378</ele></trkpt>
+   <trkpt lat="50.805095" lon="12.755092"><ele>378</ele></trkpt>
+   <trkpt lat="50.805154" lon="12.755557"><ele>378.25</ele></trkpt>
+   <trkpt lat="50.805247" lon="12.756061"><ele>378.5</ele></trkpt>
+   <trkpt lat="50.805336" lon="12.75645"><ele>378.75</ele></trkpt>
+   <trkpt lat="50.805362" lon="12.756552"><ele>379</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

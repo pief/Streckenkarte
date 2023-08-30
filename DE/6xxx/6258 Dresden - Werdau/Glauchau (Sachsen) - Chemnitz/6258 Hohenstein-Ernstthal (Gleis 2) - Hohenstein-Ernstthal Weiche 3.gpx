@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 491 filtered ascend = 3 plain-ascend = 3 cost=492 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Hohenstein-Ernstthal (Gleis 2) - Hohenstein-Ernstthal Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/50.79901/12.71411/standard&amp;lonlats=12.706309,50.798461;12.713215,50.798941&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.798461" lon="12.706307"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.798573" lon="12.70726"><ele>343.5</ele></trkpt>
+   <trkpt lat="50.798645" lon="12.70787"><ele>344</ele></trkpt>
+   <trkpt lat="50.798711" lon="12.708479"><ele>344.75</ele></trkpt>
+   <trkpt lat="50.79875" lon="12.708904"><ele>345.25</ele></trkpt>
+   <trkpt lat="50.7988" lon="12.709762"><ele>346.5</ele></trkpt>
+   <trkpt lat="50.798943" lon="12.713214"><ele>345.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

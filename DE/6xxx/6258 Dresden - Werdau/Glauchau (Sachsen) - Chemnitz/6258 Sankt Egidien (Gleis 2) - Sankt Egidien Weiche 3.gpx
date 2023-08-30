@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 577 filtered ascend = 3 plain-ascend = 3 cost=577 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Sankt Egidien (Gleis 2) - Sankt Egidien Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/50.78864/12.63091/standard&amp;lonlats=12.622856,50.789488;12.630791,50.788254&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.789488" lon="12.622855"><ele>283.75</ele></trkpt>
+   <trkpt lat="50.789366" lon="12.62361"><ele>283.75</ele></trkpt>
+   <trkpt lat="50.788996" lon="12.625894"><ele>283.5</ele></trkpt>
+   <trkpt lat="50.788952" lon="12.626157"><ele>283</ele></trkpt>
+   <trkpt lat="50.788573" lon="12.628449"><ele>285.25</ele></trkpt>
+   <trkpt lat="50.788465" lon="12.629167"><ele>286.25</ele></trkpt>
+   <trkpt lat="50.788384" lon="12.62975"><ele>287</ele></trkpt>
+   <trkpt lat="50.78825" lon="12.630788"><ele>286.25</ele></trkpt>
+   <trkpt lat="50.788249" lon="12.630789"><ele>286.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
