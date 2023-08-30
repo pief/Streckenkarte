@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 223 filtered ascend = 0 plain-ascend = -1 cost=224 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Chemnitz Hbf (Gleis 10) - Chemnitz Hbf Weiche 74</name>
+  <link href="https://bikerouter.de/#map=19/50.83745/12.93011/standard&amp;lonlats=12.930754,50.839549;12.93052,50.838957;12.930109,50.837601&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.839547" lon="12.930754"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.839534" lon="12.930749"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.839451" lon="12.930715"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.838957" lon="12.93052"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.838717" lon="12.930477"><ele>308.5</ele></trkpt>
+   <trkpt lat="50.838541" lon="12.930405"><ele>308</ele></trkpt>
+   <trkpt lat="50.838382" lon="12.930345"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.838139" lon="12.930266"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.837602" lon="12.930115"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.837599" lon="12.930114"><ele>307.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

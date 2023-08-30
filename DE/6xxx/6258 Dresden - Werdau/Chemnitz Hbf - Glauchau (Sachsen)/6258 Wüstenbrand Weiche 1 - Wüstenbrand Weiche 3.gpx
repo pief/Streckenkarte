@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 539 filtered ascend = 4 plain-ascend = 4 cost=539 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Wüstenbrand Weiche 1 - Wüstenbrand Weiche 3</name>
+  <link href="https://bikerouter.de/#map=18/50.80764/12.76556/standard&amp;lonlats=12.771225,50.808327;12.763691,50.807943&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.808327" lon="12.771225"><ele>368</ele></trkpt>
+   <trkpt lat="50.808327" lon="12.771227"><ele>368.25</ele></trkpt>
+   <trkpt lat="50.808417" lon="12.768551"><ele>368.5</ele></trkpt>
+   <trkpt lat="50.808426" lon="12.768138"><ele>368.75</ele></trkpt>
+   <trkpt lat="50.808428" lon="12.767726"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.808422" lon="12.767334"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.808407" lon="12.766943"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.808388" lon="12.766583"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.80836" lon="12.76623"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.808322" lon="12.765847"><ele>369.75</ele></trkpt>
+   <trkpt lat="50.808276" lon="12.765466"><ele>370</ele></trkpt>
+   <trkpt lat="50.808169" lon="12.764774"><ele>370.25</ele></trkpt>
+   <trkpt lat="50.808038" lon="12.764111"><ele>371</ele></trkpt>
+   <trkpt lat="50.807945" lon="12.763692"><ele>371.25</ele></trkpt>
+   <trkpt lat="50.807944" lon="12.763689"><ele>372</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
