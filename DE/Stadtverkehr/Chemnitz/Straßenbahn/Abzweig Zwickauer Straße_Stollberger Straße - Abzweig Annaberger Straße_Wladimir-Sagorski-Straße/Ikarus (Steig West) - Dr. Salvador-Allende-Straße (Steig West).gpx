@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 463 filtered ascend = 4 plain-ascend = 4 cost=926 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Ikarus (Steig West) - Dr. Salvador-Allende-Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=18/50.80568/12.88872/standard&amp;lonlats=12.89266,50.808793;12.888761,50.805439&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.808792" lon="12.892659"><ele>358.25</ele></trkpt>
+   <trkpt lat="50.808648" lon="12.89249"><ele>358.25</ele></trkpt>
+   <trkpt lat="50.8076" lon="12.891257"><ele>357.75</ele></trkpt>
+   <trkpt lat="50.807461" lon="12.891092"><ele>358.25</ele></trkpt>
+   <trkpt lat="50.805639" lon="12.88898"><ele>360.5</ele></trkpt>
+   <trkpt lat="50.805445" lon="12.888758"><ele>361</ele></trkpt>
+   <trkpt lat="50.805441" lon="12.888753"><ele>362.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
