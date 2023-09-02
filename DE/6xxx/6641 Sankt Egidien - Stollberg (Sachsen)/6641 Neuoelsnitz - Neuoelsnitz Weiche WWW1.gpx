@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 90 filtered ascend = 2 plain-ascend = 2 cost=90 energy=0.0kwh time=7s -->
+<!-- track-length = 54 filtered ascend = 1 plain-ascend = 2 cost=54 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,17 +8,16 @@
  creator="bikerouter.de 2023.19">
  <trk>
   <name>6641 Neuoelsnitz - Neuoelsnitz Weiche WWW1</name>
-  <link href="https://bikerouter.de/#map=18/50.71926/12.72379/standard&amp;lonlats=12.723057,50.719487;12.724322,50.719602">
+  <link href="https://bikerouter.de/#map=18/50.71952/12.72403/standard&amp;lonlats=12.723574,50.719549;12.724319,50.719602&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.719487" lon="12.723055"><ele>404</ele></trkpt>
-   <trkpt lat="50.719497" lon="12.72313"><ele>404.25</ele></trkpt>
-   <trkpt lat="50.719551" lon="12.723612"><ele>405</ele></trkpt>
+   <trkpt lat="50.719549" lon="12.723572"><ele>404.75</ele></trkpt>
+   <trkpt lat="50.719554" lon="12.723611"><ele>405</ele></trkpt>
    <trkpt lat="50.719583" lon="12.723991"><ele>405.5</ele></trkpt>
-   <trkpt lat="50.719589" lon="12.724076"><ele>405.75</ele></trkpt>
-   <trkpt lat="50.719591" lon="12.724138"><ele>405.75</ele></trkpt>
-   <trkpt lat="50.719599" lon="12.724321"><ele>406.25</ele></trkpt>
+   <trkpt lat="50.719587" lon="12.724075"><ele>405.75</ele></trkpt>
+   <trkpt lat="50.719592" lon="12.724141"><ele>405.75</ele></trkpt>
+   <trkpt lat="50.719599" lon="12.724318"><ele>406.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

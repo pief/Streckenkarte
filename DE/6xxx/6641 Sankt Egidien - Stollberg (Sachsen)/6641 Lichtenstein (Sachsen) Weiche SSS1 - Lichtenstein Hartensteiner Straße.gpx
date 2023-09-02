@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1275 filtered ascend = 16 plain-ascend = 16 cost=1275 energy=0.0kwh time=1m 42s -->
+<!-- track-length = 1255 filtered ascend = 17 plain-ascend = 17 cost=1255 energy=0.0kwh time=1m 40s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,30 +8,29 @@
  creator="bikerouter.de 2023.19">
  <trk>
   <name>6641 Lichtenstein (Sachsen) Weiche SSS1 - Lichtenstein Hartensteiner Straße</name>
-  <link href="https://bikerouter.de/#map=19/50.74617/12.63586/standard&amp;lonlats=12.626748,50.755357;12.636001,50.746224">
+  <link href="https://bikerouter.de/#map=18/50.74564/12.63748/standard&amp;lonlats=12.626767,50.755221;12.635986,50.746226&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.755357" lon="12.626753"><ele>318.75</ele></trkpt>
-   <trkpt lat="50.755357" lon="12.626754"><ele>318.75</ele></trkpt>
-   <trkpt lat="50.754902" lon="12.626827"><ele>318.5</ele></trkpt>
-   <trkpt lat="50.754698" lon="12.626858"><ele>318.5</ele></trkpt>
-   <trkpt lat="50.754513" lon="12.626886"><ele>318.75</ele></trkpt>
-   <trkpt lat="50.752799" lon="12.62717"><ele>326</ele></trkpt>
-   <trkpt lat="50.752402" lon="12.627261"><ele>329.5</ele></trkpt>
-   <trkpt lat="50.752038" lon="12.627413"><ele>332.25</ele></trkpt>
-   <trkpt lat="50.751804" lon="12.627534"><ele>333.75</ele></trkpt>
+   <trkpt lat="50.755221" lon="12.626767"><ele>318.5</ele></trkpt>
+   <trkpt lat="50.754871" lon="12.626823"><ele>318.5</ele></trkpt>
+   <trkpt lat="50.754541" lon="12.626874"><ele>318.75</ele></trkpt>
+   <trkpt lat="50.752889" lon="12.627133"><ele>325.25</ele></trkpt>
+   <trkpt lat="50.752593" lon="12.627205"><ele>328</ele></trkpt>
+   <trkpt lat="50.752038" lon="12.627399"><ele>332.25</ele></trkpt>
+   <trkpt lat="50.751801" lon="12.627528"><ele>334</ele></trkpt>
    <trkpt lat="50.751571" lon="12.627667"><ele>334.75</ele></trkpt>
-   <trkpt lat="50.751376" lon="12.627787"><ele>334.75</ele></trkpt>
-   <trkpt lat="50.751316" lon="12.627827"><ele>334.75</ele></trkpt>
-   <trkpt lat="50.750987" lon="12.628091"><ele>334</ele></trkpt>
-   <trkpt lat="50.750524" lon="12.628532"><ele>332</ele></trkpt>
-   <trkpt lat="50.750115" lon="12.629043"><ele>330.25</ele></trkpt>
-   <trkpt lat="50.749974" lon="12.629258"><ele>329.5</ele></trkpt>
-   <trkpt lat="50.749394" lon="12.630142"><ele>329</ele></trkpt>
-   <trkpt lat="50.748368" lon="12.63203"><ele>333</ele></trkpt>
-   <trkpt lat="50.746228" lon="12.636001"><ele>335.5</ele></trkpt>
-   <trkpt lat="50.746226" lon="12.636004"><ele>335</ele></trkpt>
+   <trkpt lat="50.751336" lon="12.627822"><ele>334.75</ele></trkpt>
+   <trkpt lat="50.75099" lon="12.628097"><ele>334</ele></trkpt>
+   <trkpt lat="50.750756" lon="12.628311"><ele>333</ele></trkpt>
+   <trkpt lat="50.750527" lon="12.628539"><ele>332</ele></trkpt>
+   <trkpt lat="50.750267" lon="12.62884"><ele>331</ele></trkpt>
+   <trkpt lat="50.749968" lon="12.62923"><ele>329.75</ele></trkpt>
+   <trkpt lat="50.749836" lon="12.629423"><ele>329.25</ele></trkpt>
+   <trkpt lat="50.749615" lon="12.629781"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.749402" lon="12.630155"><ele>329</ele></trkpt>
+   <trkpt lat="50.748375" lon="12.632045"><ele>332.75</ele></trkpt>
+   <trkpt lat="50.746233" lon="12.635995"><ele>335.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

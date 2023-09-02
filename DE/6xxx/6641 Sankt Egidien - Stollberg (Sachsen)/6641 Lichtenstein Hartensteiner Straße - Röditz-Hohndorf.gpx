@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1373 filtered ascend = 16 plain-ascend = 12 cost=1373 energy=0.0kwh time=1m 50s -->
+<!-- track-length = 1377 filtered ascend = 14 plain-ascend = 14 cost=1377 energy=0.0kwh time=1m 50s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,30 +8,38 @@
  creator="bikerouter.de 2023.19">
  <trk>
   <name>6641 Lichtenstein Hartensteiner Straße - Röditz-Hohndorf</name>
-  <link href="https://bikerouter.de/#map=19/50.74255/12.65433/standard&amp;lonlats=12.636001,50.746224;12.653997,50.74222">
+  <link href="https://bikerouter.de/#map=19/50.74200/12.65434/standard&amp;lonlats=12.635986,50.746226;12.653998,50.742218&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.746226" lon="12.636004"><ele>335.25</ele></trkpt>
-   <trkpt lat="50.745767" lon="12.636848"><ele>335</ele></trkpt>
-   <trkpt lat="50.745468" lon="12.637396"><ele>335.25</ele></trkpt>
-   <trkpt lat="50.745178" lon="12.637994"><ele>335</ele></trkpt>
+   <trkpt lat="50.746233" lon="12.635995"><ele>335.25</ele></trkpt>
+   <trkpt lat="50.746229" lon="12.636004"><ele>335.5</ele></trkpt>
+   <trkpt lat="50.745769" lon="12.636852"><ele>335</ele></trkpt>
+   <trkpt lat="50.745474" lon="12.637399"><ele>335.25</ele></trkpt>
+   <trkpt lat="50.74518" lon="12.637998"><ele>335</ele></trkpt>
+   <trkpt lat="50.745009" lon="12.638382"><ele>334.75</ele></trkpt>
    <trkpt lat="50.744844" lon="12.638775"><ele>335.25</ele></trkpt>
-   <trkpt lat="50.744535" lon="12.639578"><ele>335.75</ele></trkpt>
-   <trkpt lat="50.744272" lon="12.640407"><ele>336.25</ele></trkpt>
-   <trkpt lat="50.744081" lon="12.641103"><ele>337</ele></trkpt>
-   <trkpt lat="50.74382" lon="12.642251"><ele>339</ele></trkpt>
-   <trkpt lat="50.743537" lon="12.643839"><ele>343.75</ele></trkpt>
-   <trkpt lat="50.743256" lon="12.645511"><ele>344.5</ele></trkpt>
-   <trkpt lat="50.743123" lon="12.646244"><ele>342.75</ele></trkpt>
-   <trkpt lat="50.742916" lon="12.647549"><ele>340.75</ele></trkpt>
-   <trkpt lat="50.742863" lon="12.648712"><ele>341.75</ele></trkpt>
-   <trkpt lat="50.742807" lon="12.650505"><ele>346.5</ele></trkpt>
-   <trkpt lat="50.742751" lon="12.651486"><ele>347.75</ele></trkpt>
-   <trkpt lat="50.742646" lon="12.652146"><ele>349.25</ele></trkpt>
-   <trkpt lat="50.742465" lon="12.652975"><ele>352</ele></trkpt>
-   <trkpt lat="50.74222" lon="12.653996"><ele>349.75</ele></trkpt>
-   <trkpt lat="50.742219" lon="12.653996"><ele>347.5</ele></trkpt>
+   <trkpt lat="50.744688" lon="12.639173"><ele>335.75</ele></trkpt>
+   <trkpt lat="50.744539" lon="12.639583"><ele>335.75</ele></trkpt>
+   <trkpt lat="50.744405" lon="12.63999"><ele>335.5</ele></trkpt>
+   <trkpt lat="50.744277" lon="12.640409"><ele>336.25</ele></trkpt>
+   <trkpt lat="50.744178" lon="12.640752"><ele>336.75</ele></trkpt>
+   <trkpt lat="50.744085" lon="12.641104"><ele>337</ele></trkpt>
+   <trkpt lat="50.74399" lon="12.64148"><ele>337.5</ele></trkpt>
+   <trkpt lat="50.743904" lon="12.641867"><ele>338.25</ele></trkpt>
+   <trkpt lat="50.743749" lon="12.642661"><ele>340.25</ele></trkpt>
+   <trkpt lat="50.743012" lon="12.646884"><ele>340.75</ele></trkpt>
+   <trkpt lat="50.742966" lon="12.647209"><ele>340.75</ele></trkpt>
+   <trkpt lat="50.742928" lon="12.647548"><ele>340.75</ele></trkpt>
+   <trkpt lat="50.742895" lon="12.648079"><ele>340.75</ele></trkpt>
+   <trkpt lat="50.742792" lon="12.650811"><ele>346.75</ele></trkpt>
+   <trkpt lat="50.742775" lon="12.651131"><ele>347.25</ele></trkpt>
+   <trkpt lat="50.742746" lon="12.651477"><ele>347.75</ele></trkpt>
+   <trkpt lat="50.742704" lon="12.651809"><ele>348.25</ele></trkpt>
+   <trkpt lat="50.74265" lon="12.652147"><ele>349.25</ele></trkpt>
+   <trkpt lat="50.742594" lon="12.65242"><ele>350</ele></trkpt>
+   <trkpt lat="50.742229" lon="12.654001"><ele>349.75</ele></trkpt>
+   <trkpt lat="50.742228" lon="12.654003"><ele>349</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
