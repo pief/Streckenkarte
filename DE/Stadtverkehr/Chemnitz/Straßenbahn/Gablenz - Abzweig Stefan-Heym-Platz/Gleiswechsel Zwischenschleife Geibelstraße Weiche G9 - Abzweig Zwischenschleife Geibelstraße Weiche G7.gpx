@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=80 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Zwischenschleife Geibelstraße Weiche G9 - Abzweig Zwischenschleife Geibelstraße Weiche G7</name>
+  <link href="https://bikerouter.de/#map=19/50.82999/12.95606/standard&amp;lonlats=12.956386,50.829803;12.956078,50.830098&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.829804" lon="12.95639"><ele>323.25</ele></trkpt>
+   <trkpt lat="50.830098" lon="12.95608"><ele>323.75</ele></trkpt>
+   <trkpt lat="50.830098" lon="12.956079"><ele>322.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 0 plain-ascend = -5 cost=864 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Reineckerstraße (Steig Nordwest) - Tschalkowskistraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/50.83078/12.93778/standard&amp;lonlats=12.943579,50.831177;12.93771,50.830643&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.831177" lon="12.943577"><ele>311.5</ele></trkpt>
+   <trkpt lat="50.831127" lon="12.943393"><ele>311.5</ele></trkpt>
+   <trkpt lat="50.830939" lon="12.942695"><ele>310.5</ele></trkpt>
+   <trkpt lat="50.830857" lon="12.942368"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.830643" lon="12.941342"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.830482" lon="12.94057"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830428" lon="12.940183"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830413" lon="12.939953"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830409" lon="12.939618"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830409" lon="12.939483"><ele>310</ele></trkpt>
+   <trkpt lat="50.830413" lon="12.939317"><ele>310</ele></trkpt>
+   <trkpt lat="50.830432" lon="12.939026"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.830457" lon="12.938777"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.83049" lon="12.938537"><ele>309</ele></trkpt>
+   <trkpt lat="50.830564" lon="12.93811"><ele>308</ele></trkpt>
+   <trkpt lat="50.830644" lon="12.937713"><ele>306.5</ele></trkpt>
+   <trkpt lat="50.830644" lon="12.93771"><ele>305.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
