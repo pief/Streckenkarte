@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 0 plain-ascend = -4 cost=482 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Augsburger Straße (Steig Nordost) - Gleiswechsel Wartburger Straße Weiche B17</name>
+  <link href="https://bikerouter.de/#map=19/50.81663/12.94126/standard&amp;lonlats=12.9441,50.815316;12.941436,50.81667&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.815316" lon="12.9441"><ele>330.25</ele></trkpt>
+   <trkpt lat="50.816109" lon="12.942521"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.816597" lon="12.941567"><ele>327.5</ele></trkpt>
+   <trkpt lat="50.816666" lon="12.941438"><ele>327</ele></trkpt>
+   <trkpt lat="50.816668" lon="12.941433"><ele>325.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

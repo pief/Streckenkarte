@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 504 filtered ascend = 2 plain-ascend = -6 cost=1008 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Wartburgstraße (Steig Nordost) - Gutenbergstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/50.82044/12.93439/standard&amp;lonlats=12.940149,50.817349;12.934688,50.820277&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.817352" lon="12.940153"><ele>324</ele></trkpt>
+   <trkpt lat="50.817904" lon="12.939123"><ele>326.25</ele></trkpt>
+   <trkpt lat="50.817937" lon="12.93906"><ele>326.5</ele></trkpt>
+   <trkpt lat="50.818439" lon="12.938118"><ele>326.5</ele></trkpt>
+   <trkpt lat="50.818846" lon="12.937373"><ele>323.75</ele></trkpt>
+   <trkpt lat="50.819505" lon="12.93613"><ele>320.5</ele></trkpt>
+   <trkpt lat="50.819622" lon="12.935914"><ele>320.25</ele></trkpt>
+   <trkpt lat="50.819793" lon="12.935597"><ele>319.5</ele></trkpt>
+   <trkpt lat="50.819995" lon="12.935219"><ele>318</ele></trkpt>
+   <trkpt lat="50.820276" lon="12.934694"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.820278" lon="12.934689"><ele>317.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

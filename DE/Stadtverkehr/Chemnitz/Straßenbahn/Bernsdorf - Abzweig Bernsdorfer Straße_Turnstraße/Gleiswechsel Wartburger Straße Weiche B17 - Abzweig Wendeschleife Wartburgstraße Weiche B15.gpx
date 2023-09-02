@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = -2 cost=172 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Wartburger Straße Weiche B17 - Abzweig Wendeschleife Wartburgstraße Weiche B15</name>
+  <link href="https://bikerouter.de/#map=19/50.81721/12.94008/standard&amp;lonlats=12.941436,50.81667;12.9405,50.817166&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.816668" lon="12.941433"><ele>326.75</ele></trkpt>
+   <trkpt lat="50.816995" lon="12.940822"><ele>325.25</ele></trkpt>
+   <trkpt lat="50.817082" lon="12.940659"><ele>325</ele></trkpt>
+   <trkpt lat="50.817164" lon="12.940505"><ele>324.75</ele></trkpt>
+   <trkpt lat="50.817166" lon="12.9405"><ele>324</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

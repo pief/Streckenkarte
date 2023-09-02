@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Turnstraße Weiche B13 - Abzweig Bernsdorfer Straße/Turnstraße Weiche B11</name>
+  <link href="https://bikerouter.de/#map=19/50.82324/12.92950/standard&amp;lonlats=12.929658,50.823317;12.929314,50.823534&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.823316" lon="12.929657"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.823533" lon="12.929317"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.823534" lon="12.929314"><ele>308</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
