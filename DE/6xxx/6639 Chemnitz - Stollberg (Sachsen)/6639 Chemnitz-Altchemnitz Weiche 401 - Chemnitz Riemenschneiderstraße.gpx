@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 423 filtered ascend = 4 plain-ascend = 4 cost=423 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6639 Chemnitz-Altchemnitz Weiche 401 - Chemnitz Riemenschneiderstraße</name>
+  <link href="https://bikerouter.de/#map=19/50.78966/12.92463/standard&amp;lonlats=12.924787,50.789232;12.92547,50.785467&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.789231" lon="12.924785"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.78923" lon="12.924786"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.788684" lon="12.924896"><ele>317</ele></trkpt>
+   <trkpt lat="50.78604" lon="12.925428"><ele>321</ele></trkpt>
+   <trkpt lat="50.785868" lon="12.925455"><ele>321.25</ele></trkpt>
+   <trkpt lat="50.785694" lon="12.92547"><ele>321.25</ele></trkpt>
+   <trkpt lat="50.78547" lon="12.925471"><ele>321</ele></trkpt>
+   <trkpt lat="50.785465" lon="12.92547"><ele>321</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

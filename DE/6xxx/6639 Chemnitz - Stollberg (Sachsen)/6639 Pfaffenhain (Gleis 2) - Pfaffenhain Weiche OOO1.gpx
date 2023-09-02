@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 269 filtered ascend = 0 plain-ascend = -1 cost=269 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6639 Pfaffenhain (Gleis 2) - Pfaffenhain Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/50.75091/12.82617/standard&amp;lonlats=12.822999,50.750067;12.826546,50.750919&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.75007" lon="12.822996"><ele>359.25</ele></trkpt>
+   <trkpt lat="50.750082" lon="12.823044"><ele>359.25</ele></trkpt>
+   <trkpt lat="50.750667" lon="12.825621"><ele>358.25</ele></trkpt>
+   <trkpt lat="50.750708" lon="12.825788"><ele>358.25</ele></trkpt>
+   <trkpt lat="50.750766" lon="12.825996"><ele>358</ele></trkpt>
+   <trkpt lat="50.750829" lon="12.826193"><ele>358</ele></trkpt>
+   <trkpt lat="50.75092" lon="12.826543"><ele>357.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

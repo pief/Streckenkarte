@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 275 filtered ascend = 2 plain-ascend = 3 cost=275 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6639 Klaffenbach Hp - Neukirchen-Klaffenbach Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/50.77187/12.90408/standard&amp;lonlats=12.903557,50.772268;12.899744,50.771802&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.772267" lon="12.903556"><ele>330.25</ele></trkpt>
+   <trkpt lat="50.772228" lon="12.90316"><ele>330.25</ele></trkpt>
+   <trkpt lat="50.772151" lon="12.902551"><ele>330.5</ele></trkpt>
+   <trkpt lat="50.771798" lon="12.899746"><ele>331.25</ele></trkpt>
+   <trkpt lat="50.771797" lon="12.899744"><ele>333</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

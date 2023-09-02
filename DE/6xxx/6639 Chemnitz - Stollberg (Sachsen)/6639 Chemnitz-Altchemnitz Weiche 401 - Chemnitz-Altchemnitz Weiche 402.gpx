@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 83 filtered ascend = 0 plain-ascend = 1 cost=83 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6639 Chemnitz-Altchemnitz Weiche 401 - Chemnitz-Altchemnitz Weiche 402</name>
+  <link href="https://bikerouter.de/#map=19/50.78974/12.92551/standard&amp;lonlats=12.924785,50.789231;12.924696,50.789962&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.789231" lon="12.924785"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.78923" lon="12.924786"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.789702" lon="12.924692"><ele>317.5</ele></trkpt>
+   <trkpt lat="50.789811" lon="12.924682"><ele>317.5</ele></trkpt>
+   <trkpt lat="50.789889" lon="12.924685"><ele>317.75</ele></trkpt>
+   <trkpt lat="50.78996" lon="12.924699"><ele>317.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
