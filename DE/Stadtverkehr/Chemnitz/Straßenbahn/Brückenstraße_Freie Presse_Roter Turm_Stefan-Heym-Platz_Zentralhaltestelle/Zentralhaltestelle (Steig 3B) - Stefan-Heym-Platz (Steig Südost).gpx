@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 194 filtered ascend = 0 plain-ascend = 0 cost=388 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Zentralhaltestelle (Steig 3B) - Stefan-Heym-Platz (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/50.83336/12.92527/standard&amp;lonlats=12.923603,50.832097;12.925472,50.833379&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.832096" lon="12.923602"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.832099" lon="12.923606"><ele>302</ele></trkpt>
+   <trkpt lat="50.832355" lon="12.924023"><ele>302</ele></trkpt>
+   <trkpt lat="50.832375" lon="12.924056"><ele>302</ele></trkpt>
+   <trkpt lat="50.83255" lon="12.924317"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.832599" lon="12.924388"><ele>301.5</ele></trkpt>
+   <trkpt lat="50.832711" lon="12.924552"><ele>301.5</ele></trkpt>
+   <trkpt lat="50.83273" lon="12.92458"><ele>301.5</ele></trkpt>
+   <trkpt lat="50.832948" lon="12.924884"><ele>301</ele></trkpt>
+   <trkpt lat="50.833377" lon="12.925473"><ele>301.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

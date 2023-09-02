@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 302 filtered ascend = 2 plain-ascend = 2 cost=604 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Zieschestraße Weiche G4 - Tschalkowskistraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/50.83023/12.93842/standard&amp;lonlats=12.933714,50.831404;12.937781,50.830601&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.831404" lon="12.933714"><ele>306</ele></trkpt>
+   <trkpt lat="50.831404" lon="12.933715"><ele>306.25</ele></trkpt>
+   <trkpt lat="50.831114" lon="12.935197"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.831093" lon="12.935304"><ele>307</ele></trkpt>
+   <trkpt lat="50.831073" lon="12.935399"><ele>307</ele></trkpt>
+   <trkpt lat="50.830671" lon="12.937414"><ele>305.75</ele></trkpt>
+   <trkpt lat="50.8306" lon="12.937778"><ele>307</ele></trkpt>
+   <trkpt lat="50.830599" lon="12.93778"><ele>308</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

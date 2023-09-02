@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 670 filtered ascend = 15 plain-ascend = 16 cost=1342 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Arthur-Strobel-Straße (Steig Südwest) - Pappelhain (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/50.82224/12.96352/standard&amp;lonlats=12.960867,50.827953;12.963712,50.822558&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.827953" lon="12.960867"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.827904" lon="12.961088"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.827833" lon="12.961331"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.827769" lon="12.961514"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.827696" lon="12.961689"><ele>328.25</ele></trkpt>
+   <trkpt lat="50.827604" lon="12.96188"><ele>328.25</ele></trkpt>
+   <trkpt lat="50.827484" lon="12.962073"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.827324" lon="12.962289"><ele>329.25</ele></trkpt>
+   <trkpt lat="50.82722" lon="12.962409"><ele>329.75</ele></trkpt>
+   <trkpt lat="50.827108" lon="12.96252"><ele>330.25</ele></trkpt>
+   <trkpt lat="50.826943" lon="12.962658"><ele>330.75</ele></trkpt>
+   <trkpt lat="50.826731" lon="12.962774"><ele>331.25</ele></trkpt>
+   <trkpt lat="50.826586" lon="12.96283"><ele>331.75</ele></trkpt>
+   <trkpt lat="50.826507" lon="12.962845"><ele>332</ele></trkpt>
+   <trkpt lat="50.826258" lon="12.9629"><ele>332.75</ele></trkpt>
+   <trkpt lat="50.825736" lon="12.962971"><ele>334</ele></trkpt>
+   <trkpt lat="50.824481" lon="12.963221"><ele>338.75</ele></trkpt>
+   <trkpt lat="50.823432" lon="12.96352"><ele>341.5</ele></trkpt>
+   <trkpt lat="50.82278" lon="12.963676"><ele>342.5</ele></trkpt>
+   <trkpt lat="50.82256" lon="12.963718"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.822558" lon="12.963718"><ele>344.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

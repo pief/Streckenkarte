@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 462 filtered ascend = 4 plain-ascend = 5 cost=924 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Tschalkowskistraße (Steig Süd) - Reineckerstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/50.83111/12.94478/standard&amp;lonlats=12.937781,50.830601;12.944049,50.831277&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.830599" lon="12.93778"><ele>307</ele></trkpt>
+   <trkpt lat="50.830536" lon="12.938097"><ele>308</ele></trkpt>
+   <trkpt lat="50.830458" lon="12.93853"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.830426" lon="12.938773"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.830401" lon="12.939021"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.830385" lon="12.93932"><ele>310</ele></trkpt>
+   <trkpt lat="50.830377" lon="12.939506"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830377" lon="12.939644"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830385" lon="12.939959"><ele>310.5</ele></trkpt>
+   <trkpt lat="50.830404" lon="12.940194"><ele>310.5</ele></trkpt>
+   <trkpt lat="50.830433" lon="12.940435"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830458" lon="12.940581"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.830615" lon="12.941355"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.830907" lon="12.9427"><ele>310.5</ele></trkpt>
+   <trkpt lat="50.831102" lon="12.943411"><ele>311.5</ele></trkpt>
+   <trkpt lat="50.831276" lon="12.944048"><ele>311.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
