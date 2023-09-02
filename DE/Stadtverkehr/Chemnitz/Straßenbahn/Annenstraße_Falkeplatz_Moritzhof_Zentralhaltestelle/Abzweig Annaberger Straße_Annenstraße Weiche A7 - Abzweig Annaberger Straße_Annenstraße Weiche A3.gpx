@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = 0 cost=154 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Abzweig Annaberger Straße_Annenstraße Weiche A7 - Abzweig Annaberger Straße_Annenstraße Weiche A3</name>
+  <link href="https://bikerouter.de/#map=19/50.82844/12.92073/standard&amp;lonlats=12.920576,50.82778;12.92063,50.828437&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.827778" lon="12.920578"><ele>300.5</ele></trkpt>
+   <trkpt lat="50.827784" lon="12.92058"><ele>300.5</ele></trkpt>
+   <trkpt lat="50.827956" lon="12.920642"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.828069" lon="12.920682"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.828143" lon="12.920695"><ele>300</ele></trkpt>
+   <trkpt lat="50.828202" lon="12.920692"><ele>300</ele></trkpt>
+   <trkpt lat="50.828217" lon="12.920691"><ele>300</ele></trkpt>
+   <trkpt lat="50.828277" lon="12.920676"><ele>300</ele></trkpt>
+   <trkpt lat="50.828435" lon="12.920632"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.828437" lon="12.920631"><ele>300.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

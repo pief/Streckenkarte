@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 349 filtered ascend = 0 plain-ascend = 0 cost=698 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Alt Chemnitz Center (Steig Nordost) - Abzweig Annaberger Straße_Südring Weiche A23</name>
+  <link href="https://bikerouter.de/#map=19/50.79844/12.91391/standard&amp;lonlats=12.91775,50.796477;12.91397,50.79848&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.796475" lon="12.917747"><ele>315.75</ele></trkpt>
+   <trkpt lat="50.796508" lon="12.917684"><ele>315.75</ele></trkpt>
+   <trkpt lat="50.796655" lon="12.917404"><ele>316</ele></trkpt>
+   <trkpt lat="50.796797" lon="12.917136"><ele>315.75</ele></trkpt>
+   <trkpt lat="50.797476" lon="12.915882"><ele>314</ele></trkpt>
+   <trkpt lat="50.79848" lon="12.913971"><ele>315.25</ele></trkpt>
+   <trkpt lat="50.79848" lon="12.91397"><ele>315.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

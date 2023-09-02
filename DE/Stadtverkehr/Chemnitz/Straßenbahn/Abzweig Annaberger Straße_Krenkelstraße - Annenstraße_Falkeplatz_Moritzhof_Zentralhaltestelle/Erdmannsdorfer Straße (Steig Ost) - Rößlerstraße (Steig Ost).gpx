@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 588 filtered ascend = 0 plain-ascend = -3 cost=1176 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Erdmannsdorfer Straße (Steig Ost) - Rößlerstraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/50.81664/12.91378/standard&amp;lonlats=12.912091,50.811531;12.914049,50.816661&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.81153" lon="12.912087"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.811532" lon="12.912088"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.811579" lon="12.912105"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.811722" lon="12.912158"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.812817" lon="12.91256"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.814112" lon="12.913048"><ele>304.25</ele></trkpt>
+   <trkpt lat="50.814563" lon="12.913228"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.814667" lon="12.913271"><ele>305</ele></trkpt>
+   <trkpt lat="50.814785" lon="12.913318"><ele>305.25</ele></trkpt>
+   <trkpt lat="50.81666" lon="12.914048"><ele>303.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
