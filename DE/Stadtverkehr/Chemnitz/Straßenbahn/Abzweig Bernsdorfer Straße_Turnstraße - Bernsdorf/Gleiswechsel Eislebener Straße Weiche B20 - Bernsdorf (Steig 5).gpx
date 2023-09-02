@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 84 filtered ascend = 1 plain-ascend = 1 cost=168 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Eislebener Straße Weiche B20 - Bernsdorf (Steig 5)</name>
+  <link href="https://bikerouter.de/#map=19/50.81050/12.95091/standard&amp;lonlats=12.950354,50.811125;12.950814,50.810465&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.811126" lon="12.950356"><ele>341.75</ele></trkpt>
+   <trkpt lat="50.810838" lon="12.95068"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.810738" lon="12.950756"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.810696" lon="12.950778"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.810657" lon="12.950798"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.810564" lon="12.950824"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.810469" lon="12.950815"><ele>342.75</ele></trkpt>
+   <trkpt lat="50.810464" lon="12.950813"><ele>342.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 282 filtered ascend = 2 plain-ascend = 2 cost=564 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Wartburgstraße Weiche B18 - Augsburger Straße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/50.81494/12.94509/standard&amp;lonlats=12.941699,50.816492;12.944836,50.814916&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.816491" lon="12.941697"><ele>327.5</ele></trkpt>
+   <trkpt lat="50.816491" lon="12.941698"><ele>327.75</ele></trkpt>
+   <trkpt lat="50.816067" lon="12.942534"><ele>328.5</ele></trkpt>
+   <trkpt lat="50.815158" lon="12.944351"><ele>330.25</ele></trkpt>
+   <trkpt lat="50.814916" lon="12.944836"><ele>329.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

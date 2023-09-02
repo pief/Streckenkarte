@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 448 filtered ascend = 8 plain-ascend = 7 cost=896 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gutenbergstraße (Steig Südwest) - Wartburgstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/50.81741/12.94022/standard&amp;lonlats=12.935115,50.820011;12.939953,50.817424&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.820013" lon="12.935118"><ele>317.5</ele></trkpt>
+   <trkpt lat="50.819975" lon="12.935193"><ele>317.75</ele></trkpt>
+   <trkpt lat="50.819775" lon="12.935587"><ele>319.5</ele></trkpt>
+   <trkpt lat="50.819748" lon="12.935639"><ele>319.5</ele></trkpt>
+   <trkpt lat="50.818844" lon="12.937322"><ele>323.5</ele></trkpt>
+   <trkpt lat="50.818426" lon="12.9381"><ele>326.25</ele></trkpt>
+   <trkpt lat="50.817918" lon="12.939034"><ele>326.25</ele></trkpt>
+   <trkpt lat="50.817898" lon="12.939073"><ele>326.25</ele></trkpt>
+   <trkpt lat="50.817427" lon="12.939953"><ele>323.75</ele></trkpt>
+   <trkpt lat="50.817425" lon="12.939955"><ele>324.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

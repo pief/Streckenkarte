@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 455 filtered ascend = 6 plain-ascend = 7 cost=910 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Lutherstraße (Steig Südwest) - Gutenbergstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/50.82017/12.93470/standard&amp;lonlats=12.930429,50.822796;12.935115,50.820011&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.822796" lon="12.930429"><ele>311</ele></trkpt>
+   <trkpt lat="50.822795" lon="12.930432"><ele>311.25</ele></trkpt>
+   <trkpt lat="50.822754" lon="12.9305"><ele>311.25</ele></trkpt>
+   <trkpt lat="50.822663" lon="12.930649"><ele>311.5</ele></trkpt>
+   <trkpt lat="50.822641" lon="12.930684"><ele>311.75</ele></trkpt>
+   <trkpt lat="50.822016" lon="12.931636"><ele>313</ele></trkpt>
+   <trkpt lat="50.821866" lon="12.931873"><ele>313.25</ele></trkpt>
+   <trkpt lat="50.821335" lon="12.932729"><ele>314.75</ele></trkpt>
+   <trkpt lat="50.821053" lon="12.933183"><ele>315.5</ele></trkpt>
+   <trkpt lat="50.820775" lon="12.933693"><ele>316.25</ele></trkpt>
+   <trkpt lat="50.82038" lon="12.934434"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.820363" lon="12.934466"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.820274" lon="12.934631"><ele>317.25</ele></trkpt>
+   <trkpt lat="50.820015" lon="12.935115"><ele>317.5</ele></trkpt>
+   <trkpt lat="50.820013" lon="12.935118"><ele>317.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
