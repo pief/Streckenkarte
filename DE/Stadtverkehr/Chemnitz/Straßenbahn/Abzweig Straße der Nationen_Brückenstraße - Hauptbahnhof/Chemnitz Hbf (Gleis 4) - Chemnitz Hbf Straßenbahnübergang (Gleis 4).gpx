@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = -2 cost=255 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Chemnitz Hbf (Gleis 4) - Chemnitz Hbf Straßenbahnübergang (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/50.84118/12.93141/standard&amp;lonlats=12.929883,50.840063;12.930388,50.841178&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.840062" lon="12.929882"><ele>310</ele></trkpt>
+   <trkpt lat="50.840073" lon="12.929887"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.840684" lon="12.930145"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.841167" lon="12.930388"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.841176" lon="12.930392"><ele>307</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

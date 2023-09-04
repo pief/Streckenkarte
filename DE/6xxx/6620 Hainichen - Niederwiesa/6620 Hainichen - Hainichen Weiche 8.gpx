@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 169 filtered ascend = 0 plain-ascend = -1 cost=169 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6620 Hainichen - Hainichen Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/50.96730/13.12040/standard&amp;lonlats=13.118931,50.967387;13.118561,50.9659&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.967385" lon="13.118934"><ele>318.5</ele></trkpt>
+   <trkpt lat="50.966568" lon="13.118764"><ele>317</ele></trkpt>
+   <trkpt lat="50.966399" lon="13.118719"><ele>316.75</ele></trkpt>
+   <trkpt lat="50.9659" lon="13.118563"><ele>315.75</ele></trkpt>
+   <trkpt lat="50.965898" lon="13.118562"><ele>316.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

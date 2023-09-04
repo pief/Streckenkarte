@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 1 plain-ascend = 1 cost=306 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6620 Niederwiesa (Gleis 3) - Niederwiesa Weiche 40</name>
+  <link href="https://bikerouter.de/#map=19/50.86288/13.01957/standard&amp;lonlats=13.023192,50.862727;13.018858,50.862822&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.862727" lon="13.02319"><ele>291</ele></trkpt>
+   <trkpt lat="50.862703" lon="13.022537"><ele>291.75</ele></trkpt>
+   <trkpt lat="50.862693" lon="13.022113"><ele>292</ele></trkpt>
+   <trkpt lat="50.862703" lon="13.021397"><ele>291.75</ele></trkpt>
+   <trkpt lat="50.862756" lon="13.01959"><ele>291.75</ele></trkpt>
+   <trkpt lat="50.862822" lon="13.018861"><ele>291.75</ele></trkpt>
+   <trkpt lat="50.862822" lon="13.018858"><ele>291.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
