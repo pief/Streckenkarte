@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 626 filtered ascend = 4 plain-ascend = 3 cost=626 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6645 Chemnitz Süd (Gleis 3) - Chemnitz Süd Weiche 18</name>
+  <link href="https://bikerouter.de/#map=17/50.81963/12.92756/standard&amp;lonlats=12.925353,50.822417;12.922634,50.817076&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.822416" lon="12.925352"><ele>308.25</ele></trkpt>
+   <trkpt lat="50.822331" lon="12.925284"><ele>308.5</ele></trkpt>
+   <trkpt lat="50.822018" lon="12.925068"><ele>308.5</ele></trkpt>
+   <trkpt lat="50.82179" lon="12.924934"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.821559" lon="12.92481"><ele>309</ele></trkpt>
+   <trkpt lat="50.821142" lon="12.924609"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.82109" lon="12.924584"><ele>310.5</ele></trkpt>
+   <trkpt lat="50.820024" lon="12.924141"><ele>310.75</ele></trkpt>
+   <trkpt lat="50.819687" lon="12.923977"><ele>311.5</ele></trkpt>
+   <trkpt lat="50.818697" lon="12.923469"><ele>312.25</ele></trkpt>
+   <trkpt lat="50.81822" lon="12.923225"><ele>311.75</ele></trkpt>
+   <trkpt lat="50.817074" lon="12.922634"><ele>311.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

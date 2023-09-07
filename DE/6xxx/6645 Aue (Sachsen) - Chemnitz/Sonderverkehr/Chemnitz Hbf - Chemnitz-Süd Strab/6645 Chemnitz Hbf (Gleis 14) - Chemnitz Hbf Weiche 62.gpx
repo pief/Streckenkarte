@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 148 filtered ascend = 0 plain-ascend = -1 cost=148 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6645 Chemnitz Hbf (Gleis 14) - Chemnitz Hbf Weiche 62</name>
+  <link href="https://bikerouter.de/#map=19/50.83848/12.93219/standard&amp;lonlats=12.931262,50.839452;12.930702,50.83819&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.839451" lon="12.931259"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.838679" lon="12.930933"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.838613" lon="12.930906"><ele>308.5</ele></trkpt>
+   <trkpt lat="50.838581" lon="12.930893"><ele>308.5</ele></trkpt>
+   <trkpt lat="50.838532" lon="12.930871"><ele>308.25</ele></trkpt>
+   <trkpt lat="50.838329" lon="12.930776"><ele>307.75</ele></trkpt>
+   <trkpt lat="50.838197" lon="12.930704"><ele>307.75</ele></trkpt>
+   <trkpt lat="50.83819" lon="12.930699"><ele>307.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
