@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = -2 cost=100 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6619 Grünhainichen-Borstendorf - Grünhainichen-Borstendorf Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.77507/13.16437/standard&amp;lonlats=13.163451,50.774558;13.163327,50.77545&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.774558" lon="13.163451"><ele>350.75</ele></trkpt>
+   <trkpt lat="50.774562" lon="13.163451"><ele>350.75</ele></trkpt>
+   <trkpt lat="50.775449" lon="13.163326"><ele>347.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

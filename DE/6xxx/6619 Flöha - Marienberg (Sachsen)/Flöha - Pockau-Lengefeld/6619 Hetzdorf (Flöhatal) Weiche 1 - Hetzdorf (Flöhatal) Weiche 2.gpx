@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 0 plain-ascend = -1 cost=46 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6619 Hetzdorf (Flöhatal) Weiche 1 - Hetzdorf (Flöhatal) Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/50.83990/13.13014/standard&amp;lonlats=13.129939,50.840136;13.129314,50.840162&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.840136" lon="13.129939"><ele>303</ele></trkpt>
+   <trkpt lat="50.840137" lon="13.129939"><ele>303.25</ele></trkpt>
+   <trkpt lat="50.840157" lon="13.129579"><ele>302.5</ele></trkpt>
+   <trkpt lat="50.84016" lon="13.129315"><ele>302.25</ele></trkpt>
+   <trkpt lat="50.84016" lon="13.129313"><ele>301.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

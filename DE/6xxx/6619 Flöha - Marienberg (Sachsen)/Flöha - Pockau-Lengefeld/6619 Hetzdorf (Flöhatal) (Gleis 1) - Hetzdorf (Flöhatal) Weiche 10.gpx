@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 506 filtered ascend = 9 plain-ascend = 10 cost=506 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6619 Hetzdorf (Flöhatal) (Gleis 1) - Hetzdorf (Flöhatal) Weiche 10</name>
+  <link href="https://bikerouter.de/#map=19/50.84046/13.12793/standard&amp;lonlats=13.127332,50.84037;13.120674,50.841754&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.840369" lon="13.127331"><ele>297</ele></trkpt>
+   <trkpt lat="50.840486" lon="13.126043"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.840539" lon="13.125447"><ele>294.75</ele></trkpt>
+   <trkpt lat="50.840617" lon="13.124569"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.840691" lon="13.123861"><ele>296</ele></trkpt>
+   <trkpt lat="50.840725" lon="13.123612"><ele>295.75</ele></trkpt>
+   <trkpt lat="50.840766" lon="13.123371"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.840885" lon="13.122811"><ele>300</ele></trkpt>
+   <trkpt lat="50.840945" lon="13.122583"><ele>302</ele></trkpt>
+   <trkpt lat="50.84105" lon="13.122228"><ele>303.5</ele></trkpt>
+   <trkpt lat="50.841171" lon="13.121876"><ele>303.75</ele></trkpt>
+   <trkpt lat="50.841261" lon="13.121649"><ele>303.5</ele></trkpt>
+   <trkpt lat="50.841459" lon="13.121211"><ele>305.25</ele></trkpt>
+   <trkpt lat="50.841603" lon="13.120936"><ele>305.75</ele></trkpt>
+   <trkpt lat="50.841752" lon="13.120678"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.841754" lon="13.120674"><ele>306.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
