@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 405 filtered ascend = 5 plain-ascend = 5 cost=405 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6261 Sächsisches Eisenbahnmuseum Museumsbahnsteig - Sächsisches Eisenbahnmuseum Weiche 301</name>
+  <link href="https://bikerouter.de/#map=19/50.86260/12.96648/standard&amp;lonlats=12.965525,50.86234;12.959809,50.86258&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.86234" lon="12.965523"><ele>326</ele></trkpt>
+   <trkpt lat="50.862309" lon="12.963712"><ele>328</ele></trkpt>
+   <trkpt lat="50.86231" lon="12.963213"><ele>328.75</ele></trkpt>
+   <trkpt lat="50.862331" lon="12.962687"><ele>330</ele></trkpt>
+   <trkpt lat="50.862348" lon="12.96243"><ele>330.5</ele></trkpt>
+   <trkpt lat="50.862401" lon="12.961834"><ele>331.25</ele></trkpt>
+   <trkpt lat="50.862454" lon="12.961362"><ele>331.25</ele></trkpt>
+   <trkpt lat="50.862531" lon="12.96072"><ele>331</ele></trkpt>
+   <trkpt lat="50.86256" lon="12.96035"><ele>331</ele></trkpt>
+   <trkpt lat="50.862581" lon="12.959814"><ele>331</ele></trkpt>
+   <trkpt lat="50.862581" lon="12.959809"><ele>330.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
