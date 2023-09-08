@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 225 filtered ascend = 1 plain-ascend = 0 cost=225 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6619 Pockau-Lengefeld (Gleis 1) - Pockau-Lengefeld Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/50.70716/13.22820/standard&amp;lonlats=13.226544,50.707284;13.229497,50.70655&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.707284" lon="13.226544"><ele>398.5</ele></trkpt>
+   <trkpt lat="50.707215" lon="13.226861"><ele>398.5</ele></trkpt>
+   <trkpt lat="50.706998" lon="13.227852"><ele>398.75</ele></trkpt>
+   <trkpt lat="50.706948" lon="13.228054"><ele>398.75</ele></trkpt>
+   <trkpt lat="50.706794" lon="13.228588"><ele>398.75</ele></trkpt>
+   <trkpt lat="50.706719" lon="13.228841"><ele>398.75</ele></trkpt>
+   <trkpt lat="50.706632" lon="13.229156"><ele>399</ele></trkpt>
+   <trkpt lat="50.70655" lon="13.229498"><ele>399.5</ele></trkpt>
+   <trkpt lat="50.70655" lon="13.229497"><ele>398.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

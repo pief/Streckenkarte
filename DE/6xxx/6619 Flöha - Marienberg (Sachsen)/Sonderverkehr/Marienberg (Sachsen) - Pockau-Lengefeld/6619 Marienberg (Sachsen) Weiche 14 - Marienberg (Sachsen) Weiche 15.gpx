@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = -2 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6619 Marienberg (Sachsen) Weiche 14 - Marienberg (Sachsen) Weiche 15</name>
+  <link href="https://bikerouter.de/#map=19/50.64905/13.16859/standard&amp;lonlats=13.167959,50.648809;13.168611,50.648994&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.648808" lon="13.167958"><ele>586.5</ele></trkpt>
+   <trkpt lat="50.648809" lon="13.16796"><ele>586.5</ele></trkpt>
+   <trkpt lat="50.648855" lon="13.168167"><ele>585.75</ele></trkpt>
+   <trkpt lat="50.648921" lon="13.168392"><ele>585</ele></trkpt>
+   <trkpt lat="50.648993" lon="13.168608"><ele>584.75</ele></trkpt>
+   <trkpt lat="50.648993" lon="13.16861"><ele>584</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

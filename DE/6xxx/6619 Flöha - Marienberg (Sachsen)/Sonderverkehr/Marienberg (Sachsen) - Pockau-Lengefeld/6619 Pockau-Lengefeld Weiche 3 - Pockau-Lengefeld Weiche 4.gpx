@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 212 filtered ascend = 0 plain-ascend = -4 cost=212 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6619 Pockau-Lengefeld Weiche 3 - Pockau-Lengefeld Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/50.70654/13.23027/standard&amp;lonlats=13.232088,50.705465;13.229623,50.706521&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.705464" lon="13.232086"><ele>404.25</ele></trkpt>
+   <trkpt lat="50.705791" lon="13.231573"><ele>401.5</ele></trkpt>
+   <trkpt lat="50.705898" lon="13.231394"><ele>401</ele></trkpt>
+   <trkpt lat="50.706001" lon="13.231199"><ele>401</ele></trkpt>
+   <trkpt lat="50.706097" lon="13.230993"><ele>400.75</ele></trkpt>
+   <trkpt lat="50.706184" lon="13.230788"><ele>400.75</ele></trkpt>
+   <trkpt lat="50.706266" lon="13.230563"><ele>400.5</ele></trkpt>
+   <trkpt lat="50.706334" lon="13.230348"><ele>400.25</ele></trkpt>
+   <trkpt lat="50.706444" lon="13.229956"><ele>400</ele></trkpt>
+   <trkpt lat="50.706522" lon="13.229627"><ele>399.5</ele></trkpt>
+   <trkpt lat="50.706522" lon="13.229623"><ele>399.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
