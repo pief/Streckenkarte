@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 3 plain-ascend = 3 cost=530 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Horst Buerer Straße (Steig 2) - Horst Gleiswechsel Brennschott Weiche 424</name>
+  <link href="https://bikerouter.de/#map=19/51.54169/7.02587/standard&amp;lonlats=7.026266,51.539374;7.025612,51.541699">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.539373" lon="7.026264"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.539374" lon="7.026264"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.539738" lon="7.026151"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.539776" lon="7.02614"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.539791" lon="7.026136"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.53988" lon="7.026112"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.54062" lon="7.02592"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.540796" lon="7.025876"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.541109" lon="7.025767"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.541229" lon="7.025734"><ele>37.5</ele></trkpt>
+   <trkpt lat="51.5417" lon="7.025616"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.541699" lon="7.025616"><ele>38.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

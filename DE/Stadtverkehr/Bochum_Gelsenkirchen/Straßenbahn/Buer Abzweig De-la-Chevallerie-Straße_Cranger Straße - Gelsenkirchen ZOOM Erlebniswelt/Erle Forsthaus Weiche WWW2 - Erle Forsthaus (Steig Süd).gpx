@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = 0 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Erle Forsthaus Weiche WWW2 - Erle Forsthaus (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.55137/7.10343/standard&amp;lonlats=7.102975,51.551642;7.103987,51.551455">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.551642" lon="7.102975"><ele>45.5</ele></trkpt>
+   <trkpt lat="51.551624" lon="7.103062"><ele>45.5</ele></trkpt>
+   <trkpt lat="51.551602" lon="7.103177"><ele>45.75</ele></trkpt>
+   <trkpt lat="51.551593" lon="7.103227"><ele>45.75</ele></trkpt>
+   <trkpt lat="51.551458" lon="7.103983"><ele>45.75</ele></trkpt>
+   <trkpt lat="51.551457" lon="7.103987"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

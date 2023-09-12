@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 362 filtered ascend = 0 plain-ascend = -8 cost=724 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Buer Hermann-Löns-Straße (Steig Süd) - Erle Haunerfeldstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=17/51.57298/7.07149/standard&amp;lonlats=7.068589,51.574561;7.072889,51.5728&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.574561" lon="7.068589"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.574561" lon="7.068592"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.574541" lon="7.068762"><ele>90.25</ele></trkpt>
+   <trkpt lat="51.5745" lon="7.069017"><ele>90</ele></trkpt>
+   <trkpt lat="51.57445" lon="7.069265"><ele>89.75</ele></trkpt>
+   <trkpt lat="51.574401" lon="7.069456"><ele>89.5</ele></trkpt>
+   <trkpt lat="51.57432" lon="7.069706"><ele>89</ele></trkpt>
+   <trkpt lat="51.574228" lon="7.069958"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.574116" lon="7.07022"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.573757" lon="7.070955"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.572806" lon="7.072891"><ele>82.25</ele></trkpt>
+   <trkpt lat="51.572804" lon="7.072894"><ele>81.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 0 plain-ascend = -4 cost=782 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Buer Erlestraße (Steig Süd) - Buer Hermann-Löns-Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.57432/7.06823/standard&amp;lonlats=7.063044,51.575016;7.068589,51.574561&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.575016" lon="7.063044"><ele>95.75</ele></trkpt>
+   <trkpt lat="51.575016" lon="7.063153"><ele>95.75</ele></trkpt>
+   <trkpt lat="51.575015" lon="7.063859"><ele>95.75</ele></trkpt>
+   <trkpt lat="51.575006" lon="7.06419"><ele>95.75</ele></trkpt>
+   <trkpt lat="51.574991" lon="7.064431"><ele>95.75</ele></trkpt>
+   <trkpt lat="51.574913" lon="7.065215"><ele>95.25</ele></trkpt>
+   <trkpt lat="51.574698" lon="7.067375"><ele>92.5</ele></trkpt>
+   <trkpt lat="51.574639" lon="7.067949"><ele>91.5</ele></trkpt>
+   <trkpt lat="51.574598" lon="7.068252"><ele>91</ele></trkpt>
+   <trkpt lat="51.57459" lon="7.068323"><ele>91</ele></trkpt>
+   <trkpt lat="51.574585" lon="7.068378"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.574561" lon="7.068589"><ele>90.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
