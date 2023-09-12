@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 0 plain-ascend = -3 cost=700 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Beckhausen Adlerstraße (Steig West) - Überleitstelle Buer Süd Bahnhof Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/51.54828/7.04200/standard&amp;lonlats=7.044352,51.551609;7.041877,51.548879">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.551608" lon="7.04435"><ele>41</ele></trkpt>
+   <trkpt lat="51.551562" lon="7.044331"><ele>41</ele></trkpt>
+   <trkpt lat="51.55137" lon="7.044248"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.55119" lon="7.044154"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.551026" lon="7.044045"><ele>40</ele></trkpt>
+   <trkpt lat="51.550787" lon="7.043852"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.550396" lon="7.043464"><ele>39</ele></trkpt>
+   <trkpt lat="51.54995" lon="7.042991"><ele>38.25</ele></trkpt>
+   <trkpt lat="51.549546" lon="7.042558"><ele>39</ele></trkpt>
+   <trkpt lat="51.549256" lon="7.042241"><ele>39</ele></trkpt>
+   <trkpt lat="51.549065" lon="7.04203"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.54899" lon="7.041965"><ele>38.25</ele></trkpt>
+   <trkpt lat="51.54895" lon="7.041933"><ele>38</ele></trkpt>
+   <trkpt lat="51.548881" lon="7.041883"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.548877" lon="7.041879"><ele>37.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

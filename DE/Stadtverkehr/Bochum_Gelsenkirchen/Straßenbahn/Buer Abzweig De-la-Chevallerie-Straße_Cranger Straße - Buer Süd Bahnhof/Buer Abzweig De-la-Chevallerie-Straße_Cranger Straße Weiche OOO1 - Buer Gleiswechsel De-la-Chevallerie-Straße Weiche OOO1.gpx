@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = -1 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Buer Abzweig De-la-Chevallerie-Straße/Cranger Straße Weiche OOO1 - Buer Gleiswechsel De-la-Chevallerie-Straße Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/51.57781/7.05642/standard&amp;lonlats=7.057402,51.576514;7.057077,51.57691">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.576513" lon="7.057401"><ele>92</ele></trkpt>
+   <trkpt lat="51.576517" lon="7.057398"><ele>92</ele></trkpt>
+   <trkpt lat="51.576841" lon="7.057135"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.576846" lon="7.057131"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.576906" lon="7.057083"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.57691" lon="7.057079"><ele>89.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 160 filtered ascend = 0 plain-ascend = -1 cost=320 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Horst Kärntener Ring (Steig West) - Horst Gleiswechsel Brennschott Weiche 425</name>
+  <link href="https://bikerouter.de/#map=19/51.54152/7.02588/standard&amp;lonlats=7.025341,51.542939;7.02562,51.541519">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.542938" lon="7.025336"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.542866" lon="7.025345"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.542723" lon="7.025359"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.542591" lon="7.025377"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.542494" lon="7.025391"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.542445" lon="7.0254"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.542046" lon="7.025488"><ele>39</ele></trkpt>
+   <trkpt lat="51.541701" lon="7.025577"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.541521" lon="7.025621"><ele>38.25</ele></trkpt>
+   <trkpt lat="51.541519" lon="7.025621"><ele>37.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

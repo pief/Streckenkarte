@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 375 filtered ascend = 4 plain-ascend = 5 cost=750 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Erle Marktstraße (Steig Nord) - Erle Post (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.56188/7.08806/standard&amp;lonlats=7.091739,51.559226;7.088064,51.561716">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.559227" lon="7.091741"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.559271" lon="7.091676"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.559298" lon="7.091635"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.55952" lon="7.091312"><ele>40</ele></trkpt>
+   <trkpt lat="51.559574" lon="7.091232"><ele>40</ele></trkpt>
+   <trkpt lat="51.559889" lon="7.090766"><ele>40</ele></trkpt>
+   <trkpt lat="51.560312" lon="7.090141"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.560394" lon="7.090021"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.560436" lon="7.089959"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.560518" lon="7.089838"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.560853" lon="7.089341"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.561239" lon="7.08877"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.561268" lon="7.088727"><ele>44</ele></trkpt>
+   <trkpt lat="51.561554" lon="7.088305"><ele>44.75</ele></trkpt>
+   <trkpt lat="51.561714" lon="7.088069"><ele>45.25</ele></trkpt>
+   <trkpt lat="51.561716" lon="7.088065"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

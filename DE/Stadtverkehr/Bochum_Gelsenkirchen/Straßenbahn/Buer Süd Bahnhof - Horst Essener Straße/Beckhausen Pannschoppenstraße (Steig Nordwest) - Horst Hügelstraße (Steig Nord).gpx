@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 440 filtered ascend = 7 plain-ascend = 7 cost=880 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Beckhausen Pannschoppenstraße (Steig Nordwest) - Horst Hügelstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=18/51.54367/7.02821/standard&amp;lonlats=7.037025,51.544553;7.031311,51.543237">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.544549" lon="7.037031"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.544526" lon="7.036996"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.544466" lon="7.036899"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.5442" lon="7.036435"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.543961" lon="7.035956"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.543833" lon="7.035651"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.54373" lon="7.035378"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.543582" lon="7.03491"><ele>41</ele></trkpt>
+   <trkpt lat="51.543482" lon="7.034517"><ele>41</ele></trkpt>
+   <trkpt lat="51.543428" lon="7.034275"><ele>41</ele></trkpt>
+   <trkpt lat="51.543347" lon="7.033837"><ele>41</ele></trkpt>
+   <trkpt lat="51.543271" lon="7.033294"><ele>41</ele></trkpt>
+   <trkpt lat="51.543227" lon="7.032768"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.54322" lon="7.032664"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.543206" lon="7.032255"><ele>42</ele></trkpt>
+   <trkpt lat="51.543208" lon="7.031836"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.543231" lon="7.031323"><ele>43</ele></trkpt>
+   <trkpt lat="51.543231" lon="7.03131"><ele>43.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

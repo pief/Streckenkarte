@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 1 plain-ascend = 2 cost=162 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Buer Süd Bahnhof - Überleitstelle Buer Süd Bahnhof Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/51.54808/7.04066/standard&amp;lonlats=7.041241,51.548267;7.041877,51.548879">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.548265" lon="7.041243"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.548298" lon="7.041277"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.548368" lon="7.041352"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.548433" lon="7.041423"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.548438" lon="7.041428"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.548485" lon="7.041481"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.548517" lon="7.041516"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.548524" lon="7.041523"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.548527" lon="7.041527"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.548772" lon="7.041793"><ele>37.5</ele></trkpt>
+   <trkpt lat="51.548877" lon="7.041879"><ele>37.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
