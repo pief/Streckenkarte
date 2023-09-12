@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 37 filtered ascend = 0 plain-ascend = 0 cost=74 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gelsenkirchen Heinrich-König-Platz (Steig Ost) - Gelsenkirchen Heinrich-König-Platz Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/51.51008/7.09396/standard&amp;lonlats=7.094325,51.510072;7.094093,51.510363">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.510072" lon="7.094325"/>
+   <trkpt lat="51.510073" lon="7.094325"/>
+   <trkpt lat="51.510363" lon="7.094093"/>
+  </trkseg>
+ </trk>
+</gpx>
