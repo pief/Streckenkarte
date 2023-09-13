@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1414 filtered ascend = 4 plain-ascend = 1 cost=1414 energy=0.0kwh time=1m 53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9604 Köln-Stüttgenhof (Steig Nord) - Köln-Marsdorf (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/50.91713/6.85855/standard&amp;lonlats=6.877144,50.92009;6.857523,50.917391&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.920086" lon="6.877143"><ele>58</ele></trkpt>
+   <trkpt lat="50.920071" lon="6.876967"><ele>58</ele></trkpt>
+   <trkpt lat="50.920038" lon="6.876597"><ele>57.75</ele></trkpt>
+   <trkpt lat="50.919878" lon="6.87476"><ele>58</ele></trkpt>
+   <trkpt lat="50.919406" lon="6.869377"><ele>57</ele></trkpt>
+   <trkpt lat="50.919318" lon="6.86851"><ele>57</ele></trkpt>
+   <trkpt lat="50.919213" lon="6.867654"><ele>57.5</ele></trkpt>
+   <trkpt lat="50.919087" lon="6.866772"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.918932" lon="6.865832"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.918783" lon="6.865009"><ele>62.25</ele></trkpt>
+   <trkpt lat="50.918645" lon="6.864278"><ele>60.75</ele></trkpt>
+   <trkpt lat="50.917517" lon="6.858219"><ele>58</ele></trkpt>
+   <trkpt lat="50.917496" lon="6.858106"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.917388" lon="6.857523"><ele>59</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

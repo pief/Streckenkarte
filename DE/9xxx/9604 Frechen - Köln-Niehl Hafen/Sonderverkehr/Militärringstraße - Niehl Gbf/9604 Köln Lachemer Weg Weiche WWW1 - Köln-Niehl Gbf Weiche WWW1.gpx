@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = 0 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9604 Köln Lachemer Weg Weiche WWW1 - Köln-Niehl Gbf Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=17/50.99030/6.95010/standard&amp;lonlats=6.944225,50.990646;6.949671,50.990414&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.990646" lon="6.944225"><ele>44.5</ele></trkpt>
+   <trkpt lat="50.990646" lon="6.944232"><ele>44.5</ele></trkpt>
+   <trkpt lat="50.990553" lon="6.948507"><ele>41.75</ele></trkpt>
+   <trkpt lat="50.990523" lon="6.948913"><ele>42</ele></trkpt>
+   <trkpt lat="50.990501" lon="6.949112"><ele>42.25</ele></trkpt>
+   <trkpt lat="50.990439" lon="6.949533"><ele>43</ele></trkpt>
+   <trkpt lat="50.990415" lon="6.949671"><ele>43.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 751 filtered ascend = 2 plain-ascend = 2 cost=751 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9604 Köln-Haus Vorst (Steig Süd) - Köln-Marsdorf (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/50.91750/6.85844/standard&amp;lonlats=6.8486,50.91568;6.858854,50.917591&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.91568" lon="6.848598"><ele>56</ele></trkpt>
+   <trkpt lat="50.916174" lon="6.851252"><ele>56</ele></trkpt>
+   <trkpt lat="50.916187" lon="6.851322"><ele>56</ele></trkpt>
+   <trkpt lat="50.917455" lon="6.858127"><ele>58.25</ele></trkpt>
+   <trkpt lat="50.917476" lon="6.85824"><ele>58</ele></trkpt>
+   <trkpt lat="50.917591" lon="6.858852"><ele>58</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

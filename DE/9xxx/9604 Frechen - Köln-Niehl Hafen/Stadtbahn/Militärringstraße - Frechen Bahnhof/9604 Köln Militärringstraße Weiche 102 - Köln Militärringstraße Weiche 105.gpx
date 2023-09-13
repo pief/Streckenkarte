@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 160 filtered ascend = 1 plain-ascend = 0 cost=161 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9604 Köln Militärringstraße Weiche 102 - Köln Militärringstraße Weiche 105</name>
+  <link href="https://bikerouter.de/#map=19/50.92264/6.88950/standard&amp;lonlats=6.890276,50.923747;6.889063,50.92254&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.923748" lon="6.89027"><ele>61</ele></trkpt>
+   <trkpt lat="50.922969" lon="6.889513"><ele>62.25</ele></trkpt>
+   <trkpt lat="50.922538" lon="6.889068"><ele>62.5</ele></trkpt>
+   <trkpt lat="50.922537" lon="6.889066"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
