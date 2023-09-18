@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 97 filtered ascend = 2 plain-ascend = 2 cost=97 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Chemnitz Hbf Weiche 5 - Chemnitz Hbf Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/50.84553/12.93464/standard&amp;lonlats=12.934208,50.846668;12.933878,50.845822&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.846668" lon="12.934208"><ele>302</ele></trkpt>
+   <trkpt lat="50.846526" lon="12.934146"><ele>302.25</ele></trkpt>
+   <trkpt lat="50.846019" lon="12.933959"><ele>303.25</ele></trkpt>
+   <trkpt lat="50.845822" lon="12.933878"><ele>304</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

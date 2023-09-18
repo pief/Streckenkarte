@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 2 plain-ascend = 3 cost=89 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6258 Niederwiesa Weiche 53 - Niederwiesa Weiche 54</name>
+  <link href="https://bikerouter.de/#map=19/50.86456/13.01351/standard&amp;lonlats=13.013694,50.864392;13.012633,50.864809&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.864392" lon="13.013694"><ele>292.5</ele></trkpt>
+   <trkpt lat="50.864393" lon="13.013694"><ele>292.75</ele></trkpt>
+   <trkpt lat="50.864504" lon="13.0134"><ele>293.75</ele></trkpt>
+   <trkpt lat="50.86471" lon="13.012902"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.864807" lon="13.012641"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.864809" lon="13.012633"><ele>295.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
