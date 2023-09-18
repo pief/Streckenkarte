@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 356 filtered ascend = 1 plain-ascend = 0 cost=356 energy=0.0kwh time=28s -->
+<!-- track-length = 336 filtered ascend = 1 plain-ascend = 0 cost=336 energy=0.0kwh time=27s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -8,11 +8,11 @@
  creator="bikerouter.de 2023.19">
  <trk>
   <name>6258 Chemnitz Hbf Weiche 81 - Chemnitz Hbf Weiche 76</name>
-  <link href="https://bikerouter.de/#map=19/50.83635/12.93077/standard&amp;lonlats=12.931412,50.833561;12.9298,50.83642">
+  <link href="https://bikerouter.de/#map=19/50.83662/12.93009/standard&amp;lonlats=12.93141,50.833562;12.929763,50.836237&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.833561" lon="12.931412"><ele>308</ele></trkpt>
+   <trkpt lat="50.833562" lon="12.93141"><ele>308</ele></trkpt>
    <trkpt lat="50.83371" lon="12.931142"><ele>308.75</ele></trkpt>
    <trkpt lat="50.83385" lon="12.930912"><ele>309</ele></trkpt>
    <trkpt lat="50.833883" lon="12.930858"><ele>309</ele></trkpt>
@@ -22,11 +22,11 @@
    <trkpt lat="50.834684" lon="12.930005"><ele>308</ele></trkpt>
    <trkpt lat="50.834801" lon="12.929935"><ele>307.75</ele></trkpt>
    <trkpt lat="50.835003" lon="12.929835"><ele>307.5</ele></trkpt>
-   <trkpt lat="50.835222" lon="12.929748"><ele>307.5</ele></trkpt>
-   <trkpt lat="50.835456" lon="12.929702"><ele>307.5</ele></trkpt>
-   <trkpt lat="50.8357" lon="12.929689"><ele>307.25</ele></trkpt>
-   <trkpt lat="50.836045" lon="12.929721"><ele>307.25</ele></trkpt>
-   <trkpt lat="50.836418" lon="12.929802"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.835221" lon="12.929752"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.835468" lon="12.929702"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.835705" lon="12.929684"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.835886" lon="12.929695"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.836235" lon="12.929764"><ele>307.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
