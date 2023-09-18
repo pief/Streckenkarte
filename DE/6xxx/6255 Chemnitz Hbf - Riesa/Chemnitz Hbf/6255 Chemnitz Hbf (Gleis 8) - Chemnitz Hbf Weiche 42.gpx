@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 420 filtered ascend = 0 plain-ascend = -6 cost=421 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6255 Chemnitz Hbf (Gleis 8) - Chemnitz Hbf Weiche 42</name>
+  <link href="https://bikerouter.de/#map=19/50.84323/12.93313/standard&amp;lonlats=12.930466,50.839833;12.932142,50.843446&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.839835" lon="12.930465"><ele>310.75</ele></trkpt>
+   <trkpt lat="50.839964" lon="12.93052"><ele>310.75</ele></trkpt>
+   <trkpt lat="50.841677" lon="12.931195"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.841842" lon="12.931259"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.8419" lon="12.931282"><ele>304.75</ele></trkpt>
+   <trkpt lat="50.842475" lon="12.931512"><ele>304</ele></trkpt>
+   <trkpt lat="50.842627" lon="12.931581"><ele>304</ele></trkpt>
+   <trkpt lat="50.84288" lon="12.931725"><ele>304</ele></trkpt>
+   <trkpt lat="50.843031" lon="12.931822"><ele>304</ele></trkpt>
+   <trkpt lat="50.843444" lon="12.932144"><ele>304</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
