@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 510 filtered ascend = 15 plain-ascend = -59 cost=510 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Bergstation Drachenfels - Mittelstation Schloß Drachenburg Weiche von der Bergstation</name>
+  <link href="https://bikerouter.de/#map=19/50.66486/7.21145/standard&amp;lonlats=7.210918,50.664531;7.208233,50.668569&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.664529" lon="7.210918"><ele>263.75</ele></trkpt>
+   <trkpt lat="50.664536" lon="7.21092"><ele>264</ele></trkpt>
+   <trkpt lat="50.664702" lon="7.21097"><ele>268.25</ele></trkpt>
+   <trkpt lat="50.664797" lon="7.210986"><ele>271</ele></trkpt>
+   <trkpt lat="50.665246" lon="7.211"><ele>277.5</ele></trkpt>
+   <trkpt lat="50.665462" lon="7.210983"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.66574" lon="7.210925"><ele>279.5</ele></trkpt>
+   <trkpt lat="50.665987" lon="7.210831"><ele>278</ele></trkpt>
+   <trkpt lat="50.666181" lon="7.210699"><ele>275</ele></trkpt>
+   <trkpt lat="50.666375" lon="7.210528"><ele>271.25</ele></trkpt>
+   <trkpt lat="50.66664" lon="7.210237"><ele>264.25</ele></trkpt>
+   <trkpt lat="50.666887" lon="7.209878"><ele>253.75</ele></trkpt>
+   <trkpt lat="50.667101" lon="7.20947"><ele>242.5</ele></trkpt>
+   <trkpt lat="50.667293" lon="7.209167"><ele>233.5</ele></trkpt>
+   <trkpt lat="50.667496" lon="7.208907"><ele>225.5</ele></trkpt>
+   <trkpt lat="50.667747" lon="7.208711"><ele>219</ele></trkpt>
+   <trkpt lat="50.667981" lon="7.208571"><ele>213.5</ele></trkpt>
+   <trkpt lat="50.668428" lon="7.208296"><ele>205</ele></trkpt>
+   <trkpt lat="50.668568" lon="7.208232"><ele>203.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
