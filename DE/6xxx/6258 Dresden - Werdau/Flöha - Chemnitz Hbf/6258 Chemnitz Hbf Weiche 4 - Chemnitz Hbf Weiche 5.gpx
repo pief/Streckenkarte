@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 57 filtered ascend = 0 plain-ascend = 1 cost=57 energy=0.0kwh time=5s -->
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=25 energy=0.0kwh time=2s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6258 Chemnitz Hbf Weiche 4 - Chemnitz Hbf Weiche 5</name>
-  <link href="https://bikerouter.de/#map=19/50.84655/12.93465/standard&amp;lonlats=12.934399,50.847078;12.934173,50.846586&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.84702/12.93546/standard&amp;lonlats=12.93431,50.846888;12.934205,50.84667&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.847077" lon="12.934398"><ele>301.5</ele></trkpt>
-   <trkpt lat="50.846611" lon="12.934181"><ele>302</ele></trkpt>
-   <trkpt lat="50.846586" lon="12.934171"><ele>302</ele></trkpt>
+   <trkpt lat="50.846887" lon="12.934309"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.846668" lon="12.934208"><ele>302</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 478 filtered ascend = 3 plain-ascend = 4 cost=478 energy=0.0kwh time=38s -->
+<!-- track-length = 491 filtered ascend = 3 plain-ascend = 4 cost=491 energy=0.0kwh time=39s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6258 Niederwiesa Weiche 40 - Niederwiesa Weiche 54</name>
-  <link href="https://bikerouter.de/#map=19/50.86451/13.01339/standard&amp;lonlats=13.01886,50.862826;13.012809,50.864745&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.86476/13.01309/standard&amp;lonlats=13.01885,50.862834;13.012635,50.864811&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.862822" lon="13.018858"><ele>291.5</ele></trkpt>
-   <trkpt lat="50.86288" lon="13.018544"><ele>291.5</ele></trkpt>
-   <trkpt lat="50.863021" lon="13.01785"><ele>290.25</ele></trkpt>
-   <trkpt lat="50.863204" lon="13.017144"><ele>288.25</ele></trkpt>
-   <trkpt lat="50.863293" lon="13.016849"><ele>287.5</ele></trkpt>
-   <trkpt lat="50.863616" lon="13.015955"><ele>285.75</ele></trkpt>
+   <trkpt lat="50.862831" lon="13.018848"><ele>291.5</ele></trkpt>
+   <trkpt lat="50.862882" lon="13.018545"><ele>291.5</ele></trkpt>
+   <trkpt lat="50.862969" lon="13.018093"><ele>290.75</ele></trkpt>
+   <trkpt lat="50.863118" lon="13.017465"><ele>289.25</ele></trkpt>
+   <trkpt lat="50.863196" lon="13.017188"><ele>288.5</ele></trkpt>
+   <trkpt lat="50.8633" lon="13.016859"><ele>289</ele></trkpt>
+   <trkpt lat="50.863444" lon="13.016434"><ele>289.5</ele></trkpt>
+   <trkpt lat="50.863616" lon="13.015958"><ele>290.5</ele></trkpt>
    <trkpt lat="50.86424" lon="13.014241"><ele>290.5</ele></trkpt>
-   <trkpt lat="50.864742" lon="13.012815"><ele>295.25</ele></trkpt>
-   <trkpt lat="50.864744" lon="13.012808"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.864807" lon="13.012641"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.864809" lon="13.012633"><ele>295.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

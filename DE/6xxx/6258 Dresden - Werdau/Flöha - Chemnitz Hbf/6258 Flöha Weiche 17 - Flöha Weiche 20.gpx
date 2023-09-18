@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 189 filtered ascend = 0 plain-ascend = 0 cost=189 energy=0.0kwh time=15s -->
+<!-- track-length = 203 filtered ascend = 0 plain-ascend = 0 cost=203 energy=0.0kwh time=16s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6258 Flöha Weiche 17 - Flöha Weiche 20</name>
-  <link href="https://bikerouter.de/#map=19/50.85645/13.06737/standard&amp;lonlats=13.070332,50.856031;13.067711,50.85637&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.85645/13.06962/standard&amp;lonlats=13.070394,50.856023;13.06883,50.856218;13.067586,50.856387&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.856031" lon="13.070332"><ele>272</ele></trkpt>
+   <trkpt lat="50.856023" lon="13.070394"><ele>272</ele></trkpt>
+   <trkpt lat="50.856023" lon="13.070395"><ele>272</ele></trkpt>
    <trkpt lat="50.856161" lon="13.069346"><ele>271.75</ele></trkpt>
    <trkpt lat="50.856176" lon="13.069225"><ele>271.75</ele></trkpt>
-   <trkpt lat="50.856368" lon="13.067715"><ele>271</ele></trkpt>
-   <trkpt lat="50.856368" lon="13.06771"><ele>270.75</ele></trkpt>
+   <trkpt lat="50.856226" lon="13.068832"><ele>271</ele></trkpt>
+   <trkpt lat="50.856385" lon="13.067587"><ele>271</ele></trkpt>
+   <trkpt lat="50.856385" lon="13.067585"><ele>270.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

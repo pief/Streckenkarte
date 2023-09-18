@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 52 filtered ascend = 2 plain-ascend = 3 cost=52 energy=0.0kwh time=4s -->
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=52 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6258 Niederwiesa Weiche 12 - Niederwiesa Weiche 13</name>
-  <link href="https://bikerouter.de/#map=19/50.86268/13.02593/standard&amp;lonlats=13.027397,50.862793;13.026685,50.862765&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.86298/13.02836/standard&amp;lonlats=13.027622,50.862802;13.026899,50.862776&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.862793" lon="13.027395"><ele>288.25</ele></trkpt>
-   <trkpt lat="50.862793" lon="13.027394"><ele>288.5</ele></trkpt>
-   <trkpt lat="50.862766" lon="13.026686"><ele>288.5</ele></trkpt>
-   <trkpt lat="50.862765" lon="13.026683"><ele>290.75</ele></trkpt>
+   <trkpt lat="50.862802" lon="13.02762"><ele>288.25</ele></trkpt>
+   <trkpt lat="50.862803" lon="13.027625"><ele>288.25</ele></trkpt>
+   <trkpt lat="50.862775" lon="13.026898"><ele>288.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

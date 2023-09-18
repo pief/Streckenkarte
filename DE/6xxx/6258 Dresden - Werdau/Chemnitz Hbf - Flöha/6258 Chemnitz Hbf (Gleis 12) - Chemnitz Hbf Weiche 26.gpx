@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 499 filtered ascend = 0 plain-ascend = -4 cost=500 energy=0.0kwh time=40s -->
+<!-- track-length = 509 filtered ascend = 0 plain-ascend = -5 cost=510 energy=0.0kwh time=41s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6258 Chemnitz Hbf (Gleis 12) - Chemnitz Hbf Weiche 26</name>
-  <link href="https://bikerouter.de/#map=19/50.84371/12.93280/standard&amp;lonlats=12.931054,50.839494;12.932888,50.843818&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.84344/12.93353/standard&amp;lonlats=12.931046,50.839494;12.932914,50.843905&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.839494" lon="12.931046"><ele>309.75</ele></trkpt>
-   <trkpt lat="50.839806" lon="12.931176"><ele>310.25</ele></trkpt>
-   <trkpt lat="50.840989" lon="12.931628"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.839494" lon="12.931041"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.839807" lon="12.931171"><ele>310.25</ele></trkpt>
+   <trkpt lat="50.840991" lon="12.93162"><ele>307.25</ele></trkpt>
    <trkpt lat="50.841511" lon="12.931827"><ele>305.5</ele></trkpt>
    <trkpt lat="50.841825" lon="12.931949"><ele>304.75</ele></trkpt>
    <trkpt lat="50.841844" lon="12.931956"><ele>304.75</ele></trkpt>
-   <trkpt lat="50.842522" lon="12.932224"><ele>304</ele></trkpt>
+   <trkpt lat="50.842792" lon="12.932333"><ele>304</ele></trkpt>
    <trkpt lat="50.842921" lon="12.932392"><ele>304</ele></trkpt>
-   <trkpt lat="50.843229" lon="12.932546"><ele>304</ele></trkpt>
-   <trkpt lat="50.843815" lon="12.932894"><ele>304.5</ele></trkpt>
+   <trkpt lat="50.843229" lon="12.932543"><ele>304</ele></trkpt>
+   <trkpt lat="50.843803" lon="12.932866"><ele>304.5</ele></trkpt>
+   <trkpt lat="50.843903" lon="12.932918"><ele>304.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
