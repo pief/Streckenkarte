@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 0 plain-ascend = 0 cost=218 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6619 Flöha Weiche 12 - Flöha Weiche 15</name>
+  <link href="https://bikerouter.de/#map=19/50.85581/13.07200/standard&amp;lonlats=13.073449,50.855493;13.070522,50.856006&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.855494" lon="13.07345"><ele>273</ele></trkpt>
+   <trkpt lat="50.855495" lon="13.073448"><ele>273</ele></trkpt>
+   <trkpt lat="50.855633" lon="13.073021"><ele>272.5</ele></trkpt>
+   <trkpt lat="50.8557" lon="13.072783"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.855781" lon="13.072452"><ele>271.75</ele></trkpt>
+   <trkpt lat="50.855851" lon="13.072062"><ele>272</ele></trkpt>
+   <trkpt lat="50.855896" lon="13.071692"><ele>272</ele></trkpt>
+   <trkpt lat="50.855941" lon="13.07115"><ele>272</ele></trkpt>
+   <trkpt lat="50.856006" lon="13.070526"><ele>272</ele></trkpt>
+   <trkpt lat="50.856006" lon="13.070522"><ele>272</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
