@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 2 plain-ascend = 2 cost=62 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2800 Kreuztal Weiche WLM 50 - Kreuztal Weiche WLM 52</name>
+  <link href="https://bikerouter.de/#map=19/50.95303/7.99659/standard&amp;lonlats=7.995121,50.953101;7.99574,50.952718&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.9531" lon="7.99512"><ele>275.5</ele></trkpt>
+   <trkpt lat="50.95292" lon="7.995394"><ele>276.5</ele></trkpt>
+   <trkpt lat="50.952842" lon="7.995528"><ele>277</ele></trkpt>
+   <trkpt lat="50.952719" lon="7.995739"><ele>277.25</ele></trkpt>
+   <trkpt lat="50.952718" lon="7.99574"><ele>277.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

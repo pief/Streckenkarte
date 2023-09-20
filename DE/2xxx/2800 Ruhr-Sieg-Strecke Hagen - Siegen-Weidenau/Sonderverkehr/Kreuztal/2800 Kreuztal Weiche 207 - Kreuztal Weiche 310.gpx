@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=68 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2800 Kreuztal Weiche 207 - Kreuztal Weiche 310</name>
+  <link href="https://bikerouter.de/#map=19/50.95158/7.99762/standard&amp;lonlats=7.996942,50.951646;7.996443,50.952158&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.951647" lon="7.996945"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.951648" lon="7.996945"><ele>278.25</ele></trkpt>
+   <trkpt lat="50.951869" lon="7.996741"><ele>277.75</ele></trkpt>
+   <trkpt lat="50.952159" lon="7.996446"><ele>278</ele></trkpt>
+   <trkpt lat="50.952159" lon="7.996445"><ele>278</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
