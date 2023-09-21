@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 868 filtered ascend = 0 plain-ascend = -1 cost=868 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9261 Brühl-Vochem (Östliches Gleis) - Brühl-Vochem Weiche 304</name>
+  <link href="https://bikerouter.de/#map=19/50.85156/6.90256/standard&amp;lonlats=6.901064,50.84406;6.902217,50.851629&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.844058" lon="6.901065"><ele>70</ele></trkpt>
+   <trkpt lat="50.844062" lon="6.901067"><ele>70</ele></trkpt>
+   <trkpt lat="50.846927" lon="6.902621"><ele>70.5</ele></trkpt>
+   <trkpt lat="50.847224" lon="6.902755"><ele>70.25</ele></trkpt>
+   <trkpt lat="50.847365" lon="6.902806"><ele>70.25</ele></trkpt>
+   <trkpt lat="50.847681" lon="6.902885"><ele>69.75</ele></trkpt>
+   <trkpt lat="50.847894" lon="6.902907"><ele>69.25</ele></trkpt>
+   <trkpt lat="50.848016" lon="6.90291"><ele>69</ele></trkpt>
+   <trkpt lat="50.848147" lon="6.902906"><ele>68.75</ele></trkpt>
+   <trkpt lat="50.8485" lon="6.902862"><ele>68.75</ele></trkpt>
+   <trkpt lat="50.851626" lon="6.902218"><ele>68.25</ele></trkpt>
+   <trkpt lat="50.851629" lon="6.902217"><ele>68.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
