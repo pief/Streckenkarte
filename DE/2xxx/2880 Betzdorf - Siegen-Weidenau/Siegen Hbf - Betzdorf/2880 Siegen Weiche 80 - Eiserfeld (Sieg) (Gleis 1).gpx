@@ -1,55 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 3926 filtered ascend = 8 plain-ascend = -11 cost=3926 energy=0.0kwh time=5m 14s -->
+<!-- track-length = 3883 filtered ascend = 9 plain-ascend = -11 cost=3883 energy=0.0kwh time=5m 11s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>2880 Siegen Weiche 80 - Eiserfeld (Sieg) (Gleis 1)</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/50.84742/7.98716/standard&amp;lonlats=8.011334,50.872602;7.987295,50.847509&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=15/50.8595/8.0088/standard&amp;lonlats=8.011329,50.872605;7.987295,50.847508&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.872602" lon="8.011332"><ele>241.25</ele></trkpt>
-   <trkpt lat="50.872603" lon="8.011334"><ele>241.25</ele></trkpt>
-   <trkpt lat="50.872325" lon="8.010815"><ele>244.25</ele></trkpt>
+   <trkpt lat="50.872602" lon="8.011331"><ele>241</ele></trkpt>
+   <trkpt lat="50.872601" lon="8.011329"><ele>241.25</ele></trkpt>
+   <trkpt lat="50.872327" lon="8.010814"><ele>244.25</ele></trkpt>
    <trkpt lat="50.872205" lon="8.010559"><ele>244.5</ele></trkpt>
    <trkpt lat="50.872191" lon="8.010531"><ele>244.5</ele></trkpt>
    <trkpt lat="50.872121" lon="8.010381"><ele>244.5</ele></trkpt>
-   <trkpt lat="50.871953" lon="8.009974"><ele>243.25</ele></trkpt>
-   <trkpt lat="50.871833" lon="8.009618"><ele>242</ele></trkpt>
-   <trkpt lat="50.871747" lon="8.009296"><ele>241.25</ele></trkpt>
-   <trkpt lat="50.87168" lon="8.008998"><ele>240.75</ele></trkpt>
-   <trkpt lat="50.8716" lon="8.008566"><ele>241.5</ele></trkpt>
-   <trkpt lat="50.871513" lon="8.007972"><ele>241.75</ele></trkpt>
-   <trkpt lat="50.871449" lon="8.007538"><ele>241.75</ele></trkpt>
-   <trkpt lat="50.871334" lon="8.006861"><ele>241</ele></trkpt>
-   <trkpt lat="50.871286" lon="8.006643"><ele>240.75</ele></trkpt>
-   <trkpt lat="50.871247" lon="8.006468"><ele>240.5</ele></trkpt>
-   <trkpt lat="50.871159" lon="8.006147"><ele>240</ele></trkpt>
-   <trkpt lat="50.870953" lon="8.005537"><ele>239</ele></trkpt>
-   <trkpt lat="50.870816" lon="8.005222"><ele>238.5</ele></trkpt>
-   <trkpt lat="50.870503" lon="8.004628"><ele>238</ele></trkpt>
+   <trkpt lat="50.872001" lon="8.010096"><ele>243.75</ele></trkpt>
+   <trkpt lat="50.871856" lon="8.009682"><ele>242.25</ele></trkpt>
+   <trkpt lat="50.871781" lon="8.009431"><ele>241.5</ele></trkpt>
+   <trkpt lat="50.871716" lon="8.009164"><ele>241</ele></trkpt>
+   <trkpt lat="50.87166" lon="8.008895"><ele>240.75</ele></trkpt>
+   <trkpt lat="50.871605" lon="8.00858"><ele>241.5</ele></trkpt>
+   <trkpt lat="50.871515" lon="8.007972"><ele>241.75</ele></trkpt>
+   <trkpt lat="50.871406" lon="8.00725"><ele>241.5</ele></trkpt>
+   <trkpt lat="50.871351" lon="8.006937"><ele>241</ele></trkpt>
+   <trkpt lat="50.87129" lon="8.006642"><ele>240.75</ele></trkpt>
+   <trkpt lat="50.871189" lon="8.006233"><ele>240.25</ele></trkpt>
+   <trkpt lat="50.871132" lon="8.006037"><ele>239.75</ele></trkpt>
+   <trkpt lat="50.870985" lon="8.00561"><ele>239.25</ele></trkpt>
+   <trkpt lat="50.870894" lon="8.005382"><ele>238.75</ele></trkpt>
+   <trkpt lat="50.870789" lon="8.00515"><ele>238.5</ele></trkpt>
+   <trkpt lat="50.870677" lon="8.004926"><ele>238.5</ele></trkpt>
+   <trkpt lat="50.870548" lon="8.004701"><ele>238.25</ele></trkpt>
    <trkpt lat="50.870417" lon="8.004492"><ele>237.75</ele></trkpt>
    <trkpt lat="50.870277" lon="8.004295"><ele>237.5</ele></trkpt>
    <trkpt lat="50.870056" lon="8.00402"><ele>237</ele></trkpt>
-   <trkpt lat="50.869846" lon="8.0038"><ele>236.5</ele></trkpt>
-   <trkpt lat="50.869637" lon="8.003615"><ele>236</ele></trkpt>
-   <trkpt lat="50.869471" lon="8.003488"><ele>235.5</ele></trkpt>
-   <trkpt lat="50.869275" lon="8.003356"><ele>235.25</ele></trkpt>
+   <trkpt lat="50.869818" lon="8.003772"><ele>236.5</ele></trkpt>
+   <trkpt lat="50.869559" lon="8.003554"><ele>235.75</ele></trkpt>
+   <trkpt lat="50.869345" lon="8.003405"><ele>235.25</ele></trkpt>
    <trkpt lat="50.869072" lon="8.003251"><ele>234.75</ele></trkpt>
-   <trkpt lat="50.868953" lon="8.003192"><ele>234.75</ele></trkpt>
-   <trkpt lat="50.868553" lon="8.003067"><ele>234.75</ele></trkpt>
-   <trkpt lat="50.868221" lon="8.003014"><ele>234.5</ele></trkpt>
-   <trkpt lat="50.867761" lon="8.003033"><ele>234</ele></trkpt>
-   <trkpt lat="50.867474" lon="8.003098"><ele>234</ele></trkpt>
-   <trkpt lat="50.867378" lon="8.003123"><ele>234.5</ele></trkpt>
-   <trkpt lat="50.867094" lon="8.003231"><ele>235.25</ele></trkpt>
-   <trkpt lat="50.866798" lon="8.003389"><ele>235.5</ele></trkpt>
-   <trkpt lat="50.866476" lon="8.003608"><ele>240.75</ele></trkpt>
-   <trkpt lat="50.866191" lon="8.003881"><ele>245.25</ele></trkpt>
+   <trkpt lat="50.868956" lon="8.003198"><ele>234.75</ele></trkpt>
+   <trkpt lat="50.868669" lon="8.003096"><ele>234.75</ele></trkpt>
+   <trkpt lat="50.868373" lon="8.003034"><ele>234.5</ele></trkpt>
+   <trkpt lat="50.86822" lon="8.003016"><ele>234.5</ele></trkpt>
+   <trkpt lat="50.868095" lon="8.00301"><ele>234.25</ele></trkpt>
+   <trkpt lat="50.867878" lon="8.003016"><ele>234.25</ele></trkpt>
+   <trkpt lat="50.867734" lon="8.003033"><ele>234</ele></trkpt>
+   <trkpt lat="50.867473" lon="8.003087"><ele>234</ele></trkpt>
+   <trkpt lat="50.867209" lon="8.003175"><ele>235</ele></trkpt>
+   <trkpt lat="50.86708" lon="8.003231"><ele>235.5</ele></trkpt>
+   <trkpt lat="50.866967" lon="8.003287"><ele>235.5</ele></trkpt>
+   <trkpt lat="50.866695" lon="8.003449"><ele>235.75</ele></trkpt>
+   <trkpt lat="50.866453" lon="8.003632"><ele>241</ele></trkpt>
+   <trkpt lat="50.866357" lon="8.003718"><ele>243</ele></trkpt>
+   <trkpt lat="50.866143" lon="8.003928"><ele>245.75</ele></trkpt>
    <trkpt lat="50.866026" lon="8.004058"><ele>246.5</ele></trkpt>
    <trkpt lat="50.865912" lon="8.004194"><ele>246.25</ele></trkpt>
    <trkpt lat="50.865727" lon="8.004439"><ele>246.5</ele></trkpt>
@@ -99,7 +106,7 @@
    <trkpt lat="50.850491" lon="7.99229"><ele>231</ele></trkpt>
    <trkpt lat="50.84926" lon="7.990285"><ele>232.5</ele></trkpt>
    <trkpt lat="50.848792" lon="7.989497"><ele>234.25</ele></trkpt>
-   <trkpt lat="50.847508" lon="7.987295"><ele>229.5</ele></trkpt>
+   <trkpt lat="50.847507" lon="7.987294"><ele>229</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
