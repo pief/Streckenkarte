@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 4626 filtered ascend = 9 plain-ascend = -11 cost=4627 energy=0.1kwh time=6m 10s -->
+<!-- track-length = 4626 filtered ascend = 30 plain-ascend = 3 cost=4645 energy=0.1kwh time=6m 13s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6386 Döbeln Hbf Weiche 44 - Westewitz-Hochweitzschen</name>
-  <link href="https://bikerouter.de/#map=17/51.13611/13.03187/standard&amp;lonlats=13.087576,51.12597;13.027866,51.137543&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=16/51.1276/13.0752/standard&amp;lonlats=13.087568,51.125969;13.084257,51.125953;13.074265,51.127425;13.07196,51.127603;13.069417,51.127563;13.063286,51.127024;13.061549,51.127023;13.059893,51.127268;13.058099,51.127764;13.054277,51.12934;13.04941,51.130626;13.04816,51.131358;13.046083,51.133203;13.045041,51.133851;13.043969,51.134306;13.042153,51.134726;13.03676,51.135459;13.032891,51.13514;13.031364,51.135255;13.030366,51.135514;13.029183,51.13609;13.028583,51.136575;13.027879,51.137545&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.125969" lon="13.087576"><ele>175.75</ele></trkpt>
-   <trkpt lat="51.125936" lon="13.087102"><ele>176</ele></trkpt>
+   <trkpt lat="51.125967" lon="13.087568"><ele>175.75</ele></trkpt>
+   <trkpt lat="51.125933" lon="13.087103"><ele>176</ele></trkpt>
    <trkpt lat="51.125908" lon="13.086208"><ele>175.5</ele></trkpt>
-   <trkpt lat="51.125899" lon="13.085301"><ele>174.75</ele></trkpt>
+   <trkpt lat="51.125898" lon="13.085301"><ele>174.75</ele></trkpt>
    <trkpt lat="51.12591" lon="13.084865"><ele>174</ele></trkpt>
    <trkpt lat="51.125927" lon="13.084561"><ele>173.75</ele></trkpt>
    <trkpt lat="51.125953" lon="13.084257"><ele>173.25</ele></trkpt>

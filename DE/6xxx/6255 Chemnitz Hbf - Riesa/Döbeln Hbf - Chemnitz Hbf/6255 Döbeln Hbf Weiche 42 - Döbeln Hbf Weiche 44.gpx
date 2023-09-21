@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 84 filtered ascend = 0 plain-ascend = 0 cost=84 energy=0.0kwh time=7s -->
+<!-- track-length = 91 filtered ascend = 0 plain-ascend = 0 cost=91 energy=0.0kwh time=7s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6255 Döbeln Hbf Weiche 42 - Döbeln Hbf Weiche 44</name>
-  <link href="https://bikerouter.de/#map=19/51.12625/13.08831/standard&amp;lonlats=13.088747,51.126075;13.087576,51.12597&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/51.12609/13.08880/standard&amp;lonlats=13.088833,51.126084;13.087568,51.125969&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.126075" lon="13.088745"><ele>176.5</ele></trkpt>
-   <trkpt lat="51.126076" lon="13.088749"><ele>176.75</ele></trkpt>
-   <trkpt lat="51.125969" lon="13.087576"><ele>175.75</ele></trkpt>
+   <trkpt lat="51.126084" lon="13.088831"><ele>176.5</ele></trkpt>
+   <trkpt lat="51.126085" lon="13.088835"><ele>176.75</ele></trkpt>
+   <trkpt lat="51.125967" lon="13.087568"><ele>175.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
