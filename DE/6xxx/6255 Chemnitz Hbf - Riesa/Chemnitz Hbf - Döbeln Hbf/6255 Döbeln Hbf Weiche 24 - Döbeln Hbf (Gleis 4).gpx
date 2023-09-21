@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 0 plain-ascend = -6 cost=251 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6255 Döbeln Hbf Weiche 24 - Döbeln Hbf (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/51.12721/13.09595/standard&amp;lonlats=13.091937,51.126334;13.095393,51.126886&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.126334" lon="13.091935"><ele>179</ele></trkpt>
+   <trkpt lat="51.126335" lon="13.091939"><ele>179</ele></trkpt>
+   <trkpt lat="51.126429" lon="13.092937"><ele>177.75</ele></trkpt>
+   <trkpt lat="51.126479" lon="13.093445"><ele>176.75</ele></trkpt>
+   <trkpt lat="51.126516" lon="13.093713"><ele>176</ele></trkpt>
+   <trkpt lat="51.126552" lon="13.093961"><ele>175.25</ele></trkpt>
+   <trkpt lat="51.126645" lon="13.094442"><ele>173.75</ele></trkpt>
+   <trkpt lat="51.126752" lon="13.09491"><ele>172.75</ele></trkpt>
+   <trkpt lat="51.126815" lon="13.095138"><ele>172.75</ele></trkpt>
+   <trkpt lat="51.126893" lon="13.095386"><ele>172.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

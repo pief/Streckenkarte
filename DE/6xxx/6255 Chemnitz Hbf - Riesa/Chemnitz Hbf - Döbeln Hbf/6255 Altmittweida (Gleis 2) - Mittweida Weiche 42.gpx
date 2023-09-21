@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1526 filtered ascend = 0 plain-ascend = -9 cost=1526 energy=0.0kwh time=2m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6255 Altmittweida (Gleis 2) - Mittweida Weiche 42</name>
+  <link href="https://bikerouter.de/#map=18/50.98277/12.96135/standard&amp;lonlats=12.959687,50.968958;12.959672,50.982671&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.968956" lon="12.959687"><ele>295.25</ele></trkpt>
+   <trkpt lat="50.96896" lon="12.959688"><ele>295.5</ele></trkpt>
+   <trkpt lat="50.982355" lon="12.959675"><ele>286</ele></trkpt>
+   <trkpt lat="50.982552" lon="12.959676"><ele>285.75</ele></trkpt>
+   <trkpt lat="50.982671" lon="12.959675"><ele>285.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

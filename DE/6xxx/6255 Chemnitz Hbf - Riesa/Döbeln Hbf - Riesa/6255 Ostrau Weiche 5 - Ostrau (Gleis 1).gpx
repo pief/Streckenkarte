@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 261 filtered ascend = 0 plain-ascend = 0 cost=261 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6255 Ostrau Weiche 5 - Ostrau (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.20063/13.16726/standard&amp;lonlats=13.164834,51.198469;13.166581,51.200541&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.198468" lon="13.164833"><ele>157</ele></trkpt>
+   <trkpt lat="51.198469" lon="13.164835"><ele>157.25</ele></trkpt>
+   <trkpt lat="51.198532" lon="13.164901"><ele>157.5</ele></trkpt>
+   <trkpt lat="51.199122" lon="13.1655"><ele>157.5</ele></trkpt>
+   <trkpt lat="51.199277" lon="13.165651"><ele>157.5</ele></trkpt>
+   <trkpt lat="51.199564" lon="13.16591"><ele>157.5</ele></trkpt>
+   <trkpt lat="51.199912" lon="13.166179"><ele>157</ele></trkpt>
+   <trkpt lat="51.200121" lon="13.166324"><ele>157</ele></trkpt>
+   <trkpt lat="51.200525" lon="13.166581"><ele>157.25</ele></trkpt>
+   <trkpt lat="51.200537" lon="13.166589"><ele>157.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

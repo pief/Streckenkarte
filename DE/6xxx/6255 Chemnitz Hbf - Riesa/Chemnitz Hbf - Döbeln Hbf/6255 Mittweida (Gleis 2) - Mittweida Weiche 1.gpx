@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 741 filtered ascend = 7 plain-ascend = 7 cost=741 energy=0.0kwh time=59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6255 Mittweida (Gleis 2) - Mittweida Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.99390/12.95920/standard&amp;lonlats=12.959946,50.987226;12.958908,50.993811&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.987224" lon="12.959948"><ele>295</ele></trkpt>
+   <trkpt lat="50.987234" lon="12.959949"><ele>295</ele></trkpt>
+   <trkpt lat="50.988683" lon="12.959944"><ele>296</ele></trkpt>
+   <trkpt lat="50.990387" lon="12.959842"><ele>291.25</ele></trkpt>
+   <trkpt lat="50.990694" lon="12.959815"><ele>291.25</ele></trkpt>
+   <trkpt lat="50.991022" lon="12.959774"><ele>292.5</ele></trkpt>
+   <trkpt lat="50.991292" lon="12.959727"><ele>294</ele></trkpt>
+   <trkpt lat="50.991911" lon="12.959592"><ele>296.75</ele></trkpt>
+   <trkpt lat="50.992691" lon="12.959367"><ele>299</ele></trkpt>
+   <trkpt lat="50.99317" lon="12.959195"><ele>300.5</ele></trkpt>
+   <trkpt lat="50.993587" lon="12.959018"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.993812" lon="12.958909"><ele>302.5</ele></trkpt>
+   <trkpt lat="50.993811" lon="12.958909"><ele>301.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
