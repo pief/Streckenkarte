@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 1 plain-ascend = 2 cost=47 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9261 Brühl-Vochem Weiche NNN2 - Brühl-Vochem Weiche NNN3</name>
+  <link href="https://bikerouter.de/#map=19/50.84383/6.90170/standard&amp;lonlats=6.901222,50.844084;6.901007,50.843686&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.844082" lon="6.901222"><ele>69.5</ele></trkpt>
+   <trkpt lat="50.843688" lon="6.90101"><ele>70.25</ele></trkpt>
+   <trkpt lat="50.843684" lon="6.901008"><ele>71</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

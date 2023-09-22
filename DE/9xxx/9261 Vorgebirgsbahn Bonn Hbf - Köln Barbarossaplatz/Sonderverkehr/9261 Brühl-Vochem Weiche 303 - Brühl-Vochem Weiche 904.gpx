@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 0 plain-ascend = 1 cost=81 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>9261 Brühl-Vochem Weiche 303 - Brühl-Vochem Weiche 904</name>
+  <link href="https://bikerouter.de/#map=19/50.85117/6.90360/standard&amp;lonlats=6.902145,50.851978;6.902354,50.851275&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.851978" lon="6.902145"><ele>68.25</ele></trkpt>
+   <trkpt lat="50.851977" lon="6.902146"><ele>68.25</ele></trkpt>
+   <trkpt lat="50.851782" lon="6.902199"><ele>68.25</ele></trkpt>
+   <trkpt lat="50.851553" lon="6.902284"><ele>68.25</ele></trkpt>
+   <trkpt lat="50.851356" lon="6.902338"><ele>68.5</ele></trkpt>
+   <trkpt lat="50.851276" lon="6.902356"><ele>68.5</ele></trkpt>
+   <trkpt lat="50.851275" lon="6.902356"><ele>68.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
