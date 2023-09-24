@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 379 filtered ascend = 7 plain-ascend = 7 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Südring (Steig West) - Heiterer Blick (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/50.80052/12.88491/standard&amp;lonlats=12.886886,50.803811;12.884474,50.800781&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.80381" lon="12.886887"><ele>367.25</ele></trkpt>
+   <trkpt lat="50.803576" lon="12.886628"><ele>368</ele></trkpt>
+   <trkpt lat="50.803424" lon="12.886465"><ele>368.25</ele></trkpt>
+   <trkpt lat="50.803083" lon="12.886137"><ele>368.75</ele></trkpt>
+   <trkpt lat="50.80289" lon="12.885997"><ele>369</ele></trkpt>
+   <trkpt lat="50.802765" lon="12.885947"><ele>369</ele></trkpt>
+   <trkpt lat="50.802694" lon="12.88591"><ele>369</ele></trkpt>
+   <trkpt lat="50.802461" lon="12.885798"><ele>369</ele></trkpt>
+   <trkpt lat="50.802352" lon="12.885749"><ele>369</ele></trkpt>
+   <trkpt lat="50.802238" lon="12.885683"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.802056" lon="12.885557"><ele>369.75</ele></trkpt>
+   <trkpt lat="50.801689" lon="12.885227"><ele>371</ele></trkpt>
+   <trkpt lat="50.801484" lon="12.885027"><ele>371.5</ele></trkpt>
+   <trkpt lat="50.801247" lon="12.884828"><ele>372</ele></trkpt>
+   <trkpt lat="50.801156" lon="12.884755"><ele>372.25</ele></trkpt>
+   <trkpt lat="50.800786" lon="12.884481"><ele>373.25</ele></trkpt>
+   <trkpt lat="50.800779" lon="12.884476"><ele>374.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 4 plain-ascend = 5 cost=246 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Gleiswechsel Steinbergsiedlung Weiche S10 - Abzweig Stollberger Straße_Wladimir-Sagorski-Straße Weiche S12</name>
+  <link href="https://bikerouter.de/#map=19/50.79569/12.88325/standard&amp;lonlats=12.882628,50.796786;12.882293,50.795702&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.796784" lon="12.882634"><ele>382.75</ele></trkpt>
+   <trkpt lat="50.796308" lon="12.882483"><ele>383.75</ele></trkpt>
+   <trkpt lat="50.796161" lon="12.882436"><ele>384.25</ele></trkpt>
+   <trkpt lat="50.795707" lon="12.882295"><ele>385.75</ele></trkpt>
+   <trkpt lat="50.7957" lon="12.882293"><ele>387.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
