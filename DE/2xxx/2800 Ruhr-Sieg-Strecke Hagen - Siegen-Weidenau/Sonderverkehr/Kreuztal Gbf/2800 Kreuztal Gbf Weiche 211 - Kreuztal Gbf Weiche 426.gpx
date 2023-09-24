@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 1 plain-ascend = 1 cost=150 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2800 Kreuztal Gbf Weiche 211 - Kreuztal Gbf Weiche 426</name>
+  <link href="https://bikerouter.de/#map=19/50.93869/8.00654/standard&amp;lonlats=8.006904,50.937514;8.006136,50.938767&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.937514" lon="8.006904"><ele>271</ele></trkpt>
+   <trkpt lat="50.937515" lon="8.006904"><ele>271</ele></trkpt>
+   <trkpt lat="50.937787" lon="8.00673"><ele>271.25</ele></trkpt>
+   <trkpt lat="50.937947" lon="8.006651"><ele>271.5</ele></trkpt>
+   <trkpt lat="50.938266" lon="8.006479"><ele>272.75</ele></trkpt>
+   <trkpt lat="50.938507" lon="8.006325"><ele>272.5</ele></trkpt>
+   <trkpt lat="50.938699" lon="8.006189"><ele>272</ele></trkpt>
+   <trkpt lat="50.938736" lon="8.006164"><ele>271.75</ele></trkpt>
+   <trkpt lat="50.938768" lon="8.006141"><ele>271.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

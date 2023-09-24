@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=16 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2800 Kreuztal Gbf Weiche 401 - Kreuztal Gbf Weiche 402</name>
+  <link href="https://bikerouter.de/#map=19/50.95031/7.99841/standard&amp;lonlats=7.9982,50.950274;7.998313,50.950149&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.950273" lon="7.998199"><ele>279.25</ele></trkpt>
+   <trkpt lat="50.950149" lon="7.998313"><ele>279.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
