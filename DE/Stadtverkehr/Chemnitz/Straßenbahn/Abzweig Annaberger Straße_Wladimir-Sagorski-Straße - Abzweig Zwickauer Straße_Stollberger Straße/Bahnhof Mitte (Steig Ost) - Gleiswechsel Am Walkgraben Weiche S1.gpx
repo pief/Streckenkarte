@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 161 filtered ascend = 0 plain-ascend = -4 cost=322 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>Bahnhof Mitte (Steig Ost) - Gleiswechsel Am Walkgraben Weiche S1</name>
+  <link href="https://bikerouter.de/#map=19/50.82826/12.91590/standard&amp;lonlats=12.914545,50.827217;12.915547,50.828504&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.827216" lon="12.914544"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.827522" lon="12.914747"><ele>307</ele></trkpt>
+   <trkpt lat="50.827901" lon="12.915002"><ele>306.5</ele></trkpt>
+   <trkpt lat="50.828104" lon="12.915177"><ele>305.25</ele></trkpt>
+   <trkpt lat="50.8285" lon="12.915547"><ele>303.5</ele></trkpt>
+   <trkpt lat="50.828502" lon="12.915549"><ele>302</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
