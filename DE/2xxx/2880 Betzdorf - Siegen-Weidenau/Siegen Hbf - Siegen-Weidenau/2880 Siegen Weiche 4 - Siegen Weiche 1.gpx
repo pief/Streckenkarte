@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 2 plain-ascend = 2 cost=254 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2880 Siegen Weiche 4 - Siegen Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/50.88257/8.02703/standard&amp;lonlats=8.025027,50.881175;8.027573,50.882776&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.881169" lon="8.025033"><ele>242.5</ele></trkpt>
+   <trkpt lat="50.88117" lon="8.025035"><ele>242.5</ele></trkpt>
+   <trkpt lat="50.881198" lon="8.025081"><ele>242.5</ele></trkpt>
+   <trkpt lat="50.881364" lon="8.025361"><ele>242.5</ele></trkpt>
+   <trkpt lat="50.881809" lon="8.026087"><ele>244</ele></trkpt>
+   <trkpt lat="50.882186" lon="8.02667"><ele>244</ele></trkpt>
+   <trkpt lat="50.882295" lon="8.026838"><ele>244</ele></trkpt>
+   <trkpt lat="50.882377" lon="8.026971"><ele>244.25</ele></trkpt>
+   <trkpt lat="50.882773" lon="8.027572"><ele>244.25</ele></trkpt>
+   <trkpt lat="50.882774" lon="8.027573"><ele>244.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

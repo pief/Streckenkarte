@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 0 plain-ascend = 0 cost=256 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2800 Siegen-Weidenau (Gleis 2) - Siegen-Weidenau Weiche 603</name>
+  <link href="https://bikerouter.de/#map=19/50.89793/8.02877/standard&amp;lonlats=8.02992,50.895957;8.028745,50.898109&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.895956" lon="8.029914"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.896189" lon="8.02986"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.89629" lon="8.029838"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.896631" lon="8.02974"><ele>249</ele></trkpt>
+   <trkpt lat="50.896925" lon="8.02962"><ele>248.75</ele></trkpt>
+   <trkpt lat="50.897132" lon="8.029509"><ele>248.75</ele></trkpt>
+   <trkpt lat="50.897361" lon="8.029359"><ele>248.75</ele></trkpt>
+   <trkpt lat="50.897523" lon="8.029238"><ele>248.75</ele></trkpt>
+   <trkpt lat="50.897818" lon="8.02899"><ele>249</ele></trkpt>
+   <trkpt lat="50.897979" lon="8.028852"><ele>249</ele></trkpt>
+   <trkpt lat="50.898059" lon="8.028783"><ele>249</ele></trkpt>
+   <trkpt lat="50.898106" lon="8.028742"/>
+   <trkpt lat="50.898107" lon="8.02874"/>
+  </trkseg>
+ </trk>
+</gpx>

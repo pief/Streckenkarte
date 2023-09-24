@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 505 filtered ascend = 2 plain-ascend = 0 cost=506 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2800 Siegen-Geisweid (Gleis 1) - Siegen-Geisweid Weiche 503</name>
+  <link href="https://bikerouter.de/#map=19/50.91968/8.01495/standard&amp;lonlats=8.014379,50.91536;8.015041,50.919882&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.915358" lon="8.014383"><ele>256</ele></trkpt>
+   <trkpt lat="50.915547" lon="8.014413"><ele>256</ele></trkpt>
+   <trkpt lat="50.916137" lon="8.014501"><ele>255.75</ele></trkpt>
+   <trkpt lat="50.91681" lon="8.014584"><ele>255.5</ele></trkpt>
+   <trkpt lat="50.917389" lon="8.014651"><ele>255.75</ele></trkpt>
+   <trkpt lat="50.918122" lon="8.014763"><ele>257.25</ele></trkpt>
+   <trkpt lat="50.918801" lon="8.014868"><ele>258</ele></trkpt>
+   <trkpt lat="50.91934" lon="8.014962"><ele>257.5</ele></trkpt>
+   <trkpt lat="50.919881" lon="8.015044"><ele>256.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

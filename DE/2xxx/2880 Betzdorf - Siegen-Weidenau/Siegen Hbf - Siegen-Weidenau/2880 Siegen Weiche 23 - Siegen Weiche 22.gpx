@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 0 plain-ascend = 0 cost=75 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2880 Siegen Weiche 23 - Siegen Weiche 22</name>
+  <link href="https://bikerouter.de/#map=19/50.87887/8.02196/standard&amp;lonlats=8.020963,50.878762;8.021766,50.879194&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.87876" lon="8.020963"><ele>239.25</ele></trkpt>
+   <trkpt lat="50.878761" lon="8.020965"><ele>239.5</ele></trkpt>
+   <trkpt lat="50.878898" lon="8.021216"><ele>239.5</ele></trkpt>
+   <trkpt lat="50.879057" lon="8.021533"><ele>239.25</ele></trkpt>
+   <trkpt lat="50.879188" lon="8.021771"><ele>239</ele></trkpt>
+   <trkpt lat="50.879188" lon="8.021772"><ele>239.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

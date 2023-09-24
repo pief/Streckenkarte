@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 143 filtered ascend = 3 plain-ascend = 3 cost=143 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>2880 Siegen Weiche 21 - Siegen Weiche 7</name>
+  <link href="https://bikerouter.de/#map=19/50.88004/8.02348/standard&amp;lonlats=8.02181,50.879209;8.023273,50.880101&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.879209" lon="8.021808"><ele>239</ele></trkpt>
+   <trkpt lat="50.879212" lon="8.021814"><ele>239.25</ele></trkpt>
+   <trkpt lat="50.879246" lon="8.02187"><ele>239.25</ele></trkpt>
+   <trkpt lat="50.879653" lon="8.022538"><ele>241.25</ele></trkpt>
+   <trkpt lat="50.880084" lon="8.023247"><ele>241.75</ele></trkpt>
+   <trkpt lat="50.8801" lon="8.023272"><ele>242</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
