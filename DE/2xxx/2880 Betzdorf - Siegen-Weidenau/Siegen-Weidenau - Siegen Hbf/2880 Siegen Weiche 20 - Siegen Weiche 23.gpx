@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 177 filtered ascend = 0 plain-ascend = -1 cost=177 energy=0.0kwh time=14s -->
+<!-- track-length = 172 filtered ascend = 0 plain-ascend = -1 cost=172 energy=0.0kwh time=14s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>2880 Siegen Weiche 20 - Siegen Weiche 23</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/50.87906/8.02180/standard&amp;lonlats=8.022737,50.879828;8.021394,50.879022;8.020966,50.878762&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=19/50.87889/8.02118/standard&amp;lonlats=8.022731,50.879826;8.020958,50.878762&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.879828" lon="8.022735"><ele>241.5</ele></trkpt>
-   <trkpt lat="50.879828" lon="8.022735"><ele>241.5</ele></trkpt>
+   <trkpt lat="50.879825" lon="8.02273"><ele>241.5</ele></trkpt>
    <trkpt lat="50.879777" lon="8.022651"><ele>241.5</ele></trkpt>
    <trkpt lat="50.8794" lon="8.022023"><ele>240.25</ele></trkpt>
    <trkpt lat="50.87928" lon="8.021824"><ele>239.5</ele></trkpt>
    <trkpt lat="50.879191" lon="8.021677"><ele>239</ele></trkpt>
-   <trkpt lat="50.87902" lon="8.021394"><ele>239</ele></trkpt>
-   <trkpt lat="50.878762" lon="8.020963"><ele>239.5</ele></trkpt>
-   <trkpt lat="50.878762" lon="8.020963"><ele>239.5</ele></trkpt>
+   <trkpt lat="50.878761" lon="8.020965"><ele>239.5</ele></trkpt>
+   <trkpt lat="50.878759" lon="8.020961"><ele>239.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

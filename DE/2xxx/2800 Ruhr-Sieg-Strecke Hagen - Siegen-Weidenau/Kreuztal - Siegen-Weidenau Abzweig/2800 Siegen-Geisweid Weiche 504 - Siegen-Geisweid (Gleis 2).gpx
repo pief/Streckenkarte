@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 440 filtered ascend = 0 plain-ascend = -1 cost=440 energy=0.0kwh time=35s -->
+<!-- track-length = 431 filtered ascend = 0 plain-ascend = -1 cost=431 energy=0.0kwh time=34s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>2800 Siegen-Geisweid Weiche 504 - Siegen-Geisweid (Gleis 2)</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/50.91552/8.01443/standard&amp;lonlats=8.014886,50.91927;8.014258,50.915367&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=19/50.91535/8.01490/standard&amp;lonlats=8.014872,50.919223;8.014258,50.915366&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.919269" lon="8.014884"><ele>257.5</ele></trkpt>
-   <trkpt lat="50.919266" lon="8.014884"><ele>257.75</ele></trkpt>
-   <trkpt lat="50.919173" lon="8.014869"><ele>258</ele></trkpt>
-   <trkpt lat="50.918997" lon="8.014841"><ele>258</ele></trkpt>
+   <trkpt lat="50.919221" lon="8.014874"><ele>258</ele></trkpt>
+   <trkpt lat="50.919174" lon="8.014867"><ele>258</ele></trkpt>
+   <trkpt lat="50.919153" lon="8.014864"><ele>258</ele></trkpt>
    <trkpt lat="50.91817" lon="8.014714"><ele>257.5</ele></trkpt>
-   <trkpt lat="50.916813" lon="8.014499"><ele>255.5</ele></trkpt>
-   <trkpt lat="50.916379" lon="8.014419"><ele>255.75</ele></trkpt>
+   <trkpt lat="50.916813" lon="8.014496"><ele>255.5</ele></trkpt>
+   <trkpt lat="50.916058" lon="8.014361"><ele>255.75</ele></trkpt>
    <trkpt lat="50.915557" lon="8.014285"><ele>256</ele></trkpt>
-   <trkpt lat="50.915366" lon="8.014257"><ele>256</ele></trkpt>
+   <trkpt lat="50.915365" lon="8.014255"><ele>256.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

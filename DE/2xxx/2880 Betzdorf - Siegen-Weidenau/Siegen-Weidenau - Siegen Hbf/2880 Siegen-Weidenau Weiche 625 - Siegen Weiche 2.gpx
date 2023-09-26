@@ -1,42 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 986 filtered ascend = 1 plain-ascend = -3 cost=986 energy=0.0kwh time=1m 19s -->
+<!-- track-length = 976 filtered ascend = 1 plain-ascend = -2 cost=976 energy=0.0kwh time=1m 18s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>2880 Siegen-Weidenau Weiche 625 - Siegen Weiche 2</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/50.88243/8.02697/standard&amp;lonlats=8.030075,50.89038;8.026666,50.882238&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=19/50.88256/8.02759/standard&amp;lonlats=8.03007,50.890375;8.026661,50.882235&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.89038" lon="8.030075"><ele>247.75</ele></trkpt>
-   <trkpt lat="50.890271" lon="8.030074"><ele>247.5</ele></trkpt>
+   <trkpt lat="50.890375" lon="8.030072"><ele>247.5</ele></trkpt>
+   <trkpt lat="50.890271" lon="8.030073"><ele>247.25</ele></trkpt>
    <trkpt lat="50.889926" lon="8.030074"><ele>246.25</ele></trkpt>
-   <trkpt lat="50.888638" lon="8.030082"><ele>245.5</ele></trkpt>
-   <trkpt lat="50.887158" lon="8.030091"><ele>247.25</ele></trkpt>
-   <trkpt lat="50.887131" lon="8.030091"><ele>247.25</ele></trkpt>
-   <trkpt lat="50.88647" lon="8.030046"><ele>247.75</ele></trkpt>
-   <trkpt lat="50.886111" lon="8.029967"><ele>248.25</ele></trkpt>
-   <trkpt lat="50.885842" lon="8.029891"><ele>248.75</ele></trkpt>
-   <trkpt lat="50.885754" lon="8.029866"><ele>248.75</ele></trkpt>
-   <trkpt lat="50.885285" lon="8.029672"><ele>249</ele></trkpt>
-   <trkpt lat="50.884967" lon="8.029513"><ele>248.5</ele></trkpt>
-   <trkpt lat="50.884675" lon="8.029342"><ele>247</ele></trkpt>
-   <trkpt lat="50.884279" lon="8.029065"><ele>247</ele></trkpt>
-   <trkpt lat="50.884265" lon="8.029054"><ele>247</ele></trkpt>
-   <trkpt lat="50.88422" lon="8.029023"><ele>245</ele></trkpt>
-   <trkpt lat="50.883906" lon="8.028772"><ele>245</ele></trkpt>
-   <trkpt lat="50.883601" lon="8.028499"><ele>245.5</ele></trkpt>
-   <trkpt lat="50.88329" lon="8.028171"><ele>245.75</ele></trkpt>
+   <trkpt lat="50.888639" lon="8.03009"><ele>245.5</ele></trkpt>
+   <trkpt lat="50.887604" lon="8.030103"><ele>246.5</ele></trkpt>
+   <trkpt lat="50.887158" lon="8.030093"><ele>247.25</ele></trkpt>
+   <trkpt lat="50.887131" lon="8.030093"><ele>247.25</ele></trkpt>
+   <trkpt lat="50.88665" lon="8.03005"><ele>247.5</ele></trkpt>
+   <trkpt lat="50.88647" lon="8.030022"><ele>247.5</ele></trkpt>
+   <trkpt lat="50.886111" lon="8.029946"><ele>248.25</ele></trkpt>
+   <trkpt lat="50.885846" lon="8.029874"><ele>248.75</ele></trkpt>
+   <trkpt lat="50.885522" lon="8.029763"><ele>248.75</ele></trkpt>
+   <trkpt lat="50.885285" lon="8.029669"><ele>248.75</ele></trkpt>
+   <trkpt lat="50.884976" lon="8.029516"><ele>248.5</ele></trkpt>
+   <trkpt lat="50.884676" lon="8.029339"><ele>247</ele></trkpt>
+   <trkpt lat="50.884279" lon="8.029065"><ele>245.25</ele></trkpt>
+   <trkpt lat="50.884265" lon="8.029056"><ele>245</ele></trkpt>
+   <trkpt lat="50.88422" lon="8.029023"><ele>244.75</ele></trkpt>
+   <trkpt lat="50.883851" lon="8.028727"><ele>245</ele></trkpt>
+   <trkpt lat="50.883601" lon="8.0285"><ele>245.5</ele></trkpt>
+   <trkpt lat="50.883364" lon="8.028257"><ele>245.75</ele></trkpt>
    <trkpt lat="50.883099" lon="8.027942"><ele>245</ele></trkpt>
    <trkpt lat="50.883074" lon="8.027912"><ele>245</ele></trkpt>
    <trkpt lat="50.882899" lon="8.027675"><ele>244.5</ele></trkpt>
    <trkpt lat="50.88269" lon="8.027366"><ele>244</ele></trkpt>
-   <trkpt lat="50.882403" lon="8.026925"><ele>244</ele></trkpt>
-   <trkpt lat="50.882236" lon="8.026667"><ele>244</ele></trkpt>
+   <trkpt lat="50.882403" lon="8.026925"><ele>244.5</ele></trkpt>
+   <trkpt lat="50.882236" lon="8.026666"><ele>244.75</ele></trkpt>
+   <trkpt lat="50.882233" lon="8.026661"><ele>245</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 440 filtered ascend = 3 plain-ascend = 2 cost=440 energy=0.0kwh time=35s -->
+<!-- track-length = 436 filtered ascend = 3 plain-ascend = 2 cost=436 energy=0.0kwh time=35s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>2800 Siegen-Weidenau (Gleis 1) - Siegen-Weidenau Weiche 618</name>
-  <link href="https://brouter.damsy.net/latest/#map=17/50.89576/8.03036/standard&amp;lonlats=8.029743,50.895941;8.030072,50.892039&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=19/50.89156/8.03026/standard&amp;lonlats=8.029737,50.895941;8.030072,50.892038&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.895941" lon="8.029743"><ele>249.5</ele></trkpt>
-   <trkpt lat="50.895754" lon="8.029788"><ele>249.75</ele></trkpt>
-   <trkpt lat="50.894679" lon="8.030015"><ele>249.5</ele></trkpt>
-   <trkpt lat="50.894345" lon="8.030054"><ele>249.25</ele></trkpt>
-   <trkpt lat="50.894132" lon="8.030063"><ele>249</ele></trkpt>
+   <trkpt lat="50.895941" lon="8.029737"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.895753" lon="8.029782"><ele>249.75</ele></trkpt>
+   <trkpt lat="50.895063" lon="8.029938"><ele>250</ele></trkpt>
+   <trkpt lat="50.894679" lon="8.030014"><ele>249.5</ele></trkpt>
+   <trkpt lat="50.894407" lon="8.030049"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.894165" lon="8.030065"><ele>249</ele></trkpt>
    <trkpt lat="50.893405" lon="8.030068"><ele>250</ele></trkpt>
-   <trkpt lat="50.89244" lon="8.030071"><ele>252.75</ele></trkpt>
-   <trkpt lat="50.892165" lon="8.030072"><ele>251.75</ele></trkpt>
+   <trkpt lat="50.892433" lon="8.030071"><ele>252.75</ele></trkpt>
+   <trkpt lat="50.892165" lon="8.030071"><ele>251.75</ele></trkpt>
    <trkpt lat="50.892054" lon="8.030073"><ele>251.5</ele></trkpt>
-   <trkpt lat="50.892039" lon="8.030073"><ele>251.5</ele></trkpt>
+   <trkpt lat="50.892038" lon="8.030073"><ele>251.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
