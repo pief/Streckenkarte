@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 3 plain-ascend = 3 cost=68 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6711 Weimar West - Weimar West Weiche A1</name>
+  <link href="https://bikerouter.de/#map=19/50.98885/11.31344/standard&amp;lonlats=11.311642,50.988172;11.31175,50.988768&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.98817" lon="11.311642"><ele>229.25</ele></trkpt>
+   <trkpt lat="50.988176" lon="11.311643"><ele>229.5</ele></trkpt>
+   <trkpt lat="50.988453" lon="11.311691"><ele>230.25</ele></trkpt>
+   <trkpt lat="50.988765" lon="11.311751"><ele>231.5</ele></trkpt>
+   <trkpt lat="50.988766" lon="11.311751"><ele>232.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

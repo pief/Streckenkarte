@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 0 plain-ascend = 1 cost=145 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6681 Weimar Berkaer Bahnhof (Gleis 1) - Weimar Berkaer Bahnhof Weiche 13</name>
+  <link href="https://bikerouter.de/#map=19/50.98089/11.31406/standard&amp;lonlats=11.313859,50.980663;11.311814,50.980592&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.980661" lon="11.313858"><ele>230.5</ele></trkpt>
+   <trkpt lat="50.980655" lon="11.313656"><ele>230.5</ele></trkpt>
+   <trkpt lat="50.980612" lon="11.31241"><ele>230.25</ele></trkpt>
+   <trkpt lat="50.980594" lon="11.311814"><ele>230.25</ele></trkpt>
+   <trkpt lat="50.980593" lon="11.311812"><ele>231.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
