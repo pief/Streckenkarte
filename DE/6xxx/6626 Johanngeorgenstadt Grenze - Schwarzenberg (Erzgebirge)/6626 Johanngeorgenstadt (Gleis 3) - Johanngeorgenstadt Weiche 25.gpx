@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 261 filtered ascend = 1 plain-ascend = 2 cost=261 energy=0.0kwh time=21s -->
+<!-- track-length = 270 filtered ascend = 1 plain-ascend = 2 cost=270 energy=0.0kwh time=22s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.19">
  <trk>
   <name>6626 Johanngeorgenstadt (Gleis 3) - Johanngeorgenstadt Weiche 25</name>
-  <link href="https://bikerouter.de/#map=18/50.43778/12.73043/standard&amp;lonlats=12.728982,50.437602;12.730016,50.435359&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=17/50.43781/12.73331/standard&amp;lonlats=12.728981,50.437602;12.730081,50.435281&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
    <trkpt lat="50.437602" lon="12.728984"><ele>679.75</ele></trkpt>
    <trkpt lat="50.43753" lon="12.729018"><ele>679.75</ele></trkpt>
    <trkpt lat="50.436112" lon="12.729643"><ele>680</ele></trkpt>
-   <trkpt lat="50.435681" lon="12.729834"><ele>680.25</ele></trkpt>
-   <trkpt lat="50.435513" lon="12.72992"><ele>680.5</ele></trkpt>
-   <trkpt lat="50.435363" lon="12.730017"><ele>680.5</ele></trkpt>
-   <trkpt lat="50.43536" lon="12.730019"><ele>681.25</ele></trkpt>
+   <trkpt lat="50.435774" lon="12.729791"><ele>680.25</ele></trkpt>
+   <trkpt lat="50.435583" lon="12.729885"><ele>680.5</ele></trkpt>
+   <trkpt lat="50.435408" lon="12.729989"><ele>680.5</ele></trkpt>
+   <trkpt lat="50.435283" lon="12.730081"><ele>681</ele></trkpt>
+   <trkpt lat="50.435281" lon="12.730082"><ele>681.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
