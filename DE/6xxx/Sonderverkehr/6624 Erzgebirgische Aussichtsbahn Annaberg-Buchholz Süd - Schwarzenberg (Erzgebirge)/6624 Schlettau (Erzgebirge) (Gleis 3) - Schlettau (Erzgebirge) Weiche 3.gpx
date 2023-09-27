@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 279 filtered ascend = 0 plain-ascend = 0 cost=279 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6624 Schlettau (Erzgebirge) (Gleis 3) - Schlettau (Erzgebirge) Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/50.55479/12.95439/standard&amp;lonlats=12.953525,50.554999;12.956743,50.553565&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.554987" lon="12.953513"><ele>585.5</ele></trkpt>
+   <trkpt lat="50.554316" lon="12.955132"><ele>585.5</ele></trkpt>
+   <trkpt lat="50.554237" lon="12.955323"><ele>585.5</ele></trkpt>
+   <trkpt lat="50.553892" lon="12.956146"><ele>585</ele></trkpt>
+   <trkpt lat="50.553766" lon="12.956391"><ele>584.75</ele></trkpt>
+   <trkpt lat="50.553566" lon="12.956744"><ele>585</ele></trkpt>
+   <trkpt lat="50.553565" lon="12.956744"><ele>585.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

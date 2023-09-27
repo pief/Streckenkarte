@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6624 Schwarzenberg (Erzgebirge) Weiche 2 - Schwarzenberg (Erzgebirge) Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/50.54454/12.78955/standard&amp;lonlats=12.789241,50.544502;12.788853,50.54467&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.544502" lon="12.789241"><ele>424.25</ele></trkpt>
+   <trkpt lat="50.544669" lon="12.788852"><ele>424.5</ele></trkpt>
+   <trkpt lat="50.544669" lon="12.788851"><ele>424.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 83 filtered ascend = 1 plain-ascend = 1 cost=83 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6624 Schwarzenberg (Erzgebirge) Weiche 13 - Schwarzenberg (Erzgebirge) Weiche 14</name>
+  <link href="https://bikerouter.de/#map=19/50.54612/12.77956/standard&amp;lonlats=12.780586,50.545817;12.77943,50.545802&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.545815" lon="12.780585"><ele>425.5</ele></trkpt>
+   <trkpt lat="50.54582" lon="12.780346"><ele>425.75</ele></trkpt>
+   <trkpt lat="50.545798" lon="12.77966"><ele>426.75</ele></trkpt>
+   <trkpt lat="50.545798" lon="12.779434"><ele>426.75</ele></trkpt>
+   <trkpt lat="50.545798" lon="12.779429"><ele>426.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

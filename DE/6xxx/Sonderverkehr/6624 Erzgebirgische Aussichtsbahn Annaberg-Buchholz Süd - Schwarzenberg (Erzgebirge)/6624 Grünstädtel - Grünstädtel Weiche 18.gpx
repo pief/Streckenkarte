@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 131 filtered ascend = 0 plain-ascend = 0 cost=131 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6624 Grünstädtel - Grünstädtel Weiche 18</name>
+  <link href="https://bikerouter.de/#map=19/50.53081/12.81622/standard&amp;lonlats=12.817065,50.53013;12.815503,50.530739&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.530132" lon="12.817067"><ele>443.75</ele></trkpt>
+   <trkpt lat="50.530741" lon="12.815506"><ele>443.25</ele></trkpt>
+   <trkpt lat="50.530741" lon="12.815505"><ele>443.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
