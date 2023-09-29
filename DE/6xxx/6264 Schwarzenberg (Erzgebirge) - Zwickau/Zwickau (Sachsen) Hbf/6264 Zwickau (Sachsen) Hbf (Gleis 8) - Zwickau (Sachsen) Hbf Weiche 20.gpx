@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 170 filtered ascend = 0 plain-ascend = 0 cost=170 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>6264 Zwickau (Sachsen) Hbf (Gleis 8) - Zwickau (Sachsen) Hbf Weiche 20</name>
+  <link href="https://bikerouter.de/#map=19/50.71462/12.47547/standard&amp;lonlats=12.47515,50.714299;12.477513,50.714373&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.714298" lon="12.475149"><ele>285.25</ele></trkpt>
+   <trkpt lat="50.71435" lon="12.475422"><ele>285.5</ele></trkpt>
+   <trkpt lat="50.714405" lon="12.475835"><ele>285.75</ele></trkpt>
+   <trkpt lat="50.714419" lon="12.475991"><ele>285.75</ele></trkpt>
+   <trkpt lat="50.714437" lon="12.476277"><ele>285.75</ele></trkpt>
+   <trkpt lat="50.71444" lon="12.476448"><ele>285.5</ele></trkpt>
+   <trkpt lat="50.714435" lon="12.476796"><ele>285.5</ele></trkpt>
+   <trkpt lat="50.714427" lon="12.476918"><ele>285.25</ele></trkpt>
+   <trkpt lat="50.714407" lon="12.477201"><ele>285.25</ele></trkpt>
+   <trkpt lat="50.714375" lon="12.477515"><ele>284.75</ele></trkpt>
+   <trkpt lat="50.714375" lon="12.477513"><ele>285</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
