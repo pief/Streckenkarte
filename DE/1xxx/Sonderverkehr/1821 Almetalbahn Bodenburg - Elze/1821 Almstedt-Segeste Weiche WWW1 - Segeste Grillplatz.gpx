@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 659 filtered ascend = 5 plain-ascend = 5 cost=659 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>1821 Almstedt-Segeste Weiche WWW1 - Segeste Grillplatz</name>
+  <link href="https://bikerouter.de/#map=19/52.03970/9.94348/standard&amp;lonlats=9.951285,52.036462;9.943182,52.039529&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.03646" lon="9.951283"><ele>143.75</ele></trkpt>
+   <trkpt lat="52.036878" lon="9.949961"><ele>144.75</ele></trkpt>
+   <trkpt lat="52.038256" lon="9.945587"><ele>148.75</ele></trkpt>
+   <trkpt lat="52.038495" lon="9.944896"><ele>149</ele></trkpt>
+   <trkpt lat="52.03868" lon="9.944467"><ele>149.5</ele></trkpt>
+   <trkpt lat="52.038788" lon="9.94425"><ele>149.5</ele></trkpt>
+   <trkpt lat="52.038937" lon="9.943977"><ele>149.5</ele></trkpt>
+   <trkpt lat="52.039065" lon="9.943779"><ele>149.5</ele></trkpt>
+   <trkpt lat="52.039206" lon="9.943581"><ele>149.25</ele></trkpt>
+   <trkpt lat="52.03953" lon="9.943186"><ele>148.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
