@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 173 filtered ascend = 2 plain-ascend = 2 cost=173 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>1822 Bad Salzdetfurth - Bad Salzdetfurth Weiche 100</name>
+  <link href="https://bikerouter.de/#map=19/52.06255/10.00588/standard&amp;lonlats=10.005415,52.062547;10.005171,52.061005&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.062546" lon="10.00541"><ele>104</ele></trkpt>
+   <trkpt lat="52.062459" lon="10.005377"><ele>104</ele></trkpt>
+   <trkpt lat="52.062239" lon="10.005319"><ele>104.25</ele></trkpt>
+   <trkpt lat="52.061957" lon="10.005268"><ele>104.5</ele></trkpt>
+   <trkpt lat="52.061783" lon="10.005252"><ele>104.75</ele></trkpt>
+   <trkpt lat="52.061306" lon="10.005217"><ele>105.75</ele></trkpt>
+   <trkpt lat="52.061003" lon="10.005173"><ele>106.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

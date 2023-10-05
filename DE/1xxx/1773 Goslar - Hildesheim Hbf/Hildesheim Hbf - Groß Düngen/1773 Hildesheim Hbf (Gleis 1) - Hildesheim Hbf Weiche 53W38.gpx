@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 546 filtered ascend = 5 plain-ascend = 4 cost=546 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>1773 Hildesheim Hbf (Gleis 1) - Hildesheim Hbf Weiche 53W38</name>
+  <link href="https://bikerouter.de/#map=19/52.15986/9.95288/standard&amp;lonlats=9.952665,52.159887;9.960257,52.160983&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.159889" lon="9.952662"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.160005" lon="9.95312"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.160296" lon="9.954282"><ele>87</ele></trkpt>
+   <trkpt lat="52.160707" lon="9.955911"><ele>86.75</ele></trkpt>
+   <trkpt lat="52.160822" lon="9.956378"><ele>86.5</ele></trkpt>
+   <trkpt lat="52.160859" lon="9.956532"><ele>86.75</ele></trkpt>
+   <trkpt lat="52.160917" lon="9.956824"><ele>87.5</ele></trkpt>
+   <trkpt lat="52.16097" lon="9.957162"><ele>88.25</ele></trkpt>
+   <trkpt lat="52.161015" lon="9.957453"><ele>88.75</ele></trkpt>
+   <trkpt lat="52.161052" lon="9.957808"><ele>89.75</ele></trkpt>
+   <trkpt lat="52.161073" lon="9.95816"><ele>90.5</ele></trkpt>
+   <trkpt lat="52.161076" lon="9.958321"><ele>91</ele></trkpt>
+   <trkpt lat="52.161069" lon="9.958715"><ele>90.5</ele></trkpt>
+   <trkpt lat="52.161019" lon="9.959857"><ele>89.5</ele></trkpt>
+   <trkpt lat="52.160984" lon="9.960256"><ele>89</ele></trkpt>
+   <trkpt lat="52.160983" lon="9.960257"><ele>88.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

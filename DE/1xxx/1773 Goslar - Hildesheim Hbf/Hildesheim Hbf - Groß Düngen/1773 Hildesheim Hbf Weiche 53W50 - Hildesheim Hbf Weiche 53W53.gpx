@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 181 filtered ascend = 0 plain-ascend = 0 cost=181 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>1773 Hildesheim Hbf Weiche 53W50 - Hildesheim Hbf Weiche 53W53</name>
+  <link href="https://bikerouter.de/#map=19/52.16039/9.96319/standard&amp;lonlats=9.960707,52.160935;9.963267,52.160627&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.160935" lon="9.960707"><ele>88.75</ele></trkpt>
+   <trkpt lat="52.160935" lon="9.960708"><ele>88.75</ele></trkpt>
+   <trkpt lat="52.160861" lon="9.961318"><ele>87.75</ele></trkpt>
+   <trkpt lat="52.160685" lon="9.962848"><ele>87.75</ele></trkpt>
+   <trkpt lat="52.160628" lon="9.963266"><ele>88.5</ele></trkpt>
+   <trkpt lat="52.160627" lon="9.963267"><ele>88.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

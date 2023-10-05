@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 403 filtered ascend = 0 plain-ascend = -2 cost=403 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.19">
+ <trk>
+  <name>1773 Groß Düngen (Gleis 2) - Groß Düngen Weiche 2</name>
+  <link href="https://bikerouter.de/#map=18/52.09839/10.01666/standard&amp;lonlats=10.020317,52.097753;10.014517,52.098246&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.097753" lon="10.020317"><ele>83.25</ele></trkpt>
+   <trkpt lat="52.097775" lon="10.020091"><ele>83.75</ele></trkpt>
+   <trkpt lat="52.097787" lon="10.019948"><ele>83.75</ele></trkpt>
+   <trkpt lat="52.097982" lon="10.017688"><ele>82</ele></trkpt>
+   <trkpt lat="52.098101" lon="10.016257"><ele>81.5</ele></trkpt>
+   <trkpt lat="52.098137" lon="10.015837"><ele>81</ele></trkpt>
+   <trkpt lat="52.098226" lon="10.014765"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.098231" lon="10.014695"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.098246" lon="10.014522"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.098246" lon="10.014517"><ele>80</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
