@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 330 filtered ascend = 2 plain-ascend = 3 cost=660 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schwarzheider Straße (Steig West) - Sachsendorf (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.72086/14.32589/standard&amp;lonlats=14.325946,51.724227;14.325867,51.721264&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.724226" lon="14.325945"><ele>80</ele></trkpt>
+   <trkpt lat="51.722808" lon="14.326008"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.722368" lon="14.326027"><ele>82</ele></trkpt>
+   <trkpt lat="51.72224" lon="14.326032"><ele>82</ele></trkpt>
+   <trkpt lat="51.722109" lon="14.326017"><ele>82</ele></trkpt>
+   <trkpt lat="51.721695" lon="14.325944"><ele>82</ele></trkpt>
+   <trkpt lat="51.721557" lon="14.32592"><ele>82</ele></trkpt>
+   <trkpt lat="51.721453" lon="14.3259"><ele>82</ele></trkpt>
+   <trkpt lat="51.721263" lon="14.325865"><ele>82.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

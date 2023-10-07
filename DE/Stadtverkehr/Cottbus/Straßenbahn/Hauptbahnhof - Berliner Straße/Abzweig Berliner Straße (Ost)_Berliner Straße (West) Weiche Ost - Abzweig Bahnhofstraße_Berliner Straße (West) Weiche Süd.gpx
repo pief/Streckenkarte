@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 2 plain-ascend = 2 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Berliner Straße (Ost)/Berliner Straße (West) Weiche Ost - Abzweig Bahnhofstraße/Berliner Straße (West) Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.76115/14.32745/standard&amp;lonlats=14.327583,51.761026;14.328028,51.761294&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.761026" lon="14.327584"><ele>74</ele></trkpt>
+   <trkpt lat="51.761029" lon="14.327584"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.761091" lon="14.327611"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.761133" lon="14.327641"><ele>74.5</ele></trkpt>
+   <trkpt lat="51.761204" lon="14.327718"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.761248" lon="14.327799"><ele>75</ele></trkpt>
+   <trkpt lat="51.761272" lon="14.327854"><ele>75</ele></trkpt>
+   <trkpt lat="51.761279" lon="14.32789"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.761288" lon="14.32793"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.761296" lon="14.328024"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.761295" lon="14.328028"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

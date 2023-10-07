@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 384 filtered ascend = 2 plain-ascend = 2 cost=768 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Thiemstraße/Klinikum (Steig West) - Hufelandstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.74055/14.32403/standard&amp;lonlats=14.32661,51.743958;14.324402,51.740806&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.743959" lon="14.326603"><ele>78</ele></trkpt>
+   <trkpt lat="51.743819" lon="14.326485"><ele>78</ele></trkpt>
+   <trkpt lat="51.743794" lon="14.326463"><ele>78</ele></trkpt>
+   <trkpt lat="51.743619" lon="14.326317"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.743377" lon="14.326111"><ele>78.5</ele></trkpt>
+   <trkpt lat="51.743122" lon="14.32589"><ele>79</ele></trkpt>
+   <trkpt lat="51.742256" lon="14.325151"><ele>80</ele></trkpt>
+   <trkpt lat="51.742063" lon="14.325011"><ele>80</ele></trkpt>
+   <trkpt lat="51.741972" lon="14.324953"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.741852" lon="14.324894"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.740805" lon="14.324401"><ele>79.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

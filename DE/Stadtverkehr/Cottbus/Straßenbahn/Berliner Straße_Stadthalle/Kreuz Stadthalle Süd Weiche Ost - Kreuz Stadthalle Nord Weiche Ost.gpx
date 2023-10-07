@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 1 plain-ascend = 2 cost=156 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Kreuz Stadthalle Süd Weiche Ost - Kreuz Stadthalle Nord Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.76124/14.33108/standard&amp;lonlats=14.330925,51.760725;14.330957,51.760853;14.330994,51.761229;14.331,51.761281;14.331012,51.761395&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.760723" lon="14.330925"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.760729" lon="14.330926"><ele>75.75</ele></trkpt>
+   <trkpt lat="51.760769" lon="14.330936"><ele>76</ele></trkpt>
+   <trkpt lat="51.760853" lon="14.330957"><ele>76</ele></trkpt>
+   <trkpt lat="51.760967" lon="14.330968"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.761018" lon="14.330973"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.761037" lon="14.330975"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.761049" lon="14.330977"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.761065" lon="14.330978"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.761095" lon="14.330981"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.761229" lon="14.330994"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.761281" lon="14.330999"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.761333" lon="14.331004"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.761397" lon="14.331013"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.761393" lon="14.331012"><ele>77.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

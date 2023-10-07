@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 433 filtered ascend = 1 plain-ascend = 0 cost=866 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Thiemstraße/Klinikum (Steig Ost) - Abzweig Thiemstraße/Lutherstraße</name>
+  <link href="https://bikerouter.de/#map=19/51.74775/14.32848/standard&amp;lonlats=14.32665,51.743951;14.328361,51.747646&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.74395" lon="14.326649"><ele>78</ele></trkpt>
+   <trkpt lat="51.743952" lon="14.32665"><ele>78</ele></trkpt>
+   <trkpt lat="51.744191" lon="14.326845"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.744401" lon="14.326997"><ele>78.75</ele></trkpt>
+   <trkpt lat="51.744593" lon="14.327114"><ele>79</ele></trkpt>
+   <trkpt lat="51.745886" lon="14.32789"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.746198" lon="14.328037"><ele>78</ele></trkpt>
+   <trkpt lat="51.746518" lon="14.328149"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.746935" lon="14.328241"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.74736" lon="14.328322"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.747644" lon="14.328361"><ele>77.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

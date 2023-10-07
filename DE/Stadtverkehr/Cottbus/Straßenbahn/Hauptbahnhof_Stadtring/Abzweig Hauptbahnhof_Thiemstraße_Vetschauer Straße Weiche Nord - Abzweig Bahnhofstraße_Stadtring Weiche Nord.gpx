@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 144 filtered ascend = 0 plain-ascend = 0 cost=288 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Hauptbahnhof_Thiemstraße_Vetschauer Straße Weiche Nord - Abzweig Bahnhofstraße/Stadtring Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.74986/14.32803/standard&amp;lonlats=14.329007,51.749302;14.327556,51.750082&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.749299" lon="14.329005"><ele>75</ele></trkpt>
+   <trkpt lat="51.749325" lon="14.328855"><ele>75</ele></trkpt>
+   <trkpt lat="51.749354" lon="14.328744"><ele>75</ele></trkpt>
+   <trkpt lat="51.749382" lon="14.328656"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749414" lon="14.328553"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.74946" lon="14.328452"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749497" lon="14.32838"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749579" lon="14.32824"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749631" lon="14.328189"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749894" lon="14.328057"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.749959" lon="14.327988"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.750011" lon="14.327895"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.750049" lon="14.327801"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.750065" lon="14.327734"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.750084" lon="14.327559"><ele>75</ele></trkpt>
+   <trkpt lat="51.750084" lon="14.327556"><ele>75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

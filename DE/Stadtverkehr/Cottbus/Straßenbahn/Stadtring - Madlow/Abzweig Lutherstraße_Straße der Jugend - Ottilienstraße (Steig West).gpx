@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 233 filtered ascend = 1 plain-ascend = 2 cost=466 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Lutherstraße/Straße der Jugend - Ottilienstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.74458/14.33106/standard&amp;lonlats=14.331662,51.746793;14.331497,51.744737&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.746792" lon="14.331663"><ele>77</ele></trkpt>
+   <trkpt lat="51.746787" lon="14.331662"><ele>77</ele></trkpt>
+   <trkpt lat="51.746548" lon="14.331566"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.746328" lon="14.33149"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.745971" lon="14.331371"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.745608" lon="14.331299"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.745442" lon="14.331285"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.745207" lon="14.331315"><ele>78</ele></trkpt>
+   <trkpt lat="51.744736" lon="14.331493"><ele>78.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

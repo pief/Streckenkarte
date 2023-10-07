@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 460 filtered ascend = 0 plain-ascend = -1 cost=920 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Görlitzer Straße (Steig Ost) - Marienstraße/Glad house (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.75380/14.33291/standard&amp;lonlats=14.332817,51.749788;14.33338,51.753899&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.749788" lon="14.332815"><ele>75.75</ele></trkpt>
+   <trkpt lat="51.750042" lon="14.332897"><ele>75.75</ele></trkpt>
+   <trkpt lat="51.750432" lon="14.333004"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.750507" lon="14.333024"><ele>75</ele></trkpt>
+   <trkpt lat="51.750891" lon="14.333099"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.751512" lon="14.33318"><ele>75.75</ele></trkpt>
+   <trkpt lat="51.752893" lon="14.333348"><ele>76</ele></trkpt>
+   <trkpt lat="51.753141" lon="14.333388"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.753301" lon="14.33341"><ele>75</ele></trkpt>
+   <trkpt lat="51.753489" lon="14.333403"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.753899" lon="14.333385"><ele>74.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

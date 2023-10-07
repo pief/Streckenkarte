@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 439 filtered ascend = 4 plain-ascend = 5 cost=878 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Gelsenkirchener Platz (Steig West) - Schwarzheider Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.72419/14.32564/standard&amp;lonlats=14.326549,51.728136;14.325946,51.724227&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.728134" lon="14.32655"><ele>77</ele></trkpt>
+   <trkpt lat="51.728017" lon="14.32653"><ele>77</ele></trkpt>
+   <trkpt lat="51.727955" lon="14.326517"><ele>77</ele></trkpt>
+   <trkpt lat="51.727877" lon="14.326504"><ele>77</ele></trkpt>
+   <trkpt lat="51.727589" lon="14.326454"><ele>77</ele></trkpt>
+   <trkpt lat="51.727527" lon="14.326447"><ele>77</ele></trkpt>
+   <trkpt lat="51.727416" lon="14.326426"><ele>77</ele></trkpt>
+   <trkpt lat="51.727275" lon="14.326392"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.724981" lon="14.325979"><ele>79.25</ele></trkpt>
+   <trkpt lat="51.724813" lon="14.325953"><ele>79.25</ele></trkpt>
+   <trkpt lat="51.724503" lon="14.325924"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.724423" lon="14.325927"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.724229" lon="14.325945"><ele>80</ele></trkpt>
+   <trkpt lat="51.724226" lon="14.325945"><ele>81.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

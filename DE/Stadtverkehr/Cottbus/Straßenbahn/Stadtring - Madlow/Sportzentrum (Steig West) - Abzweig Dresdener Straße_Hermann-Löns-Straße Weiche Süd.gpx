@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 2 plain-ascend = 2 cost=588 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Sportzentrum (Steig West) - Abzweig Dresdener Straße/Hermann-Löns-Straße Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.73795/14.33543/standard&amp;lonlats=14.334165,51.740538;14.335624,51.738063&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.740538" lon="14.334165"><ele>80.25</ele></trkpt>
+   <trkpt lat="51.740318" lon="14.334295"><ele>80.5</ele></trkpt>
+   <trkpt lat="51.740289" lon="14.334312"><ele>80.5</ele></trkpt>
+   <trkpt lat="51.739513" lon="14.334752"><ele>82.25</ele></trkpt>
+   <trkpt lat="51.738062" lon="14.33562"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.738061" lon="14.335621"><ele>82.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

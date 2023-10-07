@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 2 plain-ascend = 3 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Am Doll (Steig Nord) - Goethestraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.76222/14.34006/standard&amp;lonlats=14.345087,51.762611;14.339667,51.762324&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.762609" lon="14.345086"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.762587" lon="14.344925"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.762391" lon="14.343618"><ele>73</ele></trkpt>
+   <trkpt lat="51.762378" lon="14.343521"><ele>73</ele></trkpt>
+   <trkpt lat="51.762357" lon="14.343371"><ele>73</ele></trkpt>
+   <trkpt lat="51.762349" lon="14.343315"><ele>72.75</ele></trkpt>
+   <trkpt lat="51.76232" lon="14.343045"><ele>72.5</ele></trkpt>
+   <trkpt lat="51.762293" lon="14.342681"><ele>72</ele></trkpt>
+   <trkpt lat="51.762282" lon="14.34215"><ele>72</ele></trkpt>
+   <trkpt lat="51.762287" lon="14.341918"><ele>72</ele></trkpt>
+   <trkpt lat="51.762315" lon="14.341212"><ele>73</ele></trkpt>
+   <trkpt lat="51.762316" lon="14.341192"><ele>73</ele></trkpt>
+   <trkpt lat="51.762321" lon="14.341068"><ele>73.25</ele></trkpt>
+   <trkpt lat="51.76233" lon="14.340858"><ele>73.75</ele></trkpt>
+   <trkpt lat="51.762341" lon="14.340503"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.762322" lon="14.339667"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

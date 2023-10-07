@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 0 plain-ascend = 0 cost=600 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Altmarkt (Steig Nord) - Kreuz Stadthalle Ost Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.76069/14.33103/standard&amp;lonlats=14.335833,51.760861;14.331499,51.760991&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.760861" lon="14.335831"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.76086" lon="14.335376"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.760867" lon="14.334597"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.760886" lon="14.333394"><ele>77</ele></trkpt>
+   <trkpt lat="51.760903" lon="14.332597"><ele>77</ele></trkpt>
+   <trkpt lat="51.760915" lon="14.332344"><ele>77</ele></trkpt>
+   <trkpt lat="51.760992" lon="14.331499"><ele>76.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

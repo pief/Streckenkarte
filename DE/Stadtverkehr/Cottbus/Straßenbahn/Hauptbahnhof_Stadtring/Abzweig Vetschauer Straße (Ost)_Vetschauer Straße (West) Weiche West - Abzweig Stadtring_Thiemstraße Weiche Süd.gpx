@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 0 plain-ascend = 0 cost=360 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Vetschauer Straße (Ost)/Vetschauer Straße (West) Weiche West - Abzweig Stadtring/Thiemstraße Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.74933/14.32772/standard&amp;lonlats=14.326075,51.749954;14.327966,51.749357&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.749953" lon="14.326074"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749952" lon="14.326072"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749895" lon="14.326005"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.749865" lon="14.325982"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.749804" lon="14.325955"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.749775" lon="14.325951"><ele>75.75</ele></trkpt>
+   <trkpt lat="51.74973" lon="14.325961"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.749691" lon="14.325978"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.74964" lon="14.326014"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.749563" lon="14.326111"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.749522" lon="14.326222"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.749514" lon="14.326307"><ele>75</ele></trkpt>
+   <trkpt lat="51.749494" lon="14.326511"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.749488" lon="14.326564"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.749373" lon="14.327792"><ele>75</ele></trkpt>
+   <trkpt lat="51.749355" lon="14.327965"><ele>75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 576 filtered ascend = 3 plain-ascend = 3 cost=1152 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Stadtring/Vetschauer Straße Weiche West - Thiemstraße/Klinikum (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.74382/14.32652/standard&amp;lonlats=14.328409,51.748958;14.32661,51.743958&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.748956" lon="14.32841"><ele>75</ele></trkpt>
+   <trkpt lat="51.74889" lon="14.328406"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.748028" lon="14.328348"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.7479" lon="14.328338"><ele>77</ele></trkpt>
+   <trkpt lat="51.747715" lon="14.328327"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.74739" lon="14.328278"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.746798" lon="14.32817"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.746538" lon="14.32811"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.746196" lon="14.327989"><ele>78</ele></trkpt>
+   <trkpt lat="51.745902" lon="14.327849"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.745776" lon="14.327779"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.744601" lon="14.327072"><ele>78.75</ele></trkpt>
+   <trkpt lat="51.7444" lon="14.326949"><ele>78.75</ele></trkpt>
+   <trkpt lat="51.744203" lon="14.326808"><ele>78.25</ele></trkpt>
+   <trkpt lat="51.743959" lon="14.326603"><ele>78</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

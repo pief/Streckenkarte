@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=106 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Hermann-Löns-Straße (Steig Nord) - Abzweig Dresdener Straße/Hermann-Löns-Straße Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.73852/14.33548/standard&amp;lonlats=14.335965,51.73844;14.335353,51.738577&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.738441" lon="14.335963"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.738407" lon="14.335807"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.738399" lon="14.335707"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.738402" lon="14.335611"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.738425" lon="14.335531"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.738453" lon="14.335471"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.738483" lon="14.335427"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.738571" lon="14.335352"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.738576" lon="14.335348"><ele>82.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 0 plain-ascend = -1 cost=708 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Vetschauer Straße/Leipziger Straße (Steig Süd) - Friedrich-List-Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.74821/14.31722/standard&amp;lonlats=14.312464,51.747493;14.317424,51.74823&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.747494" lon="14.312462"><ele>76</ele></trkpt>
+   <trkpt lat="51.747495" lon="14.312465"><ele>76</ele></trkpt>
+   <trkpt lat="51.747541" lon="14.312818"><ele>75.5</ele></trkpt>
+   <trkpt lat="51.747717" lon="14.314147"><ele>75</ele></trkpt>
+   <trkpt lat="51.747895" lon="14.315514"><ele>74</ele></trkpt>
+   <trkpt lat="51.747987" lon="14.316141"><ele>74</ele></trkpt>
+   <trkpt lat="51.748099" lon="14.316777"><ele>74</ele></trkpt>
+   <trkpt lat="51.748229" lon="14.317423"><ele>74</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

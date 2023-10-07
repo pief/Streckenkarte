@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 0 plain-ascend = 0 cost=164 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Stadtring/Straße der Jugend (Nord) Weiche Ost - Abzweig Straße der Jugend (Nord)/Straße der Jugend (Süd) Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.74915/14.33187/standard&amp;lonlats=14.332357,51.748496;14.331803,51.74905&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.748495" lon="14.332357"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.748498" lon="14.332359"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.748556" lon="14.332375"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.748672" lon="14.332368"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.748719" lon="14.332352"><ele>76.5</ele></trkpt>
+   <trkpt lat="51.748802" lon="14.3323"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.748828" lon="14.332276"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.748884" lon="14.332214"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.748967" lon="14.33208"><ele>76</ele></trkpt>
+   <trkpt lat="51.748996" lon="14.33201"><ele>76</ele></trkpt>
+   <trkpt lat="51.749008" lon="14.331957"><ele>76</ele></trkpt>
+   <trkpt lat="51.74905" lon="14.331806"><ele>76</ele></trkpt>
+   <trkpt lat="51.74905" lon="14.331803"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

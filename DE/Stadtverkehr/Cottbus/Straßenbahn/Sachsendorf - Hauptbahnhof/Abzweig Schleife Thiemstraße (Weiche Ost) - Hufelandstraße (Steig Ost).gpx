@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 181 filtered ascend = 0 plain-ascend = 1 cost=362 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Schleife Thiemstraße (Weiche Ost) - Hufelandstraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.74094/14.32427/standard&amp;lonlats=14.323841,51.739399;14.324523,51.740968&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.739397" lon="14.323841"><ele>79.25</ele></trkpt>
+   <trkpt lat="51.739915" lon="14.324023"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.740315" lon="14.324208"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.740475" lon="14.32429"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.740613" lon="14.324352"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.74082" lon="14.324456"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.740966" lon="14.324523"><ele>79.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

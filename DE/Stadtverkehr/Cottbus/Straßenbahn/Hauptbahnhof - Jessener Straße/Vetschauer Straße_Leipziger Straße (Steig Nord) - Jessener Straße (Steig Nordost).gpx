@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 309 filtered ascend = 0 plain-ascend = 0 cost=620 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Vetschauer Straße/Leipziger Straße (Steig Nord) - Jessener Straße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.74717/14.30762/standard&amp;lonlats=14.312444,51.747528;14.308035,51.747359&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.747531" lon="14.312442"><ele>75.75</ele></trkpt>
+   <trkpt lat="51.747472" lon="14.312012"><ele>76</ele></trkpt>
+   <trkpt lat="51.747464" lon="14.311957"><ele>76</ele></trkpt>
+   <trkpt lat="51.747316" lon="14.310797"><ele>76</ele></trkpt>
+   <trkpt lat="51.747258" lon="14.310155"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.747246" lon="14.309849"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.747242" lon="14.3096"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.747252" lon="14.309101"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.747297" lon="14.308517"><ele>76</ele></trkpt>
+   <trkpt lat="51.74736" lon="14.308039"><ele>76</ele></trkpt>
+   <trkpt lat="51.74736" lon="14.308035"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 276 filtered ascend = 0 plain-ascend = 0 cost=552 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Schleife Sandow - Hermann-Hammerschmidt-Straße</name>
+  <link href="https://bikerouter.de/#map=19/51.75703/14.35312/standard&amp;lonlats=14.353163,51.757222;14.351153,51.759351&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.757221" lon="14.353161"><ele>73</ele></trkpt>
+   <trkpt lat="51.757224" lon="14.353158"><ele>73</ele></trkpt>
+   <trkpt lat="51.758814" lon="14.351661"><ele>72</ele></trkpt>
+   <trkpt lat="51.758843" lon="14.351633"><ele>72</ele></trkpt>
+   <trkpt lat="51.759351" lon="14.351153"><ele>72</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
