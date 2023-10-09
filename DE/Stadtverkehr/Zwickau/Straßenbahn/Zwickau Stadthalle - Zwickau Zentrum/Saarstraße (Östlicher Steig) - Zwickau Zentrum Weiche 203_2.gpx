@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 0 plain-ascend = -2 cost=380 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Saarstraße (Östlicher Steig) - Zwickau Zentrum Weiche 203/2</name>
+  <link href="https://bikerouter.de/#map=19/50.71418/12.49744/standard&amp;lonlats=12.498238,50.710614;12.497133,50.713966&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.710614" lon="12.498238"><ele>268</ele></trkpt>
+   <trkpt lat="50.710622" lon="12.498236"><ele>268</ele></trkpt>
+   <trkpt lat="50.710808" lon="12.49818"><ele>268</ele></trkpt>
+   <trkpt lat="50.712396" lon="12.497662"><ele>267.75</ele></trkpt>
+   <trkpt lat="50.713478" lon="12.497305"><ele>266</ele></trkpt>
+   <trkpt lat="50.713886" lon="12.49717"><ele>265.5</ele></trkpt>
+   <trkpt lat="50.713966" lon="12.497135"><ele>265.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

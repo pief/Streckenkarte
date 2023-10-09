@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 0 plain-ascend = -1 cost=75 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>9705 Zwickau (Sachsen) Hbf Stw B4 Weiche A1 - Zwickau (Sachsen) Hbf Stw B4 Straßenbahnübergang</name>
+  <link href="https://bikerouter.de/#map=19/50.71131/12.48306/standard&amp;lonlats=12.482818,50.711366;12.483642,50.710941&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.711366" lon="12.482818"><ele>281.75</ele></trkpt>
+   <trkpt lat="50.711364" lon="12.482823"><ele>281.75</ele></trkpt>
+   <trkpt lat="50.711253" lon="12.483012"><ele>281.5</ele></trkpt>
+   <trkpt lat="50.711068" lon="12.483361"><ele>280.75</ele></trkpt>
+   <trkpt lat="50.710939" lon="12.48364"><ele>279.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 313 filtered ascend = 0 plain-ascend = -4 cost=313 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Zwickau Stadthalle Weiche WWW1 - Zwickau Stadthalle (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/50.70406/12.49839/standard&amp;lonlats=12.493847,50.703687;12.497892,50.704074&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.703687" lon="12.493847"><ele>265.75</ele></trkpt>
+   <trkpt lat="50.703687" lon="12.49385"><ele>265.75</ele></trkpt>
+   <trkpt lat="50.703474" lon="12.495953"><ele>264.5</ele></trkpt>
+   <trkpt lat="50.703461" lon="12.496119"><ele>264.5</ele></trkpt>
+   <trkpt lat="50.703456" lon="12.496282"><ele>264.25</ele></trkpt>
+   <trkpt lat="50.703461" lon="12.496442"><ele>264</ele></trkpt>
+   <trkpt lat="50.703476" lon="12.496599"><ele>263.75</ele></trkpt>
+   <trkpt lat="50.703498" lon="12.496739"><ele>263.5</ele></trkpt>
+   <trkpt lat="50.703526" lon="12.496876"><ele>263.5</ele></trkpt>
+   <trkpt lat="50.703563" lon="12.497014"><ele>263.25</ele></trkpt>
+   <trkpt lat="50.703603" lon="12.497133"><ele>263</ele></trkpt>
+   <trkpt lat="50.703713" lon="12.497379"><ele>262.5</ele></trkpt>
+   <trkpt lat="50.703832" lon="12.49757"><ele>262</ele></trkpt>
+   <trkpt lat="50.704074" lon="12.497889"><ele>261</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
