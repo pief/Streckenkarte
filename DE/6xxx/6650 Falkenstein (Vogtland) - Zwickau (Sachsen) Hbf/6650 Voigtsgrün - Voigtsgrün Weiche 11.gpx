@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226 filtered ascend = 0 plain-ascend = 0 cost=226 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6650 Voigtsgrün - Voigtsgrün Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/50.63429/12.42718/standard&amp;lonlats=12.426551,50.634152;12.425639,50.632219&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.634153" lon="12.426539"><ele>451.25</ele></trkpt>
+   <trkpt lat="50.634146" lon="12.426537"><ele>451.25</ele></trkpt>
+   <trkpt lat="50.63386" lon="12.426413"><ele>451</ele></trkpt>
+   <trkpt lat="50.633199" lon="12.426129"><ele>450.75</ele></trkpt>
+   <trkpt lat="50.633122" lon="12.426095"><ele>450.75</ele></trkpt>
+   <trkpt lat="50.632631" lon="12.425878"><ele>450.75</ele></trkpt>
+   <trkpt lat="50.632353" lon="12.42573"><ele>450.75</ele></trkpt>
+   <trkpt lat="50.632221" lon="12.42564"><ele>450.75</ele></trkpt>
+   <trkpt lat="50.632218" lon="12.425638"><ele>450.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
