@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 433 filtered ascend = 0 plain-ascend = -3 cost=434 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6648 Herlasgrün (Gleis 4) - Herlasgrün Weiche 19</name>
+  <link href="https://bikerouter.de/#map=19/50.56973/12.22987/standard&amp;lonlats=12.234377,50.570114;12.228373,50.569813&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.570115" lon="12.234377"><ele>425.5</ele></trkpt>
+   <trkpt lat="50.570151" lon="12.234078"><ele>425.5</ele></trkpt>
+   <trkpt lat="50.570161" lon="12.233913"><ele>425.75</ele></trkpt>
+   <trkpt lat="50.570161" lon="12.23363"><ele>425.75</ele></trkpt>
+   <trkpt lat="50.570138" lon="12.233323"><ele>425.5</ele></trkpt>
+   <trkpt lat="50.570117" lon="12.233166"><ele>425.5</ele></trkpt>
+   <trkpt lat="50.570092" lon="12.233015"><ele>425.5</ele></trkpt>
+   <trkpt lat="50.56996" lon="12.232344"><ele>425.5</ele></trkpt>
+   <trkpt lat="50.569901" lon="12.23198"><ele>425</ele></trkpt>
+   <trkpt lat="50.569892" lon="12.231918"><ele>425</ele></trkpt>
+   <trkpt lat="50.569832" lon="12.231479"><ele>424.5</ele></trkpt>
+   <trkpt lat="50.569808" lon="12.231263"><ele>424.25</ele></trkpt>
+   <trkpt lat="50.569771" lon="12.230828"><ele>423.75</ele></trkpt>
+   <trkpt lat="50.569748" lon="12.230428"><ele>423.5</ele></trkpt>
+   <trkpt lat="50.569733" lon="12.229762"><ele>422.75</ele></trkpt>
+   <trkpt lat="50.569736" lon="12.229543"><ele>422.5</ele></trkpt>
+   <trkpt lat="50.569757" lon="12.229135"><ele>422</ele></trkpt>
+   <trkpt lat="50.569792" lon="12.228741"><ele>421.75</ele></trkpt>
+   <trkpt lat="50.569813" lon="12.228373"><ele>421.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

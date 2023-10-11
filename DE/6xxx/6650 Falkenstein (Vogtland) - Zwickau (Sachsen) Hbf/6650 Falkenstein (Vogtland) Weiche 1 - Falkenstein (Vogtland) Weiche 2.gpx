@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=5 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6650 Falkenstein (Vogtland) Weiche 1 - Falkenstein (Vogtland) Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/50.48056/12.36446/standard&amp;lonlats=12.364222,50.480294;12.364172,50.480263&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.480292" lon="12.364222"><ele>551</ele></trkpt>
+   <trkpt lat="50.480262" lon="12.364171"><ele>551</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

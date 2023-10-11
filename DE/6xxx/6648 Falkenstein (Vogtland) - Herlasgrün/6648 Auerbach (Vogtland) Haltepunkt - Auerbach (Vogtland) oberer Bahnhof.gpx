@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1394 filtered ascend = 4 plain-ascend = -3 cost=1394 energy=0.0kwh time=1m 52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6648 Auerbach (Vogtland) Haltepunkt - Auerbach (Vogtland) oberer Bahnhof</name>
+  <link href="https://bikerouter.de/#map=19/50.51900/12.38294/standard&amp;lonlats=12.379264,50.50697;12.382024,50.519276&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.506969" lon="12.379261"><ele>543</ele></trkpt>
+   <trkpt lat="50.510116" lon="12.380387"><ele>544.75</ele></trkpt>
+   <trkpt lat="50.510681" lon="12.380589"><ele>545</ele></trkpt>
+   <trkpt lat="50.512126" lon="12.38115"><ele>547.25</ele></trkpt>
+   <trkpt lat="50.513077" lon="12.381495"><ele>547.5</ele></trkpt>
+   <trkpt lat="50.514755" lon="12.382097"><ele>542.75</ele></trkpt>
+   <trkpt lat="50.51525" lon="12.382239"><ele>541.5</ele></trkpt>
+   <trkpt lat="50.515475" lon="12.382286"><ele>541.25</ele></trkpt>
+   <trkpt lat="50.51571" lon="12.382321"><ele>540.75</ele></trkpt>
+   <trkpt lat="50.51593" lon="12.382343"><ele>540.25</ele></trkpt>
+   <trkpt lat="50.516357" lon="12.382355"><ele>539.75</ele></trkpt>
+   <trkpt lat="50.516903" lon="12.382309"><ele>539.75</ele></trkpt>
+   <trkpt lat="50.518367" lon="12.382133"><ele>541.25</ele></trkpt>
+   <trkpt lat="50.518498" lon="12.382117"><ele>541.25</ele></trkpt>
+   <trkpt lat="50.519208" lon="12.38203"><ele>541</ele></trkpt>
+   <trkpt lat="50.519275" lon="12.382021"><ele>539.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
