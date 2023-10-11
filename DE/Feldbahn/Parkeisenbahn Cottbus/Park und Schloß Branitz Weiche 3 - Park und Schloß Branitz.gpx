@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = 1 cost=67 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Park und Schloß Branitz Weiche 3 - Park und Schloß Branitz</name>
+  <link href="https://bikerouter.de/#map=19/51.73613/14.36029/standard&amp;lonlats=14.359179,51.735718;14.358968,51.736298&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.735718" lon="14.359181"><ele>79.25</ele></trkpt>
+   <trkpt lat="51.73572" lon="14.359181"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.735953" lon="14.359069"><ele>80</ele></trkpt>
+   <trkpt lat="51.736298" lon="14.358969"><ele>80</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

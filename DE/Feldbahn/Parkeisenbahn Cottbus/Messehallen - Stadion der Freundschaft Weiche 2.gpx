@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 0 plain-ascend = 0 cost=256 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Messehallen - Stadion der Freundschaft Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/51.74936/14.34827/standard&amp;lonlats=14.348988,51.749533;14.347026,51.750959&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.749536" lon="14.348985"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.749535" lon="14.34898"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.749463" lon="14.348636"><ele>74.5</ele></trkpt>
+   <trkpt lat="51.749442" lon="14.348508"><ele>74.5</ele></trkpt>
+   <trkpt lat="51.749433" lon="14.348326"><ele>74.5</ele></trkpt>
+   <trkpt lat="51.749445" lon="14.348156"><ele>74.5</ele></trkpt>
+   <trkpt lat="51.749455" lon="14.348091"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.749485" lon="14.347974"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.749524" lon="14.347862"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.749599" lon="14.347718"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.749649" lon="14.347649"><ele>74</ele></trkpt>
+   <trkpt lat="51.749749" lon="14.347557"><ele>74</ele></trkpt>
+   <trkpt lat="51.749907" lon="14.347473"><ele>73.75</ele></trkpt>
+   <trkpt lat="51.750107" lon="14.347387"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.750598" lon="14.347183"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.750623" lon="14.347172"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.750933" lon="14.347041"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.750959" lon="14.347029"><ele>73.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

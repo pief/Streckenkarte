@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 2 plain-ascend = 2 cost=100 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Zoo Weiche 1 - Zoo (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.74497/14.35421/standard&amp;lonlats=14.35319,51.746188;14.353402,51.745305&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.746187" lon="14.353189"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.746182" lon="14.35319"><ele>73.5</ele></trkpt>
+   <trkpt lat="51.745971" lon="14.353183"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.745916" lon="14.353192"><ele>74.5</ele></trkpt>
+   <trkpt lat="51.745587" lon="14.353303"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.745561" lon="14.353313"><ele>74.75</ele></trkpt>
+   <trkpt lat="51.745306" lon="14.353408"><ele>75.25</ele></trkpt>
+   <trkpt lat="51.745305" lon="14.353408"><ele>75.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
