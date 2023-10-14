@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1060 filtered ascend = 8 plain-ascend = 8 cost=1061 energy=0.0kwh time=1m 25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Rombergpark (Gleis 2) - Üst Victor-Toyka-Straße Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/51.49345/7.46747/standard&amp;lonlats=7.471104,51.484241;7.467584,51.492859&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.484241" lon="7.471104"><ele>98</ele></trkpt>
+   <trkpt lat="51.484442" lon="7.470623"><ele>98</ele></trkpt>
+   <trkpt lat="51.484611" lon="7.470239"><ele>98.25</ele></trkpt>
+   <trkpt lat="51.484923" lon="7.469617"><ele>99.25</ele></trkpt>
+   <trkpt lat="51.485189" lon="7.469177"><ele>99.75</ele></trkpt>
+   <trkpt lat="51.485428" lon="7.468843"><ele>100</ele></trkpt>
+   <trkpt lat="51.485695" lon="7.468517"><ele>100.5</ele></trkpt>
+   <trkpt lat="51.485877" lon="7.468324"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.486173" lon="7.468045"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.486462" lon="7.467818"><ele>101.75</ele></trkpt>
+   <trkpt lat="51.486659" lon="7.467688"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.487129" lon="7.467435"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.487434" lon="7.467327"><ele>100</ele></trkpt>
+   <trkpt lat="51.48782" lon="7.467236"><ele>98.5</ele></trkpt>
+   <trkpt lat="51.488033" lon="7.467203"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.488218" lon="7.467188"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.488487" lon="7.467191"><ele>96.75</ele></trkpt>
+   <trkpt lat="51.488789" lon="7.467209"><ele>96.25</ele></trkpt>
+   <trkpt lat="51.489273" lon="7.467271"><ele>95.75</ele></trkpt>
+   <trkpt lat="51.490973" lon="7.467519"><ele>101</ele></trkpt>
+   <trkpt lat="51.491379" lon="7.467555"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.491795" lon="7.467566"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.492066" lon="7.467566"><ele>103</ele></trkpt>
+   <trkpt lat="51.492648" lon="7.467569"><ele>104.75</ele></trkpt>
+   <trkpt lat="51.492859" lon="7.467584"><ele>106.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 11 plain-ascend = 12 cost=275 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Üst Victor-Toyka-Straße Weiche NNN1 - Westfalenpark Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/51.49594/7.46853/standard&amp;lonlats=7.467718,51.493532;7.468533,51.495843&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.493531" lon="7.467715"><ele>110</ele></trkpt>
+   <trkpt lat="51.493932" lon="7.46785"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.494573" lon="7.468152"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.494991" lon="7.468329"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.495253" lon="7.468407"><ele>119</ele></trkpt>
+   <trkpt lat="51.495762" lon="7.468524"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.495842" lon="7.468536"><ele>121.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

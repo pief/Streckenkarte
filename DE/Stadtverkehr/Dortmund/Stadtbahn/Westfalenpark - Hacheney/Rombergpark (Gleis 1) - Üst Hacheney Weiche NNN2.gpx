@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 769 filtered ascend = 12 plain-ascend = 12 cost=769 energy=0.0kwh time=1m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Rombergpark (Gleis 1) - Üst Hacheney Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/51.47825/7.47624/standard&amp;lonlats=7.471022,51.484156;7.47574,51.478435&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.484156" lon="7.471022"><ele>98</ele></trkpt>
+   <trkpt lat="51.483488" lon="7.47281"><ele>100.25</ele></trkpt>
+   <trkpt lat="51.483333" lon="7.473195"><ele>100</ele></trkpt>
+   <trkpt lat="51.483224" lon="7.473433"><ele>101</ele></trkpt>
+   <trkpt lat="51.48308" lon="7.473707"><ele>101.75</ele></trkpt>
+   <trkpt lat="51.482839" lon="7.47403"><ele>103.25</ele></trkpt>
+   <trkpt lat="51.482536" lon="7.474396"><ele>105</ele></trkpt>
+   <trkpt lat="51.482339" lon="7.474561"><ele>105</ele></trkpt>
+   <trkpt lat="51.48191" lon="7.474831"><ele>106</ele></trkpt>
+   <trkpt lat="51.481171" lon="7.475189"><ele>102.75</ele></trkpt>
+   <trkpt lat="51.480798" lon="7.475356"><ele>100.5</ele></trkpt>
+   <trkpt lat="51.480602" lon="7.475433"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.480205" lon="7.475565"><ele>104.75</ele></trkpt>
+   <trkpt lat="51.479885" lon="7.475641"><ele>106.5</ele></trkpt>
+   <trkpt lat="51.479515" lon="7.4757"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.478993" lon="7.475744"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.478434" lon="7.475739"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

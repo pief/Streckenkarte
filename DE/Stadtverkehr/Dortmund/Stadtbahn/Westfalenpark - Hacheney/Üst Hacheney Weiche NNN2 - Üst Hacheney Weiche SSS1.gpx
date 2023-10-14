@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=63 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Üst Hacheney Weiche NNN2 - Üst Hacheney Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/51.47803/7.47652/standard&amp;lonlats=7.47574,51.478435;7.475813,51.477885&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478434" lon="7.475739"><ele>110</ele></trkpt>
+   <trkpt lat="51.478433" lon="7.475739"><ele>110</ele></trkpt>
+   <trkpt lat="51.478166" lon="7.475764"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.477888" lon="7.475815"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.477885" lon="7.475815"><ele>109.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
