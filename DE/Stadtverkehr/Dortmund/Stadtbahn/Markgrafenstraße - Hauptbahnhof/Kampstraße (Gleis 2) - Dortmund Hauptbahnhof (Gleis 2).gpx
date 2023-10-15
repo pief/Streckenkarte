@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 378 filtered ascend = 0 plain-ascend = 0 cost=756 energy=0.0kwh time=30s -->
+<!-- track-length = 373 filtered ascend = 0 plain-ascend = 0 cost=746 energy=0.0kwh time=30s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Kampstraße - Hauptbahnhof</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/51.51822/7.46051/osm-mapnik-german_style&amp;lonlats=7.462201,51.515156;7.460331,51.51821&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Kampstraße (Gleis 2) - Dortmund Hauptbahnhof (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.51799/7.46062/standard&amp;lonlats=7.462207,51.51515;7.460326,51.518217&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.515156" lon="7.462202"/>
+   <trkpt lat="51.515149" lon="7.462204"/>
+   <trkpt lat="51.515151" lon="7.462204"/>
    <trkpt lat="51.515717" lon="7.46202"/>
    <trkpt lat="51.515817" lon="7.461975"/>
    <trkpt lat="51.515922" lon="7.461908"/>
@@ -26,7 +27,7 @@
    <trkpt lat="51.517396" lon="7.460523"/>
    <trkpt lat="51.517569" lon="7.460457"/>
    <trkpt lat="51.518208" lon="7.460333"/>
-   <trkpt lat="51.51821" lon="7.460332"/>
+   <trkpt lat="51.518217" lon="7.460331"/>
   </trkseg>
  </trk>
 </gpx>

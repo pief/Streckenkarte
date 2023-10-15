@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 645 filtered ascend = 0 plain-ascend = 0 cost=1290 energy=0.0kwh time=52s -->
+<!-- track-length = 635 filtered ascend = 0 plain-ascend = 0 cost=1270 energy=0.0kwh time=51s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Stadthaus - Markgrafenstraße (Westgleis)</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/51.50281/7.47317/osm-mapnik-german_style&amp;lonlats=7.469228,51.507781;7.472972,51.502592&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Stadthaus (Gleis 1) - Markgrafenstraße (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.50248/7.47317/standard&amp;lonlats=7.469217,51.507772;7.472965,51.502594&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.507778" lon="7.469219"/>
-   <trkpt lat="51.507777" lon="7.46922"/>
+   <trkpt lat="51.507773" lon="7.469223"/>
    <trkpt lat="51.506675" lon="7.470195"/>
    <trkpt lat="51.506463" lon="7.470357"/>
    <trkpt lat="51.505944" lon="7.470724"/>
@@ -25,7 +24,7 @@
    <trkpt lat="51.504088" lon="7.471618"/>
    <trkpt lat="51.503163" lon="7.472401"/>
    <trkpt lat="51.502596" lon="7.472964"/>
-   <trkpt lat="51.50259" lon="7.472969"/>
+   <trkpt lat="51.502594" lon="7.472965"/>
   </trkseg>
  </trk>
 </gpx>

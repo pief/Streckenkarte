@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 474 filtered ascend = 0 plain-ascend = 0 cost=948 energy=0.0kwh time=38s -->
+<!-- track-length = 468 filtered ascend = 0 plain-ascend = 0 cost=936 energy=0.0kwh time=37s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Stadthaus - Stadtgarten</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/51.51062/7.46580/osm-mapnik-german_style&amp;lonlats=7.469335,51.507821;7.464749,51.510727&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Stadthaus (Gleis 2) - Stadtgarten (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.51069/7.46502/standard&amp;lonlats=7.469349,51.507819;7.464746,51.510725&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.507824" lon="7.469345"/>
+   <trkpt lat="51.507819" lon="7.469349"/>
+   <trkpt lat="51.507821" lon="7.469348"/>
    <trkpt lat="51.50821" lon="7.469002"/>
    <trkpt lat="51.508863" lon="7.468423"/>
    <trkpt lat="51.509094" lon="7.468205"/>

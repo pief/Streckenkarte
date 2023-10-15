@@ -5,15 +5,15 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Markgrafenstraße (Westgleis) - Markgrafenstraße Abzweig</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/51.50145/7.47440/osm-mapnik-german_style&amp;lonlats=7.472969,51.50259;7.473941,51.501605&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Markgrafenstraße (Gleis 2) - Markgrafenstraße Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/51.50150/7.47369/standard&amp;lonlats=7.472965,51.502594;7.473936,51.501607&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.50259" lon="7.472969"/>
-   <trkpt lat="51.501604" lon="7.473939"/>
+   <trkpt lat="51.502594" lon="7.472965"/>
+   <trkpt lat="51.501607" lon="7.473936"/>
   </trkseg>
  </trk>
 </gpx>

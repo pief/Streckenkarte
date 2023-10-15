@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 476 filtered ascend = 0 plain-ascend = 0 cost=952 energy=0.0kwh time=38s -->
+<!-- track-length = 470 filtered ascend = 0 plain-ascend = 0 cost=940 energy=0.0kwh time=38s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Markgrafenstraße Einmündung - Stadthaus</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/51.50807/7.47011/osm-mapnik-german_style&amp;lonlats=7.471883,51.503938;7.469335,51.507821&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Markgrafenstraße Weiche NNN1 - Stadthaus (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.50809/7.46919/standard&amp;lonlats=7.471879,51.503934;7.469349,51.507819&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.503936" lon="7.471877"/>
+   <trkpt lat="51.503934" lon="7.471879"/>
    <trkpt lat="51.504114" lon="7.471715"/>
    <trkpt lat="51.504217" lon="7.471635"/>
    <trkpt lat="51.504483" lon="7.471486"/>
@@ -24,8 +24,7 @@
    <trkpt lat="51.506189" lon="7.470705"/>
    <trkpt lat="51.506498" lon="7.470481"/>
    <trkpt lat="51.506905" lon="7.470156"/>
-   <trkpt lat="51.507821" lon="7.469348"/>
-   <trkpt lat="51.507824" lon="7.469345"/>
+   <trkpt lat="51.507819" lon="7.469349"/>
   </trkseg>
  </trk>
 </gpx>

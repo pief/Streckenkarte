@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 582 filtered ascend = 0 plain-ascend = 0 cost=1164 energy=0.0kwh time=47s -->
+<!-- track-length = 571 filtered ascend = 0 plain-ascend = 0 cost=1142 energy=0.0kwh time=46s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Kampstraße - Stadtgarten</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/51.51050/7.46563/osm-mapnik-german_style&amp;lonlats=7.462117,51.515147;7.46469,51.510701&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Kampstraße (Gleis 1) - Stadtgarten (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.51058/7.46475/standard&amp;lonlats=7.46212,51.515139;7.46471,51.510688&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.515146" lon="7.462112"/>
-   <trkpt lat="51.51514" lon="7.462114"/>
+   <trkpt lat="51.515138" lon="7.462114"/>
    <trkpt lat="51.514533" lon="7.462238"/>
    <trkpt lat="51.514397" lon="7.462248"/>
    <trkpt lat="51.514046" lon="7.462219"/>
@@ -32,7 +31,8 @@
    <trkpt lat="51.511245" lon="7.463373"/>
    <trkpt lat="51.511097" lon="7.463668"/>
    <trkpt lat="51.510979" lon="7.463946"/>
-   <trkpt lat="51.510698" lon="7.464687"/>
+   <trkpt lat="51.510698" lon="7.46469"/>
+   <trkpt lat="51.510689" lon="7.464711"/>
   </trkseg>
  </trk>
 </gpx>
