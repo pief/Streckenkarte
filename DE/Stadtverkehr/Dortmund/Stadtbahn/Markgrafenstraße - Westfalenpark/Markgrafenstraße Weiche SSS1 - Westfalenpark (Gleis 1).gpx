@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 798 filtered ascend = 0 plain-ascend = 0 cost=1596 energy=0.0kwh time=1m 4s -->
+<!-- track-length = 785 filtered ascend = 0 plain-ascend = 0 cost=1570 energy=0.0kwh time=1m 3s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Markgrafenstraße Abzweig - Westfalenpark</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/51.49594/7.46958/osm-mapnik-german_style&amp;lonlats=7.473941,51.501605;7.468649,51.496477&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Markgrafenstraße Weiche SSS1 - Westfalenpark (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.49650/7.46893/standard&amp;lonlats=7.473935,51.501607;7.468654,51.496474&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.501604" lon="7.473939"/>
+   <trkpt lat="51.501607" lon="7.473936"/>
    <trkpt lat="51.501604" lon="7.47394"/>
    <trkpt lat="51.501368" lon="7.474176"/>
    <trkpt lat="51.501181" lon="7.474304"/>
@@ -41,6 +41,7 @@
    <trkpt lat="51.496946" lon="7.468852"/>
    <trkpt lat="51.496715" lon="7.468747"/>
    <trkpt lat="51.496476" lon="7.468656"/>
+   <trkpt lat="51.496473" lon="7.468655"/>
   </trkseg>
  </trk>
 </gpx>
