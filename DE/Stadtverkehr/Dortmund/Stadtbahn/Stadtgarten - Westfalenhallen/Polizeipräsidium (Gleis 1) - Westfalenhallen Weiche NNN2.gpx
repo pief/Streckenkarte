@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 313 filtered ascend = 0 plain-ascend = 0 cost=626 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Polizeipräsidium (Gleis 1) - Westfalenhallen Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=18/51.49786/7.46013/standard&amp;lonlats=7.458866,51.501008;7.459542,51.498217&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.501008" lon="7.458866"/>
+   <trkpt lat="51.500961" lon="7.458871"/>
+   <trkpt lat="51.500671" lon="7.458914"/>
+   <trkpt lat="51.500073" lon="7.459062"/>
+   <trkpt lat="51.499476" lon="7.45923"/>
+   <trkpt lat="51.498498" lon="7.459469"/>
+   <trkpt lat="51.498217" lon="7.459546"/>
+  </trkseg>
+ </trk>
+</gpx>

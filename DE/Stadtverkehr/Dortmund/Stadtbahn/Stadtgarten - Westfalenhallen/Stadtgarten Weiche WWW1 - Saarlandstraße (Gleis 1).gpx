@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 528 filtered ascend = 0 plain-ascend = 0 cost=1056 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Stadtgarten Weiche WWW1 - Saarlandstraße (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.50537/7.45990/standard&amp;lonlats=7.462399,51.509826;7.459651,51.505484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.509822" lon="7.462401"/>
+   <trkpt lat="51.50982" lon="7.462397"/>
+   <trkpt lat="51.509591" lon="7.462031"/>
+   <trkpt lat="51.509512" lon="7.46194"/>
+   <trkpt lat="51.50933" lon="7.46169"/>
+   <trkpt lat="51.50914" lon="7.461477"/>
+   <trkpt lat="51.508948" lon="7.461304"/>
+   <trkpt lat="51.508676" lon="7.461135"/>
+   <trkpt lat="51.508538" lon="7.461069"/>
+   <trkpt lat="51.50843" lon="7.461013"/>
+   <trkpt lat="51.507516" lon="7.460601"/>
+   <trkpt lat="51.506282" lon="7.460064"/>
+   <trkpt lat="51.505483" lon="7.459656"/>
+  </trkseg>
+ </trk>
+</gpx>
