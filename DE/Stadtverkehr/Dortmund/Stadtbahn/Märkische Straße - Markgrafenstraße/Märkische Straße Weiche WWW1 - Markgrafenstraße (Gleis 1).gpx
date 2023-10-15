@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 844 filtered ascend = 0 plain-ascend = 0 cost=1688 energy=0.0kwh time=1m 8s -->
+<!-- track-length = 532 filtered ascend = 0 plain-ascend = 0 cost=1064 energy=0.0kwh time=43s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Märkische Straße - Markgrafenstraße (Ostgleis)</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/51.50210/7.47423/osm-mapnik-german_style&amp;lonlats=7.482998,51.500769;7.47316,51.502625&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Märkische Straße Weiche WWW1 - Markgrafenstraße (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/51.50258/7.47332/standard&amp;lonlats=7.478787,51.500017;7.47316,51.502639&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.500759" lon="7.483001"/>
-   <trkpt lat="51.500493" lon="7.481394"/>
-   <trkpt lat="51.500221" lon="7.48001"/>
-   <trkpt lat="51.500016" lon="7.478793"/>
+   <trkpt lat="51.500015" lon="7.478786"/>
    <trkpt lat="51.499998" lon="7.478633"/>
    <trkpt lat="51.499971" lon="7.478114"/>
    <trkpt lat="51.499965" lon="7.477659"/>
@@ -29,7 +26,8 @@
    <trkpt lat="51.500963" lon="7.474812"/>
    <trkpt lat="51.501235" lon="7.474472"/>
    <trkpt lat="51.502273" lon="7.473514"/>
-   <trkpt lat="51.502627" lon="7.473166"/>
+   <trkpt lat="51.502631" lon="7.473163"/>
+   <trkpt lat="51.502637" lon="7.473156"/>
   </trkseg>
  </trk>
 </gpx>

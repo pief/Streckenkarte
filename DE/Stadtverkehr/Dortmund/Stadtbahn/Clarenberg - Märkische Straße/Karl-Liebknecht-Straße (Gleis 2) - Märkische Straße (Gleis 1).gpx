@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 708 filtered ascend = 0 plain-ascend = 0 cost=1416 energy=0.0kwh time=57s -->
+<!-- track-length = 694 filtered ascend = 0 plain-ascend = 0 cost=1388 energy=0.0kwh time=56s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Karl-Liebknecht-Straße - Märkische Straße</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/51.50036/7.48511/osm-mapnik-german_style&amp;lonlats=7.491555,51.498478;7.482998,51.500769&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Karl-Liebknecht-Straße (Gleis 2) - Märkische Straße (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.50094/7.48347/standard&amp;lonlats=7.491552,51.498475;7.483021,51.500763&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
    <trkpt lat="51.498474" lon="7.491551"/>
@@ -30,7 +30,7 @@
    <trkpt lat="51.501018" lon="7.484535"/>
    <trkpt lat="51.500933" lon="7.484"/>
    <trkpt lat="51.500763" lon="7.483023"/>
-   <trkpt lat="51.500759" lon="7.483001"/>
+   <trkpt lat="51.500762" lon="7.48302"/>
   </trkseg>
  </trk>
 </gpx>
