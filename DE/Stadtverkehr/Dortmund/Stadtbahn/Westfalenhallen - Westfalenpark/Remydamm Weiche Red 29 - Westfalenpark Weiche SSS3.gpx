@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 136 filtered ascend = 3 plain-ascend = 3 cost=136 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Remydamm Weiche Red 29 - Westfalenpark Weiche SSS3</name>
+  <link href="https://bikerouter.de/#map=18/51.49474/7.46674/standard&amp;lonlats=7.467471,51.494552;7.468388,51.495484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.494551" lon="7.46747"><ele>117</ele></trkpt>
+   <trkpt lat="51.494551" lon="7.467471"><ele>117</ele></trkpt>
+   <trkpt lat="51.494552" lon="7.467609"><ele>117</ele></trkpt>
+   <trkpt lat="51.494561" lon="7.467721"><ele>117</ele></trkpt>
+   <trkpt lat="51.494578" lon="7.467813"><ele>117</ele></trkpt>
+   <trkpt lat="51.4946" lon="7.467879"><ele>117</ele></trkpt>
+   <trkpt lat="51.494645" lon="7.467955"><ele>117</ele></trkpt>
+   <trkpt lat="51.494704" lon="7.468014"><ele>117</ele></trkpt>
+   <trkpt lat="51.494827" lon="7.468078"><ele>117</ele></trkpt>
+   <trkpt lat="51.495212" lon="7.468271"><ele>119</ele></trkpt>
+   <trkpt lat="51.495483" lon="7.468387"><ele>120.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

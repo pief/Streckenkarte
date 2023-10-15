@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 0 plain-ascend = 0 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Westfalenpark Weiche SSS1 - Westfalenpark (2)</name>
+  <link href="https://bikerouter.de/#map=19/51.49602/7.46858/standard&amp;lonlats=7.468536,51.495842;7.468701,51.496467&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.495842" lon="7.468536"/>
+   <trkpt lat="51.4963" lon="7.468648"/>
+   <trkpt lat="51.496466" lon="7.4687"/>
+  </trkseg>
+ </trk>
+</gpx>

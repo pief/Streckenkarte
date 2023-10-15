@@ -5,16 +5,16 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>Dreieck Stadion Ost - Remydamm Üst Nord</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/51.49504/7.46100/osm-mapnik-german_style&amp;lonlats=7.461092,51.494507;7.461221,51.494505&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Remydamm Weiche WWW1 - Dreieck Stadion Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/51.49480/7.46182/standard&amp;lonlats=7.461218,51.494505;7.461093,51.49451&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.494507" lon="7.461092"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.494505" lon="7.461218"><ele>113.5</ele></trkpt>
    <trkpt lat="51.494507" lon="7.461093"><ele>113.5</ele></trkpt>
-   <trkpt lat="51.494505" lon="7.461221"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.494507" lon="7.461092"><ele>113.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
