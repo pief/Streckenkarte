@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 266 filtered ascend = 0 plain-ascend = 0 cost=266 energy=0.0kwh time=21s -->
+<!-- track-length = 274 filtered ascend = 0 plain-ascend = -1 cost=274 energy=0.0kwh time=22s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6645 Thalheim (Erzgebirge) Weiche 11 - Thalheim (Erzgebirge) (Gleis 2)</name>
-  <link href="https://bikerouter.de/#map=19/50.69692/12.85053/standard&amp;lonlats=12.848001,50.695041;12.849865,50.697112&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=18/50.69730/12.85063/standard&amp;lonlats=12.847931,50.694961;12.849837,50.697103&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.695039" lon="12.848003"><ele>454</ele></trkpt>
-   <trkpt lat="50.695041" lon="12.848005"><ele>454</ele></trkpt>
-   <trkpt lat="50.695661" lon="12.848557"><ele>453.5</ele></trkpt>
-   <trkpt lat="50.695894" lon="12.848766"><ele>453.75</ele></trkpt>
-   <trkpt lat="50.697112" lon="12.849861"><ele>452.75</ele></trkpt>
+   <trkpt lat="50.694959" lon="12.847933"><ele>454.25</ele></trkpt>
+   <trkpt lat="50.694962" lon="12.847935"><ele>454.25</ele></trkpt>
+   <trkpt lat="50.695658" lon="12.848561"><ele>453.5</ele></trkpt>
+   <trkpt lat="50.695893" lon="12.848773"><ele>453.75</ele></trkpt>
+   <trkpt lat="50.697096" lon="12.849851"><ele>452.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

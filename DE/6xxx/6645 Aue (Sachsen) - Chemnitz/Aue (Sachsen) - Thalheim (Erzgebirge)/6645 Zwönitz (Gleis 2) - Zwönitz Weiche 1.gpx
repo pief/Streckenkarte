@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 259 filtered ascend = 0 plain-ascend = -2 cost=260 energy=0.0kwh time=21s -->
+<!-- track-length = 270 filtered ascend = 0 plain-ascend = -2 cost=270 energy=0.0kwh time=22s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6645 Zwönitz (Gleis 2) - Zwönitz Weiche 1</name>
-  <link href="https://bikerouter.de/#map=19/50.63408/12.79952/standard&amp;lonlats=12.797809,50.632156;12.798812,50.634361&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.63436/12.79891/standard&amp;lonlats=12.797799,50.632159;12.798842,50.634449&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.632156" lon="12.797806"><ele>549.5</ele></trkpt>
-   <trkpt lat="50.63216" lon="12.797811"><ele>549.5</ele></trkpt>
-   <trkpt lat="50.632396" lon="12.798006"><ele>549.5</ele></trkpt>
+   <trkpt lat="50.632157" lon="12.7978"><ele>549.5</ele></trkpt>
+   <trkpt lat="50.632167" lon="12.797809"><ele>549.5</ele></trkpt>
+   <trkpt lat="50.632393" lon="12.798001"><ele>549.5</ele></trkpt>
    <trkpt lat="50.632525" lon="12.7981"><ele>549.5</ele></trkpt>
-   <trkpt lat="50.632772" lon="12.798259"><ele>548.75</ele></trkpt>
+   <trkpt lat="50.632773" lon="12.798259"><ele>548.75</ele></trkpt>
    <trkpt lat="50.63297" lon="12.798361"><ele>548.25</ele></trkpt>
-   <trkpt lat="50.633372" lon="12.798553"><ele>547</ele></trkpt>
-   <trkpt lat="50.63359" lon="12.798643"><ele>546.75</ele></trkpt>
-   <trkpt lat="50.633809" lon="12.798716"><ele>546.5</ele></trkpt>
-   <trkpt lat="50.633933" lon="12.798745"><ele>546.5</ele></trkpt>
-   <trkpt lat="50.634359" lon="12.798815"><ele>546.25</ele></trkpt>
+   <trkpt lat="50.633477" lon="12.798601"><ele>547</ele></trkpt>
+   <trkpt lat="50.633592" lon="12.798647"><ele>546.75</ele></trkpt>
+   <trkpt lat="50.633808" lon="12.798717"><ele>546.5</ele></trkpt>
+   <trkpt lat="50.633933" lon="12.798747"><ele>546.5</ele></trkpt>
+   <trkpt lat="50.634331" lon="12.798812"><ele>546.25</ele></trkpt>
+   <trkpt lat="50.634452" lon="12.798843"><ele>546.25</ele></trkpt>
+   <trkpt lat="50.634448" lon="12.798841"><ele>546.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

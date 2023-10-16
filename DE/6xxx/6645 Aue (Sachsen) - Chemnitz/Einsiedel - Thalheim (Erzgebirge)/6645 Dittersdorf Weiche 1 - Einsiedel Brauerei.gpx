@@ -1,49 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1370 filtered ascend = 3 plain-ascend = -16 cost=1370 energy=0.0kwh time=1m 50s -->
+<!-- track-length = 1372 filtered ascend = 3 plain-ascend = -16 cost=1372 energy=0.0kwh time=1m 50s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6645 Dittersdorf Weiche 1 - Einsiedel Brauerei</name>
-  <link href="https://bikerouter.de/#map=19/50.76487/12.97624/standard&amp;lonlats=12.981098,50.75395;12.975514,50.765272&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.76534/12.97553/standard&amp;lonlats=12.981108,50.753953;12.975515,50.765271&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.753949" lon="12.981097"><ele>369.25</ele></trkpt>
-   <trkpt lat="50.754137" lon="12.981095"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.753952" lon="12.981107"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.754029" lon="12.981111"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.754133" lon="12.981101"><ele>369.25</ele></trkpt>
    <trkpt lat="50.7543" lon="12.98107"><ele>369.25</ele></trkpt>
    <trkpt lat="50.754464" lon="12.981021"><ele>368.75</ele></trkpt>
    <trkpt lat="50.754544" lon="12.980989"><ele>368.5</ele></trkpt>
    <trkpt lat="50.754698" lon="12.98091"><ele>368</ele></trkpt>
-   <trkpt lat="50.75492" lon="12.980758"><ele>366.75</ele></trkpt>
-   <trkpt lat="50.755349" lon="12.98041"><ele>365.75</ele></trkpt>
+   <trkpt lat="50.755065" lon="12.980649"><ele>366</ele></trkpt>
+   <trkpt lat="50.755351" lon="12.980414"><ele>365.75</ele></trkpt>
    <trkpt lat="50.756195" lon="12.979714"><ele>367.75</ele></trkpt>
-   <trkpt lat="50.756395" lon="12.979553"><ele>370</ele></trkpt>
-   <trkpt lat="50.757057" lon="12.979023"><ele>372.75</ele></trkpt>
-   <trkpt lat="50.757383" lon="12.978806"><ele>372</ele></trkpt>
-   <trkpt lat="50.757871" lon="12.97859"><ele>370.25</ele></trkpt>
-   <trkpt lat="50.758053" lon="12.97853"><ele>369.75</ele></trkpt>
-   <trkpt lat="50.758411" lon="12.978448"><ele>368.75</ele></trkpt>
-   <trkpt lat="50.758668" lon="12.97844"><ele>368.5</ele></trkpt>
-   <trkpt lat="50.758932" lon="12.978458"><ele>368.5</ele></trkpt>
-   <trkpt lat="50.759406" lon="12.978525"><ele>369</ele></trkpt>
-   <trkpt lat="50.760364" lon="12.978758"><ele>369.75</ele></trkpt>
-   <trkpt lat="50.760726" lon="12.978814"><ele>368.5</ele></trkpt>
-   <trkpt lat="50.761313" lon="12.97884"><ele>364.75</ele></trkpt>
-   <trkpt lat="50.761769" lon="12.978758"><ele>361</ele></trkpt>
-   <trkpt lat="50.761995" lon="12.978706"><ele>359.25</ele></trkpt>
-   <trkpt lat="50.762333" lon="12.978581"><ele>356.5</ele></trkpt>
-   <trkpt lat="50.762525" lon="12.978488"><ele>355</ele></trkpt>
-   <trkpt lat="50.76291" lon="12.978253"><ele>353.5</ele></trkpt>
-   <trkpt lat="50.763184" lon="12.978036"><ele>353.75</ele></trkpt>
-   <trkpt lat="50.763507" lon="12.977742"><ele>354.5</ele></trkpt>
-   <trkpt lat="50.763774" lon="12.977462"><ele>355</ele></trkpt>
-   <trkpt lat="50.765047" lon="12.975816"><ele>355</ele></trkpt>
-   <trkpt lat="50.76514" lon="12.975686"><ele>355</ele></trkpt>
-   <trkpt lat="50.765273" lon="12.975515"><ele>352.75</ele></trkpt>
+   <trkpt lat="50.756404" lon="12.979542"><ele>370</ele></trkpt>
+   <trkpt lat="50.75687" lon="12.979166"><ele>372.25</ele></trkpt>
+   <trkpt lat="50.757061" lon="12.979032"><ele>372.75</ele></trkpt>
+   <trkpt lat="50.757221" lon="12.978925"><ele>372.75</ele></trkpt>
+   <trkpt lat="50.757629" lon="12.978708"><ele>371.25</ele></trkpt>
+   <trkpt lat="50.757876" lon="12.978606"><ele>370.5</ele></trkpt>
+   <trkpt lat="50.758055" lon="12.978546"><ele>370</ele></trkpt>
+   <trkpt lat="50.758233" lon="12.978497"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.758413" lon="12.978462"><ele>369</ele></trkpt>
+   <trkpt lat="50.758698" lon="12.978442"><ele>368.5</ele></trkpt>
+   <trkpt lat="50.758931" lon="12.978455"><ele>368.25</ele></trkpt>
+   <trkpt lat="50.759217" lon="12.978502"><ele>368.75</ele></trkpt>
+   <trkpt lat="50.760364" lon="12.978765"><ele>370</ele></trkpt>
+   <trkpt lat="50.760543" lon="12.978799"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.76092" lon="12.978847"><ele>367.75</ele></trkpt>
+   <trkpt lat="50.761111" lon="12.978852"><ele>366.5</ele></trkpt>
+   <trkpt lat="50.761458" lon="12.97883"><ele>363.75</ele></trkpt>
+   <trkpt lat="50.761766" lon="12.978774"><ele>361</ele></trkpt>
+   <trkpt lat="50.761999" lon="12.978708"><ele>359.25</ele></trkpt>
+   <trkpt lat="50.76234" lon="12.978576"><ele>356.25</ele></trkpt>
+   <trkpt lat="50.762664" lon="12.978407"><ele>354.25</ele></trkpt>
+   <trkpt lat="50.76296" lon="12.978216"><ele>353.5</ele></trkpt>
+   <trkpt lat="50.763233" lon="12.978001"><ele>353.75</ele></trkpt>
+   <trkpt lat="50.763508" lon="12.977745"><ele>354.5</ele></trkpt>
+   <trkpt lat="50.76364" lon="12.977607"><ele>354.75</ele></trkpt>
+   <trkpt lat="50.76379" lon="12.977435"><ele>355</ele></trkpt>
+   <trkpt lat="50.764155" lon="12.976984"><ele>354.25</ele></trkpt>
+   <trkpt lat="50.765047" lon="12.975815"><ele>355</ele></trkpt>
+   <trkpt lat="50.765141" lon="12.975688"><ele>355</ele></trkpt>
+   <trkpt lat="50.765271" lon="12.975517"><ele>352.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

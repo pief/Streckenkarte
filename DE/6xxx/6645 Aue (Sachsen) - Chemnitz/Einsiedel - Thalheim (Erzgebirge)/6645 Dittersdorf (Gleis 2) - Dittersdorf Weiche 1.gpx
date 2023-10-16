@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 320 filtered ascend = 1 plain-ascend = -1 cost=320 energy=0.0kwh time=26s -->
+<!-- track-length = 317 filtered ascend = 1 plain-ascend = -1 cost=317 energy=0.0kwh time=25s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6645 Dittersdorf (Gleis 2) - Dittersdorf Weiche 1</name>
-  <link href="https://bikerouter.de/#map=19/50.75374/12.98177/standard&amp;lonlats=12.97888,50.751567;12.981098,50.75395&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.75378/12.98053/standard&amp;lonlats=12.978878,50.751566;12.981108,50.753953&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.751565" lon="12.978881"><ele>371.5</ele></trkpt>
-   <trkpt lat="50.751661" lon="12.979005"><ele>371.5</ele></trkpt>
+   <trkpt lat="50.751564" lon="12.978879"><ele>371.5</ele></trkpt>
+   <trkpt lat="50.751651" lon="12.978991"><ele>371.5</ele></trkpt>
    <trkpt lat="50.752103" lon="12.979598"><ele>372.5</ele></trkpt>
    <trkpt lat="50.752524" lon="12.980232"><ele>369.25</ele></trkpt>
    <trkpt lat="50.752715" lon="12.980491"><ele>372</ele></trkpt>
    <trkpt lat="50.752851" lon="12.980641"><ele>372.75</ele></trkpt>
    <trkpt lat="50.752998" lon="12.980776"><ele>372.75</ele></trkpt>
    <trkpt lat="50.753152" lon="12.980886"><ele>372</ele></trkpt>
-   <trkpt lat="50.75331" lon="12.98097"><ele>371</ele></trkpt>
-   <trkpt lat="50.753468" lon="12.981028"><ele>370</ele></trkpt>
-   <trkpt lat="50.753628" lon="12.981066"><ele>369.75</ele></trkpt>
-   <trkpt lat="50.753788" lon="12.981089"><ele>369.25</ele></trkpt>
-   <trkpt lat="50.753947" lon="12.981098"><ele>369.25</ele></trkpt>
-   <trkpt lat="50.753949" lon="12.981097"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.753231" lon="12.980931"><ele>371.5</ele></trkpt>
+   <trkpt lat="50.753389" lon="12.981001"><ele>370.5</ele></trkpt>
+   <trkpt lat="50.753548" lon="12.981049"><ele>369.75</ele></trkpt>
+   <trkpt lat="50.753946" lon="12.981107"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.753952" lon="12.981107"><ele>369.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 91 filtered ascend = 2 plain-ascend = 3 cost=92 energy=0.0kwh time=7s -->
+<!-- track-length = 136 filtered ascend = 5 plain-ascend = 5 cost=136 energy=0.0kwh time=11s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6645 Burkhardtsdorf Weiche 11 - Burkhardtsdorf (Gleis 2)</name>
-  <link href="https://bikerouter.de/#map=19/50.73282/12.93240/standard&amp;lonlats=12.930836,50.732804;12.932026,50.733119&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.73298/12.93284/standard&amp;lonlats=12.930736,50.732771;12.9325,50.733246&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.732804" lon="12.930836"><ele>401.5</ele></trkpt>
-   <trkpt lat="50.732841" lon="12.930995"><ele>402</ele></trkpt>
-   <trkpt lat="50.733123" lon="12.932022"><ele>404</ele></trkpt>
+   <trkpt lat="50.732776" lon="12.930731"><ele>400.75</ele></trkpt>
+   <trkpt lat="50.732781" lon="12.930749"><ele>401</ele></trkpt>
+   <trkpt lat="50.732844" lon="12.930993"><ele>402</ele></trkpt>
+   <trkpt lat="50.733138" lon="12.932067"><ele>404</ele></trkpt>
+   <trkpt lat="50.733254" lon="12.932493"><ele>405.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
