@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 207 filtered ascend = 1 plain-ascend = 0 cost=208 energy=0.0kwh time=17s -->
+<!-- track-length = 206 filtered ascend = 1 plain-ascend = 0 cost=206 energy=0.0kwh time=16s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6623 Cranzahl (Gleis 2) - Cranzahl Weiche 14</name>
-  <link href="https://bikerouter.de/#map=19/50.51116/12.99367/standard&amp;lonlats=12.993086,50.511232;12.990209,50.510986&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.51101/12.99065/standard&amp;lonlats=12.993085,50.511234;12.990214,50.510996&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.511234" lon="12.993085"><ele>656.5</ele></trkpt>
-   <trkpt lat="50.511118" lon="12.992262"><ele>657.25</ele></trkpt>
-   <trkpt lat="50.511053" lon="12.991619"><ele>658</ele></trkpt>
-   <trkpt lat="50.511032" lon="12.991273"><ele>657.5</ele></trkpt>
-   <trkpt lat="50.511014" lon="12.990736"><ele>656.75</ele></trkpt>
-   <trkpt lat="50.510987" lon="12.990216"><ele>656.25</ele></trkpt>
-   <trkpt lat="50.510986" lon="12.990207"><ele>655.75</ele></trkpt>
+   <trkpt lat="50.511237" lon="12.993082"><ele>656.25</ele></trkpt>
+   <trkpt lat="50.511124" lon="12.992264"><ele>657.25</ele></trkpt>
+   <trkpt lat="50.511068" lon="12.991772"><ele>657.75</ele></trkpt>
+   <trkpt lat="50.511033" lon="12.99127"><ele>657.5</ele></trkpt>
+   <trkpt lat="50.511019" lon="12.990736"><ele>656.5</ele></trkpt>
+   <trkpt lat="50.510992" lon="12.990219"><ele>656</ele></trkpt>
+   <trkpt lat="50.510991" lon="12.990213"><ele>656</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

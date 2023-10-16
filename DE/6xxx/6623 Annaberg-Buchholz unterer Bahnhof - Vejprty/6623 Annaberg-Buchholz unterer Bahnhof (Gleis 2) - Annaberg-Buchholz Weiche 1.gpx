@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 149 filtered ascend = 0 plain-ascend = 0 cost=149 energy=0.0kwh time=12s -->
+<!-- track-length = 153 filtered ascend = 0 plain-ascend = 0 cost=153 energy=0.0kwh time=12s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6623 Annaberg-Buchholz unterer Bahnhof (Gleis 2) - Annaberg-Buchholz Weiche 1</name>
-  <link href="https://bikerouter.de/#map=19/50.57857/12.99949/standard&amp;lonlats=12.997929,50.579439;12.998556,50.578168&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=18/50.57941/12.99812/standard&amp;lonlats=12.997928,50.579438;12.998545,50.578127&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.579438" lon="12.997928"><ele>544</ele></trkpt>
-   <trkpt lat="50.579388" lon="12.997954"><ele>544.25</ele></trkpt>
-   <trkpt lat="50.579036" lon="12.998145"><ele>543.75</ele></trkpt>
-   <trkpt lat="50.579017" lon="12.998155"><ele>543.5</ele></trkpt>
-   <trkpt lat="50.578372" lon="12.998494"><ele>542.75</ele></trkpt>
-   <trkpt lat="50.57817" lon="12.998559"><ele>543.5</ele></trkpt>
-   <trkpt lat="50.578168" lon="12.998559"><ele>543.5</ele></trkpt>
+   <trkpt lat="50.579436" lon="12.997918"><ele>544</ele></trkpt>
+   <trkpt lat="50.579389" lon="12.997943"><ele>544.25</ele></trkpt>
+   <trkpt lat="50.579035" lon="12.998126"><ele>543.5</ele></trkpt>
+   <trkpt lat="50.579011" lon="12.998138"><ele>543.5</ele></trkpt>
+   <trkpt lat="50.578352" lon="12.99849"><ele>542.5</ele></trkpt>
+   <trkpt lat="50.578129" lon="12.998549"><ele>543.25</ele></trkpt>
+   <trkpt lat="50.578127" lon="12.998549"><ele>543.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
