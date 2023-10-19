@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 155 filtered ascend = 7 plain-ascend = 8 cost=155 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Haus Scheppen - Haus Scheppen Weiche 9</name>
+  <link href="https://bikerouter.de/#map=19/51.39562/7.05160/standard&amp;lonlats=7.049259,51.396764;7.050865,51.39581&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.396761" lon="7.049257"><ele>65.25</ele></trkpt>
+   <trkpt lat="51.396731" lon="7.049353"><ele>66</ele></trkpt>
+   <trkpt lat="51.396587" lon="7.049679"><ele>68.25</ele></trkpt>
+   <trkpt lat="51.396419" lon="7.050023"><ele>70</ele></trkpt>
+   <trkpt lat="51.396258" lon="7.050299"><ele>69.75</ele></trkpt>
+   <trkpt lat="51.396053" lon="7.050579"><ele>70.75</ele></trkpt>
+   <trkpt lat="51.395912" lon="7.050753"><ele>72</ele></trkpt>
+   <trkpt lat="51.39581" lon="7.050865"><ele>72.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Kupferdreh - Kupferdreh Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/51.39307/7.07745/standard&amp;lonlats=7.078104,51.393209;7.077752,51.392992&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.393209" lon="7.078102"><ele>56</ele></trkpt>
+   <trkpt lat="51.39302" lon="7.077801"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.392991" lon="7.077754"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.39299" lon="7.077752"><ele>55.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

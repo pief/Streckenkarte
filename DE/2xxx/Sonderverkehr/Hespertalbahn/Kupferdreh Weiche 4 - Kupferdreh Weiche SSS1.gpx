@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 0 plain-ascend = -1 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Kupferdreh Weiche 4 - Kupferdreh Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/51.39292/7.07802/standard&amp;lonlats=7.077752,51.392992;7.077341,51.392727;7.076046,51.391109&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.39299" lon="7.077752"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.392729" lon="7.077335"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.392677" lon="7.07725"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.392648" lon="7.077205"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.392622" lon="7.077166"><ele>55.5</ele></trkpt>
+   <trkpt lat="51.392433" lon="7.076903"><ele>55.75</ele></trkpt>
+   <trkpt lat="51.392291" lon="7.076733"><ele>55.5</ele></trkpt>
+   <trkpt lat="51.39221" lon="7.07665"><ele>55.5</ele></trkpt>
+   <trkpt lat="51.392015" lon="7.076486"><ele>54.75</ele></trkpt>
+   <trkpt lat="51.39183" lon="7.076366"><ele>54.25</ele></trkpt>
+   <trkpt lat="51.391107" lon="7.076044"><ele>52.75</ele></trkpt>
+   <trkpt lat="51.391108" lon="7.076045"><ele>53</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
