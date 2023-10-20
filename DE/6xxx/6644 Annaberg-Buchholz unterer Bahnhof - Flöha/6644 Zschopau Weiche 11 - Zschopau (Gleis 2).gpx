@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 210 filtered ascend = 3 plain-ascend = 2 cost=211 energy=0.0kwh time=17s -->
+<!-- track-length = 214 filtered ascend = 3 plain-ascend = 2 cost=214 energy=0.0kwh time=17s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6644 Zschopau Weiche 11 - Zschopau (Gleis 2)</name>
-  <link href="https://bikerouter.de/#map=19/50.74338/13.06707/standard&amp;lonlats=13.068669,50.743915;13.065885,50.743264&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.74424/13.06828/standard&amp;lonlats=13.068691,50.743927;13.065872,50.743265&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.743913" lon="13.068668"><ele>334.75</ele></trkpt>
-   <trkpt lat="50.74383" lon="13.06832"><ele>336.25</ele></trkpt>
-   <trkpt lat="50.743683" lon="13.067472"><ele>337.25</ele></trkpt>
+   <trkpt lat="50.743923" lon="13.068692"><ele>334.5</ele></trkpt>
+   <trkpt lat="50.743922" lon="13.068688"><ele>334.75</ele></trkpt>
+   <trkpt lat="50.743759" lon="13.067935"><ele>337</ele></trkpt>
+   <trkpt lat="50.74366" lon="13.067357"><ele>337.5</ele></trkpt>
    <trkpt lat="50.743585" lon="13.066987"><ele>337.75</ele></trkpt>
-   <trkpt lat="50.743554" lon="13.066857"><ele>337.75</ele></trkpt>
+   <trkpt lat="50.743556" lon="13.066856"><ele>337.75</ele></trkpt>
    <trkpt lat="50.743464" lon="13.066498"><ele>337.5</ele></trkpt>
    <trkpt lat="50.743371" lon="13.066181"><ele>336.5</ele></trkpt>
-   <trkpt lat="50.74327" lon="13.065878"><ele>336.5</ele></trkpt>
+   <trkpt lat="50.743268" lon="13.065873"><ele>336.5</ele></trkpt>
+   <trkpt lat="50.743266" lon="13.065869"><ele>336.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

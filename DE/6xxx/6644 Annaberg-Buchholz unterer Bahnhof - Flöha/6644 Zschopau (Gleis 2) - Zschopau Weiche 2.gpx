@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 525 filtered ascend = 6 plain-ascend = 7 cost=525 energy=0.0kwh time=42s -->
+<!-- track-length = 540 filtered ascend = 5 plain-ascend = 6 cost=540 energy=0.0kwh time=43s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6644 Zschopau (Gleis 2) - Zschopau Weiche 2</name>
-  <link href="https://bikerouter.de/#map=19/50.73972/13.06319/standard&amp;lonlats=13.065885,50.743264;13.062135,50.739509&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.74260/13.06665/standard&amp;lonlats=13.065872,50.743265;13.062116,50.739371&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.74327" lon="13.065878"><ele>336.5</ele></trkpt>
-   <trkpt lat="50.743268" lon="13.065873"><ele>336.5</ele></trkpt>
+   <trkpt lat="50.743266" lon="13.065869"><ele>336.5</ele></trkpt>
    <trkpt lat="50.743156" lon="13.065573"><ele>336.75</ele></trkpt>
-   <trkpt lat="50.743035" lon="13.065284"><ele>337.25</ele></trkpt>
-   <trkpt lat="50.742854" lon="13.064891"><ele>338</ele></trkpt>
-   <trkpt lat="50.742773" lon="13.064744"><ele>338.5</ele></trkpt>
-   <trkpt lat="50.742615" lon="13.064466"><ele>339.25</ele></trkpt>
-   <trkpt lat="50.741787" lon="13.063269"><ele>340.75</ele></trkpt>
-   <trkpt lat="50.741475" lon="13.062847"><ele>341</ele></trkpt>
-   <trkpt lat="50.741252" lon="13.062624"><ele>340</ele></trkpt>
-   <trkpt lat="50.741" lon="13.062423"><ele>338.5</ele></trkpt>
-   <trkpt lat="50.740706" lon="13.062252"><ele>337.25</ele></trkpt>
-   <trkpt lat="50.740394" lon="13.062146"><ele>338</ele></trkpt>
-   <trkpt lat="50.740076" lon="13.062117"><ele>339.25</ele></trkpt>
-   <trkpt lat="50.739512" lon="13.062134"><ele>341.75</ele></trkpt>
-   <trkpt lat="50.739508" lon="13.062133"><ele>343.25</ele></trkpt>
+   <trkpt lat="50.743033" lon="13.065282"><ele>337.25</ele></trkpt>
+   <trkpt lat="50.74285" lon="13.064895"><ele>338</ele></trkpt>
+   <trkpt lat="50.742772" lon="13.064745"><ele>338.5</ele></trkpt>
+   <trkpt lat="50.74261" lon="13.064461"><ele>339.25</ele></trkpt>
+   <trkpt lat="50.742351" lon="13.064064"><ele>340</ele></trkpt>
+   <trkpt lat="50.741976" lon="13.063523"><ele>340.25</ele></trkpt>
+   <trkpt lat="50.741562" lon="13.062951"><ele>341.25</ele></trkpt>
+   <trkpt lat="50.741358" lon="13.062715"><ele>340.5</ele></trkpt>
+   <trkpt lat="50.741248" lon="13.062605"><ele>340</ele></trkpt>
+   <trkpt lat="50.741141" lon="13.06251"><ele>339.25</ele></trkpt>
+   <trkpt lat="50.741033" lon="13.062429"><ele>338.75</ele></trkpt>
+   <trkpt lat="50.740825" lon="13.0623"><ele>337.25</ele></trkpt>
+   <trkpt lat="50.740707" lon="13.062242"><ele>337.25</ele></trkpt>
+   <trkpt lat="50.74052" lon="13.062174"><ele>337.5</ele></trkpt>
+   <trkpt lat="50.740389" lon="13.062138"><ele>338</ele></trkpt>
+   <trkpt lat="50.740159" lon="13.062105"><ele>338.75</ele></trkpt>
+   <trkpt lat="50.739935" lon="13.062099"><ele>339.75</ele></trkpt>
+   <trkpt lat="50.739371" lon="13.062118"><ele>342.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

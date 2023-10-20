@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 201 filtered ascend = 1 plain-ascend = 1 cost=201 energy=0.0kwh time=16s -->
+<!-- track-length = 197 filtered ascend = 1 plain-ascend = 1 cost=197 energy=0.0kwh time=16s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2023.20">
  <trk>
   <name>6644 Hennersdorf (Sachsen) Weiche 11 - Hennersdorf (Sachsen) (Gleis 2)</name>
-  <link href="https://bikerouter.de/#map=19/50.79160/13.07097/standard&amp;lonlats=13.070598,50.793595;13.070746,50.791845&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/50.79337/13.07212/standard&amp;lonlats=13.070571,50.793565;13.070748,50.791849&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="50.793594" lon="13.070594"><ele>297.75</ele></trkpt>
-   <trkpt lat="50.793596" lon="13.070595"><ele>298</ele></trkpt>
-   <trkpt lat="50.793293" lon="13.070472"><ele>296.25</ele></trkpt>
-   <trkpt lat="50.793037" lon="13.070404"><ele>296.5</ele></trkpt>
-   <trkpt lat="50.792766" lon="13.070394"><ele>297</ele></trkpt>
-   <trkpt lat="50.792615" lon="13.070411"><ele>297.5</ele></trkpt>
-   <trkpt lat="50.79237" lon="13.070476"><ele>298</ele></trkpt>
-   <trkpt lat="50.792159" lon="13.070563"><ele>298.25</ele></trkpt>
-   <trkpt lat="50.791938" lon="13.070689"><ele>298.5</ele></trkpt>
-   <trkpt lat="50.791846" lon="13.07075"><ele>299</ele></trkpt>
+   <trkpt lat="50.793563" lon="13.070573"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.793562" lon="13.070572"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.793163" lon="13.070426"><ele>296.25</ele></trkpt>
+   <trkpt lat="50.792913" lon="13.070387"><ele>296.75</ele></trkpt>
+   <trkpt lat="50.79279" lon="13.070388"><ele>297</ele></trkpt>
+   <trkpt lat="50.792565" lon="13.070419"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.792369" lon="13.070476"><ele>298</ele></trkpt>
+   <trkpt lat="50.79216" lon="13.070563"><ele>298.25</ele></trkpt>
+   <trkpt lat="50.791938" lon="13.070691"><ele>298.5</ele></trkpt>
+   <trkpt lat="50.791849" lon="13.070751"><ele>299</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
