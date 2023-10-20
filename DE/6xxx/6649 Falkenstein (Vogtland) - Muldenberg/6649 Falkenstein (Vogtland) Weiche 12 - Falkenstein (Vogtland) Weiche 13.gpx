@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 2 plain-ascend = 3 cost=49 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6649 Falkenstein (Vogtland) Weiche 12 - Falkenstein (Vogtland) Weiche 13</name>
+  <link href="https://bikerouter.de/#map=18/50.47827/12.35668/standard&amp;lonlats=12.355365,50.477839;12.354705,50.477739&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.477836" lon="12.355364"><ele>549.5</ele></trkpt>
+   <trkpt lat="50.477735" lon="12.354713"><ele>550.25</ele></trkpt>
+   <trkpt lat="50.477733" lon="12.354706"><ele>552.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
