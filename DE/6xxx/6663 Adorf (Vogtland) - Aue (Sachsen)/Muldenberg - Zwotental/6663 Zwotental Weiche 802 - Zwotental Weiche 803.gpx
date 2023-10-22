@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = -1 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6663 Zwotental Weiche 802 - Zwotental Weiche 803</name>
+  <link href="https://bikerouter.de/#map=17/50.35945/12.36164/standard&amp;lonlats=12.364032,50.360247;12.364074,50.360478;12.363908,50.359918&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.360246" lon="12.364031"><ele>678.75</ele></trkpt>
+   <trkpt lat="50.360251" lon="12.364033"><ele>679</ele></trkpt>
+   <trkpt lat="50.360478" lon="12.364074"><ele>679.25</ele></trkpt>
+   <trkpt lat="50.360251" lon="12.364033"><ele>679</ele></trkpt>
+   <trkpt lat="50.360132" lon="12.364002"><ele>678.75</ele></trkpt>
+   <trkpt lat="50.359919" lon="12.363912"><ele>678.25</ele></trkpt>
+   <trkpt lat="50.359916" lon="12.36391"><ele>676.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
