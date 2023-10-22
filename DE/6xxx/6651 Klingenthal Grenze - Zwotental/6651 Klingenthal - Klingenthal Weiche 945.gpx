@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 342 filtered ascend = 0 plain-ascend = 0 cost=342 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6651 Klingenthal - Klingenthal Weiche 945</name>
+  <link href="https://bikerouter.de/#map=19/50.35748/12.46175/standard&amp;lonlats=12.462654,50.35715;12.457868,50.357384&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.357151" lon="12.462654"><ele>558</ele></trkpt>
+   <trkpt lat="50.357359" lon="12.459916"><ele>554</ele></trkpt>
+   <trkpt lat="50.357383" lon="12.459505"><ele>554.5</ele></trkpt>
+   <trkpt lat="50.35739" lon="12.459131"><ele>555</ele></trkpt>
+   <trkpt lat="50.357381" lon="12.457874"><ele>555.75</ele></trkpt>
+   <trkpt lat="50.35738" lon="12.457867"><ele>556.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

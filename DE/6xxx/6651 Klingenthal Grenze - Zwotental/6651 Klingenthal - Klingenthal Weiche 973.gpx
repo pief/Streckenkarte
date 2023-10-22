@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 217 filtered ascend = 1 plain-ascend = -8 cost=217 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6651 Klingenthal - Klingenthal Weiche 973</name>
+  <link href="https://bikerouter.de/#map=19/50.35619/12.46499/standard&amp;lonlats=12.462654,50.35715;12.465102,50.356142&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.357151" lon="12.462654"><ele>558</ele></trkpt>
+   <trkpt lat="50.357151" lon="12.462655"><ele>558.25</ele></trkpt>
+   <trkpt lat="50.357106" lon="12.463105"><ele>559</ele></trkpt>
+   <trkpt lat="50.357068" lon="12.463348"><ele>559</ele></trkpt>
+   <trkpt lat="50.356981" lon="12.463718"><ele>558</ele></trkpt>
+   <trkpt lat="50.356906" lon="12.463947"><ele>557.25</ele></trkpt>
+   <trkpt lat="50.356864" lon="12.464056"><ele>556.75</ele></trkpt>
+   <trkpt lat="50.356815" lon="12.464172"><ele>556.25</ele></trkpt>
+   <trkpt lat="50.356704" lon="12.464395"><ele>555</ele></trkpt>
+   <trkpt lat="50.356588" lon="12.464585"><ele>554.25</ele></trkpt>
+   <trkpt lat="50.356457" lon="12.464762"><ele>553.5</ele></trkpt>
+   <trkpt lat="50.356144" lon="12.465103"><ele>550.75</ele></trkpt>
+   <trkpt lat="50.356142" lon="12.465104"><ele>549.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
