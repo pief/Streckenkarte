@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 0 plain-ascend = 0 cost=222 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Taubstummengasse (Gleis 2) - Üst Taubstummengasse Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/48.19299/16.37033/standard&amp;lonlats=16.370359,48.193672;16.37075,48.192707&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.193672" lon="16.370359"/>
+   <trkpt lat="48.193155" lon="16.370601"/>
+   <trkpt lat="48.192707" lon="16.37075"/>
+  </trkseg>
+ </trk>
+</gpx>

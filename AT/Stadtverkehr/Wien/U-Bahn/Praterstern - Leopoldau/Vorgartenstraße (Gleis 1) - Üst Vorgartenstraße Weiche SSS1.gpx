@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 163 filtered ascend = 0 plain-ascend = 0 cost=326 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Vorgartenstraße (Gleis 1) - Üst Vorgartenstraße Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/48.22443/16.40269/standard&amp;lonlats=16.401066,48.223619;16.402776,48.224537&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.223619" lon="16.401064"/>
+   <trkpt lat="48.223623" lon="16.401072"/>
+   <trkpt lat="48.224" lon="16.401746"/>
+   <trkpt lat="48.224372" lon="16.402473"/>
+   <trkpt lat="48.224536" lon="16.402775"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=64 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Üst Vorgartenstraße Weiche SSS1 - Üst Vorgartenstraße Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/48.22492/16.40308/standard&amp;lonlats=16.402776,48.224537;16.403092,48.224714&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.224536" lon="16.402775"/>
+   <trkpt lat="48.224538" lon="16.402778"/>
+   <trkpt lat="48.22471" lon="16.403093"/>
+   <trkpt lat="48.224711" lon="16.403094"/>
+  </trkseg>
+ </trk>
+</gpx>
