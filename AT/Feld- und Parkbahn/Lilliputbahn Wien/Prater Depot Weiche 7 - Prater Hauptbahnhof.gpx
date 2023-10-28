@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 133 filtered ascend = 1 plain-ascend = 1 cost=133 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Prater Depot Weiche 7 - Prater Hauptbahnhof</name>
+  <link href="https://bikerouter.de/#map=19/48.21553/16.39796/standard&amp;lonlats=16.397513,48.215691;16.396672,48.215425">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.215691" lon="16.397513"><ele>158.25</ele></trkpt>
+   <trkpt lat="48.215725" lon="16.39748"><ele>158.25</ele></trkpt>
+   <trkpt lat="48.215829" lon="16.397378"><ele>158.25</ele></trkpt>
+   <trkpt lat="48.21588" lon="16.397329"><ele>158.25</ele></trkpt>
+   <trkpt lat="48.215926" lon="16.397271"><ele>158.5</ele></trkpt>
+   <trkpt lat="48.21595" lon="16.397229"><ele>158.5</ele></trkpt>
+   <trkpt lat="48.215984" lon="16.397151"><ele>158.75</ele></trkpt>
+   <trkpt lat="48.216002" lon="16.397085"><ele>158.75</ele></trkpt>
+   <trkpt lat="48.216011" lon="16.397007"><ele>159</ele></trkpt>
+   <trkpt lat="48.216008" lon="16.396948"><ele>159</ele></trkpt>
+   <trkpt lat="48.216005" lon="16.396923"><ele>159</ele></trkpt>
+   <trkpt lat="48.215983" lon="16.396848"><ele>159.25</ele></trkpt>
+   <trkpt lat="48.215934" lon="16.396762"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.215896" lon="16.396732"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.215854" lon="16.396717"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.215435" lon="16.396673"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.215425" lon="16.396672"><ele>159.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
