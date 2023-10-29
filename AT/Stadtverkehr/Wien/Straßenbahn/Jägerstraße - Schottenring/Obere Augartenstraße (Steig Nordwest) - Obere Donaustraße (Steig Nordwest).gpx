@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 435 filtered ascend = 4 plain-ascend = 0 cost=870 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Obere Augartenstraße (Steig Nordwest) - Obere Donaustraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.21958/16.37174/standard&amp;lonlats=16.374963,48.222554;16.371186,48.219565&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.222552" lon="16.374963"><ele>164.5</ele></trkpt>
+   <trkpt lat="48.221725" lon="16.37392"><ele>168.75</ele></trkpt>
+   <trkpt lat="48.220714" lon="16.372643"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.219569" lon="16.371189"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.219564" lon="16.371184"><ele>164.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

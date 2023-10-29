@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 5 plain-ascend = 4 cost=590 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Jägerstraße (Steig West-Nord) - Wexstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/48.23590/16.36686/standard&amp;lonlats=16.369715,48.236214;16.365775,48.23599&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.236212" lon="16.369714"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.236139" lon="16.369239"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.236087" lon="16.36875"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.236036" lon="16.368067"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.236022" lon="16.367772"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.236014" lon="16.367366"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.236013" lon="16.367322"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.236012" lon="16.367271"><ele>164</ele></trkpt>
+   <trkpt lat="48.236012" lon="16.367267"><ele>164</ele></trkpt>
+   <trkpt lat="48.236011" lon="16.367182"><ele>164.5</ele></trkpt>
+   <trkpt lat="48.236005" lon="16.366863"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.236004" lon="16.36676"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.236004" lon="16.366651"><ele>167.75</ele></trkpt>
+   <trkpt lat="48.236" lon="16.366439"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.235999" lon="16.366368"><ele>167</ele></trkpt>
+   <trkpt lat="48.235993" lon="16.366067"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.235989" lon="16.365877"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.23599" lon="16.365781"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.235989" lon="16.365774"><ele>166</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

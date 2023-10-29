@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 1 plain-ascend = 2 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Jägerstraße Weiche OOO1 - Jägerstraße Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=17/48.23485/16.36942/standard&amp;lonlats=16.370745,48.236399;16.369937,48.236254&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.236399" lon="16.370744"><ele>160.75</ele></trkpt>
+   <trkpt lat="48.236371" lon="16.370654"><ele>160.75</ele></trkpt>
+   <trkpt lat="48.236337" lon="16.370462"><ele>161</ele></trkpt>
+   <trkpt lat="48.236333" lon="16.370439"><ele>161.25</ele></trkpt>
+   <trkpt lat="48.23633" lon="16.370422"><ele>161.25</ele></trkpt>
+   <trkpt lat="48.236283" lon="16.370138"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.236271" lon="16.370067"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.236252" lon="16.369946"><ele>162</ele></trkpt>
+   <trkpt lat="48.23625" lon="16.369937"><ele>162.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 2 plain-ascend = 1 cost=530 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Klosterneuburger Straße/Wallensteinstraße Weiche NNN2 - Gaußplatz (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.22678/16.36907/standard&amp;lonlats=16.368198,48.228849;16.369676,48.226687&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.228849" lon="16.368198"><ele>165.25</ele></trkpt>
+   <trkpt lat="48.228848" lon="16.368199"><ele>165.25</ele></trkpt>
+   <trkpt lat="48.228764" lon="16.368257"><ele>165</ele></trkpt>
+   <trkpt lat="48.228725" lon="16.368284"><ele>165</ele></trkpt>
+   <trkpt lat="48.228691" lon="16.368307"><ele>165</ele></trkpt>
+   <trkpt lat="48.228657" lon="16.368331"><ele>165</ele></trkpt>
+   <trkpt lat="48.228631" lon="16.368348"><ele>165</ele></trkpt>
+   <trkpt lat="48.228588" lon="16.368378"><ele>165</ele></trkpt>
+   <trkpt lat="48.228539" lon="16.368411"><ele>165</ele></trkpt>
+   <trkpt lat="48.228136" lon="16.368687"><ele>167</ele></trkpt>
+   <trkpt lat="48.22812" lon="16.368698"><ele>167</ele></trkpt>
+   <trkpt lat="48.226855" lon="16.369565"><ele>168</ele></trkpt>
+   <trkpt lat="48.226687" lon="16.369679"><ele>166.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
