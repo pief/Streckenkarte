@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 341 filtered ascend = 1 plain-ascend = 1 cost=682 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schottenring (Steig Südwest-West) - Salztorbrücke (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/48.21413/16.37376/standard&amp;lonlats=16.371189,48.216615;16.373813,48.214106&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.216617" lon="16.371192"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.216312" lon="16.371571"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.215859" lon="16.372058"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.215352" lon="16.372599"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.214462" lon="16.373544"><ele>170.75</ele></trkpt>
+   <trkpt lat="48.214113" lon="16.373812"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.214107" lon="16.373816"><ele>170.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
