@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 464 filtered ascend = 10 plain-ascend = 6 cost=928 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Unteres Belvedere (Steig Nordwest) - Rennweg (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/48.19439/16.38655/standard&amp;lonlats=16.380911,48.196802;16.386185,48.194597&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.196803" lon="16.380912"><ele>178</ele></trkpt>
+   <trkpt lat="48.196751" lon="16.381022"><ele>178.75</ele></trkpt>
+   <trkpt lat="48.196033" lon="16.382509"><ele>184</ele></trkpt>
+   <trkpt lat="48.195696" lon="16.383258"><ele>184</ele></trkpt>
+   <trkpt lat="48.195378" lon="16.384038"><ele>186</ele></trkpt>
+   <trkpt lat="48.195335" lon="16.384144"><ele>186.5</ele></trkpt>
+   <trkpt lat="48.195304" lon="16.384223"><ele>186.5</ele></trkpt>
+   <trkpt lat="48.195016" lon="16.384973"><ele>188.75</ele></trkpt>
+   <trkpt lat="48.194911" lon="16.385256"><ele>187.75</ele></trkpt>
+   <trkpt lat="48.194844" lon="16.385456"><ele>187</ele></trkpt>
+   <trkpt lat="48.194824" lon="16.385514"><ele>186.75</ele></trkpt>
+   <trkpt lat="48.194603" lon="16.386183"><ele>184</ele></trkpt>
+   <trkpt lat="48.194601" lon="16.386188"><ele>183.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

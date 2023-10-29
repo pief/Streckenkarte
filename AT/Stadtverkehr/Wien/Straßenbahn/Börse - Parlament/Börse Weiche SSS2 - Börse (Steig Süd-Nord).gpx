@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 3 plain-ascend = 3 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Börse Weiche SSS2 - Börse (Steig Süd-Nord)</name>
+  <link href="https://bikerouter.de/#map=19/48.21558/16.36609/standard&amp;lonlats=16.366448,48.215832;16.365779,48.215525&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.215832" lon="16.366446"><ele>179.25</ele></trkpt>
+   <trkpt lat="48.215526" lon="16.365782"><ele>182.25</ele></trkpt>
+   <trkpt lat="48.215524" lon="16.365778"><ele>182.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

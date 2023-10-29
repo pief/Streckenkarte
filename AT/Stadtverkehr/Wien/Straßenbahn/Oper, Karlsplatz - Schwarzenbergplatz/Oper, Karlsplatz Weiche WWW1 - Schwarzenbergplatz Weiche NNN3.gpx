@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 374 filtered ascend = 3 plain-ascend = 2 cost=748 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Oper, Karlsplatz Weiche WWW1 - Schwarzenbergplatz Weiche NNN3</name>
+  <link href="https://bikerouter.de/#map=18/48.20164/16.37254/standard&amp;lonlats=16.369084,48.202408;16.373867,48.201454&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.202408" lon="16.369084"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.202407" lon="16.36909"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.202384" lon="16.369198"><ele>182</ele></trkpt>
+   <trkpt lat="48.202332" lon="16.369428"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.20229" lon="16.369623"><ele>183.25</ele></trkpt>
+   <trkpt lat="48.202262" lon="16.36974"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.2019" lon="16.371361"><ele>185</ele></trkpt>
+   <trkpt lat="48.201875" lon="16.37147"><ele>184.25</ele></trkpt>
+   <trkpt lat="48.201873" lon="16.371479"><ele>184.25</ele></trkpt>
+   <trkpt lat="48.201858" lon="16.371547"><ele>183.75</ele></trkpt>
+   <trkpt lat="48.201566" lon="16.372848"><ele>185</ele></trkpt>
+   <trkpt lat="48.201415" lon="16.373527"><ele>185</ele></trkpt>
+   <trkpt lat="48.201413" lon="16.373656"><ele>184.5</ele></trkpt>
+   <trkpt lat="48.20142" lon="16.373728"><ele>184.25</ele></trkpt>
+   <trkpt lat="48.201452" lon="16.373866"><ele>183.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

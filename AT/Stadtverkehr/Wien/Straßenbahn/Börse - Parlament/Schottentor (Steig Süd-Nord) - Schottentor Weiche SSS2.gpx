@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 1 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schottentor (Steig Süd-Nord) - Schottentor Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/48.21330/16.36133/standard&amp;lonlats=16.361988,48.213814;16.36147,48.21348&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.213812" lon="16.361988"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.213675" lon="16.361679"><ele>181</ele></trkpt>
+   <trkpt lat="48.213632" lon="16.361605"><ele>181.5</ele></trkpt>
+   <trkpt lat="48.213596" lon="16.361556"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.213555" lon="16.361517"><ele>182</ele></trkpt>
+   <trkpt lat="48.21348" lon="16.36147"><ele>182.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

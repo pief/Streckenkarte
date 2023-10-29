@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 475 filtered ascend = 0 plain-ascend = -7 cost=950 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Burgring (Steig West) - Oper, Karlsplatz (Steig West-Süd)</name>
+  <link href="https://bikerouter.de/#map=19/48.20224/16.36915/standard&amp;lonlats=16.363371,48.204125;16.369083,48.202406&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.204125" lon="16.363371"><ele>189.5</ele></trkpt>
+   <trkpt lat="48.204124" lon="16.363373"><ele>189.75</ele></trkpt>
+   <trkpt lat="48.203973" lon="16.363572"><ele>188.75</ele></trkpt>
+   <trkpt lat="48.203905" lon="16.363662"><ele>188.5</ele></trkpt>
+   <trkpt lat="48.203832" lon="16.363759"><ele>188</ele></trkpt>
+   <trkpt lat="48.203593" lon="16.364079"><ele>186.5</ele></trkpt>
+   <trkpt lat="48.203557" lon="16.364137"><ele>186.25</ele></trkpt>
+   <trkpt lat="48.203514" lon="16.364226"><ele>186</ele></trkpt>
+   <trkpt lat="48.203485" lon="16.364308"><ele>185.5</ele></trkpt>
+   <trkpt lat="48.203406" lon="16.364655"><ele>183.75</ele></trkpt>
+   <trkpt lat="48.20269" lon="16.367846"><ele>184</ele></trkpt>
+   <trkpt lat="48.202665" lon="16.367954"><ele>183.25</ele></trkpt>
+   <trkpt lat="48.20264" lon="16.368067"><ele>182.5</ele></trkpt>
+   <trkpt lat="48.202632" lon="16.368103"><ele>182.25</ele></trkpt>
+   <trkpt lat="48.202408" lon="16.369084"><ele>181.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

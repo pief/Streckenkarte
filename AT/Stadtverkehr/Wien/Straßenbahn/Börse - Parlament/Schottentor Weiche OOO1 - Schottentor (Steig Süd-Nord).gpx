@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = -3 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schottentor Weiche OOO1 - Schottentor (Steig Süd-Nord)</name>
+  <link href="https://bikerouter.de/#map=19/48.21403/16.36188/standard&amp;lonlats=16.362768,48.214175;16.361988,48.213814&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.214175" lon="16.362766"><ele>185.25</ele></trkpt>
+   <trkpt lat="48.214037" lon="16.362465"><ele>184.5</ele></trkpt>
+   <trkpt lat="48.214024" lon="16.362436"><ele>184.25</ele></trkpt>
+   <trkpt lat="48.214015" lon="16.362418"><ele>184</ele></trkpt>
+   <trkpt lat="48.213968" lon="16.362318"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.213814" lon="16.361991"><ele>182</ele></trkpt>
+   <trkpt lat="48.213812" lon="16.361988"><ele>181</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
