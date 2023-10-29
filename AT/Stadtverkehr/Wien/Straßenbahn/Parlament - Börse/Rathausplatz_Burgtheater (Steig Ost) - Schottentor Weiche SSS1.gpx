@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 395 filtered ascend = 1 plain-ascend = 1 cost=790 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Rathausplatz/Burgtheater (Steig Ost) - Schottentor Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/48.21200/16.36234/standard&amp;lonlats=16.360674,48.210294;16.36199,48.213662&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.210291" lon="16.360681"><ele>181.5</ele></trkpt>
+   <trkpt lat="48.210293" lon="16.360682"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.210508" lon="16.360749"><ele>180</ele></trkpt>
+   <trkpt lat="48.211113" lon="16.360925"><ele>178</ele></trkpt>
+   <trkpt lat="48.2122" lon="16.361249"><ele>183</ele></trkpt>
+   <trkpt lat="48.212471" lon="16.361326"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.212763" lon="16.361412"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.213387" lon="16.361598"><ele>182.25</ele></trkpt>
+   <trkpt lat="48.213472" lon="16.361651"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.213524" lon="16.36171"><ele>181.5</ele></trkpt>
+   <trkpt lat="48.213581" lon="16.361813"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.213661" lon="16.361989"><ele>182</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
