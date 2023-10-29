@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 369 filtered ascend = 6 plain-ascend = 4 cost=738 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Taborstraße (Steig West) - Karmeliterplatz (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/48.21591/16.38028/standard&amp;lonlats=16.38097,48.219283;16.380476,48.216004&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.219282" lon="16.380972"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.219147" lon="16.380905"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.218987" lon="16.380828"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.218883" lon="16.380797"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.218837" lon="16.380788"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.218578" lon="16.380775"><ele>172</ele></trkpt>
+   <trkpt lat="48.218441" lon="16.380778"><ele>173</ele></trkpt>
+   <trkpt lat="48.218203" lon="16.380791"><ele>173.5</ele></trkpt>
+   <trkpt lat="48.217968" lon="16.380787"><ele>172.75</ele></trkpt>
+   <trkpt lat="48.217213" lon="16.380787"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.217013" lon="16.380784"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.216724" lon="16.38076"><ele>173</ele></trkpt>
+   <trkpt lat="48.216491" lon="16.380701"><ele>172.75</ele></trkpt>
+   <trkpt lat="48.216304" lon="16.380627"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.216003" lon="16.380479"><ele>170.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

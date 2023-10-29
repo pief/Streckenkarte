@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 5 plain-ascend = 5 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Julius-Raab-Platz Weiche WWW1 - Julius-Raab-Platz Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/48.21080/16.38268/standard&amp;lonlats=16.382056,48.211267;16.382662,48.210826&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.211265" lon="16.382055"><ele>170.5</ele></trkpt>
+   <trkpt lat="48.211265" lon="16.382062"><ele>170.5</ele></trkpt>
+   <trkpt lat="48.211243" lon="16.382217"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.211218" lon="16.382303"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.211203" lon="16.38234"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.211183" lon="16.382386"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.211123" lon="16.382488"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.211051" lon="16.382575"><ele>171</ele></trkpt>
+   <trkpt lat="48.211004" lon="16.382617"><ele>172</ele></trkpt>
+   <trkpt lat="48.21092" lon="16.382663"><ele>174</ele></trkpt>
+   <trkpt lat="48.210848" lon="16.382667"><ele>175.5</ele></trkpt>
+   <trkpt lat="48.210826" lon="16.382665"><ele>175.75</ele></trkpt>
+   <trkpt lat="48.210824" lon="16.382664"><ele>175.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
