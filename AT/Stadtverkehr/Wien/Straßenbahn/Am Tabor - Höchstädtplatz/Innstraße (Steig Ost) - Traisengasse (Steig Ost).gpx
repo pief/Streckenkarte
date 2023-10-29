@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 479 filtered ascend = 6 plain-ascend = 0 cost=958 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Innstraße (Steig Ost) - Traisengasse (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/48.23384/16.38324/standard&amp;lonlats=16.387063,48.230298;16.383189,48.233734&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.2303" lon="16.387067"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.230444" lon="16.386907"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.230507" lon="16.386836"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.230595" lon="16.386738"><ele>163.5</ele></trkpt>
+   <trkpt lat="48.231984" lon="16.385168"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.233014" lon="16.384009"><ele>164.5</ele></trkpt>
+   <trkpt lat="48.233409" lon="16.383564"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.233469" lon="16.383495"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.233547" lon="16.383408"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.233735" lon="16.383193"><ele>164</ele></trkpt>
+   <trkpt lat="48.233735" lon="16.383192"><ele>163</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

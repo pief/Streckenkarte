@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = -2 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Heinestraße Weiche SSS2 - Heinestraße Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/48.22248/16.38284/standard&amp;lonlats=16.382225,48.221964;16.382445,48.22245&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.221962" lon="16.382228"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.221965" lon="16.382229"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.222102" lon="16.38229"><ele>169</ele></trkpt>
+   <trkpt lat="48.222115" lon="16.382295"><ele>168.75</ele></trkpt>
+   <trkpt lat="48.222182" lon="16.38232"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.222304" lon="16.382377"><ele>167.75</ele></trkpt>
+   <trkpt lat="48.222332" lon="16.382391"><ele>167.75</ele></trkpt>
+   <trkpt lat="48.222396" lon="16.38242"><ele>167.5</ele></trkpt>
+   <trkpt lat="48.222448" lon="16.382445"><ele>167</ele></trkpt>
+   <trkpt lat="48.222449" lon="16.382445"><ele>167</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
