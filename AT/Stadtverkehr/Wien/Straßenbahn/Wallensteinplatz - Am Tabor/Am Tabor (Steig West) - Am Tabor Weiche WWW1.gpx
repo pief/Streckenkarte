@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 1 plain-ascend = 2 cost=64 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Am Tabor (Steig West) - Am Tabor Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/48.22509/16.38356/standard&amp;lonlats=16.383064,48.225543;16.38326,48.225286">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.225542" lon="16.383064"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.225539" lon="16.383067"><ele>165</ele></trkpt>
+   <trkpt lat="48.225337" lon="16.383223"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.225319" lon="16.383236"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.225286" lon="16.383261"><ele>166.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
