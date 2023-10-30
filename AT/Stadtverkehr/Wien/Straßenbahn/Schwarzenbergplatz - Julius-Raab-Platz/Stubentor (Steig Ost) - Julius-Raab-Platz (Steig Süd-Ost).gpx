@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 450 filtered ascend = 6 plain-ascend = 5 cost=900 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Stubentor (Steig Ost) - Julius-Raab-Platz (Steig Süd-Ost)</name>
+  <link href="https://bikerouter.de/#map=19/48.21085/16.38285/standard&amp;lonlats=16.380289,48.2069;16.382741,48.210502&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.206897" lon="16.380291"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.207033" lon="16.380431"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.207071" lon="16.380469"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.207146" lon="16.380545"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.207309" lon="16.380713"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.207372" lon="16.380778"><ele>172.75</ele></trkpt>
+   <trkpt lat="48.208798" lon="16.382228"><ele>177</ele></trkpt>
+   <trkpt lat="48.208876" lon="16.382287"><ele>177</ele></trkpt>
+   <trkpt lat="48.208955" lon="16.382329"><ele>177.25</ele></trkpt>
+   <trkpt lat="48.210052" lon="16.382623"><ele>178.75</ele></trkpt>
+   <trkpt lat="48.2105" lon="16.382742"><ele>177.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 347 filtered ascend = 3 plain-ascend = 2 cost=694 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schwarzenbergplatz (Steig Nordost-Mitte) - Weihburggasse (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/48.20401/16.37809/standard&amp;lonlats=16.374798,48.201691;16.37752,48.204181&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.201689" lon="16.374797"><ele>181.25</ele></trkpt>
+   <trkpt lat="48.20169" lon="16.3748"><ele>181.25</ele></trkpt>
+   <trkpt lat="48.201712" lon="16.374885"><ele>181.25</ele></trkpt>
+   <trkpt lat="48.201757" lon="16.375005"><ele>181</ele></trkpt>
+   <trkpt lat="48.201838" lon="16.375117"><ele>181.25</ele></trkpt>
+   <trkpt lat="48.202202" lon="16.375486"><ele>180.75</ele></trkpt>
+   <trkpt lat="48.202783" lon="16.376081"><ele>179.75</ele></trkpt>
+   <trkpt lat="48.203248" lon="16.376556"><ele>178.75</ele></trkpt>
+   <trkpt lat="48.2033" lon="16.376611"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.203361" lon="16.376672"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.204181" lon="16.377515"><ele>184.75</ele></trkpt>
+   <trkpt lat="48.204181" lon="16.377516"><ele>183</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
