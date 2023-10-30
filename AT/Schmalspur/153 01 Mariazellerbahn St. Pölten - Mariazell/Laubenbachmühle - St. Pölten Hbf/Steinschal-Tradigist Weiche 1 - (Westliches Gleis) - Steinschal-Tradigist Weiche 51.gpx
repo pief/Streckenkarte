@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 0 plain-ascend = -1 cost=214 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Steinschal-Tradigist Weiche 1 - (Westliches Gleis) - Steinschal-Tradigist Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/48.04146/15.45282/standard&amp;lonlats=15.452619,48.042649;15.451828,48.040834&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.042648" lon="15.452622"><ele>359.5</ele></trkpt>
+   <trkpt lat="48.042643" lon="15.452622"><ele>359.5</ele></trkpt>
+   <trkpt lat="48.042379" lon="15.452565"><ele>358.5</ele></trkpt>
+   <trkpt lat="48.042222" lon="15.452531"><ele>358.5</ele></trkpt>
+   <trkpt lat="48.041932" lon="15.452437"><ele>358.25</ele></trkpt>
+   <trkpt lat="48.041693" lon="15.452331"><ele>358.25</ele></trkpt>
+   <trkpt lat="48.041342" lon="15.452121"><ele>357.5</ele></trkpt>
+   <trkpt lat="48.041122" lon="15.451972"><ele>357.25</ele></trkpt>
+   <trkpt lat="48.040834" lon="15.45183"><ele>357.75</ele></trkpt>
+   <trkpt lat="48.040832" lon="15.451829"><ele>357.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

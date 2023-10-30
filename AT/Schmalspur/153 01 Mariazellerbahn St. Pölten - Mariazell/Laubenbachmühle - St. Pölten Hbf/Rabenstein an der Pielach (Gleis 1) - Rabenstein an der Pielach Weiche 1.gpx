@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 7 plain-ascend = 8 cost=207 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Rabenstein an der Pielach (Gleis 1) - Rabenstein an der Pielach Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.06849/15.46856/standard&amp;lonlats=15.466121,48.068201;15.468651,48.068819&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.068201" lon="15.466119"><ele>335.25</ele></trkpt>
+   <trkpt lat="48.068202" lon="15.466123"><ele>335.25</ele></trkpt>
+   <trkpt lat="48.068368" lon="15.467207"><ele>336.75</ele></trkpt>
+   <trkpt lat="48.068396" lon="15.467382"><ele>337.5</ele></trkpt>
+   <trkpt lat="48.068459" lon="15.46784"><ele>338.25</ele></trkpt>
+   <trkpt lat="48.068484" lon="15.467983"><ele>338.5</ele></trkpt>
+   <trkpt lat="48.068545" lon="15.468187"><ele>339.25</ele></trkpt>
+   <trkpt lat="48.068583" lon="15.46828"><ele>339.75</ele></trkpt>
+   <trkpt lat="48.068642" lon="15.468393"><ele>340.5</ele></trkpt>
+   <trkpt lat="48.068749" lon="15.468553"><ele>342</ele></trkpt>
+   <trkpt lat="48.068758" lon="15.468566"><ele>342</ele></trkpt>
+   <trkpt lat="48.068793" lon="15.468617"><ele>342.5</ele></trkpt>
+   <trkpt lat="48.068817" lon="15.468653"><ele>342.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

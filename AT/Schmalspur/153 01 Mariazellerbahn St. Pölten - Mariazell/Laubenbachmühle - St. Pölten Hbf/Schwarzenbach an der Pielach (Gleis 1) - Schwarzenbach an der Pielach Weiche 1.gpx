@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 5 plain-ascend = 5 cost=110 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schwarzenbach an der Pielach (Gleis 1) - Schwarzenbach an der Pielach Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/47.99582/15.35385/standard&amp;lonlats=15.354027,47.995183;15.354137,47.996168&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.995181" lon="15.354032"><ele>440.75</ele></trkpt>
+   <trkpt lat="47.995814" lon="15.354119"><ele>446</ele></trkpt>
+   <trkpt lat="47.996167" lon="15.354129"><ele>446</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

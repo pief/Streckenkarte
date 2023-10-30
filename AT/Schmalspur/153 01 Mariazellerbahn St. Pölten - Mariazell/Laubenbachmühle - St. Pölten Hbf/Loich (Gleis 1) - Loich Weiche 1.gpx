@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = -1 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Loich (Gleis 1) - Loich Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.01178/15.39235/standard&amp;lonlats=15.391974,48.012013;15.392806,48.012173&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.012013" lon="15.391972"><ele>398.5</ele></trkpt>
+   <trkpt lat="48.012045" lon="15.392104"><ele>398.25</ele></trkpt>
+   <trkpt lat="48.012118" lon="15.392409"><ele>397</ele></trkpt>
+   <trkpt lat="48.012144" lon="15.392575"><ele>396.75</ele></trkpt>
+   <trkpt lat="48.012173" lon="15.392803"><ele>396.75</ele></trkpt>
+   <trkpt lat="48.012173" lon="15.392804"><ele>396.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

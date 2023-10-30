@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 1 plain-ascend = 1 cost=103 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Hofstetten-Grünau (Gleis 1) - Hofstetten-Grünau Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.09713/15.50863/standard&amp;lonlats=15.507593,48.096584;15.50864,48.097169&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.096583" lon="15.507592"><ele>314.25</ele></trkpt>
+   <trkpt lat="48.096586" lon="15.507597"><ele>314.25</ele></trkpt>
+   <trkpt lat="48.096846" lon="15.508061"><ele>315.25</ele></trkpt>
+   <trkpt lat="48.096853" lon="15.508075"><ele>315.25</ele></trkpt>
+   <trkpt lat="48.096955" lon="15.508257"><ele>315.5</ele></trkpt>
+   <trkpt lat="48.097032" lon="15.508393"><ele>315.5</ele></trkpt>
+   <trkpt lat="48.097169" lon="15.508637"><ele>315</ele></trkpt>
+   <trkpt lat="48.097169" lon="15.508638"><ele>315</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

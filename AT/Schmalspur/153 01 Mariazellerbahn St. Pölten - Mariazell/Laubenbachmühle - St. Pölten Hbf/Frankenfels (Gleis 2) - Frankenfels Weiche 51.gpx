@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 0 plain-ascend = -3 cost=132 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Frankenfels (Gleis 2) - Frankenfels Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/47.98177/15.32247/standard&amp;lonlats=15.322098,47.982037;15.321202,47.981035&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.982033" lon="15.322101"><ele>470.25</ele></trkpt>
+   <trkpt lat="47.981882" lon="15.321884"><ele>471</ele></trkpt>
+   <trkpt lat="47.981643" lon="15.321608"><ele>469.25</ele></trkpt>
+   <trkpt lat="47.981465" lon="15.32145"><ele>470.5</ele></trkpt>
+   <trkpt lat="47.981384" lon="15.3214"><ele>470.5</ele></trkpt>
+   <trkpt lat="47.981283" lon="15.321337"><ele>470</ele></trkpt>
+   <trkpt lat="47.981037" lon="15.321204"><ele>467.75</ele></trkpt>
+   <trkpt lat="47.981033" lon="15.321202"><ele>466.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

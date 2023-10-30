@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 0 plain-ascend = 1 cost=126 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>St. Pölten Alpenbahnhof (Gleis 1) - St. Pölten Alpenbahnhof Weiche 54</name>
+  <link href="https://bikerouter.de/#map=19/48.19827/15.61289/standard&amp;lonlats=15.612945,48.198421;15.612296,48.197408&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.198421" lon="15.61294"><ele>273.75</ele></trkpt>
+   <trkpt lat="48.198123" lon="15.612794"><ele>274</ele></trkpt>
+   <trkpt lat="48.197785" lon="15.612628"><ele>274</ele></trkpt>
+   <trkpt lat="48.197652" lon="15.612558"><ele>274</ele></trkpt>
+   <trkpt lat="48.197566" lon="15.612492"><ele>274</ele></trkpt>
+   <trkpt lat="48.1975" lon="15.612425"><ele>274</ele></trkpt>
+   <trkpt lat="48.19741" lon="15.612302"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.197406" lon="15.612296"><ele>274.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Klangen (Gleis 2) - Klangen Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.12036/15.54135/standard&amp;lonlats=15.541124,48.120094;15.541972,48.120509&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.120092" lon="15.541125"><ele>293.5</ele></trkpt>
+   <trkpt lat="48.120234" lon="15.54139"><ele>293.5</ele></trkpt>
+   <trkpt lat="48.120252" lon="15.541424"><ele>293.5</ele></trkpt>
+   <trkpt lat="48.120323" lon="15.541567"><ele>293.25</ele></trkpt>
+   <trkpt lat="48.120421" lon="15.541797"><ele>292.75</ele></trkpt>
+   <trkpt lat="48.120505" lon="15.541971"><ele>292.5</ele></trkpt>
+   <trkpt lat="48.120506" lon="15.541974"><ele>292.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
