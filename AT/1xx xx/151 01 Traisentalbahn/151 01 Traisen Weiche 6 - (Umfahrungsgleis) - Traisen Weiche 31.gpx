@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 3 plain-ascend = 5 cost=280 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>151 01 Traisen Weiche 6 - (Umfahrungsgleis) - Traisen Weiche 31</name>
+  <link href="https://bikerouter.de/#map=19/48.05622/15.61379/standard&amp;lonlats=15.615242,48.055328;15.612749,48.056552;15.61228,48.056835&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.055328" lon="15.615243"><ele>344.25</ele></trkpt>
+   <trkpt lat="48.055329" lon="15.615243"><ele>344.25</ele></trkpt>
+   <trkpt lat="48.055495" lon="15.614842"><ele>345</ele></trkpt>
+   <trkpt lat="48.055603" lon="15.614594"><ele>345.25</ele></trkpt>
+   <trkpt lat="48.056505" lon="15.612827"><ele>345.75</ele></trkpt>
+   <trkpt lat="48.056552" lon="15.612749"><ele>347</ele></trkpt>
+   <trkpt lat="48.056834" lon="15.612288"><ele>347</ele></trkpt>
+   <trkpt lat="48.056836" lon="15.612282"><ele>347.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

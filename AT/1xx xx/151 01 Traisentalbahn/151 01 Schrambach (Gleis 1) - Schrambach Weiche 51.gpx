@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 220 filtered ascend = 0 plain-ascend = -3 cost=220 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>151 01 Schrambach (Gleis 1) - Schrambach Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/48.00364/15.57661/standard&amp;lonlats=15.575344,48.002024;15.576382,48.003841&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.002023" lon="15.575344"><ele>388.25</ele></trkpt>
+   <trkpt lat="48.002073" lon="15.575394"><ele>388.75</ele></trkpt>
+   <trkpt lat="48.002403" lon="15.575662"><ele>386.75</ele></trkpt>
+   <trkpt lat="48.002595" lon="15.575798"><ele>385.25</ele></trkpt>
+   <trkpt lat="48.002763" lon="15.575906"><ele>385.75</ele></trkpt>
+   <trkpt lat="48.002998" lon="15.57603"><ele>386</ele></trkpt>
+   <trkpt lat="48.003355" lon="15.576193"><ele>385</ele></trkpt>
+   <trkpt lat="48.003838" lon="15.576381"><ele>384.75</ele></trkpt>
+   <trkpt lat="48.00384" lon="15.576381"><ele>384</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 158 filtered ascend = 0 plain-ascend = 1 cost=158 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>151 01 Lilienfeld (Gleis 2) - Lilienfeld Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/48.01374/15.59526/standard&amp;lonlats=15.593306,48.013814;15.595401,48.013766&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.013813" lon="15.593305"><ele>373.25</ele></trkpt>
+   <trkpt lat="48.01383" lon="15.59354"><ele>373</ele></trkpt>
+   <trkpt lat="48.013843" lon="15.59394"><ele>372</ele></trkpt>
+   <trkpt lat="48.01384" lon="15.594448"><ele>371.75</ele></trkpt>
+   <trkpt lat="48.013825" lon="15.594679"><ele>372.25</ele></trkpt>
+   <trkpt lat="48.013781" lon="15.595132"><ele>373.25</ele></trkpt>
+   <trkpt lat="48.013763" lon="15.5954"><ele>373.75</ele></trkpt>
+   <trkpt lat="48.013762" lon="15.5954"><ele>374</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
