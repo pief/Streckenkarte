@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 0 plain-ascend = -1 cost=92 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Wallensteinplatz (Steig Ost) - Wallensteinplatz Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/48.22965/16.37032/standard&amp;lonlats=16.371356,48.230069;16.370855,48.229869&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.230065" lon="16.371357"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.230023" lon="16.371225"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.229969" lon="16.371088"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.229959" lon="16.371065"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.229951" lon="16.371047"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.229943" lon="16.371027"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.229938" lon="16.371017"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.229921" lon="16.370976"><ele>170</ele></trkpt>
+   <trkpt lat="48.229878" lon="16.37088"><ele>170</ele></trkpt>
+   <trkpt lat="48.229868" lon="16.37086"><ele>170</ele></trkpt>
+   <trkpt lat="48.229866" lon="16.370856"><ele>168</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

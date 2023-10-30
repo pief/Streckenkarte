@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 485 filtered ascend = 8 plain-ascend = 7 cost=970 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Nordwestbahnstraße (Steig Nordost) - Rauscherstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/48.23055/16.37538/standard&amp;lonlats=16.380677,48.228162;16.375404,48.230728&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.228161" lon="16.380676"><ele>163.5</ele></trkpt>
+   <trkpt lat="48.228162" lon="16.380675"><ele>163.5</ele></trkpt>
+   <trkpt lat="48.228242" lon="16.380506"><ele>163</ele></trkpt>
+   <trkpt lat="48.228245" lon="16.380499"><ele>163</ele></trkpt>
+   <trkpt lat="48.229286" lon="16.378364"><ele>164</ele></trkpt>
+   <trkpt lat="48.229638" lon="16.377641"><ele>165</ele></trkpt>
+   <trkpt lat="48.229693" lon="16.377527"><ele>165.25</ele></trkpt>
+   <trkpt lat="48.22975" lon="16.377408"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.230535" lon="16.375799"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.230726" lon="16.375405"><ele>171</ele></trkpt>
+   <trkpt lat="48.230727" lon="16.375402"><ele>170.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

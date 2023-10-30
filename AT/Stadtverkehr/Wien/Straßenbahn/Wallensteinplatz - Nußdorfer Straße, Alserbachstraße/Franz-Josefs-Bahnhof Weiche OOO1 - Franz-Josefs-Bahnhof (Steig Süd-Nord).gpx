@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Franz-Josefs-Bahnhof Weiche OOO1 - Franz-Josefs-Bahnhof (Steig Süd-Nord)</name>
+  <link href="https://bikerouter.de/#map=19/48.22563/16.36068/standard&amp;lonlats=16.361883,48.225772;16.361043,48.225484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.225771" lon="16.361882"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.225771" lon="16.361881"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.225699" lon="16.361684"><ele>172</ele></trkpt>
+   <trkpt lat="48.225696" lon="16.361675"><ele>172</ele></trkpt>
+   <trkpt lat="48.225686" lon="16.361646"><ele>172</ele></trkpt>
+   <trkpt lat="48.225618" lon="16.361448"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.225488" lon="16.361052"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.225484" lon="16.361041"><ele>172</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
