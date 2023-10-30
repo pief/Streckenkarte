@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = -4 cost=202 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Gleisdreieck Weiche 1D - Gleisdreieck Weiche 3D</name>
+  <link href="https://bikerouter.de/#map=19/47.77940/15.30952/standard&amp;lonlats=15.309349,47.779561;15.310507,47.779241&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.779561" lon="15.309349"><ele>849.75</ele></trkpt>
+   <trkpt lat="47.779563" lon="15.309348"><ele>850</ele></trkpt>
+   <trkpt lat="47.779381" lon="15.309574"><ele>849.25</ele></trkpt>
+   <trkpt lat="47.77934" lon="15.309652"><ele>848.5</ele></trkpt>
+   <trkpt lat="47.779294" lon="15.309777"><ele>847.5</ele></trkpt>
+   <trkpt lat="47.779255" lon="15.309954"><ele>845.5</ele></trkpt>
+   <trkpt lat="47.779244" lon="15.310069"><ele>845</ele></trkpt>
+   <trkpt lat="47.779241" lon="15.310507"><ele>845</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

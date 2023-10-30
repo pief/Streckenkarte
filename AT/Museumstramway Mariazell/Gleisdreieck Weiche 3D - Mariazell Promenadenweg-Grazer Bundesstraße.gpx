@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 242 filtered ascend = 5 plain-ascend = 6 cost=484 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Gleisdreieck Weiche 3D - Mariazell Promenadenweg-Grazer Bundesstraße</name>
+  <link href="https://bikerouter.de/#map=19/47.77904/15.31069/standard&amp;lonlats=15.310508,47.779242;15.312118,47.777518&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.779241" lon="15.310507"><ele>845</ele></trkpt>
+   <trkpt lat="47.779241" lon="15.310513"><ele>845</ele></trkpt>
+   <trkpt lat="47.77924" lon="15.310677"><ele>845</ele></trkpt>
+   <trkpt lat="47.77923" lon="15.310792"><ele>844.75</ele></trkpt>
+   <trkpt lat="47.779196" lon="15.310944"><ele>846</ele></trkpt>
+   <trkpt lat="47.779129" lon="15.31109"><ele>847.5</ele></trkpt>
+   <trkpt lat="47.779097" lon="15.311141"><ele>847.75</ele></trkpt>
+   <trkpt lat="47.779013" lon="15.311236"><ele>848.5</ele></trkpt>
+   <trkpt lat="47.77894" lon="15.311294"><ele>848.5</ele></trkpt>
+   <trkpt lat="47.778787" lon="15.311388"><ele>848.25</ele></trkpt>
+   <trkpt lat="47.777675" lon="15.31202"><ele>848.75</ele></trkpt>
+   <trkpt lat="47.777517" lon="15.312116"><ele>850.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

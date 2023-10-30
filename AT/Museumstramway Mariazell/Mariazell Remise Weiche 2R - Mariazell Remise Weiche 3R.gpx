@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Mariazell Remise Weiche 2R - Mariazell Remise Weiche 3R</name>
+  <link href="https://bikerouter.de/#map=19/47.78502/15.30413/standard&amp;lonlats=15.304014,47.785078;15.304046,47.785071&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.785078" lon="15.304014"><ele>849.75</ele></trkpt>
+   <trkpt lat="47.785076" lon="15.304023"><ele>850</ele></trkpt>
+   <trkpt lat="47.78507" lon="15.304044"><ele>850</ele></trkpt>
+   <trkpt lat="47.785069" lon="15.304045"><ele>850</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

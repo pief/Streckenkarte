@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 84 filtered ascend = 1 plain-ascend = 1 cost=168 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Mariazell Bahnhof Weiche 6M - Mariazell Bahnhof Weiche 7M</name>
+  <link href="https://bikerouter.de/#map=19/47.78306/15.30694/standard&amp;lonlats=15.306828,47.783252;15.307603,47.782735&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.783252" lon="15.306828"><ele>849</ele></trkpt>
+   <trkpt lat="47.78325" lon="15.306832"><ele>849.25</ele></trkpt>
+   <trkpt lat="47.783124" lon="15.307016"><ele>849.5</ele></trkpt>
+   <trkpt lat="47.782949" lon="15.307312"><ele>849.75</ele></trkpt>
+   <trkpt lat="47.782868" lon="15.307432"><ele>850</ele></trkpt>
+   <trkpt lat="47.782735" lon="15.307603"><ele>849.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

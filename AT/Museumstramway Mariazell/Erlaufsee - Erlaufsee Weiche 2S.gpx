@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 6 plain-ascend = 6 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Erlaufsee - Erlaufsee Weiche 2S</name>
+  <link href="https://bikerouter.de/#map=19/47.79045/15.28302/standard&amp;lonlats=15.282613,47.790436;15.282559,47.790036&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.790438" lon="15.28261"><ele>834.5</ele></trkpt>
+   <trkpt lat="47.790358" lon="15.282497"><ele>835.25</ele></trkpt>
+   <trkpt lat="47.790303" lon="15.282464"><ele>835.75</ele></trkpt>
+   <trkpt lat="47.790272" lon="15.282457"><ele>836.25</ele></trkpt>
+   <trkpt lat="47.79017" lon="15.282451"><ele>837.5</ele></trkpt>
+   <trkpt lat="47.790102" lon="15.282482"><ele>838.5</ele></trkpt>
+   <trkpt lat="47.790064" lon="15.282515"><ele>839</ele></trkpt>
+   <trkpt lat="47.790036" lon="15.282557"><ele>839.75</ele></trkpt>
+   <trkpt lat="47.790035" lon="15.282558"><ele>840.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

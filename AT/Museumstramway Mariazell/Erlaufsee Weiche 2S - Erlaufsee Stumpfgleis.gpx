@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = -7 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Erlaufsee Weiche 2S - Erlaufsee Stumpfgleis</name>
+  <link href="https://bikerouter.de/#map=19/47.79045/15.28302/standard&amp;lonlats=15.282559,47.790036;15.281886,47.790503&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.790035" lon="15.282558"><ele>839.75</ele></trkpt>
+   <trkpt lat="47.790036" lon="15.282557"><ele>839.75</ele></trkpt>
+   <trkpt lat="47.790183" lon="15.282251"><ele>836.75</ele></trkpt>
+   <trkpt lat="47.790282" lon="15.282058"><ele>834.75</ele></trkpt>
+   <trkpt lat="47.790337" lon="15.282001"><ele>834</ele></trkpt>
+   <trkpt lat="47.790503" lon="15.281888"><ele>831.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
