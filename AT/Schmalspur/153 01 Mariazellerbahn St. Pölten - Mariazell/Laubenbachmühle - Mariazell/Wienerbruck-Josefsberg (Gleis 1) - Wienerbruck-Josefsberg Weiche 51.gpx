@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 93 filtered ascend = 0 plain-ascend = 0 cost=93 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Wienerbruck-Josefsberg (Gleis 1) - Wienerbruck-Josefsberg Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/47.85625/15.30757/standard&amp;lonlats=15.307234,47.856485;15.308308,47.856069&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.856484" lon="15.307233"><ele>797.75</ele></trkpt>
+   <trkpt lat="47.856473" lon="15.307287"><ele>797.75</ele></trkpt>
+   <trkpt lat="47.856408" lon="15.307538"><ele>797</ele></trkpt>
+   <trkpt lat="47.856327" lon="15.307765"><ele>797</ele></trkpt>
+   <trkpt lat="47.856227" lon="15.307995"><ele>797</ele></trkpt>
+   <trkpt lat="47.856071" lon="15.308308"><ele>797</ele></trkpt>
+   <trkpt lat="47.85607" lon="15.308309"><ele>797</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

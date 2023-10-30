@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 142 filtered ascend = 4 plain-ascend = 4 cost=142 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Winterbach (Gleis 2) - Winterbach Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/47.95237/15.27615/standard&amp;lonlats=15.275191,47.951223;15.275864,47.952356&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.951221" lon="15.275191"><ele>721.75</ele></trkpt>
+   <trkpt lat="47.951302" lon="15.275196"><ele>722.25</ele></trkpt>
+   <trkpt lat="47.951621" lon="15.275249"><ele>724.25</ele></trkpt>
+   <trkpt lat="47.951743" lon="15.275295"><ele>724</ele></trkpt>
+   <trkpt lat="47.951845" lon="15.275346"><ele>722.75</ele></trkpt>
+   <trkpt lat="47.951933" lon="15.275401"><ele>722</ele></trkpt>
+   <trkpt lat="47.952036" lon="15.275483"><ele>721.75</ele></trkpt>
+   <trkpt lat="47.952124" lon="15.275568"><ele>721.75</ele></trkpt>
+   <trkpt lat="47.952209" lon="15.275664"><ele>722.25</ele></trkpt>
+   <trkpt lat="47.952354" lon="15.275864"><ele>723.75</ele></trkpt>
+   <trkpt lat="47.952354" lon="15.275865"><ele>726</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

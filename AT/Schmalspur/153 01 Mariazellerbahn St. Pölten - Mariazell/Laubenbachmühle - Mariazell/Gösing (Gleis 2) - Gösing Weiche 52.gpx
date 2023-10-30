@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 2 plain-ascend = 2 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Gösing (Gleis 2) - Gösing Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/47.88809/15.28237/standard&amp;lonlats=15.281846,47.888284;15.282972,47.887606&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.888283" lon="15.281844"><ele>889.25</ele></trkpt>
+   <trkpt lat="47.887976" lon="15.282221"><ele>889.5</ele></trkpt>
+   <trkpt lat="47.887924" lon="15.282302"><ele>889.25</ele></trkpt>
+   <trkpt lat="47.887805" lon="15.282488"><ele>888.5</ele></trkpt>
+   <trkpt lat="47.887751" lon="15.282606"><ele>889.25</ele></trkpt>
+   <trkpt lat="47.887604" lon="15.282974"><ele>892</ele></trkpt>
+   <trkpt lat="47.887605" lon="15.282971"><ele>890.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

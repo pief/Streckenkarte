@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = 0 cost=128 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Mariazell (Gleis 3) - Mariazell Weiche 37</name>
+  <link href="https://bikerouter.de/#map=19/47.78396/15.30621/standard&amp;lonlats=15.30749,47.783128;15.306369,47.783982&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.783127" lon="15.307489"><ele>850.75</ele></trkpt>
+   <trkpt lat="47.783159" lon="15.307447"><ele>851</ele></trkpt>
+   <trkpt lat="47.783468" lon="15.307045"><ele>850.5</ele></trkpt>
+   <trkpt lat="47.783758" lon="15.306667"><ele>850</ele></trkpt>
+   <trkpt lat="47.783984" lon="15.306372"><ele>849.75</ele></trkpt>
+   <trkpt lat="47.783983" lon="15.306372"><ele>849.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

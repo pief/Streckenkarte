@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = -1 cost=101 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Laubenbachmühle (Gleis 3) - Laubenbachmühle Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/47.95106/15.28646/standard&amp;lonlats=15.286393,47.951194;15.285684,47.950438&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.951192" lon="15.286395"><ele>535.25</ele></trkpt>
+   <trkpt lat="47.950925" lon="15.286183"><ele>535</ele></trkpt>
+   <trkpt lat="47.950775" lon="15.286055"><ele>534.25</ele></trkpt>
+   <trkpt lat="47.950708" lon="15.285976"><ele>533.5</ele></trkpt>
+   <trkpt lat="47.95044" lon="15.285684"><ele>533</ele></trkpt>
+   <trkpt lat="47.950437" lon="15.285682"><ele>533.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

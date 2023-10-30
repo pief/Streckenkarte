@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 182 filtered ascend = 0 plain-ascend = 0 cost=182 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Mitterbach (Gemeindealpe) (Gleis 2) - Mitterbach (Gemeindealpe) Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/47.81368/15.29625/standard&amp;lonlats=15.296905,47.813105;15.29736,47.814714&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.813104" lon="15.296904"><ele>801.75</ele></trkpt>
+   <trkpt lat="47.814448" lon="15.297287"><ele>802.5</ele></trkpt>
+   <trkpt lat="47.814712" lon="15.29736"><ele>801.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

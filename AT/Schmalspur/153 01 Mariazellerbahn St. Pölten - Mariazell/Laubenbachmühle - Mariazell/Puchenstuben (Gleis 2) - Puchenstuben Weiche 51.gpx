@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 3 plain-ascend = 0 cost=102 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Puchenstuben (Gleis 2) - Puchenstuben Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/47.93054/15.29103/standard&amp;lonlats=15.290702,47.930585;15.292068,47.930549&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.930586" lon="15.290702"><ele>816.5</ele></trkpt>
+   <trkpt lat="47.930561" lon="15.29163"><ele>819.75</ele></trkpt>
+   <trkpt lat="47.930549" lon="15.292064"><ele>818.25</ele></trkpt>
+   <trkpt lat="47.930548" lon="15.292067"><ele>816.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
