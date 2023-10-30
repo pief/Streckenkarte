@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 1 plain-ascend = -3 cost=484 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schrankenberggasse (Steig Süd) - Absberggasse (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/48.17585/16.39066/standard&amp;lonlats=16.389383,48.173849;16.390457,48.175666&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.173845" lon="16.389381"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173817" lon="16.389576"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173817" lon="16.389627"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173827" lon="16.389702"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173857" lon="16.389783"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173892" lon="16.389839"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173911" lon="16.389858"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173994" lon="16.389905"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.174991" lon="16.390262"><ele>211.75</ele></trkpt>
+   <trkpt lat="48.175075" lon="16.390279"><ele>211.25</ele></trkpt>
+   <trkpt lat="48.175092" lon="16.390281"><ele>211.25</ele></trkpt>
+   <trkpt lat="48.17515" lon="16.390292"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.175235" lon="16.390311"><ele>210.25</ele></trkpt>
+   <trkpt lat="48.1753" lon="16.390329"><ele>209.75</ele></trkpt>
+   <trkpt lat="48.17547" lon="16.390389"><ele>208.75</ele></trkpt>
+   <trkpt lat="48.175664" lon="16.390457"><ele>207.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

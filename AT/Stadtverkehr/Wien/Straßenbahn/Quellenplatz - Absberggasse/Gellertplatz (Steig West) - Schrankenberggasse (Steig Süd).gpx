@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 567 filtered ascend = 0 plain-ascend = -4 cost=1134 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Gellertplatz (Steig West) - Schrankenberggasse (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/48.17394/16.38870/standard&amp;lonlats=16.381991,48.175033;16.389383,48.173849&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.175036" lon="16.381991"><ele>215.75</ele></trkpt>
+   <trkpt lat="48.175016" lon="16.382285"><ele>215.75</ele></trkpt>
+   <trkpt lat="48.175007" lon="16.382376"><ele>215.75</ele></trkpt>
+   <trkpt lat="48.174977" lon="16.382698"><ele>215.5</ele></trkpt>
+   <trkpt lat="48.174939" lon="16.382972"><ele>214.75</ele></trkpt>
+   <trkpt lat="48.174922" lon="16.383093"><ele>214.75</ele></trkpt>
+   <trkpt lat="48.174813" lon="16.383737"><ele>214</ele></trkpt>
+   <trkpt lat="48.174731" lon="16.384216"><ele>213.5</ele></trkpt>
+   <trkpt lat="48.174716" lon="16.384303"><ele>213.25</ele></trkpt>
+   <trkpt lat="48.174693" lon="16.384434"><ele>213.25</ele></trkpt>
+   <trkpt lat="48.174364" lon="16.38636"><ele>213.25</ele></trkpt>
+   <trkpt lat="48.17419" lon="16.387374"><ele>213.25</ele></trkpt>
+   <trkpt lat="48.174155" lon="16.387579"><ele>212.75</ele></trkpt>
+   <trkpt lat="48.174139" lon="16.387674"><ele>212.5</ele></trkpt>
+   <trkpt lat="48.173846" lon="16.389377"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.173845" lon="16.389381"><ele>210.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
