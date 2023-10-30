@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 2 plain-ascend = 3 cost=254 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>107 01 Wilhelmsburg/Traisen (Gleis 1) - Wilhelmsburg/Traisen Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/48.11166/15.60887/standard&amp;lonlats=15.60837,48.111688;15.607863,48.109441&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.111685" lon="15.608379"><ele>316.25</ele></trkpt>
+   <trkpt lat="48.110013" lon="15.607955"><ele>317.25</ele></trkpt>
+   <trkpt lat="48.109856" lon="15.607922"><ele>317.75</ele></trkpt>
+   <trkpt lat="48.109568" lon="15.607893"><ele>318.5</ele></trkpt>
+   <trkpt lat="48.109442" lon="15.607866"><ele>318.75</ele></trkpt>
+   <trkpt lat="48.109439" lon="15.607865"><ele>319</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

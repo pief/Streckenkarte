@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 3 plain-ascend = 4 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>107 01 Traisen (Gleis 2a) - Traisen (Gleis 2b)</name>
+  <link href="https://bikerouter.de/#map=19/48.05682/15.61228/standard&amp;lonlats=15.613115,48.056523;15.612141,48.057018&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.056524" lon="15.613117"><ele>348.25</ele></trkpt>
+   <trkpt lat="48.056554" lon="15.613061"><ele>348.25</ele></trkpt>
+   <trkpt lat="48.056559" lon="15.613052"><ele>348.25</ele></trkpt>
+   <trkpt lat="48.056935" lon="15.612315"><ele>349.5</ele></trkpt>
+   <trkpt lat="48.057021" lon="15.612145"><ele>352</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

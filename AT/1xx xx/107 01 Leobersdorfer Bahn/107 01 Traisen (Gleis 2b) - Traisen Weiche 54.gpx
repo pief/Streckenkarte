@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 2 plain-ascend = -2 cost=241 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>107 01 Traisen (Gleis 2b) - Traisen Weiche 54</name>
+  <link href="https://bikerouter.de/#map=19/48.05838/15.60937/standard&amp;lonlats=15.612141,48.057018;15.609524,48.058294&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.057021" lon="15.612145"><ele>349.75</ele></trkpt>
+   <trkpt lat="48.057788" lon="15.610649"><ele>352</ele></trkpt>
+   <trkpt lat="48.05801" lon="15.610188"><ele>351.25</ele></trkpt>
+   <trkpt lat="48.058122" lon="15.609938"><ele>349.75</ele></trkpt>
+   <trkpt lat="48.058293" lon="15.609528"><ele>347.75</ele></trkpt>
+   <trkpt lat="48.058294" lon="15.609524"><ele>346.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

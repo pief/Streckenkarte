@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 316 filtered ascend = 0 plain-ascend = -3 cost=316 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>107 01 Hainfeld (Gleis 2) - Hainfeld Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/48.03972/15.76773/standard&amp;lonlats=15.767735,48.039751;15.763986,48.041032&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.039749" lon="15.767733"><ele>417.25</ele></trkpt>
+   <trkpt lat="48.039753" lon="15.767725"><ele>417.5</ele></trkpt>
+   <trkpt lat="48.040528" lon="15.765745"><ele>416.5</ele></trkpt>
+   <trkpt lat="48.040623" lon="15.765502"><ele>415.75</ele></trkpt>
+   <trkpt lat="48.040775" lon="15.765105"><ele>414.25</ele></trkpt>
+   <trkpt lat="48.040824" lon="15.764954"><ele>413.75</ele></trkpt>
+   <trkpt lat="48.040917" lon="15.764588"><ele>412.75</ele></trkpt>
+   <trkpt lat="48.041011" lon="15.764085"><ele>412</ele></trkpt>
+   <trkpt lat="48.041029" lon="15.763989"><ele>412.25</ele></trkpt>
+   <trkpt lat="48.041029" lon="15.763985"><ele>413</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
