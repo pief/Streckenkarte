@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 504 filtered ascend = 7 plain-ascend = 7 cost=1008 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Hauptbahnhof (Steig Ost-Nord) - Columbusplatz (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/48.18183/16.37285/standard&amp;lonlats=16.374394,48.186;16.373723,48.181769&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.186005" lon="16.374389"><ele>200.5</ele></trkpt>
+   <trkpt lat="48.185964" lon="16.374258"><ele>200.75</ele></trkpt>
+   <trkpt lat="48.185941" lon="16.374191"><ele>200.75</ele></trkpt>
+   <trkpt lat="48.185926" lon="16.374147"><ele>201</ele></trkpt>
+   <trkpt lat="48.185914" lon="16.374113"><ele>201</ele></trkpt>
+   <trkpt lat="48.185902" lon="16.374085"><ele>201.25</ele></trkpt>
+   <trkpt lat="48.185784" lon="16.373825"><ele>202.25</ele></trkpt>
+   <trkpt lat="48.185755" lon="16.373771"><ele>202.25</ele></trkpt>
+   <trkpt lat="48.1857" lon="16.373695"><ele>202.5</ele></trkpt>
+   <trkpt lat="48.18563" lon="16.373637"><ele>202.75</ele></trkpt>
+   <trkpt lat="48.185589" lon="16.373616"><ele>202.75</ele></trkpt>
+   <trkpt lat="48.185519" lon="16.373601"><ele>202.75</ele></trkpt>
+   <trkpt lat="48.185486" lon="16.373598"><ele>202.5</ele></trkpt>
+   <trkpt lat="48.185307" lon="16.373611"><ele>202.5</ele></trkpt>
+   <trkpt lat="48.184882" lon="16.373672"><ele>202</ele></trkpt>
+   <trkpt lat="48.184769" lon="16.373672"><ele>201.75</ele></trkpt>
+   <trkpt lat="48.184747" lon="16.373665"><ele>201.75</ele></trkpt>
+   <trkpt lat="48.18471" lon="16.373646"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184653" lon="16.373613"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184561" lon="16.37358"><ele>201</ele></trkpt>
+   <trkpt lat="48.18453" lon="16.373574"><ele>201</ele></trkpt>
+   <trkpt lat="48.184471" lon="16.373565"><ele>201</ele></trkpt>
+   <trkpt lat="48.184327" lon="16.373564"><ele>200.5</ele></trkpt>
+   <trkpt lat="48.183799" lon="16.373603"><ele>201.25</ele></trkpt>
+   <trkpt lat="48.183296" lon="16.373633"><ele>202.75</ele></trkpt>
+   <trkpt lat="48.182862" lon="16.373647"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.182523" lon="16.373682"><ele>207.25</ele></trkpt>
+   <trkpt lat="48.182125" lon="16.373697"><ele>206.75</ele></trkpt>
+   <trkpt lat="48.182044" lon="16.373707"><ele>206.75</ele></trkpt>
+   <trkpt lat="48.181954" lon="16.373714"><ele>206.5</ele></trkpt>
+   <trkpt lat="48.181774" lon="16.373723"><ele>206.5</ele></trkpt>
+   <trkpt lat="48.181769" lon="16.373723"><ele>207.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

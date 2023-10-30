@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 5 plain-ascend = 4 cost=588 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Kölblgasse (Steig West) - Fasangasse (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/48.18834/16.38510/standard&amp;lonlats=16.38575,48.19133;16.385203,48.188709&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.191329" lon="16.385744"><ele>195.25</ele></trkpt>
+   <trkpt lat="48.191197" lon="16.385716"><ele>195.25</ele></trkpt>
+   <trkpt lat="48.191132" lon="16.385705"><ele>195.25</ele></trkpt>
+   <trkpt lat="48.191073" lon="16.385693"><ele>195.25</ele></trkpt>
+   <trkpt lat="48.189882" lon="16.385447"><ele>200.25</ele></trkpt>
+   <trkpt lat="48.189819" lon="16.385434"><ele>200.5</ele></trkpt>
+   <trkpt lat="48.189756" lon="16.385421"><ele>200.75</ele></trkpt>
+   <trkpt lat="48.18872" lon="16.385209"><ele>200</ele></trkpt>
+   <trkpt lat="48.188707" lon="16.385206"><ele>199</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
