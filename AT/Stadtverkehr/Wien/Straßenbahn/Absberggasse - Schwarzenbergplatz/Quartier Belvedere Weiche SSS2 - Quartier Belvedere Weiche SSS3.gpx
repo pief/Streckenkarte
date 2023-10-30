@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = 0 cost=48 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Quartier Belvedere Weiche SSS2 - Quartier Belvedere Weiche SSS3</name>
+  <link href="https://bikerouter.de/#map=19/48.18788/16.38178/standard&amp;lonlats=16.38143,48.187711;16.381345,48.187913&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.187711" lon="16.38143"><ele>196</ele></trkpt>
+   <trkpt lat="48.187717" lon="16.381428"><ele>196</ele></trkpt>
+   <trkpt lat="48.187913" lon="16.381345"><ele>195.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
