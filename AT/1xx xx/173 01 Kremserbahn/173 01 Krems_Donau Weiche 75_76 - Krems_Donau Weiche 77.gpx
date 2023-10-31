@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 2 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>173 01 Krems/Donau Weiche 75/76 - Krems/Donau Weiche 77</name>
+  <link href="https://bikerouter.de/#map=19/48.40714/15.60267/standard&amp;lonlats=15.60227,48.407278;15.602107,48.407175;15.601895,48.407048&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.407273" lon="15.602274"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.407274" lon="15.602277"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.407172" lon="15.602108"><ele>194.75</ele></trkpt>
+   <trkpt lat="48.407048" lon="15.601899"><ele>194.75</ele></trkpt>
+   <trkpt lat="48.407046" lon="15.601896"><ele>194.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

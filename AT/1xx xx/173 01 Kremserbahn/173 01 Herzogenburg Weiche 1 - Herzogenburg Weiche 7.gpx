@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 148 filtered ascend = 0 plain-ascend = 1 cost=148 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>173 01 Herzogenburg Weiche 1 - Herzogenburg Weiche 7</name>
+  <link href="https://bikerouter.de/#map=19/48.27885/15.69681/standard&amp;lonlats=15.696716,48.279445;15.696701,48.27909;15.69659,48.278129&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.279444" lon="15.696715"><ele>227.25</ele></trkpt>
+   <trkpt lat="48.279441" lon="15.696716"><ele>227.25</ele></trkpt>
+   <trkpt lat="48.279204" lon="15.696717"><ele>226.75</ele></trkpt>
+   <trkpt lat="48.279088" lon="15.696705"><ele>227</ele></trkpt>
+   <trkpt lat="48.27831" lon="15.696629"><ele>227</ele></trkpt>
+   <trkpt lat="48.278129" lon="15.696592"><ele>227.25</ele></trkpt>
+   <trkpt lat="48.278127" lon="15.696591"><ele>227.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

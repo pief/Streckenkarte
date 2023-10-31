@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 0 plain-ascend = 0 cost=175 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>173 01 Krems/Donau (Gleis 3B) - Krems/Donau Weiche 75/76</name>
+  <link href="https://bikerouter.de/#map=19/48.40811/15.60434/standard&amp;lonlats=15.604078,48.408271;15.60227,48.407278&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.408272" lon="15.604075"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.408229" lon="15.604002"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.407731" lon="15.603157"><ele>194.5</ele></trkpt>
+   <trkpt lat="48.407616" lon="15.602965"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.407431" lon="15.602624"><ele>194</ele></trkpt>
+   <trkpt lat="48.407274" lon="15.602277"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.407273" lon="15.602274"><ele>194.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

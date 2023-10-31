@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 282 filtered ascend = 0 plain-ascend = 1 cost=282 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>173 01 Furth-Palt (Gleis 2) - Furth-Palt Weiche 251</name>
+  <link href="https://bikerouter.de/#map=19/48.38454/15.60600/standard&amp;lonlats=15.605744,48.384632;15.609121,48.383492&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.384635" lon="15.605746"><ele>200.5</ele></trkpt>
+   <trkpt lat="48.38375" lon="15.608338"><ele>201</ele></trkpt>
+   <trkpt lat="48.383486" lon="15.609115"><ele>201</ele></trkpt>
+   <trkpt lat="48.383485" lon="15.609116"><ele>201</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 234 filtered ascend = 0 plain-ascend = 0 cost=234 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>173 01 Paudorf (Gleis 1) - Paudorf Weiche 201</name>
+  <link href="https://bikerouter.de/#map=19/48.35146/15.61576/standard&amp;lonlats=15.615885,48.351686;15.616998,48.34974&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.351688" lon="15.615893"><ele>250.75</ele></trkpt>
+   <trkpt lat="48.351672" lon="15.615904"><ele>250.75</ele></trkpt>
+   <trkpt lat="48.351133" lon="15.616238"><ele>251</ele></trkpt>
+   <trkpt lat="48.350281" lon="15.616738"><ele>249.25</ele></trkpt>
+   <trkpt lat="48.350108" lon="15.616835"><ele>249.25</ele></trkpt>
+   <trkpt lat="48.349739" lon="15.617005"><ele>250</ele></trkpt>
+   <trkpt lat="48.349741" lon="15.617003"><ele>249.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

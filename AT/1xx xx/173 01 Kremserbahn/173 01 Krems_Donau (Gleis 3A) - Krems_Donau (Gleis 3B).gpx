@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 144 filtered ascend = 0 plain-ascend = -3 cost=144 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>173 01 Krems/Donau (Gleis 3A) - Krems/Donau (Gleis 3B)</name>
+  <link href="https://bikerouter.de/#map=19/48.40886/15.60522/standard&amp;lonlats=15.605529,48.409126;15.604078,48.408271&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.409125" lon="15.605528"><ele>198.25</ele></trkpt>
+   <trkpt lat="48.409115" lon="15.605511"><ele>198.5</ele></trkpt>
+   <trkpt lat="48.408588" lon="15.604614"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.408565" lon="15.604576"><ele>196</ele></trkpt>
+   <trkpt lat="48.408272" lon="15.604075"><ele>194.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
