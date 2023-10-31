@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 323 filtered ascend = 6 plain-ascend = 6 cost=323 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>172 01 Spitz/Donau (Gleis 2) - Spitz/Donau Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/48.36494/15.41816/standard&amp;lonlats=15.417455,48.364992;15.421146,48.366473&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.36499" lon="15.417455"><ele>205</ele></trkpt>
+   <trkpt lat="48.364993" lon="15.41746"><ele>205</ele></trkpt>
+   <trkpt lat="48.36514" lon="15.417717"><ele>205</ele></trkpt>
+   <trkpt lat="48.365278" lon="15.417959"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.365347" lon="15.418082"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.365505" lon="15.418378"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.365655" lon="15.418698"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.365793" lon="15.419029"><ele>205.75</ele></trkpt>
+   <trkpt lat="48.365904" lon="15.419341"><ele>207</ele></trkpt>
+   <trkpt lat="48.366325" lon="15.420681"><ele>210</ele></trkpt>
+   <trkpt lat="48.366471" lon="15.421148"><ele>209</ele></trkpt>
+   <trkpt lat="48.36647" lon="15.421146"><ele>211</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

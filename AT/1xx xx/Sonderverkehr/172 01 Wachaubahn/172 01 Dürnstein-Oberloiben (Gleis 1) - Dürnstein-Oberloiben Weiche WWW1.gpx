@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 94 filtered ascend = 3 plain-ascend = 3 cost=94 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>172 01 Dürnstein-Oberloiben (Gleis 1) - Dürnstein-Oberloiben Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/48.39363/15.52487/standard&amp;lonlats=15.525147,48.393361;15.524089,48.393794&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.393362" lon="15.525148"><ele>207.25</ele></trkpt>
+   <trkpt lat="48.393363" lon="15.525148"><ele>207.5</ele></trkpt>
+   <trkpt lat="48.393495" lon="15.524818"><ele>208.25</ele></trkpt>
+   <trkpt lat="48.39353" lon="15.52473"><ele>208.5</ele></trkpt>
+   <trkpt lat="48.393612" lon="15.52453"><ele>209</ele></trkpt>
+   <trkpt lat="48.39363" lon="15.524484"><ele>209</ele></trkpt>
+   <trkpt lat="48.393789" lon="15.524094"><ele>210.25</ele></trkpt>
+   <trkpt lat="48.393791" lon="15.524086"><ele>210.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

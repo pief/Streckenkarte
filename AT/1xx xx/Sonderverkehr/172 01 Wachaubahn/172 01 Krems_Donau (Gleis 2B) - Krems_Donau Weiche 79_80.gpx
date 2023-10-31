@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 167 filtered ascend = 0 plain-ascend = 0 cost=167 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>172 01 Krems/Donau (Gleis 2B) - Krems/Donau Weiche 79/80</name>
+  <link href="https://bikerouter.de/#map=19/48.40787/15.60342/standard&amp;lonlats=15.603971,48.40833;15.602281,48.407335&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.40833" lon="15.603969"><ele>194.75</ele></trkpt>
+   <trkpt lat="48.40826" lon="15.603857"><ele>194.5</ele></trkpt>
+   <trkpt lat="48.407611" lon="15.602756"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.407335" lon="15.602287"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.407332" lon="15.602283"><ele>194.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

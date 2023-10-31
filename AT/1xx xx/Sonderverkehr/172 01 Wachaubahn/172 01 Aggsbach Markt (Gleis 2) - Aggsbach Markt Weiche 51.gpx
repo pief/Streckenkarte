@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = -1 cost=72 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>172 01 Aggsbach Markt (Gleis 2) - Aggsbach Markt Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/48.29581/15.40369/standard&amp;lonlats=15.402919,48.296627;15.402684,48.296008&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.296625" lon="15.402921"><ele>215</ele></trkpt>
+   <trkpt lat="48.29601" lon="15.40269"><ele>213</ele></trkpt>
+   <trkpt lat="48.296006" lon="15.402688"><ele>213.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
