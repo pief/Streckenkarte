@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1171 filtered ascend = 0 plain-ascend = -8 cost=1172 energy=0.0kwh time=1m 34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 St. Pölten Hbf Weiche 103 - St. Pölten Traisenpark</name>
+  <link href="https://bikerouter.de/#map=19/48.22043/15.64094/standard&amp;lonlats=15.635785,48.210442;15.641142,48.220347&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.210442" lon="15.635785"><ele>265</ele></trkpt>
+   <trkpt lat="48.210478" lon="15.635808"><ele>265</ele></trkpt>
+   <trkpt lat="48.211411" lon="15.636305"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.211482" lon="15.636344"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.2116" lon="15.636403"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.211728" lon="15.636472"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.212192" lon="15.63672"><ele>263</ele></trkpt>
+   <trkpt lat="48.213217" lon="15.637269"><ele>261.75</ele></trkpt>
+   <trkpt lat="48.217813" lon="15.639722"><ele>259.5</ele></trkpt>
+   <trkpt lat="48.218935" lon="15.640328"><ele>258</ele></trkpt>
+   <trkpt lat="48.219158" lon="15.640449"><ele>258</ele></trkpt>
+   <trkpt lat="48.219824" lon="15.640821"><ele>257.25</ele></trkpt>
+   <trkpt lat="48.220342" lon="15.641146"><ele>256.75</ele></trkpt>
+   <trkpt lat="48.220344" lon="15.641148"><ele>256.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

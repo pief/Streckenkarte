@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 878 filtered ascend = 1 plain-ascend = 0 cost=878 energy=0.0kwh time=1m 10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 St. Pölten Traisenpark - Viehofen Weiche 53</name>
+  <link href="https://bikerouter.de/#map=17/48.22772/15.65102/standard&amp;lonlats=15.641148,48.220344;15.647946,48.226742&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.220343" lon="15.641147"><ele>256.5</ele></trkpt>
+   <trkpt lat="48.220715" lon="15.641403"><ele>256.5</ele></trkpt>
+   <trkpt lat="48.221228" lon="15.641774"><ele>257</ele></trkpt>
+   <trkpt lat="48.221349" lon="15.641869"><ele>257</ele></trkpt>
+   <trkpt lat="48.221415" lon="15.641922"><ele>257</ele></trkpt>
+   <trkpt lat="48.221939" lon="15.64236"><ele>257</ele></trkpt>
+   <trkpt lat="48.222201" lon="15.642592"><ele>256.75</ele></trkpt>
+   <trkpt lat="48.222989" lon="15.643364"><ele>257.25</ele></trkpt>
+   <trkpt lat="48.223146" lon="15.643535"><ele>257.25</ele></trkpt>
+   <trkpt lat="48.223772" lon="15.644249"><ele>257.5</ele></trkpt>
+   <trkpt lat="48.2245" lon="15.645148"><ele>256.5</ele></trkpt>
+   <trkpt lat="48.225095" lon="15.6459"><ele>257</ele></trkpt>
+   <trkpt lat="48.226387" lon="15.647506"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.226547" lon="15.647704"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.226648" lon="15.647829"><ele>255.25</ele></trkpt>
+   <trkpt lat="48.22674" lon="15.647946"><ele>255.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

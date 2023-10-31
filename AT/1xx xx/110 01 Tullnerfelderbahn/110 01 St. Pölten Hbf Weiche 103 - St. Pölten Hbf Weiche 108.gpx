@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 625 filtered ascend = 4 plain-ascend = 4 cost=626 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 St. Pölten Hbf Weiche 103 - St. Pölten Hbf Weiche 108</name>
+  <link href="https://bikerouter.de/#map=19/48.20823/15.62971/standard&amp;lonlats=15.635782,48.210443;15.631048,48.208111;15.629366,48.2082&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.210442" lon="15.635785"><ele>265</ele></trkpt>
+   <trkpt lat="48.210306" lon="15.635716"><ele>265</ele></trkpt>
+   <trkpt lat="48.210263" lon="15.635693"><ele>265</ele></trkpt>
+   <trkpt lat="48.209383" lon="15.635216"><ele>264.25</ele></trkpt>
+   <trkpt lat="48.209294" lon="15.635167"><ele>264</ele></trkpt>
+   <trkpt lat="48.209122" lon="15.635053"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.208964" lon="15.634924"><ele>263.5</ele></trkpt>
+   <trkpt lat="48.208798" lon="15.634753"><ele>263.5</ele></trkpt>
+   <trkpt lat="48.208583" lon="15.634463"><ele>264.25</ele></trkpt>
+   <trkpt lat="48.208473" lon="15.634277"><ele>265</ele></trkpt>
+   <trkpt lat="48.208352" lon="15.634014"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.208238" lon="15.6337"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.208149" lon="15.633361"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.208094" lon="15.633053"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.208077" lon="15.632897"><ele>265.5</ele></trkpt>
+   <trkpt lat="48.208058" lon="15.63257"><ele>265.25</ele></trkpt>
+   <trkpt lat="48.208059" lon="15.632165"><ele>265.25</ele></trkpt>
+   <trkpt lat="48.208104" lon="15.631059"><ele>267</ele></trkpt>
+   <trkpt lat="48.208139" lon="15.630416"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.208153" lon="15.630166"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.208199" lon="15.62937"><ele>268.75</ele></trkpt>
+   <trkpt lat="48.208199" lon="15.629365"><ele>269</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

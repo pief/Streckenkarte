@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1042 filtered ascend = 3 plain-ascend = 3 cost=1042 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Herzogenburg Weiche 56 - Herzogenburg Süd Weiche 73</name>
+  <link href="https://bikerouter.de/#map=19/48.27173/15.69614/standard&amp;lonlats=15.695955,48.271749;15.692674,48.26269&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.271748" lon="15.695954"><ele>230.75</ele></trkpt>
+   <trkpt lat="48.271745" lon="15.695954"><ele>230.75</ele></trkpt>
+   <trkpt lat="48.271118" lon="15.695828"><ele>230.25</ele></trkpt>
+   <trkpt lat="48.270716" lon="15.695742"><ele>230.25</ele></trkpt>
+   <trkpt lat="48.26817" lon="15.695202"><ele>230.75</ele></trkpt>
+   <trkpt lat="48.268033" lon="15.695169"><ele>230.75</ele></trkpt>
+   <trkpt lat="48.267543" lon="15.695055"><ele>230</ele></trkpt>
+   <trkpt lat="48.266989" lon="15.694898"><ele>230</ele></trkpt>
+   <trkpt lat="48.266589" lon="15.694756"><ele>230</ele></trkpt>
+   <trkpt lat="48.266032" lon="15.694528"><ele>230.5</ele></trkpt>
+   <trkpt lat="48.265284" lon="15.694152"><ele>230.5</ele></trkpt>
+   <trkpt lat="48.26379" lon="15.693271"><ele>233.25</ele></trkpt>
+   <trkpt lat="48.263352" lon="15.693014"><ele>233.75</ele></trkpt>
+   <trkpt lat="48.262871" lon="15.692782"><ele>233.5</ele></trkpt>
+   <trkpt lat="48.262691" lon="15.69268"><ele>233.25</ele></trkpt>
+   <trkpt lat="48.262688" lon="15.692678"><ele>233.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

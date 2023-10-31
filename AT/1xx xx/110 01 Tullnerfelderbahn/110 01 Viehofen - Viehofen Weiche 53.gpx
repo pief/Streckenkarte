@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 565 filtered ascend = 2 plain-ascend = 2 cost=565 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Viehofen - Viehofen Weiche 53</name>
+  <link href="https://bikerouter.de/#map=19/48.22704/15.64863/standard&amp;lonlats=15.652758,48.230665;15.647946,48.22674&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.230662" lon="15.652761"><ele>253</ele></trkpt>
+   <trkpt lat="48.227491" lon="15.6488"><ele>254.5</ele></trkpt>
+   <trkpt lat="48.227159" lon="15.648393"><ele>255.25</ele></trkpt>
+   <trkpt lat="48.226847" lon="15.648074"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.226744" lon="15.64795"><ele>255.25</ele></trkpt>
+   <trkpt lat="48.22674" lon="15.647944"><ele>255.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
