@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 427 filtered ascend = 0 plain-ascend = -4 cost=427 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Wien Spittelau (Gleis 1) - Wien Spittelau Weiche 112</name>
+  <link href="https://bikerouter.de/#map=19/48.23905/16.36126/standard&amp;lonlats=16.357987,48.235318;16.360121,48.238841&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.235318" lon="16.357987"><ele>166</ele></trkpt>
+   <trkpt lat="48.235337" lon="16.357986"><ele>166</ele></trkpt>
+   <trkpt lat="48.235588" lon="16.357997"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.235767" lon="16.358027"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.236031" lon="16.358103"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.23629" lon="16.358204"><ele>166</ele></trkpt>
+   <trkpt lat="48.236546" lon="16.358332"><ele>166</ele></trkpt>
+   <trkpt lat="48.236798" lon="16.358485"><ele>165</ele></trkpt>
+   <trkpt lat="48.237043" lon="16.35866"><ele>164</ele></trkpt>
+   <trkpt lat="48.237381" lon="16.358922"><ele>163</ele></trkpt>
+   <trkpt lat="48.237397" lon="16.358934"><ele>163</ele></trkpt>
+   <trkpt lat="48.237629" lon="16.359127"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.237931" lon="16.359407"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.238105" lon="16.359555"><ele>162.75</ele></trkpt>
+   <trkpt lat="48.238838" lon="16.360124"><ele>161.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 153 filtered ascend = 1 plain-ascend = 1 cost=153 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 St. Andrä-Wördern Weiche 53 - St. Andrä-Wördern Weiche 57</name>
+  <link href="https://bikerouter.de/#map=19/48.33200/16.20432/standard&amp;lonlats=16.206213,48.332696;16.205311,48.332312;16.204491,48.331977&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.332693" lon="16.206214"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.332694" lon="16.206216"><ele>170.5</ele></trkpt>
+   <trkpt lat="48.332493" lon="16.205731"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.332334" lon="16.205347"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.332316" lon="16.205305"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.331977" lon="16.204494"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.331975" lon="16.204491"><ele>170.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

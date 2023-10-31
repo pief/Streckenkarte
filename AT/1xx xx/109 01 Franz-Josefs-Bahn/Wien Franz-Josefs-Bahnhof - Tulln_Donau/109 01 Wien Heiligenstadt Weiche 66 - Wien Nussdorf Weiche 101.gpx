@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 332 filtered ascend = 3 plain-ascend = 4 cost=332 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Wien Heiligenstadt Weiche 66 - Wien Nussdorf Weiche 101</name>
+  <link href="https://bikerouter.de/#map=17/48.25744/16.37151/standard&amp;lonlats=16.368528,48.253926;16.368873,48.256829&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.253925" lon="16.368527"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.25393" lon="16.36853"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.253964" lon="16.36855"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.254259" lon="16.368721"><ele>161.25</ele></trkpt>
+   <trkpt lat="48.254296" lon="16.368742"><ele>161.25</ele></trkpt>
+   <trkpt lat="48.254452" lon="16.36883"><ele>161.25</ele></trkpt>
+   <trkpt lat="48.254644" lon="16.368933"><ele>161.25</ele></trkpt>
+   <trkpt lat="48.254931" lon="16.369041"><ele>161</ele></trkpt>
+   <trkpt lat="48.255048" lon="16.369072"><ele>161</ele></trkpt>
+   <trkpt lat="48.255406" lon="16.36914"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.255609" lon="16.369147"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.255772" lon="16.369143"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.25592" lon="16.369126"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.256216" lon="16.369066"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.256414" lon="16.369011"><ele>164.5</ele></trkpt>
+   <trkpt lat="48.256783" lon="16.36889"><ele>165.5</ele></trkpt>
+   <trkpt lat="48.256829" lon="16.368874"><ele>165.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

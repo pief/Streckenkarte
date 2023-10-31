@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Wien Spittelau Weiche 48 - Wien Spittelau Weiche 60</name>
+  <link href="https://bikerouter.de/#map=19/48.23289/16.35935/standard&amp;lonlats=16.359018,48.23219;16.358702,48.23306&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.23219" lon="16.35902"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.232194" lon="16.359019"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.23265" lon="16.358852"><ele>178.75</ele></trkpt>
+   <trkpt lat="48.233047" lon="16.358708"><ele>177</ele></trkpt>
+   <trkpt lat="48.233058" lon="16.358704"><ele>177</ele></trkpt>
+   <trkpt lat="48.23306" lon="16.358703"><ele>177</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 0 plain-ascend = 0 cost=200 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Wien Nussdorf Weiche 157 - Wien Nussdorf Weiche 158</name>
+  <link href="https://bikerouter.de/#map=19/48.26608/16.36559/standard&amp;lonlats=16.366363,48.264477;16.36516,48.26608&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.264477" lon="16.366363"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.264505" lon="16.366351"><ele>170</ele></trkpt>
+   <trkpt lat="48.264968" lon="16.366105"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.26519" lon="16.365942"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.265663" lon="16.365548"><ele>170</ele></trkpt>
+   <trkpt lat="48.26608" lon="16.365161"><ele>169.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

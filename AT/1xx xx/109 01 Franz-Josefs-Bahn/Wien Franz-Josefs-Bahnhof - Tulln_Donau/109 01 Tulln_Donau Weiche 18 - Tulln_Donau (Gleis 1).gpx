@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 562 filtered ascend = 2 plain-ascend = 4 cost=562 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Tulln/Donau Weiche 18 - Tulln/Donau (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.32689/16.06600/standard&amp;lonlats=16.070901,48.324451;16.066523,48.326429;16.064684,48.327315&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.324449" lon="16.070898"><ele>174.25</ele></trkpt>
+   <trkpt lat="48.32445" lon="16.070897"><ele>174.25</ele></trkpt>
+   <trkpt lat="48.32459" lon="16.07057"><ele>174.5</ele></trkpt>
+   <trkpt lat="48.324688" lon="16.070307"><ele>174.75</ele></trkpt>
+   <trkpt lat="48.32481" lon="16.070032"><ele>174.75</ele></trkpt>
+   <trkpt lat="48.324852" lon="16.069942"><ele>175</ele></trkpt>
+   <trkpt lat="48.325029" lon="16.069573"><ele>175.5</ele></trkpt>
+   <trkpt lat="48.325226" lon="16.069121"><ele>175.75</ele></trkpt>
+   <trkpt lat="48.325491" lon="16.068499"><ele>175.5</ele></trkpt>
+   <trkpt lat="48.326432" lon="16.066527"><ele>176</ele></trkpt>
+   <trkpt lat="48.326817" lon="16.065723"><ele>176</ele></trkpt>
+   <trkpt lat="48.327013" lon="16.065311"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.327179" lon="16.064962"><ele>177.5</ele></trkpt>
+   <trkpt lat="48.327313" lon="16.064682"><ele>177.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

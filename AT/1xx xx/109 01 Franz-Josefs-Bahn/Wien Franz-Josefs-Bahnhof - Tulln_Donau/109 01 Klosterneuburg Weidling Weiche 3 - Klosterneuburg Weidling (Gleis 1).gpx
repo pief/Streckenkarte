@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 678 filtered ascend = 0 plain-ascend = 0 cost=678 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Klosterneuburg Weidling Weiche 3 - Klosterneuburg Weidling (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.29728/16.33578/standard&amp;lonlats=16.337987,48.291929;16.334549,48.297578&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.291929" lon="16.33799"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.29193" lon="16.33799"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.291989" lon="16.337956"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.292021" lon="16.337936"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.292124" lon="16.337869"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.293461" lon="16.337056"><ele>166</ele></trkpt>
+   <trkpt lat="48.293969" lon="16.336755"><ele>164.25</ele></trkpt>
+   <trkpt lat="48.294564" lon="16.336382"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.295458" lon="16.335842"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.297578" lon="16.334551"><ele>165.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

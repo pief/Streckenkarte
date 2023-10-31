@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 19 filtered ascend = 0 plain-ascend = 0 cost=19 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Tulln/Donau Weiche 6 - Tulln/Donau Weiche 18</name>
+  <link href="https://bikerouter.de/#map=19/48.32426/16.07170/standard&amp;lonlats=16.071091,48.324357;16.070901,48.324451&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.324357" lon="16.071091"><ele>174.75</ele></trkpt>
+   <trkpt lat="48.324358" lon="16.071091"><ele>174.75</ele></trkpt>
+   <trkpt lat="48.324449" lon="16.070898"><ele>174.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 1 plain-ascend = 2 cost=17 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Wien Franz-Josefs-Bahnhof Weiche 1 - Wien Franz-Josefs-Bahnhof Weiche 3/4</name>
+  <link href="https://bikerouter.de/#map=19/48.22916/16.36007/standard&amp;lonlats=16.360198,48.228918;16.360145,48.229065&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.228918" lon="16.360201"><ele>172</ele></trkpt>
+   <trkpt lat="48.22906" lon="16.36015"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.229065" lon="16.360147"><ele>173.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

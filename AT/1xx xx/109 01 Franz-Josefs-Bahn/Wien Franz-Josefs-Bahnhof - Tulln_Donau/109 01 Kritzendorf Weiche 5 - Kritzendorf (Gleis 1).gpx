@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 567 filtered ascend = 6 plain-ascend = -1 cost=567 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 Kritzendorf Weiche 5 - Kritzendorf (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.33377/16.30151/standard&amp;lonlats=16.302515,48.331362;16.300382,48.334001;16.29902,48.335887&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.331362" lon="16.302516"><ele>169</ele></trkpt>
+   <trkpt lat="48.331364" lon="16.302515"><ele>169</ele></trkpt>
+   <trkpt lat="48.331574" lon="16.302309"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.331863" lon="16.302"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.331997" lon="16.301867"><ele>172.75</ele></trkpt>
+   <trkpt lat="48.332346" lon="16.301575"><ele>173.25</ele></trkpt>
+   <trkpt lat="48.333014" lon="16.301088"><ele>175.75</ele></trkpt>
+   <trkpt lat="48.333998" lon="16.300376"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.335114" lon="16.299569"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.335884" lon="16.299013"><ele>169.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

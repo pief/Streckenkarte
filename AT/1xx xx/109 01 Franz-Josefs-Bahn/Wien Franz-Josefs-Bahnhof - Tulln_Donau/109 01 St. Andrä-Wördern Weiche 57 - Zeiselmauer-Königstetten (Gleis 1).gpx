@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2330 filtered ascend = 2 plain-ascend = 3 cost=2330 energy=0.0kwh time=3m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>109 01 St. Andrä-Wördern Weiche 57 - Zeiselmauer-Königstetten (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.32659/16.17570/standard&amp;lonlats=16.204491,48.331977;16.175041,48.326598&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.331975" lon="16.204491"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.331536" lon="16.203419"><ele>170.75</ele></trkpt>
+   <trkpt lat="48.330373" lon="16.200606"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.329053" lon="16.1974"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.328784" lon="16.196683"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.328524" lon="16.195944"><ele>169</ele></trkpt>
+   <trkpt lat="48.328275" lon="16.195194"><ele>170</ele></trkpt>
+   <trkpt lat="48.328035" lon="16.19443"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.327802" lon="16.193593"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.327564" lon="16.192701"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.327211" lon="16.191182"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.326971" lon="16.189953"><ele>167.75</ele></trkpt>
+   <trkpt lat="48.326935" lon="16.189755"><ele>168</ele></trkpt>
+   <trkpt lat="48.326896" lon="16.189535"><ele>168.25</ele></trkpt>
+   <trkpt lat="48.326859" lon="16.189313"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.326709" lon="16.188343"><ele>169</ele></trkpt>
+   <trkpt lat="48.326588" lon="16.187424"><ele>168</ele></trkpt>
+   <trkpt lat="48.326485" lon="16.186511"><ele>168</ele></trkpt>
+   <trkpt lat="48.326379" lon="16.185326"><ele>168.75</ele></trkpt>
+   <trkpt lat="48.326308" lon="16.18416"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.326268" lon="16.183118"><ele>169</ele></trkpt>
+   <trkpt lat="48.326254" lon="16.182167"><ele>168.75</ele></trkpt>
+   <trkpt lat="48.326251" lon="16.182066"><ele>169</ele></trkpt>
+   <trkpt lat="48.326253" lon="16.181185"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.326273" lon="16.180386"><ele>171.25</ele></trkpt>
+   <trkpt lat="48.326308" lon="16.179601"><ele>171.25</ele></trkpt>
+   <trkpt lat="48.326425" lon="16.177661"><ele>171.5</ele></trkpt>
+   <trkpt lat="48.326602" lon="16.175041"><ele>172.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
