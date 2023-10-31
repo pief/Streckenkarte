@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 232 filtered ascend = 1 plain-ascend = 2 cost=232 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>130 01 Prinzersdorf Weiche 53 - Prinzersdorf Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/48.20217/15.52371/standard&amp;lonlats=15.51937,48.201646;15.522356,48.202267&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.201645" lon="15.519369"><ele>256.5</ele></trkpt>
+   <trkpt lat="48.201647" lon="15.519375"><ele>256.5</ele></trkpt>
+   <trkpt lat="48.202255" lon="15.522311"><ele>258</ele></trkpt>
+   <trkpt lat="48.202265" lon="15.522355"><ele>258</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

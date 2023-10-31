@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 490 filtered ascend = 4 plain-ascend = 5 cost=490 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>103 02 Prinzersdorf Weiche 8 - Prinzersdorf Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/48.20551/15.53699/standard&amp;lonlats=15.534874,48.204798;15.541164,48.206103&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.204796" lon="15.534873"><ele>257</ele></trkpt>
+   <trkpt lat="48.204798" lon="15.53488"><ele>257.25</ele></trkpt>
+   <trkpt lat="48.204967" lon="15.535687"><ele>256.25</ele></trkpt>
+   <trkpt lat="48.205033" lon="15.53601"><ele>255.75</ele></trkpt>
+   <trkpt lat="48.205109" lon="15.536372"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.205902" lon="15.540177"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.206106" lon="15.541161"><ele>261.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

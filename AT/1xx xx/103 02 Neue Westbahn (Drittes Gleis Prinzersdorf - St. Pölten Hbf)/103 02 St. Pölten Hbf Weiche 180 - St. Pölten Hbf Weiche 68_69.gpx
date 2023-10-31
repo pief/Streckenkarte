@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 416 filtered ascend = 0 plain-ascend = -5 cost=416 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>103 02 St. Pölten Hbf Weiche 180 - St. Pölten Hbf Weiche 68/69</name>
+  <link href="https://bikerouter.de/#map=19/48.20898/15.61925/standard&amp;lonlats=15.614563,48.210835;15.618661,48.208772;15.619026,48.208659&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.210833" lon="15.614561"><ele>275</ele></trkpt>
+   <trkpt lat="48.210832" lon="15.614565"><ele>275</ele></trkpt>
+   <trkpt lat="48.210509" lon="15.615175"><ele>273.25</ele></trkpt>
+   <trkpt lat="48.209833" lon="15.616413"><ele>271.5</ele></trkpt>
+   <trkpt lat="48.209712" lon="15.616635"><ele>271.25</ele></trkpt>
+   <trkpt lat="48.209248" lon="15.617507"><ele>270.75</ele></trkpt>
+   <trkpt lat="48.209232" lon="15.617539"><ele>270.75</ele></trkpt>
+   <trkpt lat="48.208995" lon="15.618058"><ele>269.5</ele></trkpt>
+   <trkpt lat="48.208848" lon="15.618437"><ele>269</ele></trkpt>
+   <trkpt lat="48.208772" lon="15.618661"><ele>269.5</ele></trkpt>
+   <trkpt lat="48.208738" lon="15.618765"><ele>269.5</ele></trkpt>
+   <trkpt lat="48.208659" lon="15.61903"><ele>270</ele></trkpt>
+   <trkpt lat="48.208659" lon="15.619026"><ele>269.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 409 filtered ascend = 0 plain-ascend = 0 cost=409 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 Loosdorf bei Melk Weiche 4 - Loosdorf bei Melk Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.19050/15.41693/standard&amp;lonlats=15.413445,48.191543;15.418199,48.18971&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.191544" lon="15.413446"><ele>232.75</ele></trkpt>
+   <trkpt lat="48.191542" lon="15.413453"><ele>232.75</ele></trkpt>
+   <trkpt lat="48.191" lon="15.414861"><ele>232.5</ele></trkpt>
+   <trkpt lat="48.190454" lon="15.416284"><ele>232.75</ele></trkpt>
+   <trkpt lat="48.190388" lon="15.416451"><ele>232.5</ele></trkpt>
+   <trkpt lat="48.190262" lon="15.416779"><ele>232.25</ele></trkpt>
+   <trkpt lat="48.189712" lon="15.418199"><ele>231.75</ele></trkpt>
+   <trkpt lat="48.189711" lon="15.4182"><ele>231.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
