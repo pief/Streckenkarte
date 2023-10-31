@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 743 filtered ascend = 1 plain-ascend = -2 cost=744 energy=0.0kwh time=59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Atzenbrugg - Moosbierbaum-Heiligeneich Weiche 11</name>
+  <link href="https://bikerouter.de/#map=17/48.30302/15.90821/standard&amp;lonlats=15.91776,48.297337;15.909866,48.301427&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.297337" lon="15.91776"><ele>186.75</ele></trkpt>
+   <trkpt lat="48.297338" lon="15.917759"><ele>187</ele></trkpt>
+   <trkpt lat="48.297583" lon="15.917289"><ele>187.25</ele></trkpt>
+   <trkpt lat="48.29796" lon="15.916589"><ele>187.75</ele></trkpt>
+   <trkpt lat="48.298228" lon="15.916103"><ele>188.25</ele></trkpt>
+   <trkpt lat="48.298713" lon="15.91519"><ele>186.75</ele></trkpt>
+   <trkpt lat="48.299443" lon="15.913767"><ele>186.75</ele></trkpt>
+   <trkpt lat="48.300375" lon="15.911933"><ele>184.75</ele></trkpt>
+   <trkpt lat="48.300486" lon="15.911711"><ele>184.75</ele></trkpt>
+   <trkpt lat="48.300984" lon="15.910736"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.301427" lon="15.909866"><ele>183.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

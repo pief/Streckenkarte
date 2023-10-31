@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 841 filtered ascend = 2 plain-ascend = 3 cost=842 energy=0.0kwh time=1m 7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Moosbierbaum-Heiligeneich (Gleis 1) - Moosbierbaum-Heiligeneich Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/48.30559/15.90186/standard&amp;lonlats=15.900798,48.305959;15.909866,48.301427&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.305954" lon="15.900792"><ele>181</ele></trkpt>
+   <trkpt lat="48.305926" lon="15.900844"><ele>181</ele></trkpt>
+   <trkpt lat="48.305513" lon="15.901626"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.304806" lon="15.903125"><ele>181.5</ele></trkpt>
+   <trkpt lat="48.303722" lon="15.905257"><ele>180</ele></trkpt>
+   <trkpt lat="48.30181" lon="15.909002"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.3017" lon="15.909229"><ele>182</ele></trkpt>
+   <trkpt lat="48.301427" lon="15.909866"><ele>183.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

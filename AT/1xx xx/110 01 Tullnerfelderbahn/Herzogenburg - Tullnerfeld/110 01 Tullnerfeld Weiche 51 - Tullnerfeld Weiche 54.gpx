@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 3 plain-ascend = 2 cost=343 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Tullnerfeld Weiche 51 - Tullnerfeld Weiche 54</name>
+  <link href="https://bikerouter.de/#map=19/48.29584/15.98531/standard&amp;lonlats=15.988662,48.295528;15.984064,48.295673&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.295525" lon="15.988661"><ele>174</ele></trkpt>
+   <trkpt lat="48.295578" lon="15.987082"><ele>176.25</ele></trkpt>
+   <trkpt lat="48.295583" lon="15.986911"><ele>176.25</ele></trkpt>
+   <trkpt lat="48.295595" lon="15.98651"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.295623" lon="15.985653"><ele>177.25</ele></trkpt>
+   <trkpt lat="48.295671" lon="15.984068"><ele>175.5</ele></trkpt>
+   <trkpt lat="48.295671" lon="15.984063"><ele>175.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

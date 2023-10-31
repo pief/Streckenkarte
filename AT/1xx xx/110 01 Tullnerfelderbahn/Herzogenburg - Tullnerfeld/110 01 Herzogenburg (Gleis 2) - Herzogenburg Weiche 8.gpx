@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 156 filtered ascend = 1 plain-ascend = 0 cost=156 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Herzogenburg (Gleis 2) - Herzogenburg Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/48.27803/15.69763/standard&amp;lonlats=15.696398,48.276592;15.69655,48.277974&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.27659" lon="15.696398"><ele>227</ele></trkpt>
+   <trkpt lat="48.276615" lon="15.696401"><ele>227</ele></trkpt>
+   <trkpt lat="48.277492" lon="15.696487"><ele>228</ele></trkpt>
+   <trkpt lat="48.277804" lon="15.69652"><ele>227.5</ele></trkpt>
+   <trkpt lat="48.277971" lon="15.69655"><ele>227.25</ele></trkpt>
+   <trkpt lat="48.277972" lon="15.69655"><ele>227.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
