@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 0 plain-ascend = -1 cost=228 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Tulln/Donau Stadt Weiche 76 - Tulln/Donau Stadt (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.32862/16.05519/standard&amp;lonlats=16.056916,48.329204;16.054067,48.328432&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.329206" lon="16.056913"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.328844" lon="16.05557"><ele>177</ele></trkpt>
+   <trkpt lat="48.328755" lon="16.055245"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.328736" lon="16.055174"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.328434" lon="16.054064"><ele>176.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

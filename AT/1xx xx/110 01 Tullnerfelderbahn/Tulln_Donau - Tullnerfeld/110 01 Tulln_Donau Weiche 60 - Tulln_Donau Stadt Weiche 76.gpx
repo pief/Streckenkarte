@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 1 plain-ascend = 2 cost=268 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Tulln/Donau Weiche 60 - Tulln/Donau Stadt Weiche 76</name>
+  <link href="https://bikerouter.de/#map=19/48.32896/16.05824/standard&amp;lonlats=16.060364,48.329378;16.056916,48.329204&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.329378" lon="16.060364"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.329379" lon="16.060362"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.329451" lon="16.060104"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.329509" lon="16.059835"><ele>177</ele></trkpt>
+   <trkpt lat="48.329562" lon="16.059468"><ele>177</ele></trkpt>
+   <trkpt lat="48.329585" lon="16.059208"><ele>177</ele></trkpt>
+   <trkpt lat="48.329586" lon="16.05916"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.329588" lon="16.058875"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.329577" lon="16.058617"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.32956" lon="16.058428"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.329549" lon="16.058325"><ele>176.75</ele></trkpt>
+   <trkpt lat="48.329506" lon="16.058088"><ele>177</ele></trkpt>
+   <trkpt lat="48.329421" lon="16.057714"><ele>177.25</ele></trkpt>
+   <trkpt lat="48.329245" lon="16.057049"><ele>178</ele></trkpt>
+   <trkpt lat="48.329207" lon="16.056916"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.329206" lon="16.056913"><ele>178.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

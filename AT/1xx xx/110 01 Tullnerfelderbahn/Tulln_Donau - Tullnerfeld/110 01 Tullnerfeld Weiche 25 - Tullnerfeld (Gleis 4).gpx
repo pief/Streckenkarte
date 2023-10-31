@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 393 filtered ascend = 0 plain-ascend = -1 cost=393 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Tullnerfeld Weiche 25 - Tullnerfeld (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/48.29541/15.99895/standard&amp;lonlats=16.001764,48.295111;15.996512,48.295326&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.295108" lon="16.001763"><ele>177</ele></trkpt>
+   <trkpt lat="48.295109" lon="16.001763"><ele>177</ele></trkpt>
+   <trkpt lat="48.295168" lon="15.999991"><ele>175.75</ele></trkpt>
+   <trkpt lat="48.29527" lon="15.998051"><ele>176</ele></trkpt>
+   <trkpt lat="48.295326" lon="15.99652"><ele>176</ele></trkpt>
+   <trkpt lat="48.295326" lon="15.996512"><ele>175</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

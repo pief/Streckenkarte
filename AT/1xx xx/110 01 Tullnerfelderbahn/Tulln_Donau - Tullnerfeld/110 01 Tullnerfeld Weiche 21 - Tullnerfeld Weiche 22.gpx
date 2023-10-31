@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 149 filtered ascend = 0 plain-ascend = 0 cost=149 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 01 Tullnerfeld Weiche 21 - Tullnerfeld Weiche 22</name>
+  <link href="https://bikerouter.de/#map=19/48.29506/16.00355/standard&amp;lonlats=16.004642,48.295016;16.002652,48.295081&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.295016" lon="16.004642"><ele>177.5</ele></trkpt>
+   <trkpt lat="48.295017" lon="16.00464"><ele>177.5</ele></trkpt>
+   <trkpt lat="48.295079" lon="16.002651"><ele>177.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
