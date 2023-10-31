@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 1 plain-ascend = 2 cost=319 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>111 01 Hadersdorf/Kamp (Gleis 3) - Hadersdorf/Kamp Weiche 153</name>
+  <link href="https://bikerouter.de/#map=19/48.44455/15.71399/standard&amp;lonlats=15.714805,48.446529;15.714493,48.445363;15.714367,48.44506;15.714169,48.444746;15.713948,48.444488;15.713687,48.444248;15.713299,48.44396&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.446528" lon="15.714804"><ele>199.25</ele></trkpt>
+   <trkpt lat="48.445852" lon="15.714627"><ele>199.25</ele></trkpt>
+   <trkpt lat="48.445847" lon="15.714626"><ele>199.25</ele></trkpt>
+   <trkpt lat="48.445363" lon="15.714493"><ele>200.5</ele></trkpt>
+   <trkpt lat="48.445183" lon="15.714425"><ele>201</ele></trkpt>
+   <trkpt lat="48.44506" lon="15.714367"><ele>201.25</ele></trkpt>
+   <trkpt lat="48.444875" lon="15.714258"><ele>201.25</ele></trkpt>
+   <trkpt lat="48.444746" lon="15.714169"><ele>201.25</ele></trkpt>
+   <trkpt lat="48.444488" lon="15.713948"><ele>200.75</ele></trkpt>
+   <trkpt lat="48.444382" lon="15.71384"><ele>200.5</ele></trkpt>
+   <trkpt lat="48.444248" lon="15.713687"><ele>200</ele></trkpt>
+   <trkpt lat="48.444083" lon="15.713474"><ele>199.5</ele></trkpt>
+   <trkpt lat="48.443963" lon="15.713304"><ele>199.25</ele></trkpt>
+   <trkpt lat="48.443959" lon="15.713298"><ele>199</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

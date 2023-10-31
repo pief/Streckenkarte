@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 0 plain-ascend = -2 cost=164 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>111 01 Krems/Donau (Gleis 2A) - Krems/Donau Weiche 43</name>
+  <link href="https://bikerouter.de/#map=19/48.41008/15.60736/standard&amp;lonlats=15.605414,48.409192;15.607155,48.410089&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.409195" lon="15.605408"><ele>198.25</ele></trkpt>
+   <trkpt lat="48.409385" lon="15.605751"><ele>198.25</ele></trkpt>
+   <trkpt lat="48.409606" lon="15.606188"><ele>197.25</ele></trkpt>
+   <trkpt lat="48.410087" lon="15.607154"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.410088" lon="15.607155"><ele>195.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
