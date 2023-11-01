@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 219 filtered ascend = 0 plain-ascend = -3 cost=219 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>195 01 Parndorf Ort (Gleis 3) - Parndorf Ort Weiche 902</name>
+  <link href="https://bikerouter.de/#map=19/47.99177/16.85052/standard&amp;lonlats=16.85139,47.991677;16.849387,47.993052&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.991674" lon="16.851382"><ele>169.5</ele></trkpt>
+   <trkpt lat="47.991851" lon="16.851257"><ele>169.5</ele></trkpt>
+   <trkpt lat="47.991868" lon="16.851244"><ele>169.25</ele></trkpt>
+   <trkpt lat="47.991985" lon="16.851141"><ele>169.25</ele></trkpt>
+   <trkpt lat="47.992133" lon="16.850988"><ele>169</ele></trkpt>
+   <trkpt lat="47.992281" lon="16.850815"><ele>168.75</ele></trkpt>
+   <trkpt lat="47.992473" lon="16.850549"><ele>167.75</ele></trkpt>
+   <trkpt lat="47.992564" lon="16.850406"><ele>167.25</ele></trkpt>
+   <trkpt lat="47.992648" lon="16.850256"><ele>166.75</ele></trkpt>
+   <trkpt lat="47.992851" lon="16.849849"><ele>165.75</ele></trkpt>
+   <trkpt lat="47.993051" lon="16.849392"><ele>165.5</ele></trkpt>
+   <trkpt lat="47.993052" lon="16.849387"><ele>165.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

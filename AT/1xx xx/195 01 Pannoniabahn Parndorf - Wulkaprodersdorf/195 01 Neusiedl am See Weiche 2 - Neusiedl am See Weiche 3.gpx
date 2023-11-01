@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8 filtered ascend = 0 plain-ascend = 1 cost=8 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>195 01 Neusiedl am See Weiche 2 - Neusiedl am See Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/47.95492/16.81798/standard&amp;lonlats=16.817579,47.954968;16.817668,47.954966&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.954967" lon="16.817578"><ele>125.5</ele></trkpt>
+   <trkpt lat="47.954967" lon="16.81758"><ele>125.75</ele></trkpt>
+   <trkpt lat="47.954966" lon="16.817668"><ele>126</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
