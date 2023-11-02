@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 2 plain-ascend = 3 cost=150 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>602 01 Mönchhof-Halbturn (Gleis 1) - Mönchhof-Halbturn Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/47.87483/16.94769/standard&amp;lonlats=16.946807,47.874711;16.945274,47.875562&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.87471" lon="16.946807"><ele>124</ele></trkpt>
+   <trkpt lat="47.874827" lon="16.946577"><ele>124</ele></trkpt>
+   <trkpt lat="47.874968" lon="16.946336"><ele>124</ele></trkpt>
+   <trkpt lat="47.875123" lon="16.946093"><ele>124</ele></trkpt>
+   <trkpt lat="47.875306" lon="16.945779"><ele>124.25</ele></trkpt>
+   <trkpt lat="47.875562" lon="16.945276"><ele>126</ele></trkpt>
+   <trkpt lat="47.875562" lon="16.945274"><ele>126.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

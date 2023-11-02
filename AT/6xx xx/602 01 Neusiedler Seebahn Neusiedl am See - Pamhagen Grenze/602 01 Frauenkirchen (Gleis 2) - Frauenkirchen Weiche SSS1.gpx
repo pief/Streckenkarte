@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 236 filtered ascend = 2 plain-ascend = 2 cost=236 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>602 01 Frauenkirchen (Gleis 2) - Frauenkirchen Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/47.83852/16.91530/standard&amp;lonlats=16.915803,47.83986;16.914664,47.837894&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.839857" lon="16.915808"><ele>120</ele></trkpt>
+   <trkpt lat="47.839203" lon="16.915434"><ele>120.25</ele></trkpt>
+   <trkpt lat="47.838245" lon="16.914868"><ele>121.75</ele></trkpt>
+   <trkpt lat="47.837894" lon="16.914668"><ele>121.5</ele></trkpt>
+   <trkpt lat="47.837892" lon="16.914667"><ele>122.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 0 plain-ascend = -1 cost=198 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>602 01 St. Andrä/Zicksee (Gleis 2) - St. Andrä/Zicksee Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/47.78036/16.92868/standard&amp;lonlats=16.92804,47.782116;16.928282,47.780347&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.782115" lon="16.928036"><ele>119.5</ele></trkpt>
+   <trkpt lat="47.780842" lon="16.928211"><ele>117</ele></trkpt>
+   <trkpt lat="47.780348" lon="16.928286"><ele>117.5</ele></trkpt>
+   <trkpt lat="47.780347" lon="16.928286"><ele>117.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
