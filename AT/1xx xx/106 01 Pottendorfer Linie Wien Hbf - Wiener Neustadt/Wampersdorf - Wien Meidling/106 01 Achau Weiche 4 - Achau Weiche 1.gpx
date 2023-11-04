@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 465 filtered ascend = 1 plain-ascend = 3 cost=465 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Achau Weiche 4 - Achau Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.09025/16.36933/standard&amp;lonlats=16.372244,48.087013;16.369485,48.0899;16.36888,48.090516&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.087012" lon="16.372241"><ele>173.25</ele></trkpt>
+   <trkpt lat="48.087016" lon="16.372238"><ele>173.25</ele></trkpt>
+   <trkpt lat="48.089896" lon="16.369476"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.090517" lon="16.368882"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.090516" lon="16.368882"><ele>175</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

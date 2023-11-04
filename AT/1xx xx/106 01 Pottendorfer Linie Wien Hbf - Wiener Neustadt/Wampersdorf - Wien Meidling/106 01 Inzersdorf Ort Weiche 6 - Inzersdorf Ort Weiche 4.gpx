@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 1 plain-ascend = 2 cost=114 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Inzersdorf Ort Weiche 6 - Inzersdorf Ort Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/48.15252/16.34455/standard&amp;lonlats=16.345767,48.152348;16.344304,48.152631&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.152348" lon="16.345767"><ele>188.25</ele></trkpt>
+   <trkpt lat="48.152349" lon="16.345765"><ele>188.25</ele></trkpt>
+   <trkpt lat="48.152629" lon="16.344303"><ele>190</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

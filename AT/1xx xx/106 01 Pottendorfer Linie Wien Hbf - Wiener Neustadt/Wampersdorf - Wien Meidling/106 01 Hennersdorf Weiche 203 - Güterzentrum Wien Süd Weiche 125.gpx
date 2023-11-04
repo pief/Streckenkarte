@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 861 filtered ascend = 5 plain-ascend = 5 cost=861 energy=0.0kwh time=1m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Hennersdorf Weiche 203 - Güterzentrum Wien Süd Weiche 125</name>
+  <link href="https://bikerouter.de/#map=19/48.12502/16.36379/standard&amp;lonlats=16.360547,48.117811;16.363071,48.123838;16.363661,48.125256&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.117809" lon="16.360549"><ele>185.25</ele></trkpt>
+   <trkpt lat="48.117813" lon="16.360551"><ele>185.25</ele></trkpt>
+   <trkpt lat="48.118002" lon="16.360634"><ele>184.75</ele></trkpt>
+   <trkpt lat="48.118629" lon="16.360914"><ele>184.25</ele></trkpt>
+   <trkpt lat="48.119247" lon="16.361168"><ele>186</ele></trkpt>
+   <trkpt lat="48.123733" lon="16.363029"><ele>189</ele></trkpt>
+   <trkpt lat="48.123836" lon="16.363072"><ele>188.5</ele></trkpt>
+   <trkpt lat="48.124366" lon="16.363294"><ele>188.5</ele></trkpt>
+   <trkpt lat="48.124731" lon="16.363445"><ele>189.25</ele></trkpt>
+   <trkpt lat="48.125253" lon="16.363662"><ele>190.25</ele></trkpt>
+   <trkpt lat="48.125255" lon="16.363662"><ele>190.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

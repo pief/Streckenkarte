@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1233 filtered ascend = 1 plain-ascend = -5 cost=1233 energy=0.0kwh time=1m 39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Güterzentrum Wien Süd Weiche 105 - Wien Blumental Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/48.13803/16.36920/standard&amp;lonlats=16.364342,48.126892;16.368787,48.137581&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.126891" lon="16.364341"><ele>191</ele></trkpt>
+   <trkpt lat="48.126897" lon="16.364344"><ele>191.25</ele></trkpt>
+   <trkpt lat="48.127538" lon="16.364612"><ele>192.25</ele></trkpt>
+   <trkpt lat="48.129057" lon="16.365242"><ele>190.5</ele></trkpt>
+   <trkpt lat="48.1365" lon="16.368341"><ele>186</ele></trkpt>
+   <trkpt lat="48.137471" lon="16.368745"><ele>185.5</ele></trkpt>
+   <trkpt lat="48.137579" lon="16.36879"><ele>185.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

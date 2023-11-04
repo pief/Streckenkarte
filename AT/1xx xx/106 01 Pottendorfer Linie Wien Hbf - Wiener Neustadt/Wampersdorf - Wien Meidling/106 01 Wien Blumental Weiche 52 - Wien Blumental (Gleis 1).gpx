@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 232 filtered ascend = 0 plain-ascend = -1 cost=232 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Wien Blumental Weiche 52 - Wien Blumental (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.13951/16.37023/standard&amp;lonlats=16.368787,48.137581;16.369627,48.139589&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.137579" lon="16.36879"><ele>185.25</ele></trkpt>
+   <trkpt lat="48.137588" lon="16.368794"><ele>185.25</ele></trkpt>
+   <trkpt lat="48.138395" lon="16.36913"><ele>183.75</ele></trkpt>
+   <trkpt lat="48.138494" lon="16.369173"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.138515" lon="16.369181"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.138601" lon="16.369215"><ele>183.25</ele></trkpt>
+   <trkpt lat="48.138851" lon="16.36932"><ele>183</ele></trkpt>
+   <trkpt lat="48.139586" lon="16.369631"><ele>183</ele></trkpt>
+   <trkpt lat="48.139587" lon="16.369631"><ele>183</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

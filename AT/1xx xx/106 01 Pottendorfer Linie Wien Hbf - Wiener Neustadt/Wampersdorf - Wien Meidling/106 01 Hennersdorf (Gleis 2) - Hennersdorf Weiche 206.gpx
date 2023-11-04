@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 276 filtered ascend = 0 plain-ascend = 0 cost=276 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Hennersdorf (Gleis 2) - Hennersdorf Weiche 206</name>
+  <link href="https://bikerouter.de/#map=19/48.11546/16.35974/standard&amp;lonlats=16.358386,48.112752;16.359351,48.115136&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.112751" lon="16.358381"><ele>184</ele></trkpt>
+   <trkpt lat="48.113229" lon="16.358546"><ele>184.25</ele></trkpt>
+   <trkpt lat="48.11374" lon="16.358752"><ele>183</ele></trkpt>
+   <trkpt lat="48.113974" lon="16.35884"><ele>182.25</ele></trkpt>
+   <trkpt lat="48.114629" lon="16.359115"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.115134" lon="16.359353"><ele>182.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

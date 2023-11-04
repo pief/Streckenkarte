@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 1 cost=21 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Hennersdorf Weiche 254 - Hennersdorf Weiche 253</name>
+  <link href="https://bikerouter.de/#map=19/48.10812/16.35778/standard&amp;lonlats=16.357318,48.107655;16.357328,48.107841&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.107653" lon="16.357318"><ele>184.5</ele></trkpt>
+   <trkpt lat="48.107839" lon="16.357334"><ele>185</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

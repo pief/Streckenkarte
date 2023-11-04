@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 468 filtered ascend = 0 plain-ascend = 0 cost=469 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Hennersdorf Weiche 252 - Hennersdorf (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.11272/16.35851/standard&amp;lonlats=16.357417,48.108603;16.358386,48.112752&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.108601" lon="16.357419"><ele>185.25</ele></trkpt>
+   <trkpt lat="48.108608" lon="16.35742"><ele>185.5</ele></trkpt>
+   <trkpt lat="48.109137" lon="16.357497"><ele>185</ele></trkpt>
+   <trkpt lat="48.109563" lon="16.357572"><ele>184.5</ele></trkpt>
+   <trkpt lat="48.110686" lon="16.357792"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.110753" lon="16.357814"><ele>182.75</ele></trkpt>
+   <trkpt lat="48.111206" lon="16.357919"><ele>183</ele></trkpt>
+   <trkpt lat="48.111983" lon="16.35814"><ele>183.25</ele></trkpt>
+   <trkpt lat="48.112189" lon="16.358204"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.112526" lon="16.358303"><ele>184</ele></trkpt>
+   <trkpt lat="48.112751" lon="16.358381"><ele>184</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

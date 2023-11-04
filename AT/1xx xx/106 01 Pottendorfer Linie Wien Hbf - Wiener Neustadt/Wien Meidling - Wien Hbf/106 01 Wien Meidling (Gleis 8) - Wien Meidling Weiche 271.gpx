@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 542 filtered ascend = 0 plain-ascend = 0 cost=542 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Wien Meidling (Gleis 8) - Wien Meidling Weiche 271</name>
+  <link href="https://bikerouter.de/#map=18/48.17520/16.34151/standard&amp;lonlats=16.334058,48.174229;16.341034,48.175625&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.174229" lon="16.334056"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.174242" lon="16.334118"><ele>210.75</ele></trkpt>
+   <trkpt lat="48.17441" lon="16.33493"><ele>209</ele></trkpt>
+   <trkpt lat="48.174674" lon="16.336207"><ele>207</ele></trkpt>
+   <trkpt lat="48.174688" lon="16.336275"><ele>207.25</ele></trkpt>
+   <trkpt lat="48.17482" lon="16.336916"><ele>208</ele></trkpt>
+   <trkpt lat="48.174972" lon="16.337657"><ele>206.75</ele></trkpt>
+   <trkpt lat="48.175376" lon="16.339495"><ele>208.5</ele></trkpt>
+   <trkpt lat="48.175439" lon="16.339809"><ele>209</ele></trkpt>
+   <trkpt lat="48.175485" lon="16.340075"><ele>209.5</ele></trkpt>
+   <trkpt lat="48.175555" lon="16.340501"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.175619" lon="16.340984"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.175625" lon="16.34103"><ele>209.25</ele></trkpt>
+   <trkpt lat="48.175625" lon="16.341032"><ele>209.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

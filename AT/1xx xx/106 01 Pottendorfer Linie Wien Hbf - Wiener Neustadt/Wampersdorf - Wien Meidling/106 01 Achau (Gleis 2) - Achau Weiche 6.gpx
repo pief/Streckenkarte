@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 672 filtered ascend = 2 plain-ascend = 2 cost=672 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Achau (Gleis 2) - Achau Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/48.08573/16.37361/standard&amp;lonlats=16.37814,48.08077;16.373344,48.085861&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.08077" lon="16.378142"><ele>171.5</ele></trkpt>
+   <trkpt lat="48.080776" lon="16.378137"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.08204" lon="16.376932"><ele>172.75</ele></trkpt>
+   <trkpt lat="48.083947" lon="16.375161"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.084553" lon="16.374594"><ele>170.75</ele></trkpt>
+   <trkpt lat="48.085861" lon="16.373345"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.085861" lon="16.373344"><ele>173.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

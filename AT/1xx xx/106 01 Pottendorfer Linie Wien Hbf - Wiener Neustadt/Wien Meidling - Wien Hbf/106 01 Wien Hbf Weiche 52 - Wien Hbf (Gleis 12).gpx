@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 0 plain-ascend = 0 cost=294 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Wien Hbf Weiche 52 - Wien Hbf (Gleis 12)</name>
+  <link href="https://bikerouter.de/#map=19/48.18434/16.37745/standard&amp;lonlats=16.373891,48.184861;16.377821,48.184503&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.18486" lon="16.37389"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184861" lon="16.373897"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184876" lon="16.374143"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184882" lon="16.374351"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184883" lon="16.374489"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184871" lon="16.374875"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184861" lon="16.375068"><ele>201.5</ele></trkpt>
+   <trkpt lat="48.184847" lon="16.375244"><ele>201</ele></trkpt>
+   <trkpt lat="48.184826" lon="16.375483"><ele>200</ele></trkpt>
+   <trkpt lat="48.18476" lon="16.376044"><ele>198.75</ele></trkpt>
+   <trkpt lat="48.184522" lon="16.377675"><ele>199</ele></trkpt>
+   <trkpt lat="48.184513" lon="16.377732"><ele>199</ele></trkpt>
+   <trkpt lat="48.184503" lon="16.377802"><ele>199.25</ele></trkpt>
+   <trkpt lat="48.1845" lon="16.37782"><ele>200.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
