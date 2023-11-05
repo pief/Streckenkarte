@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 541 filtered ascend = 5 plain-ascend = 6 cost=541 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>601 01 Wulkaprodersdorf (Gleis 3) - Wulkaprodersdorf Weiche 363</name>
+  <link href="https://bikerouter.de/#map=19/47.78965/16.49041/standard&amp;lonlats=16.490581,47.789598;16.490717,47.784732&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.789598" lon="16.490583"><ele>171.5</ele></trkpt>
+   <trkpt lat="47.789568" lon="16.490584"><ele>171.75</ele></trkpt>
+   <trkpt lat="47.789511" lon="16.490585"><ele>171.75</ele></trkpt>
+   <trkpt lat="47.788082" lon="16.490622"><ele>174.5</ele></trkpt>
+   <trkpt lat="47.785347" lon="16.490699"><ele>175.75</ele></trkpt>
+   <trkpt lat="47.784736" lon="16.490717"><ele>176.5</ele></trkpt>
+   <trkpt lat="47.784732" lon="16.490717"><ele>177</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

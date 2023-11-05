@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1750 filtered ascend = 0 plain-ascend = -6 cost=1750 energy=0.0kwh time=2m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>601 01 Baumgarten-Schattendorf Weiche 51 - Baumgarten Grenze</name>
+  <link href="https://bikerouter.de/#map=14/47.7236/16.5228/standard&amp;lonlats=16.523856,47.724083;16.54136,47.71369&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.724082" lon="16.523855"><ele>235.5</ele></trkpt>
+   <trkpt lat="47.723861" lon="16.524224"><ele>235.25</ele></trkpt>
+   <trkpt lat="47.723536" lon="16.524774"><ele>234.5</ele></trkpt>
+   <trkpt lat="47.723276" lon="16.525212"><ele>234.25</ele></trkpt>
+   <trkpt lat="47.723231" lon="16.525287"><ele>234.25</ele></trkpt>
+   <trkpt lat="47.722633" lon="16.526263"><ele>234.75</ele></trkpt>
+   <trkpt lat="47.72258" lon="16.526347"><ele>234.75</ele></trkpt>
+   <trkpt lat="47.721043" lon="16.528815"><ele>234.25</ele></trkpt>
+   <trkpt lat="47.719711" lon="16.530954"><ele>232.5</ele></trkpt>
+   <trkpt lat="47.717851" lon="16.533941"><ele>232.25</ele></trkpt>
+   <trkpt lat="47.717614" lon="16.534335"><ele>232.5</ele></trkpt>
+   <trkpt lat="47.717166" lon="16.535126"><ele>231.5</ele></trkpt>
+   <trkpt lat="47.717125" lon="16.535201"><ele>231.5</ele></trkpt>
+   <trkpt lat="47.715251" lon="16.538607"><ele>229.75</ele></trkpt>
+   <trkpt lat="47.714075" lon="16.540667"><ele>229</ele></trkpt>
+   <trkpt lat="47.71369" lon="16.54136"><ele>229</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

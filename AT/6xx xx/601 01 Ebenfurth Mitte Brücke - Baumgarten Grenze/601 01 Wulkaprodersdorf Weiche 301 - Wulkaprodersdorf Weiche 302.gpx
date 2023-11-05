@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 127 filtered ascend = 0 plain-ascend = 1 cost=127 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>601 01 Wulkaprodersdorf Weiche 301 - Wulkaprodersdorf Weiche 302</name>
+  <link href="https://bikerouter.de/#map=19/47.79264/16.49050/standard&amp;lonlats=16.490484,47.792777;16.490516,47.791629&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.792777" lon="16.490487"><ele>171</ele></trkpt>
+   <trkpt lat="47.79219" lon="16.490503"><ele>171.25</ele></trkpt>
+   <trkpt lat="47.792069" lon="16.490506"><ele>171.5</ele></trkpt>
+   <trkpt lat="47.791629" lon="16.490518"><ele>171.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

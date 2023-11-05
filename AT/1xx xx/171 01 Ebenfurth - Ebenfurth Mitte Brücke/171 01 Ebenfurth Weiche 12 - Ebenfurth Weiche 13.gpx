@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 253 filtered ascend = 5 plain-ascend = 7 cost=254 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>171 01 Ebenfurth Weiche 12 - Ebenfurth Weiche 13</name>
+  <link href="https://bikerouter.de/#map=19/47.87837/16.36522/standard&amp;lonlats=16.367227,47.878713;16.365866,47.878405;16.364015,47.877995&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.878713" lon="16.367227"><ele>226</ele></trkpt>
+   <trkpt lat="47.878529" lon="16.366443"><ele>227</ele></trkpt>
+   <trkpt lat="47.878406" lon="16.365864"><ele>229.5</ele></trkpt>
+   <trkpt lat="47.87812" lon="16.36451"><ele>229.5</ele></trkpt>
+   <trkpt lat="47.878043" lon="16.364187"><ele>230.25</ele></trkpt>
+   <trkpt lat="47.877993" lon="16.364014"><ele>230.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

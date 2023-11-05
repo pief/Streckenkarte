@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 199 filtered ascend = 2 plain-ascend = 2 cost=199 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>601 01 Neufeld an der Leitha (Gleis 2) - Neufeld an der Leitha Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/47.86997/16.38021/standard&amp;lonlats=16.38127,47.868491;16.380057,47.870073&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.868492" lon="16.381273"><ele>228.5</ele></trkpt>
+   <trkpt lat="47.868498" lon="16.381269"><ele>228.75</ele></trkpt>
+   <trkpt lat="47.869641" lon="16.380392"><ele>230.5</ele></trkpt>
+   <trkpt lat="47.870074" lon="16.380058"><ele>230.75</ele></trkpt>
+   <trkpt lat="47.870073" lon="16.380058"><ele>230.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
