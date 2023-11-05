@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 31 filtered ascend = 0 plain-ascend = 0 cost=31 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>GYSEV 8E Sopron Weiche 3 - Sopron Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/47.67904/16.58424/standard&amp;lonlats=16.584653,47.679154;16.584932,47.678962&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.679154" lon="16.584653"><ele>214.25</ele></trkpt>
+   <trkpt lat="47.679154" lon="16.584654"><ele>214.25</ele></trkpt>
+   <trkpt lat="47.678962" lon="16.584933"><ele>213.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
