@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 495 filtered ascend = 0 plain-ascend = -4 cost=495 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>GYSEV 8 Sopron (Gleis 3a) - Sopron Weiche 10</name>
+  <link href="https://bikerouter.de/#map=18/47.67636/16.59090/standard&amp;lonlats=16.587408,47.677319;16.59215,47.674247&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.67732" lon="16.58741"><ele>214.5</ele></trkpt>
+   <trkpt lat="47.676841" lon="16.588118"><ele>214.25</ele></trkpt>
+   <trkpt lat="47.674997" lon="16.590775"><ele>210</ele></trkpt>
+   <trkpt lat="47.67464" lon="16.591348"><ele>210.25</ele></trkpt>
+   <trkpt lat="47.674246" lon="16.59215"><ele>211</ele></trkpt>
+   <trkpt lat="47.674246" lon="16.592149"><ele>210</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

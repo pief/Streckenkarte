@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5682 filtered ascend = 16 plain-ascend = 16 cost=5682 energy=0.1kwh time=7m 35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>GYSEV 8 Fertőszentmiklós Weiche WWW3 - Pinnye Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=18/47.60044/16.77313/standard&amp;lonlats=16.850299,47.600852;16.774685,47.600296&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.600852" lon="16.850299"><ele>127</ele></trkpt>
+   <trkpt lat="47.600852" lon="16.850149"><ele>127</ele></trkpt>
+   <trkpt lat="47.600866" lon="16.849316"><ele>126.75</ele></trkpt>
+   <trkpt lat="47.60084" lon="16.846964"><ele>127</ele></trkpt>
+   <trkpt lat="47.600754" lon="16.837515"><ele>127.75</ele></trkpt>
+   <trkpt lat="47.600671" lon="16.825242"><ele>135.25</ele></trkpt>
+   <trkpt lat="47.600613" lon="16.816518"><ele>135</ele></trkpt>
+   <trkpt lat="47.60049" lon="16.800572"><ele>138.25</ele></trkpt>
+   <trkpt lat="47.600339" lon="16.780112"><ele>142</ele></trkpt>
+   <trkpt lat="47.600308" lon="16.776645"><ele>142.25</ele></trkpt>
+   <trkpt lat="47.600306" lon="16.776492"><ele>142</ele></trkpt>
+   <trkpt lat="47.600293" lon="16.774686"><ele>143</ele></trkpt>
+   <trkpt lat="47.600292" lon="16.774684"><ele>143.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
