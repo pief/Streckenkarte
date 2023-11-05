@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 10 plain-ascend = 11 cost=359 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2810 Meinerzhagen (Gleis 2) - Meinerzhagen Weiche 14</name>
+  <link href="https://bikerouter.de/#map=18/51.10666/7.63034/standard&amp;lonlats=7.632818,51.10781;7.629334,51.105604&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.107809" lon="7.632817"><ele>404.5</ele></trkpt>
+   <trkpt lat="51.107757" lon="7.632585"><ele>404.75</ele></trkpt>
+   <trkpt lat="51.107673" lon="7.632264"><ele>404.75</ele></trkpt>
+   <trkpt lat="51.107576" lon="7.631952"><ele>404.75</ele></trkpt>
+   <trkpt lat="51.107475" lon="7.631671"><ele>405.25</ele></trkpt>
+   <trkpt lat="51.107405" lon="7.631493"><ele>406</ele></trkpt>
+   <trkpt lat="51.107232" lon="7.631111"><ele>407.5</ele></trkpt>
+   <trkpt lat="51.107083" lon="7.630825"><ele>408.25</ele></trkpt>
+   <trkpt lat="51.106914" lon="7.630544"><ele>409</ele></trkpt>
+   <trkpt lat="51.106837" lon="7.630431"><ele>409.25</ele></trkpt>
+   <trkpt lat="51.106676" lon="7.630219"><ele>409.25</ele></trkpt>
+   <trkpt lat="51.106519" lon="7.630045"><ele>410.25</ele></trkpt>
+   <trkpt lat="51.106309" lon="7.629853"><ele>411.5</ele></trkpt>
+   <trkpt lat="51.105603" lon="7.629333"><ele>415</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
