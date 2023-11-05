@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 252 filtered ascend = 2 plain-ascend = 2 cost=252 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2815 Krummenerl (Gleis 2) - Krummenerl Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/51.08026/7.75562/standard&amp;lonlats=7.755619,51.080244;7.755256,51.082487&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.080243" lon="7.755614"><ele>354.75</ele></trkpt>
+   <trkpt lat="51.081117" lon="7.755511"><ele>354.75</ele></trkpt>
+   <trkpt lat="51.081982" lon="7.75535"><ele>355.5</ele></trkpt>
+   <trkpt lat="51.082487" lon="7.755256"><ele>356.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 225 filtered ascend = 12 plain-ascend = 12 cost=225 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2815 Krummenerl Weiche 4 - Krummenerl Gleissperre Anschlussgleis</name>
+  <link href="https://bikerouter.de/#map=19/51.07737/7.75633/standard&amp;lonlats=7.755736,51.079128;7.756748,51.077232&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.079128" lon="7.755741"><ele>352.25</ele></trkpt>
+   <trkpt lat="51.079058" lon="7.755748"><ele>352.25</ele></trkpt>
+   <trkpt lat="51.078974" lon="7.755759"><ele>352.25</ele></trkpt>
+   <trkpt lat="51.078767" lon="7.755798"><ele>352</ele></trkpt>
+   <trkpt lat="51.078557" lon="7.755857"><ele>351.75</ele></trkpt>
+   <trkpt lat="51.078442" lon="7.755897"><ele>351.5</ele></trkpt>
+   <trkpt lat="51.078186" lon="7.756012"><ele>352.5</ele></trkpt>
+   <trkpt lat="51.077928" lon="7.756159"><ele>354.75</ele></trkpt>
+   <trkpt lat="51.077806" lon="7.756242"><ele>356</ele></trkpt>
+   <trkpt lat="51.077578" lon="7.756419"><ele>358.25</ele></trkpt>
+   <trkpt lat="51.077475" lon="7.756511"><ele>359.5</ele></trkpt>
+   <trkpt lat="51.077268" lon="7.756714"><ele>363.25</ele></trkpt>
+   <trkpt lat="51.077234" lon="7.756752"><ele>364.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
