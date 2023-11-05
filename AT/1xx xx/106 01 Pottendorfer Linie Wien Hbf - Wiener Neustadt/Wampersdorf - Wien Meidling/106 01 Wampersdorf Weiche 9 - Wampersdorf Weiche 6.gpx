@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = 0 cost=45 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Wampersdorf Weiche 9 - Wampersdorf Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/47.93471/16.42021/standard&amp;lonlats=16.418898,47.934705;16.419087,47.935089&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.934703" lon="16.418898"><ele>202</ele></trkpt>
+   <trkpt lat="47.934708" lon="16.4189"><ele>202</ele></trkpt>
+   <trkpt lat="47.935088" lon="16.419086"><ele>202</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

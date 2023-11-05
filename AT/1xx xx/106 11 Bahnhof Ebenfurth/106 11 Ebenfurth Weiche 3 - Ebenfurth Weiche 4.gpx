@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 29 filtered ascend = 0 plain-ascend = 0 cost=29 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 11 Ebenfurth Weiche 3 - Ebenfurth Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/47.87853/16.36492/standard&amp;lonlats=16.365112,47.878326;16.364769,47.878243&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.878324" lon="16.365111"><ele>228.75</ele></trkpt>
+   <trkpt lat="47.878325" lon="16.365116"><ele>228.75</ele></trkpt>
+   <trkpt lat="47.878239" lon="16.364769"><ele>229</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

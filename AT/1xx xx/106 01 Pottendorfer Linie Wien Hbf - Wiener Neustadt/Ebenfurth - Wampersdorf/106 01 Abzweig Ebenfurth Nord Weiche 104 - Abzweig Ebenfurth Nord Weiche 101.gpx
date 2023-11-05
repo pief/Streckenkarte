@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 178 filtered ascend = 0 plain-ascend = 0 cost=178 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>106 01 Abzweig Ebenfurth Nord Weiche 104 - Abzweig Ebenfurth Nord Weiche 101</name>
+  <link href="https://bikerouter.de/#map=19/47.88571/16.37523/standard&amp;lonlats=16.373443,47.88474;16.37438,47.885553;16.374862,47.886019&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.884739" lon="16.373442"><ele>222.5</ele></trkpt>
+   <trkpt lat="47.884746" lon="16.37345"><ele>222.5</ele></trkpt>
+   <trkpt lat="47.885359" lon="16.374159"><ele>222.75</ele></trkpt>
+   <trkpt lat="47.885556" lon="16.374371"><ele>222.75</ele></trkpt>
+   <trkpt lat="47.886011" lon="16.374863"><ele>222.75</ele></trkpt>
+   <trkpt lat="47.886015" lon="16.374868"><ele>222.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
