@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 166 filtered ascend = 0 plain-ascend = 0 cost=166 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>3500 Oberneisen Weiche 1 - Oberneisen Weiche 10</name>
+  <link href="https://bikerouter.de/#map=19/50.32426/8.07094/standard&amp;lonlats=8.069635,50.325024;8.070654,50.3237">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.325025" lon="8.069638"><ele>135</ele></trkpt>
+   <trkpt lat="50.324825" lon="8.069878"><ele>135</ele></trkpt>
+   <trkpt lat="50.324698" lon="8.070009"><ele>134.75</ele></trkpt>
+   <trkpt lat="50.324543" lon="8.070154"><ele>134.75</ele></trkpt>
+   <trkpt lat="50.324372" lon="8.070288"><ele>134.5</ele></trkpt>
+   <trkpt lat="50.3242" lon="8.070407"><ele>134.5</ele></trkpt>
+   <trkpt lat="50.324034" lon="8.070508"><ele>134.5</ele></trkpt>
+   <trkpt lat="50.323872" lon="8.070588"><ele>134.5</ele></trkpt>
+   <trkpt lat="50.323705" lon="8.070655"><ele>134.25</ele></trkpt>
+   <trkpt lat="50.3237" lon="8.070656"><ele>134.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

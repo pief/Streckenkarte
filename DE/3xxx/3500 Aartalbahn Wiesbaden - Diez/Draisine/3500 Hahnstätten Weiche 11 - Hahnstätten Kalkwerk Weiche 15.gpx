@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 0 plain-ascend = -4 cost=135 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>3500 Hahnstätten Weiche 11 - Hahnstätten Kalkwerk Weiche 15</name>
+  <link href="https://bikerouter.de/#map=16/50.3124/8.0699/standard&amp;lonlats=8.065166,50.311598;8.065326,50.312794">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.311596" lon="8.065169"><ele>147.25</ele></trkpt>
+   <trkpt lat="50.311737" lon="8.065173"><ele>147.25</ele></trkpt>
+   <trkpt lat="50.312031" lon="8.065203"><ele>145.5</ele></trkpt>
+   <trkpt lat="50.312326" lon="8.065244"><ele>143.75</ele></trkpt>
+   <trkpt lat="50.312635" lon="8.0653"><ele>142.5</ele></trkpt>
+   <trkpt lat="50.312792" lon="8.065326"><ele>142.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

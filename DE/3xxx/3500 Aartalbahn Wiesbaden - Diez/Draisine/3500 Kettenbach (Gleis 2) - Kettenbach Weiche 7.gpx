@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 186 filtered ascend = 1 plain-ascend = 1 cost=186 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>3500 Kettenbach (Gleis 2) - Kettenbach Weiche 7</name>
+  <link href="https://bikerouter.de/#map=18/50.24619/8.06757/standard&amp;lonlats=8.066046,50.246117;8.064791,50.24757">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.246121" lon="8.066059"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.246193" lon="8.066001"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.247093" lon="8.065276"><ele>189.5</ele></trkpt>
+   <trkpt lat="50.247343" lon="8.065047"><ele>188</ele></trkpt>
+   <trkpt lat="50.24757" lon="8.064793"><ele>189</ele></trkpt>
+   <trkpt lat="50.24757" lon="8.064792"><ele>191.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
