@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 2 plain-ascend = 2 cost=399 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Kledering Weiche 503 - Kledering (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.13317/16.43941/standard&amp;lonlats=16.441308,48.130029;16.439142,48.133326&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.130029" lon="16.441308"><ele>170.5</ele></trkpt>
+   <trkpt lat="48.130244" lon="16.441162"><ele>170.5</ele></trkpt>
+   <trkpt lat="48.131118" lon="16.440583"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.131204" lon="16.440527"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.133292" lon="16.439163"><ele>172</ele></trkpt>
+   <trkpt lat="48.133325" lon="16.43914"><ele>172.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

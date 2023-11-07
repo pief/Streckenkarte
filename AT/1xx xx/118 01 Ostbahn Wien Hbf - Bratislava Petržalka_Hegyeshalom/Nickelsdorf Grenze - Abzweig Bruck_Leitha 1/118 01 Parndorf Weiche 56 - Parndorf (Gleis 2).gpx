@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 827 filtered ascend = 3 plain-ascend = 2 cost=827 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Parndorf Weiche 56 - Parndorf (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.98689/16.87189/standard&amp;lonlats=16.881786,47.987322;16.870741,47.986947&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.987321" lon="16.881785"><ele>177</ele></trkpt>
+   <trkpt lat="47.987321" lon="16.881783"><ele>177</ele></trkpt>
+   <trkpt lat="47.987249" lon="16.880179"><ele>177.25</ele></trkpt>
+   <trkpt lat="47.987107" lon="16.876935"><ele>180.25</ele></trkpt>
+   <trkpt lat="47.987076" lon="16.876081"><ele>179.25</ele></trkpt>
+   <trkpt lat="47.987015" lon="16.874528"><ele>177.5</ele></trkpt>
+   <trkpt lat="47.986961" lon="16.873168"><ele>177.75</ele></trkpt>
+   <trkpt lat="47.986944" lon="16.872515"><ele>178.25</ele></trkpt>
+   <trkpt lat="47.986933" lon="16.871371"><ele>178.5</ele></trkpt>
+   <trkpt lat="47.98694" lon="16.870845"><ele>178.5</ele></trkpt>
+   <trkpt lat="47.986943" lon="16.87074"><ele>179.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

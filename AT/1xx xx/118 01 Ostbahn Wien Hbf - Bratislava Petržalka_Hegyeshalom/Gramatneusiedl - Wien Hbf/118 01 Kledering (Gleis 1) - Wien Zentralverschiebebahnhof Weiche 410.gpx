@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 633 filtered ascend = 1 plain-ascend = 2 cost=633 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Kledering (Gleis 1) - Wien Zentralverschiebebahnhof Weiche 410</name>
+  <link href="https://bikerouter.de/#map=19/48.13868/16.43543/standard&amp;lonlats=16.43914,48.133325;16.435598,48.138489&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.133325" lon="16.43914"><ele>172</ele></trkpt>
+   <trkpt lat="48.134417" lon="16.438418"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.135529" lon="16.437665"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.136421" lon="16.437073"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.137517" lon="16.436344"><ele>173</ele></trkpt>
+   <trkpt lat="48.137748" lon="16.436181"><ele>173.25</ele></trkpt>
+   <trkpt lat="48.138078" lon="16.435935"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.138472" lon="16.435609"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.138476" lon="16.435606"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.138485" lon="16.435599"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.138488" lon="16.435595"><ele>173.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

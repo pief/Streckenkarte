@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 275 filtered ascend = 4 plain-ascend = 4 cost=275 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Gramatneusiedl Weiche 66 - Gramatneusiedl Weiche 61</name>
+  <link href="https://bikerouter.de/#map=19/48.03434/16.49444/standard&amp;lonlats=16.497334,48.033741;16.494435,48.034419;16.493869,48.034537&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.033741" lon="16.497334"><ele>175</ele></trkpt>
+   <trkpt lat="48.033742" lon="16.497332"><ele>175</ele></trkpt>
+   <trkpt lat="48.034171" lon="16.495482"><ele>177.25</ele></trkpt>
+   <trkpt lat="48.03441" lon="16.49443"><ele>179</ele></trkpt>
+   <trkpt lat="48.034537" lon="16.493873"><ele>179</ele></trkpt>
+   <trkpt lat="48.034537" lon="16.493869"><ele>178.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

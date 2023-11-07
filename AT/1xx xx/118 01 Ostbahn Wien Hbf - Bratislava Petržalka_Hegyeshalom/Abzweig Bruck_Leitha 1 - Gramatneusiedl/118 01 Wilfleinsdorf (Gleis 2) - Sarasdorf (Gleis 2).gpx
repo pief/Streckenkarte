@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3181 filtered ascend = 6 plain-ascend = 7 cost=3181 energy=0.0kwh time=4m 14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Wilfleinsdorf (Gleis 2) - Sarasdorf (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/48.02351/16.67527/standard&amp;lonlats=16.719816,48.02202;16.67721,48.023242&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.022019" lon="16.719815"><ele>155.5</ele></trkpt>
+   <trkpt lat="48.022271" lon="16.710937"><ele>155.25</ele></trkpt>
+   <trkpt lat="48.022306" lon="16.709704"><ele>155.5</ele></trkpt>
+   <trkpt lat="48.022469" lon="16.703942"><ele>155.75</ele></trkpt>
+   <trkpt lat="48.022752" lon="16.694095"><ele>159</ele></trkpt>
+   <trkpt lat="48.022758" lon="16.693852"><ele>159.25</ele></trkpt>
+   <trkpt lat="48.02283" lon="16.691352"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.0232" lon="16.678304"><ele>161</ele></trkpt>
+   <trkpt lat="48.023214" lon="16.677836"><ele>161</ele></trkpt>
+   <trkpt lat="48.023219" lon="16.677664"><ele>161</ele></trkpt>
+   <trkpt lat="48.023232" lon="16.677214"><ele>161</ele></trkpt>
+   <trkpt lat="48.023232" lon="16.677209"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

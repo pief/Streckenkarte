@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 279 filtered ascend = 2 plain-ascend = 0 cost=279 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Götzendorf/Leitha Weiche 58 - Götzendorf/Leitha Weiche 54</name>
+  <link href="https://bikerouter.de/#map=19/48.02581/16.59043/standard&amp;lonlats=16.594546,48.025512;16.59218,48.025567;16.590828,48.02561&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.025508" lon="16.594545"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.025509" lon="16.594543"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.025516" lon="16.594346"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.025538" lon="16.59351"><ele>171.5</ele></trkpt>
+   <trkpt lat="48.025574" lon="16.59218"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.025611" lon="16.590828"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.02561" lon="16.590828"><ele>169.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

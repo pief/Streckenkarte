@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 134 filtered ascend = 0 plain-ascend = -1 cost=134 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Wien Hbf Weiche 409 - Wien Hbf Weiche 406</name>
+  <link href="https://bikerouter.de/#map=19/48.18387/16.38369/standard&amp;lonlats=16.384462,48.183343;16.383011,48.184036&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.183343" lon="16.384462"><ele>199.25</ele></trkpt>
+   <trkpt lat="48.183345" lon="16.38446"><ele>199.25</ele></trkpt>
+   <trkpt lat="48.18347" lon="16.384253"><ele>198.25</ele></trkpt>
+   <trkpt lat="48.183505" lon="16.384191"><ele>198</ele></trkpt>
+   <trkpt lat="48.183646" lon="16.383925"><ele>197</ele></trkpt>
+   <trkpt lat="48.183758" lon="16.383694"><ele>197</ele></trkpt>
+   <trkpt lat="48.183916" lon="16.383324"><ele>197</ele></trkpt>
+   <trkpt lat="48.184035" lon="16.38301"><ele>197.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

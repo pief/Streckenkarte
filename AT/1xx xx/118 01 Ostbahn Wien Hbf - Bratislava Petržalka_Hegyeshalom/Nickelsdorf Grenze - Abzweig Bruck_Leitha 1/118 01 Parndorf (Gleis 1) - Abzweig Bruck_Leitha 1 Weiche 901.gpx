@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 335 filtered ascend = 0 plain-ascend = -4 cost=335 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Parndorf (Gleis 1) - Abzweig Bruck/Leitha 1 Weiche 901</name>
+  <link href="https://bikerouter.de/#map=19/47.99330/16.84960/standard&amp;lonlats=16.851989,47.992048;16.848143,47.993594&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.992055" lon="16.851995"><ele>170.25</ele></trkpt>
+   <trkpt lat="47.992061" lon="16.851982"><ele>170.25</ele></trkpt>
+   <trkpt lat="47.992454" lon="16.851"><ele>169</ele></trkpt>
+   <trkpt lat="47.993592" lon="16.848146"><ele>165.5</ele></trkpt>
+   <trkpt lat="47.993593" lon="16.848142"><ele>165.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

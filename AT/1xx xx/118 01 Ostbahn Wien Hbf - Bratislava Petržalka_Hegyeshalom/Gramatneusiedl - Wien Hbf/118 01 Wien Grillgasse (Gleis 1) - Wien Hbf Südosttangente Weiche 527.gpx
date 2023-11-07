@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 513 filtered ascend = 7 plain-ascend = 7 cost=513 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Wien Grillgasse (Gleis 1) - Wien Hbf Südosttangente Weiche 527</name>
+  <link href="https://bikerouter.de/#map=18/48.17168/16.40144/standard&amp;lonlats=16.406821,48.167385;16.402057,48.170715&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.167385" lon="16.406821"><ele>187.75</ele></trkpt>
+   <trkpt lat="48.167397" lon="16.406808"><ele>187.75</ele></trkpt>
+   <trkpt lat="48.167609" lon="16.406544"><ele>188.75</ele></trkpt>
+   <trkpt lat="48.168145" lon="16.405839"><ele>195</ele></trkpt>
+   <trkpt lat="48.168718" lon="16.405023"><ele>194.25</ele></trkpt>
+   <trkpt lat="48.169519" lon="16.403832"><ele>193</ele></trkpt>
+   <trkpt lat="48.17022" lon="16.402789"><ele>194.75</ele></trkpt>
+   <trkpt lat="48.170238" lon="16.402762"><ele>194.75</ele></trkpt>
+   <trkpt lat="48.170464" lon="16.402428"><ele>194.75</ele></trkpt>
+   <trkpt lat="48.170714" lon="16.402055"><ele>194.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

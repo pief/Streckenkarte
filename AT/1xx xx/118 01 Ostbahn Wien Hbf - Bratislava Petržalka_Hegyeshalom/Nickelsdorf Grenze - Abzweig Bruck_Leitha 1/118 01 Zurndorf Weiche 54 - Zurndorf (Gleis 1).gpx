@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 453 filtered ascend = 1 plain-ascend = 1 cost=453 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Zurndorf Weiche 54 - Zurndorf (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/47.96887/17.02262/standard&amp;lonlats=17.02993,47.967004;17.024106,47.968103&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.967" lon="17.029928"><ele>142.25</ele></trkpt>
+   <trkpt lat="47.967001" lon="17.029928"><ele>142.25</ele></trkpt>
+   <trkpt lat="47.967235" lon="17.028681"><ele>143.25</ele></trkpt>
+   <trkpt lat="47.967369" lon="17.027976"><ele>142</ele></trkpt>
+   <trkpt lat="47.968038" lon="17.024413"><ele>139.5</ele></trkpt>
+   <trkpt lat="47.968096" lon="17.024103"><ele>143.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

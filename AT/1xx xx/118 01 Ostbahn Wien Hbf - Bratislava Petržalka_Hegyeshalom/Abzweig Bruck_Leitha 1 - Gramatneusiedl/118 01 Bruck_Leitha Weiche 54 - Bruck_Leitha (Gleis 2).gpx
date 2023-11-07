@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 247 filtered ascend = 0 plain-ascend = 1 cost=247 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Bruck/Leitha Weiche 54 - Bruck/Leitha (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.01910/16.78271/standard&amp;lonlats=16.784339,48.018786;16.781066,48.019032&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.018782" lon="16.784338"><ele>156.75</ele></trkpt>
+   <trkpt lat="48.018782" lon="16.784339"><ele>156.75</ele></trkpt>
+   <trkpt lat="48.018831" lon="16.783795"><ele>157</ele></trkpt>
+   <trkpt lat="48.018869" lon="16.78328"><ele>157</ele></trkpt>
+   <trkpt lat="48.018952" lon="16.782172"><ele>155.75</ele></trkpt>
+   <trkpt lat="48.018953" lon="16.782154"><ele>155.75</ele></trkpt>
+   <trkpt lat="48.019026" lon="16.781089"><ele>156.25</ele></trkpt>
+   <trkpt lat="48.019027" lon="16.781065"><ele>157.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

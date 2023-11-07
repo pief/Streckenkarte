@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 670 filtered ascend = 2 plain-ascend = 2 cost=670 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Wien Zentralverschiebebahnhof Weiche 410 - Wien Zentralverschiebebahnhof Weiche 405</name>
+  <link href="https://bikerouter.de/#map=19/48.14245/16.43009/standard&amp;lonlats=16.435598,48.138489;16.429979,48.141936;16.429171,48.142595&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.138488" lon="16.435595"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.138489" lon="16.435595"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.13868" lon="16.435425"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.13896" lon="16.435149"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.139325" lon="16.434745"><ele>174</ele></trkpt>
+   <trkpt lat="48.139613" lon="16.434381"><ele>174</ele></trkpt>
+   <trkpt lat="48.139792" lon="16.434135"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.139908" lon="16.433963"><ele>173.5</ele></trkpt>
+   <trkpt lat="48.140179" lon="16.433533"><ele>173.5</ele></trkpt>
+   <trkpt lat="48.140328" lon="16.433273"><ele>174</ele></trkpt>
+   <trkpt lat="48.140487" lon="16.432976"><ele>174</ele></trkpt>
+   <trkpt lat="48.140678" lon="16.432589"><ele>174</ele></trkpt>
+   <trkpt lat="48.141218" lon="16.431352"><ele>175.25</ele></trkpt>
+   <trkpt lat="48.141391" lon="16.430974"><ele>175</ele></trkpt>
+   <trkpt lat="48.141501" lon="16.430749"><ele>175</ele></trkpt>
+   <trkpt lat="48.141728" lon="16.430323"><ele>174.75</ele></trkpt>
+   <trkpt lat="48.141805" lon="16.430194"><ele>174.75</ele></trkpt>
+   <trkpt lat="48.14194" lon="16.429985"><ele>174.5</ele></trkpt>
+   <trkpt lat="48.141985" lon="16.429918"><ele>174.5</ele></trkpt>
+   <trkpt lat="48.142092" lon="16.429767"><ele>174.5</ele></trkpt>
+   <trkpt lat="48.142227" lon="16.429585"><ele>174.5</ele></trkpt>
+   <trkpt lat="48.142331" lon="16.429462"><ele>174.5</ele></trkpt>
+   <trkpt lat="48.142595" lon="16.429175"><ele>175</ele></trkpt>
+   <trkpt lat="48.142596" lon="16.429173"><ele>175.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
