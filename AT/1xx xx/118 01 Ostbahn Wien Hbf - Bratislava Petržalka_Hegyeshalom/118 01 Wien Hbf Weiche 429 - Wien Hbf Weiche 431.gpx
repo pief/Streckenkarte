@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 0 plain-ascend = 0 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Wien Hbf Weiche 429 - Wien Hbf Weiche 431</name>
+  <link href="https://bikerouter.de/#map=19/48.18335/16.38393/standard&amp;lonlats=16.382332,48.183797;16.383373,48.18341&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.183798" lon="16.382333"><ele>197.75</ele></trkpt>
+   <trkpt lat="48.1838" lon="16.382331"><ele>198</ele></trkpt>
+   <trkpt lat="48.183609" lon="16.382888"><ele>197.25</ele></trkpt>
+   <trkpt lat="48.183483" lon="16.383214"><ele>197</ele></trkpt>
+   <trkpt lat="48.183413" lon="16.383367"><ele>197</ele></trkpt>
+   <trkpt lat="48.18341" lon="16.383373"><ele>197</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

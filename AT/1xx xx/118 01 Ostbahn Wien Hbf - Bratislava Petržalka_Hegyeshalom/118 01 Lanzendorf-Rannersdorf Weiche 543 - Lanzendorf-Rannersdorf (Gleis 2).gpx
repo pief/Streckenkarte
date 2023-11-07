@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 131 filtered ascend = 0 plain-ascend = 0 cost=131 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Lanzendorf-Rannersdorf Weiche 543 - Lanzendorf-Rannersdorf (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.11294/16.44744/standard&amp;lonlats=16.447555,48.114665;16.447411,48.113483&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.114664" lon="16.447554"><ele>166.75</ele></trkpt>
+   <trkpt lat="48.114187" lon="16.44752"><ele>166.75</ele></trkpt>
+   <trkpt lat="48.113504" lon="16.447421"><ele>166.75</ele></trkpt>
+   <trkpt lat="48.113482" lon="16.447416"><ele>166.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

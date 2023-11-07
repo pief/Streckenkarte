@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 545 filtered ascend = 3 plain-ascend = 3 cost=545 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Kledering Weiche 501 - Kledering Weiche 533</name>
+  <link href="https://bikerouter.de/#map=19/48.12717/16.44473/standard&amp;lonlats=16.440576,48.131024;16.443706,48.126613&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.131024" lon="16.440576"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.131022" lon="16.440578"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.130728" lon="16.44078"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.130487" lon="16.440932"><ele>170</ele></trkpt>
+   <trkpt lat="48.129437" lon="16.441627"><ele>171</ele></trkpt>
+   <trkpt lat="48.128999" lon="16.441927"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.128602" lon="16.442214"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.127642" lon="16.442965"><ele>170.75</ele></trkpt>
+   <trkpt lat="48.127099" lon="16.443372"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.126617" lon="16.443704"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.126613" lon="16.443706"><ele>172.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

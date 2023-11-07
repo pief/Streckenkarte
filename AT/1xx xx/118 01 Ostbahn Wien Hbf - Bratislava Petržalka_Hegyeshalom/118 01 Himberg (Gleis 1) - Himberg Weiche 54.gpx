@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 745 filtered ascend = 0 plain-ascend = 0 cost=745 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Himberg (Gleis 1) - Himberg Weiche 54</name>
+  <link href="https://bikerouter.de/#map=17/48.07562/16.44962/standard&amp;lonlats=16.44507,48.081972;16.448797,48.075753&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.081972" lon="16.44507"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.080065" lon="16.44617"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.079985" lon="16.446213"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.078095" lon="16.447298"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.077208" lon="16.447839"><ele>171.75</ele></trkpt>
+   <trkpt lat="48.076358" lon="16.448396"><ele>172</ele></trkpt>
+   <trkpt lat="48.075874" lon="16.448718"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.075827" lon="16.448749"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.075803" lon="16.448766"><ele>172.5</ele></trkpt>
+   <trkpt lat="48.075753" lon="16.448798"><ele>172.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

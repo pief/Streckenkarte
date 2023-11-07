@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1186 filtered ascend = 4 plain-ascend = 4 cost=1186 energy=0.0kwh time=1m 35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Bruck/Leitha Weiche 207 - Bruck/Leitha-Ost Weiche 273</name>
+  <link href="https://bikerouter.de/#map=19/48.01651/16.80391/standard&amp;lonlats=16.78765,48.018431;16.803296,48.016602&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.018431" lon="16.78765"><ele>156.5</ele></trkpt>
+   <trkpt lat="48.018431" lon="16.787655"><ele>156.75</ele></trkpt>
+   <trkpt lat="48.018324" lon="16.788704"><ele>158.25</ele></trkpt>
+   <trkpt lat="48.018324" lon="16.788712"><ele>158.25</ele></trkpt>
+   <trkpt lat="48.018175" lon="16.789975"><ele>158.5</ele></trkpt>
+   <trkpt lat="48.017982" lon="16.791408"><ele>157.5</ele></trkpt>
+   <trkpt lat="48.017866" lon="16.792318"><ele>157.75</ele></trkpt>
+   <trkpt lat="48.016973" lon="16.800059"><ele>159.25</ele></trkpt>
+   <trkpt lat="48.016609" lon="16.803208"><ele>160.5</ele></trkpt>
+   <trkpt lat="48.0166" lon="16.803295"><ele>160.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

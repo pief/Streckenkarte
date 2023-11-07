@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 203 filtered ascend = 1 plain-ascend = 2 cost=203 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>118 01 Götzendorf/Leitha (Gleis 2) - Götzendorf/Leitha Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/48.02576/16.58885/standard&amp;lonlats=16.586307,48.025691;16.589026,48.025619&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.025693" lon="16.586307"><ele>167</ele></trkpt>
+   <trkpt lat="48.025693" lon="16.586326"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.025641" lon="16.588229"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.025619" lon="16.589025"><ele>168.25</ele></trkpt>
+   <trkpt lat="48.025618" lon="16.589025"><ele>168.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
