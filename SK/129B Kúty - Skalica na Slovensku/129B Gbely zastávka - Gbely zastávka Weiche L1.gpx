@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 2 plain-ascend = 2 cost=218 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>129B Gbely zastávka - Gbely zastávka Weiche L1</name>
+  <link href="https://bikerouter.de/#map=19/48.70903/17.08104/standard&amp;lonlats=17.082225,48.710357;17.080948,48.708587&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.710357" lon="17.082221"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.708593" lon="17.080949"><ele>171</ele></trkpt>
+   <trkpt lat="48.708587" lon="17.080944"><ele>172</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

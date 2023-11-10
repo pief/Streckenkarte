@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 212 filtered ascend = 1 plain-ascend = 1 cost=212 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>129B Holíč nad Moravou Weiche SSS3 - Holíč nad Moravou Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/48.80839/17.14455/standard&amp;lonlats=17.144291,48.808158;17.145399,48.809911&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.808156" lon="17.144292"><ele>158.5</ele></trkpt>
+   <trkpt lat="48.808163" lon="17.144296"><ele>158.75</ele></trkpt>
+   <trkpt lat="48.809711" lon="17.145275"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.80991" lon="17.145398"><ele>159.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

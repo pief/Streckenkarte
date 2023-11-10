@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5064 filtered ascend = 4 plain-ascend = -8 cost=5064 energy=0.1kwh time=6m 45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>129B Gbely zastávka Weiche L1 - Kúty Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/48.66782/17.05139/standard&amp;lonlats=17.080944,48.708587;17.051186,48.667551&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.708586" lon="17.080943"><ele>171</ele></trkpt>
+   <trkpt lat="48.706842" lon="17.079693"><ele>172</ele></trkpt>
+   <trkpt lat="48.701686" lon="17.075981"><ele>175.5</ele></trkpt>
+   <trkpt lat="48.698457" lon="17.07366"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.6922" lon="17.069162"><ele>171</ele></trkpt>
+   <trkpt lat="48.685781" lon="17.064547"><ele>171.25</ele></trkpt>
+   <trkpt lat="48.683851" lon="17.063161"><ele>168.75</ele></trkpt>
+   <trkpt lat="48.683772" lon="17.063105"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.674964" lon="17.056772"><ele>168</ele></trkpt>
+   <trkpt lat="48.67244" lon="17.054962"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.671282" lon="17.054114"><ele>163</ele></trkpt>
+   <trkpt lat="48.669164" lon="17.052456"><ele>162.75</ele></trkpt>
+   <trkpt lat="48.667549" lon="17.051189"><ele>161.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
