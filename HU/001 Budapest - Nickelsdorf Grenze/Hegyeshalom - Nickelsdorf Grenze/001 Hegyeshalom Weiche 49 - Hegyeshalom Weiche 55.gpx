@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 83 filtered ascend = 0 plain-ascend = 0 cost=83 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>001 Hegyeshalom Weiche 49 - Hegyeshalom Weiche 55</name>
+  <link href="https://bikerouter.de/#map=19/47.91494/17.14387/standard&amp;lonlats=17.142577,47.915423;17.143347,47.914909&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.915424" lon="17.142579"><ele>125.75</ele></trkpt>
+   <trkpt lat="47.915424" lon="17.142581"><ele>126</ele></trkpt>
+   <trkpt lat="47.915089" lon="17.143098"><ele>126</ele></trkpt>
+   <trkpt lat="47.91491" lon="17.14335"><ele>126</ele></trkpt>
+   <trkpt lat="47.91491" lon="17.143348"><ele>126</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
