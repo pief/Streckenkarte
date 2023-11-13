@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3901 filtered ascend = 1 plain-ascend = -1 cost=3901 energy=0.0kwh time=5m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>127C Rusovce Weiche 18 - Rajka Grenze</name>
+  <link href="https://bikerouter.de/#map=16/48.0147/17.1812/standard&amp;lonlats=17.154288,48.04443;17.179456,48.013735&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.04443" lon="17.154288"><ele>131.25</ele></trkpt>
+   <trkpt lat="48.044217" lon="17.154542"><ele>132.25</ele></trkpt>
+   <trkpt lat="48.043764" lon="17.155019"><ele>132</ele></trkpt>
+   <trkpt lat="48.043577" lon="17.155213"><ele>131</ele></trkpt>
+   <trkpt lat="48.041964" lon="17.156897"><ele>130.5</ele></trkpt>
+   <trkpt lat="48.038901" lon="17.160093"><ele>129.75</ele></trkpt>
+   <trkpt lat="48.038451" lon="17.160547"><ele>129.25</ele></trkpt>
+   <trkpt lat="48.038221" lon="17.160758"><ele>129.25</ele></trkpt>
+   <trkpt lat="48.037988" lon="17.160956"><ele>129.5</ele></trkpt>
+   <trkpt lat="48.03759" lon="17.161271"><ele>130.25</ele></trkpt>
+   <trkpt lat="48.035922" lon="17.162544"><ele>130</ele></trkpt>
+   <trkpt lat="48.033446" lon="17.164433"><ele>129.25</ele></trkpt>
+   <trkpt lat="48.021643" lon="17.173421"><ele>129.75</ele></trkpt>
+   <trkpt lat="48.01532" lon="17.178237"><ele>129.25</ele></trkpt>
+   <trkpt lat="48.013928" lon="17.179297"><ele>129.75</ele></trkpt>
+   <trkpt lat="48.013733" lon="17.179445"><ele>129.5</ele></trkpt>
+   <trkpt lat="48.013731" lon="17.179446"><ele>129.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

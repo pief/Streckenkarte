@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 431 filtered ascend = 1 plain-ascend = 2 cost=431 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>127C Bratislava-Petržalka (Gleis 5) - Bratislava-Petržalka Weiche 29</name>
+  <link href="https://bikerouter.de/#map=19/48.11789/17.09718/standard&amp;lonlats=17.099445,48.121328;17.096473,48.118011&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.121327" lon="17.099444"><ele>136.25</ele></trkpt>
+   <trkpt lat="48.118594" lon="17.097063"><ele>135.75</ele></trkpt>
+   <trkpt lat="48.118429" lon="17.09691"><ele>135.75</ele></trkpt>
+   <trkpt lat="48.11815" lon="17.096609"><ele>136.25</ele></trkpt>
+   <trkpt lat="48.118015" lon="17.096481"><ele>136.75</ele></trkpt>
+   <trkpt lat="48.118009" lon="17.096475"><ele>137.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

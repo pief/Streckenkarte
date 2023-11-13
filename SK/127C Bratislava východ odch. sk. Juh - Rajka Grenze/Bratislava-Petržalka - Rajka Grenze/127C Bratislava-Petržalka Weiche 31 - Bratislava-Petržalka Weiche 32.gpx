@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 1 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>127C Bratislava-Petržalka Weiche 31 - Bratislava-Petržalka Weiche 32</name>
+  <link href="https://bikerouter.de/#map=19/48.11765/17.09607/standard&amp;lonlats=17.096253,48.117748;17.096068,48.117539&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.117749" lon="17.096248"><ele>137.75</ele></trkpt>
+   <trkpt lat="48.117541" lon="17.09607"><ele>138.25</ele></trkpt>
+   <trkpt lat="48.117538" lon="17.096067"><ele>138.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
