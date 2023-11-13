@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 520 filtered ascend = 0 plain-ascend = -2 cost=520 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Kúty (Gleis 2) - Kúty Weiche 33</name>
+  <link href="https://bikerouter.de/#map=19/48.65806/17.04584/standard&amp;lonlats=17.047439,48.661967;17.045473,48.659246;17.044406,48.657751&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.661966" lon="17.047438"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.661932" lon="17.047411"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.659242" lon="17.045479"><ele>156.5</ele></trkpt>
+   <trkpt lat="48.658253" lon="17.044768"><ele>156.5</ele></trkpt>
+   <trkpt lat="48.657751" lon="17.044407"><ele>156.25</ele></trkpt>
+   <trkpt lat="48.657749" lon="17.044406"><ele>156</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

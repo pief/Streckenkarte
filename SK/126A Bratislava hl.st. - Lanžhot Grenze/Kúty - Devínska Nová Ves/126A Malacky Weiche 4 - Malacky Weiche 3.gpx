@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Malacky Weiche 4 - Malacky Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/48.42559/17.02264/standard&amp;lonlats=17.021883,48.425858;17.021819,48.425484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.425856" lon="17.021884"><ele>161.25</ele></trkpt>
+   <trkpt lat="48.42549" lon="17.02182"><ele>160.75</ele></trkpt>
+   <trkpt lat="48.425483" lon="17.021818"><ele>160.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

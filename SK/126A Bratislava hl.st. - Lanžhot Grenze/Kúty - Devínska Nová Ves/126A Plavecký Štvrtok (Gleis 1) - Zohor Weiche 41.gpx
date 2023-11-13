@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4641 filtered ascend = 0 plain-ascend = -7 cost=4641 energy=0.1kwh time=6m 11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Plavecký Štvrtok (Gleis 1) - Zohor Weiche 41</name>
+  <link href="https://bikerouter.de/#map=18/48.33187/16.99637/standard&amp;lonlats=17.007677,48.372991;16.993605,48.332319&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.372989" lon="17.007677"><ele>159</ele></trkpt>
+   <trkpt lat="48.372943" lon="17.007661"><ele>159</ele></trkpt>
+   <trkpt lat="48.360709" lon="17.003427"><ele>157.25</ele></trkpt>
+   <trkpt lat="48.356215" lon="17.001871"><ele>155.25</ele></trkpt>
+   <trkpt lat="48.356093" lon="17.001828"><ele>155.5</ele></trkpt>
+   <trkpt lat="48.3499" lon="16.999688"><ele>156.5</ele></trkpt>
+   <trkpt lat="48.342406" lon="16.99709"><ele>155.5</ele></trkpt>
+   <trkpt lat="48.34224" lon="16.997034"><ele>157.5</ele></trkpt>
+   <trkpt lat="48.335299" lon="16.994635"><ele>151.75</ele></trkpt>
+   <trkpt lat="48.33251" lon="16.993671"><ele>151</ele></trkpt>
+   <trkpt lat="48.332318" lon="16.993602"><ele>151</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 403 filtered ascend = 0 plain-ascend = -1 cost=403 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Zohor (Gleis 4) - Zohor Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/48.32254/16.99147/standard&amp;lonlats=16.991338,48.325754;16.990118,48.322231&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.325753" lon="16.991336"><ele>149.5</ele></trkpt>
+   <trkpt lat="48.325739" lon="16.991331"><ele>149.75</ele></trkpt>
+   <trkpt lat="48.322934" lon="16.990362"><ele>147.75</ele></trkpt>
+   <trkpt lat="48.322233" lon="16.99012"><ele>147.25</ele></trkpt>
+   <trkpt lat="48.32223" lon="16.990118"><ele>147.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

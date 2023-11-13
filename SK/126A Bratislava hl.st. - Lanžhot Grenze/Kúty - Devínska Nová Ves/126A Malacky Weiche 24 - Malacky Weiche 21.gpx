@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 0 plain-ascend = 0 cost=150 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Malacky Weiche 24 - Malacky Weiche 21</name>
+  <link href="https://bikerouter.de/#map=19/48.43485/17.02354/standard&amp;lonlats=17.023686,48.436022;17.023455,48.434689&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.43602" lon="17.023689"><ele>163</ele></trkpt>
+   <trkpt lat="48.436018" lon="17.023689"><ele>163</ele></trkpt>
+   <trkpt lat="48.434692" lon="17.023457"><ele>163</ele></trkpt>
+   <trkpt lat="48.434687" lon="17.023456"><ele>163</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

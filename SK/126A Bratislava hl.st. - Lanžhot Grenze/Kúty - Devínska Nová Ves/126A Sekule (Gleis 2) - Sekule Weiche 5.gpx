@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 0 plain-ascend = -2 cost=294 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Sekule (Gleis 2) - Sekule Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/48.60506/17.01921/standard&amp;lonlats=17.018965,48.607729;17.017739,48.605218&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.607727" lon="17.018967"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.607686" lon="17.018947"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.605872" lon="17.018059"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.605222" lon="17.017741"><ele>160.75</ele></trkpt>
+   <trkpt lat="48.605217" lon="17.017738"><ele>160.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

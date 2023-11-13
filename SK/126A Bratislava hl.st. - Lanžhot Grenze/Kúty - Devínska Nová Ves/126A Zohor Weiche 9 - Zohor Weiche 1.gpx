@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 0 plain-ascend = -2 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Zohor Weiche 9 - Zohor Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.31999/16.99066/standard&amp;lonlats=16.990059,48.322062;16.989447,48.320294;16.989313,48.319902&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.32206" lon="16.99006"><ele>147.25</ele></trkpt>
+   <trkpt lat="48.321212" lon="16.989771"><ele>147</ele></trkpt>
+   <trkpt lat="48.320292" lon="16.989452"><ele>146</ele></trkpt>
+   <trkpt lat="48.319902" lon="16.989317"><ele>146</ele></trkpt>
+   <trkpt lat="48.3199" lon="16.989316"><ele>143.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

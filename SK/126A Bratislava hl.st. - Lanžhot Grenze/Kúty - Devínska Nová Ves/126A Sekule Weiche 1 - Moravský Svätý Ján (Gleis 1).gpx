@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1913 filtered ascend = 6 plain-ascend = 5 cost=1913 energy=0.0kwh time=2m 33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Sekule Weiche 1 - Moravský Svätý Ján (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.58765/17.01034/standard&amp;lonlats=17.017018,48.603749;17.009033,48.587378&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.603747" lon="17.017018"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.600283" lon="17.015329"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.60016" lon="17.015269"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.589203" lon="17.009919"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.587377" lon="17.00903"><ele>164.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

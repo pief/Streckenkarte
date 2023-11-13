@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 801 filtered ascend = 1 plain-ascend = -2 cost=801 energy=0.0kwh time=1m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Malacky (Gleis 2) - Malacky Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/48.42594/17.02326/standard&amp;lonlats=17.02316,48.433011;17.021883,48.425858&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.43301" lon="17.023157"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.43296" lon="17.023148"><ele>163.5</ele></trkpt>
+   <trkpt lat="48.432832" lon="17.023127"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.432492" lon="17.023067"><ele>164.25</ele></trkpt>
+   <trkpt lat="48.426746" lon="17.022044"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.426189" lon="17.021945"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.425858" lon="17.021885"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.425856" lon="17.021884"><ele>160.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

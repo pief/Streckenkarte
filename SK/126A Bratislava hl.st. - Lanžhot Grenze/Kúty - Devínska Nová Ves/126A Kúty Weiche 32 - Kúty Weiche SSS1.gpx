@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 426 filtered ascend = 0 plain-ascend = 0 cost=426 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Kúty Weiche 32 - Kúty Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/48.65388/17.04222/standard&amp;lonlats=17.044314,48.657618;17.041852,48.654168&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.657617" lon="17.044313"><ele>156</ele></trkpt>
+   <trkpt lat="48.65762" lon="17.044315"><ele>156</ele></trkpt>
+   <trkpt lat="48.654677" lon="17.042203"><ele>155.75</ele></trkpt>
+   <trkpt lat="48.654171" lon="17.041849"><ele>156</ele></trkpt>
+   <trkpt lat="48.654168" lon="17.041847"><ele>155.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
