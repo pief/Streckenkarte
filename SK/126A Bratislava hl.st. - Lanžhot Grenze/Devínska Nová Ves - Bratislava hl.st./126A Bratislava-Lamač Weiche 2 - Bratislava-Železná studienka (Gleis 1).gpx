@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1479 filtered ascend = 0 plain-ascend = -14 cost=1479 energy=0.0kwh time=1m 58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Bratislava-Lamač Weiche 2 - Bratislava-Železná studienka (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.17494/17.07243/standard&amp;lonlats=17.056261,48.181974;17.07276,48.174581&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.181973" lon="17.05626"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.181972" lon="17.056263"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.181641" lon="17.057002"><ele>210.5</ele></trkpt>
+   <trkpt lat="48.180557" lon="17.059422"><ele>206.75</ele></trkpt>
+   <trkpt lat="48.178541" lon="17.06392"><ele>204</ele></trkpt>
+   <trkpt lat="48.174585" lon="17.072758"><ele>196</ele></trkpt>
+   <trkpt lat="48.174583" lon="17.072762"><ele>195.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

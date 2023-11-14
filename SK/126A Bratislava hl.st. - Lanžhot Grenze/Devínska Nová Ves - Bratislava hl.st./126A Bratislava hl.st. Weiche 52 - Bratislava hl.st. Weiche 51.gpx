@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Bratislava hl.st. Weiche 52 - Bratislava hl.st. Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/48.16141/17.10205/standard&amp;lonlats=17.101633,48.161742;17.102422,48.161403&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.161741" lon="17.101632"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.161741" lon="17.101633"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.161638" lon="17.101923"><ele>182.5</ele></trkpt>
+   <trkpt lat="48.161563" lon="17.102105"><ele>183.25</ele></trkpt>
+   <trkpt lat="48.161505" lon="17.10223"><ele>183.5</ele></trkpt>
+   <trkpt lat="48.161403" lon="17.102422"><ele>183.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

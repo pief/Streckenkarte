@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 179 filtered ascend = 0 plain-ascend = -5 cost=179 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>126A Devínska Nová Ves (Gleis 3) - Devínska Nová Ves Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/48.21756/16.97833/standard&amp;lonlats=16.976337,48.219049;16.977396,48.217607&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.219051" lon="16.976344"><ele>156</ele></trkpt>
+   <trkpt lat="48.219042" lon="16.976351"><ele>156</ele></trkpt>
+   <trkpt lat="48.218296" lon="16.976893"><ele>154.75</ele></trkpt>
+   <trkpt lat="48.218049" lon="16.977073"><ele>153.25</ele></trkpt>
+   <trkpt lat="48.217609" lon="16.977395"><ele>152</ele></trkpt>
+   <trkpt lat="48.217607" lon="16.977396"><ele>150.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
