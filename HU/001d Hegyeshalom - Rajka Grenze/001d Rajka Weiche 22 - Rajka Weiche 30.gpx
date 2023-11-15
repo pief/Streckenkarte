@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 1 cost=35 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>001d Rajka Weiche 22 - Rajka Weiche 30</name>
+  <link href="https://bikerouter.de/#map=19/47.99067/17.19548/standard&amp;lonlats=17.195087,47.990554;17.194902,47.990834&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.990554" lon="17.195087"><ele>127.5</ele></trkpt>
+   <trkpt lat="47.990558" lon="17.195085"><ele>127.5</ele></trkpt>
+   <trkpt lat="47.990834" lon="17.194902"><ele>128</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

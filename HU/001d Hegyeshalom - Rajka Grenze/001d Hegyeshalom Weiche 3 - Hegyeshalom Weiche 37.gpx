@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 937 filtered ascend = 0 plain-ascend = 0 cost=937 energy=0.0kwh time=1m 15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>001d Hegyeshalom Weiche 3 - Hegyeshalom Weiche 37</name>
+  <link href="https://bikerouter.de/#map=19/47.91649/17.14210/standard&amp;lonlats=17.130983,47.921631;17.134501,47.919748;17.140855,47.916453&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.921631" lon="17.130983"><ele>125.75</ele></trkpt>
+   <trkpt lat="47.92163" lon="17.130985"><ele>125.75</ele></trkpt>
+   <trkpt lat="47.921449" lon="17.131251"><ele>125.75</ele></trkpt>
+   <trkpt lat="47.921078" lon="17.131895"><ele>125.5</ele></trkpt>
+   <trkpt lat="47.920937" lon="17.132166"><ele>125.25</ele></trkpt>
+   <trkpt lat="47.920498" lon="17.13306"><ele>125.75</ele></trkpt>
+   <trkpt lat="47.92013" lon="17.133771"><ele>126</ele></trkpt>
+   <trkpt lat="47.919749" lon="17.134502"><ele>125.5</ele></trkpt>
+   <trkpt lat="47.916771" lon="17.140231"><ele>125.5</ele></trkpt>
+   <trkpt lat="47.916453" lon="17.140855"><ele>125</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

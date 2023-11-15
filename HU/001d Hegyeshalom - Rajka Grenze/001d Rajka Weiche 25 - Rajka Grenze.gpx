@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1815 filtered ascend = 1 plain-ascend = 2 cost=1815 energy=0.0kwh time=2m 25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>001d Rajka Weiche 25 - Rajka Grenze</name>
+  <link href="https://bikerouter.de/#map=19/47.99858/17.19085/standard&amp;lonlats=17.189438,47.998855;17.179446,48.013731&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.998854" lon="17.189438"><ele>128</ele></trkpt>
+   <trkpt lat="47.999252" lon="17.189171"><ele>128.75</ele></trkpt>
+   <trkpt lat="47.999484" lon="17.189015"><ele>128.5</ele></trkpt>
+   <trkpt lat="47.999931" lon="17.188721"><ele>127.5</ele></trkpt>
+   <trkpt lat="48.000063" lon="17.188634"><ele>127.25</ele></trkpt>
+   <trkpt lat="48.001823" lon="17.187482"><ele>127.25</ele></trkpt>
+   <trkpt lat="48.002509" lon="17.187081"><ele>128.5</ele></trkpt>
+   <trkpt lat="48.003427" lon="17.186532"><ele>128.75</ele></trkpt>
+   <trkpt lat="48.00466" lon="17.185723"><ele>128</ele></trkpt>
+   <trkpt lat="48.011509" lon="17.18107"><ele>128.5</ele></trkpt>
+   <trkpt lat="48.012428" lon="17.180433"><ele>129.25</ele></trkpt>
+   <trkpt lat="48.013121" lon="17.179914"><ele>129.5</ele></trkpt>
+   <trkpt lat="48.013731" lon="17.179446"><ele>129.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
