@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 698 filtered ascend = 0 plain-ascend = -4 cost=698 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>800 00 Hodonín Weiche 31a/b - Hodonín Weiche 57</name>
+  <link href="https://bikerouter.de/#map=19/48.85509/17.12004/standard&amp;lonlats=17.119754,48.85509;17.112059,48.851409&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.855087" lon="17.119755"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.851411" lon="17.112068"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.851406" lon="17.11206"><ele>168.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

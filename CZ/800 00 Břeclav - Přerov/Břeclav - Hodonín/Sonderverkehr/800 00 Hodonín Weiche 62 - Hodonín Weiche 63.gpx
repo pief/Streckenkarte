@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 9 filtered ascend = 0 plain-ascend = 0 cost=9 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>800 00 Hodonín Weiche 62 - Hodonín Weiche 63</name>
+  <link href="https://bikerouter.de/#map=19/48.85102/17.11184/standard&amp;lonlats=17.110943,48.850927;17.110857,48.850883&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.850926" lon="17.110943"><ele>168</ele></trkpt>
+   <trkpt lat="48.850884" lon="17.110859"><ele>168</ele></trkpt>
+   <trkpt lat="48.850882" lon="17.110856"><ele>168</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
