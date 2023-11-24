@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 108 filtered ascend = 2 plain-ascend = 2 cost=108 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>102 Cantoblanco Universidad (Gleis 1) - Cantoblanco Universidad Weiche 12</name>
+  <link href="https://bikerouter.de/#map=19/40.54469/-3.70093/standard&amp;lonlats=-3.700318,40.543764;-3.700874,40.54463&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.543761" lon="-3.700326"><ele>733.5</ele></trkpt>
+   <trkpt lat="40.544379" lon="-3.700716"><ele>732.5</ele></trkpt>
+   <trkpt lat="40.54463" lon="-3.700873"><ele>732.75</ele></trkpt>
+   <trkpt lat="40.54463" lon="-3.700874"><ele>735.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

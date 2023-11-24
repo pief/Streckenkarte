@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 2 plain-ascend = 3 cost=145 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>102 Tres Cantos Weiche 9 - Tres Cantos Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/40.59450/-3.71262/standard&amp;lonlats=-3.713977,40.596012;-3.713132,40.59489&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.59601" lon="-3.713979"><ele>742.75</ele></trkpt>
+   <trkpt lat="40.596012" lon="-3.71398"><ele>743</ele></trkpt>
+   <trkpt lat="40.594898" lon="-3.713134"><ele>744.25</ele></trkpt>
+   <trkpt lat="40.594891" lon="-3.713129"><ele>745.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
