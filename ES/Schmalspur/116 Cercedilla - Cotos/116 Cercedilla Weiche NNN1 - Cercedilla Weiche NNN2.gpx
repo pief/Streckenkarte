@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 6 plain-ascend = 6 cost=75 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>116 Cercedilla Weiche NNN1 - Cercedilla Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/40.73764/-4.06318/standard&amp;lonlats=-4.063911,40.737874;-4.063064,40.737728&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.737874" lon="-4.063911"><ele>1162.25</ele></trkpt>
+   <trkpt lat="40.737874" lon="-4.063908"><ele>1162.5</ele></trkpt>
+   <trkpt lat="40.737859" lon="-4.063742"><ele>1163</ele></trkpt>
+   <trkpt lat="40.737778" lon="-4.063266"><ele>1164.25</ele></trkpt>
+   <trkpt lat="40.737729" lon="-4.063067"><ele>1165.75</ele></trkpt>
+   <trkpt lat="40.737728" lon="-4.063064"><ele>1168.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

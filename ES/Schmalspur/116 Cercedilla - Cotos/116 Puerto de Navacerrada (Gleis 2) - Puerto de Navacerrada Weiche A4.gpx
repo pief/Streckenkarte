@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 9 plain-ascend = 10 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>116 Puerto de Navacerrada (Gleis 2) - Puerto de Navacerrada Weiche A4</name>
+  <link href="https://bikerouter.de/#map=19/40.78482/-4.00382/standard&amp;lonlats=-4.00464,40.784311;-4.003613,40.784969&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.784308" lon="-4.00464"><ele>1768.75</ele></trkpt>
+   <trkpt lat="40.784575" lon="-4.004103"><ele>1770</ele></trkpt>
+   <trkpt lat="40.784688" lon="-4.003915"><ele>1772.75</ele></trkpt>
+   <trkpt lat="40.784764" lon="-4.003812"><ele>1774.25</ele></trkpt>
+   <trkpt lat="40.784836" lon="-4.003728"><ele>1775.5</ele></trkpt>
+   <trkpt lat="40.784966" lon="-4.003613"><ele>1777.5</ele></trkpt>
+   <trkpt lat="40.784967" lon="-4.003612"><ele>1778.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
