@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=47 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>102 Fuencarral Weiche NNN2 - Fuencarral Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/40.50286/-3.68235/standard&amp;lonlats=-3.682409,40.502546;-3.68252,40.502954">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.502546" lon="-3.682409"><ele>719.5</ele></trkpt>
+   <trkpt lat="40.502728" lon="-3.682457"><ele>719.25</ele></trkpt>
+   <trkpt lat="40.502954" lon="-3.68252"><ele>719</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

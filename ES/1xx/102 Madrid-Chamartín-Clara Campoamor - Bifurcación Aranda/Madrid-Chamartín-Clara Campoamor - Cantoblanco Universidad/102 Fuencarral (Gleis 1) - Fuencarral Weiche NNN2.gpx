@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>102 Fuencarral (Gleis 1) - Fuencarral Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/40.50211/-3.68222/standard&amp;lonlats=-3.682129,40.501539;-3.68241,40.502546">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.501537" lon="-3.682138"><ele>719.5</ele></trkpt>
+   <trkpt lat="40.502544" lon="-3.682408"><ele>719.75</ele></trkpt>
+   <trkpt lat="40.502546" lon="-3.682409"><ele>719.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
