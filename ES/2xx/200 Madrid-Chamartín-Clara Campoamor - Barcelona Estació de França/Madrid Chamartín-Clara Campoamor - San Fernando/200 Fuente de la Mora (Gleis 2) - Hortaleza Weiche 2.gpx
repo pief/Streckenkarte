@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 307 filtered ascend = 0 plain-ascend = -2 cost=307 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>200 Fuente de la Mora (Gleis 2) - Hortaleza Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/40.48449/-3.65991/standard&amp;lonlats=-3.662587,40.484808;-3.659054,40.484214">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.484809" lon="-3.662587"><ele>702.25</ele></trkpt>
+   <trkpt lat="40.484704" lon="-3.661953"><ele>701.25</ele></trkpt>
+   <trkpt lat="40.484621" lon="-3.661481"><ele>701.5</ele></trkpt>
+   <trkpt lat="40.484572" lon="-3.661185"><ele>702.25</ele></trkpt>
+   <trkpt lat="40.484214" lon="-3.659054"><ele>699.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

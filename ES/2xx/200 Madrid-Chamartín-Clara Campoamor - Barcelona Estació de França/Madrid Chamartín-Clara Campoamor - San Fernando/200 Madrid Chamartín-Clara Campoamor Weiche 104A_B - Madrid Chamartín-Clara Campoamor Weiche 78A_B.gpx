@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=115 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>200 Madrid Chamartín-Clara Campoamor Weiche 104A/B - Madrid Chamartín-Clara Campoamor Weiche 78A/B</name>
+  <link href="https://bikerouter.de/#map=19/40.47748/-3.67961/standard&amp;lonlats=-3.679977,40.477262;-3.679857,40.477539;-3.67957,40.478239">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.47726" lon="-3.679974"><ele>723.5</ele></trkpt>
+   <trkpt lat="40.477269" lon="-3.67997"><ele>723.75</ele></trkpt>
+   <trkpt lat="40.477537" lon="-3.679854"><ele>723</ele></trkpt>
+   <trkpt lat="40.47782" lon="-3.67973"><ele>723</ele></trkpt>
+   <trkpt lat="40.478241" lon="-3.679566"><ele>721.75</ele></trkpt>
+   <trkpt lat="40.478237" lon="-3.679568"><ele>722.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
