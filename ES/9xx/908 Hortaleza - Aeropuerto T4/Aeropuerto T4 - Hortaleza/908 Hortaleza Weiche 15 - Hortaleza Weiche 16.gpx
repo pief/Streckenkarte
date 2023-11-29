@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 600 filtered ascend = 1 plain-ascend = -4 cost=600 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>908 Hortaleza Weiche 15 - Hortaleza Weiche 16</name>
+  <link href="https://bikerouter.de/#map=19/40.48330/-3.65440/standard&amp;lonlats=-3.647355,40.482388;-3.65282,40.483291;-3.654249,40.483544&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.482388" lon="-3.647355"><ele>696.75</ele></trkpt>
+   <trkpt lat="40.482579" lon="-3.64849"><ele>697.75</ele></trkpt>
+   <trkpt lat="40.482809" lon="-3.649858"><ele>697.25</ele></trkpt>
+   <trkpt lat="40.483305" lon="-3.652816"><ele>693.25</ele></trkpt>
+   <trkpt lat="40.48353" lon="-3.654149"><ele>693.25</ele></trkpt>
+   <trkpt lat="40.483546" lon="-3.654246"><ele>693</ele></trkpt>
+   <trkpt lat="40.483546" lon="-3.654249"><ele>692.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
