@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 0 plain-ascend = -7 cost=132 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>100 Torrelodones Weiche SSS1 - Torrelodones Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=18/40.57242/-3.95385/standard&amp;lonlats=-3.953268,40.571884;-3.954402,40.572684&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.571884" lon="-3.953268"><ele>825.5</ele></trkpt>
+   <trkpt lat="40.571886" lon="-3.953269"><ele>825.5</ele></trkpt>
+   <trkpt lat="40.572111" lon="-3.953604"><ele>823.5</ele></trkpt>
+   <trkpt lat="40.572686" lon="-3.9544"><ele>817.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

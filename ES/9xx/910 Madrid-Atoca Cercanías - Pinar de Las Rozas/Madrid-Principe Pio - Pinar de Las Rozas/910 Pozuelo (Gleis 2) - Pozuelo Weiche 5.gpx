@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 351 filtered ascend = 0 plain-ascend = -1 cost=351 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>910 Pozuelo (Gleis 2) - Pozuelo Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/40.44990/-3.80177/standard&amp;lonlats=-3.800046,40.447424;-3.802479,40.449913&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.447422" lon="-3.800048"><ele>653.25</ele></trkpt>
+   <trkpt lat="40.447423" lon="-3.800049"><ele>653.25</ele></trkpt>
+   <trkpt lat="40.447603" lon="-3.800371"><ele>653</ele></trkpt>
+   <trkpt lat="40.447685" lon="-3.800502"><ele>652.75</ele></trkpt>
+   <trkpt lat="40.447877" lon="-3.800783"><ele>652</ele></trkpt>
+   <trkpt lat="40.447998" lon="-3.800943"><ele>651.5</ele></trkpt>
+   <trkpt lat="40.448259" lon="-3.801256"><ele>650.75</ele></trkpt>
+   <trkpt lat="40.448588" lon="-3.801594"><ele>649.5</ele></trkpt>
+   <trkpt lat="40.448739" lon="-3.801731"><ele>649</ele></trkpt>
+   <trkpt lat="40.448914" lon="-3.801876"><ele>648.25</ele></trkpt>
+   <trkpt lat="40.449153" lon="-3.802053"><ele>647.75</ele></trkpt>
+   <trkpt lat="40.449393" lon="-3.802208"><ele>648.25</ele></trkpt>
+   <trkpt lat="40.449654" lon="-3.802359"><ele>649.25</ele></trkpt>
+   <trkpt lat="40.449909" lon="-3.802476"><ele>650.5</ele></trkpt>
+   <trkpt lat="40.449913" lon="-3.802478"><ele>651.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

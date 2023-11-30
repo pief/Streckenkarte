@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12 filtered ascend = 0 plain-ascend = 1 cost=12 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>100 Villalba Weiche 5 - Villalba Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/40.62549/-4.00287/standard&amp;lonlats=-4.002634,40.625429;-4.002509,40.625394&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.625424" lon="-4.002636"><ele>873.25</ele></trkpt>
+   <trkpt lat="40.625424" lon="-4.002635"><ele>873.5</ele></trkpt>
+   <trkpt lat="40.625394" lon="-4.002509"><ele>873.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
