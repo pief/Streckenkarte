@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 363 filtered ascend = 1 plain-ascend = 2 cost=363 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>910 Bifurcación Chamartín Weiche 5R - Bifurcación Chamartín Weiche 3R</name>
+  <link href="https://bikerouter.de/#map=18/40.49636/-3.86915/standard&amp;lonlats=-3.871675,40.500095;-3.870039,40.497092&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.500095" lon="-3.871675"><ele>719</ele></trkpt>
+   <trkpt lat="40.500094" lon="-3.871674"><ele>719</ele></trkpt>
+   <trkpt lat="40.499923" lon="-3.871619"><ele>718.5</ele></trkpt>
+   <trkpt lat="40.499737" lon="-3.871553"><ele>718</ele></trkpt>
+   <trkpt lat="40.499434" lon="-3.871435"><ele>717.75</ele></trkpt>
+   <trkpt lat="40.498995" lon="-3.871245"><ele>718</ele></trkpt>
+   <trkpt lat="40.498782" lon="-3.87114"><ele>718.25</ele></trkpt>
+   <trkpt lat="40.498365" lon="-3.870913"><ele>719.5</ele></trkpt>
+   <trkpt lat="40.497984" lon="-3.870677"><ele>719</ele></trkpt>
+   <trkpt lat="40.497762" lon="-3.870525"><ele>718.75</ele></trkpt>
+   <trkpt lat="40.497092" lon="-3.870037"><ele>720.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

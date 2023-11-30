@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2804 filtered ascend = 0 plain-ascend = -23 cost=2804 energy=0.0kwh time=3m 44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>100 Las Matas Weiche 1 - Pinar de Las Rozas Weiche 14A/B</name>
+  <link href="https://bikerouter.de/#map=19/40.52494/-3.88248/standard&amp;lonlats=-3.895031,40.548501;-3.88309,40.524942&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.548501" lon="-3.895029"><ele>750.5</ele></trkpt>
+   <trkpt lat="40.540977" lon="-3.891211"><ele>739.5</ele></trkpt>
+   <trkpt lat="40.5384" lon="-3.889918"><ele>737.25</ele></trkpt>
+   <trkpt lat="40.538245" lon="-3.889838"><ele>737.25</ele></trkpt>
+   <trkpt lat="40.537237" lon="-3.889319"><ele>736.25</ele></trkpt>
+   <trkpt lat="40.5301" lon="-3.885699"><ele>733</ele></trkpt>
+   <trkpt lat="40.524949" lon="-3.883088"><ele>728.25</ele></trkpt>
+   <trkpt lat="40.524943" lon="-3.883086"><ele>727</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

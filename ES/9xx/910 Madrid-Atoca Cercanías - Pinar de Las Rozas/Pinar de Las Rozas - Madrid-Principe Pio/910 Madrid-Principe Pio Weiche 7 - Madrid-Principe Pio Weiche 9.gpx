@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 0 plain-ascend = -2 cost=150 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>910 Madrid-Principe Pio Weiche 7 - Madrid-Principe Pio Weiche 9</name>
+  <link href="https://bikerouter.de/#map=19/40.42559/-3.72407/standard&amp;lonlats=-3.725569,40.426876;-3.724513,40.425791&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.426876" lon="-3.725569"><ele>595.25</ele></trkpt>
+   <trkpt lat="40.426435" lon="-3.725192"><ele>595.25</ele></trkpt>
+   <trkpt lat="40.426208" lon="-3.724981"><ele>594</ele></trkpt>
+   <trkpt lat="40.42596" lon="-3.724715"><ele>592.75</ele></trkpt>
+   <trkpt lat="40.425789" lon="-3.724515"><ele>592.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

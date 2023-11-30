@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 0 plain-ascend = -5 cost=306 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>100 Torrelodones Weiche NNN4 - Torrelodones (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/40.57444/-3.95695/standard&amp;lonlats=-3.959493,40.576594;-3.956965,40.574628&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.576595" lon="-3.95949"><ele>828.25</ele></trkpt>
+   <trkpt lat="40.576593" lon="-3.959487"><ele>828.25</ele></trkpt>
+   <trkpt lat="40.576471" lon="-3.959358"><ele>828</ele></trkpt>
+   <trkpt lat="40.576217" lon="-3.959065"><ele>827</ele></trkpt>
+   <trkpt lat="40.575998" lon="-3.958798"><ele>825</ele></trkpt>
+   <trkpt lat="40.575742" lon="-3.958464"><ele>823.25</ele></trkpt>
+   <trkpt lat="40.57463" lon="-3.956962"><ele>822.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
