@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 335 filtered ascend = 1 plain-ascend = 0 cost=335 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Villalba Weiche 6 - Villalba Weiche 20</name>
+  <link href="https://bikerouter.de/#map=19/40.62700/-4.01237/standard&amp;lonlats=-4.01322,40.626939;-4.009328,40.626494&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.626941" lon="-4.013219"><ele>878</ele></trkpt>
+   <trkpt lat="40.62694" lon="-4.013215"><ele>878.25</ele></trkpt>
+   <trkpt lat="40.626833" lon="-4.012873"><ele>879</ele></trkpt>
+   <trkpt lat="40.626735" lon="-4.012433"><ele>879.75</ele></trkpt>
+   <trkpt lat="40.62668" lon="-4.012024"><ele>879.25</ele></trkpt>
+   <trkpt lat="40.626662" lon="-4.011776"><ele>879</ele></trkpt>
+   <trkpt lat="40.626654" lon="-4.011554"><ele>879</ele></trkpt>
+   <trkpt lat="40.626641" lon="-4.010729"><ele>878.75</ele></trkpt>
+   <trkpt lat="40.626624" lon="-4.010364"><ele>878</ele></trkpt>
+   <trkpt lat="40.626584" lon="-4.009948"><ele>877.5</ele></trkpt>
+   <trkpt lat="40.626491" lon="-4.009329"><ele>877.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

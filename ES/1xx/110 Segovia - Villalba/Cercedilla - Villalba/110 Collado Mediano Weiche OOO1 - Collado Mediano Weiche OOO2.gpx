@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 92 filtered ascend = 0 plain-ascend = 0 cost=92 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Collado Mediano Weiche OOO1 - Collado Mediano Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/40.69176/-4.03204/standard&amp;lonlats=-4.030165,40.691864;-4.031237,40.691975&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.691864" lon="-4.030165"><ele>1010</ele></trkpt>
+   <trkpt lat="40.691898" lon="-4.030478"><ele>1009.75</ele></trkpt>
+   <trkpt lat="40.691929" lon="-4.030911"><ele>1009.25</ele></trkpt>
+   <trkpt lat="40.691971" lon="-4.031238"><ele>1009</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

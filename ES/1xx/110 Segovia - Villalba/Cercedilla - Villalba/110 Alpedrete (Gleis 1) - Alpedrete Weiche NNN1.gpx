@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 7 plain-ascend = 8 cost=382 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Alpedrete (Gleis 1) - Alpedrete Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/40.66022/-4.03839/standard&amp;lonlats=-4.035364,40.658236;-4.039133,40.660079&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.658236" lon="-4.035363"><ele>918.75</ele></trkpt>
+   <trkpt lat="40.658247" lon="-4.035373"><ele>918.75</ele></trkpt>
+   <trkpt lat="40.658454" lon="-4.035597"><ele>919.25</ele></trkpt>
+   <trkpt lat="40.658645" lon="-4.035839"><ele>920</ele></trkpt>
+   <trkpt lat="40.658738" lon="-4.035968"><ele>920.5</ele></trkpt>
+   <trkpt lat="40.658913" lon="-4.036242"><ele>921</ele></trkpt>
+   <trkpt lat="40.659071" lon="-4.036533"><ele>921</ele></trkpt>
+   <trkpt lat="40.65914" lon="-4.036677"><ele>920.75</ele></trkpt>
+   <trkpt lat="40.659308" lon="-4.037072"><ele>922</ele></trkpt>
+   <trkpt lat="40.660078" lon="-4.039125"><ele>925.25</ele></trkpt>
+   <trkpt lat="40.66008" lon="-4.039132"><ele>926.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

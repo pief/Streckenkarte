@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 396 filtered ascend = 9 plain-ascend = 9 cost=396 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Los Mollinos (Gleis 1) - Los Mollinos Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/40.70941/-4.06578/standard&amp;lonlats=-4.067076,40.706579;-4.0654,40.709786&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.706578" lon="-4.067078"><ele>1072.25</ele></trkpt>
+   <trkpt lat="40.706741" lon="-4.067091"><ele>1072.5</ele></trkpt>
+   <trkpt lat="40.707001" lon="-4.067093"><ele>1073</ele></trkpt>
+   <trkpt lat="40.707226" lon="-4.067075"><ele>1073.5</ele></trkpt>
+   <trkpt lat="40.707381" lon="-4.067052"><ele>1073.75</ele></trkpt>
+   <trkpt lat="40.707538" lon="-4.06702"><ele>1074.25</ele></trkpt>
+   <trkpt lat="40.707724" lon="-4.066963"><ele>1074.75</ele></trkpt>
+   <trkpt lat="40.707856" lon="-4.066922"><ele>1075</ele></trkpt>
+   <trkpt lat="40.70815" lon="-4.066801"><ele>1075.5</ele></trkpt>
+   <trkpt lat="40.708445" lon="-4.066637"><ele>1075.75</ele></trkpt>
+   <trkpt lat="40.708588" lon="-4.066544"><ele>1076</ele></trkpt>
+   <trkpt lat="40.708725" lon="-4.066444"><ele>1076.25</ele></trkpt>
+   <trkpt lat="40.708935" lon="-4.066269"><ele>1076.75</ele></trkpt>
+   <trkpt lat="40.709146" lon="-4.066067"><ele>1077.25</ele></trkpt>
+   <trkpt lat="40.709781" lon="-4.065401"><ele>1079.75</ele></trkpt>
+   <trkpt lat="40.709783" lon="-4.065398"><ele>1081.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

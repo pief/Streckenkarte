@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = -2 cost=24 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Cercedilla Weiche OOO1 - Cercedilla Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/40.73746/-4.06297/standard&amp;lonlats=-4.06227,40.737364;-4.062508,40.737456&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.737364" lon="-4.06227"><ele>1170.75</ele></trkpt>
+   <trkpt lat="40.737365" lon="-4.06227"><ele>1170.75</ele></trkpt>
+   <trkpt lat="40.737455" lon="-4.062509"><ele>1168.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
