@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 15 plain-ascend = 15 cost=314 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Cercedilla (Gleis 1) - Cercedilla Weiche OOO1</name>
+  <link href="https://bikerouter.de/#map=19/40.73752/-4.06452/standard&amp;lonlats=-4.065912,40.73747;-4.06227,40.737364&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.737467" lon="-4.065912"><ele>1156.75</ele></trkpt>
+   <trkpt lat="40.737482" lon="-4.065852"><ele>1156.75</ele></trkpt>
+   <trkpt lat="40.737572" lon="-4.065403"><ele>1157.5</ele></trkpt>
+   <trkpt lat="40.737618" lon="-4.065108"><ele>1157.75</ele></trkpt>
+   <trkpt lat="40.737642" lon="-4.06487"><ele>1158</ele></trkpt>
+   <trkpt lat="40.73766" lon="-4.064592"><ele>1158</ele></trkpt>
+   <trkpt lat="40.737667" lon="-4.064362"><ele>1157.75</ele></trkpt>
+   <trkpt lat="40.737658" lon="-4.063887"><ele>1158.75</ele></trkpt>
+   <trkpt lat="40.737619" lon="-4.063437"><ele>1160.25</ele></trkpt>
+   <trkpt lat="40.737547" lon="-4.063"><ele>1163.75</ele></trkpt>
+   <trkpt lat="40.737461" lon="-4.062602"><ele>1167.25</ele></trkpt>
+   <trkpt lat="40.737436" lon="-4.0625"><ele>1168.25</ele></trkpt>
+   <trkpt lat="40.737365" lon="-4.06227"><ele>1170.75</ele></trkpt>
+   <trkpt lat="40.737364" lon="-4.06227"><ele>1172</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
