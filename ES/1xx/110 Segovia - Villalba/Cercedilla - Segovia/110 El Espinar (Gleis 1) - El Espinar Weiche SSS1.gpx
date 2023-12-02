@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 506 filtered ascend = 6 plain-ascend = 6 cost=506 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 El Espinar (Gleis 1) - El Espinar Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/40.74078/-4.18950/standard&amp;lonlats=-4.189318,40.740862;-4.189626,40.736455&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.740862" lon="-4.189314"><ele>1201.75</ele></trkpt>
+   <trkpt lat="40.739446" lon="-4.188991"><ele>1202.75</ele></trkpt>
+   <trkpt lat="40.738941" lon="-4.188887"><ele>1203.5</ele></trkpt>
+   <trkpt lat="40.738678" lon="-4.188852"><ele>1203.75</ele></trkpt>
+   <trkpt lat="40.738541" lon="-4.188844"><ele>1204</ele></trkpt>
+   <trkpt lat="40.738212" lon="-4.188849"><ele>1204.25</ele></trkpt>
+   <trkpt lat="40.737846" lon="-4.188902"><ele>1204.5</ele></trkpt>
+   <trkpt lat="40.737566" lon="-4.188985"><ele>1204.75</ele></trkpt>
+   <trkpt lat="40.737329" lon="-4.189071"><ele>1205</ele></trkpt>
+   <trkpt lat="40.73709" lon="-4.189187"><ele>1205.5</ele></trkpt>
+   <trkpt lat="40.736833" lon="-4.189342"><ele>1206.25</ele></trkpt>
+   <trkpt lat="40.736689" lon="-4.189444"><ele>1206.75</ele></trkpt>
+   <trkpt lat="40.736459" lon="-4.189622"><ele>1207.5</ele></trkpt>
+   <trkpt lat="40.736454" lon="-4.189627"><ele>1207.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

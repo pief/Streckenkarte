@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 197 filtered ascend = 12 plain-ascend = 13 cost=197 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Cercedilla (Gleis 2) - Cercedilla Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/40.73665/-4.06738/standard&amp;lonlats=-4.065953,40.737541;-4.06787,40.736574&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.737542" lon="-4.065955"><ele>1158</ele></trkpt>
+   <trkpt lat="40.737506" lon="-4.066085"><ele>1158.25</ele></trkpt>
+   <trkpt lat="40.73741" lon="-4.066377"><ele>1158</ele></trkpt>
+   <trkpt lat="40.737311" lon="-4.066619"><ele>1157.75</ele></trkpt>
+   <trkpt lat="40.737208" lon="-4.066843"><ele>1157</ele></trkpt>
+   <trkpt lat="40.736985" lon="-4.067252"><ele>1157</ele></trkpt>
+   <trkpt lat="40.736826" lon="-4.067511"><ele>1158.5</ele></trkpt>
+   <trkpt lat="40.736676" lon="-4.067735"><ele>1162.5</ele></trkpt>
+   <trkpt lat="40.736575" lon="-4.067866"><ele>1165.75</ele></trkpt>
+   <trkpt lat="40.736572" lon="-4.06787"><ele>1170.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 379 filtered ascend = 0 plain-ascend = -2 cost=379 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>110 Segovia (Gleis 1) - Segovia Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/40.93409/-4.11322/standard&amp;lonlats=-4.113312,40.934289;-4.115013,40.931135&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="40.934289" lon="-4.113318"><ele>1014.25</ele></trkpt>
+   <trkpt lat="40.934091" lon="-4.113427"><ele>1014</ele></trkpt>
+   <trkpt lat="40.931659" lon="-4.114764"><ele>1009.25</ele></trkpt>
+   <trkpt lat="40.931546" lon="-4.114821"><ele>1009.25</ele></trkpt>
+   <trkpt lat="40.931304" lon="-4.114923"><ele>1009.25</ele></trkpt>
+   <trkpt lat="40.931136" lon="-4.115008"><ele>1009.25</ele></trkpt>
+   <trkpt lat="40.931132" lon="-4.11501"><ele>1011</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
