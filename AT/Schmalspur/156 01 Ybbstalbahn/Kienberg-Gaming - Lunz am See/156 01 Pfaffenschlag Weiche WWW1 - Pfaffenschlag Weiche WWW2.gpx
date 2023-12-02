@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 0 plain-ascend = 1 cost=26 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>156 01 Pfaffenschlag Weiche WWW1 - Pfaffenschlag Weiche WWW2</name>
+  <link href="https://bikerouter.de/#map=19/47.89672/15.01563/standard&amp;lonlats=15.015808,47.896659;15.015486,47.896719&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.896659" lon="15.015808"><ele>702</ele></trkpt>
+   <trkpt lat="47.89671" lon="15.015549"><ele>702.75</ele></trkpt>
+   <trkpt lat="47.896717" lon="15.015488"><ele>702.75</ele></trkpt>
+   <trkpt lat="47.896717" lon="15.015485"><ele>702.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
