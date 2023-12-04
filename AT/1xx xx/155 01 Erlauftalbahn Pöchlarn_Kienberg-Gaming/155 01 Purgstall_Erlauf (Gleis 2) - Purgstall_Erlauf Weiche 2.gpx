@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 154 filtered ascend = 0 plain-ascend = -1 cost=155 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>155 01 Purgstall/Erlauf (Gleis 2) - Purgstall/Erlauf Weiche 2</name>
+  <link href="https://bikerouter.de/#map=18/48.05970/15.13264/standard&amp;lonlats=15.131141,48.059414;15.131508,48.060781&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.059413" lon="15.131137"><ele>294.5</ele></trkpt>
+   <trkpt lat="48.060196" lon="15.131306"><ele>294.5</ele></trkpt>
+   <trkpt lat="48.060385" lon="15.131366"><ele>294</ele></trkpt>
+   <trkpt lat="48.060781" lon="15.131506"><ele>293</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

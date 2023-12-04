@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 143 filtered ascend = 0 plain-ascend = 1 cost=143 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>155 01 Wieselburg (Gleis 1) - Wieselburg Weiche 53</name>
+  <link href="https://bikerouter.de/#map=19/48.13135/15.14179/standard&amp;lonlats=15.142481,48.132242;15.141258,48.131264&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.132246" lon="15.142472"><ele>250</ele></trkpt>
+   <trkpt lat="48.131996" lon="15.142145"><ele>250</ele></trkpt>
+   <trkpt lat="48.13182" lon="15.141928"><ele>250</ele></trkpt>
+   <trkpt lat="48.131541" lon="15.141617"><ele>250</ele></trkpt>
+   <trkpt lat="48.131264" lon="15.141263"><ele>250.25</ele></trkpt>
+   <trkpt lat="48.131261" lon="15.14126"><ele>250.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

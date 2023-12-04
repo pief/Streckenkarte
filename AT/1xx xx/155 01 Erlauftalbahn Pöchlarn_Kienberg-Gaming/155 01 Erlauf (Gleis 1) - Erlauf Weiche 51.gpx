@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 1 plain-ascend = 2 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>155 01 Erlauf (Gleis 1) - Erlauf Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/48.18333/15.18338/standard&amp;lonlats=15.182126,48.183911;15.182126,48.183106&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.183911" lon="15.182127"><ele>222</ele></trkpt>
+   <trkpt lat="48.183661" lon="15.18215"><ele>222.25</ele></trkpt>
+   <trkpt lat="48.183598" lon="15.18215"><ele>222.25</ele></trkpt>
+   <trkpt lat="48.183261" lon="15.182126"><ele>222.5</ele></trkpt>
+   <trkpt lat="48.18311" lon="15.18213"><ele>222.75</ele></trkpt>
+   <trkpt lat="48.183106" lon="15.18213"><ele>223.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

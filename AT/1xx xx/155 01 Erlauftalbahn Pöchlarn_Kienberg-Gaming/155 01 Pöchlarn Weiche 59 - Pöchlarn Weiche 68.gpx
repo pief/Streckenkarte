@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 485 filtered ascend = 2 plain-ascend = 2 cost=486 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>155 01 Pöchlarn Weiche 59 - Pöchlarn Weiche 68</name>
+  <link href="https://bikerouter.de/#map=19/48.20789/15.20105/standard&amp;lonlats=15.207903,48.207775;15.201387,48.207628&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.207773" lon="15.207903"><ele>211.5</ele></trkpt>
+   <trkpt lat="48.207762" lon="15.206864"><ele>211</ele></trkpt>
+   <trkpt lat="48.207705" lon="15.204033"><ele>213</ele></trkpt>
+   <trkpt lat="48.207663" lon="15.202411"><ele>213.75</ele></trkpt>
+   <trkpt lat="48.207628" lon="15.201393"><ele>213</ele></trkpt>
+   <trkpt lat="48.207627" lon="15.201386"><ele>213</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

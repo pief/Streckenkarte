@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 187 filtered ascend = 0 plain-ascend = 0 cost=187 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>155 01 Scheibbs (Gleis 1) - Scheibbs Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/48.00510/15.16499/standard&amp;lonlats=15.164309,48.005298;15.163442,48.006872&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.005295" lon="15.164299"><ele>331.5</ele></trkpt>
+   <trkpt lat="48.006044" lon="15.16394"><ele>330.75</ele></trkpt>
+   <trkpt lat="48.006199" lon="15.163866"><ele>330.75</ele></trkpt>
+   <trkpt lat="48.006484" lon="15.16371"><ele>331</ele></trkpt>
+   <trkpt lat="48.006652" lon="15.163601"><ele>331.25</ele></trkpt>
+   <trkpt lat="48.006773" lon="15.163518"><ele>331</ele></trkpt>
+   <trkpt lat="48.006867" lon="15.163449"><ele>330.75</ele></trkpt>
+   <trkpt lat="48.006872" lon="15.163444"><ele>330.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
