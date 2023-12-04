@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 5 plain-ascend = 5 cost=399 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>156 01 Waidhofen/Ybbs Lokalbahn - Waidhofen/Ybbs Schillerpark</name>
+  <link href="https://bikerouter.de/#map=19/47.95718/14.77405/standard&amp;lonlats=14.778799,47.955837;14.774015,47.957353&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.955839" lon="14.7788"><ele>375</ele></trkpt>
+   <trkpt lat="47.955893" lon="14.778649"><ele>374.5</ele></trkpt>
+   <trkpt lat="47.956014" lon="14.77834"><ele>373.25</ele></trkpt>
+   <trkpt lat="47.956126" lon="14.7781"><ele>375.25</ele></trkpt>
+   <trkpt lat="47.956179" lon="14.77797"><ele>375.75</ele></trkpt>
+   <trkpt lat="47.956436" lon="14.777245"><ele>376.75</ele></trkpt>
+   <trkpt lat="47.956483" lon="14.777118"><ele>376.75</ele></trkpt>
+   <trkpt lat="47.956565" lon="14.77687"><ele>375.75</ele></trkpt>
+   <trkpt lat="47.956703" lon="14.776301"><ele>376.25</ele></trkpt>
+   <trkpt lat="47.956754" lon="14.77613"><ele>377.5</ele></trkpt>
+   <trkpt lat="47.956816" lon="14.775952"><ele>378</ele></trkpt>
+   <trkpt lat="47.957192" lon="14.774966"><ele>378</ele></trkpt>
+   <trkpt lat="47.957258" lon="14.77474"><ele>378</ele></trkpt>
+   <trkpt lat="47.957302" lon="14.774506"><ele>378.5</ele></trkpt>
+   <trkpt lat="47.957352" lon="14.77402"><ele>380</ele></trkpt>
+   <trkpt lat="47.957352" lon="14.774014"><ele>380.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
