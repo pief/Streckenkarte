@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 637 filtered ascend = 1 plain-ascend = 2 cost=637 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2992 Osnabrück Hbf (tief) Pu Weiche 256 - Osnabrück Altstadt (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/52.28078/8.04660/standard&amp;lonlats=8.05304,52.277016;8.046094,52.280822&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.277016" lon="8.05304"><ele>65.5</ele></trkpt>
+   <trkpt lat="52.277019" lon="8.053036"><ele>65.75</ele></trkpt>
+   <trkpt lat="52.277153" lon="8.052801"><ele>66.25</ele></trkpt>
+   <trkpt lat="52.277496" lon="8.052191"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.277854" lon="8.051549"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.279085" lon="8.049259"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.279834" lon="8.047869"><ele>64.5</ele></trkpt>
+   <trkpt lat="52.280064" lon="8.047452"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.280255" lon="8.047109"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.280825" lon="8.0461"><ele>67.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
