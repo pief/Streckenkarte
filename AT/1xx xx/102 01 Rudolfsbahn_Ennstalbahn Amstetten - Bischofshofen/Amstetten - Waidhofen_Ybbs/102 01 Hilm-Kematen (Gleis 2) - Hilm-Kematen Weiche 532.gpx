@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 270 filtered ascend = 2 plain-ascend = -2 cost=270 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>102 01 Hilm-Kematen (Gleis 2) - Hilm-Kematen Weiche 532</name>
+  <link href="https://bikerouter.de/#map=19/48.02258/14.76219/standard&amp;lonlats=14.761935,48.02253;14.758635,48.021558&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.022529" lon="14.761934"><ele>332.25</ele></trkpt>
+   <trkpt lat="48.022466" lon="14.761666"><ele>332.5</ele></trkpt>
+   <trkpt lat="48.022324" lon="14.761132"><ele>333.75</ele></trkpt>
+   <trkpt lat="48.022163" lon="14.760568"><ele>334.5</ele></trkpt>
+   <trkpt lat="48.021993" lon="14.760005"><ele>332.25</ele></trkpt>
+   <trkpt lat="48.021764" lon="14.759279"><ele>329.5</ele></trkpt>
+   <trkpt lat="48.021559" lon="14.758639"><ele>329.75</ele></trkpt>
+   <trkpt lat="48.021558" lon="14.758633"><ele>329.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
