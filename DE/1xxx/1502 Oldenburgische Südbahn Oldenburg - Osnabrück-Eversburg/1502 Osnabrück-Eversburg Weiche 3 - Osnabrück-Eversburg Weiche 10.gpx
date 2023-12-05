@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 169 filtered ascend = 0 plain-ascend = 0 cost=169 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>1502 Osnabrück-Eversburg Weiche 3 - Osnabrück-Eversburg Weiche 10</name>
+  <link href="https://bikerouter.de/#map=19/52.29763/8.01287/standard&amp;lonlats=8.012424,52.297831;8.01053,52.29881&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.297831" lon="8.012424"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.297833" lon="8.012421"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.298116" lon="8.011864"><ele>61</ele></trkpt>
+   <trkpt lat="52.29831" lon="8.011501"><ele>61</ele></trkpt>
+   <trkpt lat="52.298436" lon="8.01127"><ele>61</ele></trkpt>
+   <trkpt lat="52.298731" lon="8.01069"><ele>61</ele></trkpt>
+   <trkpt lat="52.29881" lon="8.01053"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>1602 Osnabrück Hbf (tief) Pu Weiche 257 - Osnabrück Hbf (tief) Pu Weiche 259</name>
+  <link href="https://bikerouter.de/#map=19/52.27536/8.05724/standard&amp;lonlats=8.055905,52.275446;8.055519,52.275668&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.275447" lon="8.055907"><ele>67</ele></trkpt>
+   <trkpt lat="52.275448" lon="8.055907"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.275667" lon="8.055522"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.275668" lon="8.055519"><ele>67.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

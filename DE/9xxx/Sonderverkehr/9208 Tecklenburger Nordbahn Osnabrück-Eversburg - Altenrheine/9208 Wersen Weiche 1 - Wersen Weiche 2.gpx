@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 0 plain-ascend = -2 cost=132 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>9208 Wersen Weiche 1 - Wersen Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/52.31318/7.94682/standard&amp;lonlats=7.946653,52.312934;7.946213,52.31338;7.945679,52.313934&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.312934" lon="7.946653"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.312935" lon="7.946653"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.313381" lon="7.946218"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.313383" lon="7.946217"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.313932" lon="7.945684"><ele>57</ele></trkpt>
+   <trkpt lat="52.313934" lon="7.945681"><ele>57.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
