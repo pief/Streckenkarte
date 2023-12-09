@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 349 filtered ascend = 0 plain-ascend = 0 cost=349 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 Abzweig Knoten St. Peter-Seittenstetten West Weiche 103 - St. Johann-Weistrach (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.07507/14.61410/standard&amp;lonlats=14.615411,48.072593;14.612989,48.075272&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.072592" lon="14.61541"><ele>333.25</ele></trkpt>
+   <trkpt lat="48.072593" lon="14.61541"><ele>333.5</ele></trkpt>
+   <trkpt lat="48.074582" lon="14.61362"><ele>333</ele></trkpt>
+   <trkpt lat="48.074996" lon="14.613252"><ele>332</ele></trkpt>
+   <trkpt lat="48.075276" lon="14.612999"><ele>333.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

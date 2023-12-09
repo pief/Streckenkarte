@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 1 plain-ascend = 1 cost=269 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 St. Peter-Seittenstetten Weiche 2 - St. Peter-Seittenstetten Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/48.05376/14.65515/standard&amp;lonlats=14.658339,48.053124;14.65482,48.053589&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.053124" lon="14.658339"><ele>317</ele></trkpt>
+   <trkpt lat="48.053133" lon="14.658273"><ele>316.75</ele></trkpt>
+   <trkpt lat="48.053296" lon="14.657054"><ele>316.5</ele></trkpt>
+   <trkpt lat="48.053355" lon="14.656603"><ele>317</ele></trkpt>
+   <trkpt lat="48.053411" lon="14.656176"><ele>318.5</ele></trkpt>
+   <trkpt lat="48.053586" lon="14.654824"><ele>317.5</ele></trkpt>
+   <trkpt lat="48.053586" lon="14.654819"><ele>317.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

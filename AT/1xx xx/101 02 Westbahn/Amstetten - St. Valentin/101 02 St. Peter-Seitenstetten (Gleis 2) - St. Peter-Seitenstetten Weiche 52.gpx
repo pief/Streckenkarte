@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 487 filtered ascend = 0 plain-ascend = 0 cost=487 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 St. Peter-Seitenstetten (Gleis 2) - St. Peter-Seitenstetten Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/48.05591/14.63948/standard&amp;lonlats=14.645089,48.054908;14.638668,48.055681&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.054911" lon="14.645089"><ele>321</ele></trkpt>
+   <trkpt lat="48.055141" lon="14.643289"><ele>321.25</ele></trkpt>
+   <trkpt lat="48.055215" lon="14.642655"><ele>321.25</ele></trkpt>
+   <trkpt lat="48.055306" lon="14.641795"><ele>321</ele></trkpt>
+   <trkpt lat="48.055469" lon="14.640334"><ele>320.75</ele></trkpt>
+   <trkpt lat="48.055679" lon="14.638669"><ele>321.5</ele></trkpt>
+   <trkpt lat="48.055679" lon="14.638667"><ele>321</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

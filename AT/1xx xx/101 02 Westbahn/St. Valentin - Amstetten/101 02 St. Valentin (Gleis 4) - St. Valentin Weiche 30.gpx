@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 0 plain-ascend = 0 cost=265 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 St. Valentin (Gleis 4) - St. Valentin Weiche 30</name>
+  <link href="https://bikerouter.de/#map=19/48.17866/14.52263/standard&amp;lonlats=14.521687,48.178855;14.523186,48.176689&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.178853" lon="14.521683"><ele>263.25</ele></trkpt>
+   <trkpt lat="48.178001" lon="14.522194"><ele>262.25</ele></trkpt>
+   <trkpt lat="48.17777" lon="14.522358"><ele>261.75</ele></trkpt>
+   <trkpt lat="48.177493" lon="14.522589"><ele>261</ele></trkpt>
+   <trkpt lat="48.177023" lon="14.522962"><ele>261.75</ele></trkpt>
+   <trkpt lat="48.176689" lon="14.523188"><ele>262.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
