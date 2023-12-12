@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 7073 filtered ascend = 7 plain-ascend = 7 cost=7073 energy=0.1kwh time=9m 26s -->
+<!-- track-length = 5065 filtered ascend = 5 plain-ascend = 4 cost=5065 energy=0.1kwh time=6m 45s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 0.18.1">
+ creator="bikerouter.de 2023.20">
  <trk>
-  <name>2324 Duisburg-Wedau Entenfang Weiche 36 - Tiefenbroich Weiche 1</name>
+  <name>2324 Duisburg-Wedau Entenfang Weiche 36 - Lintorf (Niederrhein) Weiche 12</name>
+  <link href="https://bikerouter.de/#map=19/51.33131/6.82771/standard&amp;lonlats=6.813249,51.37571;6.827542,51.331713;6.827692,51.331131&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
   <trkseg>
-   <trkpt lat="51.37571" lon="6.813249"><ele>39</ele></trkpt>
+   <trkpt lat="51.375708" lon="6.813249"><ele>39</ele></trkpt>
    <trkpt lat="51.375402" lon="6.813234"><ele>39</ele></trkpt>
    <trkpt lat="51.374853" lon="6.813257"><ele>39</ele></trkpt>
    <trkpt lat="51.374556" lon="6.813296"><ele>39</ele></trkpt>
@@ -35,27 +38,13 @@
    <trkpt lat="51.345328" lon="6.822361"><ele>41.75</ele></trkpt>
    <trkpt lat="51.345241" lon="6.822396"><ele>42</ele></trkpt>
    <trkpt lat="51.341362" lon="6.823936"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.333591" lon="6.827003"><ele>44.75</ele></trkpt>
+   <trkpt lat="51.33359" lon="6.827002"><ele>44.75</ele></trkpt>
    <trkpt lat="51.333474" lon="6.827047"><ele>44.75</ele></trkpt>
-   <trkpt lat="51.333123" lon="6.82718"><ele>44.5</ele></trkpt>
-   <trkpt lat="51.333054" lon="6.827195"><ele>44.5</ele></trkpt>
-   <trkpt lat="51.331145" lon="6.827689"><ele>42.5</ele></trkpt>
-   <trkpt lat="51.331028" lon="6.827719"><ele>42.5</ele></trkpt>
-   <trkpt lat="51.329012" lon="6.828242"><ele>42</ele></trkpt>
-   <trkpt lat="51.328075" lon="6.828474"><ele>43</ele></trkpt>
-   <trkpt lat="51.32501" lon="6.829247"><ele>43.75</ele></trkpt>
-   <trkpt lat="51.31986" lon="6.830546"><ele>46</ele></trkpt>
-   <trkpt lat="51.319719" lon="6.830581"><ele>45.75</ele></trkpt>
-   <trkpt lat="51.319433" lon="6.830654"><ele>45</ele></trkpt>
-   <trkpt lat="51.316493" lon="6.831398"><ele>43.25</ele></trkpt>
-   <trkpt lat="51.316173" lon="6.831495"><ele>42.5</ele></trkpt>
-   <trkpt lat="51.316094" lon="6.831519"><ele>42.25</ele></trkpt>
-   <trkpt lat="51.315848" lon="6.831594"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.315528" lon="6.831707"><ele>42.25</ele></trkpt>
-   <trkpt lat="51.315215" lon="6.831834"><ele>42.75</ele></trkpt>
-   <trkpt lat="51.314903" lon="6.831979"><ele>43</ele></trkpt>
-   <trkpt lat="51.313689" lon="6.832616"><ele>45.5</ele></trkpt>
-   <trkpt lat="51.313628" lon="6.832653"><ele>45.5</ele></trkpt>
+   <trkpt lat="51.333054" lon="6.827197"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.332323" lon="6.827396"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.331713" lon="6.827549"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.331134" lon="6.827695"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.331131" lon="6.827695"><ele>42.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
