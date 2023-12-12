@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>9286 Lippborg-Heintrop - Lippborg-Heintrop Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/51.65909/8.03181/standard&amp;lonlats=8.030264,51.659199;8.029297,51.659659">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.659199" lon="8.030264"><ele>67.25</ele></trkpt>
+   <trkpt lat="51.659558" lon="8.02953"><ele>67</ele></trkpt>
+   <trkpt lat="51.659659" lon="8.029299"><ele>66.75</ele></trkpt>
+   <trkpt lat="51.659659" lon="8.029297"><ele>67</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
