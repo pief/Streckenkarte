@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = 0 cost=77 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2324 Tiefenbroich Weiche 2 - Tiefenbroich Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/51.31344/6.83321/standard&amp;lonlats=6.833041,51.313021;6.832637,51.313653&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313021" lon="6.833041"><ele>45.75</ele></trkpt>
+   <trkpt lat="51.313025" lon="6.833039"><ele>46</ele></trkpt>
+   <trkpt lat="51.313485" lon="6.832738"><ele>46</ele></trkpt>
+   <trkpt lat="51.313651" lon="6.832639"><ele>45.5</ele></trkpt>
+   <trkpt lat="51.313653" lon="6.832637"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
