@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 181 filtered ascend = 0 plain-ascend = -1 cost=181 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 Abzweig St. Valentin 11 Weiche 601 - Abzweig St. Valentin 11 Weiche 602</name>
+  <link href="https://bikerouter.de/#map=18/48.21121/14.50256/standard&amp;lonlats=14.503798,48.20977;14.502812,48.211273&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.20977" lon="14.503798"><ele>247.75</ele></trkpt>
+   <trkpt lat="48.210299" lon="14.50348"><ele>248</ele></trkpt>
+   <trkpt lat="48.21073" lon="14.503201"><ele>247.5</ele></trkpt>
+   <trkpt lat="48.211083" lon="14.502954"><ele>246.25</ele></trkpt>
+   <trkpt lat="48.211216" lon="14.502857"><ele>246</ele></trkpt>
+   <trkpt lat="48.211273" lon="14.502813"><ele>245.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1611 filtered ascend = 5 plain-ascend = 3 cost=1611 energy=0.0kwh time=2m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 Asten-Fisching (Gleis 2) - Asten-St. Florian Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/48.23343/14.40765/standard&amp;lonlats=14.427736,48.22729;14.408183,48.233544&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.22729" lon="14.427736"><ele>241.25</ele></trkpt>
+   <trkpt lat="48.227292" lon="14.427731"><ele>241.25</ele></trkpt>
+   <trkpt lat="48.227528" lon="14.426995"><ele>240.25</ele></trkpt>
+   <trkpt lat="48.228317" lon="14.424355"><ele>245</ele></trkpt>
+   <trkpt lat="48.229451" lon="14.420837"><ele>244.5</ele></trkpt>
+   <trkpt lat="48.229526" lon="14.420605"><ele>245</ele></trkpt>
+   <trkpt lat="48.230827" lon="14.416579"><ele>246.75</ele></trkpt>
+   <trkpt lat="48.232839" lon="14.410358"><ele>243</ele></trkpt>
+   <trkpt lat="48.233129" lon="14.409461"><ele>243</ele></trkpt>
+   <trkpt lat="48.23353" lon="14.408222"><ele>244</ele></trkpt>
+   <trkpt lat="48.233543" lon="14.408183"><ele>244</ele></trkpt>
+   <trkpt lat="48.233543" lon="14.408182"><ele>244.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

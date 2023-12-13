@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 0 cost=21 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 St. Valentin Weiche 68 - St. Valentin Weiche 69</name>
+  <link href="https://bikerouter.de/#map=19/48.18269/14.51967/standard&amp;lonlats=14.519522,48.182479;14.51943,48.182661&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.182479" lon="14.519522"><ele>261.5</ele></trkpt>
+   <trkpt lat="48.18259" lon="14.519467"><ele>261.25</ele></trkpt>
+   <trkpt lat="48.182661" lon="14.519431"><ele>261</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

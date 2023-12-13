@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 318 filtered ascend = 1 plain-ascend = 1 cost=318 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 St. Valentin (Gleis 5) - St. Valentin Weiche 62</name>
+  <link href="https://bikerouter.de/#map=19/48.18152/14.52049/standard&amp;lonlats=14.521549,48.178816;14.520037,48.181475&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.178816" lon="14.521549"><ele>263</ele></trkpt>
+   <trkpt lat="48.178864" lon="14.521522"><ele>263.25</ele></trkpt>
+   <trkpt lat="48.180641" lon="14.520469"><ele>263.5</ele></trkpt>
+   <trkpt lat="48.181162" lon="14.520185"><ele>264</ele></trkpt>
+   <trkpt lat="48.181469" lon="14.520042"><ele>264.5</ele></trkpt>
+   <trkpt lat="48.181475" lon="14.520039"><ele>264.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

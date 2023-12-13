@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1183 filtered ascend = 4 plain-ascend = 5 cost=1183 energy=0.0kwh time=1m 35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 Linz Pichling (Gleis 2) - Abzweig Asten-St. Florian 1 Weiche 102</name>
+  <link href="https://bikerouter.de/#map=18/48.24784/14.36327/standard&amp;lonlats=14.37932,48.242889;14.364935,48.247454&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.242889" lon="14.37932"><ele>245</ele></trkpt>
+   <trkpt lat="48.242895" lon="14.379305"><ele>245</ele></trkpt>
+   <trkpt lat="48.243755" lon="14.376645"><ele>246</ele></trkpt>
+   <trkpt lat="48.244422" lon="14.374552"><ele>246.5</ele></trkpt>
+   <trkpt lat="48.245734" lon="14.370333"><ele>248</ele></trkpt>
+   <trkpt lat="48.245795" lon="14.370137"><ele>248</ele></trkpt>
+   <trkpt lat="48.246256" lon="14.368646"><ele>248.25</ele></trkpt>
+   <trkpt lat="48.246345" lon="14.368367"><ele>248.25</ele></trkpt>
+   <trkpt lat="48.247448" lon="14.36494"><ele>249.75</ele></trkpt>
+   <trkpt lat="48.24745" lon="14.364932"><ele>249.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

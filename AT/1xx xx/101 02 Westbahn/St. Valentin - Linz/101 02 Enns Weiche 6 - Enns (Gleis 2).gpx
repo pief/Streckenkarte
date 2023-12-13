@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 257 filtered ascend = 0 plain-ascend = -1 cost=257 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 Enns Weiche 6 - Enns (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.22122/14.46714/standard&amp;lonlats=14.470107,48.22136;14.466669,48.221268&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.221358" lon="14.470106"><ele>246.75</ele></trkpt>
+   <trkpt lat="48.221359" lon="14.470104"><ele>246.75</ele></trkpt>
+   <trkpt lat="48.221364" lon="14.469724"><ele>245.75</ele></trkpt>
+   <trkpt lat="48.22135" lon="14.469029"><ele>244.75</ele></trkpt>
+   <trkpt lat="48.221314" lon="14.468012"><ele>244.5</ele></trkpt>
+   <trkpt lat="48.22128" lon="14.46709"><ele>245.25</ele></trkpt>
+   <trkpt lat="48.221263" lon="14.466668"><ele>245.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

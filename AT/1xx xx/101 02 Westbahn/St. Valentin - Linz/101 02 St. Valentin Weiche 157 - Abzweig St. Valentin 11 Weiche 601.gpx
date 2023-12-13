@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1869 filtered ascend = 4 plain-ascend = -5 cost=1869 energy=0.0kwh time=2m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 St. Valentin Weiche 157 - Abzweig St. Valentin 11 Weiche 601</name>
+  <link href="https://bikerouter.de/#map=19/48.20989/14.50368/standard&amp;lonlats=14.512881,48.194113;14.503798,48.209771&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.194113" lon="14.512881"><ele>254</ele></trkpt>
+   <trkpt lat="48.194115" lon="14.512881"><ele>254</ele></trkpt>
+   <trkpt lat="48.195363" lon="14.512182"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.195368" lon="14.512178"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.197265" lon="14.511168"><ele>258.5</ele></trkpt>
+   <trkpt lat="48.198324" lon="14.510561"><ele>250.25</ele></trkpt>
+   <trkpt lat="48.198569" lon="14.510416"><ele>249.5</ele></trkpt>
+   <trkpt lat="48.198634" lon="14.510378"><ele>249.25</ele></trkpt>
+   <trkpt lat="48.198992" lon="14.510163"><ele>248.75</ele></trkpt>
+   <trkpt lat="48.199624" lon="14.509793"><ele>248.75</ele></trkpt>
+   <trkpt lat="48.203855" lon="14.507292"><ele>250</ele></trkpt>
+   <trkpt lat="48.204038" lon="14.507184"><ele>250</ele></trkpt>
+   <trkpt lat="48.208008" lon="14.50484"><ele>246.25</ele></trkpt>
+   <trkpt lat="48.208885" lon="14.504322"><ele>246</ele></trkpt>
+   <trkpt lat="48.209767" lon="14.5038"><ele>247.75</ele></trkpt>
+   <trkpt lat="48.20977" lon="14.503798"><ele>248</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
