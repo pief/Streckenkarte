@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 227 filtered ascend = 1 plain-ascend = 1 cost=227 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2324 Düsseldorf-Rath (Gleis 7) - Düsseldorf-Rath Weiche 32</name>
+  <link href="https://bikerouter.de/#map=19/51.26893/6.82455/standard&amp;lonlats=6.8241,51.26848;6.825224,51.27039&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.268478" lon="6.824102"><ele>43</ele></trkpt>
+   <trkpt lat="51.269829" lon="6.82491"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.27021" lon="6.825138"><ele>44</ele></trkpt>
+   <trkpt lat="51.270385" lon="6.825228"><ele>44</ele></trkpt>
+   <trkpt lat="51.270388" lon="6.825229"><ele>44</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
