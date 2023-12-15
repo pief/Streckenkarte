@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 978 filtered ascend = 14 plain-ascend = 10 cost=979 energy=0.0kwh time=1m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2400 Hösel (Gleis 1) - Hösel Weiche 91</name>
+  <link href="https://bikerouter.de/#map=19/51.34552/6.90397/standard&amp;lonlats=6.892945,51.341378;6.905082,51.345555&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.341375" lon="6.892946"><ele>101.75</ele></trkpt>
+   <trkpt lat="51.341444" lon="6.8931"><ele>101.75</ele></trkpt>
+   <trkpt lat="51.341837" lon="6.893975"><ele>102.75</ele></trkpt>
+   <trkpt lat="51.342054" lon="6.894456"><ele>104.25</ele></trkpt>
+   <trkpt lat="51.343252" lon="6.897135"><ele>105</ele></trkpt>
+   <trkpt lat="51.343979" lon="6.898749"><ele>108</ele></trkpt>
+   <trkpt lat="51.344207" lon="6.89928"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.344357" lon="6.899657"><ele>111</ele></trkpt>
+   <trkpt lat="51.344576" lon="6.900263"><ele>113</ele></trkpt>
+   <trkpt lat="51.344708" lon="6.900677"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.344834" lon="6.901099"><ele>114</ele></trkpt>
+   <trkpt lat="51.345004" lon="6.901729"><ele>114</ele></trkpt>
+   <trkpt lat="51.345096" lon="6.902114"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.345206" lon="6.902622"><ele>116</ele></trkpt>
+   <trkpt lat="51.345273" lon="6.902974"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.345361" lon="6.903494"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.345477" lon="6.904287"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.345555" lon="6.905082"><ele>111.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

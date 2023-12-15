@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 221 filtered ascend = 0 plain-ascend = 0 cost=221 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2400 Ratingen Ost (Gleis 2) - Ratingen Ost Weiche 37</name>
+  <link href="https://bikerouter.de/#map=19/51.29706/6.86501/standard&amp;lonlats=6.863698,51.295287;6.864712,51.297162&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.295286" lon="6.863697"><ele>67</ele></trkpt>
+   <trkpt lat="51.295289" lon="6.863699"><ele>67.25</ele></trkpt>
+   <trkpt lat="51.295515" lon="6.863825"><ele>67</ele></trkpt>
+   <trkpt lat="51.296492" lon="6.864373"><ele>67</ele></trkpt>
+   <trkpt lat="51.29716" lon="6.864713"><ele>67</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

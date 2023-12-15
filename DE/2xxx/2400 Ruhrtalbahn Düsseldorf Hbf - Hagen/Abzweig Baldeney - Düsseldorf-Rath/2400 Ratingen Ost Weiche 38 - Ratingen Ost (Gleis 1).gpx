@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 305 filtered ascend = 0 plain-ascend = 1 cost=305 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2400 Ratingen Ost Weiche 38 - Ratingen Ost (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.29518/6.86406/standard&amp;lonlats=6.864961,51.297889;6.863548,51.295315&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.297888" lon="6.864959"><ele>67.5</ele></trkpt>
+   <trkpt lat="51.297887" lon="6.864959"><ele>67.5</ele></trkpt>
+   <trkpt lat="51.297611" lon="6.864843"><ele>67.25</ele></trkpt>
+   <trkpt lat="51.297178" lon="6.864642"><ele>67.25</ele></trkpt>
+   <trkpt lat="51.296735" lon="6.864411"><ele>67</ele></trkpt>
+   <trkpt lat="51.296291" lon="6.864154"><ele>66.75</ele></trkpt>
+   <trkpt lat="51.295319" lon="6.863551"><ele>67</ele></trkpt>
+   <trkpt lat="51.295313" lon="6.863548"><ele>68</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
