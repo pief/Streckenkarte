@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 177 filtered ascend = 0 plain-ascend = -1 cost=177 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>2400 Kettwig (Gleis 3) - Kettwig Weiche 56</name>
+  <link href="https://bikerouter.de/#map=19/51.36254/6.95267/standard&amp;lonlats=6.954188,51.363463;6.952208,51.362474&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.363457" lon="6.954194"><ele>51.75</ele></trkpt>
+   <trkpt lat="51.363233" lon="6.953793"><ele>50.5</ele></trkpt>
+   <trkpt lat="51.363151" lon="6.953633"><ele>50.5</ele></trkpt>
+   <trkpt lat="51.363061" lon="6.953455"><ele>50.75</ele></trkpt>
+   <trkpt lat="51.362922" lon="6.953141"><ele>50.75</ele></trkpt>
+   <trkpt lat="51.362671" lon="6.952582"><ele>50.75</ele></trkpt>
+   <trkpt lat="51.362476" lon="6.95221"><ele>50.25</ele></trkpt>
+   <trkpt lat="51.362474" lon="6.952206"><ele>50.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
