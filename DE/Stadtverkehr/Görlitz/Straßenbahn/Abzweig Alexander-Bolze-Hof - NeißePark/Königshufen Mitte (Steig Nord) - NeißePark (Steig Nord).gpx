@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 337 filtered ascend = 0 plain-ascend = 0 cost=674 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Königshufen Mitte (Steig Nord) - NeißePark (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.16766/14.97348/standard&amp;lonlats=14.977206,51.168717;14.972847,51.167487&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.168712" lon="14.977208"><ele>223.5</ele></trkpt>
+   <trkpt lat="51.168556" lon="14.97662"><ele>223.75</ele></trkpt>
+   <trkpt lat="51.168066" lon="14.974529"><ele>222.25</ele></trkpt>
+   <trkpt lat="51.167932" lon="14.973982"><ele>222.25</ele></trkpt>
+   <trkpt lat="51.167783" lon="14.973548"><ele>222.5</ele></trkpt>
+   <trkpt lat="51.167669" lon="14.973269"><ele>222.75</ele></trkpt>
+   <trkpt lat="51.16749" lon="14.972848"><ele>223.5</ele></trkpt>
+   <trkpt lat="51.167488" lon="14.972844"><ele>223.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
