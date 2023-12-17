@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 371 filtered ascend = 9 plain-ascend = 9 cost=742 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Am Wiesengrund (Steig Nord) - Abzweig Alexander-Bolze-Hof</name>
+  <link href="https://bikerouter.de/#map=19/51.16787/14.98113/standard&amp;lonlats=14.984059,51.170227;14.980757,51.167931&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.170227" lon="14.984057"><ele>216.25</ele></trkpt>
+   <trkpt lat="51.170093" lon="14.983366"><ele>217</ele></trkpt>
+   <trkpt lat="51.170031" lon="14.983155"><ele>217.25</ele></trkpt>
+   <trkpt lat="51.169583" lon="14.982176"><ele>220</ele></trkpt>
+   <trkpt lat="51.169429" lon="14.981822"><ele>220.25</ele></trkpt>
+   <trkpt lat="51.169227" lon="14.981468"><ele>220.5</ele></trkpt>
+   <trkpt lat="51.169105" lon="14.981296"><ele>220.75</ele></trkpt>
+   <trkpt lat="51.168897" lon="14.981089"><ele>221.75</ele></trkpt>
+   <trkpt lat="51.168778" lon="14.981"><ele>222.25</ele></trkpt>
+   <trkpt lat="51.168605" lon="14.980904"><ele>222.75</ele></trkpt>
+   <trkpt lat="51.168465" lon="14.980847"><ele>223.25</ele></trkpt>
+   <trkpt lat="51.168199" lon="14.980799"><ele>224</ele></trkpt>
+   <trkpt lat="51.167941" lon="14.980756"><ele>224.75</ele></trkpt>
+   <trkpt lat="51.16793" lon="14.980754"><ele>225.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
