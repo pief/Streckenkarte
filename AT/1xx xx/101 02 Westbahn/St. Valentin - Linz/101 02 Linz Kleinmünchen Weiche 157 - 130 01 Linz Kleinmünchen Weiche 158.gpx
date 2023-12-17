@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 162 filtered ascend = 2 plain-ascend = 3 cost=162 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>101 02 Linz Kleinmünchen Weiche 157 - 130 01 Linz Kleinmünchen Weiche 158</name>
+  <link href="https://bikerouter.de/#map=19/48.26602/14.31839/standard&amp;lonlats=14.318804,48.264584;14.31846,48.266019&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.264584" lon="14.318806"><ele>256</ele></trkpt>
+   <trkpt lat="48.264586" lon="14.318806"><ele>256.25</ele></trkpt>
+   <trkpt lat="48.265067" lon="14.318668"><ele>257</ele></trkpt>
+   <trkpt lat="48.266011" lon="14.318462"><ele>258.5</ele></trkpt>
+   <trkpt lat="48.266019" lon="14.31846"><ele>258.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

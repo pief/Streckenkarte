@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 0 plain-ascend = -1 cost=199 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>130 01 Linz/Donau Hbf (Gleis 9) - Linz/Donau Hbf Weiche 152</name>
+  <link href="https://bikerouter.de/#map=19/48.29008/14.29211/standard&amp;lonlats=14.292156,48.29013;14.293355,48.291717&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.290128" lon="14.292157"><ele>264.25</ele></trkpt>
+   <trkpt lat="48.290959" lon="14.292877"><ele>261.25</ele></trkpt>
+   <trkpt lat="48.291173" lon="14.293048"><ele>261.75</ele></trkpt>
+   <trkpt lat="48.291356" lon="14.293172"><ele>262.25</ele></trkpt>
+   <trkpt lat="48.291533" lon="14.293271"><ele>262.5</ele></trkpt>
+   <trkpt lat="48.291716" lon="14.293359"><ele>262.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

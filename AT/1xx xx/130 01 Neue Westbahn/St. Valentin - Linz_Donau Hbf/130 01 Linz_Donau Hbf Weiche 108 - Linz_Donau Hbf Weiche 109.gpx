@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=20 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>130 01 Linz/Donau Hbf Weiche 108 - Linz/Donau Hbf Weiche 109</name>
+  <link href="https://bikerouter.de/#map=19/48.29541/14.29723/standard&amp;lonlats=14.297723,48.295711;14.297507,48.295627&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.29571" lon="14.297722"><ele>262.5</ele></trkpt>
+   <trkpt lat="48.29571" lon="14.297721"><ele>262.5</ele></trkpt>
+   <trkpt lat="48.295688" lon="14.297661"><ele>262.25</ele></trkpt>
+   <trkpt lat="48.29563" lon="14.297509"><ele>262.25</ele></trkpt>
+   <trkpt lat="48.295628" lon="14.297504"><ele>262</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
