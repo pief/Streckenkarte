@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 460 filtered ascend = 0 plain-ascend = -2 cost=920 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Geschwister-Scholl-Straße (Steig Süd) - Grundstraße</name>
+  <link href="https://bikerouter.de/#map=19/51.13835/14.95690/standard&amp;lonlats=14.956651,51.138252;14.950816,51.136379&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.138249" lon="14.956652"><ele>244.5</ele></trkpt>
+   <trkpt lat="51.137679" lon="14.954821"><ele>243.75</ele></trkpt>
+   <trkpt lat="51.137123" lon="14.952935"><ele>240.75</ele></trkpt>
+   <trkpt lat="51.137002" lon="14.952554"><ele>240.25</ele></trkpt>
+   <trkpt lat="51.136873" lon="14.952168"><ele>240</ele></trkpt>
+   <trkpt lat="51.136585" lon="14.951356"><ele>239.75</ele></trkpt>
+   <trkpt lat="51.136382" lon="14.950817"><ele>240.25</ele></trkpt>
+   <trkpt lat="51.13638" lon="14.950813"><ele>241.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

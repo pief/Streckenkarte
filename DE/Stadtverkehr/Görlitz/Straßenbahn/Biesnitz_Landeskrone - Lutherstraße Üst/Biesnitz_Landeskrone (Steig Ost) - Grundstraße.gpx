@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 720 filtered ascend = 0 plain-ascend = -17 cost=1440 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Biesnitz/Landeskrone (Steig Ost) - Grundstraße</name>
+  <link href="https://bikerouter.de/#map=19/51.13649/14.95085/standard&amp;lonlats=14.94256,51.132653;14.950816,51.136379&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.132656" lon="14.942558"><ele>258</ele></trkpt>
+   <trkpt lat="51.132659" lon="14.942837"><ele>257.75</ele></trkpt>
+   <trkpt lat="51.132673" lon="14.943002"><ele>257.25</ele></trkpt>
+   <trkpt lat="51.132735" lon="14.943285"><ele>256.5</ele></trkpt>
+   <trkpt lat="51.132906" lon="14.94369"><ele>254.75</ele></trkpt>
+   <trkpt lat="51.132947" lon="14.943779"><ele>254.5</ele></trkpt>
+   <trkpt lat="51.133931" lon="14.945597"><ele>245.25</ele></trkpt>
+   <trkpt lat="51.134014" lon="14.945746"><ele>244.5</ele></trkpt>
+   <trkpt lat="51.135135" lon="14.947796"><ele>237.75</ele></trkpt>
+   <trkpt lat="51.135219" lon="14.947998"><ele>237.75</ele></trkpt>
+   <trkpt lat="51.136157" lon="14.950243"><ele>241.25</ele></trkpt>
+   <trkpt lat="51.13638" lon="14.950813"><ele>240.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

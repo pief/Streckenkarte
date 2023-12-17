@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 0 plain-ascend = -13 cost=598 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Ausweiche Geschwister-Scholl-Straße Weiche Nord - Johann-Sebastian-Bach-Straße</name>
+  <link href="https://bikerouter.de/#map=19/51.14049/14.96245/standard&amp;lonlats=14.958443,51.138911;14.962076,51.140327&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.13891" lon="14.958442"><ele>242.25</ele></trkpt>
+   <trkpt lat="51.139693" lon="14.960382"><ele>236</ele></trkpt>
+   <trkpt lat="51.140319" lon="14.962081"><ele>228.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
