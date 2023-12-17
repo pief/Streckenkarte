@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 1 plain-ascend = 2 cost=132 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Alexander-Bolze-Hof (Steig West) - Üst Alexander-Bolze-Hof Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.16743/14.98092/standard&amp;lonlats=14.980713,51.167662;14.980615,51.167074&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.167661" lon="14.980709"><ele>225.25</ele></trkpt>
+   <trkpt lat="51.167428" lon="14.980669"><ele>225.75</ele></trkpt>
+   <trkpt lat="51.167077" lon="14.980615"><ele>226.5</ele></trkpt>
+   <trkpt lat="51.167073" lon="14.980614"><ele>227</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

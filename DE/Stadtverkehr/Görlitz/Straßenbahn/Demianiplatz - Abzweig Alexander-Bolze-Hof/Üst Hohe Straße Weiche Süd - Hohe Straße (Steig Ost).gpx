@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 1 plain-ascend = 1 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Üst Hohe Straße Weiche Süd - Hohe Straße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.15946/14.98121/standard&amp;lonlats=14.981446,51.158971;14.981294,51.159415&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.158971" lon="14.98145"><ele>203.25</ele></trkpt>
+   <trkpt lat="51.158973" lon="14.98145"><ele>203.25</ele></trkpt>
+   <trkpt lat="51.159413" lon="14.981296"><ele>203</ele></trkpt>
+   <trkpt lat="51.159415" lon="14.981295"><ele>204.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

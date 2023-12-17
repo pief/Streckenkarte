@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 154 filtered ascend = 3 plain-ascend = 4 cost=308 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Heiliges Grab (Steig Nord) - Üst Hohe Straße Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.15931/14.98180/standard&amp;lonlats=14.983338,51.158507;14.981446,51.158971&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.158507" lon="14.983338"><ele>199.75</ele></trkpt>
+   <trkpt lat="51.158508" lon="14.983334"><ele>200</ele></trkpt>
+   <trkpt lat="51.158522" lon="14.983138"><ele>200.75</ele></trkpt>
+   <trkpt lat="51.158528" lon="14.983066"><ele>201</ele></trkpt>
+   <trkpt lat="51.158588" lon="14.982243"><ele>203</ele></trkpt>
+   <trkpt lat="51.158604" lon="14.982125"><ele>203.25</ele></trkpt>
+   <trkpt lat="51.15868" lon="14.981786"><ele>203.5</ele></trkpt>
+   <trkpt lat="51.158701" lon="14.981701"><ele>203.5</ele></trkpt>
+   <trkpt lat="51.158704" lon="14.98169"><ele>203.5</ele></trkpt>
+   <trkpt lat="51.158746" lon="14.981605"><ele>203.5</ele></trkpt>
+   <trkpt lat="51.158832" lon="14.981515"><ele>203.5</ele></trkpt>
+   <trkpt lat="51.158879" lon="14.981485"><ele>203.5</ele></trkpt>
+   <trkpt lat="51.158971" lon="14.98145"><ele>203.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

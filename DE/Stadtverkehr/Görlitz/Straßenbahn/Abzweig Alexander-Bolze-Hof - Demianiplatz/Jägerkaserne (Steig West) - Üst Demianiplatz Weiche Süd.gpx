@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 202 filtered ascend = 2 plain-ascend = 3 cost=404 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Jägerkaserne (Steig West) - Üst Demianiplatz Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.15403/14.98578/standard&amp;lonlats=14.984926,51.155698;14.985703,51.153983&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.155698" lon="14.984929"><ele>208.75</ele></trkpt>
+   <trkpt lat="51.155697" lon="14.98493"><ele>209</ele></trkpt>
+   <trkpt lat="51.154954" lon="14.985046"><ele>210.75</ele></trkpt>
+   <trkpt lat="51.15489" lon="14.985074"><ele>210.75</ele></trkpt>
+   <trkpt lat="51.154845" lon="14.985101"><ele>210.5</ele></trkpt>
+   <trkpt lat="51.15479" lon="14.985145"><ele>210.5</ele></trkpt>
+   <trkpt lat="51.154713" lon="14.98522"><ele>210.25</ele></trkpt>
+   <trkpt lat="51.154598" lon="14.985355"><ele>210.25</ele></trkpt>
+   <trkpt lat="51.154479" lon="14.985464"><ele>210.25</ele></trkpt>
+   <trkpt lat="51.154354" lon="14.985554"><ele>210.25</ele></trkpt>
+   <trkpt lat="51.153987" lon="14.985709"><ele>211.25</ele></trkpt>
+   <trkpt lat="51.153983" lon="14.985709"><ele>211.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
