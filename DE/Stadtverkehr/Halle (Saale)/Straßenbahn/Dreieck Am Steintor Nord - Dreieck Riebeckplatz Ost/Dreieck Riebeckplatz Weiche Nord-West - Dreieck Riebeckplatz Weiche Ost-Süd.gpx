@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Dreieck Riebeckplatz Weiche Nord-West - Dreieck Riebeckplatz Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.47886/11.98296/standard&amp;lonlats=11.982804,51.478994;11.98315,51.47865&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478994" lon="11.982804"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.478991" lon="11.982805"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.478987" lon="11.982806"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.478881" lon="11.982857"><ele>111</ele></trkpt>
+   <trkpt lat="51.478835" lon="11.982889"><ele>111</ele></trkpt>
+   <trkpt lat="51.478738" lon="11.982977"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.478697" lon="11.983039"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.478682" lon="11.983062"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.47865" lon="11.983143"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.478648" lon="11.983149"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

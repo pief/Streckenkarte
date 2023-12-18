@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = -1 cost=160 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Dreieck Rannischer Platz Weiche West-Süd - Dreieck Rannischer Platz Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.47415/11.96998/standard&amp;lonlats=11.969165,51.47384;11.969902,51.474285&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.473838" lon="11.969164"><ele>98.25</ele></trkpt>
+   <trkpt lat="51.473839" lon="11.969169"><ele>98.25</ele></trkpt>
+   <trkpt lat="51.473849" lon="11.969331"><ele>98.5</ele></trkpt>
+   <trkpt lat="51.473883" lon="11.969501"><ele>98.75</ele></trkpt>
+   <trkpt lat="51.473905" lon="11.969561"><ele>98.75</ele></trkpt>
+   <trkpt lat="51.473934" lon="11.969627"><ele>98.75</ele></trkpt>
+   <trkpt lat="51.474003" lon="11.969719"><ele>98.5</ele></trkpt>
+   <trkpt lat="51.474032" lon="11.969752"><ele>98.25</ele></trkpt>
+   <trkpt lat="51.474096" lon="11.969793"><ele>98</ele></trkpt>
+   <trkpt lat="51.474281" lon="11.969902"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.474283" lon="11.969903"><ele>96.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

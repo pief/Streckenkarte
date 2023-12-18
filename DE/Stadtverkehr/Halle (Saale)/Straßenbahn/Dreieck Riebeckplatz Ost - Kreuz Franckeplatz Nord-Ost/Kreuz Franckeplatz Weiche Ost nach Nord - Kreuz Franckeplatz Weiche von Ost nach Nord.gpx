@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Kreuz Franckeplatz Weiche Ost nach Nord - Kreuz Franckeplatz Weiche von Ost nach Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.47870/11.97108/standard&amp;lonlats=11.971093,51.478647;11.970502,51.478833&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478643" lon="11.971092"><ele>89</ele></trkpt>
+   <trkpt lat="51.478636" lon="11.970978"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.478631" lon="11.970892"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.478638" lon="11.970736"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.478659" lon="11.970655"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.478686" lon="11.970598"><ele>88</ele></trkpt>
+   <trkpt lat="51.478701" lon="11.970577"><ele>88</ele></trkpt>
+   <trkpt lat="51.478752" lon="11.970527"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.478791" lon="11.970509"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.478833" lon="11.970502"><ele>87.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

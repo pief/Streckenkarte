@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 413 filtered ascend = 1 plain-ascend = 1 cost=828 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Diesterwegstraße (Steig Ost) - Passendorfer Weg (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.46201/11.94993/standard&amp;lonlats=11.947072,51.459012;11.9505,51.462032&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.459012" lon="11.947069"><ele>86.25</ele></trkpt>
+   <trkpt lat="51.459015" lon="11.947072"><ele>86.25</ele></trkpt>
+   <trkpt lat="51.459143" lon="11.947227"><ele>86</ele></trkpt>
+   <trkpt lat="51.459331" lon="11.947456"><ele>86.25</ele></trkpt>
+   <trkpt lat="51.459788" lon="11.948008"><ele>87.25</ele></trkpt>
+   <trkpt lat="51.460131" lon="11.948397"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.460578" lon="11.948883"><ele>87.25</ele></trkpt>
+   <trkpt lat="51.461079" lon="11.94939"><ele>86.75</ele></trkpt>
+   <trkpt lat="51.461651" lon="11.950039"><ele>87</ele></trkpt>
+   <trkpt lat="51.46203" lon="11.950504"><ele>87.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

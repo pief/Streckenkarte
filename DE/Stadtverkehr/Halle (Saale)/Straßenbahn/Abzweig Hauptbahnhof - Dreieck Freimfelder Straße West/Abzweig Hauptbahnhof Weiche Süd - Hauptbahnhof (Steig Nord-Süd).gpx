@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 0 plain-ascend = 0 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Hauptbahnhof Weiche Süd - Hauptbahnhof (Steig Nord-Süd)</name>
+  <link href="https://bikerouter.de/#map=18/51.47869/11.98844/standard&amp;lonlats=11.984799,51.478445;11.985796,51.478486&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478438" lon="11.984798"><ele>109</ele></trkpt>
+   <trkpt lat="51.478439" lon="11.984805"><ele>109</ele></trkpt>
+   <trkpt lat="51.47845" lon="11.98506"><ele>109</ele></trkpt>
+   <trkpt lat="51.47846" lon="11.985258"><ele>109</ele></trkpt>
+   <trkpt lat="51.478466" lon="11.985399"><ele>109</ele></trkpt>
+   <trkpt lat="51.478482" lon="11.985795"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

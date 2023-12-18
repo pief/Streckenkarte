@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 641 filtered ascend = 0 plain-ascend = -12 cost=1282 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>S-Bahnhof Südstadt (Steig Nord) - Wörmlitz (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=17/51.45114/11.94524/standard&amp;lonlats=11.950235,51.449701;11.942858,51.45249&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.449701" lon="11.950235"><ele>100</ele></trkpt>
+   <trkpt lat="51.449702" lon="11.950233"><ele>100</ele></trkpt>
+   <trkpt lat="51.449731" lon="11.949981"><ele>99.75</ele></trkpt>
+   <trkpt lat="51.449831" lon="11.9491"><ele>99.25</ele></trkpt>
+   <trkpt lat="51.449964" lon="11.948219"><ele>99</ele></trkpt>
+   <trkpt lat="51.450246" lon="11.946774"><ele>99.25</ele></trkpt>
+   <trkpt lat="51.450308" lon="11.94648"><ele>99.25</ele></trkpt>
+   <trkpt lat="51.450383" lon="11.946194"><ele>99.25</ele></trkpt>
+   <trkpt lat="51.45055" lon="11.945612"><ele>98.5</ele></trkpt>
+   <trkpt lat="51.450668" lon="11.945245"><ele>97.5</ele></trkpt>
+   <trkpt lat="51.450829" lon="11.944809"><ele>95.5</ele></trkpt>
+   <trkpt lat="51.450952" lon="11.944501"><ele>94.5</ele></trkpt>
+   <trkpt lat="51.451159" lon="11.944036"><ele>93</ele></trkpt>
+   <trkpt lat="51.451319" lon="11.943716"><ele>91.75</ele></trkpt>
+   <trkpt lat="51.451473" lon="11.943483"><ele>91</ele></trkpt>
+   <trkpt lat="51.451587" lon="11.943342"><ele>90.25</ele></trkpt>
+   <trkpt lat="51.451723" lon="11.943211"><ele>89.5</ele></trkpt>
+   <trkpt lat="51.451874" lon="11.943105"><ele>89</ele></trkpt>
+   <trkpt lat="51.451967" lon="11.943052"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.452217" lon="11.942969"><ele>88</ele></trkpt>
+   <trkpt lat="51.452491" lon="11.942865"><ele>87.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

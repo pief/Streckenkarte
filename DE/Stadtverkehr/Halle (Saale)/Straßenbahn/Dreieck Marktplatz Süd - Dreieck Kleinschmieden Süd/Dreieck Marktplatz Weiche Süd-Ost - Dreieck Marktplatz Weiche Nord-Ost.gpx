@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 1 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Dreieck Marktplatz Weiche Süd-Ost - Dreieck Marktplatz Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.48328/11.96948/standard&amp;lonlats=11.969647,51.48293;11.969401,51.483264&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.482928" lon="11.969644"><ele>92.75</ele></trkpt>
+   <trkpt lat="51.48293" lon="11.969643"><ele>93</ele></trkpt>
+   <trkpt lat="51.483104" lon="11.969488"><ele>93.5</ele></trkpt>
+   <trkpt lat="51.483194" lon="11.969433"><ele>93.75</ele></trkpt>
+   <trkpt lat="51.483261" lon="11.969407"><ele>94</ele></trkpt>
+   <trkpt lat="51.483264" lon="11.969406"><ele>94</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

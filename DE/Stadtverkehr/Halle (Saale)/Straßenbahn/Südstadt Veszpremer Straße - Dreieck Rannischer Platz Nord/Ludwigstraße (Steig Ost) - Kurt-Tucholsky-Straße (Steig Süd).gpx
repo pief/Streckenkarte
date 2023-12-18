@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 466 filtered ascend = 5 plain-ascend = 6 cost=932 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Ludwigstraße (Steig Ost) - Kurt-Tucholsky-Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.47395/11.96207/standard&amp;lonlats=11.958828,51.470347;11.961497,51.47372&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.470345" lon="11.958831"><ele>89.5</ele></trkpt>
+   <trkpt lat="51.470348" lon="11.958832"><ele>89.75</ele></trkpt>
+   <trkpt lat="51.470519" lon="11.958906"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.471214" lon="11.959206"><ele>92.25</ele></trkpt>
+   <trkpt lat="51.472189" lon="11.959624"><ele>93</ele></trkpt>
+   <trkpt lat="51.472829" lon="11.959967"><ele>94</ele></trkpt>
+   <trkpt lat="51.473617" lon="11.960339"><ele>92.5</ele></trkpt>
+   <trkpt lat="51.473675" lon="11.960378"><ele>92.25</ele></trkpt>
+   <trkpt lat="51.473703" lon="11.96042"><ele>92.25</ele></trkpt>
+   <trkpt lat="51.473729" lon="11.960497"><ele>92.25</ele></trkpt>
+   <trkpt lat="51.473738" lon="11.960575"><ele>92.5</ele></trkpt>
+   <trkpt lat="51.473718" lon="11.961496"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

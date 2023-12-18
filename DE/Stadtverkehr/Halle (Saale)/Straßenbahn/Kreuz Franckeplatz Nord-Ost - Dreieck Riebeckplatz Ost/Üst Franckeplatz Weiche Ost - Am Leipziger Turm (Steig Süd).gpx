@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 15 plain-ascend = 16 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Üst Franckeplatz Weiche Ost - Am Leipziger Turm (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.47835/11.97711/standard&amp;lonlats=11.971903,51.478677;11.97712,51.478365&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478675" lon="11.971902"><ele>90.75</ele></trkpt>
+   <trkpt lat="51.478847" lon="11.974112"><ele>94</ele></trkpt>
+   <trkpt lat="51.47886" lon="11.974286"><ele>94.25</ele></trkpt>
+   <trkpt lat="51.478873" lon="11.974574"><ele>94.5</ele></trkpt>
+   <trkpt lat="51.478873" lon="11.974772"><ele>95</ele></trkpt>
+   <trkpt lat="51.478851" lon="11.975713"><ele>98</ele></trkpt>
+   <trkpt lat="51.47884" lon="11.975866"><ele>98.5</ele></trkpt>
+   <trkpt lat="51.478817" lon="11.976028"><ele>99.5</ele></trkpt>
+   <trkpt lat="51.478796" lon="11.976125"><ele>100</ele></trkpt>
+   <trkpt lat="51.478743" lon="11.976308"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.478679" lon="11.976466"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.478366" lon="11.977121"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

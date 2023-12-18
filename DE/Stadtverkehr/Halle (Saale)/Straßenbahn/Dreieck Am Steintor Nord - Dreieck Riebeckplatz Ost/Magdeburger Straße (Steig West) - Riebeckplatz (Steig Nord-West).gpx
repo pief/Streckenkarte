@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 650 filtered ascend = 0 plain-ascend = -8 cost=1300 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Magdeburger Straße (Steig West) - Riebeckplatz (Steig Nord-West)</name>
+  <link href="https://bikerouter.de/#map=19/51.47895/11.98298/standard&amp;lonlats=11.980345,51.48487;11.982745,51.47923&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.484868" lon="11.980338"><ele>120.25</ele></trkpt>
+   <trkpt lat="51.484655" lon="11.980442"><ele>120</ele></trkpt>
+   <trkpt lat="51.484153" lon="11.980678"><ele>119</ele></trkpt>
+   <trkpt lat="51.484132" lon="11.980689"><ele>119</ele></trkpt>
+   <trkpt lat="51.48396" lon="11.980774"><ele>119</ele></trkpt>
+   <trkpt lat="51.481982" lon="11.981753"><ele>115</ele></trkpt>
+   <trkpt lat="51.48183" lon="11.981829"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.48109" lon="11.98219"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.480949" lon="11.98225"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.480853" lon="11.982285"><ele>114</ele></trkpt>
+   <trkpt lat="51.479525" lon="11.982652"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.479496" lon="11.98266"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.479233" lon="11.982744"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.479229" lon="11.982744"><ele>111.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
