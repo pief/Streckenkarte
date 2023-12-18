@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 117 filtered ascend = 0 plain-ascend = 0 cost=234 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Demianiplatz (Steig Süd) - Wendedreieck Postplatz Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.15211/14.98723/standard&amp;lonlats=14.986878,51.152932;14.986564,51.152097&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.152932" lon="14.986878"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152885" lon="14.986971"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.15285" lon="14.987001"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152762" lon="14.987035"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.15261" lon="14.987025"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152235" lon="14.986948"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152188" lon="14.986919"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152136" lon="14.986861"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152107" lon="14.9868"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152092" lon="14.986734"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152087" lon="14.986635"><ele>214.5</ele></trkpt>
+   <trkpt lat="51.152094" lon="14.986568"><ele>214.5</ele></trkpt>
+   <trkpt lat="51.152095" lon="14.986562"><ele>214.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

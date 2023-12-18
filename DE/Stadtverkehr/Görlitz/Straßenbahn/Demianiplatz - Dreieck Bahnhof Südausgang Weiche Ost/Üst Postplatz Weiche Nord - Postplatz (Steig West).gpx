@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = -1 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Üst Postplatz Weiche Nord - Postplatz (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.15166/14.98518/standard&amp;lonlats=14.984795,51.151624;14.985496,51.152027&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.15162" lon="14.984799"><ele>216</ele></trkpt>
+   <trkpt lat="51.151623" lon="14.984802"><ele>216</ele></trkpt>
+   <trkpt lat="51.151801" lon="14.98507"><ele>215.25</ele></trkpt>
+   <trkpt lat="51.151906" lon="14.985259"><ele>215</ele></trkpt>
+   <trkpt lat="51.152026" lon="14.985494"><ele>214.5</ele></trkpt>
+   <trkpt lat="51.152026" lon="14.985495"><ele>214.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

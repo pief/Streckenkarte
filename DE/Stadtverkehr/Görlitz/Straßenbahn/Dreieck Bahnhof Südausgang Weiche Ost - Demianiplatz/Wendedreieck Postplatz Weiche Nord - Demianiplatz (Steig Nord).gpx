@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = 0 cost=218 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Wendedreieck Postplatz Weiche Nord - Demianiplatz (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.15275/14.98788/standard&amp;lonlats=14.987006,51.152308;14.986504,51.153068&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.152306" lon="14.987007"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152608" lon="14.987058"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152772" lon="14.987074"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152853" lon="14.987054"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152902" lon="14.987015"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152942" lon="14.986939"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152992" lon="14.986804"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.153068" lon="14.986505"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.153068" lon="14.986504"><ele>214</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

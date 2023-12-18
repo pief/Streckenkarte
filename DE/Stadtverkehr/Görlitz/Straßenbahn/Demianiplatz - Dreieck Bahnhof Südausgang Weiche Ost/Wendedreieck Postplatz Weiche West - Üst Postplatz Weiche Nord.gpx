@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 84 filtered ascend = 0 plain-ascend = 0 cost=168 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Wendedreieck Postplatz Weiche West - Üst Postplatz Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.15207/14.98618/standard&amp;lonlats=14.986564,51.152097;14.985495,51.152026&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.152095" lon="14.986562"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152193" lon="14.986139"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152209" lon="14.986036"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152208" lon="14.985943"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152192" lon="14.985839"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152171" lon="14.985752"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152151" lon="14.985706"><ele>214.25</ele></trkpt>
+   <trkpt lat="51.152026" lon="14.985494"><ele>214.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
