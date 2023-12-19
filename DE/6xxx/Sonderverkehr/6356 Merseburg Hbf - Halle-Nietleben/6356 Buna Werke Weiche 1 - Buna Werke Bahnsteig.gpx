@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 0 plain-ascend = -2 cost=135 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>6356 Buna Werke Weiche 1 - Buna Werke Bahnsteig</name>
+  <link href="https://bikerouter.de/#map=19/51.38461/11.95787/standard&amp;lonlats=11.956531,51.385589;11.957602,51.384592&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.38559" lon="11.956533"><ele>100.5</ele></trkpt>
+   <trkpt lat="51.385589" lon="11.956536"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.385424" lon="11.956766"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.385196" lon="11.957052"><ele>100.25</ele></trkpt>
+   <trkpt lat="51.38503" lon="11.957233"><ele>99.5</ele></trkpt>
+   <trkpt lat="51.384923" lon="11.957335"><ele>99.25</ele></trkpt>
+   <trkpt lat="51.384705" lon="11.957524"><ele>98.5</ele></trkpt>
+   <trkpt lat="51.384592" lon="11.957603"><ele>97.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
