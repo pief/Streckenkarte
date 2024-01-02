@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 466 filtered ascend = 3 plain-ascend = 4 cost=466 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>133 Bovernier (Gleis 1) - Bovernier Weiche 2</name>
+  <link href="https://bikerouter.de/#map=18/46.07914/7.08204/standard&amp;lonlats=7.08225,46.078589;7.086748,46.080835&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.07859" lon="7.08225"><ele>619.25</ele></trkpt>
+   <trkpt lat="46.078569" lon="7.082974"><ele>619.75</ele></trkpt>
+   <trkpt lat="46.07857" lon="7.083263"><ele>620</ele></trkpt>
+   <trkpt lat="46.07859" lon="7.08353"><ele>619.5</ele></trkpt>
+   <trkpt lat="46.078609" lon="7.083665"><ele>619</ele></trkpt>
+   <trkpt lat="46.078636" lon="7.083824"><ele>618.5</ele></trkpt>
+   <trkpt lat="46.07867" lon="7.083975"><ele>617.75</ele></trkpt>
+   <trkpt lat="46.078709" lon="7.084113"><ele>617.25</ele></trkpt>
+   <trkpt lat="46.078748" lon="7.084216"><ele>617</ele></trkpt>
+   <trkpt lat="46.078904" lon="7.08454"><ele>617</ele></trkpt>
+   <trkpt lat="46.078989" lon="7.08469"><ele>616</ele></trkpt>
+   <trkpt lat="46.079149" lon="7.084905"><ele>612.75</ele></trkpt>
+   <trkpt lat="46.079276" lon="7.085041"><ele>613.25</ele></trkpt>
+   <trkpt lat="46.079455" lon="7.085205"><ele>614.25</ele></trkpt>
+   <trkpt lat="46.080076" lon="7.085656"><ele>613.25</ele></trkpt>
+   <trkpt lat="46.080318" lon="7.085894"><ele>612.5</ele></trkpt>
+   <trkpt lat="46.080425" lon="7.086029"><ele>612.75</ele></trkpt>
+   <trkpt lat="46.080503" lon="7.08614"><ele>613.25</ele></trkpt>
+   <trkpt lat="46.08066" lon="7.086403"><ele>614.5</ele></trkpt>
+   <trkpt lat="46.080834" lon="7.086745"><ele>616.25</ele></trkpt>
+   <trkpt lat="46.080835" lon="7.086746"><ele>623</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 1 plain-ascend = 1 cost=229 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>133 Martigny Weiche OOO2 - Martigny Weiche 25b/26a</name>
+  <link href="https://bikerouter.de/#map=19/46.10623/7.08090/standard&amp;lonlats=7.081405,46.106017;7.081834,46.106084;7.084165,46.106697&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.106013" lon="7.081404"><ele>466.25</ele></trkpt>
+   <trkpt lat="46.106014" lon="7.081406"><ele>466.25</ele></trkpt>
+   <trkpt lat="46.106079" lon="7.081834"><ele>465.25</ele></trkpt>
+   <trkpt lat="46.106146" lon="7.082276"><ele>465.25</ele></trkpt>
+   <trkpt lat="46.106201" lon="7.082569"><ele>465</ele></trkpt>
+   <trkpt lat="46.106272" lon="7.082874"><ele>464.75</ele></trkpt>
+   <trkpt lat="46.106361" lon="7.083203"><ele>464.75</ele></trkpt>
+   <trkpt lat="46.106447" lon="7.083476"><ele>465.25</ele></trkpt>
+   <trkpt lat="46.106695" lon="7.084166"><ele>466.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

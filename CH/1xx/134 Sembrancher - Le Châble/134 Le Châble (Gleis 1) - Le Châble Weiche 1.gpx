@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 286 filtered ascend = 1 plain-ascend = -2 cost=286 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>134 Le Châble (Gleis 1) - Le Châble Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.07930/7.21512/standard&amp;lonlats=7.215109,46.078954;7.213034,46.081053&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.078953" lon="7.215107"><ele>824.75</ele></trkpt>
+   <trkpt lat="46.080256" lon="7.214024"><ele>825.5</ele></trkpt>
+   <trkpt lat="46.080504" lon="7.213806"><ele>825.75</ele></trkpt>
+   <trkpt lat="46.080623" lon="7.213671"><ele>825.5</ele></trkpt>
+   <trkpt lat="46.080752" lon="7.2135"><ele>824.25</ele></trkpt>
+   <trkpt lat="46.080926" lon="7.213243"><ele>823.5</ele></trkpt>
+   <trkpt lat="46.081048" lon="7.21304"><ele>824.25</ele></trkpt>
+   <trkpt lat="46.081051" lon="7.213032"><ele>821.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 1 plain-ascend = 1 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>133 Martigny-Bourg Weiche NNN1 - Martigny-Bourg Weiche NNN2</name>
+  <link href="https://bikerouter.de/#map=19/46.09362/7.07048/standard&amp;lonlats=7.070719,46.093587;7.071108,46.093814&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.093587" lon="7.070717"><ele>486.75</ele></trkpt>
+   <trkpt lat="46.093812" lon="7.071105"><ele>487.75</ele></trkpt>
+   <trkpt lat="46.093813" lon="7.071107"><ele>487.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

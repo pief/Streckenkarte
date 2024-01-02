@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 522 filtered ascend = 0 plain-ascend = -12 cost=522 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>133 Martigny-Bourg Weiche NNN2 - Martigny-Expo</name>
+  <link href="https://bikerouter.de/#map=19/46.09753/7.07607/standard&amp;lonlats=7.071108,46.093814;7.075578,46.097294&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.093813" lon="7.071107"><ele>487.5</ele></trkpt>
+   <trkpt lat="46.093852" lon="7.071172"><ele>487.5</ele></trkpt>
+   <trkpt lat="46.094045" lon="7.071471"><ele>485</ele></trkpt>
+   <trkpt lat="46.094242" lon="7.071725"><ele>481.5</ele></trkpt>
+   <trkpt lat="46.094349" lon="7.071844"><ele>481</ele></trkpt>
+   <trkpt lat="46.094485" lon="7.071984"><ele>480.5</ele></trkpt>
+   <trkpt lat="46.095203" lon="7.072675"><ele>477.25</ele></trkpt>
+   <trkpt lat="46.095247" lon="7.072718"><ele>477.5</ele></trkpt>
+   <trkpt lat="46.095543" lon="7.073013"><ele>478.25</ele></trkpt>
+   <trkpt lat="46.095711" lon="7.073208"><ele>478.5</ele></trkpt>
+   <trkpt lat="46.095818" lon="7.07335"><ele>478.75</ele></trkpt>
+   <trkpt lat="46.096448" lon="7.074292"><ele>476.25</ele></trkpt>
+   <trkpt lat="46.097295" lon="7.075575"><ele>474.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

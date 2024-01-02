@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 0 plain-ascend = 0 cost=145 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>133 Martigny (Gleis 50) - Martigny Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/46.10583/7.07943/standard&amp;lonlats=7.079559,46.105832;7.081405,46.106017&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.105834" lon="7.079559"><ele>467.75</ele></trkpt>
+   <trkpt lat="46.105877" lon="7.080125"><ele>467.75</ele></trkpt>
+   <trkpt lat="46.105932" lon="7.080835"><ele>466.75</ele></trkpt>
+   <trkpt lat="46.106014" lon="7.081406"><ele>466.25</ele></trkpt>
+   <trkpt lat="46.106013" lon="7.081404"><ele>466.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

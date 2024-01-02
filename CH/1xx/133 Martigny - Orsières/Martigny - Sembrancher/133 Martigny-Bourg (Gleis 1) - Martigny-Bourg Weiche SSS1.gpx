@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 10 plain-ascend = 11 cost=125 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>133 Martigny-Bourg (Gleis 1) - Martigny-Bourg Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/46.09310/7.07039/standard&amp;lonlats=7.069565,46.092915;7.068329,46.092203&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.092917" lon="7.06956"><ele>491.5</ele></trkpt>
+   <trkpt lat="46.092204" lon="7.068331"><ele>501.5</ele></trkpt>
+   <trkpt lat="46.092202" lon="7.068328"><ele>502.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
