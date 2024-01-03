@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 3 plain-ascend = 4 cost=54 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>127 Fontannaz-Seulaz Weiche 2 - Fontannaz-Seulaz Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.26791/7.05635/standard&amp;lonlats=7.056267,46.267769;7.056833,46.268019&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.267766" lon="7.056269"><ele>834.25</ele></trkpt>
+   <trkpt lat="46.267768" lon="7.056273"><ele>834.5</ele></trkpt>
+   <trkpt lat="46.267912" lon="7.056528"><ele>837</ele></trkpt>
+   <trkpt lat="46.267958" lon="7.056622"><ele>837.25</ele></trkpt>
+   <trkpt lat="46.267994" lon="7.056721"><ele>837.75</ele></trkpt>
+   <trkpt lat="46.268018" lon="7.056832"><ele>838</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

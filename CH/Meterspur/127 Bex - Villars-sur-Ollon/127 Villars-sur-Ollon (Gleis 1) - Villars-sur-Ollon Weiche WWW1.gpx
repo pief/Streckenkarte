@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = -2 cost=35 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>127 Villars-sur-Ollon (Gleis 1) - Villars-sur-Ollon Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/46.29543/7.05613/standard&amp;lonlats=7.056336,46.295901;7.056195,46.295624&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.295899" lon="7.056339"><ele>1259.75</ele></trkpt>
+   <trkpt lat="46.295825" lon="7.056337"><ele>1259</ele></trkpt>
+   <trkpt lat="46.295752" lon="7.056323"><ele>1259</ele></trkpt>
+   <trkpt lat="46.295697" lon="7.056289"><ele>1258.75</ele></trkpt>
+   <trkpt lat="46.29566" lon="7.056251"><ele>1258.5</ele></trkpt>
+   <trkpt lat="46.295626" lon="7.056199"><ele>1258.25</ele></trkpt>
+   <trkpt lat="46.295623" lon="7.056194"><ele>1257.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

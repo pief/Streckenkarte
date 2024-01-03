@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 2 plain-ascend = 3 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>127 Arveyes (Gleis 1) - Arveyes Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/46.29128/7.06367/standard&amp;lonlats=7.062808,46.291282;7.062307,46.291315&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.291275" lon="7.062805"><ele>1249</ele></trkpt>
+   <trkpt lat="46.291299" lon="7.062644"><ele>1249.75</ele></trkpt>
+   <trkpt lat="46.291309" lon="7.06252"><ele>1250</ele></trkpt>
+   <trkpt lat="46.291314" lon="7.06231"><ele>1250.75</ele></trkpt>
+   <trkpt lat="46.291314" lon="7.062306"><ele>1251.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

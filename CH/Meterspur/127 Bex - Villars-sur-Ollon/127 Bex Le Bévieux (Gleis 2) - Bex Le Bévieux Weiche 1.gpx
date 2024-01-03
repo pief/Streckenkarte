@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = -2 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>127 Bex Le Bévieux (Gleis 2) - Bex Le Bévieux Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.25899/7.03131/standard&amp;lonlats=7.030988,46.259243;7.030909,46.258779&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.259242" lon="7.030984"><ele>485.5</ele></trkpt>
+   <trkpt lat="46.259191" lon="7.030986"><ele>485.75</ele></trkpt>
+   <trkpt lat="46.259005" lon="7.030967"><ele>485.25</ele></trkpt>
+   <trkpt lat="46.25878" lon="7.030912"><ele>484.25</ele></trkpt>
+   <trkpt lat="46.258777" lon="7.030911"><ele>483</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

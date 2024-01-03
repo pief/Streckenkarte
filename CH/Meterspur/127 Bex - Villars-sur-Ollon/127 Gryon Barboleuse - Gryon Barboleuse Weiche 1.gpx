@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 1 plain-ascend = -2 cost=63 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>127 Gryon Barboleuse - Gryon Barboleuse Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.28267/7.07023/standard&amp;lonlats=7.070482,46.282891;7.070512,46.282343&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.28289" lon="7.07048"><ele>1213.25</ele></trkpt>
+   <trkpt lat="46.282786" lon="7.070517"><ele>1213.75</ele></trkpt>
+   <trkpt lat="46.282586" lon="7.07057"><ele>1214.25</ele></trkpt>
+   <trkpt lat="46.282501" lon="7.070566"><ele>1214.5</ele></trkpt>
+   <trkpt lat="46.282432" lon="7.070545"><ele>1213.75</ele></trkpt>
+   <trkpt lat="46.282345" lon="7.070517"><ele>1213</ele></trkpt>
+   <trkpt lat="46.282341" lon="7.070516"><ele>1210.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

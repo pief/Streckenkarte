@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 14 filtered ascend = 0 plain-ascend = 0 cost=15 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>127 Bex Gare Weiche OOO2 - Bex Gare Weiche OOO3</name>
+  <link href="https://bikerouter.de/#map=19/46.25145/7.00096/standard&amp;lonlats=7.001474,46.251664;7.001322,46.251614&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.251664" lon="7.001473"><ele>414.75</ele></trkpt>
+   <trkpt lat="46.251619" lon="7.001323"><ele>414.25</ele></trkpt>
+   <trkpt lat="46.251617" lon="7.001318"><ele>414</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
