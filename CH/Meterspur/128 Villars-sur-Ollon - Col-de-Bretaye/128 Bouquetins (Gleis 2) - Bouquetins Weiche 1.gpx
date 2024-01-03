@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 0 plain-ascend = -6 cost=82 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>128 Bouquetins (Gleis 2) - Bouquetins Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.31591/7.07341/standard&amp;lonlats=7.072301,46.316556;7.072744,46.315889&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.316556" lon="7.072303"><ele>1754</ele></trkpt>
+   <trkpt lat="46.316417" lon="7.072375"><ele>1752.75</ele></trkpt>
+   <trkpt lat="46.316246" lon="7.072477"><ele>1752</ele></trkpt>
+   <trkpt lat="46.315892" lon="7.072742"><ele>1747</ele></trkpt>
+   <trkpt lat="46.315889" lon="7.072744"><ele>1747</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 500 filtered ascend = 46 plain-ascend = 46 cost=500 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>128 Villars-sur-Ollon Weiche 9 - Roches Grises (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/46.29515/7.05670/standard&amp;lonlats=7.056704,46.295102;7.061791,46.294002&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.295102" lon="7.056706"><ele>1262.75</ele></trkpt>
+   <trkpt lat="46.295099" lon="7.056707"><ele>1263</ele></trkpt>
+   <trkpt lat="46.294637" lon="7.056768"><ele>1264.75</ele></trkpt>
+   <trkpt lat="46.294545" lon="7.056786"><ele>1265.25</ele></trkpt>
+   <trkpt lat="46.294451" lon="7.05682"><ele>1266</ele></trkpt>
+   <trkpt lat="46.294339" lon="7.056891"><ele>1267.5</ele></trkpt>
+   <trkpt lat="46.294249" lon="7.056974"><ele>1269.25</ele></trkpt>
+   <trkpt lat="46.294161" lon="7.057088"><ele>1271.5</ele></trkpt>
+   <trkpt lat="46.294119" lon="7.057163"><ele>1272.5</ele></trkpt>
+   <trkpt lat="46.294054" lon="7.057329"><ele>1275</ele></trkpt>
+   <trkpt lat="46.294011" lon="7.057496"><ele>1277.5</ele></trkpt>
+   <trkpt lat="46.293616" lon="7.059259"><ele>1298.25</ele></trkpt>
+   <trkpt lat="46.29359" lon="7.059421"><ele>1299.5</ele></trkpt>
+   <trkpt lat="46.293569" lon="7.059597"><ele>1301</ele></trkpt>
+   <trkpt lat="46.293555" lon="7.059789"><ele>1302.5</ele></trkpt>
+   <trkpt lat="46.293551" lon="7.059966"><ele>1303.75</ele></trkpt>
+   <trkpt lat="46.293558" lon="7.060211"><ele>1304</ele></trkpt>
+   <trkpt lat="46.293571" lon="7.060367"><ele>1304</ele></trkpt>
+   <trkpt lat="46.2936" lon="7.060595"><ele>1304</ele></trkpt>
+   <trkpt lat="46.293662" lon="7.060895"><ele>1304.25</ele></trkpt>
+   <trkpt lat="46.293721" lon="7.061112"><ele>1305.25</ele></trkpt>
+   <trkpt lat="46.293795" lon="7.06132"><ele>1306</ele></trkpt>
+   <trkpt lat="46.293994" lon="7.061796"><ele>1308.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

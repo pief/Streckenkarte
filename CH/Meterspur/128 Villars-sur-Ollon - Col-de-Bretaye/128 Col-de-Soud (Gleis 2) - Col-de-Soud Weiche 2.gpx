@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 116 filtered ascend = 16 plain-ascend = 17 cost=117 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>128 Col-de-Soud (Gleis 2) - Col-de-Soud Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/46.30513/7.06987/standard&amp;lonlats=7.069571,46.304869;7.07085,46.30535&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.304869" lon="7.069569"><ele>1529.5</ele></trkpt>
+   <trkpt lat="46.304912" lon="7.069944"><ele>1530.5</ele></trkpt>
+   <trkpt lat="46.304956" lon="7.070207"><ele>1531.5</ele></trkpt>
+   <trkpt lat="46.305004" lon="7.070376"><ele>1532.5</ele></trkpt>
+   <trkpt lat="46.305045" lon="7.070469"><ele>1534.25</ele></trkpt>
+   <trkpt lat="46.305132" lon="7.070609"><ele>1537.75</ele></trkpt>
+   <trkpt lat="46.305182" lon="7.070672"><ele>1539.75</ele></trkpt>
+   <trkpt lat="46.30535" lon="7.07085"><ele>1546</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
