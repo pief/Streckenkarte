@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 2 plain-ascend = 2 cost=77 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>123 Exergillod (Gleis 1) - Exergillod Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/46.33757/7.03927/standard&amp;lonlats=7.038327,46.336967;7.039044,46.337408&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.336966" lon="7.038326"><ele>863.25</ele></trkpt>
+   <trkpt lat="46.337089" lon="7.038468"><ele>863.5</ele></trkpt>
+   <trkpt lat="46.337201" lon="7.038598"><ele>863.25</ele></trkpt>
+   <trkpt lat="46.337268" lon="7.038696"><ele>863.25</ele></trkpt>
+   <trkpt lat="46.337336" lon="7.038835"><ele>863.75</ele></trkpt>
+   <trkpt lat="46.337409" lon="7.039042"><ele>865.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

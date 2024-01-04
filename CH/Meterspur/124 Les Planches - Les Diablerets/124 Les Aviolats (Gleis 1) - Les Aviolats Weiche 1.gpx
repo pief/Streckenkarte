@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 1 plain-ascend = 2 cost=70 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>124 Les Aviolats (Gleis 1) - Les Aviolats Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.35295/7.11303/standard&amp;lonlats=7.1133,46.353026;7.112419,46.352897&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.353024" lon="7.113299"><ele>1104.5</ele></trkpt>
+   <trkpt lat="46.352942" lon="7.112902"><ele>1105.25</ele></trkpt>
+   <trkpt lat="46.352916" lon="7.112578"><ele>1104.25</ele></trkpt>
+   <trkpt lat="46.352896" lon="7.112428"><ele>1104.5</ele></trkpt>
+   <trkpt lat="46.352894" lon="7.112418"><ele>1106</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

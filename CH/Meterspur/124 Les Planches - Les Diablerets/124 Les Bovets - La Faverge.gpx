@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 441 filtered ascend = 0 plain-ascend = -11 cost=441 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>124 Les Bovets - La Faverge</name>
+  <link href="https://bikerouter.de/#map=17/46.35484/7.14371/standard&amp;lonlats=7.141587,46.355491;7.147173,46.354923&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.355491" lon="7.141587"><ele>1161.25</ele></trkpt>
+   <trkpt lat="46.355434" lon="7.141835"><ele>1161.75</ele></trkpt>
+   <trkpt lat="46.355379" lon="7.142102"><ele>1160.25</ele></trkpt>
+   <trkpt lat="46.355346" lon="7.142376"><ele>1158.5</ele></trkpt>
+   <trkpt lat="46.355342" lon="7.142643"><ele>1157.5</ele></trkpt>
+   <trkpt lat="46.355394" lon="7.14499"><ele>1154.5</ele></trkpt>
+   <trkpt lat="46.355392" lon="7.145187"><ele>1154.25</ele></trkpt>
+   <trkpt lat="46.35538" lon="7.145346"><ele>1154</ele></trkpt>
+   <trkpt lat="46.355355" lon="7.1455"><ele>1153.5</ele></trkpt>
+   <trkpt lat="46.355325" lon="7.14564"><ele>1153</ele></trkpt>
+   <trkpt lat="46.355094" lon="7.146635"><ele>1151.75</ele></trkpt>
+   <trkpt lat="46.355009" lon="7.146941"><ele>1150.5</ele></trkpt>
+   <trkpt lat="46.354936" lon="7.147144"><ele>1150</ele></trkpt>
+   <trkpt lat="46.354923" lon="7.147173"><ele>1149.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

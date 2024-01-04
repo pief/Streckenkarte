@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = -4 cost=80 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>123 Le Sépey Weiche 2 - Le Sépey Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.36091/7.05293/standard&amp;lonlats=7.053603,46.360929;7.052662,46.361203&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.360929" lon="7.053603"><ele>982.25</ele></trkpt>
+   <trkpt lat="46.360931" lon="7.053601"><ele>982.25</ele></trkpt>
+   <trkpt lat="46.360979" lon="7.053474"><ele>981.75</ele></trkpt>
+   <trkpt lat="46.3612" lon="7.052667"><ele>978.5</ele></trkpt>
+   <trkpt lat="46.361201" lon="7.052661"><ele>977.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
