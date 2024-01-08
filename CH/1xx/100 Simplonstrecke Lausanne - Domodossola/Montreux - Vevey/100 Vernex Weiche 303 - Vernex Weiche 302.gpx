@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12 filtered ascend = 0 plain-ascend = 1 cost=12 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Vernex Weiche 303 - Vernex Weiche 302</name>
+  <link href="https://bikerouter.de/#map=19/46.44003/6.90532/standard&amp;lonlats=6.905222,46.440223;6.905103,46.440277&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.440223" lon="6.905222"><ele>403.5</ele></trkpt>
+   <trkpt lat="46.440225" lon="6.90522"><ele>403.75</ele></trkpt>
+   <trkpt lat="46.440275" lon="6.905101"><ele>404.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

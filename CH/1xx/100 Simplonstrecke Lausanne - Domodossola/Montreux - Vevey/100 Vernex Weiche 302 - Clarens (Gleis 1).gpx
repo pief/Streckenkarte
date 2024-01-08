@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 799 filtered ascend = 0 plain-ascend = -2 cost=799 energy=0.0kwh time=1m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Vernex Weiche 302 - Clarens (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/46.44252/6.89607/standard&amp;lonlats=6.905103,46.440277;6.895527,46.442873&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.440275" lon="6.905101"><ele>404</ele></trkpt>
+   <trkpt lat="46.440276" lon="6.905101"><ele>404.25</ele></trkpt>
+   <trkpt lat="46.44112" lon="6.903127"><ele>401.75</ele></trkpt>
+   <trkpt lat="46.441344" lon="6.902572"><ele>401.5</ele></trkpt>
+   <trkpt lat="46.441496" lon="6.902159"><ele>400.75</ele></trkpt>
+   <trkpt lat="46.441683" lon="6.901596"><ele>397.75</ele></trkpt>
+   <trkpt lat="46.441851" lon="6.901026"><ele>397.25</ele></trkpt>
+   <trkpt lat="46.442033" lon="6.900296"><ele>396.75</ele></trkpt>
+   <trkpt lat="46.442163" lon="6.899674"><ele>397.25</ele></trkpt>
+   <trkpt lat="46.442179" lon="6.899588"><ele>397.25</ele></trkpt>
+   <trkpt lat="46.442276" lon="6.899049"><ele>398.75</ele></trkpt>
+   <trkpt lat="46.442706" lon="6.896529"><ele>401</ele></trkpt>
+   <trkpt lat="46.442755" lon="6.896244"><ele>401.5</ele></trkpt>
+   <trkpt lat="46.442878" lon="6.895528"><ele>401.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

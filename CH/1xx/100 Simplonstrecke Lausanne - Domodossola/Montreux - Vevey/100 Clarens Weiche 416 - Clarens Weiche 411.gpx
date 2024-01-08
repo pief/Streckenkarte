@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 246 filtered ascend = 1 plain-ascend = -3 cost=246 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Clarens Weiche 416 - Clarens Weiche 411</name>
+  <link href="https://bikerouter.de/#map=19/46.44412/6.88714/standard&amp;lonlats=6.890241,46.443661;6.888127,46.443932;6.887138,46.444143&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.44366" lon="6.89024"><ele>406.75</ele></trkpt>
+   <trkpt lat="46.44366" lon="6.890244"><ele>406.75</ele></trkpt>
+   <trkpt lat="46.443896" lon="6.888371"><ele>404.25</ele></trkpt>
+   <trkpt lat="46.443934" lon="6.888127"><ele>404.25</ele></trkpt>
+   <trkpt lat="46.443954" lon="6.888005"><ele>404.25</ele></trkpt>
+   <trkpt lat="46.444008" lon="6.887724"><ele>404.75</ele></trkpt>
+   <trkpt lat="46.444062" lon="6.887469"><ele>405.25</ele></trkpt>
+   <trkpt lat="46.444144" lon="6.88714"><ele>404</ele></trkpt>
+   <trkpt lat="46.444144" lon="6.887138"><ele>402.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
