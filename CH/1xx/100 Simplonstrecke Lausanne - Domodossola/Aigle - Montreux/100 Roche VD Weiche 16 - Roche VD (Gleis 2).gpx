@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 290 filtered ascend = 1 plain-ascend = 1 cost=290 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Roche VD Weiche 16 - Roche VD (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/46.35864/6.92682/standard&amp;lonlats=6.92858,46.356329;6.926938,46.358675&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.356329" lon="6.928582"><ele>378</ele></trkpt>
+   <trkpt lat="46.356332" lon="6.928581"><ele>378</ele></trkpt>
+   <trkpt lat="46.358665" lon="6.926951"><ele>379.75</ele></trkpt>
+   <trkpt lat="46.358676" lon="6.926943"><ele>378.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

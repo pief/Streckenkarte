@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 93 filtered ascend = 0 plain-ascend = -1 cost=93 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Aigle Weiche 3 - Aigle Weiche 2</name>
+  <link href="https://bikerouter.de/#map=18/46.32005/6.96084/standard&amp;lonlats=6.96194,46.319513;6.961368,46.320247&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.319513" lon="6.96194"><ele>405.5</ele></trkpt>
+   <trkpt lat="46.319913" lon="6.961638"><ele>404.25</ele></trkpt>
+   <trkpt lat="46.320246" lon="6.961365"><ele>403.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

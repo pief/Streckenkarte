@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 749 filtered ascend = 8 plain-ascend = 3 cost=749 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Villeneuve (Gleis 1) - Villeneuve Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.40480/6.92882/standard&amp;lonlats=6.927062,46.398381;6.929109,46.404849&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.398381" lon="6.927062"><ele>376</ele></trkpt>
+   <trkpt lat="46.398438" lon="6.927062"><ele>376</ele></trkpt>
+   <trkpt lat="46.400359" lon="6.927061"><ele>380.5</ele></trkpt>
+   <trkpt lat="46.400813" lon="6.927081"><ele>380.75</ele></trkpt>
+   <trkpt lat="46.401191" lon="6.927132"><ele>382.5</ele></trkpt>
+   <trkpt lat="46.401425" lon="6.927179"><ele>383.5</ele></trkpt>
+   <trkpt lat="46.401705" lon="6.927249"><ele>384.5</ele></trkpt>
+   <trkpt lat="46.401879" lon="6.927301"><ele>384.25</ele></trkpt>
+   <trkpt lat="46.402073" lon="6.927368"><ele>384</ele></trkpt>
+   <trkpt lat="46.402405" lon="6.927506"><ele>383.25</ele></trkpt>
+   <trkpt lat="46.402674" lon="6.927628"><ele>382.5</ele></trkpt>
+   <trkpt lat="46.402943" lon="6.927766"><ele>381.25</ele></trkpt>
+   <trkpt lat="46.403191" lon="6.927915"><ele>379.75</ele></trkpt>
+   <trkpt lat="46.403451" lon="6.928085"><ele>378.75</ele></trkpt>
+   <trkpt lat="46.403702" lon="6.928263"><ele>378.5</ele></trkpt>
+   <trkpt lat="46.404843" lon="6.929107"><ele>379.75</ele></trkpt>
+   <trkpt lat="46.404847" lon="6.92911"><ele>379</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

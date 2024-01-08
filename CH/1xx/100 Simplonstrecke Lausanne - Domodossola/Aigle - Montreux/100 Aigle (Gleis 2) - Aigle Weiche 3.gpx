@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 321 filtered ascend = 2 plain-ascend = 0 cost=321 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Aigle (Gleis 2) - Aigle Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.31924/6.96198/standard&amp;lonlats=6.963503,46.316844;6.961939,46.319513&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.316844" lon="6.963505"><ele>404</ele></trkpt>
+   <trkpt lat="46.317969" lon="6.962921"><ele>404</ele></trkpt>
+   <trkpt lat="46.318382" lon="6.962685"><ele>405</ele></trkpt>
+   <trkpt lat="46.318514" lon="6.962606"><ele>405.25</ele></trkpt>
+   <trkpt lat="46.319059" lon="6.962259"><ele>406.75</ele></trkpt>
+   <trkpt lat="46.319344" lon="6.962066"><ele>406.25</ele></trkpt>
+   <trkpt lat="46.319512" lon="6.961942"><ele>405.75</ele></trkpt>
+   <trkpt lat="46.319513" lon="6.96194"><ele>404.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

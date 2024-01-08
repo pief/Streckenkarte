@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 439 filtered ascend = 2 plain-ascend = 2 cost=439 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Saint-Triphon (Gleis 2) - Saint-Triphon Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/46.28255/6.97026/standard&amp;lonlats=6.97174,46.278743;6.970573,46.282596&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.278743" lon="6.97174"><ele>390</ele></trkpt>
+   <trkpt lat="46.279304" lon="6.971511"><ele>388.75</ele></trkpt>
+   <trkpt lat="46.279799" lon="6.971326"><ele>388.75</ele></trkpt>
+   <trkpt lat="46.280156" lon="6.971203"><ele>389</ele></trkpt>
+   <trkpt lat="46.280897" lon="6.970972"><ele>389.5</ele></trkpt>
+   <trkpt lat="46.281265" lon="6.970872"><ele>389.5</ele></trkpt>
+   <trkpt lat="46.282013" lon="6.970691"><ele>390</ele></trkpt>
+   <trkpt lat="46.282596" lon="6.970576"><ele>390.75</ele></trkpt>
+   <trkpt lat="46.282596" lon="6.970575"><ele>392</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
