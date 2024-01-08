@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 0 plain-ascend = 0 cost=17 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Saint-Maurice Weiche 64 - Saint-Maurice Weiche 63</name>
+  <link href="https://bikerouter.de/#map=19/46.21090/7.00336/standard&amp;lonlats=7.004188,46.210545;7.004082,46.210679&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.210545" lon="7.004188"><ele>425.25</ele></trkpt>
+   <trkpt lat="46.210679" lon="7.004083"><ele>425.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

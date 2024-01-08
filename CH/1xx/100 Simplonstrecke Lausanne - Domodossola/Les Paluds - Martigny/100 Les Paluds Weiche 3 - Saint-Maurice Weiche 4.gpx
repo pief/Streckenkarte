@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 700 filtered ascend = 26 plain-ascend = 26 cost=700 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Les Paluds Weiche 3 - Saint-Maurice Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/46.22633/7.00205/standard&amp;lonlats=7.001443,46.226275;7.002759,46.220121&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.226275" lon="7.001444"><ele>416.5</ele></trkpt>
+   <trkpt lat="46.22572" lon="7.001565"><ele>420.25</ele></trkpt>
+   <trkpt lat="46.22541" lon="7.001656"><ele>424</ele></trkpt>
+   <trkpt lat="46.225197" lon="7.001733"><ele>426.5</ele></trkpt>
+   <trkpt lat="46.22502" lon="7.001807"><ele>427.75</ele></trkpt>
+   <trkpt lat="46.224611" lon="7.001999"><ele>432</ele></trkpt>
+   <trkpt lat="46.22385" lon="7.002371"><ele>439</ele></trkpt>
+   <trkpt lat="46.223593" lon="7.002486"><ele>442.5</ele></trkpt>
+   <trkpt lat="46.223313" lon="7.002609"/>
+   <trkpt lat="46.222956" lon="7.002731"/>
+   <trkpt lat="46.222659" lon="7.002812"/>
+   <trkpt lat="46.222366" lon="7.00288"/>
+   <trkpt lat="46.22172" lon="7.002945"/>
+   <trkpt lat="46.22119" lon="7.002932"/>
+   <trkpt lat="46.220859" lon="7.002903"/>
+   <trkpt lat="46.220528" lon="7.002852"/>
+   <trkpt lat="46.22012" lon="7.002758"/>
+  </trkseg>
+ </trk>
+</gpx>

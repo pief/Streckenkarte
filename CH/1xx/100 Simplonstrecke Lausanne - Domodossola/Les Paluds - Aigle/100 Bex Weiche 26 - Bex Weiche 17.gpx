@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Bex Weiche 26 - Bex Weiche 17</name>
+  <link href="https://bikerouter.de/#map=19/46.24941/7.00074/standard&amp;lonlats=7.001672,46.248917;7.001652,46.248972&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.248917" lon="7.001672"><ele>410.5</ele></trkpt>
+   <trkpt lat="46.248972" lon="7.001653"><ele>410.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

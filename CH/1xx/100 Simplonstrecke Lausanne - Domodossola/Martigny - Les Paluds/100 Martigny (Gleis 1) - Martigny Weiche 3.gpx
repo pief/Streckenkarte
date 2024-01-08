@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 354 filtered ascend = 1 plain-ascend = 1 cost=354 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Martigny (Gleis 1) - Martigny Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.10645/7.07546/standard&amp;lonlats=7.079146,46.10596;7.074643,46.106467&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.105967" lon="7.079146"><ele>467.5</ele></trkpt>
+   <trkpt lat="46.105972" lon="7.078933"><ele>467.5</ele></trkpt>
+   <trkpt lat="46.106006" lon="7.078319"><ele>466.75</ele></trkpt>
+   <trkpt lat="46.106059" lon="7.077738"><ele>466.25</ele></trkpt>
+   <trkpt lat="46.1061" lon="7.077392"><ele>466</ele></trkpt>
+   <trkpt lat="46.106293" lon="7.075935"><ele>465.25</ele></trkpt>
+   <trkpt lat="46.106327" lon="7.075672"><ele>465.5</ele></trkpt>
+   <trkpt lat="46.106465" lon="7.074647"><ele>468.25</ele></trkpt>
+   <trkpt lat="46.106465" lon="7.074642"><ele>468.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
