@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 302 filtered ascend = 1 plain-ascend = 0 cost=302 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Lausanne (Gleis 7) - Lausanne Weiche 549</name>
+  <link href="https://bikerouter.de/#map=19/46.51599/6.63130/standard&amp;lonlats=6.629039,46.51648;6.632644,46.515498&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.516478" lon="6.629038"><ele>449.25</ele></trkpt>
+   <trkpt lat="46.516468" lon="6.629108"><ele>449.5</ele></trkpt>
+   <trkpt lat="46.516248" lon="6.630604"><ele>448.5</ele></trkpt>
+   <trkpt lat="46.516186" lon="6.630972"><ele>448.75</ele></trkpt>
+   <trkpt lat="46.51615" lon="6.631127"><ele>449</ele></trkpt>
+   <trkpt lat="46.51609" lon="6.631335"><ele>449.25</ele></trkpt>
+   <trkpt lat="46.516015" lon="6.631555"><ele>449.5</ele></trkpt>
+   <trkpt lat="46.515912" lon="6.631816"><ele>450</ele></trkpt>
+   <trkpt lat="46.51581" lon="6.632048"><ele>450.5</ele></trkpt>
+   <trkpt lat="46.515683" lon="6.632307"><ele>450.5</ele></trkpt>
+   <trkpt lat="46.515498" lon="6.632642"><ele>449.5</ele></trkpt>
+   <trkpt lat="46.515497" lon="6.632643"><ele>448.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

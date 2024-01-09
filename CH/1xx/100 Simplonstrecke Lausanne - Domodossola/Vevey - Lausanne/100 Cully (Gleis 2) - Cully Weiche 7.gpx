@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 0 plain-ascend = -1 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Cully (Gleis 2) - Cully Weiche 7</name>
+  <link href="https://bikerouter.de/#map=19/46.48799/6.72477/standard&amp;lonlats=6.727216,46.488484;6.724759,46.48778&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.488484" lon="6.727214"><ele>389.75</ele></trkpt>
+   <trkpt lat="46.488434" lon="6.727081"><ele>389.75</ele></trkpt>
+   <trkpt lat="46.488224" lon="6.726491"><ele>389.25</ele></trkpt>
+   <trkpt lat="46.48813" lon="6.726198"><ele>388.5</ele></trkpt>
+   <trkpt lat="46.488036" lon="6.725876"><ele>388</ele></trkpt>
+   <trkpt lat="46.487944" lon="6.725528"><ele>387.75</ele></trkpt>
+   <trkpt lat="46.487865" lon="6.725197"><ele>387.5</ele></trkpt>
+   <trkpt lat="46.487777" lon="6.724759"><ele>387.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

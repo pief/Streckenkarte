@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 461 filtered ascend = 4 plain-ascend = 5 cost=461 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Rivaz (Gleis 2) - Rivaz Weiche 203</name>
+  <link href="https://bikerouter.de/#map=19/46.47437/6.77971/standard&amp;lonlats=6.78461,46.474113;6.778712,46.474308&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.474114" lon="6.784608"><ele>379</ele></trkpt>
+   <trkpt lat="46.474108" lon="6.784568"><ele>379</ele></trkpt>
+   <trkpt lat="46.474002" lon="6.783841"><ele>380.25</ele></trkpt>
+   <trkpt lat="46.473957" lon="6.78347"><ele>381.75</ele></trkpt>
+   <trkpt lat="46.473919" lon="6.783087"><ele>382.5</ele></trkpt>
+   <trkpt lat="46.473898" lon="6.782761"><ele>383</ele></trkpt>
+   <trkpt lat="46.473882" lon="6.78222"><ele>383.5</ele></trkpt>
+   <trkpt lat="46.473885" lon="6.781844"><ele>383.75</ele></trkpt>
+   <trkpt lat="46.473898" lon="6.781481"><ele>383</ele></trkpt>
+   <trkpt lat="46.473924" lon="6.781104"><ele>381.75</ele></trkpt>
+   <trkpt lat="46.473952" lon="6.780806"><ele>381</ele></trkpt>
+   <trkpt lat="46.473986" lon="6.780522"><ele>380.25</ele></trkpt>
+   <trkpt lat="46.474064" lon="6.78001"><ele>378.75</ele></trkpt>
+   <trkpt lat="46.474305" lon="6.778718"><ele>383.5</ele></trkpt>
+   <trkpt lat="46.474306" lon="6.778711"><ele>383.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 2 plain-ascend = -2 cost=343 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Cully Weiche 4 - Cully Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/46.48923/6.71846/standard&amp;lonlats=6.7225,46.487649;6.718558,46.488966&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.487649" lon="6.7225"><ele>391.25</ele></trkpt>
+   <trkpt lat="46.487666" lon="6.722276"><ele>391.75</ele></trkpt>
+   <trkpt lat="46.487708" lon="6.721924"><ele>392.75</ele></trkpt>
+   <trkpt lat="46.48773" lon="6.721763"><ele>393.5</ele></trkpt>
+   <trkpt lat="46.487801" lon="6.721383"><ele>393</ele></trkpt>
+   <trkpt lat="46.487837" lon="6.721212"><ele>392.75</ele></trkpt>
+   <trkpt lat="46.487919" lon="6.720881"><ele>392.75</ele></trkpt>
+   <trkpt lat="46.488059" lon="6.720412"><ele>390.25</ele></trkpt>
+   <trkpt lat="46.488195" lon="6.720034"><ele>388.75</ele></trkpt>
+   <trkpt lat="46.488276" lon="6.719837"><ele>388.25</ele></trkpt>
+   <trkpt lat="46.488471" lon="6.719415"><ele>388</ele></trkpt>
+   <trkpt lat="46.488613" lon="6.719149"><ele>388.5</ele></trkpt>
+   <trkpt lat="46.488724" lon="6.718956"><ele>389</ele></trkpt>
+   <trkpt lat="46.488964" lon="6.718557"><ele>388.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

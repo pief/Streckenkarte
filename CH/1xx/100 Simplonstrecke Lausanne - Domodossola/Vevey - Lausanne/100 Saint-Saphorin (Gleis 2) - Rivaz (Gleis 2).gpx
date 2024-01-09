@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1000 filtered ascend = 9 plain-ascend = 2 cost=1000 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>100 Saint-Saphorin (Gleis 2) - Rivaz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/46.47422/6.78449/standard&amp;lonlats=6.797,46.47246;6.78461,46.474113&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.472454" lon="6.796997"><ele>377.5</ele></trkpt>
+   <trkpt lat="46.472458" lon="6.796976"><ele>377.75</ele></trkpt>
+   <trkpt lat="46.472577" lon="6.796357"><ele>382.25</ele></trkpt>
+   <trkpt lat="46.47265" lon="6.796029"><ele>385.25</ele></trkpt>
+   <trkpt lat="46.472709" lon="6.795796"><ele>386.5</ele></trkpt>
+   <trkpt lat="46.472811" lon="6.795449"><ele>384.5</ele></trkpt>
+   <trkpt lat="46.472953" lon="6.795035"><ele>382.75</ele></trkpt>
+   <trkpt lat="46.473448" lon="6.793724"><ele>385</ele></trkpt>
+   <trkpt lat="46.473585" lon="6.793303"><ele>387</ele></trkpt>
+   <trkpt lat="46.473683" lon="6.792946"><ele>387</ele></trkpt>
+   <trkpt lat="46.473784" lon="6.792508"><ele>385.5</ele></trkpt>
+   <trkpt lat="46.474343" lon="6.789833"><ele>379.25</ele></trkpt>
+   <trkpt lat="46.474404" lon="6.789494"><ele>380</ele></trkpt>
+   <trkpt lat="46.474452" lon="6.789161"><ele>380</ele></trkpt>
+   <trkpt lat="46.47449" lon="6.788821"><ele>380.5</ele></trkpt>
+   <trkpt lat="46.474516" lon="6.788432"><ele>380.75</ele></trkpt>
+   <trkpt lat="46.474526" lon="6.788026"><ele>381.25</ele></trkpt>
+   <trkpt lat="46.474518" lon="6.787623"><ele>381.5</ele></trkpt>
+   <trkpt lat="46.474488" lon="6.787159"><ele>382.75</ele></trkpt>
+   <trkpt lat="46.474436" lon="6.786715"><ele>383.75</ele></trkpt>
+   <trkpt lat="46.474294" lon="6.7858"><ele>384.5</ele></trkpt>
+   <trkpt lat="46.474114" lon="6.784608"><ele>379</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
