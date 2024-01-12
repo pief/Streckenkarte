@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=52 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Weiche 11a/12b - Weiche 12a/13b</name>
+  <link href="https://bikerouter.de/#map=19/46.05660/13.24469/standard&amp;lonlats=13.24591,46.056708;13.245271,46.056602&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.056705" lon="13.245909"><ele>107</ele></trkpt>
+   <trkpt lat="46.0566" lon="13.245271"><ele>107</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

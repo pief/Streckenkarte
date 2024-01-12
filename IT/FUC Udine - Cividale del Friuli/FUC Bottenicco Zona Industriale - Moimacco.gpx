@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1387 filtered ascend = 0 plain-ascend = -8 cost=1387 energy=0.0kwh time=1m 51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>FUC Bottenicco Zona Industriale - Moimacco</name>
+  <link href="https://bikerouter.de/#map=19/46.08972/13.38943/standard&amp;lonlats=13.39073,46.090009;13.372958,46.088636&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.090016" lon="13.390726"><ele>120.75</ele></trkpt>
+   <trkpt lat="46.090014" lon="13.390709"><ele>120.75</ele></trkpt>
+   <trkpt lat="46.089884" lon="13.389805"><ele>120.25</ele></trkpt>
+   <trkpt lat="46.089012" lon="13.383706"><ele>120.25</ele></trkpt>
+   <trkpt lat="46.088954" lon="13.383263"><ele>119</ele></trkpt>
+   <trkpt lat="46.088896" lon="13.382764"><ele>116.75</ele></trkpt>
+   <trkpt lat="46.088858" lon="13.382355"><ele>115.5</ele></trkpt>
+   <trkpt lat="46.088813" lon="13.381661"><ele>115.75</ele></trkpt>
+   <trkpt lat="46.088798" lon="13.381297"><ele>116</ele></trkpt>
+   <trkpt lat="46.088679" lon="13.37517"><ele>113.5</ele></trkpt>
+   <trkpt lat="46.088649" lon="13.373719"><ele>113.75</ele></trkpt>
+   <trkpt lat="46.088639" lon="13.373106"><ele>114.25</ele></trkpt>
+   <trkpt lat="46.088636" lon="13.372956"><ele>111.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

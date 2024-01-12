@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 0 plain-ascend = 0 cost=103 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>FUC Remanzacco (Gleis 1) - Remanzacco Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/46.08221/13.32013/standard&amp;lonlats=13.320265,46.082331;13.321508,46.082641&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.082327" lon="13.320265"><ele>110.25</ele></trkpt>
+   <trkpt lat="46.08233" lon="13.320275"><ele>110.5</ele></trkpt>
+   <trkpt lat="46.082484" lon="13.320872"><ele>110.75</ele></trkpt>
+   <trkpt lat="46.082644" lon="13.321508"><ele>110</ele></trkpt>
+   <trkpt lat="46.082643" lon="13.321505"><ele>110.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

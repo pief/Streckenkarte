@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2324 filtered ascend = 10 plain-ascend = 9 cost=2324 energy=0.0kwh time=3m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>FUC Bottenicco Zona Industriale - Cividale del Friuli Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/46.09498/13.42134/standard&amp;lonlats=13.390726,46.090016;13.4201,46.094326&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.090016" lon="13.390724"><ele>120.75</ele></trkpt>
+   <trkpt lat="46.092418" lon="13.407556"><ele>124.25</ele></trkpt>
+   <trkpt lat="46.093155" lon="13.412731"><ele>126.5</ele></trkpt>
+   <trkpt lat="46.093808" lon="13.417282"><ele>128.5</ele></trkpt>
+   <trkpt lat="46.093879" lon="13.417726"><ele>129.25</ele></trkpt>
+   <trkpt lat="46.093949" lon="13.418114"><ele>130.75</ele></trkpt>
+   <trkpt lat="46.094325" lon="13.420099"><ele>129.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
