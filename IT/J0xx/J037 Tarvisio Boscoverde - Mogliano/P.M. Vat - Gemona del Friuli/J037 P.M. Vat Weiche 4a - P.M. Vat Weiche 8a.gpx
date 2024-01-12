@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 178 filtered ascend = 0 plain-ascend = 0 cost=178 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 P.M. Vat Weiche 4a - P.M. Vat Weiche 8a</name>
+  <link href="https://bikerouter.de/#map=19/46.08888/13.24771/standard&amp;lonlats=13.247831,46.087385;13.247717,46.088979&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.087385" lon="13.247831"><ele>120.25</ele></trkpt>
+   <trkpt lat="46.088976" lon="13.247721"><ele>120.25</ele></trkpt>
+   <trkpt lat="46.088979" lon="13.24772"><ele>120.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

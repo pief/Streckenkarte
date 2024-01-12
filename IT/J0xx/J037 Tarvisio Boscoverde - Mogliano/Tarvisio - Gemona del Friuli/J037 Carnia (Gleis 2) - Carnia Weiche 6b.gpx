@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 734 filtered ascend = 0 plain-ascend = -5 cost=734 energy=0.0kwh time=59s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Carnia (Gleis 2) - Carnia Weiche 6b</name>
+  <link href="https://bikerouter.de/#map=19/46.36741/13.13293/standard&amp;lonlats=13.132881,46.373683;13.132447,46.367146&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.373681" lon="13.132882"><ele>257</ele></trkpt>
+   <trkpt lat="46.373599" lon="13.13286"><ele>257.25</ele></trkpt>
+   <trkpt lat="46.372091" lon="13.132449"><ele>256.75</ele></trkpt>
+   <trkpt lat="46.37169" lon="13.132349"><ele>256.75</ele></trkpt>
+   <trkpt lat="46.371245" lon="13.132252"><ele>256.25</ele></trkpt>
+   <trkpt lat="46.370788" lon="13.132183"><ele>255.75</ele></trkpt>
+   <trkpt lat="46.37023" lon="13.132129"><ele>254</ele></trkpt>
+   <trkpt lat="46.369745" lon="13.132106"><ele>252.5</ele></trkpt>
+   <trkpt lat="46.369513" lon="13.132114"><ele>251.75</ele></trkpt>
+   <trkpt lat="46.369113" lon="13.132142"><ele>251</ele></trkpt>
+   <trkpt lat="46.36863" lon="13.132196"><ele>252</ele></trkpt>
+   <trkpt lat="46.368168" lon="13.13226"><ele>252.5</ele></trkpt>
+   <trkpt lat="46.367971" lon="13.132294"><ele>252.5</ele></trkpt>
+   <trkpt lat="46.367153" lon="13.132447"><ele>251.5</ele></trkpt>
+   <trkpt lat="46.367146" lon="13.132448"><ele>250.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 724 filtered ascend = 1 plain-ascend = 0 cost=724 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Gemona del Friuli Weiche 23a - Gemona del Friuli Weiche 11b</name>
+  <link href="https://bikerouter.de/#map=19/46.27952/13.12567/standard&amp;lonlats=13.122356,46.286361;13.12536,46.280192&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.286361" lon="13.122356"><ele>198.5</ele></trkpt>
+   <trkpt lat="46.284535" lon="13.123278"><ele>199.75</ele></trkpt>
+   <trkpt lat="46.281489" lon="13.124739"><ele>200</ele></trkpt>
+   <trkpt lat="46.280192" lon="13.125362"><ele>198.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 216 filtered ascend = 0 plain-ascend = -1 cost=216 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Udine Weiche 4b - Udine Weiche 12a/13b</name>
+  <link href="https://bikerouter.de/#map=19/46.05702/13.24622/standard&amp;lonlats=13.247685,46.057492;13.245676,46.056714;13.245266,46.056602&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.057493" lon="13.247682"><ele>108.5</ele></trkpt>
+   <trkpt lat="46.057492" lon="13.24768"><ele>108.75</ele></trkpt>
+   <trkpt lat="46.057226" lon="13.247151"><ele>108.25</ele></trkpt>
+   <trkpt lat="46.057075" lon="13.246812"><ele>107.75</ele></trkpt>
+   <trkpt lat="46.056967" lon="13.246533"><ele>107.25</ele></trkpt>
+   <trkpt lat="46.056883" lon="13.246295"><ele>107.25</ele></trkpt>
+   <trkpt lat="46.056805" lon="13.246038"><ele>107</ele></trkpt>
+   <trkpt lat="46.056726" lon="13.24576"><ele>107</ele></trkpt>
+   <trkpt lat="46.056705" lon="13.245679"><ele>107</ele></trkpt>
+   <trkpt lat="46.0566" lon="13.245271"><ele>107</ele></trkpt>
+   <trkpt lat="46.056599" lon="13.245265"><ele>107.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

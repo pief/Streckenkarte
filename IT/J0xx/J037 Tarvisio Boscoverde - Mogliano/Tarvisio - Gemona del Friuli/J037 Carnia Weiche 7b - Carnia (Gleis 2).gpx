@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 363 filtered ascend = 0 plain-ascend = -1 cost=363 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Carnia Weiche 7b - Carnia (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/46.37351/13.13309/standard&amp;lonlats=13.133702,46.376888;13.132881,46.373683&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.376887" lon="13.133701"><ele>258.75</ele></trkpt>
+   <trkpt lat="46.376889" lon="13.133702"><ele>259</ele></trkpt>
+   <trkpt lat="46.375825" lon="13.133449"><ele>256.75</ele></trkpt>
+   <trkpt lat="46.375092" lon="13.133257"><ele>256</ele></trkpt>
+   <trkpt lat="46.373681" lon="13.132882"><ele>257.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

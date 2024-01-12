@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 8 plain-ascend = 8 cost=183 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Tarcento Weiche 1b - Tarcento Weiche 3a</name>
+  <link href="https://bikerouter.de/#map=19/46.21309/13.19465/standard&amp;lonlats=13.193129,46.21473;13.193708,46.213696;13.193993,46.213205&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.21473" lon="13.193131"><ele>204</ele></trkpt>
+   <trkpt lat="46.214732" lon="13.193131"><ele>204</ele></trkpt>
+   <trkpt lat="46.214485" lon="13.193273"><ele>204.25</ele></trkpt>
+   <trkpt lat="46.214414" lon="13.193313"><ele>204.25</ele></trkpt>
+   <trkpt lat="46.213698" lon="13.193717"><ele>210</ele></trkpt>
+   <trkpt lat="46.213209" lon="13.193994"><ele>210</ele></trkpt>
+   <trkpt lat="46.213205" lon="13.193996"><ele>209.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
