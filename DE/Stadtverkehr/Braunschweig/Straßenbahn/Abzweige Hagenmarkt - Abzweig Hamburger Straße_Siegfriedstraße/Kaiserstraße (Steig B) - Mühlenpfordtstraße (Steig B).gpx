@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 500 filtered ascend = 3 plain-ascend = 4 cost=1000 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Kaiserstraße (Steig B) - Mühlenpfordtstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.27385/10.52459/standard&amp;lonlats=10.523526,52.269737;10.524135,52.273932&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.269737" lon="10.523528"><ele>71</ele></trkpt>
+   <trkpt lat="52.269739" lon="10.523528"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.269834" lon="10.523477"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.269846" lon="10.523471"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.270013" lon="10.523396"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.270138" lon="10.52337"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.270247" lon="10.523367"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.270439" lon="10.523408"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.270574" lon="10.523471"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.270636" lon="10.523509"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.270657" lon="10.523521"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.270718" lon="10.523558"><ele>70</ele></trkpt>
+   <trkpt lat="52.270777" lon="10.523601"><ele>70</ele></trkpt>
+   <trkpt lat="52.270889" lon="10.523674"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.271193" lon="10.523872"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.27174" lon="10.524255"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.272037" lon="10.524442"><ele>74</ele></trkpt>
+   <trkpt lat="52.272471" lon="10.524716"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.272624" lon="10.524793"><ele>73</ele></trkpt>
+   <trkpt lat="52.272726" lon="10.52482"><ele>73</ele></trkpt>
+   <trkpt lat="52.272818" lon="10.524828"><ele>73</ele></trkpt>
+   <trkpt lat="52.272914" lon="10.524821"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.273214" lon="10.524755"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.27323" lon="10.524751"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.273247" lon="10.524747"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.273509" lon="10.524679"><ele>72</ele></trkpt>
+   <trkpt lat="52.273574" lon="10.524646"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.273634" lon="10.524597"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.273671" lon="10.52456"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.273724" lon="10.5245"><ele>73</ele></trkpt>
+   <trkpt lat="52.273764" lon="10.524441"><ele>73</ele></trkpt>
+   <trkpt lat="52.273843" lon="10.524312"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.27393" lon="10.524135"><ele>74</ele></trkpt>
+   <trkpt lat="52.27393" lon="10.524133"><ele>74.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 334 filtered ascend = 2 plain-ascend = 2 cost=668 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Ackerstraße (Steig A) - Marienstift (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.25813/10.54561/standard&amp;lonlats=10.548621,52.256411;10.544979,52.258367&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.25641" lon="10.54862"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.256475" lon="10.54847"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.256521" lon="10.548368"><ele>79.25</ele></trkpt>
+   <trkpt lat="52.256594" lon="10.548204"><ele>79</ele></trkpt>
+   <trkpt lat="52.25711" lon="10.547076"><ele>80</ele></trkpt>
+   <trkpt lat="52.257312" lon="10.546611"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.257383" lon="10.546443"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.257454" lon="10.546274"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.257478" lon="10.54622"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.257495" lon="10.54618"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.257547" lon="10.546066"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.257601" lon="10.545952"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.257639" lon="10.545881"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.257684" lon="10.545806"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.257832" lon="10.545611"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.258001" lon="10.54541"><ele>80.75</ele></trkpt>
+   <trkpt lat="52.258366" lon="10.544979"><ele>81.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

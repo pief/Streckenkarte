@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 235 filtered ascend = 2 plain-ascend = 2 cost=472 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Schloss Weiche Nord-Ost - Rathaus (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.26486/10.52645/standard&amp;lonlats=10.526219,52.262873;10.526372,52.26493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.262873" lon="10.526219"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.263503" lon="10.526521"><ele>71</ele></trkpt>
+   <trkpt lat="52.263538" lon="10.526538"><ele>71</ele></trkpt>
+   <trkpt lat="52.263693" lon="10.526601"><ele>71</ele></trkpt>
+   <trkpt lat="52.263789" lon="10.526616"><ele>71</ele></trkpt>
+   <trkpt lat="52.263909" lon="10.526611"><ele>71</ele></trkpt>
+   <trkpt lat="52.264148" lon="10.52656"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.264476" lon="10.526482"><ele>72</ele></trkpt>
+   <trkpt lat="52.264928" lon="10.526376"><ele>73</ele></trkpt>
+   <trkpt lat="52.26493" lon="10.526375"><ele>73.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

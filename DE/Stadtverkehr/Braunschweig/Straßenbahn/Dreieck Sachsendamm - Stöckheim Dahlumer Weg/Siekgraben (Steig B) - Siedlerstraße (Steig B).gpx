@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 371 filtered ascend = 0 plain-ascend = -1 cost=742 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Siekgraben (Steig B) - Siedlerstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.21507/10.52007/standard&amp;lonlats=10.520152,52.218407;10.520543,52.215076&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.218407" lon="10.520154"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.218208" lon="10.520179"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.218196" lon="10.520179"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.218154" lon="10.520184"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.215396" lon="10.520509"><ele>75</ele></trkpt>
+   <trkpt lat="52.215366" lon="10.520513"><ele>75</ele></trkpt>
+   <trkpt lat="52.215076" lon="10.520545"><ele>75.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

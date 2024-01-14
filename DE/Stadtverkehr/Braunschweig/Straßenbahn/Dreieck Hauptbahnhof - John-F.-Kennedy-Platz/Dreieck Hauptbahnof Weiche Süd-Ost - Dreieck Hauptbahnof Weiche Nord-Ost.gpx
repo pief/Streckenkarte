@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 0 plain-ascend = 0 cost=152 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Hauptbahnof Weiche Süd-Ost - Dreieck Hauptbahnof Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/52.25373/10.53823/standard&amp;lonlats=10.538673,52.253264;10.538026,52.253807&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.253265" lon="10.538675"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.253269" lon="10.538671"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.253423" lon="10.538499"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.253562" lon="10.538354"><ele>75</ele></trkpt>
+   <trkpt lat="52.253598" lon="10.538314"><ele>75</ele></trkpt>
+   <trkpt lat="52.253657" lon="10.538236"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.253712" lon="10.538164"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.253767" lon="10.538076"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.253799" lon="10.53803"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.253804" lon="10.538022"><ele>75.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

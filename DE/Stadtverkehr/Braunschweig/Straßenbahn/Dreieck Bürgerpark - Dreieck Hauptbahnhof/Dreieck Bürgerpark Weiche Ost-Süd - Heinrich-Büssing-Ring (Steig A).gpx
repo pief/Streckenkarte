@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 351 filtered ascend = 4 plain-ascend = 5 cost=702 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Bürgerpark Weiche Ost-Süd - Heinrich-Büssing-Ring (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.25152/10.53478/standard&amp;lonlats=10.529832,52.251001;10.534825,52.251743&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.251002" lon="10.52983"><ele>75</ele></trkpt>
+   <trkpt lat="52.251011" lon="10.529874"><ele>75</ele></trkpt>
+   <trkpt lat="52.251172" lon="10.530788"><ele>77</ele></trkpt>
+   <trkpt lat="52.251232" lon="10.531183"><ele>78.25</ele></trkpt>
+   <trkpt lat="52.251239" lon="10.531238"><ele>78.25</ele></trkpt>
+   <trkpt lat="52.251245" lon="10.531285"><ele>78.5</ele></trkpt>
+   <trkpt lat="52.251272" lon="10.531495"><ele>79</ele></trkpt>
+   <trkpt lat="52.251293" lon="10.531673"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.251298" lon="10.531713"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.25136" lon="10.532239"><ele>79.25</ele></trkpt>
+   <trkpt lat="52.25146" lon="10.533005"><ele>78.25</ele></trkpt>
+   <trkpt lat="52.251746" lon="10.534822"><ele>79.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 388 filtered ascend = 4 plain-ascend = 3 cost=776 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Hauptbahnof Weiche Nord-Ost - Campestraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=18/52.25681/10.53316/standard&amp;lonlats=10.538026,52.253807;10.534096,52.256308&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.253804" lon="10.538022"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.253811" lon="10.538013"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.253987" lon="10.537761"><ele>76</ele></trkpt>
+   <trkpt lat="52.254109" lon="10.537562"><ele>76</ele></trkpt>
+   <trkpt lat="52.254384" lon="10.537036"><ele>77.75</ele></trkpt>
+   <trkpt lat="52.254635" lon="10.536579"><ele>79.25</ele></trkpt>
+   <trkpt lat="52.254968" lon="10.53603"><ele>80</ele></trkpt>
+   <trkpt lat="52.255379" lon="10.535409"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.256309" lon="10.5341"><ele>78.75</ele></trkpt>
+   <trkpt lat="52.256309" lon="10.534099"><ele>78.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 811 filtered ascend = 7 plain-ascend = 8 cost=1622 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>HEH-Kliniken (Steig A) - Richmondweg (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.24039/10.52751/standard&amp;lonlats=10.529081,52.233394;10.527751,52.240612&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.233394" lon="10.529083"><ele>77.5</ele></trkpt>
+   <trkpt lat="52.233548" lon="10.529003"><ele>77.5</ele></trkpt>
+   <trkpt lat="52.234159" lon="10.528727"><ele>77</ele></trkpt>
+   <trkpt lat="52.234781" lon="10.52849"><ele>77</ele></trkpt>
+   <trkpt lat="52.235189" lon="10.528359"><ele>76.5</ele></trkpt>
+   <trkpt lat="52.235338" lon="10.528311"><ele>76</ele></trkpt>
+   <trkpt lat="52.235491" lon="10.528275"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.235911" lon="10.528177"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.236297" lon="10.528106"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.236748" lon="10.528048"><ele>76.5</ele></trkpt>
+   <trkpt lat="52.237058" lon="10.528003"><ele>78</ele></trkpt>
+   <trkpt lat="52.237345" lon="10.527975"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.238366" lon="10.527911"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.238672" lon="10.527894"><ele>80.75</ele></trkpt>
+   <trkpt lat="52.240612" lon="10.527756"><ele>85.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

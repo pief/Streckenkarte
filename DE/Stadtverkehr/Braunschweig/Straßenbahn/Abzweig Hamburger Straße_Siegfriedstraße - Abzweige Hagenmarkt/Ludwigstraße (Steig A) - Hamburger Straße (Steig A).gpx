@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 456 filtered ascend = 1 plain-ascend = 2 cost=912 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Ludwigstraße (Steig A) - Hamburger Straße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.27435/10.52224/standard&amp;lonlats=10.519915,52.278129;10.522109,52.274261&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.278129" lon="10.519917"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.278109" lon="10.519929"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.278046" lon="10.519964"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.277961" lon="10.520012"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.277855" lon="10.52007"><ele>71</ele></trkpt>
+   <trkpt lat="52.277699" lon="10.520154"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.277599" lon="10.520201"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.276524" lon="10.520724"><ele>70</ele></trkpt>
+   <trkpt lat="52.276285" lon="10.52085"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.276244" lon="10.52087"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.276192" lon="10.5209"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.276138" lon="10.520927"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.275419" lon="10.521331"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.275376" lon="10.521355"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.275345" lon="10.521373"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.275241" lon="10.521432"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.275231" lon="10.521438"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.2752" lon="10.521455"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.275145" lon="10.521487"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.275104" lon="10.521511"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.275005" lon="10.521567"><ele>70</ele></trkpt>
+   <trkpt lat="52.274974" lon="10.521587"><ele>70</ele></trkpt>
+   <trkpt lat="52.274648" lon="10.521814"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.27464" lon="10.52182"><ele>71</ele></trkpt>
+   <trkpt lat="52.274262" lon="10.522112"><ele>72</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Hauptbahnhof Weiche Nord-West - Dreieck Hauptbahnhof Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/52.25338/10.53906/standard&amp;lonlats=10.537992,52.253771;10.538611,52.253256&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.253773" lon="10.537997"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.253772" lon="10.538"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.253739" lon="10.538046"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.253642" lon="10.538187"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.253568" lon="10.538281"><ele>75</ele></trkpt>
+   <trkpt lat="52.253259" lon="10.538617"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.253258" lon="10.538617"><ele>75.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Schleife Carl-Miele-Straße Weiche West - Abzweig Schleife Carl-Miele-Straße Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.31425/10.50974/standard&amp;lonlats=10.51014,52.314704;10.509319,52.314539&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.314704" lon="10.51014"><ele>70</ele></trkpt>
+   <trkpt lat="52.31475" lon="10.509977"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.314778" lon="10.509825"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.314776" lon="10.509683"><ele>70</ele></trkpt>
+   <trkpt lat="52.314741" lon="10.509555"><ele>70</ele></trkpt>
+   <trkpt lat="52.314704" lon="10.509476"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.31465" lon="10.509407"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.314569" lon="10.509344"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.314538" lon="10.50932"><ele>69.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

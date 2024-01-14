@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 297 filtered ascend = 0 plain-ascend = -1 cost=594 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Abzweig Wendeschleife Stadion Weiche Süd - Abzweig Hamburger Straße/Siegfriedstraße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/52.28685/10.51932/standard&amp;lonlats=10.518843,52.289502;10.519001,52.286839&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.289502" lon="10.518846"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.289313" lon="10.518882"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.289232" lon="10.518894"><ele>72</ele></trkpt>
+   <trkpt lat="52.289195" lon="10.518899"><ele>72</ele></trkpt>
+   <trkpt lat="52.288983" lon="10.518928"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.287471" lon="10.519031"><ele>71</ele></trkpt>
+   <trkpt lat="52.287442" lon="10.519032"><ele>71</ele></trkpt>
+   <trkpt lat="52.287367" lon="10.519035"><ele>71</ele></trkpt>
+   <trkpt lat="52.287187" lon="10.519022"><ele>71</ele></trkpt>
+   <trkpt lat="52.287055" lon="10.519013"><ele>71</ele></trkpt>
+   <trkpt lat="52.286894" lon="10.519005"><ele>71</ele></trkpt>
+   <trkpt lat="52.286842" lon="10.519006"><ele>71</ele></trkpt>
+   <trkpt lat="52.286839" lon="10.519006"><ele>71</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

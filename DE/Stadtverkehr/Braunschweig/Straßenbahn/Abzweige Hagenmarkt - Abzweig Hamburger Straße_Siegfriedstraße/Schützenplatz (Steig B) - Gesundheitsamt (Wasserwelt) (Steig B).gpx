@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 331 filtered ascend = 3 plain-ascend = 3 cost=662 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Schützenplatz (Steig B) - Gesundheitsamt (Wasserwelt) (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.28659/10.51870/standard&amp;lonlats=10.518972,52.283666;10.51906,52.286638&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.283665" lon="10.518977"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.283699" lon="10.518983"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.283731" lon="10.51899"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.283759" lon="10.518997"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.2838" lon="10.519006"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.284033" lon="10.519059"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.284063" lon="10.519064"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.284293" lon="10.519107"><ele>68</ele></trkpt>
+   <trkpt lat="52.28451" lon="10.51913"><ele>68.75</ele></trkpt>
+   <trkpt lat="52.284927" lon="10.519163"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.285207" lon="10.519167"><ele>70</ele></trkpt>
+   <trkpt lat="52.285511" lon="10.51915"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.28589" lon="10.519103"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.286638" lon="10.519063"><ele>70.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

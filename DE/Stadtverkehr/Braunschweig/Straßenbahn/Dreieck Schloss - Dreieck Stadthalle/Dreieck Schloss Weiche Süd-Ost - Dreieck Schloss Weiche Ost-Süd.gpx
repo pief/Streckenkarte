@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = -2 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Schloss Weiche Süd-Ost - Dreieck Schloss Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.26244/10.52682/standard&amp;lonlats=10.525964,52.262284;10.526487,52.262473&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.262283" lon="10.525963"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.262289" lon="10.525965"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.262355" lon="10.526017"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.262384" lon="10.526039"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.262434" lon="10.526094"><ele>72</ele></trkpt>
+   <trkpt lat="52.262458" lon="10.526175"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.262476" lon="10.526267"><ele>71</ele></trkpt>
+   <trkpt lat="52.262485" lon="10.526341"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.262483" lon="10.526378"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.262479" lon="10.526427"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.262475" lon="10.526485"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.262474" lon="10.526487"><ele>70.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

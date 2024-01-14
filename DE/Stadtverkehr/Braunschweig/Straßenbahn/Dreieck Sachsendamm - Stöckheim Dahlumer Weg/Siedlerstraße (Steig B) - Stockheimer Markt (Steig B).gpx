@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = 0 cost=480 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Siedlerstraße (Steig B) - Stockheimer Markt (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.21315/10.52146/standard&amp;lonlats=10.520543,52.215076;10.52208,52.213233&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.215076" lon="10.520545"><ele>75</ele></trkpt>
+   <trkpt lat="52.215075" lon="10.520546"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.214926" lon="10.520563"><ele>75</ele></trkpt>
+   <trkpt lat="52.214565" lon="10.520613"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.214421" lon="10.520668"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.214279" lon="10.520754"><ele>74</ele></trkpt>
+   <trkpt lat="52.214112" lon="10.520911"><ele>74</ele></trkpt>
+   <trkpt lat="52.213986" lon="10.521071"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.21376" lon="10.5214"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.213755" lon="10.521408"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.213744" lon="10.521425"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.213683" lon="10.521509"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.21366" lon="10.52154"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.213566" lon="10.521662"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.213235" lon="10.522084"><ele>75</ele></trkpt>
+   <trkpt lat="52.213234" lon="10.522084"><ele>75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

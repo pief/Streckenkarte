@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 0 cost=128 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Salzdahlumer Weg (Steig B) - Salzdahlumer Weg Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.20413/10.52544/standard&amp;lonlats=10.525634,52.204555;10.525479,52.204&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.204553" lon="10.525643"><ele>75</ele></trkpt>
+   <trkpt lat="52.204252" lon="10.525595"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.204181" lon="10.525566"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.20407" lon="10.525502"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.204003" lon="10.525482"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.203998" lon="10.525481"><ele>75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

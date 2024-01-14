@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 3 plain-ascend = 1 cost=366 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Hamburger Straße (Steig A) - Mühlenpfordtstraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.27369/10.52444/standard&amp;lonlats=10.522109,52.274261;10.524408,52.273738&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.274262" lon="10.522112"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.2742" lon="10.522161"><ele>72</ele></trkpt>
+   <trkpt lat="52.274186" lon="10.522175"><ele>72</ele></trkpt>
+   <trkpt lat="52.274142" lon="10.522222"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.274108" lon="10.522273"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.27404" lon="10.522409"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.273991" lon="10.522577"><ele>73</ele></trkpt>
+   <trkpt lat="52.273967" lon="10.522751"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.27397" lon="10.522923"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.273983" lon="10.52302"><ele>74</ele></trkpt>
+   <trkpt lat="52.274029" lon="10.523263"><ele>75</ele></trkpt>
+   <trkpt lat="52.274045" lon="10.523401"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.274047" lon="10.523515"><ele>75</ele></trkpt>
+   <trkpt lat="52.27404" lon="10.523637"><ele>75</ele></trkpt>
+   <trkpt lat="52.274023" lon="10.523748"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.273979" lon="10.523909"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.273964" lon="10.523951"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.273905" lon="10.524106"><ele>74</ele></trkpt>
+   <trkpt lat="52.273822" lon="10.524282"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.273744" lon="10.524406"><ele>73</ele></trkpt>
+   <trkpt lat="52.273739" lon="10.524412"><ele>73</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

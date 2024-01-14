@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 777 filtered ascend = 0 plain-ascend = 0 cost=1554 energy=0.0kwh time=1m 2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Schmalbachstraße (Steig B) - Nordhoffstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.30407/10.51565/standard&amp;lonlats=10.517333,52.297244;10.515764,52.304141&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.297244" lon="10.517333"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.297305" lon="10.517319"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.297335" lon="10.517313"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.297386" lon="10.517301"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.297549" lon="10.517266"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.297634" lon="10.517243"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.297783" lon="10.517206"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.297798" lon="10.517201"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.299587" lon="10.516776"><ele>70</ele></trkpt>
+   <trkpt lat="52.299736" lon="10.51674"><ele>70</ele></trkpt>
+   <trkpt lat="52.301204" lon="10.516419"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.301356" lon="10.516385"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.304141" lon="10.51577"><ele>72</ele></trkpt>
+   <trkpt lat="52.304141" lon="10.515769"><ele>72</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

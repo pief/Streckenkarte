@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 675 filtered ascend = 0 plain-ascend = 0 cost=1350 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Nordhoffstraße (Steig A) - Schmalbachstraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.29789/10.51729/standard&amp;lonlats=10.515774,52.303886;10.517132,52.297877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.303885" lon="10.515773"><ele>72</ele></trkpt>
+   <trkpt lat="52.303776" lon="10.515798"><ele>72</ele></trkpt>
+   <trkpt lat="52.301501" lon="10.516315"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.301357" lon="10.516348"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.299885" lon="10.516684"><ele>70</ele></trkpt>
+   <trkpt lat="52.299734" lon="10.516718"><ele>70</ele></trkpt>
+   <trkpt lat="52.297882" lon="10.517133"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.297877" lon="10.517134"><ele>71.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

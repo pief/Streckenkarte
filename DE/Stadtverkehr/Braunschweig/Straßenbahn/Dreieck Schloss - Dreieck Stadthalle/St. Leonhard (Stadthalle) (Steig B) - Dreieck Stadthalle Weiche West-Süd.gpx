@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 9 filtered ascend = 0 plain-ascend = 0 cost=18 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>St. Leonhard (Stadthalle) (Steig B) - Dreieck Stadthalle Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.25926/10.54009/standard&amp;lonlats=10.540364,52.259194;10.540475,52.259175&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.259194" lon="10.540364"><ele>82</ele></trkpt>
+   <trkpt lat="52.259193" lon="10.540371"><ele>82</ele></trkpt>
+   <trkpt lat="52.259183" lon="10.540424"><ele>82</ele></trkpt>
+   <trkpt lat="52.259182" lon="10.540434"><ele>82</ele></trkpt>
+   <trkpt lat="52.259178" lon="10.540456"><ele>82</ele></trkpt>
+   <trkpt lat="52.259174" lon="10.540474"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

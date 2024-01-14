@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = 0 cost=124 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Schloss Weiche Ost-Süd - Georg-Eckert-Straße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.26244/10.52682/standard&amp;lonlats=10.526487,52.262473;10.527382,52.262422&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.262474" lon="10.526487"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.262443" lon="10.526749"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.262428" lon="10.52687"><ele>71</ele></trkpt>
+   <trkpt lat="52.262417" lon="10.527069"><ele>71</ele></trkpt>
+   <trkpt lat="52.262417" lon="10.527377"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.262417" lon="10.527381"><ele>70.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

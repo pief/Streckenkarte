@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 549 filtered ascend = 5 plain-ascend = 4 cost=1098 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Am Magnitor (Steig B) - St. Leonhard (Stadthalle) (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.25914/10.54010/standard&amp;lonlats=10.532991,52.261071;10.540364,52.259194&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.26107" lon="10.53299"><ele>77.75</ele></trkpt>
+   <trkpt lat="52.26107" lon="10.532993"><ele>77.75</ele></trkpt>
+   <trkpt lat="52.26103" lon="10.533098"><ele>77.5</ele></trkpt>
+   <trkpt lat="52.260926" lon="10.533386"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.260895" lon="10.533473"><ele>77</ele></trkpt>
+   <trkpt lat="52.260563" lon="10.534401"><ele>78</ele></trkpt>
+   <trkpt lat="52.260486" lon="10.534615"><ele>78</ele></trkpt>
+   <trkpt lat="52.26003" lon="10.535866"><ele>78</ele></trkpt>
+   <trkpt lat="52.259961" lon="10.536091"><ele>78.5</ele></trkpt>
+   <trkpt lat="52.259842" lon="10.53679"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.259688" lon="10.537696"><ele>82</ele></trkpt>
+   <trkpt lat="52.259684" lon="10.537721"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.25945" lon="10.539125"><ele>83.5</ele></trkpt>
+   <trkpt lat="52.259413" lon="10.539303"><ele>83.25</ele></trkpt>
+   <trkpt lat="52.259302" lon="10.539737"><ele>82.5</ele></trkpt>
+   <trkpt lat="52.259194" lon="10.540364"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

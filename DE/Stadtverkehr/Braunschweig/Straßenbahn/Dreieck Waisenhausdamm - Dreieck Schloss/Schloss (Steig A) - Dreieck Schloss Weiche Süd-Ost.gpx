@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = 0 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Schloss (Steig A) - Dreieck Schloss Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/52.26231/10.52664/standard&amp;lonlats=10.52596,52.262269;10.525962,52.262286&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.262269" lon="10.52596"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.262278" lon="10.525963"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.262284" lon="10.525964"><ele>73.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

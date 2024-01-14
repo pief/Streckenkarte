@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 527 filtered ascend = 1 plain-ascend = 0 cost=1054 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Großes Weghaus (Steig B) - Salzdahlumer Weg Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/52.20499/10.52438/standard&amp;lonlats=10.523877,52.20974;10.525667,52.205187&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.20974" lon="10.523877"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.209616" lon="10.523949"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.209494" lon="10.524042"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.209239" lon="10.524303"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.209176" lon="10.524355"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.209111" lon="10.524395"><ele>76</ele></trkpt>
+   <trkpt lat="52.208976" lon="10.524436"><ele>76</ele></trkpt>
+   <trkpt lat="52.208613" lon="10.524456"><ele>76</ele></trkpt>
+   <trkpt lat="52.208441" lon="10.524486"><ele>76</ele></trkpt>
+   <trkpt lat="52.208332" lon="10.524517"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.208223" lon="10.524557"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.206846" lon="10.52517"><ele>76.25</ele></trkpt>
+   <trkpt lat="52.205767" lon="10.525646"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.205636" lon="10.525687"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.205459" lon="10.525704"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.205275" lon="10.525682"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.205221" lon="10.525674"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.205185" lon="10.525668"><ele>75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

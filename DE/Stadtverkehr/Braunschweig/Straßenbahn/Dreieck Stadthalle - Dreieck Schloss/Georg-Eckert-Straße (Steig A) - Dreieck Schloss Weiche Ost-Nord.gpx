@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 19 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Georg-Eckert-Straße (Steig A) - Dreieck Schloss Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.26258/10.52680/standard&amp;lonlats=10.526772,52.262469;10.526512,52.262507&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.262469" lon="10.526772"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.262472" lon="10.526758"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.262488" lon="10.526639"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.262488" lon="10.526635"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.262491" lon="10.526612"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.262499" lon="10.526553"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.262504" lon="10.526511"><ele>70.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

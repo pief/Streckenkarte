@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 270 filtered ascend = 0 plain-ascend = 0 cost=540 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Veltenhöfer Straße (Steig B) - Heideblick Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=18/52.32549/10.50930/standard&amp;lonlats=10.509206,52.322441;10.508814,52.324839&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.322441" lon="10.509206"><ele>68</ele></trkpt>
+   <trkpt lat="52.322446" lon="10.509206"><ele>68</ele></trkpt>
+   <trkpt lat="52.322535" lon="10.509192"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.322576" lon="10.509185"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.322634" lon="10.509175"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.322662" lon="10.509172"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.322695" lon="10.509168"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.323167" lon="10.509112"><ele>67</ele></trkpt>
+   <trkpt lat="52.324379" lon="10.508943"><ele>66</ele></trkpt>
+   <trkpt lat="52.324616" lon="10.508883"><ele>66.25</ele></trkpt>
+   <trkpt lat="52.324679" lon="10.508866"><ele>66.25</ele></trkpt>
+   <trkpt lat="52.324837" lon="10.508819"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.324839" lon="10.508818"><ele>67</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

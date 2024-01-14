@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 154 filtered ascend = 1 plain-ascend = 1 cost=308 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Heideblick Weiche Süd - Heideblick (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.32578/10.50884/standard&amp;lonlats=10.508814,52.324839;10.508543,52.326206&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.324839" lon="10.508818"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.324837" lon="10.508819"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.325318" lon="10.508677"><ele>67</ele></trkpt>
+   <trkpt lat="52.325429" lon="10.508657"><ele>67</ele></trkpt>
+   <trkpt lat="52.325658" lon="10.508606"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.326041" lon="10.508561"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.326205" lon="10.508541"><ele>67.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = 0 cost=48 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Abzweig Bohlweg/Hagenbrücke Weiche Ost - Abzweig Bohlweg/Fallersleber Straße Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/52.26761/10.52494/standard&amp;lonlats=10.524817,52.267385;10.524733,52.267594&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.267385" lon="10.524817"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.267388" lon="10.524816"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.267504" lon="10.524759"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.267564" lon="10.524743"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.267585" lon="10.524738"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.267594" lon="10.524738"><ele>73.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

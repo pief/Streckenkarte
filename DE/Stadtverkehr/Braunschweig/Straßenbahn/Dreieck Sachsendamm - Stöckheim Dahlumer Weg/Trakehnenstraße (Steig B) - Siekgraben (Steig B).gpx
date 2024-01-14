@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 561 filtered ascend = 6 plain-ascend = 7 cost=1122 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Trakehnenstraße (Steig B) - Siekgraben (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.21847/10.52013/standard&amp;lonlats=10.523585,52.222327;10.520152,52.218407&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.222328" lon="10.523583"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.222251" lon="10.523328"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.222239" lon="10.523284"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.22174" lon="10.521656"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.221662" lon="10.521421"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.221574" lon="10.521204"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.22143" lon="10.520919"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.221307" lon="10.520723"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.221094" lon="10.520453"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.220966" lon="10.520332"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.220815" lon="10.520213"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.220617" lon="10.520096"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.220479" lon="10.520038"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.220334" lon="10.519997"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.22018" lon="10.519975"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.219981" lon="10.519974"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.219808" lon="10.519992"><ele>75</ele></trkpt>
+   <trkpt lat="52.21911" lon="10.520072"><ele>76</ele></trkpt>
+   <trkpt lat="52.218964" lon="10.520089"><ele>76</ele></trkpt>
+   <trkpt lat="52.218884" lon="10.520099"><ele>76.25</ele></trkpt>
+   <trkpt lat="52.21841" lon="10.520154"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.218407" lon="10.520154"><ele>76.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

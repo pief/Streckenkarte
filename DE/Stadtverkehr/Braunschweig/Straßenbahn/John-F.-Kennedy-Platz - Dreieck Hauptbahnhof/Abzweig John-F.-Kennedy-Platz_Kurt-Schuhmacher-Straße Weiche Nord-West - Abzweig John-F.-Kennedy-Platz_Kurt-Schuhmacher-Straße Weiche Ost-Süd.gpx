@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = -1 cost=150 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Abzweig John-F.-Kennedy-Platz_Kurt-Schuhmacher-Straße Weiche Nord-West - Abzweig John-F.-Kennedy-Platz_Kurt-Schuhmacher-Straße Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.25846/10.52851/standard&amp;lonlats=10.527395,52.258378;10.528226,52.258147&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.258378" lon="10.527395"><ele>77</ele></trkpt>
+   <trkpt lat="52.258373" lon="10.527396"><ele>77</ele></trkpt>
+   <trkpt lat="52.258316" lon="10.52741"><ele>77</ele></trkpt>
+   <trkpt lat="52.258284" lon="10.527421"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.258217" lon="10.527484"><ele>76.5</ele></trkpt>
+   <trkpt lat="52.258175" lon="10.527546"><ele>76.25</ele></trkpt>
+   <trkpt lat="52.258153" lon="10.527603"><ele>76</ele></trkpt>
+   <trkpt lat="52.258132" lon="10.527684"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.258121" lon="10.527895"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.258132" lon="10.528081"><ele>75</ele></trkpt>
+   <trkpt lat="52.258146" lon="10.528225"><ele>74.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

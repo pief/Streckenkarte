@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Stadthalle Weiche Ost-Nord - Dreieck Stadthalle Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.25920/10.54047/standard&amp;lonlats=10.541165,52.25905;10.540507,52.259204&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.259047" lon="10.541164"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.259048" lon="10.541164"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.259054" lon="10.541133"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.259077" lon="10.541025"><ele>82</ele></trkpt>
+   <trkpt lat="52.259101" lon="10.540932"><ele>82</ele></trkpt>
+   <trkpt lat="52.259125" lon="10.540849"><ele>82</ele></trkpt>
+   <trkpt lat="52.259156" lon="10.540733"><ele>82</ele></trkpt>
+   <trkpt lat="52.259182" lon="10.540636"><ele>82</ele></trkpt>
+   <trkpt lat="52.259205" lon="10.540522"><ele>82</ele></trkpt>
+   <trkpt lat="52.259207" lon="10.540508"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

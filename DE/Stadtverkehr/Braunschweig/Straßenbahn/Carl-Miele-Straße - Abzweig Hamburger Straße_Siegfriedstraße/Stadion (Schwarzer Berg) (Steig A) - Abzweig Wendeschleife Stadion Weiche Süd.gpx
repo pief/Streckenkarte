@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 0 plain-ascend = 0 cost=228 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Stadion (Schwarzer Berg) (Steig A) - Abzweig Wendeschleife Stadion Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.28952/10.51900/standard&amp;lonlats=10.518762,52.290518;10.518843,52.289502&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.290518" lon="10.518763"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.290287" lon="10.518782"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.290149" lon="10.518791"><ele>74</ele></trkpt>
+   <trkpt lat="52.290054" lon="10.518799"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.289917" lon="10.518811"><ele>74</ele></trkpt>
+   <trkpt lat="52.289504" lon="10.518846"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.289502" lon="10.518846"><ele>72.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

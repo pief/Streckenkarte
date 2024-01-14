@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Sachsendamm Weiche Ost-Nord - Dreieck Sachsendamm Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.22849/10.53021/standard&amp;lonlats=10.531997,52.228466;10.531289,52.228304&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.228467" lon="10.531995"><ele>82.5</ele></trkpt>
+   <trkpt lat="52.228428" lon="10.531829"/>
+   <trkpt lat="52.228347" lon="10.531489"/>
+   <trkpt lat="52.228302" lon="10.531292"/>
+   <trkpt lat="52.228345" lon="10.531404"/>
+  </trkseg>
+ </trk>
+</gpx>

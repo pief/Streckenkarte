@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 355 filtered ascend = 0 plain-ascend = 0 cost=710 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Großes Weghaus (Steig A) - Stockheimer Markt (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.21331/10.52110/standard&amp;lonlats=10.523725,52.210249;10.522126,52.213259&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.210249" lon="10.523726"><ele>75</ele></trkpt>
+   <trkpt lat="52.210458" lon="10.523639"><ele>75</ele></trkpt>
+   <trkpt lat="52.210861" lon="10.523465"><ele>75</ele></trkpt>
+   <trkpt lat="52.212559" lon="10.522761"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.212592" lon="10.522747"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.212734" lon="10.522681"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.212839" lon="10.522609"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.212967" lon="10.522493"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.213256" lon="10.522134"><ele>75</ele></trkpt>
+   <trkpt lat="52.21326" lon="10.522129"><ele>75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 249 filtered ascend = 0 plain-ascend = 0 cost=498 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Hagenmarkt (Steig A) - Rathaus (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.26450/10.52662/standard&amp;lonlats=10.525521,52.266501;10.52646,52.264355&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.2665" lon="10.525521"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.266409" lon="10.525582"><ele>73</ele></trkpt>
+   <trkpt lat="52.266333" lon="10.52563"><ele>73</ele></trkpt>
+   <trkpt lat="52.266068" lon="10.525797"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.265676" lon="10.526042"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.265477" lon="10.526155"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.265444" lon="10.526173"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.265389" lon="10.526203"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.265322" lon="10.526235"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.265133" lon="10.526285"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.264473" lon="10.526432"><ele>72</ele></trkpt>
+   <trkpt lat="52.26436" lon="10.526461"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.264355" lon="10.526462"><ele>71.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

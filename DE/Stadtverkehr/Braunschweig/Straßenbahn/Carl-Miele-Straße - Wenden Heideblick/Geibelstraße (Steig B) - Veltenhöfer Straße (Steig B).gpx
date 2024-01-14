@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 334 filtered ascend = 0 plain-ascend = -1 cost=668 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Geibelstraße (Steig B) - Veltenhöfer Straße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.32282/10.50916/standard&amp;lonlats=10.509525,52.319452;10.509203,52.322441&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.319452" lon="10.509533"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.319548" lon="10.509528"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.319581" lon="10.509526"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.320202" lon="10.509488"><ele>69.25</ele></trkpt>
+   <trkpt lat="52.322136" lon="10.509247"><ele>68.75</ele></trkpt>
+   <trkpt lat="52.322441" lon="10.509206"><ele>68</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

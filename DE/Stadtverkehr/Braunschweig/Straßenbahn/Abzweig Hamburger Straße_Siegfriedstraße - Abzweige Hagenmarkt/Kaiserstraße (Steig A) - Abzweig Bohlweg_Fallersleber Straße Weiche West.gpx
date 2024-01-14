@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 210 filtered ascend = 2 plain-ascend = 2 cost=420 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Kaiserstraße (Steig A) - Abzweig Bohlweg/Fallersleber Straße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/52.26757/10.52496/standard&amp;lonlats=10.523644,52.269406;10.524682,52.267639&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.269406" lon="10.523645"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.269391" lon="10.523654"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.269311" lon="10.523699"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.269102" lon="10.523815"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.269076" lon="10.523832"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.268956" lon="10.523913"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.268866" lon="10.523974"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.268076" lon="10.52452"><ele>72</ele></trkpt>
+   <trkpt lat="52.268003" lon="10.524579"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.267975" lon="10.524599"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.267958" lon="10.52461"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.267951" lon="10.524614"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.26792" lon="10.524631"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.267854" lon="10.52466"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.26773" lon="10.524677"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.267696" lon="10.52468"><ele>73</ele></trkpt>
+   <trkpt lat="52.267639" lon="10.524682"><ele>73</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

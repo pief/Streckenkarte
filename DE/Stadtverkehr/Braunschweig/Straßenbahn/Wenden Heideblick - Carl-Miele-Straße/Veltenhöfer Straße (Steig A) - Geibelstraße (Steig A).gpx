@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 412 filtered ascend = 2 plain-ascend = 2 cost=824 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Veltenhöfer Straße (Steig A) - Geibelstraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.31908/10.50931/standard&amp;lonlats=10.509114,52.322793;10.509498,52.319098&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.322792" lon="10.509112"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.322727" lon="10.509122"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.322679" lon="10.509129"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.322651" lon="10.509131"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.32262" lon="10.509135"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.322561" lon="10.509143"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.321864" lon="10.50924"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.320193" lon="10.509444"><ele>69.25</ele></trkpt>
+   <trkpt lat="52.319582" lon="10.509475"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.319548" lon="10.509477"><ele>69.5</ele></trkpt>
+   <trkpt lat="52.319102" lon="10.5095"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.319098" lon="10.5095"><ele>69.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
