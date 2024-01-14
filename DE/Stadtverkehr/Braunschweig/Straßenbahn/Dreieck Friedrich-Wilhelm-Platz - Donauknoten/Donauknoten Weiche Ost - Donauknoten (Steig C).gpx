@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = 0 cost=256 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Donauknoten Weiche Ost - Donauknoten (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/52.24889/10.48719/standard&amp;lonlats=10.48832,52.249416;10.48663,52.24897&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.249417" lon="10.488316"><ele>85</ele></trkpt>
+   <trkpt lat="52.249416" lon="10.488313"><ele>85</ele></trkpt>
+   <trkpt lat="52.249345" lon="10.488176"><ele>85</ele></trkpt>
+   <trkpt lat="52.249291" lon="10.488055"><ele>84.75</ele></trkpt>
+   <trkpt lat="52.249235" lon="10.487908"><ele>84.75</ele></trkpt>
+   <trkpt lat="52.249184" lon="10.487766"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.249136" lon="10.487595"><ele>84.75</ele></trkpt>
+   <trkpt lat="52.249105" lon="10.487456"><ele>84.75</ele></trkpt>
+   <trkpt lat="52.24908" lon="10.487331"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.248964" lon="10.486631"><ele>84.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

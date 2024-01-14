@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Friedrich-Wilhelm-Platz Weiche West-Süd - Dreieck Friedrich-Wilhelm-Platz Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/52.25979/10.51965/standard&amp;lonlats=10.518975,52.259603;10.519449,52.259843&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.259602" lon="10.518974"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.259603" lon="10.51898"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.259625" lon="10.519149"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.259644" lon="10.519238"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.259699" lon="10.519348"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.259751" lon="10.519397"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.259759" lon="10.519404"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.259768" lon="10.519412"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.259782" lon="10.51942"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.259839" lon="10.519451"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.259841" lon="10.519451"><ele>72.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

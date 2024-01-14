@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 386 filtered ascend = 0 plain-ascend = -1 cost=772 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Mozartstraße (Steig A) - Bindestraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.27400/10.54006/standard&amp;lonlats=10.544916,52.275993;10.540032,52.274264&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.275992" lon="10.544915"><ele>78.25</ele></trkpt>
+   <trkpt lat="52.275865" lon="10.544395"><ele>78</ele></trkpt>
+   <trkpt lat="52.275694" lon="10.543795"><ele>77.25</ele></trkpt>
+   <trkpt lat="52.275575" lon="10.54345"><ele>77</ele></trkpt>
+   <trkpt lat="52.274471" lon="10.540497"><ele>77.5</ele></trkpt>
+   <trkpt lat="52.274268" lon="10.540031"><ele>77</ele></trkpt>
+   <trkpt lat="52.274266" lon="10.540027"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

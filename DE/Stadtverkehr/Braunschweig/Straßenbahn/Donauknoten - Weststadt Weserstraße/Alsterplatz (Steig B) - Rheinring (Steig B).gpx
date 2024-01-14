@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = 0 cost=770 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Alsterplatz (Steig B) - Rheinring (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.24830/10.47306/standard&amp;lonlats=10.477978,52.249133;10.472552,52.248642&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.249129" lon="10.477977"><ele>87.25</ele></trkpt>
+   <trkpt lat="52.249202" lon="10.475438"><ele>86</ele></trkpt>
+   <trkpt lat="52.249199" lon="10.47512"><ele>86</ele></trkpt>
+   <trkpt lat="52.249189" lon="10.474859"><ele>85.75</ele></trkpt>
+   <trkpt lat="52.249169" lon="10.47458"><ele>85.5</ele></trkpt>
+   <trkpt lat="52.24914" lon="10.474324"><ele>85</ele></trkpt>
+   <trkpt lat="52.24906" lon="10.473862"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.248985" lon="10.47353"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.248862" lon="10.473116"><ele>86</ele></trkpt>
+   <trkpt lat="52.248794" lon="10.472921"><ele>86.5</ele></trkpt>
+   <trkpt lat="52.248649" lon="10.472556"><ele>87.25</ele></trkpt>
+   <trkpt lat="52.248646" lon="10.472547"><ele>87.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

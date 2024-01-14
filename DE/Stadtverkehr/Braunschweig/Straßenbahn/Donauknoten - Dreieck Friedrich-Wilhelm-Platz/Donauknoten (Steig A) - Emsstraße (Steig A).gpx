@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 370 filtered ascend = 2 plain-ascend = 2 cost=742 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Donauknoten (Steig A) - Emsstraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.25097/10.49183/standard&amp;lonlats=10.48723,52.248979;10.491245,52.251148&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.248975" lon="10.48723"><ele>84</ele></trkpt>
+   <trkpt lat="52.248976" lon="10.487237"><ele>84.25</ele></trkpt>
+   <trkpt lat="52.248994" lon="10.487361"><ele>84.25</ele></trkpt>
+   <trkpt lat="52.249019" lon="10.487492"><ele>84.25</ele></trkpt>
+   <trkpt lat="52.249078" lon="10.487725"><ele>84.25</ele></trkpt>
+   <trkpt lat="52.249147" lon="10.487896"><ele>84.25</ele></trkpt>
+   <trkpt lat="52.24922" lon="10.488038"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.249677" lon="10.488812"><ele>85.75</ele></trkpt>
+   <trkpt lat="52.250057" lon="10.489416"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.250339" lon="10.489844"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.250748" lon="10.490522"><ele>85.5</ele></trkpt>
+   <trkpt lat="52.250789" lon="10.490596"><ele>85.5</ele></trkpt>
+   <trkpt lat="52.250806" lon="10.490627"><ele>85.5</ele></trkpt>
+   <trkpt lat="52.250878" lon="10.490757"><ele>85.75</ele></trkpt>
+   <trkpt lat="52.250955" lon="10.490905"><ele>86</ele></trkpt>
+   <trkpt lat="52.251001" lon="10.490999"><ele>86</ele></trkpt>
+   <trkpt lat="52.251074" lon="10.491121"><ele>86</ele></trkpt>
+   <trkpt lat="52.251148" lon="10.491244"><ele>86</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

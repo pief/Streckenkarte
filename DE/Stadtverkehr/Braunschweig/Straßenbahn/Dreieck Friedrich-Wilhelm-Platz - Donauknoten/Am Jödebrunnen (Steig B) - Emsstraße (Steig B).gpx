@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 520 filtered ascend = 6 plain-ascend = 6 cost=1042 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Am Jödebrunnen (Steig B) - Emsstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.25091/10.49058/standard&amp;lonlats=10.495752,52.253816;10.490216,52.250602&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.253815" lon="10.495752"><ele>79.25</ele></trkpt>
+   <trkpt lat="52.253731" lon="10.495553"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.253513" lon="10.495105"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.253467" lon="10.495021"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.253335" lon="10.494794"><ele>81</ele></trkpt>
+   <trkpt lat="52.253289" lon="10.494714"><ele>81.25</ele></trkpt>
+   <trkpt lat="52.25291" lon="10.494066"><ele>82</ele></trkpt>
+   <trkpt lat="52.251511" lon="10.491784"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.251098" lon="10.49109"><ele>86</ele></trkpt>
+   <trkpt lat="52.251072" lon="10.491045"><ele>86</ele></trkpt>
+   <trkpt lat="52.251025" lon="10.490966"><ele>86</ele></trkpt>
+   <trkpt lat="52.25098" lon="10.490873"><ele>86</ele></trkpt>
+   <trkpt lat="52.250902" lon="10.490723"><ele>85.75</ele></trkpt>
+   <trkpt lat="52.25083" lon="10.490593"><ele>85.5</ele></trkpt>
+   <trkpt lat="52.250771" lon="10.490487"><ele>85.5</ele></trkpt>
+   <trkpt lat="52.250604" lon="10.490216"><ele>84.75</ele></trkpt>
+   <trkpt lat="52.250602" lon="10.490214"><ele>84.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

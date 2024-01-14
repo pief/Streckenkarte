@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 366 filtered ascend = 0 plain-ascend = 0 cost=734 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Petzvalstraße (Steig B) - Moorhüttenweg (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.28393/10.58333/standard&amp;lonlats=10.577693,52.282043;10.582365,52.283627&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.282043" lon="10.577693"><ele>82</ele></trkpt>
+   <trkpt lat="52.282091" lon="10.577834"><ele>82</ele></trkpt>
+   <trkpt lat="52.282261" lon="10.578336"><ele>82</ele></trkpt>
+   <trkpt lat="52.283114" lon="10.580956"><ele>82.75</ele></trkpt>
+   <trkpt lat="52.283233" lon="10.581293"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.283432" lon="10.581773"><ele>82</ele></trkpt>
+   <trkpt lat="52.283627" lon="10.582363"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 5 plain-ascend = 5 cost=436 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Friedrich-Wilhelm-Platz (Steig A) - Friedrich-Wilhelm-Straße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.26132/10.52128/standard&amp;lonlats=10.519515,52.260107;10.521595,52.261338&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.260106" lon="10.519512"><ele>73</ele></trkpt>
+   <trkpt lat="52.260113" lon="10.519514"><ele>73.25</ele></trkpt>
+   <trkpt lat="52.260212" lon="10.519543"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.260218" lon="10.519545"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.260323" lon="10.519582"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.260368" lon="10.519613"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.261145" lon="10.520432"><ele>76.25</ele></trkpt>
+   <trkpt lat="52.261234" lon="10.520556"><ele>76.5</ele></trkpt>
+   <trkpt lat="52.261296" lon="10.520722"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.261326" lon="10.520897"><ele>77.25</ele></trkpt>
+   <trkpt lat="52.261334" lon="10.521049"><ele>77.25</ele></trkpt>
+   <trkpt lat="52.261337" lon="10.521594"><ele>78</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

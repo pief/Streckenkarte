@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 559 filtered ascend = 0 plain-ascend = 0 cost=1118 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Moorhüttenweg (Steig A) - Petzvalstraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.28167/10.57649/standard&amp;lonlats=10.583325,52.283929;10.576131,52.281562&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.283926" lon="10.583325"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.28392" lon="10.583302"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.283903" lon="10.58324"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.283824" lon="10.582934"><ele>82</ele></trkpt>
+   <trkpt lat="52.283765" lon="10.582703"><ele>82</ele></trkpt>
+   <trkpt lat="52.283733" lon="10.582595"><ele>82</ele></trkpt>
+   <trkpt lat="52.283455" lon="10.581767"><ele>82</ele></trkpt>
+   <trkpt lat="52.28326" lon="10.581266"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.283142" lon="10.580931"><ele>82.75</ele></trkpt>
+   <trkpt lat="52.282289" lon="10.578311"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.281901" lon="10.577181"><ele>82</ele></trkpt>
+   <trkpt lat="52.281881" lon="10.57712"><ele>82</ele></trkpt>
+   <trkpt lat="52.281766" lon="10.576774"><ele>82</ele></trkpt>
+   <trkpt lat="52.281714" lon="10.576611"><ele>82</ele></trkpt>
+   <trkpt lat="52.281667" lon="10.576465"><ele>82</ele></trkpt>
+   <trkpt lat="52.281562" lon="10.576135"><ele>82.25</ele></trkpt>
+   <trkpt lat="52.28156" lon="10.576131"><ele>82.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = -2 cost=140 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Weserstraße Weiche Nord - Weserstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.24258/10.47077/standard&amp;lonlats=10.470681,52.243132;10.470308,52.242547&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.24313" lon="10.470684"><ele>84</ele></trkpt>
+   <trkpt lat="52.243127" lon="10.470682"><ele>84</ele></trkpt>
+   <trkpt lat="52.242983" lon="10.470588"><ele>83.25</ele></trkpt>
+   <trkpt lat="52.242548" lon="10.470303"><ele>80.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

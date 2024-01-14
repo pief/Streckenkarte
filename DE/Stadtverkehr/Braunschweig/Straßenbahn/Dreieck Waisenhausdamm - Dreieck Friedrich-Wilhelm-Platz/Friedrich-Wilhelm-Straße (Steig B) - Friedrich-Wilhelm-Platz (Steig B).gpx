@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 209 filtered ascend = 0 plain-ascend = -4 cost=418 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Friedrich-Wilhelm-Straße (Steig B) - Friedrich-Wilhelm-Platz (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.26007/10.51992/standard&amp;lonlats=10.521054,52.261368;10.519404,52.259928&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.261364" lon="10.521053"><ele>77.25</ele></trkpt>
+   <trkpt lat="52.261355" lon="10.520855"><ele>77.25</ele></trkpt>
+   <trkpt lat="52.261327" lon="10.520705"><ele>77</ele></trkpt>
+   <trkpt lat="52.261311" lon="10.52064"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.261264" lon="10.520524"><ele>76.5</ele></trkpt>
+   <trkpt lat="52.261165" lon="10.520392"><ele>76.25</ele></trkpt>
+   <trkpt lat="52.26039" lon="10.519566"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.26034" lon="10.519528"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.260278" lon="10.519497"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.260227" lon="10.519482"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.26022" lon="10.51948"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.260004" lon="10.519422"><ele>73</ele></trkpt>
+   <trkpt lat="52.259933" lon="10.519403"><ele>72.75</ele></trkpt>
+   <trkpt lat="52.259927" lon="10.519401"><ele>72.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

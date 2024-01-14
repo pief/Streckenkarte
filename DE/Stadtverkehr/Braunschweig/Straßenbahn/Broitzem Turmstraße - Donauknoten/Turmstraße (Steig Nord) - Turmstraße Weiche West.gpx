@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 2 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Turmstraße (Steig Nord) - Turmstraße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/52.23434/10.48153/standard&amp;lonlats=10.481876,52.234226;10.481298,52.234151&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.234226" lon="10.481875"><ele>81.5</ele></trkpt>
+   <trkpt lat="52.234239" lon="10.481796"><ele>81.5</ele></trkpt>
+   <trkpt lat="52.234246" lon="10.481676"><ele>81.75</ele></trkpt>
+   <trkpt lat="52.234242" lon="10.481567"><ele>82</ele></trkpt>
+   <trkpt lat="52.234203" lon="10.481402"><ele>82.5</ele></trkpt>
+   <trkpt lat="52.234151" lon="10.481304"><ele>82.75</ele></trkpt>
+   <trkpt lat="52.234148" lon="10.481301"><ele>83</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

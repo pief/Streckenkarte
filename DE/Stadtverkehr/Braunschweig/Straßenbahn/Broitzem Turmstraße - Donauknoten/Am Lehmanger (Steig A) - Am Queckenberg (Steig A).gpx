@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 444 filtered ascend = 1 plain-ascend = 2 cost=888 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Am Lehmanger (Steig A) - Am Queckenberg (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.24569/10.48911/standard&amp;lonlats=10.488612,52.241857;10.489167,52.245738&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.241856" lon="10.488608"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.241983" lon="10.488634"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.242224" lon="10.488682"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.242574" lon="10.488785"><ele>80.75</ele></trkpt>
+   <trkpt lat="52.243098" lon="10.488983"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.243541" lon="10.489184"><ele>78.75</ele></trkpt>
+   <trkpt lat="52.243651" lon="10.489237"><ele>78.75</ele></trkpt>
+   <trkpt lat="52.243884" lon="10.489355"><ele>78.75</ele></trkpt>
+   <trkpt lat="52.244042" lon="10.489414"><ele>78.5</ele></trkpt>
+   <trkpt lat="52.244394" lon="10.489525"><ele>78.75</ele></trkpt>
+   <trkpt lat="52.244588" lon="10.489545"><ele>79</ele></trkpt>
+   <trkpt lat="52.244775" lon="10.489547"><ele>79</ele></trkpt>
+   <trkpt lat="52.244864" lon="10.489544"><ele>79.25</ele></trkpt>
+   <trkpt lat="52.245028" lon="10.489513"><ele>79.25</ele></trkpt>
+   <trkpt lat="52.245241" lon="10.489456"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.24541" lon="10.489381"><ele>80</ele></trkpt>
+   <trkpt lat="52.245571" lon="10.489295"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.24574" lon="10.489176"><ele>80.75</ele></trkpt>
+   <trkpt lat="52.24574" lon="10.489175"><ele>81</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

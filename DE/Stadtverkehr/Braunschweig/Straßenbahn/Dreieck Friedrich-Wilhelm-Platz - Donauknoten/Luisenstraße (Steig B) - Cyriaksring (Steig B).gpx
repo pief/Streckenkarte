@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 4 plain-ascend = 5 cost=480 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Luisenstraße (Steig B) - Cyriaksring (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/52.25544/10.50746/standard&amp;lonlats=10.5103,52.256042;10.50699,52.255349&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.256039" lon="10.510299"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.255982" lon="10.509845"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.255947" lon="10.509619"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.255862" lon="10.509177"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.255763" lon="10.508743"><ele>77.75</ele></trkpt>
+   <trkpt lat="52.255751" lon="10.508692"><ele>78</ele></trkpt>
+   <trkpt lat="52.25549" lon="10.507564"><ele>79</ele></trkpt>
+   <trkpt lat="52.255344" lon="10.506993"><ele>79</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
