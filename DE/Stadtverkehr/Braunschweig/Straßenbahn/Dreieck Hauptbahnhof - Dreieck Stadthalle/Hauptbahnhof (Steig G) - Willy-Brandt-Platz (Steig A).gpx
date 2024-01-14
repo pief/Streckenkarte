@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 269 filtered ascend = 2 plain-ascend = 2 cost=538 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Hauptbahnhof (Steig G) - Willy-Brandt-Platz (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.25649/10.54059/standard&amp;lonlats=10.539083,52.254187;10.540121,52.256505&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.254186" lon="10.539082"><ele>78.25</ele></trkpt>
+   <trkpt lat="52.254188" lon="10.539084"><ele>78.5</ele></trkpt>
+   <trkpt lat="52.254332" lon="10.539192"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.254406" lon="10.539242"><ele>80</ele></trkpt>
+   <trkpt lat="52.254475" lon="10.539285"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.254568" lon="10.539344"><ele>80.5</ele></trkpt>
+   <trkpt lat="52.254776" lon="10.539455"><ele>80.75</ele></trkpt>
+   <trkpt lat="52.255369" lon="10.539729"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.255693" lon="10.539855"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.256189" lon="10.540029"><ele>79.25</ele></trkpt>
+   <trkpt lat="52.256503" lon="10.540124"><ele>79.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

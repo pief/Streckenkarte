@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=106 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Dreieck Bürgerpark Weiche Ost-Nord - Dreieck Bürgerpark Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/52.25083/10.53077/standard&amp;lonlats=10.529832,52.251044;10.529423,52.250696&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.251041" lon="10.529832"><ele>75</ele></trkpt>
+   <trkpt lat="52.25104" lon="10.529825"><ele>75</ele></trkpt>
+   <trkpt lat="52.251035" lon="10.529801"><ele>75</ele></trkpt>
+   <trkpt lat="52.251024" lon="10.529739"><ele>75</ele></trkpt>
+   <trkpt lat="52.25099" lon="10.529602"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.250982" lon="10.529585"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.250949" lon="10.52952"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.250911" lon="10.529476"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.250866" lon="10.529444"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.250858" lon="10.529439"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.25081" lon="10.529423"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.250753" lon="10.529422"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.25072" lon="10.529422"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.250699" lon="10.529423"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.250696" lon="10.529423"><ele>74.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

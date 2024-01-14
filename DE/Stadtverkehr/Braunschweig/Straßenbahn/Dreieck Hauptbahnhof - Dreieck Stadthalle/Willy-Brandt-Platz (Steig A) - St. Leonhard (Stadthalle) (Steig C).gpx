@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 259 filtered ascend = 3 plain-ascend = 3 cost=520 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>Willy-Brandt-Platz (Steig A) - St. Leonhard (Stadthalle) (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/52.25871/10.54087/standard&amp;lonlats=10.540121,52.256505;10.540711,52.258802&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.256503" lon="10.540124"><ele>79.5</ele></trkpt>
+   <trkpt lat="52.256509" lon="10.540126"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.256536" lon="10.540133"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.256558" lon="10.540139"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.256595" lon="10.540149"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.256725" lon="10.540189"><ele>80.25</ele></trkpt>
+   <trkpt lat="52.256838" lon="10.540219"><ele>80.75</ele></trkpt>
+   <trkpt lat="52.256965" lon="10.540247"><ele>81.25</ele></trkpt>
+   <trkpt lat="52.257004" lon="10.540254"><ele>81.5</ele></trkpt>
+   <trkpt lat="52.257189" lon="10.540288"><ele>82.5</ele></trkpt>
+   <trkpt lat="52.258433" lon="10.540579"><ele>82</ele></trkpt>
+   <trkpt lat="52.258562" lon="10.540621"><ele>82</ele></trkpt>
+   <trkpt lat="52.2588" lon="10.540718"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
