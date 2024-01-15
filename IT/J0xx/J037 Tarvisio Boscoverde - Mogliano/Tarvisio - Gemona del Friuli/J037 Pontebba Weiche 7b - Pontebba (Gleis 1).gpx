@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 488 filtered ascend = 0 plain-ascend = -3 cost=489 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Pontebba Weiche 7b - Pontebba (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/46.50811/13.30958/standard&amp;lonlats=13.317889,46.50917;13.311601,46.508472&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.509168" lon="13.317888"><ele>568.25</ele></trkpt>
+   <trkpt lat="46.509056" lon="13.31709"><ele>568</ele></trkpt>
+   <trkpt lat="46.508877" lon="13.315717"><ele>568.25</ele></trkpt>
+   <trkpt lat="46.508789" lon="13.314908"><ele>568.5</ele></trkpt>
+   <trkpt lat="46.508606" lon="13.312973"><ele>568.75</ele></trkpt>
+   <trkpt lat="46.508492" lon="13.311812"><ele>567.5</ele></trkpt>
+   <trkpt lat="46.508472" lon="13.311599"><ele>564.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 259 filtered ascend = 6 plain-ascend = 4 cost=259 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>J037 Ugovizza Valbruna (Gleis 3) - Ugovizza Valbruna Weiche 6b</name>
+  <link href="https://bikerouter.de/#map=19/46.50400/13.49276/standard&amp;lonlats=13.494961,46.502803;13.492362,46.504278&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.502806" lon="13.494965"><ele>783.75</ele></trkpt>
+   <trkpt lat="46.503251" lon="13.494186"><ele>783</ele></trkpt>
+   <trkpt lat="46.503868" lon="13.493078"><ele>784.5</ele></trkpt>
+   <trkpt lat="46.504277" lon="13.492365"><ele>789.75</ele></trkpt>
+   <trkpt lat="46.504278" lon="13.492362"><ele>787.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
