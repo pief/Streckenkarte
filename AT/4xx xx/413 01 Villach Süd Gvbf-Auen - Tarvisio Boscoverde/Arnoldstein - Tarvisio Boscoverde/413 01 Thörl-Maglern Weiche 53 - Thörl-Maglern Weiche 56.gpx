@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 6 plain-ascend = 7 cost=300 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Thörl-Maglern Weiche 53 - Thörl-Maglern Weiche 56</name>
+  <link href="https://bikerouter.de/#map=19/46.53566/13.64144/standard&amp;lonlats=13.643177,46.537202;13.641203,46.535822;13.640691,46.535158&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.537202" lon="13.643175"><ele>648</ele></trkpt>
+   <trkpt lat="46.537201" lon="13.643173"><ele>648</ele></trkpt>
+   <trkpt lat="46.537032" lon="13.642829"><ele>649</ele></trkpt>
+   <trkpt lat="46.536857" lon="13.642506"><ele>648.75</ele></trkpt>
+   <trkpt lat="46.536573" lon="13.642066"><ele>647.5</ele></trkpt>
+   <trkpt lat="46.536255" lon="13.641651"><ele>647.25</ele></trkpt>
+   <trkpt lat="46.53607" lon="13.641446"><ele>649</ele></trkpt>
+   <trkpt lat="46.535823" lon="13.641198"><ele>650.75</ele></trkpt>
+   <trkpt lat="46.535818" lon="13.641192"><ele>650.75</ele></trkpt>
+   <trkpt lat="46.535677" lon="13.641067"><ele>651.75</ele></trkpt>
+   <trkpt lat="46.53533" lon="13.640805"><ele>653.25</ele></trkpt>
+   <trkpt lat="46.535162" lon="13.640695"><ele>654.25</ele></trkpt>
+   <trkpt lat="46.535156" lon="13.640692"><ele>654.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

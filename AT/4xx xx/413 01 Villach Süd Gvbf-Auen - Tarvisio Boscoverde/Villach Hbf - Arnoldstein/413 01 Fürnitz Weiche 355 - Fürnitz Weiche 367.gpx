@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226 filtered ascend = 0 plain-ascend = 0 cost=226 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Fürnitz Weiche 355 - Fürnitz Weiche 367</name>
+  <link href="https://bikerouter.de/#map=19/46.56272/13.80201/standard&amp;lonlats=13.801636,46.562895;13.803098,46.562943;13.804438,46.562982;13.804296,46.562979&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.562894" lon="13.801635"><ele>509.25</ele></trkpt>
+   <trkpt lat="46.562899" lon="13.801748"><ele>509.25</ele></trkpt>
+   <trkpt lat="46.562928" lon="13.802661"><ele>507.25</ele></trkpt>
+   <trkpt lat="46.56294" lon="13.803097"><ele>507.25</ele></trkpt>
+   <trkpt lat="46.562949" lon="13.803383"><ele>507.25</ele></trkpt>
+   <trkpt lat="46.562979" lon="13.804294"><ele>506.75</ele></trkpt>
+   <trkpt lat="46.562982" lon="13.804436"><ele>506.25</ele></trkpt>
+   <trkpt lat="46.562979" lon="13.804294"><ele>506.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

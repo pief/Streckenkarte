@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 79 filtered ascend = 0 plain-ascend = 0 cost=79 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Villach Warmbad Weiche 102 - Villach Warmbad Weiche 103</name>
+  <link href="https://bikerouter.de/#map=19/46.58454/13.82847/standard&amp;lonlats=13.827638,46.585267;13.827756,46.584572&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.585267" lon="13.827641"><ele>500.5</ele></trkpt>
+   <trkpt lat="46.585188" lon="13.827643"><ele>500.5</ele></trkpt>
+   <trkpt lat="46.584964" lon="13.827672"><ele>500</ele></trkpt>
+   <trkpt lat="46.584676" lon="13.827733"><ele>500.25</ele></trkpt>
+   <trkpt lat="46.584573" lon="13.827762"><ele>500.25</ele></trkpt>
+   <trkpt lat="46.584572" lon="13.827762"><ele>500.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

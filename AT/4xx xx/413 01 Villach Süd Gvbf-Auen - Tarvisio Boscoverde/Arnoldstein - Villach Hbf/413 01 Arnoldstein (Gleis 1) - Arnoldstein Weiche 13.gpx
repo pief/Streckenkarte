@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 494 filtered ascend = 0 plain-ascend = -1 cost=494 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Arnoldstein (Gleis 1) - Arnoldstein Weiche 13</name>
+  <link href="https://bikerouter.de/#map=19/46.55149/13.70768/standard&amp;lonlats=13.707585,46.551448;13.713882,46.551951&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.551445" lon="13.707584"><ele>568.5</ele></trkpt>
+   <trkpt lat="46.551368" lon="13.709879"><ele>568.25</ele></trkpt>
+   <trkpt lat="46.551364" lon="13.710198"><ele>568</ele></trkpt>
+   <trkpt lat="46.551368" lon="13.710536"><ele>567.75</ele></trkpt>
+   <trkpt lat="46.551379" lon="13.710855"><ele>567.5</ele></trkpt>
+   <trkpt lat="46.551402" lon="13.711205"><ele>567.75</ele></trkpt>
+   <trkpt lat="46.551436" lon="13.711534"><ele>568</ele></trkpt>
+   <trkpt lat="46.551477" lon="13.711858"><ele>567.5</ele></trkpt>
+   <trkpt lat="46.551585" lon="13.712478"><ele>566.25</ele></trkpt>
+   <trkpt lat="46.551674" lon="13.712889"><ele>566.25</ele></trkpt>
+   <trkpt lat="46.551682" lon="13.712922"><ele>566.25</ele></trkpt>
+   <trkpt lat="46.551877" lon="13.713604"><ele>566.25</ele></trkpt>
+   <trkpt lat="46.551951" lon="13.713883"><ele>566.25</ele></trkpt>
+   <trkpt lat="46.55195" lon="13.713881"><ele>566.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

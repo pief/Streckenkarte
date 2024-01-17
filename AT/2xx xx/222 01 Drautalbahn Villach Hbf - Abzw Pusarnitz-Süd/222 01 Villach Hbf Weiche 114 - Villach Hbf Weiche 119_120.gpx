@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 27 filtered ascend = 0 plain-ascend = 1 cost=27 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>222 01 Villach Hbf Weiche 114 - Villach Hbf Weiche 119/120</name>
+  <link href="https://bikerouter.de/#map=19/46.61830/13.84410/standard&amp;lonlats=13.845314,46.61841;13.844978,46.618349&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.618405" lon="13.845314"><ele>500.25</ele></trkpt>
+   <trkpt lat="46.618347" lon="13.844983"><ele>501</ele></trkpt>
+   <trkpt lat="46.618346" lon="13.844978"><ele>500.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
