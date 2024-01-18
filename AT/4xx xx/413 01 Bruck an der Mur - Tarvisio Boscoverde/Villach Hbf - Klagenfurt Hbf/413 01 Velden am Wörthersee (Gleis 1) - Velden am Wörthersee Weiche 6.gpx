@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 388 filtered ascend = 0 plain-ascend = -5 cost=389 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Velden am Wörthersee (Gleis 1) - Velden am Wörthersee Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/46.62128/14.05015/standard&amp;lonlats=14.044843,46.620051;14.049615,46.621212&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.620043" lon="14.044846"><ele>472.25</ele></trkpt>
+   <trkpt lat="46.620447" lon="14.046492"><ele>467.75</ele></trkpt>
+   <trkpt lat="46.620507" lon="14.046736"><ele>467.75</ele></trkpt>
+   <trkpt lat="46.620936" lon="14.048491"><ele>469</ele></trkpt>
+   <trkpt lat="46.621155" lon="14.049395"><ele>467</ele></trkpt>
+   <trkpt lat="46.621192" lon="14.04954"><ele>466.75</ele></trkpt>
+   <trkpt lat="46.621202" lon="14.049585"><ele>466.5</ele></trkpt>
+   <trkpt lat="46.621209" lon="14.049615"><ele>466.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

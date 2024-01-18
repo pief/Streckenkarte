@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 3 plain-ascend = 4 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Villach Hbf Weiche 52/53 - Villach Hbf Weiche 56</name>
+  <link href="https://bikerouter.de/#map=19/46.61902/13.85335/standard&amp;lonlats=13.852824,46.619077;13.852381,46.619031&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.619073" lon="13.852824"><ele>496.75</ele></trkpt>
+   <trkpt lat="46.619073" lon="13.852823"><ele>496.75</ele></trkpt>
+   <trkpt lat="46.619035" lon="13.852469"><ele>496.75</ele></trkpt>
+   <trkpt lat="46.619029" lon="13.852406"><ele>497</ele></trkpt>
+   <trkpt lat="46.619027" lon="13.852382"><ele>497.25</ele></trkpt>
+   <trkpt lat="46.619026" lon="13.85238"><ele>500.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
