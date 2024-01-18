@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 2 plain-ascend = 2 cost=183 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Villach Hbf Weiche 5 - Villach Hbf Weiche 9</name>
+  <link href="https://bikerouter.de/#map=19/46.61970/13.85966/standard&amp;lonlats=13.862514,46.620103;13.860173,46.619865&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.620101" lon="13.862513"><ele>494</ele></trkpt>
+   <trkpt lat="46.620101" lon="13.862512"><ele>494</ele></trkpt>
+   <trkpt lat="46.619934" lon="13.860872"><ele>494.75</ele></trkpt>
+   <trkpt lat="46.619911" lon="13.860636"><ele>495.25</ele></trkpt>
+   <trkpt lat="46.619864" lon="13.860177"><ele>495.75</ele></trkpt>
+   <trkpt lat="46.619863" lon="13.860172"><ele>496</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

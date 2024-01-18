@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 205 filtered ascend = 2 plain-ascend = 3 cost=205 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Velden am Wörthersee Weiche 1 - Velden am Wörthersee Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/46.62110/14.04934/standard&amp;lonlats=14.051605,46.621733;14.049094,46.621127&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.621731" lon="14.051605"><ele>466</ele></trkpt>
+   <trkpt lat="46.621731" lon="14.051601"><ele>466</ele></trkpt>
+   <trkpt lat="46.621622" lon="14.051115"><ele>465.25</ele></trkpt>
+   <trkpt lat="46.621232" lon="14.04952"><ele>466.75</ele></trkpt>
+   <trkpt lat="46.621195" lon="14.049372"><ele>467.25</ele></trkpt>
+   <trkpt lat="46.621129" lon="14.049101"><ele>468.25</ele></trkpt>
+   <trkpt lat="46.621127" lon="14.049092"><ele>468.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

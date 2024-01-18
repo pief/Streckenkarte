@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 316 filtered ascend = 11 plain-ascend = 11 cost=316 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Föderlach Weiche 3 - Föderlach (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/46.60200/13.95912/standard&amp;lonlats=13.963269,46.601608;13.959232,46.602123&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.601607" lon="13.963268"><ele>502</ele></trkpt>
+   <trkpt lat="46.601608" lon="13.963265"><ele>502</ele></trkpt>
+   <trkpt lat="46.601757" lon="13.96259"><ele>503.25</ele></trkpt>
+   <trkpt lat="46.601818" lon="13.962235"><ele>504.25</ele></trkpt>
+   <trkpt lat="46.601881" lon="13.961799"><ele>505.75</ele></trkpt>
+   <trkpt lat="46.601936" lon="13.961341"><ele>506.25</ele></trkpt>
+   <trkpt lat="46.602024" lon="13.960409"><ele>507.25</ele></trkpt>
+   <trkpt lat="46.602124" lon="13.959238"><ele>510.25</ele></trkpt>
+   <trkpt lat="46.602124" lon="13.959232"><ele>513</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

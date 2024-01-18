@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 203 filtered ascend = 1 plain-ascend = 1 cost=203 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Föderlach Weiche 53 - Föderlach Weiche 58</name>
+  <link href="https://bikerouter.de/#map=19/46.60577/13.94809/standard&amp;lonlats=13.950955,46.604713;13.948817,46.605768&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.604711" lon="13.950953"><ele>496.5</ele></trkpt>
+   <trkpt lat="46.604712" lon="13.950953"><ele>496.5</ele></trkpt>
+   <trkpt lat="46.604962" lon="13.950451"><ele>497.25</ele></trkpt>
+   <trkpt lat="46.605769" lon="13.94882"><ele>497.75</ele></trkpt>
+   <trkpt lat="46.605769" lon="13.948818"><ele>497.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

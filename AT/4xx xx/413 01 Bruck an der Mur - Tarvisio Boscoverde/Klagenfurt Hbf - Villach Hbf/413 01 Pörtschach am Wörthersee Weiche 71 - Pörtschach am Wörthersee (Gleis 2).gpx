@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 555 filtered ascend = 0 plain-ascend = -4 cost=555 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Pörtschach am Wörthersee Weiche 71 - Pörtschach am Wörthersee (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/46.63608/14.14646/standard&amp;lonlats=14.153448,46.635266;14.146354,46.636241&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.635268" lon="14.153448"><ele>452.75</ele></trkpt>
+   <trkpt lat="46.635269" lon="14.153448"><ele>452.75</ele></trkpt>
+   <trkpt lat="46.635543" lon="14.15134"><ele>452.75</ele></trkpt>
+   <trkpt lat="46.635822" lon="14.149236"><ele>449</ele></trkpt>
+   <trkpt lat="46.636128" lon="14.14718"><ele>447</ele></trkpt>
+   <trkpt lat="46.63624" lon="14.146353"><ele>447.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

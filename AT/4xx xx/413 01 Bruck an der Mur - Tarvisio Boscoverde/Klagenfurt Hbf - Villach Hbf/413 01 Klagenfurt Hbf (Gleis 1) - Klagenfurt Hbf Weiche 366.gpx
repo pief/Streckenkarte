@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 398 filtered ascend = 0 plain-ascend = 0 cost=398 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Klagenfurt Hbf (Gleis 1) - Klagenfurt Hbf Weiche 366</name>
+  <link href="https://bikerouter.de/#map=19/46.61551/14.30930/standard&amp;lonlats=14.313684,46.615794;14.308504,46.615564&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.615788" lon="14.313683"><ele>443</ele></trkpt>
+   <trkpt lat="46.615761" lon="14.313056"><ele>442.75</ele></trkpt>
+   <trkpt lat="46.615758" lon="14.313002"><ele>442.75</ele></trkpt>
+   <trkpt lat="46.615598" lon="14.309342"><ele>441.5</ele></trkpt>
+   <trkpt lat="46.61556" lon="14.30851"><ele>443</ele></trkpt>
+   <trkpt lat="46.615559" lon="14.308503"><ele>443.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

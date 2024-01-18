@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 464 filtered ascend = 2 plain-ascend = 1 cost=464 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.21">
+ <trk>
+  <name>413 01 Villach Hbf Weiche 9 - Villach Hbf Weiche 44</name>
+  <link href="https://bikerouter.de/#map=19/46.61909/13.85465/standard&amp;lonlats=13.860173,46.619865;13.854192,46.619257&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.619863" lon="13.860172"><ele>495.75</ele></trkpt>
+   <trkpt lat="46.619856" lon="13.860097"><ele>496</ele></trkpt>
+   <trkpt lat="46.619514" lon="13.856712"><ele>498.5</ele></trkpt>
+   <trkpt lat="46.619504" lon="13.856617"><ele>498.5</ele></trkpt>
+   <trkpt lat="46.619375" lon="13.85538"><ele>496.75</ele></trkpt>
+   <trkpt lat="46.619336" lon="13.854957"><ele>496</ele></trkpt>
+   <trkpt lat="46.619256" lon="13.854199"><ele>497</ele></trkpt>
+   <trkpt lat="46.619255" lon="13.854191"><ele>497</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
