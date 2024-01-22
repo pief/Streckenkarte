@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 173 filtered ascend = 4 plain-ascend = 2 cost=173 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>9463 Trossingen Bahnhof (Gleis 1) - Trossingen Bahnhof Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/48.08791/8.58512/standard&amp;lonlats=8.585278,48.087875;8.585282,48.086327&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.087875" lon="8.58527"><ele>648</ele></trkpt>
+   <trkpt lat="48.087336" lon="8.58527"><ele>650.25</ele></trkpt>
+   <trkpt lat="48.087039" lon="8.585272"><ele>651.25</ele></trkpt>
+   <trkpt lat="48.086632" lon="8.585273"><ele>652.5</ele></trkpt>
+   <trkpt lat="48.086328" lon="8.585288"><ele>650.75</ele></trkpt>
+   <trkpt lat="48.086327" lon="8.585288"><ele>649.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

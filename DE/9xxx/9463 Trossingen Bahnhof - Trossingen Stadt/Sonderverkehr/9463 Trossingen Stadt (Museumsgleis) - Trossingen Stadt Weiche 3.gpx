@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = -2 cost=86 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>9463 Trossingen Stadt (Museumsgleis) - Trossingen Stadt Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/48.07309/8.63193/standard&amp;lonlats=8.631672,48.072956;8.631657,48.073724&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.072954" lon="8.631676"><ele>715.5</ele></trkpt>
+   <trkpt lat="48.073103" lon="8.631709"><ele>715</ele></trkpt>
+   <trkpt lat="48.073249" lon="8.631728"><ele>714.25</ele></trkpt>
+   <trkpt lat="48.073337" lon="8.631728"><ele>714</ele></trkpt>
+   <trkpt lat="48.073475" lon="8.631714"><ele>713.5</ele></trkpt>
+   <trkpt lat="48.07362" lon="8.63169"><ele>713.25</ele></trkpt>
+   <trkpt lat="48.07372" lon="8.631663"><ele>713</ele></trkpt>
+   <trkpt lat="48.073724" lon="8.631661"><ele>712.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
