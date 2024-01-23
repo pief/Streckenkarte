@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 134 filtered ascend = 1 plain-ascend = 2 cost=134 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>222 01 Gummern Weiche 55 - Gummern Weiche 56</name>
+  <link href="https://bikerouter.de/#map=19/46.65176/13.77536/standard&amp;lonlats=13.774297,46.651482;13.775997,46.651767&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.651482" lon="13.774297"><ele>503.75</ele></trkpt>
+   <trkpt lat="46.651483" lon="13.774321"><ele>504</ele></trkpt>
+   <trkpt lat="46.651502" lon="13.77465"><ele>504.5</ele></trkpt>
+   <trkpt lat="46.651532" lon="13.774915"><ele>505.25</ele></trkpt>
+   <trkpt lat="46.65157" lon="13.775169"><ele>505.5</ele></trkpt>
+   <trkpt lat="46.651619" lon="13.775413"><ele>505.5</ele></trkpt>
+   <trkpt lat="46.651675" lon="13.775648"><ele>505.5</ele></trkpt>
+   <trkpt lat="46.651769" lon="13.775994"><ele>505.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1239 filtered ascend = 0 plain-ascend = 0 cost=1239 energy=0.0kwh time=1m 39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>222 01 Ferndorf (Gleis 2) - Markt Paternion (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/46.72531/13.64219/standard&amp;lonlats=13.628905,46.732642;13.641593,46.725735&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.732646" lon="13.628909"><ele>514.5</ele></trkpt>
+   <trkpt lat="46.732645" lon="13.628912"><ele>514.5</ele></trkpt>
+   <trkpt lat="46.731967" lon="13.630162"><ele>513.5</ele></trkpt>
+   <trkpt lat="46.730644" lon="13.632658"><ele>514.5</ele></trkpt>
+   <trkpt lat="46.729225" lon="13.635253"><ele>513.75</ele></trkpt>
+   <trkpt lat="46.727572" lon="13.638256"><ele>515</ele></trkpt>
+   <trkpt lat="46.727105" lon="13.639106"><ele>514</ele></trkpt>
+   <trkpt lat="46.725737" lon="13.641595"><ele>512.75</ele></trkpt>
+   <trkpt lat="46.725736" lon="13.641595"><ele>514.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

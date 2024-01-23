@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 1 plain-ascend = 1 cost=62 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>222 01 Spittal-Millstätter See Weiche 108 - Spittal-Millstätter See Weiche 112</name>
+  <link href="https://bikerouter.de/#map=19/46.79241/13.49088/standard&amp;lonlats=13.489758,46.792888;13.490374,46.792529&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.792888" lon="13.489758"><ele>545</ele></trkpt>
+   <trkpt lat="46.792788" lon="13.489912"><ele>545</ele></trkpt>
+   <trkpt lat="46.792686" lon="13.490075"><ele>545.5</ele></trkpt>
+   <trkpt lat="46.792582" lon="13.490267"><ele>546</ele></trkpt>
+   <trkpt lat="46.792553" lon="13.49032"><ele>546.25</ele></trkpt>
+   <trkpt lat="46.792527" lon="13.490372"><ele>546.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
