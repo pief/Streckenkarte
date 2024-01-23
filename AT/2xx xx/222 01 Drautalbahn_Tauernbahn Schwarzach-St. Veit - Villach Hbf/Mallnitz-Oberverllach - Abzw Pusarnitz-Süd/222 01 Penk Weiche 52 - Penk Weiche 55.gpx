@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 195 filtered ascend = 0 plain-ascend = -1 cost=195 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>222 01 Penk Weiche 52 - Penk Weiche 55</name>
+  <link href="https://bikerouter.de/#map=19/46.90666/13.26523/standard&amp;lonlats=13.262813,46.908181;13.264189,46.907443;13.264765,46.907069&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.908179" lon="13.262811"><ele>885.5</ele></trkpt>
+   <trkpt lat="46.908176" lon="13.26282"><ele>885.5</ele></trkpt>
+   <trkpt lat="46.908077" lon="13.263028"><ele>883.5</ele></trkpt>
+   <trkpt lat="46.907899" lon="13.263384"/>
+   <trkpt lat="46.907749" lon="13.263664"/>
+   <trkpt lat="46.907598" lon="13.263928"/>
+   <trkpt lat="46.907441" lon="13.264186"/>
+   <trkpt lat="46.907317" lon="13.264391"/>
+   <trkpt lat="46.907068" lon="13.264765"/>
+   <trkpt lat="46.907068" lon="13.264764"/>
+  </trkseg>
+ </trk>
+</gpx>
