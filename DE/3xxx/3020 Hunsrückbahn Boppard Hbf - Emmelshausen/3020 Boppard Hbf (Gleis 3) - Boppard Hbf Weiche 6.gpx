@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 480 filtered ascend = 5 plain-ascend = 5 cost=480 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>3020 Boppard Hbf (Gleis 3) - Boppard Hbf Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/50.23301/7.58028/standard&amp;lonlats=7.585991,50.231343;7.579928,50.233119&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.231343" lon="7.585991"><ele>80.25</ele></trkpt>
+   <trkpt lat="50.231353" lon="7.585939"><ele>80.5</ele></trkpt>
+   <trkpt lat="50.23167" lon="7.584201"><ele>81.75</ele></trkpt>
+   <trkpt lat="50.231784" lon="7.583664"><ele>81.75</ele></trkpt>
+   <trkpt lat="50.231928" lon="7.583073"><ele>83</ele></trkpt>
+   <trkpt lat="50.232085" lon="7.582528"><ele>84.75</ele></trkpt>
+   <trkpt lat="50.232452" lon="7.581402"><ele>84.75</ele></trkpt>
+   <trkpt lat="50.2326" lon="7.580988"><ele>85.25</ele></trkpt>
+   <trkpt lat="50.232764" lon="7.580595"><ele>85.25</ele></trkpt>
+   <trkpt lat="50.232813" lon="7.580489"><ele>85</ele></trkpt>
+   <trkpt lat="50.232958" lon="7.580214"><ele>84.75</ele></trkpt>
+   <trkpt lat="50.233115" lon="7.579933"><ele>84.5</ele></trkpt>
+   <trkpt lat="50.233118" lon="7.579927"><ele>85.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
