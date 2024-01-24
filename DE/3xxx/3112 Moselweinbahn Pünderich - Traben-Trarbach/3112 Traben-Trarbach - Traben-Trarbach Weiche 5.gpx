@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 344 filtered ascend = 1 plain-ascend = 1 cost=344 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>3112 Traben-Trarbach - Traben-Trarbach Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/49.95150/7.12190/standard&amp;lonlats=7.121166,49.95162;7.121488,49.951681;7.125304,49.95311&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.951611" lon="7.121168"><ele>113.5</ele></trkpt>
+   <trkpt lat="49.951643" lon="7.121337"><ele>113.75</ele></trkpt>
+   <trkpt lat="49.951677" lon="7.121488"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.95178" lon="7.121945"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.951921" lon="7.122477"><ele>114</ele></trkpt>
+   <trkpt lat="49.952022" lon="7.122792"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.95215" lon="7.123138"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.952588" lon="7.124255"><ele>115</ele></trkpt>
+   <trkpt lat="49.952683" lon="7.124472"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.952874" lon="7.124856"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.953025" lon="7.125151"><ele>114</ele></trkpt>
+   <trkpt lat="49.953109" lon="7.1253"><ele>114</ele></trkpt>
+   <trkpt lat="49.95311" lon="7.125301"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
