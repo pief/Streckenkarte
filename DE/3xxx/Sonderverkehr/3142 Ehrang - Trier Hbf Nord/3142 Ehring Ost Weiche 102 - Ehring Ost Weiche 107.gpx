@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 106 filtered ascend = 2 plain-ascend = 0 cost=106 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>3142 Ehring Ost Weiche 102 - Ehring Ost Weiche 107</name>
+  <link href="https://bikerouter.de/#map=19/49.78606/6.68404/standard&amp;lonlats=6.684127,49.786827;6.683963,49.785886&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.786826" lon="6.684126"><ele>131</ele></trkpt>
+   <trkpt lat="49.785889" lon="6.683965"><ele>133.75</ele></trkpt>
+   <trkpt lat="49.785884" lon="6.683964"><ele>130.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

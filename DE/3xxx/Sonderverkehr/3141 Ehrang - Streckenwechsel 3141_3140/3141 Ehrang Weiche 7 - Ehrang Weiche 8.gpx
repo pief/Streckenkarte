@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = -1 cost=59 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.2">
+ <trk>
+  <name>3141 Ehrang Weiche 7 - Ehrang Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/49.80461/6.68698/standard&amp;lonlats=6.686337,49.805091;6.686272,49.804575&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.805089" lon="6.686338"><ele>130.75</ele></trkpt>
+   <trkpt lat="49.804847" lon="6.686289"><ele>130.75</ele></trkpt>
+   <trkpt lat="49.804577" lon="6.686275"><ele>129.75</ele></trkpt>
+   <trkpt lat="49.804573" lon="6.686274"><ele>128.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
