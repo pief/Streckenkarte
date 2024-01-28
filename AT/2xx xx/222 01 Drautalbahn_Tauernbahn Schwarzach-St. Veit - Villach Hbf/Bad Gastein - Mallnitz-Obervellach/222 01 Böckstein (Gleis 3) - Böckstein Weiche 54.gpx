@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 424 filtered ascend = 13 plain-ascend = 14 cost=424 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>222 01 Böckstein (Gleis 3) - Böckstein Weiche 54</name>
+  <link href="https://bikerouter.de/#map=19/47.07774/13.13448/standard&amp;lonlats=13.130349,47.080567;13.134268,47.077887&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.080567" lon="13.130349"><ele>1172.25</ele></trkpt>
+   <trkpt lat="47.080424" lon="13.130578"><ele>1172</ele></trkpt>
+   <trkpt lat="47.080127" lon="13.131052"><ele>1170</ele></trkpt>
+   <trkpt lat="47.079743" lon="13.131708"><ele>1174.25</ele></trkpt>
+   <trkpt lat="47.079254" lon="13.132536"><ele>1175.5</ele></trkpt>
+   <trkpt lat="47.079138" lon="13.132725"><ele>1176.5</ele></trkpt>
+   <trkpt lat="47.078984" lon="13.132957"><ele>1179.75</ele></trkpt>
+   <trkpt lat="47.078793" lon="13.133226"><ele>1180.5</ele></trkpt>
+   <trkpt lat="47.078614" lon="13.133462"><ele>1180</ele></trkpt>
+   <trkpt lat="47.078566" lon="13.133524"><ele>1180</ele></trkpt>
+   <trkpt lat="47.078297" lon="13.133844"><ele>1179.75</ele></trkpt>
+   <trkpt lat="47.078057" lon="13.1341"><ele>1183.5</ele></trkpt>
+   <trkpt lat="47.07803" lon="13.13413"><ele>1183.75</ele></trkpt>
+   <trkpt lat="47.077888" lon="13.134271"><ele>1186</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

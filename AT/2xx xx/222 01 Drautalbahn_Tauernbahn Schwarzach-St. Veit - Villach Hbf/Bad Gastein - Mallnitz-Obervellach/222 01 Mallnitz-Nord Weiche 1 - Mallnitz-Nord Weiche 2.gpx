@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 4 plain-ascend = 1 cost=135 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>222 01 Mallnitz-Nord Weiche 1 - Mallnitz-Nord Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/46.98795/13.17407/standard&amp;lonlats=13.173465,46.989256;13.173946,46.988113&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.989256" lon="13.173465"><ele>1191</ele></trkpt>
+   <trkpt lat="46.989256" lon="13.173466"><ele>1191.25</ele></trkpt>
+   <trkpt lat="46.989026" lon="13.173602"><ele>1192.75</ele></trkpt>
+   <trkpt lat="46.988931" lon="13.17365"><ele>1193.5</ele></trkpt>
+   <trkpt lat="46.988756" lon="13.173734"><ele>1194.5</ele></trkpt>
+   <trkpt lat="46.988584" lon="13.173805"><ele>1195</ele></trkpt>
+   <trkpt lat="46.988306" lon="13.173898"><ele>1195</ele></trkpt>
+   <trkpt lat="46.988169" lon="13.173934"><ele>1194.25</ele></trkpt>
+   <trkpt lat="46.988155" lon="13.173938"><ele>1194.25</ele></trkpt>
+   <trkpt lat="46.988114" lon="13.173948"><ele>1193.75</ele></trkpt>
+   <trkpt lat="46.988113" lon="13.173948"><ele>1192.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

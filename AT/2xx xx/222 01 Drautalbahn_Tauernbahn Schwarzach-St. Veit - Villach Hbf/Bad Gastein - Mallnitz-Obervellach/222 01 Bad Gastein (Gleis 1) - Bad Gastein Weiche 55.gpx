@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 366 filtered ascend = 3 plain-ascend = 0 cost=366 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>222 01 Bad Gastein (Gleis 1) - Bad Gastein Weiche 55</name>
+  <link href="https://bikerouter.de/#map=19/47.10882/13.13440/standard&amp;lonlats=13.132052,47.11178;13.133675,47.108733&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.11178" lon="13.132052"><ele>1083.5</ele></trkpt>
+   <trkpt lat="47.111759" lon="13.132056"><ele>1083.75</ele></trkpt>
+   <trkpt lat="47.110821" lon="13.132221"><ele>1086.5</ele></trkpt>
+   <trkpt lat="47.110557" lon="13.132293"><ele>1085.25</ele></trkpt>
+   <trkpt lat="47.110427" lon="13.132349"><ele>1084.5</ele></trkpt>
+   <trkpt lat="47.110298" lon="13.132422"><ele>1084</ele></trkpt>
+   <trkpt lat="47.110068" lon="13.132575"><ele>1083.25</ele></trkpt>
+   <trkpt lat="47.109887" lon="13.132731"><ele>1083</ele></trkpt>
+   <trkpt lat="47.10969" lon="13.132916"><ele>1083.25</ele></trkpt>
+   <trkpt lat="47.10946" lon="13.133112"><ele>1083.25</ele></trkpt>
+   <trkpt lat="47.108882" lon="13.133553"><ele>1082.75</ele></trkpt>
+   <trkpt lat="47.108762" lon="13.133652"><ele>1082.75</ele></trkpt>
+   <trkpt lat="47.108734" lon="13.133677"/>
+   <trkpt lat="47.108733" lon="13.133677"/>
+  </trkseg>
+ </trk>
+</gpx>
