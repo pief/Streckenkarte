@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 222 filtered ascend = 2 plain-ascend = 2 cost=222 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>222 01 Dorfgastein Weiche 5 - Dorfgastein (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.23843/13.10322/standard&amp;lonlats=13.102342,47.240419;13.102979,47.238476&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.240419" lon="13.102346"><ele>820</ele></trkpt>
+   <trkpt lat="47.240415" lon="13.102348"><ele>820</ele></trkpt>
+   <trkpt lat="47.24017" lon="13.102439"><ele>819.25</ele></trkpt>
+   <trkpt lat="47.239606" lon="13.102591"><ele>818</ele></trkpt>
+   <trkpt lat="47.238485" lon="13.102973"><ele>821</ele></trkpt>
+   <trkpt lat="47.238475" lon="13.102976"><ele>822</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 204 filtered ascend = 0 plain-ascend = -1 cost=204 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>222 01 Dorfgastein Weiche 1 - Dorfgastein Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/47.24063/13.10285/standard&amp;lonlats=13.10136,47.242262;13.102071,47.240995;13.102288,47.240554&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.242262" lon="13.101361"><ele>822.25</ele></trkpt>
+   <trkpt lat="47.24226" lon="13.101363"><ele>822.25</ele></trkpt>
+   <trkpt lat="47.24189" lon="13.101598"><ele>819.75</ele></trkpt>
+   <trkpt lat="47.241383" lon="13.101889"><ele>820</ele></trkpt>
+   <trkpt lat="47.241103" lon="13.102034"><ele>820.5</ele></trkpt>
+   <trkpt lat="47.240997" lon="13.102083"><ele>820.25</ele></trkpt>
+   <trkpt lat="47.240557" lon="13.102288"><ele>820.25</ele></trkpt>
+   <trkpt lat="47.240554" lon="13.102289"><ele>820</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
