@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=50 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>101 03 Schwarzach-St. Veit Weiche 24 - Schwarzach-St. Veit Weiche 27</name>
+  <link href="https://bikerouter.de/#map=19/47.31895/13.15982/standard&amp;lonlats=13.160661,47.31919;13.160087,47.31899&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.31919" lon="13.160661"><ele>587.25</ele></trkpt>
+   <trkpt lat="47.319119" lon="13.160476"><ele>587.25</ele></trkpt>
+   <trkpt lat="47.318989" lon="13.160086"><ele>587</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

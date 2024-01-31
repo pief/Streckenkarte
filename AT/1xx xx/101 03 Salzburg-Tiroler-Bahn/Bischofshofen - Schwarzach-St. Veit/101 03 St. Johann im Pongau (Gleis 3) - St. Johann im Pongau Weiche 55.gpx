@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 413 filtered ascend = 3 plain-ascend = 3 cost=413 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>101 03 St. Johann im Pongau (Gleis 3) - St. Johann im Pongau Weiche 55</name>
+  <link href="https://bikerouter.de/#map=19/47.34461/13.19485/standard&amp;lonlats=13.194805,47.348412;13.194529,47.344705&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.34841" lon="13.194811"><ele>565.25</ele></trkpt>
+   <trkpt lat="47.348395" lon="13.19481"><ele>565.5</ele></trkpt>
+   <trkpt lat="47.347799" lon="13.194758"><ele>567.75</ele></trkpt>
+   <trkpt lat="47.346071" lon="13.194634"><ele>566.75</ele></trkpt>
+   <trkpt lat="47.345281" lon="13.194576"><ele>568</ele></trkpt>
+   <trkpt lat="47.344706" lon="13.194532"><ele>568.25</ele></trkpt>
+   <trkpt lat="47.344703" lon="13.194531"><ele>568.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

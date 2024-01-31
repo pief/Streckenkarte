@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 0 plain-ascend = -1 cost=97 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>102 01 Bischofshofen Weiche 103 - Bischofshofen Weiche 104</name>
+  <link href="https://bikerouter.de/#map=19/47.41404/13.22027/standard&amp;lonlats=13.220093,47.415059;13.21979,47.414232&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.415057" lon="13.220093"><ele>543.25</ele></trkpt>
+   <trkpt lat="47.414876" lon="13.220036"><ele>543.25</ele></trkpt>
+   <trkpt lat="47.414519" lon="13.219888"><ele>542.75</ele></trkpt>
+   <trkpt lat="47.414233" lon="13.219792"><ele>542.25</ele></trkpt>
+   <trkpt lat="47.41423" lon="13.219791"><ele>541.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
