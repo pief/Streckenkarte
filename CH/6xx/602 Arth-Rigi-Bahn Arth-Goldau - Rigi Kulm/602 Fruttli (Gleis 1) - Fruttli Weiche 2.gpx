@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 117 filtered ascend = 16 plain-ascend = 17 cost=117 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>602 Fruttli (Gleis 1) - Fruttli Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/47.03810/8.50350/standard&amp;lonlats=8.505053,47.038404;8.50363,47.038117&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.0384" lon="8.505052"><ele>1160.25</ele></trkpt>
+   <trkpt lat="47.038409" lon="8.504848"><ele>1161.5</ele></trkpt>
+   <trkpt lat="47.038402" lon="8.504641"><ele>1161.75</ele></trkpt>
+   <trkpt lat="47.038387" lon="8.504494"><ele>1162.25</ele></trkpt>
+   <trkpt lat="47.038366" lon="8.504358"><ele>1162.5</ele></trkpt>
+   <trkpt lat="47.038336" lon="8.504205"><ele>1162.75</ele></trkpt>
+   <trkpt lat="47.038304" lon="8.504081"><ele>1164.5</ele></trkpt>
+   <trkpt lat="47.038235" lon="8.503877"><ele>1167.75</ele></trkpt>
+   <trkpt lat="47.038115" lon="8.503632"><ele>1173.75</ele></trkpt>
+   <trkpt lat="47.038114" lon="8.50363"><ele>1177</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

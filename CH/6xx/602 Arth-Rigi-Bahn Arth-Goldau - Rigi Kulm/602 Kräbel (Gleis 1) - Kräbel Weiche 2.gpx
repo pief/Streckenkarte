@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 10 plain-ascend = 11 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>602 Kräbel (Gleis 1) - Kräbel Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/47.03997/8.52969/standard&amp;lonlats=8.530601,47.040168;8.529811,47.039956&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.040169" lon="8.530599"><ele>757.75</ele></trkpt>
+   <trkpt lat="47.040149" lon="8.530525"><ele>758.75</ele></trkpt>
+   <trkpt lat="47.04008" lon="8.530269"><ele>762</ele></trkpt>
+   <trkpt lat="47.039959" lon="8.529815"><ele>766.5</ele></trkpt>
+   <trkpt lat="47.039957" lon="8.529809"><ele>768.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

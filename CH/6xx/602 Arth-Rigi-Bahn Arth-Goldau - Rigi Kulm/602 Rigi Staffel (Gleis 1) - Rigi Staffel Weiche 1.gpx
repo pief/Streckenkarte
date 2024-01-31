@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = -15 cost=90 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>602 Rigi Staffel (Gleis 1) - Rigi Staffel Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/47.05357/8.47459/standard&amp;lonlats=8.474059,47.0535;8.473485,47.052797&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.053499" lon="8.474059"><ele>1595.5</ele></trkpt>
+   <trkpt lat="47.053368" lon="8.473922"><ele>1593.25</ele></trkpt>
+   <trkpt lat="47.053245" lon="8.47381"><ele>1590.75</ele></trkpt>
+   <trkpt lat="47.052921" lon="8.473569"><ele>1585</ele></trkpt>
+   <trkpt lat="47.052798" lon="8.473488"><ele>1583.5</ele></trkpt>
+   <trkpt lat="47.052796" lon="8.473486"><ele>1580</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

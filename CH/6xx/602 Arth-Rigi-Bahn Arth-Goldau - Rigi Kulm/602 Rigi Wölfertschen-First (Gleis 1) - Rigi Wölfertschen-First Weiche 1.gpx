@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = -55 cost=72 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>602 Rigi Wölfertschen-First (Gleis 1) - Rigi Wölfertschen-First Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/47.04708/8.47672/standard&amp;lonlats=8.476459,47.047274;8.477186,47.046877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.047273" lon="8.476458"><ele>1469.5</ele></trkpt>
+   <trkpt lat="47.047153" lon="8.476733"><ele>1464.75</ele></trkpt>
+   <trkpt lat="47.047052" lon="8.476912"><ele>1463.25</ele></trkpt>
+   <trkpt lat="47.046881" lon="8.477181"><ele>1462.25</ele></trkpt>
+   <trkpt lat="47.046877" lon="8.477186"><ele>1413.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
