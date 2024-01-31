@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 764 filtered ascend = 182 plain-ascend = 183 cost=764 energy=0.1kwh time=1m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>603 Freibergen (Gleis 1) - Romiti Felsentor (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/47.03012/8.47976/standard&amp;lonlats=8.479524,47.030213;8.475823,47.036484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.030214" lon="8.479529"><ele>1023.75</ele></trkpt>
+   <trkpt lat="47.030404" lon="8.479376"><ele>1028.5</ele></trkpt>
+   <trkpt lat="47.030538" lon="8.479293"><ele>1031.75</ele></trkpt>
+   <trkpt lat="47.030606" lon="8.47926"><ele>1033.5</ele></trkpt>
+   <trkpt lat="47.030749" lon="8.479214"><ele>1037.75</ele></trkpt>
+   <trkpt lat="47.031252" lon="8.479096"><ele>1053.75</ele></trkpt>
+   <trkpt lat="47.031608" lon="8.479008"><ele>1064.75</ele></trkpt>
+   <trkpt lat="47.032148" lon="8.478841"><ele>1081.5</ele></trkpt>
+   <trkpt lat="47.033825" lon="8.478255"><ele>1129.25</ele></trkpt>
+   <trkpt lat="47.034004" lon="8.478169"><ele>1133.25</ele></trkpt>
+   <trkpt lat="47.034462" lon="8.477926"><ele>1146.25</ele></trkpt>
+   <trkpt lat="47.034612" lon="8.477826"><ele>1150.5</ele></trkpt>
+   <trkpt lat="47.03478" lon="8.477672"><ele>1155</ele></trkpt>
+   <trkpt lat="47.036453" lon="8.475859"><ele>1205.5</ele></trkpt>
+   <trkpt lat="47.036485" lon="8.475825"><ele>1206.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
