@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 592 filtered ascend = 10 plain-ascend = 10 cost=592 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>06b Dudelange-Centre - Dudelange-Usines Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/49.47928/6.08323/standard&amp;lonlats=6.082258,49.479177;6.080133,49.474054&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.479175" lon="6.082269"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.479126" lon="6.082264"><ele>289.5</ele></trkpt>
+   <trkpt lat="49.478691" lon="6.082196"><ele>289.5</ele></trkpt>
+   <trkpt lat="49.478424" lon="6.082126"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.478382" lon="6.082114"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.477925" lon="6.081925"><ele>290.5</ele></trkpt>
+   <trkpt lat="49.474052" lon="6.080133"><ele>299.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

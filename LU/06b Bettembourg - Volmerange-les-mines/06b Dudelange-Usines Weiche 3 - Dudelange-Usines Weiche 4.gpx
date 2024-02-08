@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 2 cost=43 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>06b Dudelange-Usines Weiche 3 - Dudelange-Usines Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/49.47091/6.07987/standard&amp;lonlats=6.078835,49.470657;6.078814,49.470284&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.470657" lon="6.078838"><ele>298.25</ele></trkpt>
+   <trkpt lat="49.470656" lon="6.078839"><ele>298.5</ele></trkpt>
+   <trkpt lat="49.470471" lon="6.078834"><ele>299</ele></trkpt>
+   <trkpt lat="49.470283" lon="6.078813"><ele>300</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

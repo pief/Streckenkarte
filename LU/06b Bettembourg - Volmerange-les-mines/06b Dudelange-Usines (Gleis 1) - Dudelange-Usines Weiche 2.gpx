@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 0 plain-ascend = 0 cost=132 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>06b Dudelange-Usines (Gleis 1) - Dudelange-Usines Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/49.47295/6.08040/standard&amp;lonlats=6.079436,49.472684;6.078975,49.471549&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.472683" lon="6.079435"><ele>295.75</ele></trkpt>
+   <trkpt lat="49.47267" lon="6.079429"><ele>295.75</ele></trkpt>
+   <trkpt lat="49.472036" lon="6.079139"><ele>294.5</ele></trkpt>
+   <trkpt lat="49.471551" lon="6.078976"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.471548" lon="6.078974"><ele>295.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

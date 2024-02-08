@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 475 filtered ascend = 0 plain-ascend = -1 cost=475 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>06b Dudelange-Centre - Dudelange-Ville</name>
+  <link href="https://bikerouter.de/#map=19/49.48352/6.08435/standard&amp;lonlats=6.082258,49.479177;6.08303,49.483407&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.479175" lon="6.082269"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.480125" lon="6.082378"><ele>288</ele></trkpt>
+   <trkpt lat="49.481672" lon="6.082553"><ele>287</ele></trkpt>
+   <trkpt lat="49.481998" lon="6.082599"><ele>287.25</ele></trkpt>
+   <trkpt lat="49.482211" lon="6.082638"><ele>287.5</ele></trkpt>
+   <trkpt lat="49.482451" lon="6.082696"><ele>287.5</ele></trkpt>
+   <trkpt lat="49.482853" lon="6.082815"><ele>287.5</ele></trkpt>
+   <trkpt lat="49.4829" lon="6.082832"><ele>287.5</ele></trkpt>
+   <trkpt lat="49.483213" lon="6.082946"><ele>287.25</ele></trkpt>
+   <trkpt lat="49.483406" lon="6.083027"><ele>287</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

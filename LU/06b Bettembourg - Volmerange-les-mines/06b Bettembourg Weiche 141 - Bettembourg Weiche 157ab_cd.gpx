@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 0 plain-ascend = 0 cost=211 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>06b Bettembourg Weiche 141 - Bettembourg Weiche 157ab/cd</name>
+  <link href="https://bikerouter.de/#map=18/49.50938/6.10147/standard&amp;lonlats=6.098568,49.507217;6.099038,49.50908&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.507215" lon="6.098568"><ele>275.75</ele></trkpt>
+   <trkpt lat="49.507218" lon="6.098569"><ele>275.75</ele></trkpt>
+   <trkpt lat="49.507582" lon="6.098681"><ele>276</ele></trkpt>
+   <trkpt lat="49.509077" lon="6.09904"><ele>275.75</ele></trkpt>
+   <trkpt lat="49.509078" lon="6.09904"><ele>275.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

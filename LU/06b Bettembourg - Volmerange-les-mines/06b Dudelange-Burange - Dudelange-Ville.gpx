@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1029 filtered ascend = 0 plain-ascend = 1 cost=1029 energy=0.0kwh time=1m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>06b Dudelange-Burange - Dudelange-Ville</name>
+  <link href="https://bikerouter.de/#map=19/49.49213/6.08705/standard&amp;lonlats=6.086241,49.492378;6.08303,49.483407&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.492376" lon="6.086243"><ele>286.75</ele></trkpt>
+   <trkpt lat="49.492203" lon="6.08619"><ele>287</ele></trkpt>
+   <trkpt lat="49.492062" lon="6.086158"><ele>287</ele></trkpt>
+   <trkpt lat="49.49176" lon="6.086109"><ele>287</ele></trkpt>
+   <trkpt lat="49.490795" lon="6.086015"><ele>286</ele></trkpt>
+   <trkpt lat="49.490469" lon="6.085975"><ele>285</ele></trkpt>
+   <trkpt lat="49.490148" lon="6.08592"><ele>284</ele></trkpt>
+   <trkpt lat="49.489866" lon="6.085847"><ele>283.5</ele></trkpt>
+   <trkpt lat="49.489589" lon="6.08575"><ele>283</ele></trkpt>
+   <trkpt lat="49.489041" lon="6.085516"><ele>282.75</ele></trkpt>
+   <trkpt lat="49.488866" lon="6.08544"><ele>283.25</ele></trkpt>
+   <trkpt lat="49.48343" lon="6.083037"><ele>287</ele></trkpt>
+   <trkpt lat="49.483406" lon="6.083027"><ele>287.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
