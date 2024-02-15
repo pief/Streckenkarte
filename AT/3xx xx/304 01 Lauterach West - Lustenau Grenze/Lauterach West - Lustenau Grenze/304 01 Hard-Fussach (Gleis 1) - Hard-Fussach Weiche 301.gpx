@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 194 filtered ascend = 1 plain-ascend = 1 cost=194 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>304 01 Hard-Fussach (Gleis 1) - Hard-Fussach Weiche 301</name>
+  <link href="https://bikerouter.de/#map=19/47.47974/9.68830/standard&amp;lonlats=9.689225,47.479887;9.686657,47.479793&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.479886" lon="9.689224"><ele>396.75</ele></trkpt>
+   <trkpt lat="47.479886" lon="9.689217"><ele>396.75</ele></trkpt>
+   <trkpt lat="47.479873" lon="9.688846"><ele>397.25</ele></trkpt>
+   <trkpt lat="47.479826" lon="9.68749"><ele>397.75</ele></trkpt>
+   <trkpt lat="47.479794" lon="9.686664"><ele>397.25</ele></trkpt>
+   <trkpt lat="47.479793" lon="9.686655"><ele>397.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

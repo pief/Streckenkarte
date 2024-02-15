@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = -1 cost=240 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>304 01 Lustenau Weiche 1 - Lustenau (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.45066/9.66795/standard&amp;lonlats=9.666373,47.448568;9.667368,47.450616&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.448566" lon="9.666373"><ele>401</ele></trkpt>
+   <trkpt lat="47.44857" lon="9.666375"><ele>401</ele></trkpt>
+   <trkpt lat="47.448993" lon="9.666584"><ele>401</ele></trkpt>
+   <trkpt lat="47.449031" lon="9.666603"><ele>401</ele></trkpt>
+   <trkpt lat="47.450047" lon="9.667091"><ele>400.5</ele></trkpt>
+   <trkpt lat="47.450594" lon="9.667357"><ele>400.25</ele></trkpt>
+   <trkpt lat="47.450615" lon="9.667367"><ele>399.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

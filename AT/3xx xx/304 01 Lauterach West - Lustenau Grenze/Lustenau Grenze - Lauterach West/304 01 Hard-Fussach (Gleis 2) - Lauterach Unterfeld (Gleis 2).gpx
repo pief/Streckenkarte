@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2001 filtered ascend = 7 plain-ascend = 7 cost=2001 energy=0.0kwh time=2m 40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>304 01 Hard-Fussach (Gleis 2) - Lauterach Unterfeld (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.48071/9.71579/standard&amp;lonlats=9.689223,47.47985;9.71572,47.480797&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.479846" lon="9.689222"><ele>396.75</ele></trkpt>
+   <trkpt lat="47.47998" lon="9.692998"><ele>399</ele></trkpt>
+   <trkpt lat="47.479988" lon="9.693157"><ele>399</ele></trkpt>
+   <trkpt lat="47.480093" lon="9.695013"><ele>396.75</ele></trkpt>
+   <trkpt lat="47.480128" lon="9.69579"><ele>397</ele></trkpt>
+   <trkpt lat="47.480138" lon="9.696072"><ele>397.25</ele></trkpt>
+   <trkpt lat="47.480416" lon="9.703952"><ele>398.25</ele></trkpt>
+   <trkpt lat="47.480492" lon="9.706106"><ele>399.75</ele></trkpt>
+   <trkpt lat="47.480593" lon="9.709028"><ele>399.25</ele></trkpt>
+   <trkpt lat="47.480606" lon="9.709663"><ele>400.75</ele></trkpt>
+   <trkpt lat="47.480622" lon="9.711204"><ele>402.25</ele></trkpt>
+   <trkpt lat="47.480636" lon="9.711832"><ele>402.25</ele></trkpt>
+   <trkpt lat="47.480655" lon="9.712426"><ele>400.5</ele></trkpt>
+   <trkpt lat="47.48079" lon="9.715719"><ele>403.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
