@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 473 filtered ascend = 1 plain-ascend = 1 cost=473 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>883 St. Margrethen SG (Gleis 3) - St. Margrethen SG Weiche 21</name>
+  <link href="https://bikerouter.de/#map=19/47.45326/9.63831/standard&amp;lonlats=9.638344,47.453423;9.644322,47.452197&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.453424" lon="9.638344"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.453424" lon="9.638349"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.452781" lon="9.64158"><ele>400.75</ele></trkpt>
+   <trkpt lat="47.452453" lon="9.643041"><ele>399.5</ele></trkpt>
+   <trkpt lat="47.452197" lon="9.64432"><ele>401.75</ele></trkpt>
+   <trkpt lat="47.452196" lon="9.644321"><ele>402.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
