@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 426 filtered ascend = 0 plain-ascend = 0 cost=426 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>06c Kayl - Tétange Weiche 234</name>
+  <link href="https://bikerouter.de/#map=18/49.48149/6.03792/standard&amp;lonlats=6.035295,49.485503;6.035488,49.481681&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.485503" lon="6.035295"><ele>291</ele></trkpt>
+   <trkpt lat="49.482089" lon="6.035467"><ele>291.75</ele></trkpt>
+   <trkpt lat="49.481682" lon="6.03549"><ele>291</ele></trkpt>
+   <trkpt lat="49.481679" lon="6.035489"><ele>289.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
