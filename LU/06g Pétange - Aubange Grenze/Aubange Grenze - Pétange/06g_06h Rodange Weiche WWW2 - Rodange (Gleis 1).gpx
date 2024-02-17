@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 543 filtered ascend = 0 plain-ascend = -1 cost=543 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>06g/06h Rodange Weiche WWW2 - Rodange (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.55163/5.84539/standard&amp;lonlats=5.837908,49.550644;5.845311,49.551308&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.550643" lon="5.837907"><ele>275</ele></trkpt>
+   <trkpt lat="49.550644" lon="5.837912"><ele>275.25</ele></trkpt>
+   <trkpt lat="49.550789" lon="5.841063"><ele>274</ele></trkpt>
+   <trkpt lat="49.55083" lon="5.841691"><ele>273.75</ele></trkpt>
+   <trkpt lat="49.550896" lon="5.842323"><ele>271.5</ele></trkpt>
+   <trkpt lat="49.551054" lon="5.843474"><ele>272.25</ele></trkpt>
+   <trkpt lat="49.551307" lon="5.84531"><ele>273.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

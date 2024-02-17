@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 3 plain-ascend = 2 cost=380 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>06g/06h Pétange Weiche 208 - Pétange (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/49.55444/5.87983/standard&amp;lonlats=5.874188,49.553378;5.87929,49.554154&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.553375" lon="5.874187"><ele>287.75</ele></trkpt>
+   <trkpt lat="49.553376" lon="5.874193"><ele>287.75</ele></trkpt>
+   <trkpt lat="49.553458" lon="5.874757"><ele>288</ele></trkpt>
+   <trkpt lat="49.553476" lon="5.874875"><ele>288</ele></trkpt>
+   <trkpt lat="49.553765" lon="5.876845"><ele>291.5</ele></trkpt>
+   <trkpt lat="49.553975" lon="5.878135"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.554149" lon="5.87929"><ele>290</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

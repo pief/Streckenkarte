@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 607 filtered ascend = 12 plain-ascend = 13 cost=607 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>06g/06h Lamadelaine (Gleis 2) - Pétange Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/49.55299/5.86950/standard&amp;lonlats=5.860868,49.553376;5.869212,49.553042&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.553371" lon="5.860867"><ele>276.75</ele></trkpt>
+   <trkpt lat="49.553371" lon="5.860871"><ele>276.75</ele></trkpt>
+   <trkpt lat="49.553327" lon="5.861961"><ele>277.25</ele></trkpt>
+   <trkpt lat="49.55331" lon="5.8624"><ele>278</ele></trkpt>
+   <trkpt lat="49.553041" lon="5.86921"><ele>285.25</ele></trkpt>
+   <trkpt lat="49.55304" lon="5.869211"><ele>289.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
