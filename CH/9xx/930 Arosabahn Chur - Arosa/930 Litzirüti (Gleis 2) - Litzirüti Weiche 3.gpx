@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 153 filtered ascend = 6 plain-ascend = 7 cost=153 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>930 Litzirüti (Gleis 2) - Litzirüti Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.79763/9.70343/standard&amp;lonlats=9.703119,46.797992;9.701566,46.797307&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.797988" lon="9.703118"><ele>1452.5</ele></trkpt>
+   <trkpt lat="46.797979" lon="9.703017"><ele>1453</ele></trkpt>
+   <trkpt lat="46.79794" lon="9.702608"><ele>1454.5</ele></trkpt>
+   <trkpt lat="46.79792" lon="9.702454"><ele>1455.25</ele></trkpt>
+   <trkpt lat="46.79787" lon="9.702246"><ele>1456.75</ele></trkpt>
+   <trkpt lat="46.797804" lon="9.702085"><ele>1457.5</ele></trkpt>
+   <trkpt lat="46.797724" lon="9.701949"><ele>1457.75</ele></trkpt>
+   <trkpt lat="46.797627" lon="9.701832"><ele>1457.75</ele></trkpt>
+   <trkpt lat="46.797553" lon="9.701759"><ele>1457.75</ele></trkpt>
+   <trkpt lat="46.797307" lon="9.701573"><ele>1458.75</ele></trkpt>
+   <trkpt lat="46.797304" lon="9.701571"><ele>1459.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

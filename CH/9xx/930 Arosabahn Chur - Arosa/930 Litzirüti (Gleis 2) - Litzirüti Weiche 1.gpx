@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = -1 cost=62 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>930 Litzirüti (Gleis 2) - Litzirüti Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.79763/9.70343/standard&amp;lonlats=9.703118,46.797988;9.703902,46.798067&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.797988" lon="9.703116"><ele>1452.5</ele></trkpt>
+   <trkpt lat="46.798011" lon="9.703347"><ele>1451.5</ele></trkpt>
+   <trkpt lat="46.798066" lon="9.703901"><ele>1450.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

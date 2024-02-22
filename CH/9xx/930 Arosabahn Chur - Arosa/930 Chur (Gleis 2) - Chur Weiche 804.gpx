@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 7 plain-ascend = 8 cost=145 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>930 Chur (Gleis 2) - Chur Weiche 804</name>
+  <link href="https://bikerouter.de/#map=19/46.85336/9.52988/standard&amp;lonlats=9.529752,46.853463;9.528778,46.852419&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.853459" lon="9.529755"><ele>585.5</ele></trkpt>
+   <trkpt lat="46.853454" lon="9.529744"><ele>585.75</ele></trkpt>
+   <trkpt lat="46.853337" lon="9.529528"><ele>585.25</ele></trkpt>
+   <trkpt lat="46.853184" lon="9.529248"><ele>585.25</ele></trkpt>
+   <trkpt lat="46.853116" lon="9.529136"><ele>585.5</ele></trkpt>
+   <trkpt lat="46.853043" lon="9.529039"><ele>586</ele></trkpt>
+   <trkpt lat="46.852921" lon="9.528924"><ele>586.75</ele></trkpt>
+   <trkpt lat="46.852842" lon="9.528874"><ele>587.25</ele></trkpt>
+   <trkpt lat="46.852728" lon="9.528823"><ele>588</ele></trkpt>
+   <trkpt lat="46.85258" lon="9.528798"><ele>589</ele></trkpt>
+   <trkpt lat="46.852559" lon="9.528794"><ele>589</ele></trkpt>
+   <trkpt lat="46.852422" lon="9.528779"><ele>589.75</ele></trkpt>
+   <trkpt lat="46.852417" lon="9.528778"><ele>593.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

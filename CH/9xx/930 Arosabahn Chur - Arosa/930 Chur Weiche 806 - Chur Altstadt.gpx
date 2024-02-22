@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 3 plain-ascend = 2 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>930 Chur Weiche 806 - Chur Altstadt</name>
+  <link href="https://bikerouter.de/#map=19/46.84942/9.52970/standard&amp;lonlats=9.529215,46.849092;9.530947,46.847556&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.849092" lon="9.529215"><ele>597</ele></trkpt>
+   <trkpt lat="46.848919" lon="9.529251"><ele>597.5</ele></trkpt>
+   <trkpt lat="46.848805" lon="9.529256"><ele>597.5</ele></trkpt>
+   <trkpt lat="46.848564" lon="9.52922"><ele>597.75</ele></trkpt>
+   <trkpt lat="46.848499" lon="9.529223"><ele>597.75</ele></trkpt>
+   <trkpt lat="46.848305" lon="9.529261"><ele>598.25</ele></trkpt>
+   <trkpt lat="46.84822" lon="9.529295"><ele>598.75</ele></trkpt>
+   <trkpt lat="46.848144" lon="9.529343"><ele>599</ele></trkpt>
+   <trkpt lat="46.848038" lon="9.529443"><ele>599.5</ele></trkpt>
+   <trkpt lat="46.847953" lon="9.529579"><ele>599.75</ele></trkpt>
+   <trkpt lat="46.847925" lon="9.529638"><ele>600</ele></trkpt>
+   <trkpt lat="46.847895" lon="9.529718"><ele>600</ele></trkpt>
+   <trkpt lat="46.847691" lon="9.530301"><ele>600</ele></trkpt>
+   <trkpt lat="46.847635" lon="9.530501"><ele>599.75</ele></trkpt>
+   <trkpt lat="46.847594" lon="9.530699"><ele>599.5</ele></trkpt>
+   <trkpt lat="46.847556" lon="9.530947"><ele>599.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

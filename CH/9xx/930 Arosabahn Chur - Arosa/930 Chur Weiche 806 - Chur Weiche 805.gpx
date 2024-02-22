@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 330 filtered ascend = 0 plain-ascend = -4 cost=330 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>930 Chur Weiche 806 - Chur Weiche 805</name>
+  <link href="https://bikerouter.de/#map=19/46.85210/9.52901/standard&amp;lonlats=9.529215,46.849092;9.528776,46.852029&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.849092" lon="9.529215"><ele>597</ele></trkpt>
+   <trkpt lat="46.849095" lon="9.529215"><ele>597</ele></trkpt>
+   <trkpt lat="46.849206" lon="9.529196"><ele>597</ele></trkpt>
+   <trkpt lat="46.849446" lon="9.529168"><ele>597.25</ele></trkpt>
+   <trkpt lat="46.850162" lon="9.529015"><ele>597.25</ele></trkpt>
+   <trkpt lat="46.851288" lon="9.528775"><ele>595.5</ele></trkpt>
+   <trkpt lat="46.851493" lon="9.52874"><ele>595</ele></trkpt>
+   <trkpt lat="46.851579" lon="9.528734"><ele>594.75</ele></trkpt>
+   <trkpt lat="46.851696" lon="9.528739"><ele>594.25</ele></trkpt>
+   <trkpt lat="46.852027" lon="9.528776"><ele>592.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

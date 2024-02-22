@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 161 filtered ascend = 8 plain-ascend = 8 cost=161 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>930 St. Peter-Molinis (Gleis 2) - St. Peter-Molinis Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/46.82911/9.65509/standard&amp;lonlats=9.65386,46.829214;9.655293,46.830231&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.829211" lon="9.65386"><ele>1158</ele></trkpt>
+   <trkpt lat="46.82926" lon="9.654045"><ele>1160.25</ele></trkpt>
+   <trkpt lat="46.829338" lon="9.654252"><ele>1160</ele></trkpt>
+   <trkpt lat="46.829388" lon="9.654363"><ele>1159.75</ele></trkpt>
+   <trkpt lat="46.829486" lon="9.65455"><ele>1159.5</ele></trkpt>
+   <trkpt lat="46.829568" lon="9.654677"><ele>1159.25</ele></trkpt>
+   <trkpt lat="46.829668" lon="9.654797"><ele>1159.25</ele></trkpt>
+   <trkpt lat="46.829811" lon="9.65494"><ele>1159.25</ele></trkpt>
+   <trkpt lat="46.830226" lon="9.65529"><ele>1162.5</ele></trkpt>
+   <trkpt lat="46.830229" lon="9.655293"><ele>1166</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

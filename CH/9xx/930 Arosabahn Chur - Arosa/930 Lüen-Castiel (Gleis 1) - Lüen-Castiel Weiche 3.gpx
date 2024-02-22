@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 155 filtered ascend = 9 plain-ascend = 10 cost=155 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>930 Lüen-Castiel (Gleis 1) - Lüen-Castiel Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.83167/9.61464/standard&amp;lonlats=9.613273,46.831768;9.614786,46.832552&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.831769" lon="9.613271"><ele>943.75</ele></trkpt>
+   <trkpt lat="46.831791" lon="9.613343"><ele>943.75</ele></trkpt>
+   <trkpt lat="46.831857" lon="9.613632"><ele>943.25</ele></trkpt>
+   <trkpt lat="46.831915" lon="9.614031"><ele>940.25</ele></trkpt>
+   <trkpt lat="46.831937" lon="9.614114"><ele>940</ele></trkpt>
+   <trkpt lat="46.831999" lon="9.614261"><ele>940.5</ele></trkpt>
+   <trkpt lat="46.83208" lon="9.614384"><ele>941.75</ele></trkpt>
+   <trkpt lat="46.832128" lon="9.614434"><ele>942.75</ele></trkpt>
+   <trkpt lat="46.832549" lon="9.614782"><ele>951.75</ele></trkpt>
+   <trkpt lat="46.832551" lon="9.614785"><ele>953.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
