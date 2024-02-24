@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 230 filtered ascend = 0 plain-ascend = -1 cost=230 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>915 Davos Platz (Gleis 1) - Davos Platz Weiche 15</name>
+  <link href="https://bikerouter.de/#map=19/46.79176/9.82165/standard&amp;lonlats=9.821134,46.791721;9.819417,46.790034&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.791719" lon="9.821135"><ele>1545</ele></trkpt>
+   <trkpt lat="46.791354" lon="9.820762"><ele>1545</ele></trkpt>
+   <trkpt lat="46.790892" lon="9.820294"><ele>1544</ele></trkpt>
+   <trkpt lat="46.790592" lon="9.819992"><ele>1542.5</ele></trkpt>
+   <trkpt lat="46.790036" lon="9.819425"><ele>1543.25</ele></trkpt>
+   <trkpt lat="46.790032" lon="9.819421"><ele>1543.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

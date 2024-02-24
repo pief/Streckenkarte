@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 122 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>915 Davos Frauenkirch (Gleis 2) - Davos Frauenkirch Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/46.76661/9.80009/standard&amp;lonlats=9.799437,46.766641;9.798236,46.765929&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.76664" lon="9.799436"><ele>1505.25</ele></trkpt>
+   <trkpt lat="46.766575" lon="9.799311"><ele>1505.25</ele></trkpt>
+   <trkpt lat="46.766342" lon="9.798862"><ele>1505.5</ele></trkpt>
+   <trkpt lat="46.766156" lon="9.798544"><ele>1505.25</ele></trkpt>
+   <trkpt lat="46.766072" lon="9.798419"><ele>1505.25</ele></trkpt>
+   <trkpt lat="46.765933" lon="9.798242"><ele>1504.75</ele></trkpt>
+   <trkpt lat="46.765928" lon="9.798236"><ele>1504.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

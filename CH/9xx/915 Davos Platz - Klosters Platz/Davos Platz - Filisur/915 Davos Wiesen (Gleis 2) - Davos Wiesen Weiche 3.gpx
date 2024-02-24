@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 2 plain-ascend = -1 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>915 Davos Wiesen (Gleis 2) - Davos Wiesen Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.69529/9.71662/standard&amp;lonlats=9.716149,46.69558;9.714816,46.695094&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.695578" lon="9.716149"><ele>1198</ele></trkpt>
+   <trkpt lat="46.695553" lon="9.716093"><ele>1198</ele></trkpt>
+   <trkpt lat="46.695427" lon="9.71579"><ele>1197.75</ele></trkpt>
+   <trkpt lat="46.69535" lon="9.715579"><ele>1198.5</ele></trkpt>
+   <trkpt lat="46.695094" lon="9.714825"><ele>1200</ele></trkpt>
+   <trkpt lat="46.695091" lon="9.714816"><ele>1196</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
