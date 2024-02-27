@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 453 filtered ascend = 11 plain-ascend = 12 cost=906 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Berliner Platz (Steig Süd) - Wagnerplatz</name>
+  <link href="https://bikerouter.de/#map=19/49.80174/9.94514/standard&amp;lonlats=9.941694,49.799403;9.944869,49.802012&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.7994" lon="9.941692"><ele>184</ele></trkpt>
+   <trkpt lat="49.799387" lon="9.941754"><ele>184</ele></trkpt>
+   <trkpt lat="49.799351" lon="9.942242"><ele>184</ele></trkpt>
+   <trkpt lat="49.799319" lon="9.942761"><ele>184.5</ele></trkpt>
+   <trkpt lat="49.799337" lon="9.942908"><ele>184.75</ele></trkpt>
+   <trkpt lat="49.799375" lon="9.942995"><ele>185</ele></trkpt>
+   <trkpt lat="49.799413" lon="9.943046"><ele>185</ele></trkpt>
+   <trkpt lat="49.799485" lon="9.943099"><ele>185</ele></trkpt>
+   <trkpt lat="49.799681" lon="9.94317"><ele>185</ele></trkpt>
+   <trkpt lat="49.799863" lon="9.943205"><ele>185.5</ele></trkpt>
+   <trkpt lat="49.800185" lon="9.943248"><ele>186.75</ele></trkpt>
+   <trkpt lat="49.800456" lon="9.943302"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.800969" lon="9.943468"><ele>189.75</ele></trkpt>
+   <trkpt lat="49.801098" lon="9.943517"><ele>190.25</ele></trkpt>
+   <trkpt lat="49.801224" lon="9.94359"><ele>191</ele></trkpt>
+   <trkpt lat="49.801546" lon="9.943839"><ele>191</ele></trkpt>
+   <trkpt lat="49.801875" lon="9.944104"><ele>193.5</ele></trkpt>
+   <trkpt lat="49.801975" lon="9.944177"><ele>194</ele></trkpt>
+   <trkpt lat="49.802004" lon="9.944211"><ele>194.25</ele></trkpt>
+   <trkpt lat="49.802025" lon="9.944239"><ele>194.25</ele></trkpt>
+   <trkpt lat="49.802038" lon="9.94428"><ele>194.5</ele></trkpt>
+   <trkpt lat="49.802041" lon="9.944311"><ele>194.5</ele></trkpt>
+   <trkpt lat="49.802008" lon="9.944868"><ele>195.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

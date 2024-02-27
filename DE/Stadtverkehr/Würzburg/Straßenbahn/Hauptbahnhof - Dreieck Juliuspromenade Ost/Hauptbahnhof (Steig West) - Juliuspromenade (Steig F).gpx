@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 408 filtered ascend = 3 plain-ascend = 1 cost=816 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Hauptbahnhof (Steig West) - Juliuspromenade (Steig F)</name>
+  <link href="https://bikerouter.de/#map=19/49.79779/9.93291/standard&amp;lonlats=9.935055,49.80059;9.932507,49.797529&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.800588" lon="9.935057"><ele>180.5</ele></trkpt>
+   <trkpt lat="49.80055" lon="9.935043"><ele>180.5</ele></trkpt>
+   <trkpt lat="49.800479" lon="9.935023"><ele>180.75</ele></trkpt>
+   <trkpt lat="49.800456" lon="9.935014"><ele>180.75</ele></trkpt>
+   <trkpt lat="49.800397" lon="9.934986"><ele>181</ele></trkpt>
+   <trkpt lat="49.800337" lon="9.934954"><ele>181</ele></trkpt>
+   <trkpt lat="49.800306" lon="9.934937"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.799658" lon="9.934559"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.798841" lon="9.934077"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.797813" lon="9.933456"><ele>183</ele></trkpt>
+   <trkpt lat="49.797776" lon="9.933433"><ele>183.25</ele></trkpt>
+   <trkpt lat="49.797728" lon="9.933386"><ele>183.5</ele></trkpt>
+   <trkpt lat="49.797701" lon="9.933349"><ele>183.5</ele></trkpt>
+   <trkpt lat="49.797668" lon="9.933265"><ele>183.5</ele></trkpt>
+   <trkpt lat="49.797645" lon="9.933173"><ele>183.25</ele></trkpt>
+   <trkpt lat="49.797612" lon="9.932994"><ele>182.75</ele></trkpt>
+   <trkpt lat="49.79753" lon="9.932509"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.797529" lon="9.932505"><ele>181.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

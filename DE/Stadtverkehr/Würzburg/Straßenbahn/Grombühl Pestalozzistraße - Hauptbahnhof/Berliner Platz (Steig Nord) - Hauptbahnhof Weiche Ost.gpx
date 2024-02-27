@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 474 filtered ascend = 0 plain-ascend = -2 cost=950 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Berliner Platz (Steig Nord) - Hauptbahnhof Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/49.80061/9.93654/standard&amp;lonlats=9.941704,49.799433;9.935836,49.800766&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.799428" lon="9.9417"><ele>184</ele></trkpt>
+   <trkpt lat="49.799439" lon="9.941668"><ele>184</ele></trkpt>
+   <trkpt lat="49.79946" lon="9.941593"><ele>183.75</ele></trkpt>
+   <trkpt lat="49.799549" lon="9.941339"><ele>183.5</ele></trkpt>
+   <trkpt lat="49.799653" lon="9.941043"><ele>183.25</ele></trkpt>
+   <trkpt lat="49.799692" lon="9.940848"><ele>183</ele></trkpt>
+   <trkpt lat="49.800008" lon="9.938761"><ele>183.25</ele></trkpt>
+   <trkpt lat="49.800232" lon="9.937221"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.800256" lon="9.937051"><ele>182.75</ele></trkpt>
+   <trkpt lat="49.800398" lon="9.936075"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.800418" lon="9.935988"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.800438" lon="9.935934"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.800494" lon="9.935851"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.800532" lon="9.935817"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.800601" lon="9.935791"><ele>181</ele></trkpt>
+   <trkpt lat="49.800636" lon="9.935791"><ele>181</ele></trkpt>
+   <trkpt lat="49.800765" lon="9.935836"><ele>181</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

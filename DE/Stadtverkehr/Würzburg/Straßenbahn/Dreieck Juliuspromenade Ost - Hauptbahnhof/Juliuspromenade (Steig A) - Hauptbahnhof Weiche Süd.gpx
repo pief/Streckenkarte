@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 2 plain-ascend = 0 cost=764 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Juliuspromenade (Steig A) - Hauptbahnhof Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.80059/9.93569/standard&amp;lonlats=9.932529,49.797493;9.934993,49.800299&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.797492" lon="9.932528"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.797494" lon="9.932535"><ele>182</ele></trkpt>
+   <trkpt lat="49.797575" lon="9.933015"><ele>183</ele></trkpt>
+   <trkpt lat="49.797607" lon="9.933198"><ele>183.25</ele></trkpt>
+   <trkpt lat="49.797616" lon="9.93323"><ele>183.5</ele></trkpt>
+   <trkpt lat="49.797649" lon="9.933334"><ele>183.75</ele></trkpt>
+   <trkpt lat="49.797675" lon="9.933384"><ele>183.5</ele></trkpt>
+   <trkpt lat="49.797716" lon="9.933448"><ele>183.25</ele></trkpt>
+   <trkpt lat="49.79776" lon="9.933487"><ele>183</ele></trkpt>
+   <trkpt lat="49.798827" lon="9.934135"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.799915" lon="9.934773"><ele>182</ele></trkpt>
+   <trkpt lat="49.800256" lon="9.934972"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.800296" lon="9.934998"><ele>181.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

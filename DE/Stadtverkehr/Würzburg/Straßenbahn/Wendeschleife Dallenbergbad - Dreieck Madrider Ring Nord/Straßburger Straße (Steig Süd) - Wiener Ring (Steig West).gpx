@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 543 filtered ascend = 0 plain-ascend = -3 cost=1086 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Straßburger Straße (Steig Süd) - Wiener Ring (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.74152/9.96109/standard&amp;lonlats=9.957967,49.746209;9.960995,49.741829&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.746213" lon="9.957973"><ele>291.25</ele></trkpt>
+   <trkpt lat="49.746028" lon="9.958281"><ele>291.25</ele></trkpt>
+   <trkpt lat="49.74584" lon="9.958555"><ele>291</ele></trkpt>
+   <trkpt lat="49.745725" lon="9.958717"><ele>291</ele></trkpt>
+   <trkpt lat="49.745694" lon="9.958756"><ele>291</ele></trkpt>
+   <trkpt lat="49.745182" lon="9.959282"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.744873" lon="9.959564"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.744555" lon="9.959822"><ele>290</ele></trkpt>
+   <trkpt lat="49.744358" lon="9.959967"><ele>290</ele></trkpt>
+   <trkpt lat="49.743987" lon="9.960211"><ele>289.5</ele></trkpt>
+   <trkpt lat="49.743774" lon="9.960334"><ele>289</ele></trkpt>
+   <trkpt lat="49.743406" lon="9.960518"><ele>288.25</ele></trkpt>
+   <trkpt lat="49.743099" lon="9.960647"><ele>288.5</ele></trkpt>
+   <trkpt lat="49.742824" lon="9.960748"><ele>288.75</ele></trkpt>
+   <trkpt lat="49.74256" lon="9.96083"><ele>288.75</ele></trkpt>
+   <trkpt lat="49.742266" lon="9.960909"><ele>288.5</ele></trkpt>
+   <trkpt lat="49.741829" lon="9.960995"><ele>287.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

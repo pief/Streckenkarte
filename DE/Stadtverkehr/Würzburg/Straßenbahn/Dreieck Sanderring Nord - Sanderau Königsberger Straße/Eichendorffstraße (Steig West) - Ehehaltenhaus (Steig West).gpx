@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 298 filtered ascend = 2 plain-ascend = 3 cost=596 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Eichendorffstraße (Steig West) - Ehehaltenhaus (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.78138/9.93602/standard&amp;lonlats=9.933625,49.784013;9.93528,49.781588&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.784015" lon="9.933633"><ele>177.75</ele></trkpt>
+   <trkpt lat="49.783929" lon="9.933708"><ele>177.75</ele></trkpt>
+   <trkpt lat="49.783852" lon="9.933763"><ele>178</ele></trkpt>
+   <trkpt lat="49.782903" lon="9.934598"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.782788" lon="9.934693"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.782571" lon="9.934835"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.782389" lon="9.934942"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.781845" lon="9.935175"><ele>180</ele></trkpt>
+   <trkpt lat="49.78159" lon="9.935284"><ele>180</ele></trkpt>
+   <trkpt lat="49.781588" lon="9.935284"><ele>180.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

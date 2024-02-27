@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 1 plain-ascend = 1 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Madrider Ring Weiche West-Süd - Dreieck Madrider Ring Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.73766/9.95997/standard&amp;lonlats=9.95928,49.737792;9.96011,49.737707&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.737791" lon="9.959279"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.737798" lon="9.959293"><ele>295</ele></trkpt>
+   <trkpt lat="49.737875" lon="9.959477"><ele>295</ele></trkpt>
+   <trkpt lat="49.737893" lon="9.959551"><ele>295</ele></trkpt>
+   <trkpt lat="49.737903" lon="9.959651"><ele>295.25</ele></trkpt>
+   <trkpt lat="49.737896" lon="9.959713"><ele>295.25</ele></trkpt>
+   <trkpt lat="49.737877" lon="9.959798"><ele>295.25</ele></trkpt>
+   <trkpt lat="49.737841" lon="9.959879"><ele>295.5</ele></trkpt>
+   <trkpt lat="49.737777" lon="9.960001"><ele>295.5</ele></trkpt>
+   <trkpt lat="49.737709" lon="9.96011"><ele>295.75</ele></trkpt>
+   <trkpt lat="49.737707" lon="9.960112"><ele>295.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

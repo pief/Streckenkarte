@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 527 filtered ascend = 4 plain-ascend = 0 cost=1054 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Steinbachtal (Steig Ost) - Judenbühlweg (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.77893/9.92624/standard&amp;lonlats=9.928591,49.774776;9.926526,49.779292&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.774775" lon="9.928588"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.774938" lon="9.928438"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.775005" lon="9.928392"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.775079" lon="9.928339"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.775239" lon="9.92825"><ele>180</ele></trkpt>
+   <trkpt lat="49.776161" lon="9.92797"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.776471" lon="9.927842"><ele>183</ele></trkpt>
+   <trkpt lat="49.776711" lon="9.927718"><ele>184</ele></trkpt>
+   <trkpt lat="49.777523" lon="9.927202"><ele>182</ele></trkpt>
+   <trkpt lat="49.778101" lon="9.926941"><ele>180.5</ele></trkpt>
+   <trkpt lat="49.779047" lon="9.926614"><ele>178</ele></trkpt>
+   <trkpt lat="49.779116" lon="9.92659"><ele>178</ele></trkpt>
+   <trkpt lat="49.779292" lon="9.926529"><ele>178.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 404 filtered ascend = 1 plain-ascend = 2 cost=808 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Hauptbahnhof (Steig Ost) - Berliner Platz (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.79931/9.94238/standard&amp;lonlats=9.936313,49.800333;9.941694,49.799403&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.800333" lon="9.936313"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.800333" lon="9.936315"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.800229" lon="9.93704"><ele>182.75</ele></trkpt>
+   <trkpt lat="49.800205" lon="9.937212"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.800135" lon="9.937695"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.799666" lon="9.940836"><ele>183</ele></trkpt>
+   <trkpt lat="49.799625" lon="9.941025"><ele>183</ele></trkpt>
+   <trkpt lat="49.799513" lon="9.941353"><ele>183.5</ele></trkpt>
+   <trkpt lat="49.799433" lon="9.941573"><ele>183.75</ele></trkpt>
+   <trkpt lat="49.79941" lon="9.941652"><ele>183.75</ele></trkpt>
+   <trkpt lat="49.799402" lon="9.941685"><ele>184</ele></trkpt>
+   <trkpt lat="49.7994" lon="9.941692"><ele>184</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

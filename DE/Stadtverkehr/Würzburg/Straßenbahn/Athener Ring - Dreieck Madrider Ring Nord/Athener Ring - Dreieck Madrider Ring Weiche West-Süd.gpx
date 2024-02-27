@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 156 filtered ascend = 3 plain-ascend = 4 cost=312 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Athener Ring - Dreieck Madrider Ring Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.73756/9.95882/standard&amp;lonlats=9.957476,49.737026;9.959283,49.737791&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.737026" lon="9.957474"><ele>291.5</ele></trkpt>
+   <trkpt lat="49.737028" lon="9.957479"><ele>291.75</ele></trkpt>
+   <trkpt lat="49.737133" lon="9.957753"><ele>292.25</ele></trkpt>
+   <trkpt lat="49.737285" lon="9.958131"><ele>293.25</ele></trkpt>
+   <trkpt lat="49.737662" lon="9.958989"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.737792" lon="9.95928"><ele>295</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

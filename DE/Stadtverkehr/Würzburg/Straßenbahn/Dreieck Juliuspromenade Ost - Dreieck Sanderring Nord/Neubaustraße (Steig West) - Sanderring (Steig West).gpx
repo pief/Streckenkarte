@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 450 filtered ascend = 3 plain-ascend = 1 cost=900 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Neubaustraße (Steig West) - Sanderring (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.78680/9.93289/standard&amp;lonlats=9.929103,49.790459;9.931777,49.786865&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.790458" lon="9.929099"><ele>178.5</ele></trkpt>
+   <trkpt lat="49.790458" lon="9.9291"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.790445" lon="9.929108"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.790377" lon="9.929149"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.790329" lon="9.929183"><ele>179</ele></trkpt>
+   <trkpt lat="49.790295" lon="9.929224"><ele>179</ele></trkpt>
+   <trkpt lat="49.790205" lon="9.929327"><ele>179</ele></trkpt>
+   <trkpt lat="49.790176" lon="9.929362"><ele>179</ele></trkpt>
+   <trkpt lat="49.790127" lon="9.929442"><ele>179</ele></trkpt>
+   <trkpt lat="49.789871" lon="9.929879"><ele>179</ele></trkpt>
+   <trkpt lat="49.789795" lon="9.929985"><ele>179.25</ele></trkpt>
+   <trkpt lat="49.789658" lon="9.930098"><ele>179.5</ele></trkpt>
+   <trkpt lat="49.788894" lon="9.930692"><ele>180.25</ele></trkpt>
+   <trkpt lat="49.78884" lon="9.930721"><ele>180.25</ele></trkpt>
+   <trkpt lat="49.788308" lon="9.931046"><ele>180.75</ele></trkpt>
+   <trkpt lat="49.788134" lon="9.931172"><ele>180.75</ele></trkpt>
+   <trkpt lat="49.788055" lon="9.93123"><ele>180.75</ele></trkpt>
+   <trkpt lat="49.787766" lon="9.931427"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.787622" lon="9.931512"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.787361" lon="9.931624"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.786865" lon="9.931781"><ele>179.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

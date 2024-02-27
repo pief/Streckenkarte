@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Sanderring Weiche Nord-West - Dreieck Sanderring Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/49.78604/9.93269/standard&amp;lonlats=9.931812,49.786778;9.931962,49.78626&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.786777" lon="9.931808"><ele>179.25</ele></trkpt>
+   <trkpt lat="49.786767" lon="9.931811"><ele>179.25</ele></trkpt>
+   <trkpt lat="49.786718" lon="9.931831"><ele>179</ele></trkpt>
+   <trkpt lat="49.786592" lon="9.931871"><ele>179</ele></trkpt>
+   <trkpt lat="49.786509" lon="9.931896"><ele>179.25</ele></trkpt>
+   <trkpt lat="49.786363" lon="9.93194"><ele>179.5</ele></trkpt>
+   <trkpt lat="49.786261" lon="9.931969"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.786261" lon="9.931968"><ele>179.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

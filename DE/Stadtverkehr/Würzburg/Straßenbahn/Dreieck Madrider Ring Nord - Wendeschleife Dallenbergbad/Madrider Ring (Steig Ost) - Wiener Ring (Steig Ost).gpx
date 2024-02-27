@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 332 filtered ascend = 0 plain-ascend = -5 cost=664 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Madrider Ring (Steig Ost) - Wiener Ring (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.74200/9.96056/standard&amp;lonlats=9.960523,49.738925;9.961027,49.741837&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.738922" lon="9.960527"><ele>294.5</ele></trkpt>
+   <trkpt lat="49.738925" lon="9.960529"><ele>294.5</ele></trkpt>
+   <trkpt lat="49.739047" lon="9.960614"><ele>294.25</ele></trkpt>
+   <trkpt lat="49.739368" lon="9.960783"><ele>293</ele></trkpt>
+   <trkpt lat="49.740007" lon="9.960984"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.740298" lon="9.96105"><ele>288.75</ele></trkpt>
+   <trkpt lat="49.740527" lon="9.961078"><ele>287.75</ele></trkpt>
+   <trkpt lat="49.740756" lon="9.961094"><ele>286.75</ele></trkpt>
+   <trkpt lat="49.741048" lon="9.961101"><ele>286.75</ele></trkpt>
+   <trkpt lat="49.741363" lon="9.961093"><ele>287.25</ele></trkpt>
+   <trkpt lat="49.741543" lon="9.961076"><ele>287.5</ele></trkpt>
+   <trkpt lat="49.741664" lon="9.961057"><ele>287.5</ele></trkpt>
+   <trkpt lat="49.741836" lon="9.96103"><ele>287.75</ele></trkpt>
+   <trkpt lat="49.741837" lon="9.961029"><ele>288.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

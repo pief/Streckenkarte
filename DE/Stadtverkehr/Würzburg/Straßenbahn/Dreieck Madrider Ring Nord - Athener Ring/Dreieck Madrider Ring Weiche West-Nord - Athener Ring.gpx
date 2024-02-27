@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 320 filtered ascend = 2 plain-ascend = -2 cost=640 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Madrider Ring Weiche West-Nord - Athener Ring</name>
+  <link href="https://bikerouter.de/#map=19/49.73736/9.95775/standard&amp;lonlats=9.959273,49.737829;9.956687,49.737227;9.957478,49.737026&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.737825" lon="9.959275"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.737678" lon="9.958951"><ele>294.5</ele></trkpt>
+   <trkpt lat="49.73739" lon="9.958299"><ele>293.75</ele></trkpt>
+   <trkpt lat="49.737226" lon="9.957912"><ele>292.75</ele></trkpt>
+   <trkpt lat="49.737156" lon="9.957729"><ele>292.25</ele></trkpt>
+   <trkpt lat="49.737142" lon="9.957685"><ele>292.25</ele></trkpt>
+   <trkpt lat="49.737129" lon="9.957598"><ele>292</ele></trkpt>
+   <trkpt lat="49.737126" lon="9.957545"><ele>292</ele></trkpt>
+   <trkpt lat="49.737131" lon="9.957489"><ele>291.75</ele></trkpt>
+   <trkpt lat="49.73715" lon="9.957398"><ele>291.5</ele></trkpt>
+   <trkpt lat="49.737259" lon="9.957133"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.737276" lon="9.957077"><ele>290.5</ele></trkpt>
+   <trkpt lat="49.737291" lon="9.957015"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.737297" lon="9.956948"><ele>290</ele></trkpt>
+   <trkpt lat="49.737294" lon="9.956881"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.737285" lon="9.956819"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.737264" lon="9.956753"><ele>289.5</ele></trkpt>
+   <trkpt lat="49.73724" lon="9.9567"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.737228" lon="9.956682"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.73721" lon="9.956656"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.737146" lon="9.956599"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.737072" lon="9.956582"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.737011" lon="9.956596"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.736961" lon="9.95663"><ele>289.5</ele></trkpt>
+   <trkpt lat="49.736925" lon="9.956669"><ele>289.5</ele></trkpt>
+   <trkpt lat="49.736891" lon="9.956723"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.73687" lon="9.95678"><ele>290</ele></trkpt>
+   <trkpt lat="49.736851" lon="9.956871"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.736848" lon="9.956928"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.736851" lon="9.956997"><ele>290.5</ele></trkpt>
+   <trkpt lat="49.736888" lon="9.957131"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.737026" lon="9.957476"><ele>291.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

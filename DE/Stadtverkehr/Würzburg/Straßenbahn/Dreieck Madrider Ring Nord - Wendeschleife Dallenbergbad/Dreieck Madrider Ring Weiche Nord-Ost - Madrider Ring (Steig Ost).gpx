@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Madrider Ring Weiche Nord-Ost - Madrider Ring (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.73880/9.96022/standard&amp;lonlats=9.960064,49.738361;9.960523,49.738925&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.738358" lon="9.960068"><ele>295</ele></trkpt>
+   <trkpt lat="49.738571" lon="9.960262"><ele>295</ele></trkpt>
+   <trkpt lat="49.738681" lon="9.960359"><ele>295</ele></trkpt>
+   <trkpt lat="49.738803" lon="9.960444"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.738922" lon="9.960527"><ele>294.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

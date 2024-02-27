@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 303 filtered ascend = 1 plain-ascend = 0 cost=606 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dom (Steig Ost) - Dreieck Juliuspromenade Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/49.79667/9.93168/standard&amp;lonlats=9.930992,49.794266;9.931177,49.796986&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.794266" lon="9.930992"><ele>182.75</ele></trkpt>
+   <trkpt lat="49.794267" lon="9.930992"><ele>183</ele></trkpt>
+   <trkpt lat="49.794483" lon="9.930992"><ele>183</ele></trkpt>
+   <trkpt lat="49.794532" lon="9.930993"><ele>183</ele></trkpt>
+   <trkpt lat="49.794908" lon="9.930996"><ele>183</ele></trkpt>
+   <trkpt lat="49.794968" lon="9.930998"><ele>183</ele></trkpt>
+   <trkpt lat="49.795041" lon="9.931005"><ele>183.25</ele></trkpt>
+   <trkpt lat="49.79571" lon="9.93111"><ele>184</ele></trkpt>
+   <trkpt lat="49.795955" lon="9.931144"><ele>184</ele></trkpt>
+   <trkpt lat="49.79602" lon="9.931152"><ele>184</ele></trkpt>
+   <trkpt lat="49.796104" lon="9.931164"><ele>183.75</ele></trkpt>
+   <trkpt lat="49.796609" lon="9.931229"><ele>183</ele></trkpt>
+   <trkpt lat="49.796784" lon="9.931236"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.79685" lon="9.931229"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.796986" lon="9.931177"><ele>182</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 4 plain-ascend = -1 cost=864 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Andreas-Grieser-Straße (Steig Süd) - Reuterstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.76559/9.94702/standard&amp;lonlats=9.941476,49.767377;9.946615,49.765991&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.767376" lon="9.941475"><ele>178</ele></trkpt>
+   <trkpt lat="49.767277" lon="9.941718"><ele>178</ele></trkpt>
+   <trkpt lat="49.76692" lon="9.942501"><ele>180.25</ele></trkpt>
+   <trkpt lat="49.76673" lon="9.942902"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.766238" lon="9.943858"><ele>182.75</ele></trkpt>
+   <trkpt lat="49.766171" lon="9.94397"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.766149" lon="9.944005"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.766124" lon="9.944056"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.766099" lon="9.944129"><ele>182.5</ele></trkpt>
+   <trkpt lat="49.76607" lon="9.944288"><ele>182.25</ele></trkpt>
+   <trkpt lat="49.766063" lon="9.94438"><ele>182</ele></trkpt>
+   <trkpt lat="49.766064" lon="9.944476"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.766081" lon="9.944719"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.766109" lon="9.945052"><ele>180.25</ele></trkpt>
+   <trkpt lat="49.766203" lon="9.945994"><ele>177.25</ele></trkpt>
+   <trkpt lat="49.766208" lon="9.946112"><ele>176.75</ele></trkpt>
+   <trkpt lat="49.766203" lon="9.946191"><ele>176.75</ele></trkpt>
+   <trkpt lat="49.766164" lon="9.946343"><ele>176.5</ele></trkpt>
+   <trkpt lat="49.76613" lon="9.946419"><ele>176.5</ele></trkpt>
+   <trkpt lat="49.765991" lon="9.946616"><ele>176.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

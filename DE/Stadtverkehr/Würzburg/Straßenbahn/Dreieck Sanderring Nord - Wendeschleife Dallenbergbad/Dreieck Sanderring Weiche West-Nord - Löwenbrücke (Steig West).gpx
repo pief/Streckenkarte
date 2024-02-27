@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 500 filtered ascend = 2 plain-ascend = -2 cost=1000 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Sanderring Weiche West-Nord - Löwenbrücke (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.78561/9.92600/standard&amp;lonlats=9.931327,49.786524;9.925016,49.785838&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.786519" lon="9.931326"><ele>180</ele></trkpt>
+   <trkpt lat="49.786444" lon="9.928873"><ele>182.75</ele></trkpt>
+   <trkpt lat="49.78644" lon="9.928569"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.786439" lon="9.928397"><ele>180.75</ele></trkpt>
+   <trkpt lat="49.786438" lon="9.92833"><ele>180.5</ele></trkpt>
+   <trkpt lat="49.786438" lon="9.928225"><ele>179.5</ele></trkpt>
+   <trkpt lat="49.786437" lon="9.92814"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.786345" lon="9.925384"><ele>174.75</ele></trkpt>
+   <trkpt lat="49.786328" lon="9.925293"><ele>175</ele></trkpt>
+   <trkpt lat="49.786294" lon="9.925195"><ele>175.25</ele></trkpt>
+   <trkpt lat="49.786256" lon="9.92512"><ele>175.5</ele></trkpt>
+   <trkpt lat="49.78623" lon="9.925083"><ele>175.5</ele></trkpt>
+   <trkpt lat="49.786186" lon="9.925046"><ele>175.5</ele></trkpt>
+   <trkpt lat="49.786142" lon="9.92503"><ele>175.25</ele></trkpt>
+   <trkpt lat="49.786105" lon="9.925028"><ele>175</ele></trkpt>
+   <trkpt lat="49.785844" lon="9.925021"><ele>173.75</ele></trkpt>
+   <trkpt lat="49.785836" lon="9.92502"><ele>177.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

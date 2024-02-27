@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Juliuspromenade Weiche Süd-Ost - Dreieck Juliuspromenade Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.79703/9.93148/standard&amp;lonlats=9.931177,49.796986;9.931498,49.797316&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.796986" lon="9.931177"><ele>182</ele></trkpt>
+   <trkpt lat="49.796988" lon="9.931177"><ele>182</ele></trkpt>
+   <trkpt lat="49.797063" lon="9.931155"><ele>182</ele></trkpt>
+   <trkpt lat="49.79712" lon="9.931163"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.797191" lon="9.931214"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.797251" lon="9.931289"><ele>181.5</ele></trkpt>
+   <trkpt lat="49.797294" lon="9.931403"><ele>181.25</ele></trkpt>
+   <trkpt lat="49.797316" lon="9.931498"><ele>181.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

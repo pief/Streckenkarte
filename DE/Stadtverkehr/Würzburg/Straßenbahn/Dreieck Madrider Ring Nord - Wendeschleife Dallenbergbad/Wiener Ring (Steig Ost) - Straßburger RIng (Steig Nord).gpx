@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 551 filtered ascend = 3 plain-ascend = 4 cost=1102 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Wiener Ring (Steig Ost) - Straßburger RIng (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.74623/9.95771/standard&amp;lonlats=9.961027,49.741837;9.95798,49.746236&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.741837" lon="9.961029"><ele>287.75</ele></trkpt>
+   <trkpt lat="49.742148" lon="9.960977"><ele>288.25</ele></trkpt>
+   <trkpt lat="49.742277" lon="9.960947"><ele>288.5</ele></trkpt>
+   <trkpt lat="49.742569" lon="9.96087"><ele>288.75</ele></trkpt>
+   <trkpt lat="49.74283" lon="9.960788"><ele>288.5</ele></trkpt>
+   <trkpt lat="49.743318" lon="9.9606"><ele>288.25</ele></trkpt>
+   <trkpt lat="49.743572" lon="9.960481"><ele>288.5</ele></trkpt>
+   <trkpt lat="49.743791" lon="9.960366"><ele>289</ele></trkpt>
+   <trkpt lat="49.744003" lon="9.960242"><ele>289.5</ele></trkpt>
+   <trkpt lat="49.744343" lon="9.96002"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.744711" lon="9.959742"><ele>290</ele></trkpt>
+   <trkpt lat="49.744889" lon="9.959595"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.745204" lon="9.959309"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.745555" lon="9.958942"><ele>291</ele></trkpt>
+   <trkpt lat="49.745691" lon="9.958817"><ele>291</ele></trkpt>
+   <trkpt lat="49.745734" lon="9.958768"><ele>291</ele></trkpt>
+   <trkpt lat="49.745856" lon="9.958588"><ele>291</ele></trkpt>
+   <trkpt lat="49.746051" lon="9.958302"><ele>291.25</ele></trkpt>
+   <trkpt lat="49.746236" lon="9.957991"><ele>291.25</ele></trkpt>
+   <trkpt lat="49.746239" lon="9.957983"><ele>291.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

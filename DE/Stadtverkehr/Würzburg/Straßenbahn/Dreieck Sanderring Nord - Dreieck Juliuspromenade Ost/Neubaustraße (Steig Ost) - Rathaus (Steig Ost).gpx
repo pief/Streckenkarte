@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 1 plain-ascend = 1 cost=520 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Neubaustraße (Steig Ost) - Rathaus (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.79286/9.92887/standard&amp;lonlats=9.929449,49.790138;9.928626,49.792357&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.790139" lon="9.929451"><ele>179</ele></trkpt>
+   <trkpt lat="49.790214" lon="9.929346"><ele>179</ele></trkpt>
+   <trkpt lat="49.790297" lon="9.929256"><ele>179</ele></trkpt>
+   <trkpt lat="49.790331" lon="9.929213"><ele>179</ele></trkpt>
+   <trkpt lat="49.79038" lon="9.929176"><ele>179</ele></trkpt>
+   <trkpt lat="49.790517" lon="9.929094"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.790684" lon="9.928988"><ele>178.5</ele></trkpt>
+   <trkpt lat="49.790881" lon="9.928888"><ele>178.5</ele></trkpt>
+   <trkpt lat="49.791026" lon="9.928822"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.791153" lon="9.928771"><ele>179</ele></trkpt>
+   <trkpt lat="49.79153" lon="9.928594"><ele>180</ele></trkpt>
+   <trkpt lat="49.791787" lon="9.928609"><ele>180.5</ele></trkpt>
+   <trkpt lat="49.792355" lon="9.928627"><ele>180</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

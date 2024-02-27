@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 2 plain-ascend = 2 cost=686 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Hartmannstraße (Steig Süd) - Wörthstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.79417/9.91558/standard&amp;lonlats=9.911304,49.7943;9.915974,49.794359&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.794306" lon="9.9113"><ele>187.75</ele></trkpt>
+   <trkpt lat="49.794311" lon="9.911328"><ele>188</ele></trkpt>
+   <trkpt lat="49.794339" lon="9.911529"><ele>188.25</ele></trkpt>
+   <trkpt lat="49.794396" lon="9.911885"><ele>188.25</ele></trkpt>
+   <trkpt lat="49.794453" lon="9.912299"><ele>188</ele></trkpt>
+   <trkpt lat="49.794515" lon="9.912717"><ele>187.5</ele></trkpt>
+   <trkpt lat="49.794597" lon="9.913514"><ele>186.25</ele></trkpt>
+   <trkpt lat="49.794608" lon="9.913702"><ele>186</ele></trkpt>
+   <trkpt lat="49.794612" lon="9.913995"><ele>186</ele></trkpt>
+   <trkpt lat="49.794593" lon="9.914232"><ele>186</ele></trkpt>
+   <trkpt lat="49.794538" lon="9.914751"><ele>188</ele></trkpt>
+   <trkpt lat="49.794499" lon="9.915011"><ele>189</ele></trkpt>
+   <trkpt lat="49.794359" lon="9.915974"><ele>190</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
