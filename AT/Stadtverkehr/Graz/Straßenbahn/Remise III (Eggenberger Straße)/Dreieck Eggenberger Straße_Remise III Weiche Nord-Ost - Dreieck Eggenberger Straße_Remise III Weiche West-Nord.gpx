@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 1 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Eggenberger Straße_Remise III Weiche Nord-Ost - Dreieck Eggenberger Straße_Remise III Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.07028/15.41092/standard&amp;lonlats=15.410326,47.070505;15.41023,47.07017&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.070508" lon="15.410329"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070507" lon="15.410332"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070465" lon="15.410399"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070435" lon="15.41043"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070397" lon="15.410451"><ele>366</ele></trkpt>
+   <trkpt lat="47.070331" lon="15.410462"><ele>366</ele></trkpt>
+   <trkpt lat="47.070302" lon="15.410454"><ele>366</ele></trkpt>
+   <trkpt lat="47.070278" lon="15.41044"><ele>366</ele></trkpt>
+   <trkpt lat="47.070264" lon="15.410431"><ele>366</ele></trkpt>
+   <trkpt lat="47.070243" lon="15.410407"><ele>366</ele></trkpt>
+   <trkpt lat="47.070231" lon="15.410394"><ele>366</ele></trkpt>
+   <trkpt lat="47.070206" lon="15.410356"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070192" lon="15.41032"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070181" lon="15.410284"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070171" lon="15.410236"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.07017" lon="15.410228"><ele>366.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

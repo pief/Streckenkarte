@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 355 filtered ascend = 2 plain-ascend = 1 cost=710 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Absengerstraße (Steig Nord) - Baierdorf (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.06835/15.39295/standard&amp;lonlats=15.396293,47.0691;15.392125,47.068486&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.069093" lon="15.396291"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.069098" lon="15.396253"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.069119" lon="15.396085"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.069309" lon="15.394526"><ele>367.75</ele></trkpt>
+   <trkpt lat="47.069332" lon="15.394251"><ele>367.75</ele></trkpt>
+   <trkpt lat="47.069328" lon="15.394146"><ele>368</ele></trkpt>
+   <trkpt lat="47.06932" lon="15.394088"><ele>368</ele></trkpt>
+   <trkpt lat="47.069294" lon="15.393965"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.069261" lon="15.393831"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.068911" lon="15.392518"><ele>370</ele></trkpt>
+   <trkpt lat="47.068826" lon="15.39235"><ele>369.5</ele></trkpt>
+   <trkpt lat="47.068772" lon="15.392277"><ele>369.25</ele></trkpt>
+   <trkpt lat="47.068695" lon="15.392197"><ele>369</ele></trkpt>
+   <trkpt lat="47.068632" lon="15.392162"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.068565" lon="15.392134"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.068484" lon="15.392126"><ele>368</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 292 filtered ascend = 7 plain-ascend = 6 cost=584 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Alt-Eggenberg (Steig Südost) - Eggenberg UKH</name>
+  <link href="https://bikerouter.de/#map=19/47.07904/15.39665/standard&amp;lonlats=15.393608,47.077536;15.396534,47.079062&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.077529" lon="15.393614"><ele>376.75</ele></trkpt>
+   <trkpt lat="47.077531" lon="15.393618"><ele>376.75</ele></trkpt>
+   <trkpt lat="47.077576" lon="15.393693"><ele>376.75</ele></trkpt>
+   <trkpt lat="47.077636" lon="15.393792"><ele>376.75</ele></trkpt>
+   <trkpt lat="47.077857" lon="15.394152"><ele>376.5</ele></trkpt>
+   <trkpt lat="47.077941" lon="15.394281"><ele>377.25</ele></trkpt>
+   <trkpt lat="47.078129" lon="15.394576"><ele>378.75</ele></trkpt>
+   <trkpt lat="47.078495" lon="15.395153"><ele>381</ele></trkpt>
+   <trkpt lat="47.079043" lon="15.396023"><ele>383.5</ele></trkpt>
+   <trkpt lat="47.079095" lon="15.396142"><ele>383.75</ele></trkpt>
+   <trkpt lat="47.079108" lon="15.396224"><ele>383.5</ele></trkpt>
+   <trkpt lat="47.079103" lon="15.396341"><ele>383.25</ele></trkpt>
+   <trkpt lat="47.079059" lon="15.396532"><ele>382.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

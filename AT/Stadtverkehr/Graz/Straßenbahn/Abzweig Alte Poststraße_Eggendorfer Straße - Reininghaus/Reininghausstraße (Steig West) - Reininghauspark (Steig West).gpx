@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 351 filtered ascend = 2 plain-ascend = 0 cost=702 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Reininghausstraße (Steig West) - Reininghauspark (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.06258/15.41205/standard&amp;lonlats=15.409814,47.065681;15.411262,47.062691&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.065682" lon="15.409821"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.065484" lon="15.409921"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.06531" lon="15.410004"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.064369" lon="15.410446"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.0637" lon="15.410783"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.06364" lon="15.410815"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.063579" lon="15.410844"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.063116" lon="15.411097"><ele>366.5</ele></trkpt>
+   <trkpt lat="47.062996" lon="15.411155"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.062977" lon="15.411163"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.062693" lon="15.411265"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.062691" lon="15.411265"><ele>365.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

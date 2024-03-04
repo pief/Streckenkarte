@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=140 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Laudongasse Weiche Süd - Asperngasse Einmündung Wendeschleife</name>
+  <link href="https://bikerouter.de/#map=19/47.07255/15.41303/standard&amp;lonlats=15.411691,47.07248;15.412467,47.072367&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.072479" lon="15.41169"><ele>365</ele></trkpt>
+   <trkpt lat="47.07253" lon="15.412132"><ele>365.5</ele></trkpt>
+   <trkpt lat="47.072532" lon="15.412244"><ele>365.5</ele></trkpt>
+   <trkpt lat="47.072509" lon="15.412319"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.072451" lon="15.412413"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.072373" lon="15.412466"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.072367" lon="15.412467"><ele>364.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

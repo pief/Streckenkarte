@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Köflacher Gasse/PVA (Steig Nord) - Dreieck Asperngasse/Eggenberger Straße Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.07070/15.41332/standard&amp;lonlats=15.413566,47.070602;15.41337,47.07057&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.070599" lon="15.413565"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070572" lon="15.413376"><ele>366.5</ele></trkpt>
+   <trkpt lat="47.07057" lon="15.413368"><ele>366.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

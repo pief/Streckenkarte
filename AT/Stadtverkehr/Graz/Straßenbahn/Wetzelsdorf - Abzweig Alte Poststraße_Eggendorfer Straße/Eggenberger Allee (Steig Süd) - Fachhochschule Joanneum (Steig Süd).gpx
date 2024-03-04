@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 282 filtered ascend = 1 plain-ascend = 2 cost=564 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Eggenberger Allee (Steig Süd) - Fachhochschule Joanneum (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/47.06986/15.40636/standard&amp;lonlats=15.402655,47.070559;15.406292,47.07008&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.070557" lon="15.402654"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070527" lon="15.402867"><ele>366.5</ele></trkpt>
+   <trkpt lat="47.070521" lon="15.402908"><ele>366.5</ele></trkpt>
+   <trkpt lat="47.070433" lon="15.4035"><ele>366</ele></trkpt>
+   <trkpt lat="47.070334" lon="15.404185"><ele>363.75</ele></trkpt>
+   <trkpt lat="47.070254" lon="15.404708"><ele>364.25</ele></trkpt>
+   <trkpt lat="47.070215" lon="15.404992"><ele>364.5</ele></trkpt>
+   <trkpt lat="47.070161" lon="15.405479"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.07013" lon="15.405763"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070083" lon="15.406292"><ele>367.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

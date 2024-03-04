@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 398 filtered ascend = 1 plain-ascend = 2 cost=796 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Absengerstraße (Steig Süd) - Karl-Morre-Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/47.06814/15.40044/standard&amp;lonlats=15.395899,47.069112;15.401008,47.068396&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.069112" lon="15.395899"><ele>367</ele></trkpt>
+   <trkpt lat="47.069111" lon="15.395909"><ele>367</ele></trkpt>
+   <trkpt lat="47.069093" lon="15.396065"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.069069" lon="15.396245"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.068807" lon="15.39834"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.068793" lon="15.398453"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.068771" lon="15.398599"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.06856" lon="15.39998"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.0684" lon="15.401006"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.068399" lon="15.401009"><ele>368.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

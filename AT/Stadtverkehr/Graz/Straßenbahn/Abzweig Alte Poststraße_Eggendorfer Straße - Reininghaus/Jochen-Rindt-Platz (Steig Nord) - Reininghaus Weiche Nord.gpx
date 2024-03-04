@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 193 filtered ascend = 0 plain-ascend = -2 cost=386 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Jochen-Rindt-Platz (Steig Nord) - Reininghaus Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.05685/15.41074/standard&amp;lonlats=15.410711,47.058992;15.4105,47.057393&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.058992" lon="15.410711"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.05898" lon="15.410625"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.058933" lon="15.410496"><ele>359.75</ele></trkpt>
+   <trkpt lat="47.058879" lon="15.410419"><ele>359.5</ele></trkpt>
+   <trkpt lat="47.058841" lon="15.410385"><ele>359.5</ele></trkpt>
+   <trkpt lat="47.058795" lon="15.41036"><ele>359.25</ele></trkpt>
+   <trkpt lat="47.058713" lon="15.410336"><ele>359.25</ele></trkpt>
+   <trkpt lat="47.058645" lon="15.41034"><ele>359</ele></trkpt>
+   <trkpt lat="47.057399" lon="15.410499"><ele>357.5</ele></trkpt>
+   <trkpt lat="47.057392" lon="15.4105"><ele>357.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

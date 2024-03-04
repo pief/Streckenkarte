@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 333 filtered ascend = 0 plain-ascend = -1 cost=666 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreierschützengasse/Helmut-List-Halle (Steig West) - Starhemberggasse (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.07537/15.41360/standard&amp;lonlats=15.411689,47.078241;15.413242,47.075441&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.078241" lon="15.41169"><ele>368</ele></trkpt>
+   <trkpt lat="47.078071" lon="15.41179"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.077588" lon="15.412073"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.077399" lon="15.412174"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.076411" lon="15.412721"><ele>367</ele></trkpt>
+   <trkpt lat="47.076341" lon="15.412763"><ele>367</ele></trkpt>
+   <trkpt lat="47.075852" lon="15.41305"><ele>366</ele></trkpt>
+   <trkpt lat="47.075719" lon="15.413132"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.075443" lon="15.413244"><ele>366</ele></trkpt>
+   <trkpt lat="47.075441" lon="15.413244"><ele>366.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

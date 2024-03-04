@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 245 filtered ascend = 0 plain-ascend = 0 cost=490 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Fachhochschule Joanneum (Steig Süd) - Abzweig Alte Poststraße/Eggendorfer Straße Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/47.06986/15.41062/standard&amp;lonlats=15.406292,47.07008;15.409481,47.070047&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.070083" lon="15.406292"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.070083" lon="15.406294"><ele>367.75</ele></trkpt>
+   <trkpt lat="47.070073" lon="15.406408"><ele>368</ele></trkpt>
+   <trkpt lat="47.070011" lon="15.407387"><ele>365.5</ele></trkpt>
+   <trkpt lat="47.070004" lon="15.407759"><ele>365</ele></trkpt>
+   <trkpt lat="47.07001" lon="15.408402"><ele>365</ele></trkpt>
+   <trkpt lat="47.070021" lon="15.409123"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070029" lon="15.409299"><ele>366</ele></trkpt>
+   <trkpt lat="47.070032" lon="15.409335"><ele>366</ele></trkpt>
+   <trkpt lat="47.070036" lon="15.409401"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070043" lon="15.409479"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070043" lon="15.40948"><ele>366.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

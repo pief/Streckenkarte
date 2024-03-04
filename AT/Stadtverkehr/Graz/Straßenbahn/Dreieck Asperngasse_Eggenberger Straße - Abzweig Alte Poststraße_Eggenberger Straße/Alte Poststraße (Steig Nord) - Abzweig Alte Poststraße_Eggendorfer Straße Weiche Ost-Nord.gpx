@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 19 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Alte Poststraße (Steig Nord) - Abzweig Alte Poststraße/Eggendorfer Straße Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.07016/15.40981/standard&amp;lonlats=15.409698,47.070104;15.409467,47.070069&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.070101" lon="15.409697"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070073" lon="15.409496"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.07007" lon="15.40947"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070069" lon="15.409465"><ele>366</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

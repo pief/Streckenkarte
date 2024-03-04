@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Eggenberger Straße/Remise III Weiche West-Süd - Dreieck Eggenberger Straße/Remise III Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/47.07069/15.41084/standard&amp;lonlats=15.41023,47.07014;15.410997,47.070237&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.070139" lon="15.410229"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.07014" lon="15.410236"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070148" lon="15.410306"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.070237" lon="15.410994"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070237" lon="15.410995"><ele>365.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

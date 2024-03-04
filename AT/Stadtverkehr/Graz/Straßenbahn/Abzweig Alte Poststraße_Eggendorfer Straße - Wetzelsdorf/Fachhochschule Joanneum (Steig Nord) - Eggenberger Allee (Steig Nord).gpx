@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = 0 cost=480 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Fachhochschule Joanneum (Steig Nord) - Eggenberger Allee (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/47.07031/15.40333/standard&amp;lonlats=15.406137,47.070127;15.403044,47.07054&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.070123" lon="15.406136"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.070124" lon="15.406136"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.070154" lon="15.405766"><ele>366</ele></trkpt>
+   <trkpt lat="47.07023" lon="15.40507"><ele>364.5</ele></trkpt>
+   <trkpt lat="47.070278" lon="15.40471"><ele>364.25</ele></trkpt>
+   <trkpt lat="47.070358" lon="15.404192"><ele>363.75</ele></trkpt>
+   <trkpt lat="47.070456" lon="15.403503"><ele>366</ele></trkpt>
+   <trkpt lat="47.070461" lon="15.403485"><ele>366</ele></trkpt>
+   <trkpt lat="47.070505" lon="15.403293"><ele>366.75</ele></trkpt>
+   <trkpt lat="47.070539" lon="15.403046"><ele>366.5</ele></trkpt>
+   <trkpt lat="47.070539" lon="15.403043"><ele>366.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

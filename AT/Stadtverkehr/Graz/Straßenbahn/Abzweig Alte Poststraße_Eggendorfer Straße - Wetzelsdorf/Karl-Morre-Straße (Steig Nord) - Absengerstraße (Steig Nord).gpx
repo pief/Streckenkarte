@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 354 filtered ascend = 0 plain-ascend = 0 cost=708 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Karl-Morre-Straße (Steig Nord) - Absengerstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/47.06904/15.39639/standard&amp;lonlats=15.400834,47.068463;15.396293,47.0691&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.068463" lon="15.400834"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.068464" lon="15.400834"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.06853" lon="15.400415"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.068585" lon="15.399988"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.068793" lon="15.398614"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.068815" lon="15.398465"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.06883" lon="15.398351"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.069053" lon="15.396618"><ele>367.75</ele></trkpt>
+   <trkpt lat="47.069092" lon="15.396301"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.069093" lon="15.396291"><ele>367.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
