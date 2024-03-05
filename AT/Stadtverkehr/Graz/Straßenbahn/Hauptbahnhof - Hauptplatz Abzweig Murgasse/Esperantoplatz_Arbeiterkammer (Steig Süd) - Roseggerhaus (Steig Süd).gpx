@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 309 filtered ascend = 0 plain-ascend = -1 cost=618 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Esperantoplatz/Arbeiterkammer (Steig Süd) - Roseggerhaus (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/47.07099/15.42899/standard&amp;lonlats=15.424418,47.071235;15.428461,47.071065&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.071235" lon="15.424418"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.071235" lon="15.424421"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.071232" lon="15.424507"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.071225" lon="15.424659"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.071219" lon="15.424805"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.071074" lon="15.428171"><ele>358.75</ele></trkpt>
+   <trkpt lat="47.071063" lon="15.42846"><ele>358.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

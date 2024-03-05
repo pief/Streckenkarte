@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Jakominiplatz Abzweig Nord-Ost Weiche West - Jakominiplatz (Steig E)</name>
+  <link href="https://bikerouter.de/#map=19/47.06735/15.44279/standard&amp;lonlats=15.441696,47.06783;15.441855,47.067242&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.06783" lon="15.441696"><ele>357</ele></trkpt>
+   <trkpt lat="47.067792" lon="15.441699"><ele>357</ele></trkpt>
+   <trkpt lat="47.067641" lon="15.441712"><ele>356.75</ele></trkpt>
+   <trkpt lat="47.067458" lon="15.441768"><ele>356.5</ele></trkpt>
+   <trkpt lat="47.067244" lon="15.44185"><ele>357.25</ele></trkpt>
+   <trkpt lat="47.067241" lon="15.441851"><ele>357.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
