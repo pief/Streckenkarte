@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 220 filtered ascend = 0 plain-ascend = -3 cost=440 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Finanzamt (Steig West) - Steyrergasse (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.06123/15.44485/standard&amp;lonlats=15.443202,47.063291;15.444208,47.061451&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.063292" lon="15.443208"><ele>358</ele></trkpt>
+   <trkpt lat="47.063203" lon="15.443257"><ele>358</ele></trkpt>
+   <trkpt lat="47.063013" lon="15.443362"><ele>358.25</ele></trkpt>
+   <trkpt lat="47.063005" lon="15.443367"><ele>358.25</ele></trkpt>
+   <trkpt lat="47.062433" lon="15.44368"><ele>358.25</ele></trkpt>
+   <trkpt lat="47.062161" lon="15.443826"><ele>357.5</ele></trkpt>
+   <trkpt lat="47.062066" lon="15.443881"><ele>357.25</ele></trkpt>
+   <trkpt lat="47.06168" lon="15.444089"><ele>356</ele></trkpt>
+   <trkpt lat="47.061456" lon="15.444212"><ele>354.5</ele></trkpt>
+   <trkpt lat="47.061452" lon="15.444214"><ele>354.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

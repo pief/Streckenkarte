@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 394 filtered ascend = 2 plain-ascend = 0 cost=788 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Karl-Huber-Gasse (Steig Ost) - Dr.-Lister-Gasse (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/47.04673/15.45901/standard&amp;lonlats=15.462423,47.044564;15.458893,47.046858&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.044564" lon="15.462423"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.04471" lon="15.462306"><ele>348.75</ele></trkpt>
+   <trkpt lat="47.045624" lon="15.461612"><ele>350.25</ele></trkpt>
+   <trkpt lat="47.045746" lon="15.46151"><ele>350.25</ele></trkpt>
+   <trkpt lat="47.045862" lon="15.4614"><ele>350.25</ele></trkpt>
+   <trkpt lat="47.045973" lon="15.461279"><ele>350.25</ele></trkpt>
+   <trkpt lat="47.046091" lon="15.461139"><ele>350.5</ele></trkpt>
+   <trkpt lat="47.046177" lon="15.461022"><ele>350.5</ele></trkpt>
+   <trkpt lat="47.046319" lon="15.460802"><ele>350.25</ele></trkpt>
+   <trkpt lat="47.046374" lon="15.460704"><ele>350.25</ele></trkpt>
+   <trkpt lat="47.046471" lon="15.460519"><ele>350.25</ele></trkpt>
+   <trkpt lat="47.046606" lon="15.460214"><ele>350.5</ele></trkpt>
+   <trkpt lat="47.046651" lon="15.46009"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.046716" lon="15.459863"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.046755" lon="15.459674"><ele>350.5</ele></trkpt>
+   <trkpt lat="47.046799" lon="15.459349"><ele>350</ele></trkpt>
+   <trkpt lat="47.046861" lon="15.458896"><ele>349.25</ele></trkpt>
+   <trkpt lat="47.046861" lon="15.458894"><ele>348.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

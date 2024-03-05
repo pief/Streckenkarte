@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 312 filtered ascend = 1 plain-ascend = 2 cost=624 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>P+R Murpark (Steig Südost) - Karl-Huber-Gasse (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/47.04445/15.46312/standard&amp;lonlats=15.462804,47.04241;15.462423,47.044564&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.042407" lon="15.462805"><ele>347</ele></trkpt>
+   <trkpt lat="47.04241" lon="15.462813"><ele>347</ele></trkpt>
+   <trkpt lat="47.042496" lon="15.463027"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.042653" lon="15.463434"><ele>347.25</ele></trkpt>
+   <trkpt lat="47.042704" lon="15.46353"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.042761" lon="15.463611"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.042836" lon="15.46369"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.042925" lon="15.46375"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.043003" lon="15.463781"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.043121" lon="15.463789"><ele>348</ele></trkpt>
+   <trkpt lat="47.043213" lon="15.463777"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.043243" lon="15.463763"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.043304" lon="15.463732"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.043358" lon="15.463691"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.043495" lon="15.463549"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.043896" lon="15.463093"><ele>348</ele></trkpt>
+   <trkpt lat="47.044021" lon="15.462953"><ele>348</ele></trkpt>
+   <trkpt lat="47.044228" lon="15.462729"><ele>348</ele></trkpt>
+   <trkpt lat="47.044347" lon="15.462615"><ele>348</ele></trkpt>
+   <trkpt lat="47.044563" lon="15.462424"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.044564" lon="15.462423"><ele>348.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

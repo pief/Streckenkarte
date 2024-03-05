@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 397 filtered ascend = 1 plain-ascend = 0 cost=794 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Jauerburggasse (Steig Ost) - Ostbahnhof (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/47.05397/15.44822/standard&amp;lonlats=15.451047,47.050909;15.448695,47.054082&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.050908" lon="15.451046"><ele>345.5</ele></trkpt>
+   <trkpt lat="47.050909" lon="15.451046"><ele>345.75</ele></trkpt>
+   <trkpt lat="47.051046" lon="15.450946"><ele>346</ele></trkpt>
+   <trkpt lat="47.05109" lon="15.450912"><ele>346</ele></trkpt>
+   <trkpt lat="47.051144" lon="15.450876"><ele>346.25</ele></trkpt>
+   <trkpt lat="47.051759" lon="15.450408"><ele>345.5</ele></trkpt>
+   <trkpt lat="47.052863" lon="15.449604"><ele>346.5</ele></trkpt>
+   <trkpt lat="47.053344" lon="15.449237"><ele>347</ele></trkpt>
+   <trkpt lat="47.053725" lon="15.448964"><ele>347</ele></trkpt>
+   <trkpt lat="47.053849" lon="15.448873"><ele>347</ele></trkpt>
+   <trkpt lat="47.053893" lon="15.448839"><ele>347</ele></trkpt>
+   <trkpt lat="47.053974" lon="15.448775"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.054081" lon="15.448699"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.054082" lon="15.448698"><ele>345.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

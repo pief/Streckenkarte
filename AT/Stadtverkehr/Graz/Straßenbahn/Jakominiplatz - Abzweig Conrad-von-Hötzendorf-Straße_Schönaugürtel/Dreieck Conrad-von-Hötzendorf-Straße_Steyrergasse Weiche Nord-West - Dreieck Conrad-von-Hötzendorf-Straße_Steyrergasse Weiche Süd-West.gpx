@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = -1 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dreieck Conrad-von-Hötzendorf-Straße/Steyrergasse Weiche Nord-West - Dreieck Conrad-von-Hötzendorf-Straße/Steyrergasse Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/47.06083/15.44535/standard&amp;lonlats=15.444245,47.061389;15.444495,47.060934&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.061389" lon="15.444249"><ele>354.25</ele></trkpt>
+   <trkpt lat="47.061384" lon="15.444252"><ele>354.25</ele></trkpt>
+   <trkpt lat="47.061269" lon="15.444309"><ele>353.5</ele></trkpt>
+   <trkpt lat="47.061197" lon="15.444345"><ele>353</ele></trkpt>
+   <trkpt lat="47.061102" lon="15.4444"><ele>352.5</ele></trkpt>
+   <trkpt lat="47.061088" lon="15.444408"><ele>352.5</ele></trkpt>
+   <trkpt lat="47.060933" lon="15.444497"><ele>351.5</ele></trkpt>
+   <trkpt lat="47.060934" lon="15.444495"><ele>352</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

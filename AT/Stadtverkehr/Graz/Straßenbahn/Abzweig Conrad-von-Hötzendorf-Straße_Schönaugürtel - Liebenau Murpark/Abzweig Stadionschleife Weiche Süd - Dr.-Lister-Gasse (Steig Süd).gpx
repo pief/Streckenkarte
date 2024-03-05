@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 450 filtered ascend = 4 plain-ascend = 5 cost=900 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Abzweig Stadionschleife Weiche Süd - Dr.-Lister-Gasse (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/47.04645/15.45958/standard&amp;lonlats=15.453491,47.047584;15.459121,47.046796&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.047586" lon="15.453496"><ele>345</ele></trkpt>
+   <trkpt lat="47.047582" lon="15.4535"><ele>345.25</ele></trkpt>
+   <trkpt lat="47.047445" lon="15.453612"><ele>345.5</ele></trkpt>
+   <trkpt lat="47.047369" lon="15.453671"><ele>346</ele></trkpt>
+   <trkpt lat="47.047325" lon="15.453733"><ele>346</ele></trkpt>
+   <trkpt lat="47.047308" lon="15.453766"><ele>346</ele></trkpt>
+   <trkpt lat="47.047295" lon="15.453792"><ele>346.25</ele></trkpt>
+   <trkpt lat="47.047278" lon="15.453868"><ele>346.25</ele></trkpt>
+   <trkpt lat="47.047279" lon="15.454001"><ele>346</ele></trkpt>
+   <trkpt lat="47.047292" lon="15.454281"><ele>346</ele></trkpt>
+   <trkpt lat="47.047292" lon="15.454741"><ele>347.25</ele></trkpt>
+   <trkpt lat="47.047273" lon="15.454967"><ele>348</ele></trkpt>
+   <trkpt lat="47.047193" lon="15.455688"><ele>349.75</ele></trkpt>
+   <trkpt lat="47.047166" lon="15.455916"><ele>349.75</ele></trkpt>
+   <trkpt lat="47.047161" lon="15.455946"><ele>349.75</ele></trkpt>
+   <trkpt lat="47.047122" lon="15.456253"><ele>348.75</ele></trkpt>
+   <trkpt lat="47.047078" lon="15.456626"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.046898" lon="15.458459"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.046887" lon="15.458546"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.046859" lon="15.458703"><ele>348.75</ele></trkpt>
+   <trkpt lat="47.046802" lon="15.459122"><ele>349.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

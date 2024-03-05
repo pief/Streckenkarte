@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 208 filtered ascend = 0 plain-ascend = -1 cost=416 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Murpark Außen-/Innengleis Weiche Ost - Liebenau Murpark</name>
+  <link href="https://bikerouter.de/#map=19/47.04069/15.46402/standard&amp;lonlats=15.462122,47.04027;15.464086,47.040807&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.040272" lon="15.462123"><ele>347</ele></trkpt>
+   <trkpt lat="47.039986" lon="15.463064"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.039968" lon="15.463161"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.039966" lon="15.463225"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.039964" lon="15.463263"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.039982" lon="15.463341"><ele>347</ele></trkpt>
+   <trkpt lat="47.040001" lon="15.463391"><ele>347</ele></trkpt>
+   <trkpt lat="47.040026" lon="15.463435"><ele>347</ele></trkpt>
+   <trkpt lat="47.040068" lon="15.463478"><ele>347</ele></trkpt>
+   <trkpt lat="47.04029" lon="15.463656"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.040436" lon="15.463779"><ele>346.25</ele></trkpt>
+   <trkpt lat="47.040806" lon="15.464085"><ele>345</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

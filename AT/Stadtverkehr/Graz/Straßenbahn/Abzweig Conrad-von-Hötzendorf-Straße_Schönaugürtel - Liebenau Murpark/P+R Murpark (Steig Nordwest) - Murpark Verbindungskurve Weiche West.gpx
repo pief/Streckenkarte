@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = -1 cost=172 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>P+R Murpark (Steig Nordwest) - Murpark Verbindungskurve Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/47.04161/15.46158/standard&amp;lonlats=15.462522,47.042338;15.461607,47.041906&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.042333" lon="15.462526"><ele>347</ele></trkpt>
+   <trkpt lat="47.042312" lon="15.462473"><ele>347</ele></trkpt>
+   <trkpt lat="47.042244" lon="15.462313"><ele>347.25</ele></trkpt>
+   <trkpt lat="47.042076" lon="15.461946"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.041906" lon="15.461616"><ele>345.75</ele></trkpt>
+   <trkpt lat="47.041902" lon="15.46161"><ele>345.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

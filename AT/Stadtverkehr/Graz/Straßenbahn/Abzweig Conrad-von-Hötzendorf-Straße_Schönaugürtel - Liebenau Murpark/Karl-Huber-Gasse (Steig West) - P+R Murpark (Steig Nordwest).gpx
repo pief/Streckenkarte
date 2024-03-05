@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 325 filtered ascend = 0 plain-ascend = 0 cost=650 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Karl-Huber-Gasse (Steig West) - P+R Murpark (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.04201/15.46267/standard&amp;lonlats=15.462388,47.044547;15.462522,47.042338&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.044547" lon="15.462388"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.044333" lon="15.462581"><ele>348</ele></trkpt>
+   <trkpt lat="47.044132" lon="15.46278"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.043999" lon="15.462924"><ele>348</ele></trkpt>
+   <trkpt lat="47.043876" lon="15.463064"><ele>348</ele></trkpt>
+   <trkpt lat="47.043387" lon="15.463618"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.043344" lon="15.463654"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.043302" lon="15.46369"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.043234" lon="15.463725"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.043161" lon="15.463748"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.043064" lon="15.463748"><ele>348</ele></trkpt>
+   <trkpt lat="47.04299" lon="15.463736"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.042918" lon="15.463704"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.042814" lon="15.463622"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.042762" lon="15.46356"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.042705" lon="15.463467"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.04264" lon="15.463316"><ele>347.25</ele></trkpt>
+   <trkpt lat="47.042522" lon="15.463008"><ele>347</ele></trkpt>
+   <trkpt lat="47.042333" lon="15.462526"><ele>347</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

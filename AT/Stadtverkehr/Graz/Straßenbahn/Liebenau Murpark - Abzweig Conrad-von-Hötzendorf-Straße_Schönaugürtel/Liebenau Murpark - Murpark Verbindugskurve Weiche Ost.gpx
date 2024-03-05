@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 191 filtered ascend = 2 plain-ascend = 2 cost=382 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Liebenau Murpark - Murpark Verbindugskurve Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/47.04144/15.46317/standard&amp;lonlats=15.464085,47.040806;15.462329,47.041789&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.040805" lon="15.464084"><ele>345</ele></trkpt>
+   <trkpt lat="47.040809" lon="15.464088"><ele>345</ele></trkpt>
+   <trkpt lat="47.040892" lon="15.46415"><ele>345</ele></trkpt>
+   <trkpt lat="47.040954" lon="15.464171"><ele>345</ele></trkpt>
+   <trkpt lat="47.040986" lon="15.464174"><ele>345</ele></trkpt>
+   <trkpt lat="47.04105" lon="15.464156"><ele>345.25</ele></trkpt>
+   <trkpt lat="47.041074" lon="15.464139"><ele>345.25</ele></trkpt>
+   <trkpt lat="47.041133" lon="15.464061"><ele>345.25</ele></trkpt>
+   <trkpt lat="47.041161" lon="15.464002"><ele>345.5</ele></trkpt>
+   <trkpt lat="47.041512" lon="15.46307"><ele>346.5</ele></trkpt>
+   <trkpt lat="47.04179" lon="15.46233"><ele>347.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
