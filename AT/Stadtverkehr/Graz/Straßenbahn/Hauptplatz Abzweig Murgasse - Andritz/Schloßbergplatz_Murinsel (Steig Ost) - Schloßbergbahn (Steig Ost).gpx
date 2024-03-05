@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 230 filtered ascend = 0 plain-ascend = -6 cost=460 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Schloßbergplatz/Murinsel (Steig Ost) - Schloßbergbahn (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/47.07476/15.43593/standard&amp;lonlats=15.436228,47.072795;15.434882,47.074649&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.072796" lon="15.43623"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.072865" lon="15.436174"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.072893" lon="15.436153"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.073064" lon="15.436024"><ele>365.5</ele></trkpt>
+   <trkpt lat="47.073139" lon="15.435969"><ele>365</ele></trkpt>
+   <trkpt lat="47.073363" lon="15.435812"><ele>364</ele></trkpt>
+   <trkpt lat="47.07355" lon="15.4357"><ele>365</ele></trkpt>
+   <trkpt lat="47.073675" lon="15.435631"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.073776" lon="15.435573"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.073895" lon="15.4355"><ele>365</ele></trkpt>
+   <trkpt lat="47.074031" lon="15.435399"><ele>363.75</ele></trkpt>
+   <trkpt lat="47.074113" lon="15.435317"><ele>362.5</ele></trkpt>
+   <trkpt lat="47.074227" lon="15.435183"><ele>360.5</ele></trkpt>
+   <trkpt lat="47.07431" lon="15.435106"><ele>359.75</ele></trkpt>
+   <trkpt lat="47.074475" lon="15.434985"><ele>358.75</ele></trkpt>
+   <trkpt lat="47.074648" lon="15.434878"><ele>359.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

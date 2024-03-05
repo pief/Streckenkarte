@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 345 filtered ascend = 1 plain-ascend = 1 cost=692 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Grazer Straße (Steig Ost) - Andritz Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=18/47.10247/15.42414/standard&amp;lonlats=15.421167,47.099251;15.421519,47.102351&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.099251" lon="15.421167"><ele>365</ele></trkpt>
+   <trkpt lat="47.099405" lon="15.421187"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.100833" lon="15.421348"><ele>365.5</ele></trkpt>
+   <trkpt lat="47.101828" lon="15.421466"><ele>364.5</ele></trkpt>
+   <trkpt lat="47.102311" lon="15.421515"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.102349" lon="15.421523"><ele>366.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

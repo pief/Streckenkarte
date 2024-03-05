@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 503 filtered ascend = 2 plain-ascend = 1 cost=1006 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Robert-Stolz-Gasse (Steig Ost) - Maut Andritz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.09394/15.42368/standard&amp;lonlats=15.427482,47.090451;15.423177,47.09389&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.090452" lon="15.427484"><ele>358.5</ele></trkpt>
+   <trkpt lat="47.090636" lon="15.427345"><ele>359</ele></trkpt>
+   <trkpt lat="47.090701" lon="15.427276"><ele>359.25</ele></trkpt>
+   <trkpt lat="47.090775" lon="15.427201"><ele>359.25</ele></trkpt>
+   <trkpt lat="47.092027" lon="15.425633"><ele>358.75</ele></trkpt>
+   <trkpt lat="47.092219" lon="15.425389"><ele>359</ele></trkpt>
+   <trkpt lat="47.093242" lon="15.424096"><ele>359.75</ele></trkpt>
+   <trkpt lat="47.093539" lon="15.423729"><ele>360.5</ele></trkpt>
+   <trkpt lat="47.093649" lon="15.423585"><ele>360.5</ele></trkpt>
+   <trkpt lat="47.093664" lon="15.423564"><ele>360.5</ele></trkpt>
+   <trkpt lat="47.093773" lon="15.4234"><ele>360</ele></trkpt>
+   <trkpt lat="47.093885" lon="15.423177"><ele>359.5</ele></trkpt>
+   <trkpt lat="47.093886" lon="15.423173"><ele>359</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

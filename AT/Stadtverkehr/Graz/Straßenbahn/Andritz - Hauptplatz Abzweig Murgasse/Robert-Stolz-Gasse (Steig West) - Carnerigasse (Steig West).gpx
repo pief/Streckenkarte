@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 381 filtered ascend = 1 plain-ascend = 2 cost=762 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Robert-Stolz-Gasse (Steig West) - Carnerigasse (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.08739/15.43065/standard&amp;lonlats=15.427447,47.090443;15.429595,47.087361&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.090443" lon="15.427448"><ele>358.5</ele></trkpt>
+   <trkpt lat="47.090442" lon="15.42745"><ele>358.5</ele></trkpt>
+   <trkpt lat="47.090238" lon="15.427591"><ele>357.75</ele></trkpt>
+   <trkpt lat="47.089593" lon="15.428039"><ele>357.25</ele></trkpt>
+   <trkpt lat="47.088843" lon="15.428566"><ele>357</ele></trkpt>
+   <trkpt lat="47.08879" lon="15.428604"><ele>357</ele></trkpt>
+   <trkpt lat="47.088288" lon="15.428951"><ele>356.25</ele></trkpt>
+   <trkpt lat="47.087983" lon="15.429165"><ele>357.5</ele></trkpt>
+   <trkpt lat="47.087481" lon="15.429513"><ele>360.25</ele></trkpt>
+   <trkpt lat="47.087361" lon="15.429597"><ele>360.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

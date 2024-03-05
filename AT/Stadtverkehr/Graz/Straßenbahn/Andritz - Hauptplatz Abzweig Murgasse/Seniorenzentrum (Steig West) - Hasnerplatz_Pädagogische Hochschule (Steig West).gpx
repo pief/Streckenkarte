@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 322 filtered ascend = 0 plain-ascend = 0 cost=644 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Seniorenzentrum (Steig West) - Hasnerplatz/Pädagogische Hochschule (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.08226/15.43475/standard&amp;lonlats=15.431212,47.085063;15.433031,47.08245&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.085062" lon="15.431209"><ele>358.75</ele></trkpt>
+   <trkpt lat="47.084877" lon="15.431339"><ele>358.25</ele></trkpt>
+   <trkpt lat="47.084784" lon="15.431402"><ele>358</ele></trkpt>
+   <trkpt lat="47.084153" lon="15.431841"><ele>356.75</ele></trkpt>
+   <trkpt lat="47.083851" lon="15.432053"><ele>356.5</ele></trkpt>
+   <trkpt lat="47.082723" lon="15.432842"><ele>358.25</ele></trkpt>
+   <trkpt lat="47.08245" lon="15.433031"><ele>358.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
