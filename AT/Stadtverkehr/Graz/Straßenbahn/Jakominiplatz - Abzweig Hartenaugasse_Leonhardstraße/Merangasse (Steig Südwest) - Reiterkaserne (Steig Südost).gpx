@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 402 filtered ascend = 4 plain-ascend = 3 cost=806 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Merangasse (Steig Südwest) - Reiterkaserne (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/47.07517/15.45849/standard&amp;lonlats=15.453933,47.073297;15.458389,47.075199&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.073295" lon="15.453934"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.073334" lon="15.454002"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.073396" lon="15.454108"><ele>369</ele></trkpt>
+   <trkpt lat="47.073487" lon="15.454261"><ele>369.5</ele></trkpt>
+   <trkpt lat="47.073692" lon="15.454645"><ele>370</ele></trkpt>
+   <trkpt lat="47.073834" lon="15.454977"><ele>370</ele></trkpt>
+   <trkpt lat="47.073902" lon="15.455146"><ele>370</ele></trkpt>
+   <trkpt lat="47.073995" lon="15.455404"><ele>370</ele></trkpt>
+   <trkpt lat="47.074098" lon="15.455714"><ele>370</ele></trkpt>
+   <trkpt lat="47.07429" lon="15.456297"><ele>371.5</ele></trkpt>
+   <trkpt lat="47.07436" lon="15.456516"><ele>372.25</ele></trkpt>
+   <trkpt lat="47.074516" lon="15.456944"><ele>372.5</ele></trkpt>
+   <trkpt lat="47.074566" lon="15.457077"><ele>372.75</ele></trkpt>
+   <trkpt lat="47.074594" lon="15.457137"><ele>372.75</ele></trkpt>
+   <trkpt lat="47.074897" lon="15.457775"><ele>372.25</ele></trkpt>
+   <trkpt lat="47.075007" lon="15.457988"><ele>371.75</ele></trkpt>
+   <trkpt lat="47.075133" lon="15.458254"><ele>371.25</ele></trkpt>
+   <trkpt lat="47.075196" lon="15.458391"><ele>371.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 1 plain-ascend = 0 cost=578 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Reiterkaserne (Steig Nordwest) - Merangasse (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.07356/15.45581/standard&amp;lonlats=15.458196,47.075149;15.454934,47.073858&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.075145" lon="15.458198"><ele>371.25</ele></trkpt>
+   <trkpt lat="47.074922" lon="15.457748"><ele>372.25</ele></trkpt>
+   <trkpt lat="47.074696" lon="15.457282"><ele>372.75</ele></trkpt>
+   <trkpt lat="47.074623" lon="15.457119"><ele>372.5</ele></trkpt>
+   <trkpt lat="47.074596" lon="15.457058"><ele>372.5</ele></trkpt>
+   <trkpt lat="47.074544" lon="15.456924"><ele>372.5</ele></trkpt>
+   <trkpt lat="47.074475" lon="15.456746"><ele>372.5</ele></trkpt>
+   <trkpt lat="47.074315" lon="15.456278"><ele>371.5</ele></trkpt>
+   <trkpt lat="47.074077" lon="15.45555"><ele>370</ele></trkpt>
+   <trkpt lat="47.073857" lon="15.454939"><ele>370</ele></trkpt>
+   <trkpt lat="47.073855" lon="15.454934"><ele>370</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

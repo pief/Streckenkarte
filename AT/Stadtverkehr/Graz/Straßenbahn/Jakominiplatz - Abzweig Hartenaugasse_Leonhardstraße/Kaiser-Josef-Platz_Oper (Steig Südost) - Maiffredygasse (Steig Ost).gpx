@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 7 plain-ascend = 7 cost=588 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Kaiser-Josef-Platz/Oper (Steig Südost) - Maiffredygasse (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/47.07075/15.44825/standard&amp;lonlats=15.446112,47.068683;15.448121,47.070931&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.068682" lon="15.446113"><ele>362.5</ele></trkpt>
+   <trkpt lat="47.068683" lon="15.446114"><ele>362.75</ele></trkpt>
+   <trkpt lat="47.068963" lon="15.446394"><ele>364.25</ele></trkpt>
+   <trkpt lat="47.069039" lon="15.44647"><ele>364.75</ele></trkpt>
+   <trkpt lat="47.06911" lon="15.446543"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.069679" lon="15.447113"><ele>366</ele></trkpt>
+   <trkpt lat="47.069926" lon="15.447347"><ele>366.5</ele></trkpt>
+   <trkpt lat="47.070212" lon="15.447575"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.070453" lon="15.447737"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.070559" lon="15.447816"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.070703" lon="15.44794"><ele>369.25</ele></trkpt>
+   <trkpt lat="47.070775" lon="15.448007"><ele>369.5</ele></trkpt>
+   <trkpt lat="47.070929" lon="15.448121"><ele>369.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

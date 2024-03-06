@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 311 filtered ascend = 1 plain-ascend = 0 cost=622 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Lichtenfeldgasse/Kunstuniversität (Steig Süd) - Merangasse (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.07357/15.45477/standard&amp;lonlats=15.450366,47.072082;15.453933,47.073297&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.072081" lon="15.450365"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.072082" lon="15.45037"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.072098" lon="15.450482"><ele>369</ele></trkpt>
+   <trkpt lat="47.072113" lon="15.450585"><ele>369.25</ele></trkpt>
+   <trkpt lat="47.072128" lon="15.450687"><ele>369.25</ele></trkpt>
+   <trkpt lat="47.072159" lon="15.450916"><ele>369.5</ele></trkpt>
+   <trkpt lat="47.072296" lon="15.451821"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.072353" lon="15.452072"><ele>368</ele></trkpt>
+   <trkpt lat="47.07242" lon="15.452289"><ele>367.5</ele></trkpt>
+   <trkpt lat="47.072453" lon="15.452363"><ele>367.25</ele></trkpt>
+   <trkpt lat="47.072504" lon="15.452461"><ele>367</ele></trkpt>
+   <trkpt lat="47.072718" lon="15.452858"><ele>367.75</ele></trkpt>
+   <trkpt lat="47.073294" lon="15.453933"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.073295" lon="15.453934"><ele>368.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

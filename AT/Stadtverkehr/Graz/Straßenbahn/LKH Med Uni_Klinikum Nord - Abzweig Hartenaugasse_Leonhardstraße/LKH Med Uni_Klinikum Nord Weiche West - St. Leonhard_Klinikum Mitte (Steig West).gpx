@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 1 plain-ascend = -5 cost=600 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>LKH Med Uni/Klinikum Nord Weiche West - St. Leonhard/Klinikum Mitte (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.07993/15.46891/standard&amp;lonlats=15.46813,47.082065;15.467621,47.079535&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.082063" lon="15.468132"><ele>386.75</ele></trkpt>
+   <trkpt lat="47.082034" lon="15.46811"><ele>386.75</ele></trkpt>
+   <trkpt lat="47.081863" lon="15.467978"><ele>387</ele></trkpt>
+   <trkpt lat="47.081784" lon="15.467932"><ele>387</ele></trkpt>
+   <trkpt lat="47.081706" lon="15.467898"><ele>387</ele></trkpt>
+   <trkpt lat="47.081666" lon="15.467881"><ele>386.75</ele></trkpt>
+   <trkpt lat="47.081548" lon="15.467816"><ele>387</ele></trkpt>
+   <trkpt lat="47.081006" lon="15.467408"><ele>387.75</ele></trkpt>
+   <trkpt lat="47.080921" lon="15.467347"><ele>387.75</ele></trkpt>
+   <trkpt lat="47.080851" lon="15.467311"><ele>387.5</ele></trkpt>
+   <trkpt lat="47.080793" lon="15.467298"><ele>387.5</ele></trkpt>
+   <trkpt lat="47.080732" lon="15.467296"><ele>387.5</ele></trkpt>
+   <trkpt lat="47.080642" lon="15.467314"><ele>387</ele></trkpt>
+   <trkpt lat="47.080586" lon="15.46734"><ele>386.75</ele></trkpt>
+   <trkpt lat="47.080378" lon="15.4675"><ele>385.25</ele></trkpt>
+   <trkpt lat="47.080329" lon="15.467528"><ele>385</ele></trkpt>
+   <trkpt lat="47.08029" lon="15.467537"><ele>385</ele></trkpt>
+   <trkpt lat="47.080212" lon="15.467555"><ele>384.75</ele></trkpt>
+   <trkpt lat="47.07992" lon="15.467573"><ele>384</ele></trkpt>
+   <trkpt lat="47.079535" lon="15.467621"><ele>380.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
