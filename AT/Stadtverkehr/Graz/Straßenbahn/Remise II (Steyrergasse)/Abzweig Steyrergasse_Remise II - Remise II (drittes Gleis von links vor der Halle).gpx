@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Abzweig Steyrergasse/Remise II - Remise II (drittes Gleis von links vor der Halle)</name>
+  <link href="https://bikerouter.de/#map=19/47.06107/15.44370/standard&amp;lonlats=15.443261,47.060824;15.442657,47.061051&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.060824" lon="15.443261"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060822" lon="15.443209"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060825" lon="15.443182"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060827" lon="15.44316"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060841" lon="15.443097"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.06085" lon="15.443063"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060863" lon="15.443021"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060868" lon="15.443005"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060874" lon="15.44298"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060902" lon="15.442871"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060921" lon="15.442821"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.060946" lon="15.442783"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.061022" lon="15.442683"><ele>350.75</ele></trkpt>
+   <trkpt lat="47.061053" lon="15.442667"><ele>351</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
