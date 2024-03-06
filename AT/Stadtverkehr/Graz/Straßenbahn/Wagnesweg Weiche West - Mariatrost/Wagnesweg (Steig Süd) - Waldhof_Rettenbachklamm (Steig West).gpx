@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 188 filtered ascend = 3 plain-ascend = 4 cost=376 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Wagnesweg (Steig Süd) - Waldhof/Rettenbachklamm (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.09970/15.47918/standard&amp;lonlats=15.476228,47.099023;15.478484,47.099701&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.099021" lon="15.476228"><ele>404.75</ele></trkpt>
+   <trkpt lat="47.099024" lon="15.476234"><ele>404.75</ele></trkpt>
+   <trkpt lat="47.099081" lon="15.476401"><ele>404.5</ele></trkpt>
+   <trkpt lat="47.099191" lon="15.476727"><ele>404.25</ele></trkpt>
+   <trkpt lat="47.099321" lon="15.477109"><ele>405.75</ele></trkpt>
+   <trkpt lat="47.099571" lon="15.477805"><ele>407.75</ele></trkpt>
+   <trkpt lat="47.099594" lon="15.477882"><ele>407.75</ele></trkpt>
+   <trkpt lat="47.099649" lon="15.478146"><ele>408.25</ele></trkpt>
+   <trkpt lat="47.099704" lon="15.478481"><ele>408.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

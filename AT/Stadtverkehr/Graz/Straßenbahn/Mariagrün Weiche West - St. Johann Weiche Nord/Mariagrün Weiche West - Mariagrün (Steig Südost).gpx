@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 1 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Mariagrün Weiche West - Mariagrün (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/47.08944/15.46116/standard&amp;lonlats=15.459955,47.089361;15.460478,47.089617&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.089358" lon="15.459958"><ele>385.25</ele></trkpt>
+   <trkpt lat="47.089364" lon="15.459962"><ele>385.25</ele></trkpt>
+   <trkpt lat="47.089415" lon="15.46002"><ele>385.25</ele></trkpt>
+   <trkpt lat="47.089481" lon="15.460139"><ele>385.25</ele></trkpt>
+   <trkpt lat="47.089614" lon="15.460478"><ele>385.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

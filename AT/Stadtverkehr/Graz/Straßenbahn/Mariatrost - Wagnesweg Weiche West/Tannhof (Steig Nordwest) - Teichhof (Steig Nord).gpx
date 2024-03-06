@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 323 filtered ascend = 0 plain-ascend = 0 cost=646 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Tannhof (Steig Nordwest) - Teichhof (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/47.10139/15.48484/standard&amp;lonlats=15.487523,47.103018;15.484028,47.101397&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.103012" lon="15.48753"><ele>415.25</ele></trkpt>
+   <trkpt lat="47.103012" lon="15.487529"><ele>415.25</ele></trkpt>
+   <trkpt lat="47.102749" lon="15.48715"><ele>415</ele></trkpt>
+   <trkpt lat="47.102695" lon="15.487071"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.102521" lon="15.486805"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.102376" lon="15.486518"><ele>415</ele></trkpt>
+   <trkpt lat="47.10186" lon="15.485254"><ele>415</ele></trkpt>
+   <trkpt lat="47.101844" lon="15.485179"><ele>415</ele></trkpt>
+   <trkpt lat="47.101809" lon="15.485063"><ele>415</ele></trkpt>
+   <trkpt lat="47.10159" lon="15.484528"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.101579" lon="15.4845"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.101392" lon="15.484032"><ele>414.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

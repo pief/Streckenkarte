@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 9 plain-ascend = 10 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>St. Johann (Steig Ost) - St. Johann Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.09679/15.47062/standard&amp;lonlats=15.469407,47.096284;15.469879,47.097114&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.096282" lon="15.469409"><ele>404.5</ele></trkpt>
+   <trkpt lat="47.096288" lon="15.469412"><ele>404.75</ele></trkpt>
+   <trkpt lat="47.096394" lon="15.469477"><ele>406.5</ele></trkpt>
+   <trkpt lat="47.096435" lon="15.469502"><ele>407.25</ele></trkpt>
+   <trkpt lat="47.096482" lon="15.469527"><ele>408</ele></trkpt>
+   <trkpt lat="47.096972" lon="15.469802"><ele>412.75</ele></trkpt>
+   <trkpt lat="47.097109" lon="15.46988"><ele>413</ele></trkpt>
+   <trkpt lat="47.097111" lon="15.469882"><ele>414.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

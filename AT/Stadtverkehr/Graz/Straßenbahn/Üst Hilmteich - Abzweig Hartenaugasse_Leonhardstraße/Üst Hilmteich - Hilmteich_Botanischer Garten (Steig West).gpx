@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 3 plain-ascend = 3 cost=230 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Üst Hilmteich - Hilmteich/Botanischer Garten (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.08360/15.46104/standard&amp;lonlats=15.460044,47.084324;15.459968,47.08331&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.084322" lon="15.460044"><ele>377.25</ele></trkpt>
+   <trkpt lat="47.084316" lon="15.460043"><ele>377.25</ele></trkpt>
+   <trkpt lat="47.083987" lon="15.459921"><ele>377.5</ele></trkpt>
+   <trkpt lat="47.083809" lon="15.459896"><ele>377.75</ele></trkpt>
+   <trkpt lat="47.0837" lon="15.459904"><ele>378</ele></trkpt>
+   <trkpt lat="47.083571" lon="15.459922"><ele>378.25</ele></trkpt>
+   <trkpt lat="47.083464" lon="15.459942"><ele>378.5</ele></trkpt>
+   <trkpt lat="47.083311" lon="15.459968"><ele>378.75</ele></trkpt>
+   <trkpt lat="47.08331" lon="15.459968"><ele>380.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

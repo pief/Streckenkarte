@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 185 filtered ascend = 0 plain-ascend = -2 cost=370 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Tegetthoffplatz (Steig West) - Abzweig Hartenaugasse/Leonhardstraße Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.07533/15.45844/standard&amp;lonlats=15.457748,47.076833;15.458533,47.075302&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.076834" lon="15.457752"><ele>374.5</ele></trkpt>
+   <trkpt lat="47.076833" lon="15.457754"><ele>374.75</ele></trkpt>
+   <trkpt lat="47.076747" lon="15.457818"><ele>375</ele></trkpt>
+   <trkpt lat="47.076657" lon="15.457886"><ele>375.25</ele></trkpt>
+   <trkpt lat="47.076562" lon="15.45795"><ele>375</ele></trkpt>
+   <trkpt lat="47.076021" lon="15.458278"><ele>372.75</ele></trkpt>
+   <trkpt lat="47.07598" lon="15.458299"><ele>372.5</ele></trkpt>
+   <trkpt lat="47.075433" lon="15.458609"><ele>372</ele></trkpt>
+   <trkpt lat="47.075384" lon="15.458603"><ele>372</ele></trkpt>
+   <trkpt lat="47.075354" lon="15.458591"><ele>371.75</ele></trkpt>
+   <trkpt lat="47.07532" lon="15.45856"><ele>371.75</ele></trkpt>
+   <trkpt lat="47.075302" lon="15.458533"><ele>371.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

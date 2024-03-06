@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 1 plain-ascend = 1 cost=612 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Teichhof (Steig Süd) - Tannhof (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/47.10288/15.48819/standard&amp;lonlats=15.48424,47.101444;15.487531,47.103003&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.101442" lon="15.48424"><ele>414.25</ele></trkpt>
+   <trkpt lat="47.101444" lon="15.484243"><ele>414.5</ele></trkpt>
+   <trkpt lat="47.101555" lon="15.484514"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.101566" lon="15.484541"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.101772" lon="15.485051"><ele>415</ele></trkpt>
+   <trkpt lat="47.101873" lon="15.485299"><ele>415.25</ele></trkpt>
+   <trkpt lat="47.102375" lon="15.486519"><ele>415</ele></trkpt>
+   <trkpt lat="47.10252" lon="15.486806"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.102694" lon="15.487072"><ele>414.75</ele></trkpt>
+   <trkpt lat="47.102748" lon="15.487152"><ele>415</ele></trkpt>
+   <trkpt lat="47.103006" lon="15.487524"><ele>415.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
