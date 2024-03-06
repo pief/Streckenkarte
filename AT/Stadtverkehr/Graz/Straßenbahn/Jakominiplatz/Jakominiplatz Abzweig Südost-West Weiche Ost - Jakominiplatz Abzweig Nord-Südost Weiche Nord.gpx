@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = -3 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Jakominiplatz Abzweig Südost-West Weiche Ost - Jakominiplatz Abzweig Nord-Südost Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.06722/15.44355/standard&amp;lonlats=15.443258,47.067314;15.4428,47.067504&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.067313" lon="15.443257"><ele>358</ele></trkpt>
+   <trkpt lat="47.067316" lon="15.443252"><ele>358</ele></trkpt>
+   <trkpt lat="47.067411" lon="15.443087"><ele>356.75</ele></trkpt>
+   <trkpt lat="47.06745" lon="15.443019"><ele>356.25</ele></trkpt>
+   <trkpt lat="47.067461" lon="15.442997"><ele>356</ele></trkpt>
+   <trkpt lat="47.067471" lon="15.442972"><ele>355.75</ele></trkpt>
+   <trkpt lat="47.067482" lon="15.44294"><ele>355.5</ele></trkpt>
+   <trkpt lat="47.067492" lon="15.442896"><ele>355.25</ele></trkpt>
+   <trkpt lat="47.067502" lon="15.442801"><ele>354.75</ele></trkpt>
+   <trkpt lat="47.067501" lon="15.442799"><ele>354.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
