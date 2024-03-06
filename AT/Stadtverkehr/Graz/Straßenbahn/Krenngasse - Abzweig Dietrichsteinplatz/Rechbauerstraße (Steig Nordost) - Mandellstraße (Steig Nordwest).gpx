@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 0 plain-ascend = -3 cost=428 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Rechbauerstraße (Steig Nordost) - Mandellstraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.06781/15.45148/standard&amp;lonlats=15.452842,47.06888;15.450626,47.067714&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.068877" lon="15.452843"><ele>367.75</ele></trkpt>
+   <trkpt lat="47.068875" lon="15.45284"><ele>368</ele></trkpt>
+   <trkpt lat="47.068836" lon="15.452765"><ele>368</ele></trkpt>
+   <trkpt lat="47.068791" lon="15.452679"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.068753" lon="15.452606"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.067715" lon="15.450626"><ele>364</ele></trkpt>
+   <trkpt lat="47.067714" lon="15.450624"><ele>364</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

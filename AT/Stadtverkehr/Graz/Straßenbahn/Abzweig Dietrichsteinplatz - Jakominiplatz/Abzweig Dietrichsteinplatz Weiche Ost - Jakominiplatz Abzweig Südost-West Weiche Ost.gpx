@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 271 filtered ascend = 6 plain-ascend = 3 cost=542 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Abzweig Dietrichsteinplatz Weiche Ost - Jakominiplatz Abzweig Südost-West Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/47.06702/15.44455/standard&amp;lonlats=15.44663,47.066616;15.443257,47.067313&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.066615" lon="15.446629"><ele>355.25</ele></trkpt>
+   <trkpt lat="47.066661" lon="15.446545"><ele>355.25</ele></trkpt>
+   <trkpt lat="47.066734" lon="15.446396"><ele>356.25</ele></trkpt>
+   <trkpt lat="47.066761" lon="15.446323"><ele>356.5</ele></trkpt>
+   <trkpt lat="47.066772" lon="15.446275"><ele>356.75</ele></trkpt>
+   <trkpt lat="47.066794" lon="15.44618"><ele>357.25</ele></trkpt>
+   <trkpt lat="47.066797" lon="15.446164"><ele>357.25</ele></trkpt>
+   <trkpt lat="47.06694" lon="15.445076"><ele>361</ele></trkpt>
+   <trkpt lat="47.066949" lon="15.445007"><ele>361.25</ele></trkpt>
+   <trkpt lat="47.066978" lon="15.444788"><ele>361</ele></trkpt>
+   <trkpt lat="47.067119" lon="15.443731"><ele>359.5</ele></trkpt>
+   <trkpt lat="47.067124" lon="15.443703"><ele>359.5</ele></trkpt>
+   <trkpt lat="47.067151" lon="15.443594"><ele>359.25</ele></trkpt>
+   <trkpt lat="47.067196" lon="15.443473"><ele>359</ele></trkpt>
+   <trkpt lat="47.067233" lon="15.443404"><ele>358.75</ele></trkpt>
+   <trkpt lat="47.067313" lon="15.443257"><ele>358</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

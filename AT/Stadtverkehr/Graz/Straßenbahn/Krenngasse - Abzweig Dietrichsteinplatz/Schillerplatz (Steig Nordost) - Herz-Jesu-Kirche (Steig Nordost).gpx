@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 249 filtered ascend = 0 plain-ascend = -2 cost=498 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Schillerplatz (Steig Nordost) - Herz-Jesu-Kirche (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.07001/15.45659/standard&amp;lonlats=15.458955,47.069194;15.456034,47.070199&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.069189" lon="15.458951"><ele>370</ele></trkpt>
+   <trkpt lat="47.069257" lon="15.458755"><ele>370</ele></trkpt>
+   <trkpt lat="47.069818" lon="15.45714"><ele>369</ele></trkpt>
+   <trkpt lat="47.069852" lon="15.457045"><ele>369</ele></trkpt>
+   <trkpt lat="47.069889" lon="15.456939"><ele>369</ele></trkpt>
+   <trkpt lat="47.0702" lon="15.456034"><ele>366.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

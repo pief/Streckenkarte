@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 278 filtered ascend = 4 plain-ascend = 5 cost=556 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Herz-Jesu-Kirche (Steig West) - Schillerplatz (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.06915/15.46039/standard&amp;lonlats=15.455387,47.070193;15.458689,47.069249&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.07019" lon="15.455388"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.070193" lon="15.455394"><ele>365.5</ele></trkpt>
+   <trkpt lat="47.070227" lon="15.455487"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070248" lon="15.455588"><ele>365.75</ele></trkpt>
+   <trkpt lat="47.070253" lon="15.455645"><ele>366</ele></trkpt>
+   <trkpt lat="47.070248" lon="15.45577"><ele>366</ele></trkpt>
+   <trkpt lat="47.070236" lon="15.455836"><ele>366.25</ele></trkpt>
+   <trkpt lat="47.069871" lon="15.456912"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.069833" lon="15.457017"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.069799" lon="15.457114"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.069677" lon="15.457467"><ele>368.75</ele></trkpt>
+   <trkpt lat="47.069251" lon="15.458691"><ele>370</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

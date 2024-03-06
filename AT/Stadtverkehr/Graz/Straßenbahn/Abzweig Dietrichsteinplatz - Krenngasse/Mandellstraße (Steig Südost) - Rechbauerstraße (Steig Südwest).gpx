@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 170 filtered ascend = 4 plain-ascend = 4 cost=340 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Mandellstraße (Steig Südwest) - Rechbauerstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/47.06891/15.45308/standard&amp;lonlats=15.450793,47.067771;15.452568,47.068701&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.06777" lon="15.450792"><ele>364</ele></trkpt>
+   <trkpt lat="47.067773" lon="15.450796"><ele>364.25</ele></trkpt>
+   <trkpt lat="47.067968" lon="15.45117"><ele>364.75</ele></trkpt>
+   <trkpt lat="47.068474" lon="15.452135"><ele>367</ele></trkpt>
+   <trkpt lat="47.0687" lon="15.452567"><ele>368</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

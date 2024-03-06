@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = -1 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>St. Peter Weiche Ost - St. Peter (Außengleis)</name>
+  <link href="https://bikerouter.de/#map=19/47.05893/15.48094/standard&amp;lonlats=15.481155,47.05877;15.480729,47.058896;15.480485,47.058651&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.058769" lon="15.481153"><ele>376.5</ele></trkpt>
+   <trkpt lat="47.058779" lon="15.481151"><ele>376.75</ele></trkpt>
+   <trkpt lat="47.058821" lon="15.481118"><ele>377</ele></trkpt>
+   <trkpt lat="47.058866" lon="15.481053"><ele>377</ele></trkpt>
+   <trkpt lat="47.058896" lon="15.480975"><ele>377</ele></trkpt>
+   <trkpt lat="47.058905" lon="15.480928"><ele>377</ele></trkpt>
+   <trkpt lat="47.058909" lon="15.480823"><ele>376.5</ele></trkpt>
+   <trkpt lat="47.0589" lon="15.480766"><ele>376.25</ele></trkpt>
+   <trkpt lat="47.058889" lon="15.480733"><ele>376</ele></trkpt>
+   <trkpt lat="47.058885" lon="15.480721"><ele>376</ele></trkpt>
+   <trkpt lat="47.058846" lon="15.480649"><ele>375.75</ele></trkpt>
+   <trkpt lat="47.058796" lon="15.480592"><ele>375.25</ele></trkpt>
+   <trkpt lat="47.058649" lon="15.480487"><ele>374.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

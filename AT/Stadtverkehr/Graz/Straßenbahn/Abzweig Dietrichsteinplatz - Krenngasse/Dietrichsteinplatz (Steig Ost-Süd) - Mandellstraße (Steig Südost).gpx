@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 7 plain-ascend = 8 cost=628 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Dietrichsteinplatz (Steig Ost-Süd) - Mandellstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/47.06760/15.45166/standard&amp;lonlats=15.447225,47.066468;15.450793,47.067771&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.066465" lon="15.447224"><ele>356.5</ele></trkpt>
+   <trkpt lat="47.066465" lon="15.447234"><ele>356.75</ele></trkpt>
+   <trkpt lat="47.066466" lon="15.447367"><ele>357</ele></trkpt>
+   <trkpt lat="47.066481" lon="15.447617"><ele>357.5</ele></trkpt>
+   <trkpt lat="47.066516" lon="15.447821"><ele>357.75</ele></trkpt>
+   <trkpt lat="47.066531" lon="15.447909"><ele>357.75</ele></trkpt>
+   <trkpt lat="47.066589" lon="15.448112"><ele>358.25</ele></trkpt>
+   <trkpt lat="47.066637" lon="15.448254"><ele>358.5</ele></trkpt>
+   <trkpt lat="47.066685" lon="15.448374"><ele>359.25</ele></trkpt>
+   <trkpt lat="47.066743" lon="15.448518"><ele>360</ele></trkpt>
+   <trkpt lat="47.06721" lon="15.449651"><ele>363.75</ele></trkpt>
+   <trkpt lat="47.067303" lon="15.449874"><ele>363.75</ele></trkpt>
+   <trkpt lat="47.067381" lon="15.450049"><ele>363.75</ele></trkpt>
+   <trkpt lat="47.067456" lon="15.450199"><ele>363.75</ele></trkpt>
+   <trkpt lat="47.06777" lon="15.450792"><ele>364.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

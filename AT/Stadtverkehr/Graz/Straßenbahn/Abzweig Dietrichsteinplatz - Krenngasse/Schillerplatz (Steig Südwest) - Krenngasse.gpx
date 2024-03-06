@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 3 plain-ascend = 3 cost=350 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Schillerplatz (Steig Südwest) - Krenngasse</name>
+  <link href="https://bikerouter.de/#map=19/47.06862/15.46057/standard&amp;lonlats=15.458689,47.069249;15.460017,47.068218&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.069251" lon="15.458691"><ele>369.75</ele></trkpt>
+   <trkpt lat="47.069251" lon="15.458693"><ele>370</ele></trkpt>
+   <trkpt lat="47.069235" lon="15.458739"><ele>370</ele></trkpt>
+   <trkpt lat="47.069167" lon="15.458928"><ele>370</ele></trkpt>
+   <trkpt lat="47.069141" lon="15.459047"><ele>370</ele></trkpt>
+   <trkpt lat="47.069136" lon="15.459123"><ele>370</ele></trkpt>
+   <trkpt lat="47.069133" lon="15.459188"><ele>370</ele></trkpt>
+   <trkpt lat="47.069123" lon="15.459249"><ele>370</ele></trkpt>
+   <trkpt lat="47.069093" lon="15.45934"><ele>370</ele></trkpt>
+   <trkpt lat="47.069068" lon="15.459391"><ele>370.25</ele></trkpt>
+   <trkpt lat="47.068776" lon="15.459842"><ele>371.25</ele></trkpt>
+   <trkpt lat="47.06874" lon="15.4599"><ele>371.25</ele></trkpt>
+   <trkpt lat="47.068714" lon="15.459929"><ele>371.5</ele></trkpt>
+   <trkpt lat="47.06868" lon="15.459951"><ele>371.5</ele></trkpt>
+   <trkpt lat="47.06864" lon="15.459961"><ele>371.75</ele></trkpt>
+   <trkpt lat="47.068602" lon="15.459957"><ele>371.75</ele></trkpt>
+   <trkpt lat="47.068576" lon="15.459949"><ele>372</ele></trkpt>
+   <trkpt lat="47.068479" lon="15.459905"><ele>372.25</ele></trkpt>
+   <trkpt lat="47.068408" lon="15.459902"><ele>372.5</ele></trkpt>
+   <trkpt lat="47.068366" lon="15.45991"><ele>372.75</ele></trkpt>
+   <trkpt lat="47.068219" lon="15.460017"><ele>372.75</ele></trkpt>
+   <trkpt lat="47.068218" lon="15.460017"><ele>372.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

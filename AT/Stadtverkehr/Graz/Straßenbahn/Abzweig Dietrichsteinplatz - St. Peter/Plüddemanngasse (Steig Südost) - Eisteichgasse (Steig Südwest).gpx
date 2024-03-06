@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 7 plain-ascend = 7 cost=530 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Plüddemanngasse (Steig Südost) - Eisteichgasse (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.06143/15.47212/standard&amp;lonlats=15.469834,47.060527;15.472403,47.061559&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.060522" lon="15.469837"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.060526" lon="15.469844"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.060535" lon="15.469863"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.060564" lon="15.469925"><ele>368.5</ele></trkpt>
+   <trkpt lat="47.060685" lon="15.47012"><ele>370</ele></trkpt>
+   <trkpt lat="47.06076" lon="15.470225"><ele>371</ele></trkpt>
+   <trkpt lat="47.061163" lon="15.470802"><ele>373.5</ele></trkpt>
+   <trkpt lat="47.061271" lon="15.470973"><ele>373.75</ele></trkpt>
+   <trkpt lat="47.061708" lon="15.471666"><ele>374.25</ele></trkpt>
+   <trkpt lat="47.061749" lon="15.471733"><ele>374.5</ele></trkpt>
+   <trkpt lat="47.061796" lon="15.471841"><ele>375</ele></trkpt>
+   <trkpt lat="47.061801" lon="15.471943"><ele>375</ele></trkpt>
+   <trkpt lat="47.061787" lon="15.472046"><ele>375</ele></trkpt>
+   <trkpt lat="47.061764" lon="15.4721"><ele>375</ele></trkpt>
+   <trkpt lat="47.061679" lon="15.472239"><ele>374.75</ele></trkpt>
+   <trkpt lat="47.061559" lon="15.472402"><ele>375</ele></trkpt>
+   <trkpt lat="47.061558" lon="15.472402"><ele>375.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
