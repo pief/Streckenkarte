@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 108 filtered ascend = 1 plain-ascend = 2 cost=216 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Abzweig Lauzilgasse/Triester Straße Weiche Nord - Zentralfriedhof (Steig Wendeschleife)</name>
+  <link href="https://bikerouter.de/#map=19/47.04499/15.43108/standard&amp;lonlats=15.430354,47.045731;15.429295,47.045294&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.04573" lon="15.430353"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.04573" lon="15.430352"><ele>347</ele></trkpt>
+   <trkpt lat="47.045687" lon="15.429979"><ele>348</ele></trkpt>
+   <trkpt lat="47.045671" lon="15.429829"><ele>348</ele></trkpt>
+   <trkpt lat="47.045653" lon="15.429671"><ele>348</ele></trkpt>
+   <trkpt lat="47.045632" lon="15.429577"><ele>348</ele></trkpt>
+   <trkpt lat="47.045612" lon="15.429518"><ele>348</ele></trkpt>
+   <trkpt lat="47.045568" lon="15.429435"><ele>348</ele></trkpt>
+   <trkpt lat="47.045516" lon="15.429369"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.045484" lon="15.42934"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.04543" lon="15.429308"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.045398" lon="15.429295"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.045349" lon="15.429289"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.045293" lon="15.429292"><ele>348.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 344 filtered ascend = 1 plain-ascend = 0 cost=688 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Karlauer Gürtel (Steig Süd) - Niederholdaugasse/Augartenbad (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/47.05792/15.43748/standard&amp;lonlats=15.433356,47.057442;15.437819,47.057985&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.05744" lon="15.433355"><ele>348.5</ele></trkpt>
+   <trkpt lat="47.057441" lon="15.433361"><ele>348.75</ele></trkpt>
+   <trkpt lat="47.057466" lon="15.433563"><ele>349</ele></trkpt>
+   <trkpt lat="47.05747" lon="15.433601"><ele>349.25</ele></trkpt>
+   <trkpt lat="47.05752" lon="15.434062"><ele>349.75</ele></trkpt>
+   <trkpt lat="47.057554" lon="15.434482"><ele>348</ele></trkpt>
+   <trkpt lat="47.057581" lon="15.434733"><ele>346.5</ele></trkpt>
+   <trkpt lat="47.05774" lon="15.435966"><ele>344.5</ele></trkpt>
+   <trkpt lat="47.057837" lon="15.436679"><ele>346</ele></trkpt>
+   <trkpt lat="47.057882" lon="15.437008"><ele>346.75</ele></trkpt>
+   <trkpt lat="47.057942" lon="15.437488"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.057955" lon="15.437602"><ele>347.5</ele></trkpt>
+   <trkpt lat="47.057978" lon="15.437809"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.057979" lon="15.437819"><ele>348.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

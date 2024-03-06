@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 2 plain-ascend = 2 cost=502 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Niederholdaugasse/Augartenbad (Steig Süd) - Josefkirche (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/47.05805/15.44047/standard&amp;lonlats=15.437819,47.057985;15.44108,47.058363&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.057979" lon="15.437819"><ele>347.75</ele></trkpt>
+   <trkpt lat="47.058016" lon="15.438121"><ele>348.25</ele></trkpt>
+   <trkpt lat="47.058059" lon="15.438478"><ele>348.75</ele></trkpt>
+   <trkpt lat="47.058205" lon="15.439723"><ele>349</ele></trkpt>
+   <trkpt lat="47.058291" lon="15.440467"><ele>349.5</ele></trkpt>
+   <trkpt lat="47.058311" lon="15.440628"><ele>349.75</ele></trkpt>
+   <trkpt lat="47.058332" lon="15.440818"><ele>349.75</ele></trkpt>
+   <trkpt lat="47.058364" lon="15.441078"><ele>350</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
