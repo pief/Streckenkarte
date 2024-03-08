@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 8 plain-ascend = 7 cost=300 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Guggenbach - Guggenbach Warthkogelsiedlung</name>
+  <link href="https://bikerouter.de/#map=19/47.21888/15.25670/standard&amp;lonlats=15.255721,47.219045;15.25181,47.219382&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.219045" lon="15.255721"><ele>537</ele></trkpt>
+   <trkpt lat="47.219274" lon="15.254494"><ele>540</ele></trkpt>
+   <trkpt lat="47.219321" lon="15.254186"><ele>540.75</ele></trkpt>
+   <trkpt lat="47.219355" lon="15.253863"><ele>542.25</ele></trkpt>
+   <trkpt lat="47.21938" lon="15.253532"><ele>543.5</ele></trkpt>
+   <trkpt lat="47.219394" lon="15.253196"><ele>544.5</ele></trkpt>
+   <trkpt lat="47.219396" lon="15.252854"><ele>545.25</ele></trkpt>
+   <trkpt lat="47.219387" lon="15.252323"><ele>545.25</ele></trkpt>
+   <trkpt lat="47.219386" lon="15.252238"><ele>545</ele></trkpt>
+   <trkpt lat="47.21938" lon="15.251816"><ele>543.5</ele></trkpt>
+   <trkpt lat="47.219379" lon="15.251809"><ele>543.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

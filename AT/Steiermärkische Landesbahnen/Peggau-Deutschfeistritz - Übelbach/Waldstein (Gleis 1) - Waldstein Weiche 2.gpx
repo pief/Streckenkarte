@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 2 plain-ascend = 2 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Waldstein (Gleis 1) - Waldstein Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/47.22000/15.29158/standard&amp;lonlats=15.28993,47.219774;15.288857,47.219426&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.219774" lon="15.28993"><ele>486</ele></trkpt>
+   <trkpt lat="47.219427" lon="15.288861"><ele>487</ele></trkpt>
+   <trkpt lat="47.219425" lon="15.288856"><ele>488</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

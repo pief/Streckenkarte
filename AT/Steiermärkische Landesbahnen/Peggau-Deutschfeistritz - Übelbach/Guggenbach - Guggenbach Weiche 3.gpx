@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 216 filtered ascend = 0 plain-ascend = 0 cost=216 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Guggenbach - Guggenbach Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/47.21888/15.26000/standard&amp;lonlats=15.255721,47.219045;15.258543,47.218803&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.219045" lon="15.255721"><ele>537</ele></trkpt>
+   <trkpt lat="47.219045" lon="15.255725"><ele>537</ele></trkpt>
+   <trkpt lat="47.218991" lon="15.256037"><ele>536.75</ele></trkpt>
+   <trkpt lat="47.218981" lon="15.25611"><ele>536.75</ele></trkpt>
+   <trkpt lat="47.218963" lon="15.256286"><ele>536.5</ele></trkpt>
+   <trkpt lat="47.21895" lon="15.256484"><ele>536.5</ele></trkpt>
+   <trkpt lat="47.218947" lon="15.256693"><ele>536.25</ele></trkpt>
+   <trkpt lat="47.218963" lon="15.257201"><ele>536</ele></trkpt>
+   <trkpt lat="47.218963" lon="15.257403"><ele>536</ele></trkpt>
+   <trkpt lat="47.218949" lon="15.257712"><ele>536.25</ele></trkpt>
+   <trkpt lat="47.218924" lon="15.25792"><ele>536.5</ele></trkpt>
+   <trkpt lat="47.218879" lon="15.258187"><ele>536.75</ele></trkpt>
+   <trkpt lat="47.218801" lon="15.258542"><ele>537</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
