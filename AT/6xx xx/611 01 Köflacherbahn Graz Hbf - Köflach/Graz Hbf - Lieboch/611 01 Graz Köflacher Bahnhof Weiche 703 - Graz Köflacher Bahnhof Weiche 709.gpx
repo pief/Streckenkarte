@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 159 filtered ascend = 0 plain-ascend = 0 cost=159 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>611 01 Graz Köflacher Bahnhof Weiche 703 - Graz Köflacher Bahnhof Weiche 709</name>
+  <link href="https://bikerouter.de/#map=19/47.06887/15.41677/standard&amp;lonlats=15.416053,47.06875;15.415495,47.068498;15.414239,47.068079&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.068745" lon="15.416058"><ele>362</ele></trkpt>
+   <trkpt lat="47.068743" lon="15.416053"><ele>362</ele></trkpt>
+   <trkpt lat="47.06862" lon="15.4158"><ele>362.25</ele></trkpt>
+   <trkpt lat="47.068499" lon="15.415493"><ele>362</ele></trkpt>
+   <trkpt lat="47.068491" lon="15.41547"><ele>362</ele></trkpt>
+   <trkpt lat="47.068282" lon="15.414861"><ele>361</ele></trkpt>
+   <trkpt lat="47.06816" lon="15.414508"><ele>361.75</ele></trkpt>
+   <trkpt lat="47.068079" lon="15.414247"><ele>362</ele></trkpt>
+   <trkpt lat="47.068076" lon="15.41424"><ele>362.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

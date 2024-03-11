@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 0 plain-ascend = 0 cost=180 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>611 01 Graz Hbf (Gleis 7) - Graz Hbf Weiche 454</name>
+  <link href="https://bikerouter.de/#map=19/47.07210/15.41690/standard&amp;lonlats=15.416117,47.072325;15.416906,47.0708&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.072324" lon="15.416115"><ele>362.75</ele></trkpt>
+   <trkpt lat="47.071915" lon="15.416281"><ele>363</ele></trkpt>
+   <trkpt lat="47.07173" lon="15.416379"><ele>363</ele></trkpt>
+   <trkpt lat="47.071422" lon="15.416566"><ele>362.75</ele></trkpt>
+   <trkpt lat="47.071252" lon="15.416669"><ele>362.5</ele></trkpt>
+   <trkpt lat="47.070912" lon="15.416848"><ele>362</ele></trkpt>
+   <trkpt lat="47.070801" lon="15.416906"><ele>361.75</ele></trkpt>
+   <trkpt lat="47.0708" lon="15.416906"><ele>361.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

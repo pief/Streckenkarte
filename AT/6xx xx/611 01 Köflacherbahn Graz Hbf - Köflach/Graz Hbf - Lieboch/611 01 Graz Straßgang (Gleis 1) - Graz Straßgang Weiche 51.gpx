@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 434 filtered ascend = 0 plain-ascend = -3 cost=434 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>611 01 Graz Straßgang (Gleis 1) - Graz Straßgang Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/47.01963/15.40616/standard&amp;lonlats=15.405316,47.019883;15.404334,47.016045&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.019883" lon="15.405309"><ele>347</ele></trkpt>
+   <trkpt lat="47.019869" lon="15.405306"><ele>347</ele></trkpt>
+   <trkpt lat="47.018332" lon="15.404891"><ele>345</ele></trkpt>
+   <trkpt lat="47.018233" lon="15.404864"><ele>345</ele></trkpt>
+   <trkpt lat="47.018122" lon="15.404834"><ele>345</ele></trkpt>
+   <trkpt lat="47.017115" lon="15.404565"><ele>345.25</ele></trkpt>
+   <trkpt lat="47.016811" lon="15.404496"><ele>345.25</ele></trkpt>
+   <trkpt lat="47.016059" lon="15.404343"><ele>343.5</ele></trkpt>
+   <trkpt lat="47.016044" lon="15.404338"><ele>343</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
