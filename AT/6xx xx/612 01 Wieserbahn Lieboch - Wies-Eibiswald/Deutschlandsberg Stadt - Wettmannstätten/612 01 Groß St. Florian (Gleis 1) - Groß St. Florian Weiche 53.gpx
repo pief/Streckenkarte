@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 305 filtered ascend = 0 plain-ascend = 0 cost=305 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>612 01 Groß St. Florian (Gleis 1) - Groß St. Florian Weiche 53</name>
+  <link href="https://bikerouter.de/#map=19/46.82056/15.31772/standard&amp;lonlats=15.317844,46.820902;15.314536,46.819372">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.820901" lon="15.317843"><ele>308.75</ele></trkpt>
+   <trkpt lat="46.820888" lon="15.317815"><ele>309</ele></trkpt>
+   <trkpt lat="46.820569" lon="15.317126"><ele>308.5</ele></trkpt>
+   <trkpt lat="46.820098" lon="15.316103"><ele>308</ele></trkpt>
+   <trkpt lat="46.819786" lon="15.315429"><ele>308.5</ele></trkpt>
+   <trkpt lat="46.819758" lon="15.315367"><ele>308.5</ele></trkpt>
+   <trkpt lat="46.819628" lon="15.315086"><ele>308.75</ele></trkpt>
+   <trkpt lat="46.819375" lon="15.314543"><ele>308.25</ele></trkpt>
+   <trkpt lat="46.819372" lon="15.314536"><ele>308.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

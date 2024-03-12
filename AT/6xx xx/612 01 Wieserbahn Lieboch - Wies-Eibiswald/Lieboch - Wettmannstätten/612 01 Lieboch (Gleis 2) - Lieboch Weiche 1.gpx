@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 0 plain-ascend = 1 cost=310 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>612 01 Lieboch (Gleis 2) - Lieboch Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.96737/15.34640/standard&amp;lonlats=15.345258,46.968592;15.347628,46.966347">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.968589" lon="15.345252"><ele>337.5</ele></trkpt>
+   <trkpt lat="46.968484" lon="15.34535"><ele>337.5</ele></trkpt>
+   <trkpt lat="46.967549" lon="15.346209"><ele>336</ele></trkpt>
+   <trkpt lat="46.967231" lon="15.346506"><ele>336.25</ele></trkpt>
+   <trkpt lat="46.966977" lon="15.34678"><ele>336.75</ele></trkpt>
+   <trkpt lat="46.966776" lon="15.34702"><ele>337.5</ele></trkpt>
+   <trkpt lat="46.966629" lon="15.347212"><ele>338</ele></trkpt>
+   <trkpt lat="46.966348" lon="15.347628"><ele>338.25</ele></trkpt>
+   <trkpt lat="46.966347" lon="15.347628"><ele>338.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

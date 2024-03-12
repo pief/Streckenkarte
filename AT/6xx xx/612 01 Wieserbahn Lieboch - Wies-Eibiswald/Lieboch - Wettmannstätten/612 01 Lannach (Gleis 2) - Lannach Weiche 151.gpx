@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 5 plain-ascend = 6 cost=295 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>612 01 Lannach (Gleis 2) - Lannach Weiche 151</name>
+  <link href="https://bikerouter.de/#map=19/46.94082/15.33486/standard&amp;lonlats=15.334583,46.940907;15.336667,46.938671">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.940912" lon="15.334594"><ele>338.75</ele></trkpt>
+   <trkpt lat="46.940792" lon="15.334714"><ele>338.75</ele></trkpt>
+   <trkpt lat="46.939689" lon="15.335808"><ele>341.75</ele></trkpt>
+   <trkpt lat="46.93959" lon="15.335896"><ele>342</ele></trkpt>
+   <trkpt lat="46.939381" lon="15.336078"><ele>342</ele></trkpt>
+   <trkpt lat="46.938842" lon="15.336513"><ele>343.75</ele></trkpt>
+   <trkpt lat="46.938673" lon="15.336666"><ele>344</ele></trkpt>
+   <trkpt lat="46.938671" lon="15.336667"><ele>344.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

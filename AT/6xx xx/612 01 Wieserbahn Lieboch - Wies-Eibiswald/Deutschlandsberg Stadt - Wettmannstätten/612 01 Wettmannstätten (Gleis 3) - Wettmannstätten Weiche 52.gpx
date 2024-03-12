@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 252 filtered ascend = 0 plain-ascend = -2 cost=252 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>612 01 Wettmannstätten (Gleis 3) - Wettmannstätten Weiche 52</name>
+  <link href="https://bikerouter.de/#map=19/46.83771/15.38257/standard&amp;lonlats=15.380782,46.837459;15.377796,46.83651">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.837454" lon="15.380783"><ele>296.5</ele></trkpt>
+   <trkpt lat="46.837374" lon="15.380546"><ele>296.5</ele></trkpt>
+   <trkpt lat="46.837367" lon="15.380525"><ele>296.5</ele></trkpt>
+   <trkpt lat="46.837257" lon="15.380216"><ele>296.5</ele></trkpt>
+   <trkpt lat="46.837188" lon="15.380025"><ele>296.25</ele></trkpt>
+   <trkpt lat="46.837069" lon="15.379661"><ele>295.75</ele></trkpt>
+   <trkpt lat="46.836913" lon="15.379147"><ele>295.5</ele></trkpt>
+   <trkpt lat="46.836746" lon="15.378596"><ele>294.75</ele></trkpt>
+   <trkpt lat="46.836509" lon="15.377799"><ele>293.5</ele></trkpt>
+   <trkpt lat="46.836508" lon="15.377796"><ele>293.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

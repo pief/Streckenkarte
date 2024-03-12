@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 277 filtered ascend = 5 plain-ascend = 5 cost=277 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>612 01 Wettmannstätten Weiche 11 - Wettmannstätten Weiche 14</name>
+  <link href="https://bikerouter.de/#map=19/46.83922/15.38718/standard&amp;lonlats=15.386972,46.839519;15.386119,46.839204;15.383759,46.83838">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.839518" lon="15.386971"><ele>292.5</ele></trkpt>
+   <trkpt lat="46.83952" lon="15.386974"><ele>292.75</ele></trkpt>
+   <trkpt lat="46.839206" lon="15.386116"><ele>295.5</ele></trkpt>
+   <trkpt lat="46.838675" lon="15.384665"><ele>295.5</ele></trkpt>
+   <trkpt lat="46.838514" lon="15.384196"><ele>295</ele></trkpt>
+   <trkpt lat="46.838382" lon="15.383763"><ele>295.5</ele></trkpt>
+   <trkpt lat="46.83838" lon="15.383757"><ele>295.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

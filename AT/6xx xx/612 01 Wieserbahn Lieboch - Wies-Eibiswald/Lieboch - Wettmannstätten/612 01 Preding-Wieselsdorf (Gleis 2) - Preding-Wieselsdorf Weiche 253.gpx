@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 338 filtered ascend = 0 plain-ascend = -3 cost=338 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>612 01 Preding-Wieselsdorf (Gleis 2) - Preding-Wieselsdorf Weiche 253</name>
+  <link href="https://bikerouter.de/#map=19/46.85762/15.38229/standard&amp;lonlats=15.381857,46.858012;15.383193,46.855116">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.858012" lon="15.381857"><ele>296.75</ele></trkpt>
+   <trkpt lat="46.857915" lon="15.381909"><ele>297</ele></trkpt>
+   <trkpt lat="46.856647" lon="15.382561"><ele>293.75</ele></trkpt>
+   <trkpt lat="46.856165" lon="15.382784"><ele>295</ele></trkpt>
+   <trkpt lat="46.855812" lon="15.382927"><ele>295.25</ele></trkpt>
+   <trkpt lat="46.85529" lon="15.383118"><ele>294.75</ele></trkpt>
+   <trkpt lat="46.85512" lon="15.383191"><ele>294.75</ele></trkpt>
+   <trkpt lat="46.855115" lon="15.383193"><ele>293.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
