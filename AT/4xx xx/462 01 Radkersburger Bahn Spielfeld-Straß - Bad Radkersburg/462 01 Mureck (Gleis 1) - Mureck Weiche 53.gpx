@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 187 filtered ascend = 0 plain-ascend = -1 cost=187 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.11">
+ <trk>
+  <name>462 01 Mureck (Gleis 1) - Mureck Weiche 53</name>
+  <link href="https://bikerouter.de/#map=19/46.71131/15.77160/standard&amp;lonlats=15.771306,46.711292;15.773736,46.711262&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.711287" lon="15.771305"><ele>236.5</ele></trkpt>
+   <trkpt lat="46.711287" lon="15.771308"><ele>236.75</ele></trkpt>
+   <trkpt lat="46.711274" lon="15.772032"><ele>236.25</ele></trkpt>
+   <trkpt lat="46.711278" lon="15.772803"><ele>235</ele></trkpt>
+   <trkpt lat="46.711262" lon="15.773733"><ele>234.75</ele></trkpt>
+   <trkpt lat="46.711261" lon="15.773735"><ele>234.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
