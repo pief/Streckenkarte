@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 3 plain-ascend = 3 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Bürgermeister-Fuchs-Straße (Steig West) - Neumarkt (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.49869/8.46837/standard&amp;lonlats=8.463536,49.501326;8.467332,49.498964&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.501324" lon="8.463533"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.501323" lon="8.463536"><ele>97</ele></trkpt>
+   <trkpt lat="49.501223" lon="8.463701"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.50093" lon="8.464177"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.500616" lon="8.464672"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.500309" lon="8.465181"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.499998" lon="8.465675"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.499691" lon="8.466178"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.49915" lon="8.467027"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.498961" lon="8.467328"><ele>99.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

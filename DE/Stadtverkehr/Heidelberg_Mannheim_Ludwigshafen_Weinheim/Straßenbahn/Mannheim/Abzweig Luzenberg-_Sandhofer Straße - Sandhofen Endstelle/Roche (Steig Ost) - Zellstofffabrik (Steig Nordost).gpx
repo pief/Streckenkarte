@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 429 filtered ascend = 0 plain-ascend = -4 cost=858 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Roche (Steig Ost) - Zellstofffabrik (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.53143/8.46516/standard&amp;lonlats=8.468858,49.528567;8.46496,49.531426&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.528568" lon="8.46886"><ele>98</ele></trkpt>
+   <trkpt lat="49.528931" lon="8.468492"><ele>98</ele></trkpt>
+   <trkpt lat="49.529599" lon="8.467774"><ele>95</ele></trkpt>
+   <trkpt lat="49.529766" lon="8.467581"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.530069" lon="8.467208"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.530245" lon="8.466977"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.530501" lon="8.466613"><ele>94</ele></trkpt>
+   <trkpt lat="49.530765" lon="8.466165"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.530899" lon="8.465928"><ele>92.75</ele></trkpt>
+   <trkpt lat="49.531187" lon="8.465419"><ele>91</ele></trkpt>
+   <trkpt lat="49.531425" lon="8.464965"><ele>91.5</ele></trkpt>
+   <trkpt lat="49.531426" lon="8.464961"><ele>93</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

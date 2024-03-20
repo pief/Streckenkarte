@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 450 filtered ascend = 4 plain-ascend = 1 cost=900 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Zellstofffabrik (Steig Nordost) - Papyrus (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.53344/8.45994/standard&amp;lonlats=8.46496,49.531426;8.459698,49.533532&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.531426" lon="8.464961"><ele>91.5</ele></trkpt>
+   <trkpt lat="49.531518" lon="8.464788"><ele>93</ele></trkpt>
+   <trkpt lat="49.531715" lon="8.464404"><ele>95</ele></trkpt>
+   <trkpt lat="49.531965" lon="8.463884"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.53239" lon="8.462962"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.532677" lon="8.462275"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.532832" lon="8.461861"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.533113" lon="8.461081"><ele>91.75</ele></trkpt>
+   <trkpt lat="49.533348" lon="8.460335"><ele>89.75</ele></trkpt>
+   <trkpt lat="49.533386" lon="8.460203"><ele>89.75</ele></trkpt>
+   <trkpt lat="49.533532" lon="8.459704"><ele>91.25</ele></trkpt>
+   <trkpt lat="49.533533" lon="8.459699"><ele>92.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

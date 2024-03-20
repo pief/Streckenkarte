@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 0 plain-ascend = -2 cost=728 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hanfstraße (Steig West) - Bürstädter Straße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.53532/8.45365/standard&amp;lonlats=8.451144,49.538237;8.453167,49.535274&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.538236" lon="8.451141"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.538234" lon="8.451143"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.538079" lon="8.451257"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.537722" lon="8.451496"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.537466" lon="8.451652"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.536764" lon="8.451955"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.536144" lon="8.452336"><ele>98</ele></trkpt>
+   <trkpt lat="49.536023" lon="8.45242"><ele>98</ele></trkpt>
+   <trkpt lat="49.535796" lon="8.452608"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.535638" lon="8.452751"><ele>97</ele></trkpt>
+   <trkpt lat="49.535515" lon="8.452877"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.535274" lon="8.453164"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.535273" lon="8.453165"><ele>96</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

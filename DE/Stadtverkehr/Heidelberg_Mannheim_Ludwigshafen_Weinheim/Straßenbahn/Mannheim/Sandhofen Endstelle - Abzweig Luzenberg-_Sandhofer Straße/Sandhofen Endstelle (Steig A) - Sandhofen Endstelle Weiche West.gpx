@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = 1 cost=202 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Sandhofen Endstelle (Steig A) - Sandhofen Endstelle Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/49.54175/8.45001/standard&amp;lonlats=8.449452,49.54202;8.448889,49.541838&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.542021" lon="8.449456"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.542023" lon="8.449455"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.542083" lon="8.449415"><ele>97</ele></trkpt>
+   <trkpt lat="49.542144" lon="8.449369"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.542204" lon="8.449289"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.542222" lon="8.449248"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.542242" lon="8.449168"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.542247" lon="8.449118"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.542244" lon="8.449032"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.542234" lon="8.448984"><ele>97</ele></trkpt>
+   <trkpt lat="49.542208" lon="8.448911"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.542176" lon="8.448859"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.54213" lon="8.448814"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.542091" lon="8.448793"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.542055" lon="8.448786"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.542019" lon="8.448788"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.541971" lon="8.448806"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.541843" lon="8.448891"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.541839" lon="8.448893"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

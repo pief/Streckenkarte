@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Waldhof Bahnhof Weiche Nord-Ost - Waldhof Bahnhof (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.52481/8.48316/standard&amp;lonlats=8.481974,49.524312;8.482027,49.524864&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.524311" lon="8.481975"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.524314" lon="8.481978"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.524416" lon="8.482048"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.524493" lon="8.482081"><ele>100</ele></trkpt>
+   <trkpt lat="49.524572" lon="8.482096"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.524657" lon="8.482094"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.524738" lon="8.482072"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.524865" lon="8.482035"><ele>99.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

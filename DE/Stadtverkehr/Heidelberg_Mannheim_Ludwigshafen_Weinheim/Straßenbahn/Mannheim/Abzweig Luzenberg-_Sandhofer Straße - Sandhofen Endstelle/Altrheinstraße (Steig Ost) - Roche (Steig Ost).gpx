@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 368 filtered ascend = 1 plain-ascend = 1 cost=736 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Altrheinstraße (Steig Ost) - Roche (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.52863/8.46946/standard&amp;lonlats=8.471041,49.525609;8.468858,49.528567&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.525609" lon="8.471041"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.525612" lon="8.47104"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.526171" lon="8.47075"><ele>96</ele></trkpt>
+   <trkpt lat="49.526407" lon="8.470613"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.526841" lon="8.470344"><ele>94.25</ele></trkpt>
+   <trkpt lat="49.527102" lon="8.470163"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.52733" lon="8.469981"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.527569" lon="8.469777"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.52826" lon="8.46916"><ele>99</ele></trkpt>
+   <trkpt lat="49.528567" lon="8.468862"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.528568" lon="8.46886"><ele>98</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

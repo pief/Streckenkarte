@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 389 filtered ascend = 3 plain-ascend = 3 cost=778 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Bürstädter Straße (Steig Nordost) - Hanfstraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=17/49.53979/8.45063/standard&amp;lonlats=8.453191,49.53529;8.451024,49.538448&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.535291" lon="8.453194"><ele>96</ele></trkpt>
+   <trkpt lat="49.535292" lon="8.453194"><ele>96</ele></trkpt>
+   <trkpt lat="49.535528" lon="8.452911"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.535779" lon="8.452664"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.536031" lon="8.452453"><ele>98</ele></trkpt>
+   <trkpt lat="49.536485" lon="8.452162"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.536775" lon="8.451992"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.537481" lon="8.451687"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.537734" lon="8.451539"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.538078" lon="8.4513"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.538448" lon="8.451027"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

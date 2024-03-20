@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = 0 cost=198 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Sandhofen Endstelle Weiche Süd - Sandhofen Endstelle (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.54175/8.45001/standard&amp;lonlats=8.449892,49.541194;8.449452,49.54202&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.541194" lon="8.449895"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.541196" lon="8.449895"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.541465" lon="8.449812"><ele>98</ele></trkpt>
+   <trkpt lat="49.541576" lon="8.449754"><ele>98</ele></trkpt>
+   <trkpt lat="49.542021" lon="8.449456"><ele>97.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

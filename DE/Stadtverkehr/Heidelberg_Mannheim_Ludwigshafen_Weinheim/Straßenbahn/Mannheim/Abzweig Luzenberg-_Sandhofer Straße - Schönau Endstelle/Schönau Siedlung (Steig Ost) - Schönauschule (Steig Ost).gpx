@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 1 plain-ascend = 2 cost=1024 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Schönau Siedlung (Steig Ost) - Schönauschule (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.54381/8.47444/standard&amp;lonlats=8.473409,49.539587;8.474158,49.544148&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.539586" lon="8.473408"><ele>97</ele></trkpt>
+   <trkpt lat="49.539591" lon="8.473409"><ele>97</ele></trkpt>
+   <trkpt lat="49.539989" lon="8.473497"><ele>97</ele></trkpt>
+   <trkpt lat="49.540795" lon="8.473687"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.542021" lon="8.473981"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.54224" lon="8.474018"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.542332" lon="8.474025"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.543092" lon="8.474076"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.543364" lon="8.47409"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.54364" lon="8.474122"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.544147" lon="8.474156"><ele>98.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
