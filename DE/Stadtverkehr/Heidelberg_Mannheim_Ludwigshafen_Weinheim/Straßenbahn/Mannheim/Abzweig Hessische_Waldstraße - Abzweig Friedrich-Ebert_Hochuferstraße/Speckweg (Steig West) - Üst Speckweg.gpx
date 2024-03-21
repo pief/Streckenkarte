@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 1 cost=128 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Speckweg (Steig West) - Üst Speckweg</name>
+  <link href="https://bikerouter.de/#map=19/49.52033/8.49949/standard&amp;lonlats=8.499075,49.520695;8.49877,49.520161&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.520692" lon="8.499083"><ele>99</ele></trkpt>
+   <trkpt lat="49.520516" lon="8.498969"><ele>99</ele></trkpt>
+   <trkpt lat="49.520442" lon="8.498922"><ele>99</ele></trkpt>
+   <trkpt lat="49.52039" lon="8.498886"><ele>99</ele></trkpt>
+   <trkpt lat="49.520332" lon="8.498853"><ele>99</ele></trkpt>
+   <trkpt lat="49.520162" lon="8.498773"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.520159" lon="8.498771"><ele>99.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

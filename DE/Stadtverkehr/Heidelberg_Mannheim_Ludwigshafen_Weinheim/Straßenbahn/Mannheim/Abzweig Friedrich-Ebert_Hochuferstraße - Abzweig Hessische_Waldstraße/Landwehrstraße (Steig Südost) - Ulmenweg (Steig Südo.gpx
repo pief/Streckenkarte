@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 319 filtered ascend = 0 plain-ascend = 1 cost=638 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Landwehrstraße (Steig Südost) - Ulmenweg (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.50751/8.49369/standard&amp;lonlats=8.49027,49.505724;8.493529,49.507648&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.505727" lon="8.490264"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.505731" lon="8.49027"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.505838" lon="8.490469"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.506142" lon="8.491032"><ele>99</ele></trkpt>
+   <trkpt lat="49.506314" lon="8.491353"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.506401" lon="8.491525"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.506526" lon="8.49173"><ele>99</ele></trkpt>
+   <trkpt lat="49.506648" lon="8.491899"><ele>99</ele></trkpt>
+   <trkpt lat="49.506826" lon="8.492107"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.506949" lon="8.492269"><ele>98</ele></trkpt>
+   <trkpt lat="49.507062" lon="8.492448"><ele>98</ele></trkpt>
+   <trkpt lat="49.507297" lon="8.492886"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.50742" lon="8.493111"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.507646" lon="8.493529"><ele>99.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

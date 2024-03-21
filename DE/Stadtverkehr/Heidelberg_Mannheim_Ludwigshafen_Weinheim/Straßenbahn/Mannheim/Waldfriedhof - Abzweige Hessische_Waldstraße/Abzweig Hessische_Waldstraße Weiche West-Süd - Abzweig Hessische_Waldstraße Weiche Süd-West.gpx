@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Hessische/Waldstraße Weiche West-Süd - Abzweig Hessische/Waldstraße Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/49.52391/8.50170/standard&amp;lonlats=8.501401,49.523824;8.501503,49.523459&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.523824" lon="8.501401"><ele>100</ele></trkpt>
+   <trkpt lat="49.523821" lon="8.50141"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.523772" lon="8.501497"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.523725" lon="8.501553"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.523679" lon="8.501585"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.523638" lon="8.501596"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.523582" lon="8.501595"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.523543" lon="8.501583"><ele>100</ele></trkpt>
+   <trkpt lat="49.523499" lon="8.501554"><ele>100</ele></trkpt>
+   <trkpt lat="49.52346" lon="8.501512"><ele>100</ele></trkpt>
+   <trkpt lat="49.523455" lon="8.501507"><ele>100.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

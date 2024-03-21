@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 0 plain-ascend = 1 cost=240 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Freilichtbühne - Üst Waldfriedhof</name>
+  <link href="https://bikerouter.de/#map=19/49.53512/8.49461/standard&amp;lonlats=8.493038,49.533675;8.493692,49.534668&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.533673" lon="8.493038"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.533699" lon="8.493059"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.533968" lon="8.493286"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.534113" lon="8.493402"><ele>98</ele></trkpt>
+   <trkpt lat="49.534173" lon="8.493437"><ele>98</ele></trkpt>
+   <trkpt lat="49.534304" lon="8.493482"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.534376" lon="8.493501"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.534499" lon="8.493559"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.534666" lon="8.493693"><ele>99.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

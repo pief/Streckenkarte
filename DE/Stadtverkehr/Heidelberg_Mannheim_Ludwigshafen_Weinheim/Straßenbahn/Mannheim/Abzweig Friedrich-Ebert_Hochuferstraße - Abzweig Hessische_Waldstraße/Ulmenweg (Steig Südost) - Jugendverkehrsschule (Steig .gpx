@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 600 filtered ascend = 0 plain-ascend = -1 cost=1200 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Ulmenweg (Steig Südost) - Jugendverkehrsschule (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=18/49.51150/8.49479/standard&amp;lonlats=8.493529,49.507648;8.493515,49.511771&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.507646" lon="8.493529"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.507649" lon="8.493534"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.507751" lon="8.493722"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.507823" lon="8.493855"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.507909" lon="8.494017"><ele>99</ele></trkpt>
+   <trkpt lat="49.50868" lon="8.495451"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.508759" lon="8.495591"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.508866" lon="8.495723"><ele>98</ele></trkpt>
+   <trkpt lat="49.509019" lon="8.495876"><ele>98</ele></trkpt>
+   <trkpt lat="49.509092" lon="8.495925"><ele>98</ele></trkpt>
+   <trkpt lat="49.509207" lon="8.495984"><ele>98</ele></trkpt>
+   <trkpt lat="49.509303" lon="8.496011"><ele>98</ele></trkpt>
+   <trkpt lat="49.509381" lon="8.49602"><ele>98</ele></trkpt>
+   <trkpt lat="49.50953" lon="8.49601"><ele>98</ele></trkpt>
+   <trkpt lat="49.509617" lon="8.495986"><ele>98</ele></trkpt>
+   <trkpt lat="49.509761" lon="8.49592"><ele>98</ele></trkpt>
+   <trkpt lat="49.509879" lon="8.495826"><ele>98</ele></trkpt>
+   <trkpt lat="49.510021" lon="8.495669"><ele>98</ele></trkpt>
+   <trkpt lat="49.510988" lon="8.494479"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.511308" lon="8.494085"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.511521" lon="8.49382"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.511766" lon="8.493516"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.511769" lon="8.493511"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

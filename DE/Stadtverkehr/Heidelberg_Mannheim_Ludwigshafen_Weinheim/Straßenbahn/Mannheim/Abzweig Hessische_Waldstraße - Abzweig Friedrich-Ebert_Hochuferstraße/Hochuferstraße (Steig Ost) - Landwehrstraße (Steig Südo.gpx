@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 4 plain-ascend = 1 cost=764 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hochuferstraße (Steig Ost) - Landwehrstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.50533/8.49009/standard&amp;lonlats=8.487582,49.503199;8.49027,49.505724&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.503201" lon="8.487595"><ele>98</ele></trkpt>
+   <trkpt lat="49.503305" lon="8.487559"><ele>98</ele></trkpt>
+   <trkpt lat="49.503334" lon="8.487548"><ele>98</ele></trkpt>
+   <trkpt lat="49.50396" lon="8.487324"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.504057" lon="8.487311"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.504129" lon="8.487338"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.50417" lon="8.487368"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.504224" lon="8.487434"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.504526" lon="8.488009"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.505389" lon="8.489629"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.505727" lon="8.490264"><ele>99.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

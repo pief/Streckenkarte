@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 33 filtered ascend = 0 plain-ascend = 1 cost=66 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Üst Waldfriedhof - Waldfriedhof Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.53495/8.49503/standard&amp;lonlats=8.493693,49.534666;8.493904,49.534924&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.534665" lon="8.493692"><ele>99</ele></trkpt>
+   <trkpt lat="49.53467" lon="8.493696"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.534922" lon="8.493906"><ele>99.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

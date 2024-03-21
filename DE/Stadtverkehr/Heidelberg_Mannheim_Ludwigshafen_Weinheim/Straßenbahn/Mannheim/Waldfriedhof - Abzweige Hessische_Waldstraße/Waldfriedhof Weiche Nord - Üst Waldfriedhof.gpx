@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 1 plain-ascend = -2 cost=400 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Waldfriedhof Weiche Nord - Üst Waldfriedhof</name>
+  <link href="https://bikerouter.de/#map=19/49.53503/8.49441/standard&amp;lonlats=8.494513,49.536036;8.493893,49.53592;8.493692,49.534665&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.536035" lon="8.494511"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.536069" lon="8.49446"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.536097" lon="8.494386"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.53611" lon="8.494317"><ele>102</ele></trkpt>
+   <trkpt lat="49.536115" lon="8.494244"><ele>102</ele></trkpt>
+   <trkpt lat="49.53611" lon="8.494176"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.536093" lon="8.494098"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.536069" lon="8.494036"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.536035" lon="8.493981"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.535987" lon="8.493933"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.535955" lon="8.493913"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.535917" lon="8.493906"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.535876" lon="8.493899"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.535294" lon="8.493948"><ele>101</ele></trkpt>
+   <trkpt lat="49.535172" lon="8.493935"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.534988" lon="8.493887"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.534897" lon="8.493846"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.534811" lon="8.493796"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.53467" lon="8.493696"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.534664" lon="8.493691"><ele>98.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

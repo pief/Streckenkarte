@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 430 filtered ascend = 0 plain-ascend = 0 cost=860 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hochuferstraße (Steig West) - Bonifatiuskirche (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.49858/8.48892/standard&amp;lonlats=8.487644,49.50294;8.488516,49.499129&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.50294" lon="8.487645"><ele>98</ele></trkpt>
+   <trkpt lat="49.502939" lon="8.487646"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.502657" lon="8.487746"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.502235" lon="8.487898"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.502104" lon="8.487934"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.501834" lon="8.488008"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.500476" lon="8.488271"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.500302" lon="8.488297"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.500145" lon="8.488323"><ele>97</ele></trkpt>
+   <trkpt lat="49.499595" lon="8.488427"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.499138" lon="8.488514"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.499128" lon="8.488515"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
