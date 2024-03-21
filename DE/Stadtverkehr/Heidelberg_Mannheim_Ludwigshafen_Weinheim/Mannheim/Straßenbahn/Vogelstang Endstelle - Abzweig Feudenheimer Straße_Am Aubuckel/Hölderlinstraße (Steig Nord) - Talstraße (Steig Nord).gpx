@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 408 filtered ascend = 4 plain-ascend = 1 cost=816 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hölderlinstraße (Steig Nord) - Talstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.49511/8.52371/standard&amp;lonlats=8.529945,49.496492;8.524653,49.495326&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.496489" lon="8.529945"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.496436" lon="8.529747"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.495828" lon="8.527447"><ele>102</ele></trkpt>
+   <trkpt lat="49.495676" lon="8.52677"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.495506" lon="8.525875"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.495329" lon="8.524652"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.495328" lon="8.52465"><ele>101</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

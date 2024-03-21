@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 225 filtered ascend = 3 plain-ascend = 3 cost=450 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Vogelstang West (Steig Oben-Ost) - Potsdamer Weg (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.50812/8.53433/standard&amp;lonlats=8.532059,49.506468;8.533408,49.508227&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.506466" lon="8.532065"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.50647" lon="8.532066"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506518" lon="8.53207"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506694" lon="8.532104"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506864" lon="8.532156"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.507008" lon="8.532209"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.507107" lon="8.532258"><ele>104</ele></trkpt>
+   <trkpt lat="49.507226" lon="8.532323"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.50743" lon="8.53246"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.50752" lon="8.532533"><ele>105</ele></trkpt>
+   <trkpt lat="49.507713" lon="8.53271"><ele>105.25</ele></trkpt>
+   <trkpt lat="49.5078" lon="8.532807"><ele>105.5</ele></trkpt>
+   <trkpt lat="49.508027" lon="8.533096"><ele>106</ele></trkpt>
+   <trkpt lat="49.508165" lon="8.533309"><ele>106.5</ele></trkpt>
+   <trkpt lat="49.508221" lon="8.533407"><ele>106.5</ele></trkpt>
+   <trkpt lat="49.508223" lon="8.533411"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

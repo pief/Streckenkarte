@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 255 filtered ascend = 0 plain-ascend = -2 cost=510 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Potsdamer Weg (Steig Nordwest) - Vogelstang West (Steig Oben-West)</name>
+  <link href="https://bikerouter.de/#map=19/49.50581/8.53220/standard&amp;lonlats=8.533274,49.508186;8.532024,49.506121&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.508185" lon="8.533273"><ele>106.25</ele></trkpt>
+   <trkpt lat="49.508056" lon="8.533069"><ele>106</ele></trkpt>
+   <trkpt lat="49.50796" lon="8.532934"><ele>105.75</ele></trkpt>
+   <trkpt lat="49.507779" lon="8.532717"><ele>105.25</ele></trkpt>
+   <trkpt lat="49.507674" lon="8.53261"><ele>105</ele></trkpt>
+   <trkpt lat="49.507456" lon="8.532421"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.507263" lon="8.532286"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.507066" lon="8.532182"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.506871" lon="8.532107"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506699" lon="8.532055"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506546" lon="8.532025"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506389" lon="8.532012"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506128" lon="8.532024"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506121" lon="8.532025"><ele>103.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

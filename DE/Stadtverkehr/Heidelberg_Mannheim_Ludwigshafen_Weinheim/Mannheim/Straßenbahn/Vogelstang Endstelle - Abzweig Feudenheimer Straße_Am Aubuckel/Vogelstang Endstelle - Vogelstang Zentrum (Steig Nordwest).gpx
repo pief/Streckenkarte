@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 394 filtered ascend = 3 plain-ascend = 3 cost=788 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Vogelstang Endstelle - Vogelstang Zentrum (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.51023/8.53986/standard&amp;lonlats=8.544013,49.511792;8.539083,49.510437&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.511796" lon="8.544011"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.511758" lon="8.543256"><ele>100</ele></trkpt>
+   <trkpt lat="49.511722" lon="8.542977"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.511672" lon="8.542684"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.511603" lon="8.542352"><ele>101</ele></trkpt>
+   <trkpt lat="49.511541" lon="8.542096"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.511444" lon="8.541771"><ele>102</ele></trkpt>
+   <trkpt lat="49.511317" lon="8.541405"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.510635" lon="8.539599"><ele>105.25</ele></trkpt>
+   <trkpt lat="49.510612" lon="8.53954"><ele>105</ele></trkpt>
+   <trkpt lat="49.510543" lon="8.539363"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.510439" lon="8.539083"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.510438" lon="8.53908"><ele>104.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

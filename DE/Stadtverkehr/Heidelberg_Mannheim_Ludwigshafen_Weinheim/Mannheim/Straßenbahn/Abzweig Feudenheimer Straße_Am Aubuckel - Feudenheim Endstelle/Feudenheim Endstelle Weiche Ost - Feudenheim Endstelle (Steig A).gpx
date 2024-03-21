@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=178 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Feudenheim Endstelle Weiche Ost - Feudenheim Endstelle (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.48406/8.53876/standard&amp;lonlats=8.538743,49.484055;8.537546,49.484018&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.484056" lon="8.53874"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.484055" lon="8.538738"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.484038" lon="8.538684"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.483998" lon="8.538501"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.483989" lon="8.53833"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.484019" lon="8.537551"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.484019" lon="8.537546"><ele>101.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 590 filtered ascend = 1 plain-ascend = 0 cost=1180 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hölderlinstraße (Steig Süd) - Kiesacker (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.49853/8.53687/standard&amp;lonlats=8.52951,49.496349;8.536554,49.498882&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.496347" lon="8.529509"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.496349" lon="8.529517"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.49641" lon="8.529744"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.49675" lon="8.531026"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.496847" lon="8.531367"><ele>99</ele></trkpt>
+   <trkpt lat="49.496923" lon="8.531627"><ele>99</ele></trkpt>
+   <trkpt lat="49.497098" lon="8.532152"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.497327" lon="8.532771"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.497714" lon="8.533762"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.497952" lon="8.534402"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.498224" lon="8.535159"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.498386" lon="8.535655"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.49849" lon="8.536001"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.498547" lon="8.536155"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.498591" lon="8.536246"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.498649" lon="8.536339"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.498749" lon="8.536458"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.498819" lon="8.536514"><ele>99</ele></trkpt>
+   <trkpt lat="49.498881" lon="8.536552"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

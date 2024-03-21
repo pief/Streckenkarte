@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 142 filtered ascend = 2 plain-ascend = 1 cost=284 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Vogelstang Endstelle Weiche Süd - (Westgleis) - Vogelstang Endstelle Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.51157/8.54591/standard&amp;lonlats=8.544032,49.511421;8.544426,49.511818&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.511422" lon="8.544033"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.511421" lon="8.544036"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.511343" lon="8.544235"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.511312" lon="8.544357"><ele>101</ele></trkpt>
+   <trkpt lat="49.511297" lon="8.544486"><ele>101</ele></trkpt>
+   <trkpt lat="49.511298" lon="8.544624"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.511313" lon="8.544711"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.511355" lon="8.544807"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.511417" lon="8.544884"><ele>102</ele></trkpt>
+   <trkpt lat="49.511503" lon="8.544923"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.511587" lon="8.544928"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.511638" lon="8.544921"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.511689" lon="8.544896"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.51174" lon="8.544848"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.511771" lon="8.544796"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.511789" lon="8.54475"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.511816" lon="8.544607"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.511814" lon="8.544428"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.511813" lon="8.544425"><ele>101.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
