@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=54 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9400 Mannheim Bensheimer Straße (Gleis 22) - Mannheim Bensheimer Straße Weiche 656</name>
+  <link href="https://bikerouter.de/#map=19/49.51415/8.52828/standard&amp;lonlats=8.52704,49.513734;8.527657,49.514009&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.513727" lon="8.527045"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.513895" lon="8.527417"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.513959" lon="8.527558"><ele>100</ele></trkpt>
+   <trkpt lat="49.514004" lon="8.52766"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

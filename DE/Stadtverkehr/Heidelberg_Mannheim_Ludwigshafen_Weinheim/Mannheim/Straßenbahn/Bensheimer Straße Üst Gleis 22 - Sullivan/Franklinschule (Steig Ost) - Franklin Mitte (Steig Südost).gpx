@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 2 plain-ascend = 3 cost=764 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Franklinschule (Steig Ost) - Franklin Mitte (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.51996/8.52915/standard&amp;lonlats=8.525766,49.517608;8.529119,49.520084&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.517605" lon="8.525771"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.517607" lon="8.525772"><ele>101</ele></trkpt>
+   <trkpt lat="49.518224" lon="8.526191"><ele>103</ele></trkpt>
+   <trkpt lat="49.518887" lon="8.526642"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.518962" lon="8.526711"><ele>103</ele></trkpt>
+   <trkpt lat="49.519017" lon="8.52679"><ele>103</ele></trkpt>
+   <trkpt lat="49.519051" lon="8.52685"><ele>103</ele></trkpt>
+   <trkpt lat="49.519252" lon="8.527295"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.519308" lon="8.527418"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.519357" lon="8.527527"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.520078" lon="8.529124"><ele>103.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
