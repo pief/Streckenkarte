@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 354 filtered ascend = 2 plain-ascend = -1 cost=708 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Schillerschule (Steig West) - Hoheneckenstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.45684/8.42708/standard&amp;lonlats=8.427656,49.459916;8.426677,49.4568&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.459914" lon="8.42766"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.459568" lon="8.427548"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.459506" lon="8.427529"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.458851" lon="8.427331"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.458174" lon="8.427119"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.457294" lon="8.426847"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.456996" lon="8.426753"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.456804" lon="8.426679"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.456799" lon="8.426676"><ele>96.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

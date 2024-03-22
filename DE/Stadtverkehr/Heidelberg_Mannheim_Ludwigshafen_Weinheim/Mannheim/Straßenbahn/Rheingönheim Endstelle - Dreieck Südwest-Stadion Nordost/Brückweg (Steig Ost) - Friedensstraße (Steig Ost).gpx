@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 406 filtered ascend = 1 plain-ascend = 1 cost=812 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Brückweg (Steig Ost) - Friedensstraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.44969/8.42473/standard&amp;lonlats=8.425886,49.446291;8.423799,49.449648&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.44629" lon="8.425885"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.446292" lon="8.425885"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.446459" lon="8.42582"><ele>94</ele></trkpt>
+   <trkpt lat="49.447303" lon="8.425411"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.447528" lon="8.425276"><ele>95</ele></trkpt>
+   <trkpt lat="49.448851" lon="8.424391"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.449031" lon="8.424265"><ele>95</ele></trkpt>
+   <trkpt lat="49.449263" lon="8.424073"><ele>95</ele></trkpt>
+   <trkpt lat="49.44948" lon="8.423879"><ele>95</ele></trkpt>
+   <trkpt lat="49.449564" lon="8.423829"><ele>95</ele></trkpt>
+   <trkpt lat="49.449647" lon="8.423796"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.449647" lon="8.423795"><ele>94.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

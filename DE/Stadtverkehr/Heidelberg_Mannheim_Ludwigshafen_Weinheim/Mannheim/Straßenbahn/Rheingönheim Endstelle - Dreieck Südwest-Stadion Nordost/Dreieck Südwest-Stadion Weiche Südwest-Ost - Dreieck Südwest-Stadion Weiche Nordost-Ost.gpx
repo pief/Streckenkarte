@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = 1 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Südwest-Stadion Weiche Südwest-Ost - Dreieck Südwest-Stadion Weiche Nordost-Ost</name>
+  <link href="https://bikerouter.de/#map=19/49.47208/8.43992/standard&amp;lonlats=8.439265,49.471835;8.439742,49.472243&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.471834" lon="8.439264"><ele>96</ele></trkpt>
+   <trkpt lat="49.471839" lon="8.439269"><ele>96</ele></trkpt>
+   <trkpt lat="49.472097" lon="8.439574"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.472236" lon="8.439738"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.472241" lon="8.439743"><ele>96.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

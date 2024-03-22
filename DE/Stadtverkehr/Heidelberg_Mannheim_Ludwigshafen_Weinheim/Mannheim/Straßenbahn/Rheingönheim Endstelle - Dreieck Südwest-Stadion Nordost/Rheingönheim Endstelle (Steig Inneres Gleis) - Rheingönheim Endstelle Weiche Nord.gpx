@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 1 plain-ascend = 1 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Rheingönheim Endstelle (Steig Inneres Gleis) - Rheingönheim Endstelle Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.44383/8.42034/standard&amp;lonlats=8.419202,49.443607;8.419671,49.443844&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.443605" lon="8.419202"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.443606" lon="8.419204"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.443666" lon="8.419353"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.44368" lon="8.419387"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.443701" lon="8.419432"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.443728" lon="8.419474"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.443796" lon="8.41957"><ele>94</ele></trkpt>
+   <trkpt lat="49.443844" lon="8.419671"><ele>94.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

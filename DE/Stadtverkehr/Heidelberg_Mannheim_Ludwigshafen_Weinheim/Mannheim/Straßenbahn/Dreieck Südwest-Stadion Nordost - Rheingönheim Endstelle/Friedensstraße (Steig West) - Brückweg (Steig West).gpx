@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 397 filtered ascend = 0 plain-ascend = 0 cost=794 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Friedensstraße (Steig West) - Brückweg (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.44633/8.42565/standard&amp;lonlats=8.42377,49.449583;8.425838,49.446287&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.449581" lon="8.423764"><ele>95</ele></trkpt>
+   <trkpt lat="49.449443" lon="8.42385"><ele>95</ele></trkpt>
+   <trkpt lat="49.449267" lon="8.424014"><ele>95</ele></trkpt>
+   <trkpt lat="49.449014" lon="8.424222"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.448839" lon="8.424344"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.44752" lon="8.42523"><ele>95</ele></trkpt>
+   <trkpt lat="49.447294" lon="8.425366"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.446451" lon="8.425773"><ele>94</ele></trkpt>
+   <trkpt lat="49.446287" lon="8.425838"><ele>93.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
