@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 791 filtered ascend = 1 plain-ascend = -4 cost=1582 energy=0.0kwh time=1m 3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hauptfriedhof (Steig Südwest) - Pfefferswörth (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.48914/8.50266/standard&amp;lonlats=8.491251,49.490775;8.501591,49.489425&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.490777" lon="8.491255"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.49067" lon="8.491371"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490552" lon="8.491503"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490435" lon="8.491654"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490334" lon="8.491805"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.4903" lon="8.491859"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.49019" lon="8.492048"><ele>99</ele></trkpt>
+   <trkpt lat="49.490097" lon="8.492234"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.490017" lon="8.492419"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.489906" lon="8.492757"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.489867" lon="8.492924"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.489807" lon="8.493296"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.489787" lon="8.493503"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.489484" lon="8.500079"><ele>96</ele></trkpt>
+   <trkpt lat="49.489444" lon="8.500981"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.489419" lon="8.50159"><ele>93</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

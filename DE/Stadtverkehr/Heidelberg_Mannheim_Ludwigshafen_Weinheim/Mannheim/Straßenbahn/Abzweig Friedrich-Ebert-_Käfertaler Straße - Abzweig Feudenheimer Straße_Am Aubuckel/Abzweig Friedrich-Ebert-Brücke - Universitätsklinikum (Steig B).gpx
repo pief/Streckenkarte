@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 4 plain-ascend = 5 cost=412 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Friedrich-Ebert-Brücke - Universitätsklinikum (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/49.49265/8.48414/standard&amp;lonlats=8.482566,49.492337;8.484369,49.493722&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.492334" lon="8.482571"><ele>93</ele></trkpt>
+   <trkpt lat="49.492341" lon="8.482576"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.49263" lon="8.482778"><ele>95</ele></trkpt>
+   <trkpt lat="49.492765" lon="8.482882"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.492885" lon="8.482998"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.492986" lon="8.483111"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.493075" lon="8.483227"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.493157" lon="8.48335"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.493195" lon="8.483412"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.493222" lon="8.483459"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.49341" lon="8.483797"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.493726" lon="8.484361"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

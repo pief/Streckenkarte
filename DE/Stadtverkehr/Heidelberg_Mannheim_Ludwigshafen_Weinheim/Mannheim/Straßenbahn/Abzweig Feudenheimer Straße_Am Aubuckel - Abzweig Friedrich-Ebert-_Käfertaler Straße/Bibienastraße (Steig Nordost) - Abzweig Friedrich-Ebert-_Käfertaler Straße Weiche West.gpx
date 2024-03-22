@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 2 plain-ascend = 2 cost=598 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Bibienastraße (Steig Nordost) - Abzweig Friedrich-Ebert-/Käfertaler Straße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/49.49400/8.48542/standard&amp;lonlats=8.488443,49.494671;8.484554,49.493943&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.494672" lon="8.488443"><ele>96</ele></trkpt>
+   <trkpt lat="49.494695" lon="8.488243"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.494699" lon="8.488052"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.494692" lon="8.487911"><ele>96</ele></trkpt>
+   <trkpt lat="49.494663" lon="8.487701"><ele>96</ele></trkpt>
+   <trkpt lat="49.494636" lon="8.48758"><ele>96</ele></trkpt>
+   <trkpt lat="49.494487" lon="8.487025"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.494399" lon="8.486657"><ele>97</ele></trkpt>
+   <trkpt lat="49.494315" lon="8.486251"><ele>96</ele></trkpt>
+   <trkpt lat="49.494138" lon="8.485221"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.494114" lon="8.48509"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.494098" lon="8.484988"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.494062" lon="8.484836"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.494044" lon="8.48478"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.494016" lon="8.484703"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.493943" lon="8.484556"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.493941" lon="8.484554"><ele>98.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
