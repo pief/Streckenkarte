@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 413 filtered ascend = 2 plain-ascend = -4 cost=826 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Lorientallee/Rohrlachstraße Weiche Süd - Abzweig Hauptbahnhof Nordost Weiche West</name>
+  <link href="https://bikerouter.de/#map=17/49.48238/8.43395/standard&amp;lonlats=8.431613,49.482888;8.434638,49.479986&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.482887" lon="8.431612"><ele>97</ele></trkpt>
+   <trkpt lat="49.482868" lon="8.431681"><ele>97</ele></trkpt>
+   <trkpt lat="49.482746" lon="8.432036"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.482674" lon="8.43219"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.482491" lon="8.432517"><ele>98</ele></trkpt>
+   <trkpt lat="49.482368" lon="8.4327"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482335" lon="8.432745"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482318" lon="8.432769"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482264" lon="8.432846"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482179" lon="8.433001"><ele>99</ele></trkpt>
+   <trkpt lat="49.481933" lon="8.433571"><ele>99</ele></trkpt>
+   <trkpt lat="49.481826" lon="8.433763"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.481748" lon="8.433863"><ele>98</ele></trkpt>
+   <trkpt lat="49.481576" lon="8.434016"><ele>97</ele></trkpt>
+   <trkpt lat="49.481419" lon="8.434095"><ele>96</ele></trkpt>
+   <trkpt lat="49.480978" lon="8.434202"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.480649" lon="8.434321"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.48032" lon="8.43449"/>
+   <trkpt lat="49.480164" lon="8.434566"/>
+   <trkpt lat="49.479986" lon="8.434638"/>
+  </trkseg>
+ </trk>
+</gpx>

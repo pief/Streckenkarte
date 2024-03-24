@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 0 plain-ascend = 0 cost=228 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Hauptbahnhof Nordost Weiche West - Ludwigshafen Hauptbahnhof (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.47993/8.43538/standard&amp;lonlats=8.434638,49.479986;8.434953,49.478995&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.479986" lon="8.434638"/>
+   <trkpt lat="49.479983" lon="8.43464"/>
+   <trkpt lat="49.479811" lon="8.434707"/>
+   <trkpt lat="49.479672" lon="8.434742"/>
+   <trkpt lat="49.478995" lon="8.434953"/>
+  </trkseg>
+ </trk>
+</gpx>

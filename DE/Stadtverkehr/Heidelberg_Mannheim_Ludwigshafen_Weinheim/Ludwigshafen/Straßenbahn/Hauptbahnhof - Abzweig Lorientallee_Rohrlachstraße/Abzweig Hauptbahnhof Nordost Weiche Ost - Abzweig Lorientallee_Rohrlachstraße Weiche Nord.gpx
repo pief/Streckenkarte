@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 419 filtered ascend = 6 plain-ascend = 5 cost=838 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Hauptbahnhof Nordost Weiche Ost - Abzweig Lorientallee/Rohrlachstraße Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/49.48273/8.43234/standard&amp;lonlats=8.434707,49.479988;8.431591,49.482922&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.479988" lon="8.434707"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.480296" lon="8.434554"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.480656" lon="8.434366"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.480817" lon="8.434304"><ele>92.75</ele></trkpt>
+   <trkpt lat="49.481074" lon="8.434221"><ele>94</ele></trkpt>
+   <trkpt lat="49.481422" lon="8.434137"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.481548" lon="8.434076"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.481709" lon="8.433955"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.4818" lon="8.433848"><ele>98</ele></trkpt>
+   <trkpt lat="49.481868" lon="8.433754"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.481955" lon="8.433592"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.482193" lon="8.433044"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482244" lon="8.432943"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482335" lon="8.432799"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482354" lon="8.432774"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.482438" lon="8.432653"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.482582" lon="8.432423"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.482725" lon="8.432151"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.482802" lon="8.431967"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.482923" lon="8.431591"><ele>96.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
