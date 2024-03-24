@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 337 filtered ascend = 3 plain-ascend = 4 cost=674 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Amtsgericht (Steig Nordost) - Rottstraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.47379/8.44901/standard&amp;lonlats=8.451364,49.471717;8.448242,49.473852&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.471724" lon="8.451373"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.471844" lon="8.45114"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.472513" lon="8.449839"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.472549" lon="8.449769"><ele>96</ele></trkpt>
+   <trkpt lat="49.472611" lon="8.449649"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.472646" lon="8.449584"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.472765" lon="8.449363"><ele>98</ele></trkpt>
+   <trkpt lat="49.472953" lon="8.449076"><ele>99</ele></trkpt>
+   <trkpt lat="49.473451" lon="8.448393"><ele>100</ele></trkpt>
+   <trkpt lat="49.47353" lon="8.448311"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.47358" lon="8.448275"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.47364" lon="8.448253"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.473851" lon="8.448236"><ele>101.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 356 filtered ascend = 0 plain-ascend = -2 cost=712 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Rottstraße (Steig West) - Amtsgericht (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.47130/8.45174/standard&amp;lonlats=8.448213,49.473775;8.4516,49.471561&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.473774" lon="8.448207"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.473629" lon="8.448216"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.473579" lon="8.44823"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.473528" lon="8.448258"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.473436" lon="8.448359"><ele>100</ele></trkpt>
+   <trkpt lat="49.472938" lon="8.449043"><ele>99</ele></trkpt>
+   <trkpt lat="49.472792" lon="8.449256"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.472622" lon="8.449552"><ele>97</ele></trkpt>
+   <trkpt lat="49.472588" lon="8.449619"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.472525" lon="8.449737"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.472489" lon="8.449809"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.471818" lon="8.45111"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.471563" lon="8.451603"><ele>98</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

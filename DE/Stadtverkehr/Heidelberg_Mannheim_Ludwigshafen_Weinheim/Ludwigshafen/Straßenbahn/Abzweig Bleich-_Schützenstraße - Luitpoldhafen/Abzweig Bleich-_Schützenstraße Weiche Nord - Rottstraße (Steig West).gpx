@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 379 filtered ascend = 4 plain-ascend = 3 cost=758 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Bleich-/Schützenstraße Weiche Nord - Rottstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=17/49.47510/8.45089/standard&amp;lonlats=8.448331,49.477116;8.448213,49.473775&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.477116" lon="8.448331"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.477065" lon="8.44824"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.477015" lon="8.44818"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.477004" lon="8.448169"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.476975" lon="8.448137"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.476898" lon="8.448084"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.476811" lon="8.448055"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.476768" lon="8.44805"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.475446" lon="8.448118"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.474109" lon="8.448186"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.474088" lon="8.448188"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.473778" lon="8.448207"><ele>101</ele></trkpt>
+   <trkpt lat="49.473774" lon="8.448207"><ele>100.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
