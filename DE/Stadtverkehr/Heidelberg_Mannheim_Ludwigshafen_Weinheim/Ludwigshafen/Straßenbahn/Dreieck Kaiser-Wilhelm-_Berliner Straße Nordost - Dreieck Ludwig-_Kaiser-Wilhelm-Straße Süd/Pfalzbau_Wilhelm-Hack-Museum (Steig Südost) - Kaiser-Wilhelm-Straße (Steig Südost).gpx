@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 271 filtered ascend = 2 plain-ascend = 3 cost=542 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Pfalzbau/Wilhelm-Hack-Museum (Steig Südost) - Kaiser-Wilhelm-Straße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.48169/8.44967/standard&amp;lonlats=8.445855,49.480167;8.448779,49.481684&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.480167" lon="8.445852"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.480171" lon="8.44586"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.480376" lon="8.44626"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.480447" lon="8.4464"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.480482" lon="8.446467"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.481256" lon="8.447943"><ele>99</ele></trkpt>
+   <trkpt lat="49.48168" lon="8.448781"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

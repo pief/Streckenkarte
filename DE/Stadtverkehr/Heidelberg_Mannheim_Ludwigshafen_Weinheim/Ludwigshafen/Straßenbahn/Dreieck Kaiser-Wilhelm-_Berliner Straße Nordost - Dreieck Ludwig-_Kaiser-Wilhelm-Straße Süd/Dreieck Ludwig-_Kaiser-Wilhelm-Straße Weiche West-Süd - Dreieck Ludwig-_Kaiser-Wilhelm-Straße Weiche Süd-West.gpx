@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 69 filtered ascend = 1 plain-ascend = 2 cost=138 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Ludwig-/Kaiser-Wilhelm-Straße Weiche West-Süd - Dreieck Ludwig-/Kaiser-Wilhelm-Straße Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/49.48174/8.44989/standard&amp;lonlats=8.449101,49.481854;8.449852,49.481731&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.481851" lon="8.449103"><ele>100</ele></trkpt>
+   <trkpt lat="49.481852" lon="8.449105"><ele>100</ele></trkpt>
+   <trkpt lat="49.4819" lon="8.449219"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.481926" lon="8.449332"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.481934" lon="8.449423"><ele>101</ele></trkpt>
+   <trkpt lat="49.481929" lon="8.449513"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.481908" lon="8.449608"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.481877" lon="8.449685"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.481827" lon="8.449768"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.481734" lon="8.44985"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.481731" lon="8.449852"><ele>101.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
