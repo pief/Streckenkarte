@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 315 filtered ascend = 0 plain-ascend = 0 cost=630 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Ludwigshafen Hauptbahnhof Ost (Steig Ost) - Abzweig Hauptbahnhof Südwest Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/49.47844/8.43566/standard&amp;lonlats=8.433959,49.47598;8.434944,49.478667&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.475979" lon="8.433955"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.476149" lon="8.433976"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.476318" lon="8.433993"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.476908" lon="8.434077"/>
+   <trkpt lat="49.477145" lon="8.434141"/>
+   <trkpt lat="49.477274" lon="8.434209"/>
+   <trkpt lat="49.477511" lon="8.434368"/>
+   <trkpt lat="49.477694" lon="8.434511"/>
+   <trkpt lat="49.477912" lon="8.434664"/>
+   <trkpt lat="49.478036" lon="8.434774"/>
+   <trkpt lat="49.478245" lon="8.434894"/>
+   <trkpt lat="49.478313" lon="8.434926"/>
+   <trkpt lat="49.478356" lon="8.434935"/>
+   <trkpt lat="49.478383" lon="8.434942"/>
+   <trkpt lat="49.478442" lon="8.434948"/>
+   <trkpt lat="49.478546" lon="8.43496"/>
+   <trkpt lat="49.478664" lon="8.434946"/>
+   <trkpt lat="49.478667" lon="8.434945"/>
+  </trkseg>
+ </trk>
+</gpx>
