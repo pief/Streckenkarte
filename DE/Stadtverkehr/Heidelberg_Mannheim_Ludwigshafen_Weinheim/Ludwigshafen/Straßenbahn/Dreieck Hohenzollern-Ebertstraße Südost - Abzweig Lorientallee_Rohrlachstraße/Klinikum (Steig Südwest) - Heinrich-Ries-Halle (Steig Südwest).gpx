@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 413 filtered ascend = 2 plain-ascend = 1 cost=826 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Klinikum (Steig Südwest) - Heinrich-Ries-Halle (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.48765/8.42728/standard&amp;lonlats=8.422692,49.490451;8.426562,49.487716&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.490451" lon="8.422692"><ele>94</ele></trkpt>
+   <trkpt lat="49.490435" lon="8.422718"><ele>94</ele></trkpt>
+   <trkpt lat="49.490301" lon="8.422909"><ele>94.25</ele></trkpt>
+   <trkpt lat="49.490239" lon="8.422996"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.489471" lon="8.424086"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.489091" lon="8.424622"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.488846" lon="8.424968"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.488412" lon="8.425578"><ele>94.25</ele></trkpt>
+   <trkpt lat="49.487868" lon="8.426354"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.487717" lon="8.426564"><ele>95.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

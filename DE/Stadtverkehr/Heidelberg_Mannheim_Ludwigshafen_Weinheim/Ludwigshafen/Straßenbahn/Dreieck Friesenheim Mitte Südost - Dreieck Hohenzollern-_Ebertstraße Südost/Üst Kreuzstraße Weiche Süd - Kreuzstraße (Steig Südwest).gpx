@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 0 plain-ascend = 0 cost=162 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Üst Kreuzstraße Weiche Süd - Kreuzstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.49780/8.41349/standard&amp;lonlats=8.412214,49.498403;8.412816,49.497807&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.498403" lon="8.412214"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.498402" lon="8.412216"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.497809" lon="8.41282"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.497808" lon="8.41282"><ele>94</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 278 filtered ascend = 0 plain-ascend = 0 cost=556 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Hohenzollern-/Ebertstraße Weiche Nordwest-Ost - Schwalbenweg (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.49360/8.41875/standard&amp;lonlats=8.4205,49.492039;8.417901,49.493869&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.492038" lon="8.4205"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.492326" lon="8.420095"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.492807" lon="8.419413"><ele>95</ele></trkpt>
+   <trkpt lat="49.493614" lon="8.418271"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.49387" lon="8.417904"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.49387" lon="8.417903"><ele>95.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
