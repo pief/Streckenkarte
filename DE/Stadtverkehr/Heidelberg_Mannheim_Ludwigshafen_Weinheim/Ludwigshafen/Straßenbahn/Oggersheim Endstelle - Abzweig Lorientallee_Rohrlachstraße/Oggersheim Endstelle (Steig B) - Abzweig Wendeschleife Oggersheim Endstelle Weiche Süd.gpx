@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 113 filtered ascend = 1 plain-ascend = 1 cost=178 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Oggersheim Endstelle (Steig B) - Abzweig Wendeschleife Oggersheim Endstelle Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.48851/8.36586/standard&amp;lonlats=8.364109,49.488335;8.365349,49.48892&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.488336" lon="8.364104"><ele>96</ele></trkpt>
+   <trkpt lat="49.488483" lon="8.364279"><ele>96</ele></trkpt>
+   <trkpt lat="49.488517" lon="8.364329"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.488526" lon="8.364341"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.488576" lon="8.364424"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.488649" lon="8.364566"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.488763" lon="8.364849"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.488782" lon="8.364903"><ele>97</ele></trkpt>
+   <trkpt lat="49.488922" lon="8.36535"><ele>97</ele></trkpt>
+   <trkpt lat="49.48892" lon="8.365347"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
