@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 597 filtered ascend = 1 plain-ascend = 0 cost=1194 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dannstadter Straße (Steig Südwest) - Sandrain (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.44300/8.51554/standard&amp;lonlats=8.509389,49.446094;8.516051,49.442947&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.446091" lon="8.509386"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.44609" lon="8.50939"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.446017" lon="8.509542"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.445972" lon="8.509633"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.445943" lon="8.509693"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.445901" lon="8.509781"><ele>97</ele></trkpt>
+   <trkpt lat="49.44493" lon="8.51179"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.444861" lon="8.511931"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.444011" lon="8.513735"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.443234" lon="8.515441"><ele>95</ele></trkpt>
+   <trkpt lat="49.442945" lon="8.516049"><ele>95.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

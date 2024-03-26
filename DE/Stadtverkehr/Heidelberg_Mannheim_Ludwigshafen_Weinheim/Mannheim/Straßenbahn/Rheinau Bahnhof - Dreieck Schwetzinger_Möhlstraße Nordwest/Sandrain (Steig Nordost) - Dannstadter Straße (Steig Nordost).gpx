@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 515 filtered ascend = 3 plain-ascend = 3 cost=1030 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Sandrain (Steig Nordost) - Dannstadter Straße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.44640/8.50898/standard&amp;lonlats=8.514772,49.443568;8.509051,49.446275&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.443569" lon="8.514773"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.444032" lon="8.513754"><ele>94</ele></trkpt>
+   <trkpt lat="49.444818" lon="8.512081"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.444866" lon="8.511985"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.445919" lon="8.509808"><ele>97</ele></trkpt>
+   <trkpt lat="49.445962" lon="8.509718"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.445993" lon="8.509655"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.446037" lon="8.509563"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.446279" lon="8.509056"><ele>95</ele></trkpt>
+   <trkpt lat="49.446279" lon="8.509055"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

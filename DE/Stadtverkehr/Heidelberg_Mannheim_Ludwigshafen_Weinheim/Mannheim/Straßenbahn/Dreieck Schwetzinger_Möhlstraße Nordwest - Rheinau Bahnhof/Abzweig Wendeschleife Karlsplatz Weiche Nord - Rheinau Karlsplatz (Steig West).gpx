@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 1 plain-ascend = 1 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Wendeschleife Karlsplatz Weiche Nord - Rheinau Karlsplatz (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.43875/8.52363/standard&amp;lonlats=8.52277,49.439255;8.523221,49.438678&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.439255" lon="8.522771"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.439254" lon="8.522773"><ele>101</ele></trkpt>
+   <trkpt lat="49.439111" lon="8.522888"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.439075" lon="8.522917"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.438838" lon="8.523104"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.438679" lon="8.523225"><ele>101.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

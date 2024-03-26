@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 0 plain-ascend = 0 cost=428 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Friedrichstraße (Steig Ost) - Neckerau Bahnhof (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.45528/8.49444/standard&amp;lonlats=8.4952,49.453541;8.49429,49.455358&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.45354" lon="8.495198"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.453649" lon="8.495099"><ele>94</ele></trkpt>
+   <trkpt lat="49.453718" lon="8.495038"><ele>94.25</ele></trkpt>
+   <trkpt lat="49.453754" lon="8.495017"><ele>94.25</ele></trkpt>
+   <trkpt lat="49.453803" lon="8.494987"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.453855" lon="8.494958"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.454158" lon="8.494816"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.455359" lon="8.494301"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.455359" lon="8.4943"><ele>93.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
