@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 4 plain-ascend = 4 cost=562 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Mannheimer Tor (Steig Nordost) - Hans-Warsch-Platz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.49269/8.37734/standard&amp;lonlats=8.378845,49.49103;8.376134,49.492776&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.491031" lon="8.378848"><ele>94.25</ele></trkpt>
+   <trkpt lat="49.491034" lon="8.378846"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.491047" lon="8.378833"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.491257" lon="8.378625"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.491658" lon="8.378218"><ele>97</ele></trkpt>
+   <trkpt lat="49.491729" lon="8.378127"><ele>97</ele></trkpt>
+   <trkpt lat="49.491805" lon="8.377999"><ele>97</ele></trkpt>
+   <trkpt lat="49.492402" lon="8.3768"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.492774" lon="8.376133"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.492774" lon="8.376132"><ele>98.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
