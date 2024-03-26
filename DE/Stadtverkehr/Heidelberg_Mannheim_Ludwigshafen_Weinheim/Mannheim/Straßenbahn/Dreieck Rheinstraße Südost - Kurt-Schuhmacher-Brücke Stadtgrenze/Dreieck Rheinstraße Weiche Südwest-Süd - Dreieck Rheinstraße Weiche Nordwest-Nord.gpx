@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = -2 cost=140 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Rheinstraße Weiche Südwest-Süd - Dreieck Rheinstraße Weiche Nordwest-Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.49066/8.45880/standard&amp;lonlats=8.458437,49.490274;8.458349,49.490786&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.49027" lon="8.45844"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490274" lon="8.458447"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490318" lon="8.458519"><ele>98</ele></trkpt>
+   <trkpt lat="49.490364" lon="8.45857"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.49039" lon="8.458588"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.490455" lon="8.458619"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.490518" lon="8.458623"><ele>97</ele></trkpt>
+   <trkpt lat="49.490572" lon="8.458613"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.490652" lon="8.458565"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.490706" lon="8.458494"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.490785" lon="8.458357"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.490787" lon="8.458351"><ele>95.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
