@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 2 plain-ascend = 3 cost=256 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Ludwigstraße (Steig Südwest) - Dreieck Ludwig-/Kaiser-Wilhelm-Straße Weiche Nord-West</name>
+  <link href="https://bikerouter.de/#map=19/49.48206/8.45025/standard&amp;lonlats=8.448163,49.483221;8.449253,49.482325&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.483221" lon="8.448163"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.483217" lon="8.448169"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.482812" lon="8.448666"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.482327" lon="8.449257"><ele>101</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

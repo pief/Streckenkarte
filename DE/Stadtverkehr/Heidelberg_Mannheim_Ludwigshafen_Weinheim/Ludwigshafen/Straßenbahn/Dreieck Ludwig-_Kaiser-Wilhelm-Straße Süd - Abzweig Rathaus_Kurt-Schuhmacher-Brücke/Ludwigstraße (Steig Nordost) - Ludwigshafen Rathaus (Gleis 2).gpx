@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 513 filtered ascend = 3 plain-ascend = 1 cost=1026 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Ludwigstraße (Steig Nordost) - Ludwigshafen Rathaus (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.48506/8.44401/standard&amp;lonlats=8.448194,49.483243;8.443358,49.485247&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.483242" lon="8.448193"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.483553" lon="8.447819"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.483896" lon="8.44736"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.483967" lon="8.447261"><ele>102</ele></trkpt>
+   <trkpt lat="49.484662" lon="8.44641"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.485152" lon="8.445815"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.485228" lon="8.445714"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.485256" lon="8.445674"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.485312" lon="8.445586"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.485365" lon="8.44549"><ele>98</ele></trkpt>
+   <trkpt lat="49.48541" lon="8.445349"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.485428" lon="8.445185"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.485424" lon="8.445057"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.485384" lon="8.44487"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.485357" lon="8.444798"><ele>98</ele></trkpt>
+   <trkpt lat="49.48531" lon="8.444712"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.48497" lon="8.444323"><ele>99</ele></trkpt>
+   <trkpt lat="49.48493" lon="8.444273"><ele>99</ele></trkpt>
+   <trkpt lat="49.48485" lon="8.444155"/>
+   <trkpt lat="49.48483" lon="8.444019"/>
+   <trkpt lat="49.484837" lon="8.443916"/>
+   <trkpt lat="49.484858" lon="8.443821"/>
+   <trkpt lat="49.484929" lon="8.443705"/>
+   <trkpt lat="49.485028" lon="8.443586"/>
+   <trkpt lat="49.485248" lon="8.443362"/>
+  </trkseg>
+ </trk>
+</gpx>

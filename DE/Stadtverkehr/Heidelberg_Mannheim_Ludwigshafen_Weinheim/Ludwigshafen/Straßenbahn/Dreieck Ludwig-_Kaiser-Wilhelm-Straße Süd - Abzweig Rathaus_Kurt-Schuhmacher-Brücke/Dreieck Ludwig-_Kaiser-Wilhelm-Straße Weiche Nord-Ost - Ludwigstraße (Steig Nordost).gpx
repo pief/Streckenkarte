@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 134 filtered ascend = 0 plain-ascend = 0 cost=268 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Ludwig-/Kaiser-Wilhelm-Straße Weiche Nord-Ost - Ludwigstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.48323/8.44850/standard&amp;lonlats=8.449331,49.482305;8.448194,49.483243&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.482306" lon="8.449333"><ele>101</ele></trkpt>
+   <trkpt lat="49.483242" lon="8.448194"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.483242" lon="8.448193"><ele>99.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

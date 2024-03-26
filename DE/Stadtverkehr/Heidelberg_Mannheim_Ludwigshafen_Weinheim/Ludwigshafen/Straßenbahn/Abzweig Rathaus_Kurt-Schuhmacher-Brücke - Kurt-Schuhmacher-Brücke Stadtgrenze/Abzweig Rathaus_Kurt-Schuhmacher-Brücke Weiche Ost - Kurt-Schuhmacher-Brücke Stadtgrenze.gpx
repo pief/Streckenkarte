@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 562 filtered ascend = 0 plain-ascend = 0 cost=1124 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Rathaus/Kurt-Schuhmacher-Brücke Weiche Ost - Kurt-Schuhmacher-Brücke Stadtgrenze</name>
+  <link href="https://bikerouter.de/#map=19/49.48878/8.44513/standard&amp;lonlats=8.443143,49.485456;8.44537,49.489579&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.485456" lon="8.443145"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.485459" lon="8.443143"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.485774" lon="8.442822"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.486113" lon="8.442613"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.486432" lon="8.442524"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.486778" lon="8.442512"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.487046" lon="8.442561"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.487615" lon="8.442691"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.48801" lon="8.442802"/>
+   <trkpt lat="49.488257" lon="8.442894"/>
+   <trkpt lat="49.488397" lon="8.442993"/>
+   <trkpt lat="49.488531" lon="8.443111"/>
+   <trkpt lat="49.488648" lon="8.443246"/>
+   <trkpt lat="49.488763" lon="8.443417"/>
+   <trkpt lat="49.488885" lon="8.443634"/>
+   <trkpt lat="49.489581" lon="8.445366"/>
+  </trkseg>
+ </trk>
+</gpx>
