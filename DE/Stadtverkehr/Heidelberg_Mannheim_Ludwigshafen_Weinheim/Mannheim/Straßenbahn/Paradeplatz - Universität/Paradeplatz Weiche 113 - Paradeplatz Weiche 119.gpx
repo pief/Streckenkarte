@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Paradeplatz Weiche 113 - Paradeplatz Weiche 119</name>
+  <link href="https://bikerouter.de/#map=19/49.48733/8.46636/standard&amp;lonlats=8.466377,49.48797;8.465964,49.487519&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.487968" lon="8.466378"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.487966" lon="8.466376"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.487884" lon="8.4663"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.487781" lon="8.466204"><ele>103</ele></trkpt>
+   <trkpt lat="49.487769" lon="8.466194"><ele>103</ele></trkpt>
+   <trkpt lat="49.487757" lon="8.466183"><ele>103</ele></trkpt>
+   <trkpt lat="49.48769" lon="8.466116"><ele>103</ele></trkpt>
+   <trkpt lat="49.487519" lon="8.465964"><ele>102.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

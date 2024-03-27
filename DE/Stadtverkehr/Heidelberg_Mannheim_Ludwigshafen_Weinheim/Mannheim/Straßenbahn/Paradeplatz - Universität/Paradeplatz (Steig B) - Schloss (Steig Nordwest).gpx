@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 333 filtered ascend = 1 plain-ascend = -2 cost=666 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Paradeplatz (Steig B) - Schloss (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.48814/8.46744/standard&amp;lonlats=8.465813,49.48735;8.463413,49.48479&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.487349" lon="8.465812"><ele>103</ele></trkpt>
+   <trkpt lat="49.487057" lon="8.465539"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.487015" lon="8.465501"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.486065" lon="8.464621"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.485232" lon="8.463824"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.484792" lon="8.463414"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.484789" lon="8.463412"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

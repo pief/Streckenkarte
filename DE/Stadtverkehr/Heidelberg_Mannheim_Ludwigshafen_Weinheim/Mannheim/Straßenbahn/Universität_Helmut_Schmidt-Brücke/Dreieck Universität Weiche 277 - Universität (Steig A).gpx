@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 1 plain-ascend = 1 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Universität Weiche 277 - Universität (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.48246/8.46754/standard&amp;lonlats=8.464783,49.482215;8.465135,49.482576&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.482214" lon="8.464783"><ele>100</ele></trkpt>
+   <trkpt lat="49.482225" lon="8.464791"><ele>100</ele></trkpt>
+   <trkpt lat="49.482282" lon="8.46483"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.482412" lon="8.464945"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.482495" lon="8.465032"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.482574" lon="8.465135"><ele>101.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

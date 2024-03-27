@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 311 filtered ascend = 3 plain-ascend = 2 cost=622 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Schloss (Steig Südost) - Paradeplatz (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.48719/8.46708/standard&amp;lonlats=8.463633,49.484974;8.465848,49.487338&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.484974" lon="8.46363"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.48498" lon="8.463635"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.485218" lon="8.463857"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.485338" lon="8.463972"><ele>103</ele></trkpt>
+   <trkpt lat="49.485689" lon="8.464308"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.486052" lon="8.464656"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.486192" lon="8.464785"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.486558" lon="8.465124"><ele>104</ele></trkpt>
+   <trkpt lat="49.487002" lon="8.465535"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.487046" lon="8.465576"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.487336" lon="8.465843"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.487338" lon="8.465844"><ele>102.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

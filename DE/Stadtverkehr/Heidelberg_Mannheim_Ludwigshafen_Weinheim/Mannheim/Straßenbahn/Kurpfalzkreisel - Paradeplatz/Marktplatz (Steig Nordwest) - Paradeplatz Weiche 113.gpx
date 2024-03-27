@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 172 filtered ascend = 4 plain-ascend = 4 cost=344 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Marktplatz (Steig Nordwest) - Paradeplatz Weiche 113</name>
+  <link href="https://bikerouter.de/#map=19/49.48819/8.46788/standard&amp;lonlats=8.467596,49.489294;8.466377,49.48797&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.489293" lon="8.467595"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.489137" lon="8.467451"><ele>99</ele></trkpt>
+   <trkpt lat="49.488382" lon="8.466754"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.488336" lon="8.466711"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.488231" lon="8.466616"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.487968" lon="8.466378"><ele>103.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

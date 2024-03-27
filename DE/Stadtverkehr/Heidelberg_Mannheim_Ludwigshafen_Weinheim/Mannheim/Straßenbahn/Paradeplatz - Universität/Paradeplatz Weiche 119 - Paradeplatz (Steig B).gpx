@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 23 filtered ascend = 0 plain-ascend = 1 cost=46 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Paradeplatz Weiche 119 - Paradeplatz (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/49.48787/8.46745/standard&amp;lonlats=8.465964,49.487519;8.465812,49.487349&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.487519" lon="8.465964"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.487352" lon="8.465814"><ele>103</ele></trkpt>
+   <trkpt lat="49.487348" lon="8.465811"><ele>103.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
