@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 0 plain-ascend = 0 cost=562 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Xavier-Fuhr-Straße Weiche Ost-Süd - Xavier-Fuhr-Straße Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.46831/8.52228/standard&amp;lonlats=8.521174,49.465945;8.522113,49.468108;8.522167,49.468368&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.465944" lon="8.521171"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.465948" lon="8.521173"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.466946" lon="8.52169"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.467096" lon="8.521774"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.467439" lon="8.521948"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.467542" lon="8.521987"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.467657" lon="8.522026"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.467782" lon="8.522056"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.467888" lon="8.522078"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.467996" lon="8.522095"><ele>96</ele></trkpt>
+   <trkpt lat="49.468106" lon="8.522116"><ele>96</ele></trkpt>
+   <trkpt lat="49.468367" lon="8.522167"><ele>96</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

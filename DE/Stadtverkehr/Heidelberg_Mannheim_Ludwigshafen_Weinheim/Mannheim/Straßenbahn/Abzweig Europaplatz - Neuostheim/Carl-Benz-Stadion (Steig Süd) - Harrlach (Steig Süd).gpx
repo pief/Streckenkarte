@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 325 filtered ascend = 1 plain-ascend = 2 cost=650 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Carl-Benz-Stadion (Steig Süd) - Harrlach (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.47805/8.50675/standard&amp;lonlats=8.50205,49.47785;8.506441,49.478129&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.477854" lon="8.50205"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.477854" lon="8.502059"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.477846" lon="8.502223"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.477821" lon="8.503398"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.477829" lon="8.505166"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.47784" lon="8.505344"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.477861" lon="8.505506"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.477899" lon="8.505699"><ele>98</ele></trkpt>
+   <trkpt lat="49.477953" lon="8.505905"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.478012" lon="8.506096"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.47813" lon="8.506438"><ele>99.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

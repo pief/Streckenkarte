@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 113 filtered ascend = 0 plain-ascend = 0 cost=226 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck SAP-Arena Weiche Nordost-West - Dreieck SAP-Arena Weiche Südwest-West</name>
+  <link href="https://bikerouter.de/#map=19/49.46224/8.51817/standard&amp;lonlats=8.518562,49.462872;8.517821,49.461993&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.462871" lon="8.518561"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.462874" lon="8.518564"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.462591" lon="8.518339"><ele>95</ele></trkpt>
+   <trkpt lat="49.462222" lon="8.518022"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.461997" lon="8.517823"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.461992" lon="8.517819"><ele>94.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

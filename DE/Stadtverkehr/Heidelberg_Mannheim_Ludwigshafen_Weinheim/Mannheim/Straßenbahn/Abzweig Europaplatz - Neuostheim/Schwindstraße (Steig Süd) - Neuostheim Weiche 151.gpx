@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 0 plain-ascend = -2 cost=456 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Schwindstraße (Steig Süd) - Neuostheim Weiche 151</name>
+  <link href="https://bikerouter.de/#map=19/49.47784/8.52188/standard&amp;lonlats=8.518733,49.478378;8.521764,49.477984&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.47838" lon="8.518733"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.47838" lon="8.518735"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.478363" lon="8.519068"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.478257" lon="8.520497"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.478236" lon="8.520751"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.47822" lon="8.520954"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.478207" lon="8.521033"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.478146" lon="8.521328"><ele>97</ele></trkpt>
+   <trkpt lat="49.478101" lon="8.52147"><ele>97</ele></trkpt>
+   <trkpt lat="49.477987" lon="8.521761"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.477985" lon="8.521765"><ele>96.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
