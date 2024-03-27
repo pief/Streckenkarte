@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = -1 cost=170 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Universität Weiche 279 - Dreieck Universität Weiche 280</name>
+  <link href="https://bikerouter.de/#map=19/49.48203/8.46677/standard&amp;lonlats=8.463987,49.482058;8.465052,49.481781&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.482058" lon="8.463987"><ele>99</ele></trkpt>
+   <trkpt lat="49.482058" lon="8.46399"><ele>99</ele></trkpt>
+   <trkpt lat="49.482016" lon="8.464197"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.48199" lon="8.464297"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.481932" lon="8.464516"><ele>98</ele></trkpt>
+   <trkpt lat="49.481836" lon="8.464846"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.481795" lon="8.465001"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.481782" lon="8.465049"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.481781" lon="8.465052"><ele>96.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

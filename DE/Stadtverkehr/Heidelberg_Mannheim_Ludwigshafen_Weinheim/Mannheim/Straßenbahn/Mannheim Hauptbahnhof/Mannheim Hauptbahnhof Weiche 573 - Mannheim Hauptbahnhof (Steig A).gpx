@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 1 plain-ascend = 2 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Mannheim Hauptbahnhof Weiche 573 - Mannheim Hauptbahnhof (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.48026/8.47122/standard&amp;lonlats=8.469021,49.480289;8.469957,49.480084&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.480289" lon="8.469021"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.480289" lon="8.469023"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.48028" lon="8.469083"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.480274" lon="8.469113"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.48027" lon="8.469132"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.480264" lon="8.469165"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.480256" lon="8.469205"><ele>98</ele></trkpt>
+   <trkpt lat="49.480248" lon="8.469239"><ele>98</ele></trkpt>
+   <trkpt lat="49.480088" lon="8.469959"><ele>99</ele></trkpt>
+   <trkpt lat="49.480087" lon="8.469959"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

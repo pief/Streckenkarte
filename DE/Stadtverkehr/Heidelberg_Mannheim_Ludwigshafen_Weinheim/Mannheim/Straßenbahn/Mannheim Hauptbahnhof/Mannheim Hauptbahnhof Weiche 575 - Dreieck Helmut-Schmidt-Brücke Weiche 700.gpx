@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 140 filtered ascend = 0 plain-ascend = -1 cost=280 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Mannheim Hauptbahnhof Weiche 575 - Dreieck Helmut-Schmidt-Brücke Weiche 700</name>
+  <link href="https://bikerouter.de/#map=19/49.48112/8.46817/standard&amp;lonlats=8.46893,49.480378;8.467218,49.480891&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.480377" lon="8.468929"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.480378" lon="8.468927"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.480382" lon="8.468861"><ele>97</ele></trkpt>
+   <trkpt lat="49.480385" lon="8.468832"><ele>97</ele></trkpt>
+   <trkpt lat="49.48039" lon="8.468778"><ele>97</ele></trkpt>
+   <trkpt lat="49.480397" lon="8.468723"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.480406" lon="8.468644"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.480429" lon="8.468483"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.480439" lon="8.46843"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.480451" lon="8.46837"><ele>96</ele></trkpt>
+   <trkpt lat="49.480518" lon="8.468132"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.480881" lon="8.467242"><ele>95</ele></trkpt>
+   <trkpt lat="49.480891" lon="8.467218"><ele>95.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
