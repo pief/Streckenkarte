@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 3 plain-ascend = 3 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kurpfalzkreisel Weiche 4 - Kurpfalzkreisel Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/49.49290/8.47211/standard&amp;lonlats=8.471282,49.493286;8.470786,49.492751&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.493286" lon="8.471279"><ele>97</ele></trkpt>
+   <trkpt lat="49.493282" lon="8.471276"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.493108" lon="8.471115"><ele>98</ele></trkpt>
+   <trkpt lat="49.493086" lon="8.471096"><ele>98</ele></trkpt>
+   <trkpt lat="49.492837" lon="8.470868"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.492754" lon="8.470792"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.492749" lon="8.470788"><ele>100.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

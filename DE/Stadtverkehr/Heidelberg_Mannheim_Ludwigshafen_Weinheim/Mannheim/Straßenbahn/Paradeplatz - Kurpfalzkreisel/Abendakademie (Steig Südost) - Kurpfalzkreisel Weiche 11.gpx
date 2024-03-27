@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 1 plain-ascend = 1 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abendakademie (Steig Südost) - Kurpfalzkreisel Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/49.49278/8.47214/standard&amp;lonlats=8.469933,49.491765;8.470309,49.492185&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.491764" lon="8.469932"><ele>102</ele></trkpt>
+   <trkpt lat="49.491768" lon="8.469935"><ele>102</ele></trkpt>
+   <trkpt lat="49.492184" lon="8.470308"><ele>103.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
