@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = 1 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Seckenheimer/Möhlstraße Weiche Ost-Nord - Dreieck Seckenheimer/Möhlstraße Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.47630/8.48819/standard&amp;lonlats=8.488698,49.476441;8.487671,49.476332;8.487354,49.476342&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.476443" lon="8.488695"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.476444" lon="8.488699"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.47644" lon="8.488654"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.476399" lon="8.488428"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.476391" lon="8.488372"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.47637" lon="8.48824"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.476353" lon="8.488065"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.476346" lon="8.487903"><ele>98</ele></trkpt>
+   <trkpt lat="49.476341" lon="8.487669"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.476337" lon="8.48742"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.476338" lon="8.48736"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.476338" lon="8.487353"><ele>98.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

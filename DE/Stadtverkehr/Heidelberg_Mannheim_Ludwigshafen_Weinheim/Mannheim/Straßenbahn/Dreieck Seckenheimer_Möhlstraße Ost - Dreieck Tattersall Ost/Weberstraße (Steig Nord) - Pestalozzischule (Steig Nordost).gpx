@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 0 plain-ascend = 0 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Weberstraße (Steig Nord) - Pestalozzischule (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.47858/8.48274/standard&amp;lonlats=8.486332,49.476423;8.482424,49.478573&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.476424" lon="8.486332"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.476442" lon="8.486203"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.476491" lon="8.485954"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.47655" lon="8.48569"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.476679" lon="8.485262"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.476924" lon="8.48468"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.477228" lon="8.48412"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.477485" lon="8.483762"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.477971" lon="8.483164"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.478567" lon="8.482429"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.478572" lon="8.482422"><ele>98.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

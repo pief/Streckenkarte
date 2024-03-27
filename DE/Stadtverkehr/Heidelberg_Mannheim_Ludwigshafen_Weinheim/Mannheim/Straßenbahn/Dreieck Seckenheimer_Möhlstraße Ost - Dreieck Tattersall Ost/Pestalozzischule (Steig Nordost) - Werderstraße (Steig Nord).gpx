@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 501 filtered ascend = 4 plain-ascend = 4 cost=1002 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Pestalozzischule (Steig Nordost) - Werderstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.48074/8.47788/standard&amp;lonlats=8.482424,49.478573;8.476848,49.481039&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.478572" lon="8.482422"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.47875" lon="8.482202"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.478916" lon="8.481997"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.479558" lon="8.481204"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.479738" lon="8.480975"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.479778" lon="8.480905"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.47981" lon="8.480831"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.480131" lon="8.479994"><ele>102</ele></trkpt>
+   <trkpt lat="49.480297" lon="8.479485"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.480716" lon="8.478127"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.480783" lon="8.477911"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.480878" lon="8.477606"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.480937" lon="8.477376"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.481041" lon="8.476853"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.481041" lon="8.476849"><ele>102.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 1 plain-ascend = 2 cost=150 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Seckenheimer_Möhlstraße Weiche West-Nord - Weberstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.47656/8.48598/standard&amp;lonlats=8.487354,49.476342;8.486332,49.476423&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.476338" lon="8.487353"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.476344" lon="8.487105"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.47637" lon="8.486719"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.476424" lon="8.486336"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.476424" lon="8.486332"><ele>99.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
