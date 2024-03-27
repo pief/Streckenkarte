@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 160 filtered ascend = 12 plain-ascend = 13 cost=160 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9402 Üst Cahn-Garnier-Ufer Weiche Ost-Nord - Üst Cahn-Garnier-Ufer Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.49104/8.47855/standard&amp;lonlats=8.480209,49.490756;8.4782,49.491345&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.490756" lon="8.480209"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.490758" lon="8.480203"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.491065" lon="8.479161"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.491193" lon="8.478715"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.491342" lon="8.478206"><ele>106.25</ele></trkpt>
+   <trkpt lat="49.491343" lon="8.478199"><ele>106.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
