@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 0 cost=156 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Universitätsklinikum Weiche 413 - Universitätsklinikum Streckenwechsel</name>
+  <link href="https://bikerouter.de/#map=19/49.49411/8.48580/standard&amp;lonlats=8.484573,49.493917;8.485261,49.494433&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.493915" lon="8.484573"><ele>98</ele></trkpt>
+   <trkpt lat="49.49392" lon="8.484582"><ele>98</ele></trkpt>
+   <trkpt lat="49.494031" lon="8.484782"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.494062" lon="8.484836"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.494166" lon="8.484983"><ele>97</ele></trkpt>
+   <trkpt lat="49.494243" lon="8.485074"><ele>97</ele></trkpt>
+   <trkpt lat="49.494309" lon="8.48514"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.494397" lon="8.485227"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.494432" lon="8.48526"><ele>97.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
