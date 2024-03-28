@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 1 plain-ascend = 1 cost=156 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Universitätsklinikum Weiche 409 - Universitätsklinikum Weiche Südwest-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.49325/8.48465/standard&amp;lonlats=8.482974,49.492962;8.483741,49.493448&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.492959" lon="8.482977"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.492962" lon="8.482979"><ele>96</ele></trkpt>
+   <trkpt lat="49.493059" lon="8.483088"><ele>96</ele></trkpt>
+   <trkpt lat="49.493174" lon="8.483251"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.493208" lon="8.483305"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.493256" lon="8.48339"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.493448" lon="8.483737"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.493449" lon="8.483738"><ele>96.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
