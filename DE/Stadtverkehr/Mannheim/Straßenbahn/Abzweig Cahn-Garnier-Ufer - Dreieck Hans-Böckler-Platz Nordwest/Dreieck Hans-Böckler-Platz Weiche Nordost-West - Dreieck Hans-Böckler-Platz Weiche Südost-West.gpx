@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 3 plain-ascend = 4 cost=192 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Hans-Böckler-Platz Weiche Nordost-West - Dreieck Hans-Böckler-Platz Weiche Südost-West</name>
+  <link href="https://bikerouter.de/#map=19/49.49089/8.47626/standard&amp;lonlats=8.475159,49.49154;8.475098,49.49078&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.491539" lon="8.475158"><ele>99</ele></trkpt>
+   <trkpt lat="49.491541" lon="8.475161"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.491372" lon="8.474983"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.491343" lon="8.474956"><ele>99.5</ele></trkpt>
+   <trkpt lat="49.491281" lon="8.474904"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.491214" lon="8.474867"><ele>100</ele></trkpt>
+   <trkpt lat="49.491166" lon="8.474858"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.491105" lon="8.474866"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.491044" lon="8.474894"><ele>101</ele></trkpt>
+   <trkpt lat="49.490951" lon="8.474963"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.490782" lon="8.475097"><ele>102</ele></trkpt>
+   <trkpt lat="49.49078" lon="8.475098"><ele>102.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
