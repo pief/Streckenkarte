@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 642 filtered ascend = 2 plain-ascend = 1 cost=643 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9400 Käfertal Bahnhof Weiche 517 - Bensheimer Straße (Gleis 21)</name>
+  <link href="https://bikerouter.de/#map=19/49.51377/8.52779/standard&amp;lonlats=8.519825,49.510876;8.527413,49.513793&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.510875" lon="8.519825"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.511014" lon="8.520385"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.511203" lon="8.521149"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.511409" lon="8.521976"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.511543" lon="8.522407"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.511611" lon="8.522583"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.511742" lon="8.522889"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.511903" lon="8.523242"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.512682" lon="8.524963"><ele>100</ele></trkpt>
+   <trkpt lat="49.513203" lon="8.526114"><ele>101</ele></trkpt>
+   <trkpt lat="49.513791" lon="8.527413"><ele>99.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

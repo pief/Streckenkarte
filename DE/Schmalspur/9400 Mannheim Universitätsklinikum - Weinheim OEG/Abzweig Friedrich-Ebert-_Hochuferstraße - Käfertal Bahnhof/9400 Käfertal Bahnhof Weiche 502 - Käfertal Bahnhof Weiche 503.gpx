@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 0 plain-ascend = 0 cost=82 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9400 Käfertal Bahnhof Weiche 502 - Käfertal Bahnhof Weiche 503</name>
+  <link href="https://bikerouter.de/#map=19/49.50942/8.51838/standard&amp;lonlats=8.51773,49.509007;8.5182,49.50966&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.509006" lon="8.517729"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.509011" lon="8.517734"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.509194" lon="8.517884"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.509587" lon="8.51815"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.509658" lon="8.5182"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.509659" lon="8.5182"><ele>101.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

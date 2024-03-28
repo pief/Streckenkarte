@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 1 plain-ascend = 1 cost=101 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9400 Käfertal Bahnhof Weiche 512 - Käfertal Bahnhof (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.50980/8.51847/standard&amp;lonlats=8.51891,49.510606;8.518241,49.509829&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.510603" lon="8.518913"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.51051" lon="8.518776"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.510415" lon="8.518667"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.510376" lon="8.518628"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.510266" lon="8.518539"><ele>101</ele></trkpt>
+   <trkpt lat="49.510245" lon="8.518525"><ele>101</ele></trkpt>
+   <trkpt lat="49.510198" lon="8.518493"><ele>101</ele></trkpt>
+   <trkpt lat="49.509953" lon="8.518326"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.50995" lon="8.518324"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.509828" lon="8.51824"><ele>101.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
