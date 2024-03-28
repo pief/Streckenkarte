@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 339 filtered ascend = 1 plain-ascend = -1 cost=678 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>MVV-Hochhaus (Steig Nord) - Dalbergstraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.49331/8.46167/standard&amp;lonlats=8.46584,49.493971;8.461323,49.49353&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.493972" lon="8.46584"><ele>102</ele></trkpt>
+   <trkpt lat="49.493973" lon="8.46584"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.493983" lon="8.465094"><ele>103</ele></trkpt>
+   <trkpt lat="49.493984" lon="8.465036"><ele>103</ele></trkpt>
+   <trkpt lat="49.493989" lon="8.464306"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.493972" lon="8.46383"><ele>100</ele></trkpt>
+   <trkpt lat="49.493971" lon="8.463827"><ele>100</ele></trkpt>
+   <trkpt lat="49.493955" lon="8.463586"/>
+   <trkpt lat="49.493891" lon="8.462965"/>
+   <trkpt lat="49.49385" lon="8.462665"/>
+   <trkpt lat="49.493795" lon="8.462343"/>
+   <trkpt lat="49.493742" lon="8.462068"/>
+   <trkpt lat="49.493698" lon="8.461874"/>
+   <trkpt lat="49.493532" lon="8.461322"/>
+   <trkpt lat="49.493531" lon="8.46132"/>
+  </trkseg>
+ </trk>
+</gpx>

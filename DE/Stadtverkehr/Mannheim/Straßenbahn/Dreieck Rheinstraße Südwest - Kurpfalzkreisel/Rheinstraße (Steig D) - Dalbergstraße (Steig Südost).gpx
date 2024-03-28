@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 389 filtered ascend = 2 plain-ascend = 2 cost=778 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Rheinstraße (Steig D) - Dalbergstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.49369/8.46298/standard&amp;lonlats=8.457906,49.49102;8.461468,49.493551&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.491019" lon="8.457904"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.491024" lon="8.457909"><ele>96</ele></trkpt>
+   <trkpt lat="49.491236" lon="8.458173"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.49125" lon="8.458191"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.49144" lon="8.458422"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.492075" lon="8.458993"/>
+   <trkpt lat="49.492266" lon="8.459201"/>
+   <trkpt lat="49.49247" lon="8.459438"/>
+   <trkpt lat="49.492844" lon="8.459956"/>
+   <trkpt lat="49.493024" lon="8.460229"/>
+   <trkpt lat="49.493081" lon="8.460328"/>
+   <trkpt lat="49.49325" lon="8.460665"/>
+   <trkpt lat="49.493336" lon="8.460868"/>
+   <trkpt lat="49.493439" lon="8.461137"/>
+   <trkpt lat="49.49355" lon="8.461467"/>
+  </trkseg>
+ </trk>
+</gpx>

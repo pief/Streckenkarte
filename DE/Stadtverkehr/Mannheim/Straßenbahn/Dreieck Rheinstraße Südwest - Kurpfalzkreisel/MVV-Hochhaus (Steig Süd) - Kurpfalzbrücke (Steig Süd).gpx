@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 236 filtered ascend = 3 plain-ascend = -1 cost=472 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>MVV-Hochhaus (Steig Süd) - Kurpfalzbrücke (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.49356/8.47050/standard&amp;lonlats=8.466688,49.493932;8.469874,49.493588&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.493931" lon="8.466687"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.493912" lon="8.467303"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.493894" lon="8.46767"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.493871" lon="8.468029"><ele>103</ele></trkpt>
+   <trkpt lat="49.493851" lon="8.468223"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.493836" lon="8.46834"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.493822" lon="8.46845"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.493706" lon="8.469173"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.493588" lon="8.469871"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.493587" lon="8.469873"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

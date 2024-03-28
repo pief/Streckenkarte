@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 0 plain-ascend = -1 cost=300 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Rheinstraße Weiche Südwest-Nord - Rheinstraße (Steig D)</name>
+  <link href="https://bikerouter.de/#map=19/49.49074/8.45964/standard&amp;lonlats=8.458414,49.490294;8.457906,49.49102&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.490294" lon="8.458412"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490289" lon="8.458404"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490269" lon="8.458364"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490238" lon="8.458272"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490219" lon="8.458174"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490212" lon="8.458071"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490222" lon="8.45792"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.490254" lon="8.457793"><ele>98</ele></trkpt>
+   <trkpt lat="49.490314" lon="8.457665"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.490351" lon="8.457618"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.490439" lon="8.457547"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.490448" lon="8.457542"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.490527" lon="8.457513"><ele>97</ele></trkpt>
+   <trkpt lat="49.490576" lon="8.457507"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.49062" lon="8.457509"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.490724" lon="8.457553"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.490777" lon="8.457597"><ele>96</ele></trkpt>
+   <trkpt lat="49.490834" lon="8.457663"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.490935" lon="8.457806"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.491019" lon="8.457904"><ele>96</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

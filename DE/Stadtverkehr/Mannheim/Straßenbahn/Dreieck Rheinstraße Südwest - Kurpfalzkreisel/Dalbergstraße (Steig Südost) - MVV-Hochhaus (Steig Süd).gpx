@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 387 filtered ascend = 4 plain-ascend = 5 cost=774 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dalbergstraße (Steig Südost) - MVV-Hochhaus (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=17/49.49420/8.46639/standard&amp;lonlats=8.461468,49.493551;8.466688,49.493932&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.49355" lon="8.461467"><ele>100</ele></trkpt>
+   <trkpt lat="49.493552" lon="8.461472"><ele>100</ele></trkpt>
+   <trkpt lat="49.493626" lon="8.461712"><ele>100</ele></trkpt>
+   <trkpt lat="49.49367" lon="8.461886"><ele>100</ele></trkpt>
+   <trkpt lat="49.493714" lon="8.46207"><ele>100</ele></trkpt>
+   <trkpt lat="49.49377" lon="8.462359"><ele>100</ele></trkpt>
+   <trkpt lat="49.493822" lon="8.46267"><ele>100</ele></trkpt>
+   <trkpt lat="49.49386" lon="8.462964"><ele>100</ele></trkpt>
+   <trkpt lat="49.49393" lon="8.463574"><ele>100</ele></trkpt>
+   <trkpt lat="49.493942" lon="8.463741"><ele>100</ele></trkpt>
+   <trkpt lat="49.49395" lon="8.463879"><ele>100</ele></trkpt>
+   <trkpt lat="49.493962" lon="8.464454"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.493958" lon="8.464981"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.493943" lon="8.466098"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.49394" lon="8.466314"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.493932" lon="8.466682"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.493931" lon="8.466687"><ele>104.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
