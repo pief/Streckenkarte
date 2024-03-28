@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 186 filtered ascend = 2 plain-ascend = 2 cost=372 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Nationaltheater Weiche Süd-Ost - Dreieck Nationaltheater Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.48750/8.47659/standard&amp;lonlats=8.475826,49.486193;8.476636,49.487606&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.486191" lon="8.475828"><ele>101</ele></trkpt>
+   <trkpt lat="49.486196" lon="8.47583"><ele>101</ele></trkpt>
+   <trkpt lat="49.486368" lon="8.475885"><ele>101</ele></trkpt>
+   <trkpt lat="49.486491" lon="8.475924"><ele>101</ele></trkpt>
+   <trkpt lat="49.486907" lon="8.476023"><ele>101</ele></trkpt>
+   <trkpt lat="49.487349" lon="8.476083"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.487429" lon="8.47612"><ele>101</ele></trkpt>
+   <trkpt lat="49.487474" lon="8.476163"><ele>101</ele></trkpt>
+   <trkpt lat="49.48752" lon="8.476227"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.487574" lon="8.476351"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.487587" lon="8.476406"><ele>102</ele></trkpt>
+   <trkpt lat="49.487603" lon="8.476536"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.487606" lon="8.476628"><ele>103</ele></trkpt>
+   <trkpt lat="49.487606" lon="8.476636"><ele>103</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
