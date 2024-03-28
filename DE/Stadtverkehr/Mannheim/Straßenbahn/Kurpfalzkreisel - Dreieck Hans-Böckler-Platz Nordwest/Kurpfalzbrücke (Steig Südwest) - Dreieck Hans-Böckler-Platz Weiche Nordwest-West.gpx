@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 0 plain-ascend = -1 cost=328 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kurpfalzbrücke (Steig Südwest) - Dreieck Hans-Böckler-Platz Weiche Nordwest-West</name>
+  <link href="https://bikerouter.de/#map=19/49.49147/8.47567/standard&amp;lonlats=8.472672,49.492474;8.474351,49.4915&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.492473" lon="8.472671"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.492444" lon="8.472749"><ele>101.25</ele></trkpt>
+   <trkpt lat="49.492408" lon="8.47283"><ele>101</ele></trkpt>
+   <trkpt lat="49.492391" lon="8.472873"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.492332" lon="8.473003"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.492109" lon="8.473445"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.491993" lon="8.47364"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.491877" lon="8.473818"><ele>100</ele></trkpt>
+   <trkpt lat="49.4915" lon="8.474351"><ele>99.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
