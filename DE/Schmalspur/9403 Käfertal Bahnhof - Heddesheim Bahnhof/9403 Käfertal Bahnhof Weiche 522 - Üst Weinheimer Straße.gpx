@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 378 filtered ascend = 1 plain-ascend = 1 cost=378 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9403 Käfertal Bahnhof Weiche 522 - Üst Weinheimer Straße</name>
+  <link href="https://bikerouter.de/#map=19/49.50937/8.52442/standard&amp;lonlats=8.519791,49.510636;8.524696,49.509463&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.510636" lon="8.519791"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.510636" lon="8.519792"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.510571" lon="8.520053"><ele>98</ele></trkpt>
+   <trkpt lat="49.510563" lon="8.520085"><ele>98</ele></trkpt>
+   <trkpt lat="49.510536" lon="8.520196"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.51044" lon="8.520604"><ele>99</ele></trkpt>
+   <trkpt lat="49.510356" lon="8.52096"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.510203" lon="8.521606"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.510145" lon="8.521845"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.509776" lon="8.52339"><ele>99.75</ele></trkpt>
+   <trkpt lat="49.509724" lon="8.523605"><ele>99</ele></trkpt>
+   <trkpt lat="49.509529" lon="8.524425"><ele>98.5</ele></trkpt>
+   <trkpt lat="49.509497" lon="8.524561"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.509489" lon="8.524595"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.509464" lon="8.524696"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

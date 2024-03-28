@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 373 filtered ascend = 1 plain-ascend = 0 cost=373 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9403 Wallstadt Bahnhof (Steig Südwest) - Wallstadt Ost (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.49713/8.55442/standard&amp;lonlats=8.549235,49.498544;8.553962,49.497307&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.498547" lon="8.549238"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.498475" lon="8.549446"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.49845" lon="8.549518"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.498409" lon="8.549634"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.498123" lon="8.550458"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.49807" lon="8.550627"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.497981" lon="8.550966"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.497715" lon="8.552124"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.49758" lon="8.552796"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.497516" lon="8.553076"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.497497" lon="8.553159"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.497492" lon="8.553179"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.497484" lon="8.553214"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.497467" lon="8.553286"><ele>102</ele></trkpt>
+   <trkpt lat="49.497309" lon="8.55396"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.497308" lon="8.553962"><ele>102.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

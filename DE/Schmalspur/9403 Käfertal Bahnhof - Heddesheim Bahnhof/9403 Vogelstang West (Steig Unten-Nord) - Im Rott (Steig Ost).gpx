@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 0 plain-ascend = -4 cost=260 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9403 Vogelstang West (Steig Unten-Nord) - Im Rott (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.50759/8.52790/standard&amp;lonlats=8.531147,49.506507;8.528078,49.507641&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.506507" lon="8.531147"><ele>104</ele></trkpt>
+   <trkpt lat="49.506576" lon="8.530969"><ele>104</ele></trkpt>
+   <trkpt lat="49.506623" lon="8.530839"><ele>104</ele></trkpt>
+   <trkpt lat="49.506647" lon="8.530773"><ele>104</ele></trkpt>
+   <trkpt lat="49.50667" lon="8.530705"><ele>104</ele></trkpt>
+   <trkpt lat="49.50679" lon="8.530341"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.506906" lon="8.52994"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.507103" lon="8.529262"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.507179" lon="8.529016"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.507299" lon="8.528651"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.50731" lon="8.528619"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.50734" lon="8.528535"><ele>100</ele></trkpt>
+   <trkpt lat="49.507437" lon="8.528345"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.507491" lon="8.528262"><ele>99</ele></trkpt>
+   <trkpt lat="49.507573" lon="8.528161"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.507585" lon="8.528146"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.507609" lon="8.52812"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.507643" lon="8.528085"><ele>99.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

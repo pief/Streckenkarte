@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 0 plain-ascend = 1 cost=164 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9403 Üst Wallstadt Ost Weiche 607 - Abzweig Wallstadt Ost Wendeschleife Weiche 602</name>
+  <link href="https://bikerouter.de/#map=18/49.49577/8.56125/standard&amp;lonlats=8.561359,49.495682;8.559664,49.495992;8.559186,49.496072&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.495681" lon="8.561358"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.495682" lon="8.561355"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.495733" lon="8.561057"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.495895" lon="8.560233"><ele>98</ele></trkpt>
+   <trkpt lat="49.49592" lon="8.560092"><ele>98</ele></trkpt>
+   <trkpt lat="49.49595" lon="8.559916"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.495991" lon="8.559663"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.496044" lon="8.559339"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.49605" lon="8.559301"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.496068" lon="8.559188"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.496068" lon="8.559184"><ele>98.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

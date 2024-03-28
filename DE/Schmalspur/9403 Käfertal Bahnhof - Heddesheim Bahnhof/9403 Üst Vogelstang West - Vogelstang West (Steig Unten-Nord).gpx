@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 1 plain-ascend = 1 cost=129 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9403 Üst Vogelstang West - Vogelstang West (Steig Unten-Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.50648/8.53196/standard&amp;lonlats=8.532654,49.505917;8.531147,49.506507&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.505917" lon="8.532654"><ele>103</ele></trkpt>
+   <trkpt lat="49.506182" lon="8.531976"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506209" lon="8.531908"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.506261" lon="8.531776"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.506349" lon="8.53155"><ele>104</ele></trkpt>
+   <trkpt lat="49.506506" lon="8.53115"><ele>104</ele></trkpt>
+   <trkpt lat="49.506507" lon="8.531147"><ele>104</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
