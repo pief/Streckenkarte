@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 3 plain-ascend = 3 cost=422 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Paradeplatz (Steig D) - Strohmarkt (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.48619/8.47066/standard&amp;lonlats=8.46762,49.48719;8.470086,49.486216&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.48719" lon="8.46762"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.487189" lon="8.467625"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.487084" lon="8.467909"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.487019" lon="8.468093"><ele>103</ele></trkpt>
+   <trkpt lat="49.486771" lon="8.46873"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.486707" lon="8.468894"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.486612" lon="8.469119"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.486442" lon="8.469502"><ele>104</ele></trkpt>
+   <trkpt lat="49.486215" lon="8.470084"><ele>105</ele></trkpt>
+   <trkpt lat="49.486214" lon="8.470084"><ele>104.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

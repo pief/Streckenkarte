@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 287 filtered ascend = 4 plain-ascend = 1 cost=574 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Rathaus/REM (Steig Südwest) - Paradeplatz Weiche 117</name>
+  <link href="https://bikerouter.de/#map=19/49.48811/8.46543/standard&amp;lonlats=8.46241,49.489178;8.465829,49.487894&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.489178" lon="8.46241"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.489178" lon="8.462412"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.489037" lon="8.462797"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.489023" lon="8.462835"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.488807" lon="8.463477"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.488731" lon="8.463678"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.488409" lon="8.464509"><ele>106.5</ele></trkpt>
+   <trkpt lat="49.488089" lon="8.465333"><ele>105.5</ele></trkpt>
+   <trkpt lat="49.487895" lon="8.46583"><ele>103.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
