@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 157 filtered ascend = 2 plain-ascend = 2 cost=157 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>3533 Groß-Gerau Weiche 22 - Groß-Gerau Weiche 26</name>
+  <link href="https://bikerouter.de/#map=19/49.92400/8.49030/standard&amp;lonlats=8.488585,49.924363;8.489693,49.924137;8.490659,49.923906&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.924362" lon="8.488584"><ele>88.5</ele></trkpt>
+   <trkpt lat="49.924362" lon="8.48859"><ele>88.75</ele></trkpt>
+   <trkpt lat="49.924254" lon="8.489168"><ele>90</ele></trkpt>
+   <trkpt lat="49.924215" lon="8.489345"><ele>90</ele></trkpt>
+   <trkpt lat="49.924147" lon="8.48965"><ele>90.5</ele></trkpt>
+   <trkpt lat="49.924136" lon="8.489692"><ele>90.25</ele></trkpt>
+   <trkpt lat="49.923906" lon="8.490651"><ele>90.25</ele></trkpt>
+   <trkpt lat="49.923904" lon="8.490657"><ele>90.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
