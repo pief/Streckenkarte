@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 0 plain-ascend = -9 cost=130 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>915 Davos Laret (Gleis 2) - Davos Laret Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.84833/9.87551/standard&amp;lonlats=9.873174,46.848257;9.874791,46.84858&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.848259" lon="9.873171"><ele>1539</ele></trkpt>
+   <trkpt lat="46.848302" lon="9.873305"><ele>1538.5</ele></trkpt>
+   <trkpt lat="46.848466" lon="9.873822"><ele>1537</ele></trkpt>
+   <trkpt lat="46.848531" lon="9.8741"><ele>1534.25</ele></trkpt>
+   <trkpt lat="46.848546" lon="9.874198"><ele>1533.25</ele></trkpt>
+   <trkpt lat="46.848566" lon="9.874405"><ele>1532.5</ele></trkpt>
+   <trkpt lat="46.848578" lon="9.874789"><ele>1530.5</ele></trkpt>
+   <trkpt lat="46.848577" lon="9.87479"><ele>1529.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

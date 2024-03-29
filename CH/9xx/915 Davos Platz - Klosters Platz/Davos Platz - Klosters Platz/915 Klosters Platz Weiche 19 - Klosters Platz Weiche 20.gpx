@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>915 Klosters Platz Weiche 19 - Klosters Platz Weiche 20</name>
+  <link href="https://bikerouter.de/#map=19/46.86773/9.88100/standard&amp;lonlats=9.880358,46.867441;9.880638,46.867635;9.880789,46.867796&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.867441" lon="9.880356"/>
+   <trkpt lat="46.867445" lon="9.880365"/>
+   <trkpt lat="46.867506" lon="9.880461"/>
+   <trkpt lat="46.867636" lon="9.880634"/>
+   <trkpt lat="46.867652" lon="9.880654"/>
+   <trkpt lat="46.867797" lon="9.880789"/>
+   <trkpt lat="46.867795" lon="9.880788"/>
+  </trkseg>
+ </trk>
+</gpx>

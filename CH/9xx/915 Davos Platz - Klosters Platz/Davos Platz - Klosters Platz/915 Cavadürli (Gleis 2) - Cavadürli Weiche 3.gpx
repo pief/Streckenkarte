@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 167 filtered ascend = 12 plain-ascend = 13 cost=167 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>915 Cavadürli (Gleis 2) - Cavadürli Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/46.87055/9.86799/standard&amp;lonlats=9.867962,46.870434;9.869944,46.869848&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.870436" lon="9.867963"><ele>1358.5</ele></trkpt>
+   <trkpt lat="46.870436" lon="9.867966"><ele>1358.5</ele></trkpt>
+   <trkpt lat="46.870357" lon="9.868291"><ele>1357.5</ele></trkpt>
+   <trkpt lat="46.870324" lon="9.868431"><ele>1357.5</ele></trkpt>
+   <trkpt lat="46.870222" lon="9.868867"><ele>1358.75</ele></trkpt>
+   <trkpt lat="46.870113" lon="9.869294"><ele>1360.25</ele></trkpt>
+   <trkpt lat="46.870072" lon="9.869429"><ele>1360.75</ele></trkpt>
+   <trkpt lat="46.869957" lon="9.869744"><ele>1362.5</ele></trkpt>
+   <trkpt lat="46.869912" lon="9.869838"><ele>1363.5</ele></trkpt>
+   <trkpt lat="46.86985" lon="9.869944"><ele>1365.25</ele></trkpt>
+   <trkpt lat="46.869848" lon="9.869945"><ele>1371.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

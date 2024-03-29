@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 155 filtered ascend = 2 plain-ascend = 3 cost=155 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.5">
+ <trk>
+  <name>915 Davos Wolfgang (Gleis 2) - Davos Wolfgang Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/46.83335/9.85478/standard&amp;lonlats=9.854959,46.831866;9.854243,46.833101&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.831871" lon="9.854965"><ele>1632.25</ele></trkpt>
+   <trkpt lat="46.831949" lon="9.854827"><ele>1633</ele></trkpt>
+   <trkpt lat="46.832075" lon="9.854653"><ele>1633.75</ele></trkpt>
+   <trkpt lat="46.832182" lon="9.854539"><ele>1634</ele></trkpt>
+   <trkpt lat="46.832258" lon="9.854474"><ele>1634.25</ele></trkpt>
+   <trkpt lat="46.832381" lon="9.854394"><ele>1634.75</ele></trkpt>
+   <trkpt lat="46.83252" lon="9.854325"><ele>1634.75</ele></trkpt>
+   <trkpt lat="46.832635" lon="9.854288"><ele>1634.5</ele></trkpt>
+   <trkpt lat="46.832733" lon="9.854272"><ele>1634.5</ele></trkpt>
+   <trkpt lat="46.833097" lon="9.854247"><ele>1634.5</ele></trkpt>
+   <trkpt lat="46.833101" lon="9.854247"><ele>1634.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
