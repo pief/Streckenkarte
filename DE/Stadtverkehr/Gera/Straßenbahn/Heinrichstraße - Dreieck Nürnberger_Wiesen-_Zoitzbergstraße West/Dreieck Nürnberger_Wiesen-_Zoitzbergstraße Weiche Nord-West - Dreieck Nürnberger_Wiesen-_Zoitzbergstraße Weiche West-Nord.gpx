@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 2 plain-ascend = 3 cost=230 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Nürnberger/Wiesen-/Zoitzbergstraße Weiche Nord-West - Dreieck Nürnberger/Wiesen-/Zoitzbergstraße Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.84924/12.07195/standard&amp;lonlats=12.072693,50.850394;12.072365,50.849424">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.850394" lon="12.072694"><ele>201.75</ele></trkpt>
+   <trkpt lat="50.850247" lon="12.072694"><ele>202</ele></trkpt>
+   <trkpt lat="50.850218" lon="12.072694"><ele>202</ele></trkpt>
+   <trkpt lat="50.849865" lon="12.072694"><ele>202.25</ele></trkpt>
+   <trkpt lat="50.849724" lon="12.072682"><ele>202.5</ele></trkpt>
+   <trkpt lat="50.849669" lon="12.072664"><ele>202.75</ele></trkpt>
+   <trkpt lat="50.849608" lon="12.072622"><ele>203</ele></trkpt>
+   <trkpt lat="50.849538" lon="12.072537"><ele>203.25</ele></trkpt>
+   <trkpt lat="50.849424" lon="12.072372"><ele>204</ele></trkpt>
+   <trkpt lat="50.849422" lon="12.072364"><ele>204.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

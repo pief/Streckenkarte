@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 0 plain-ascend = -5 cost=686 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Zeulenrodaer Straße (Steig Ost) - Lusan/Laune (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/50.84606/12.06380/standard&amp;lonlats=12.062471,50.843546;12.063865,50.846234&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.843546" lon="12.062474"><ele>228.25</ele></trkpt>
+   <trkpt lat="50.843651" lon="12.062471"><ele>228.25</ele></trkpt>
+   <trkpt lat="50.843973" lon="12.062448"><ele>228.75</ele></trkpt>
+   <trkpt lat="50.844368" lon="12.062428"><ele>228.75</ele></trkpt>
+   <trkpt lat="50.844496" lon="12.062423"><ele>228.75</ele></trkpt>
+   <trkpt lat="50.844848" lon="12.062403"><ele>228.25</ele></trkpt>
+   <trkpt lat="50.845225" lon="12.062506"><ele>227</ele></trkpt>
+   <trkpt lat="50.84544" lon="12.062598"><ele>226</ele></trkpt>
+   <trkpt lat="50.84561" lon="12.062715"><ele>225</ele></trkpt>
+   <trkpt lat="50.845761" lon="12.062856"><ele>224.25</ele></trkpt>
+   <trkpt lat="50.845925" lon="12.063114"><ele>223.5</ele></trkpt>
+   <trkpt lat="50.845977" lon="12.063257"><ele>223.25</ele></trkpt>
+   <trkpt lat="50.846184" lon="12.063754"><ele>222.75</ele></trkpt>
+   <trkpt lat="50.846228" lon="12.063869"><ele>222.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

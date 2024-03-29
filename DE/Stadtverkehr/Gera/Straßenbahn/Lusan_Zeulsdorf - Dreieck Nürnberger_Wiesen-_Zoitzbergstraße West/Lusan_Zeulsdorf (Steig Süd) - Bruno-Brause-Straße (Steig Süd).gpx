@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 490 filtered ascend = 0 plain-ascend = -7 cost=980 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Lusan/Zeulsdorf (Steig Süd) - Bruno-Brause-Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=18/50.83964/12.05528/standard&amp;lonlats=12.0509,50.839515;12.05779,50.839359&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.839515" lon="12.050898"><ele>243.25</ele></trkpt>
+   <trkpt lat="50.839516" lon="12.050902"><ele>243.25</ele></trkpt>
+   <trkpt lat="50.839525" lon="12.051081"><ele>242.75</ele></trkpt>
+   <trkpt lat="50.839582" lon="12.052765"><ele>240.75</ele></trkpt>
+   <trkpt lat="50.839618" lon="12.054518"><ele>240</ele></trkpt>
+   <trkpt lat="50.839617" lon="12.055279"><ele>239.25</ele></trkpt>
+   <trkpt lat="50.839575" lon="12.056018"><ele>238</ele></trkpt>
+   <trkpt lat="50.839518" lon="12.056657"><ele>236.5</ele></trkpt>
+   <trkpt lat="50.839448" lon="12.057251"><ele>235.5</ele></trkpt>
+   <trkpt lat="50.839359" lon="12.05779"><ele>235</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

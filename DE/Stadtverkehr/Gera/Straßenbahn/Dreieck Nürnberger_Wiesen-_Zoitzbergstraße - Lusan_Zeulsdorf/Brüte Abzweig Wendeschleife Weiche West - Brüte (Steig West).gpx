@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 2 plain-ascend = 2 cost=260 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Brüte Abzweig Wendeschleife Weiche West - Brüte (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/50.84023/12.06315/standard&amp;lonlats=12.063216,50.841218;12.063656,50.840111">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.841217" lon="12.063215"><ele>219.75</ele></trkpt>
+   <trkpt lat="50.841214" lon="12.06322"><ele>219.75</ele></trkpt>
+   <trkpt lat="50.841064" lon="12.063369"><ele>219.25</ele></trkpt>
+   <trkpt lat="50.840825" lon="12.063548"><ele>219</ele></trkpt>
+   <trkpt lat="50.840618" lon="12.063623"><ele>219.75</ele></trkpt>
+   <trkpt lat="50.840544" lon="12.063629"><ele>220</ele></trkpt>
+   <trkpt lat="50.840121" lon="12.063664"><ele>221.5</ele></trkpt>
+   <trkpt lat="50.840111" lon="12.063664"><ele>221.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 574 filtered ascend = 1 plain-ascend = 0 cost=1148 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Oststraße (Steig Ost) - An der Spielwiese (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/50.87032/12.07290/standard&amp;lonlats=12.072867,50.865245;12.072502,50.870388&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.865245" lon="12.072874"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.865247" lon="12.072874"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.865296" lon="12.07287"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.865848" lon="12.072831"><ele>193.25</ele></trkpt>
+   <trkpt lat="50.866236" lon="12.072806"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.867634" lon="12.072695"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.86828" lon="12.072645"><ele>195</ele></trkpt>
+   <trkpt lat="50.868529" lon="12.072625"><ele>195</ele></trkpt>
+   <trkpt lat="50.868661" lon="12.072614"><ele>195</ele></trkpt>
+   <trkpt lat="50.869503" lon="12.072548"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.869951" lon="12.072523"><ele>194</ele></trkpt>
+   <trkpt lat="50.870387" lon="12.0725"><ele>193.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
