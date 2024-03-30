@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = 0 cost=62 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6383 Leipzig Plagwitz Gbf Weiche 23 - Leipzig Plagwitz Gbf Weiche 25</name>
+  <link href="https://bikerouter.de/#map=18/51.32289/12.32210/standard&amp;lonlats=12.320797,51.323562;12.320646,51.323015&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.323561" lon="12.320795"><ele>116</ele></trkpt>
+   <trkpt lat="51.323018" lon="12.320647"><ele>116</ele></trkpt>
+   <trkpt lat="51.323014" lon="12.320645"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

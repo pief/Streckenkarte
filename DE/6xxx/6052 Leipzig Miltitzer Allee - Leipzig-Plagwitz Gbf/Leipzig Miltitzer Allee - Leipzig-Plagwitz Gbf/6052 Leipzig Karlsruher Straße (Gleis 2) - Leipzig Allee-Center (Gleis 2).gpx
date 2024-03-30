@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 906 filtered ascend = 1 plain-ascend = 0 cost=906 energy=0.0kwh time=1m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6052 Leipzig Karlsruher Straße (Gleis 2) - Leipzig Allee-Center (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.31910/12.29191/standard&amp;lonlats=12.278984,51.317171;12.291622,51.31907&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.317166" lon="12.278984"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.317168" lon="12.278992"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.317546" lon="12.281198"><ele>123</ele></trkpt>
+   <trkpt lat="51.317618" lon="12.281635"><ele>123</ele></trkpt>
+   <trkpt lat="51.31775" lon="12.282502"><ele>123.25</ele></trkpt>
+   <trkpt lat="51.317868" lon="12.283366"><ele>122.75</ele></trkpt>
+   <trkpt lat="51.317974" lon="12.284245"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.318097" lon="12.28541"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.31826" lon="12.286719"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.318381" lon="12.28755"><ele>122</ele></trkpt>
+   <trkpt lat="51.318499" lon="12.288287"><ele>122</ele></trkpt>
+   <trkpt lat="51.318832" lon="12.290219"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.318858" lon="12.290365"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.319076" lon="12.291618"><ele>121.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
