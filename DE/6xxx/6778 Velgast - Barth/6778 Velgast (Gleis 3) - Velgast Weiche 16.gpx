@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 519 filtered ascend = 0 plain-ascend = 0 cost=519 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6778 Velgast (Gleis 3) - Velgast Weiche 16</name>
+  <link href="https://bikerouter.de/#map=19/54.27742/12.80318/standard&amp;lonlats=12.8028,54.277493;12.794971,54.276708&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.277498" lon="12.802797"><ele>12.75</ele></trkpt>
+   <trkpt lat="54.277474" lon="12.802556"><ele>12.75</ele></trkpt>
+   <trkpt lat="54.27734" lon="12.801275"><ele>12.5</ele></trkpt>
+   <trkpt lat="54.276932" lon="12.797339"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.276863" lon="12.796609"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.276704" lon="12.794968"><ele>11.75</ele></trkpt>
+   <trkpt lat="54.276704" lon="12.794971"><ele>11.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
