@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 420 filtered ascend = 4 plain-ascend = 4 cost=420 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Keßlerturm - Sportforum</name>
+  <link href="https://bikerouter.de/#map=19/51.79472/11.72099/standard&amp;lonlats=11.720859,51.794769;11.716492,51.792219&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.794764" lon="11.720865"><ele>67.5</ele></trkpt>
+   <trkpt lat="51.794632" lon="11.720689"><ele>67.25</ele></trkpt>
+   <trkpt lat="51.793706" lon="11.719388"><ele>64.75</ele></trkpt>
+   <trkpt lat="51.79262" lon="11.717642"><ele>68</ele></trkpt>
+   <trkpt lat="51.792502" lon="11.717412"><ele>68.25</ele></trkpt>
+   <trkpt lat="51.792415" lon="11.717217"><ele>68.75</ele></trkpt>
+   <trkpt lat="51.792353" lon="11.717035"><ele>69</ele></trkpt>
+   <trkpt lat="51.792284" lon="11.71677"><ele>69.75</ele></trkpt>
+   <trkpt lat="51.792221" lon="11.7165"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.792218" lon="11.716491"><ele>71.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
