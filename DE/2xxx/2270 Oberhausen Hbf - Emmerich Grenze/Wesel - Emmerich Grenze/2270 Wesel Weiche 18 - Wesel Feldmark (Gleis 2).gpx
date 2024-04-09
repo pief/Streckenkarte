@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1607 filtered ascend = 0 plain-ascend = 0 cost=1607 energy=0.0kwh time=2m 9s -->
+<!-- track-length = 1602 filtered ascend = 0 plain-ascend = 0 cost=1602 energy=0.0kwh time=2m 8s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
   <name>2270 Wesel Weiche 18 - Wesel Feldmark (Gleis 2)</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/51.67663/6.61665/standard&amp;lonlats=6.62877,51.664722;6.616308,51.67666&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=19/51.67595/6.61679/standard&amp;lonlats=6.628771,51.664722;6.616311,51.676661&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.664722" lon="6.62877"><ele>25.25</ele></trkpt>
+   <trkpt lat="51.664721" lon="6.62877"><ele>25.25</ele></trkpt>
    <trkpt lat="51.664724" lon="6.62877"><ele>25.5</ele></trkpt>
    <trkpt lat="51.665207" lon="6.628608"><ele>25.75</ele></trkpt>
    <trkpt lat="51.665832" lon="6.62835"><ele>25</ele></trkpt>
-   <trkpt lat="51.666421" lon="6.628027"><ele>24.5</ele></trkpt>
-   <trkpt lat="51.667011" lon="6.627664"><ele>25</ele></trkpt>
-   <trkpt lat="51.667512" lon="6.627279"><ele>26</ele></trkpt>
-   <trkpt lat="51.667875" lon="6.626954"><ele>25.75</ele></trkpt>
+   <trkpt lat="51.66617" lon="6.62817"><ele>24.5</ele></trkpt>
+   <trkpt lat="51.666658" lon="6.627885"><ele>24.5</ele></trkpt>
+   <trkpt lat="51.667125" lon="6.627568"><ele>25.25</ele></trkpt>
+   <trkpt lat="51.667589" lon="6.6272"><ele>26</ele></trkpt>
+   <trkpt lat="51.668032" lon="6.626798"><ele>25.5</ele></trkpt>
    <trkpt lat="51.668534" lon="6.626297"><ele>25</ele></trkpt>
    <trkpt lat="51.668869" lon="6.625904"><ele>25</ele></trkpt>
    <trkpt lat="51.669106" lon="6.625627"><ele>24.75</ele></trkpt>

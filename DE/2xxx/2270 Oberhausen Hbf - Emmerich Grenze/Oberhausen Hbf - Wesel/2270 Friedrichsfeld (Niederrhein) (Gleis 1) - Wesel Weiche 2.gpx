@@ -1,39 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 2962 filtered ascend = 2 plain-ascend = 0 cost=2962 energy=0.0kwh time=3m 57s -->
+<!-- track-length = 2955 filtered ascend = 2 plain-ascend = 0 cost=2955 energy=0.0kwh time=3m 56s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 0.18.1">
+ creator="bikerouter.de 2024.12">
  <trk>
   <name>2270 Friedrichsfeld (Niederrhein) (Gleis 1) - Wesel Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/51.65222/6.62809/standard&amp;lonlats=6.645595,51.628363;6.627481,51.652332&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
   <trkseg>
    <trkpt lat="51.628363" lon="6.645595"><ele>25.5</ele></trkpt>
    <trkpt lat="51.628506" lon="6.645492"><ele>25.5</ele></trkpt>
    <trkpt lat="51.628635" lon="6.645392"><ele>25.5</ele></trkpt>
    <trkpt lat="51.628798" lon="6.645272"><ele>25.5</ele></trkpt>
-   <trkpt lat="51.629414" lon="6.644846"><ele>24.5</ele></trkpt>
-   <trkpt lat="51.630175" lon="6.6443"><ele>23</ele></trkpt>
+   <trkpt lat="51.629555" lon="6.644745"><ele>23.75</ele></trkpt>
+   <trkpt lat="51.630125" lon="6.644334"><ele>22.75</ele></trkpt>
    <trkpt lat="51.631509" lon="6.643338"><ele>28</ele></trkpt>
-   <trkpt lat="51.634518" lon="6.6413"><ele>25.5</ele></trkpt>
-   <trkpt lat="51.634735" lon="6.641163"><ele>25.75</ele></trkpt>
+   <trkpt lat="51.634478" lon="6.641327"><ele>25.5</ele></trkpt>
+   <trkpt lat="51.634763" lon="6.641148"><ele>25.75</ele></trkpt>
    <trkpt lat="51.640815" lon="6.6373"><ele>22.5</ele></trkpt>
    <trkpt lat="51.641771" lon="6.636634"><ele>23</ele></trkpt>
    <trkpt lat="51.642721" lon="6.635916"><ele>23.5</ele></trkpt>
-   <trkpt lat="51.644266" lon="6.63448"><ele>21.5</ele></trkpt>
+   <trkpt lat="51.644271" lon="6.634494"><ele>21.5</ele></trkpt>
    <trkpt lat="51.644648" lon="6.63411"><ele>21</ele></trkpt>
-   <trkpt lat="51.645165" lon="6.633628"><ele>21.75</ele></trkpt>
+   <trkpt lat="51.645288" lon="6.633494"><ele>22</ele></trkpt>
    <trkpt lat="51.648262" lon="6.630583"><ele>24.25</ele></trkpt>
    <trkpt lat="51.648588" lon="6.630263"><ele>24.75</ele></trkpt>
    <trkpt lat="51.648918" lon="6.629939"><ele>24.5</ele></trkpt>
    <trkpt lat="51.649427" lon="6.629439"><ele>24.5</ele></trkpt>
    <trkpt lat="51.649906" lon="6.629001"><ele>23.5</ele></trkpt>
    <trkpt lat="51.650395" lon="6.628577"><ele>23.5</ele></trkpt>
+   <trkpt lat="51.650938" lon="6.628196"><ele>24</ele></trkpt>
    <trkpt lat="51.651176" lon="6.628043"><ele>24.5</ele></trkpt>
-   <trkpt lat="51.651717" lon="6.627751"><ele>25.5</ele></trkpt>
-   <trkpt lat="51.652305" lon="6.627496"><ele>25</ele></trkpt>
-   <trkpt lat="51.65231" lon="6.627493"><ele>25</ele></trkpt>
+   <trkpt lat="51.651366" lon="6.627934"><ele>24.75</ele></trkpt>
+   <trkpt lat="51.651795" lon="6.627714"><ele>25.5</ele></trkpt>
+   <trkpt lat="51.652328" lon="6.627485"><ele>25</ele></trkpt>
+   <trkpt lat="51.652332" lon="6.627483"><ele>25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

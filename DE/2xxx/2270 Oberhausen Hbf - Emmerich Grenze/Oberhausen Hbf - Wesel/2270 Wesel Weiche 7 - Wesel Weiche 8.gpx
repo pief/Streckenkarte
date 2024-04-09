@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 11 filtered ascend = 0 plain-ascend = 0 cost=11 energy=0.0kwh time=1s -->
+<!-- track-length = 9 filtered ascend = 0 plain-ascend = 0 cost=9 energy=0.0kwh time=1s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 0.18.1">
+ creator="bikerouter.de 2024.12">
  <trk>
   <name>2270 Wesel Weiche 7 - Wesel Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/51.65393/6.62746/standard&amp;lonlats=6.627125,51.653862;6.627114,51.653945&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
   <trkseg>
-   <trkpt lat="51.653857" lon="6.627125"><ele>29.75</ele></trkpt>
-   <trkpt lat="51.653943" lon="6.627109"><ele>30</ele></trkpt>
-   <trkpt lat="51.653945" lon="6.627108"><ele>29.75</ele></trkpt>
+   <trkpt lat="51.653862" lon="6.627125"><ele>29.75</ele></trkpt>
+   <trkpt lat="51.653945" lon="6.627116"><ele>30</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
