@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 563 filtered ascend = 1 plain-ascend = -1 cost=1128 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Lipperfeld (Steig Ost) - Neue Mitte (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.48923/6.87480/standard&amp;lonlats=6.872726,51.484418;6.873882,51.489429&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.484416" lon="6.872729"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.48444" lon="6.872733"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.484899" lon="6.872807"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.485445" lon="6.872936"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.48639" lon="6.873256"><ele>41</ele></trkpt>
+   <trkpt lat="51.486594" lon="6.873306"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.486958" lon="6.873387"><ele>39</ele></trkpt>
+   <trkpt lat="51.487497" lon="6.873488"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.488537" lon="6.873699"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.489055" lon="6.873808"/>
+   <trkpt lat="51.489427" lon="6.873886"/>
+  </trkseg>
+ </trk>
+</gpx>
