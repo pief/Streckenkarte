@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = 0 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Üst Saline Weiche Ost-Süd - Abzweig Saline Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.48162/11.96000/standard&amp;lonlats=11.958207,51.481532;11.959023,51.481625&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.481532" lon="11.958205"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.481533" lon="11.958213"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.481545" lon="11.958469"><ele>81</ele></trkpt>
+   <trkpt lat="51.481558" lon="11.958618"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.481568" lon="11.958705"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.481623" lon="11.959022"><ele>80.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

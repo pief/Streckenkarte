@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=178 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Rennbahnkreuz Weiche Ost-Nord - Dreieck Rennbahnkreuz Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.48275/11.94802/standard&amp;lonlats=11.947468,51.482402;11.946975,51.483021&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.482403" lon="11.947468"><ele>77</ele></trkpt>
+   <trkpt lat="51.482404" lon="11.947465"><ele>77</ele></trkpt>
+   <trkpt lat="51.482434" lon="11.947296"><ele>77</ele></trkpt>
+   <trkpt lat="51.482451" lon="11.94723"><ele>77</ele></trkpt>
+   <trkpt lat="51.482463" lon="11.947196"><ele>77</ele></trkpt>
+   <trkpt lat="51.482516" lon="11.947101"><ele>77</ele></trkpt>
+   <trkpt lat="51.482536" lon="11.947077"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.482544" lon="11.947078"><ele>77</ele></trkpt>
+   <trkpt lat="51.482563" lon="11.94705"><ele>77</ele></trkpt>
+   <trkpt lat="51.482596" lon="11.947025"><ele>77</ele></trkpt>
+   <trkpt lat="51.48264" lon="11.947011"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.483018" lon="11.946975"><ele>77</ele></trkpt>
+   <trkpt lat="51.48302" lon="11.946974"><ele>77</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 116 filtered ascend = 2 plain-ascend = 2 cost=232 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Rennbahnkreuz Weiche Ost-Süd - Üst Mansfelder Straße West Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.48226/11.94983/standard&amp;lonlats=11.947364,51.482385;11.948986,51.48221&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.482385" lon="11.947364"><ele>77</ele></trkpt>
+   <trkpt lat="51.482385" lon="11.947366"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.482211" lon="11.948984"><ele>78.5</ele></trkpt>
+   <trkpt lat="51.48221" lon="11.948986"><ele>79</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
