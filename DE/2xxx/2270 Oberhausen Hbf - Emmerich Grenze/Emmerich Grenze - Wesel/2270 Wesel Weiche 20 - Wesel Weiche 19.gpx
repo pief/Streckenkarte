@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=5 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>2270 Wesel Weiche 20 - Wesel Weiche 19</name>
+  <link href="https://bikerouter.de/#map=19/51.66593/6.62889/standard&amp;lonlats=6.628303,51.665755;6.628315,51.66572&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.665755" lon="6.628303"><ele>24.75</ele></trkpt>
+   <trkpt lat="51.665754" lon="6.628304"><ele>25</ele></trkpt>
+   <trkpt lat="51.66572" lon="6.628317"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

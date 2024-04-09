@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 895 filtered ascend = 2 plain-ascend = 2 cost=896 energy=0.0kwh time=1m 12s -->
+<!-- track-length = 893 filtered ascend = 2 plain-ascend = 2 cost=893 energy=0.0kwh time=1m 11s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
   <name>2270 Wesel Weiche 16 - Wesel (Gleis 2)</name>
-  <link href="https://brouter.damsy.net/latest/#map=21/51.65613/6.62693/standard&amp;lonlats=6.628782,51.664075;6.626956,51.65617&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <link href="https://bikerouter.de/#map=17/51.66049/6.63140/standard&amp;lonlats=6.628782,51.664074;6.626955,51.656169&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="51.664075" lon="6.628782"><ele>25</ele></trkpt>
+   <trkpt lat="51.664074" lon="6.628782"><ele>25</ele></trkpt>
    <trkpt lat="51.663465" lon="6.628825"><ele>25.75</ele></trkpt>
    <trkpt lat="51.662881" lon="6.628808"><ele>25</ele></trkpt>
    <trkpt lat="51.662419" lon="6.628732"><ele>24.5</ele></trkpt>
@@ -24,7 +24,7 @@
    <trkpt lat="51.657063" lon="6.627151"><ele>27.5</ele></trkpt>
    <trkpt lat="51.656508" lon="6.627021"><ele>27.75</ele></trkpt>
    <trkpt lat="51.656209" lon="6.626962"><ele>27.25</ele></trkpt>
-   <trkpt lat="51.656169" lon="6.626955"><ele>27</ele></trkpt>
+   <trkpt lat="51.656167" lon="6.626955"><ele>27</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
