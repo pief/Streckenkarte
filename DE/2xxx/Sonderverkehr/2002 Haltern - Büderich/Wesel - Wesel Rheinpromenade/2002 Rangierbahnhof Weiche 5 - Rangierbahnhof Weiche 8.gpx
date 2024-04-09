@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 146 filtered ascend = 0 plain-ascend = 0 cost=146 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>2002 Rangierbahnhof Weiche 5 - Rangierbahnhof Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/51.66147/6.60353/standard&amp;lonlats=6.603282,51.661394;6.601595,51.660627&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.661392" lon="6.603282"><ele>21.5</ele></trkpt>
+   <trkpt lat="51.661391" lon="6.603279"><ele>21.75</ele></trkpt>
+   <trkpt lat="51.661141" lon="6.602618"><ele>21.25</ele></trkpt>
+   <trkpt lat="51.661045" lon="6.602381"><ele>21.25</ele></trkpt>
+   <trkpt lat="51.660935" lon="6.602146"><ele>21.25</ele></trkpt>
+   <trkpt lat="51.660825" lon="6.60193"><ele>21.25</ele></trkpt>
+   <trkpt lat="51.660626" lon="6.601594"><ele>21.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

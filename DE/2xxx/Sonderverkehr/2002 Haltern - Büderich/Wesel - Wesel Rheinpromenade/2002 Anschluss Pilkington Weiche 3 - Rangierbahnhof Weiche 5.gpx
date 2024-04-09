@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226 filtered ascend = 1 plain-ascend = 1 cost=226 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>2002 Anschluss Pilkington Weiche 3 - Rangierbahnhof Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/51.66249/6.60526/standard&amp;lonlats=6.606066,51.662439;6.603282,51.661394&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.662436" lon="6.606067"><ele>20.5</ele></trkpt>
+   <trkpt lat="51.662435" lon="6.606064"><ele>20.5</ele></trkpt>
+   <trkpt lat="51.661392" lon="6.603282"><ele>21.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
