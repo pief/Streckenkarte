@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 345 filtered ascend = 0 plain-ascend = 0 cost=346 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9177 Nienstädt Weiche 1 - Nienstädt Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/52.30067/9.17078/standard&amp;lonlats=9.164926,52.300257;9.16995,52.300528&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.300254" lon="9.164925"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.300255" lon="9.164928"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.300257" lon="9.164971"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.300298" lon="9.165865"><ele>84.5</ele></trkpt>
+   <trkpt lat="52.3004" lon="9.16794"><ele>84.25</ele></trkpt>
+   <trkpt lat="52.300527" lon="9.16995"><ele>84.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

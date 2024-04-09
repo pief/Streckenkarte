@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 1 plain-ascend = 0 cost=268 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9177 Stadthagen West - Stadthagen West Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/52.33124/9.18358/standard&amp;lonlats=9.183449,52.331156;9.180177,52.329903&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.331157" lon="9.183447"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.331106" lon="9.183235"><ele>65</ele></trkpt>
+   <trkpt lat="52.330783" lon="9.181911"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.330702" lon="9.181654"><ele>66.5</ele></trkpt>
+   <trkpt lat="52.330606" lon="9.181394"><ele>66.25</ele></trkpt>
+   <trkpt lat="52.330444" lon="9.181035"><ele>66</ele></trkpt>
+   <trkpt lat="52.330332" lon="9.180828"><ele>66</ele></trkpt>
+   <trkpt lat="52.329908" lon="9.180188"><ele>65.75</ele></trkpt>
+   <trkpt lat="52.329901" lon="9.180178"><ele>65</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

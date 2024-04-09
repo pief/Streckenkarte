@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 0 cost=35 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>9177 Obernkirchen Weiche 15 - Obernkirchen Weiche 18</name>
+  <link href="https://bikerouter.de/#map=19/52.27048/9.13309/standard&amp;lonlats=9.133163,52.270363;9.133195,52.27067&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.270361" lon="9.133167"><ele>134</ele></trkpt>
+   <trkpt lat="52.270453" lon="9.13317"><ele>134</ele></trkpt>
+   <trkpt lat="52.270665" lon="9.133196"><ele>133.75</ele></trkpt>
+   <trkpt lat="52.270669" lon="9.133197"><ele>133.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
