@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 2 plain-ascend = 1 cost=628 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Celtisplatz (Steig West) - Abzweig Aufseßplatz Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/49.44075/11.08155/standard&amp;lonlats=11.081023,49.443078;11.081567,49.440397&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.443077" lon="11.081022"><ele>312</ele></trkpt>
+   <trkpt lat="49.44285" lon="11.081096"><ele>313</ele></trkpt>
+   <trkpt lat="49.442428" lon="11.081232"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.442343" lon="11.08126"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.442286" lon="11.081279"><ele>314</ele></trkpt>
+   <trkpt lat="49.441371" lon="11.081569"><ele>314</ele></trkpt>
+   <trkpt lat="49.441266" lon="11.081614"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.440774" lon="11.08179"><ele>313</ele></trkpt>
+   <trkpt lat="49.440677" lon="11.081823"><ele>313</ele></trkpt>
+   <trkpt lat="49.440606" lon="11.081832"><ele>313</ele></trkpt>
+   <trkpt lat="49.440559" lon="11.081824"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440521" lon="11.081804"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440472" lon="11.081758"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440427" lon="11.08168"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440411" lon="11.081633"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440398" lon="11.081574"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440396" lon="11.081566"><ele>312.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
