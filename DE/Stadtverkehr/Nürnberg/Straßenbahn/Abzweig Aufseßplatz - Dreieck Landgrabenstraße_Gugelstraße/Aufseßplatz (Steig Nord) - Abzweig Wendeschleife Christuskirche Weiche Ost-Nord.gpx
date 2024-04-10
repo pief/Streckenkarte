@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 1 plain-ascend = 0 cost=562 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Aufseßplatz (Steig Nord) - Abzweig Wendeschleife Christuskirche Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.43975/11.07655/standard&amp;lonlats=11.0806,49.440266;11.076794,49.439756&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.440266" lon="11.0806"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440235" lon="11.080338"><ele>314</ele></trkpt>
+   <trkpt lat="49.440219" lon="11.080203"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.439965" lon="11.078394"><ele>312.5</ele></trkpt>
+   <trkpt lat="49.439755" lon="11.076793"><ele>312</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

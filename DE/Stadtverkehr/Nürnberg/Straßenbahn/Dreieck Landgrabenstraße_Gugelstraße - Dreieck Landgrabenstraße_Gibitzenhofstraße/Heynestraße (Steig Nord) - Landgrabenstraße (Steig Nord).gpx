@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 249 filtered ascend = 0 plain-ascend = -1 cost=498 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Heynestraße (Steig Nord) - Landgrabenstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.43944/11.06739/standard&amp;lonlats=11.071083,49.439066;11.067711,49.439454&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.439066" lon="11.071083"><ele>311</ele></trkpt>
+   <trkpt lat="49.439118" lon="11.070658"><ele>309.75</ele></trkpt>
+   <trkpt lat="49.439178" lon="11.070149"><ele>309</ele></trkpt>
+   <trkpt lat="49.439265" lon="11.069365"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.439268" lon="11.069336"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.439312" lon="11.068961"><ele>311</ele></trkpt>
+   <trkpt lat="49.439451" lon="11.06771"><ele>309.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

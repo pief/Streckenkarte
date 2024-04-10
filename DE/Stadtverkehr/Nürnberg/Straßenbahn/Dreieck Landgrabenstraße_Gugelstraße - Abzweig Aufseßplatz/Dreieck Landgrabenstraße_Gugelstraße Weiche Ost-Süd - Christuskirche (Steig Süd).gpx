@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Landgrabenstraße/Gugelstraße Weiche Ost-Süd - Christuskirche (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.43949/11.07460/standard&amp;lonlats=11.074347,49.439384;11.074857,49.43945&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.439385" lon="11.074345"><ele>310.25</ele></trkpt>
+   <trkpt lat="49.439392" lon="11.074396"><ele>310.25</ele></trkpt>
+   <trkpt lat="49.439436" lon="11.074734"><ele>309.75</ele></trkpt>
+   <trkpt lat="49.439452" lon="11.074855"><ele>309.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

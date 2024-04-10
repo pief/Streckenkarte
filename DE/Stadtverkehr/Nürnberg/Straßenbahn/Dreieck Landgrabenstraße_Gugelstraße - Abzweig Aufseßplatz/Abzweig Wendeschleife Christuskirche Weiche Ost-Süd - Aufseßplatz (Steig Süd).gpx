@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 373 filtered ascend = 4 plain-ascend = 3 cost=748 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Wendeschleife Christuskirche Weiche Ost-Süd - Aufseßplatz (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.44048/11.08154/standard&amp;lonlats=11.076118,49.439634;11.081144,49.440312&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.439632" lon="11.076117"><ele>310</ele></trkpt>
+   <trkpt lat="49.439633" lon="11.076122"><ele>310.25</ele></trkpt>
+   <trkpt lat="49.439674" lon="11.076431"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.439692" lon="11.076566"><ele>311.75</ele></trkpt>
+   <trkpt lat="49.439712" lon="11.076711"><ele>312</ele></trkpt>
+   <trkpt lat="49.440199" lon="11.080253"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.440206" lon="11.080309"><ele>314</ele></trkpt>
+   <trkpt lat="49.440211" lon="11.080345"><ele>314</ele></trkpt>
+   <trkpt lat="49.440246" lon="11.080684"><ele>313</ele></trkpt>
+   <trkpt lat="49.440271" lon="11.080869"><ele>312.5</ele></trkpt>
+   <trkpt lat="49.440309" lon="11.081144"><ele>313</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

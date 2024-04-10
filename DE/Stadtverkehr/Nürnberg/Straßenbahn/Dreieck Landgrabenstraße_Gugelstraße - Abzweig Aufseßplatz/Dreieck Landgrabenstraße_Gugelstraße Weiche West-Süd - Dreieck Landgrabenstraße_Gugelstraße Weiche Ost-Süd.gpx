@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=106 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Landgrabenstraße/Gugelstraße Weiche West-Süd - Dreieck Landgrabenstraße/Gugelstraße Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.43949/11.07460/standard&amp;lonlats=11.073658,49.439298;11.074347,49.439384&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.439298" lon="11.073656"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.439299" lon="11.073663"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.43931" lon="11.073747"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.439311" lon="11.073754"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.439324" lon="11.073852"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.43934" lon="11.073984"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.439362" lon="11.074174"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.439385" lon="11.074345"><ele>310.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
