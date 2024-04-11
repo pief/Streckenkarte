@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 302 filtered ascend = 0 plain-ascend = -2 cost=604 energy=0.0kwh time=24s -->
+<!-- track-length = 297 filtered ascend = 0 plain-ascend = -2 cost=594 energy=0.0kwh time=24s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Meistersingerhalle - Luitpoldhain</name>
-  <link href="https://brouter.damsy.net/latest/#map=17/49.43675/11.10756/standard&amp;lonlats=11.105723,49.438326;11.10859,49.436538&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Meistersingerhalle (Steig Südwest) - Luitpoldhain (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.43649/11.10832/standard&amp;lonlats=11.105724,49.438326;11.108593,49.436534&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.438326" lon="11.105723"><ele>317.5</ele></trkpt>
+   <trkpt lat="49.438325" lon="11.105723"><ele>317.5</ele></trkpt>
    <trkpt lat="49.438325" lon="11.105727"><ele>317.75</ele></trkpt>
    <trkpt lat="49.438249" lon="11.105966"><ele>318</ele></trkpt>
    <trkpt lat="49.438089" lon="11.106417"><ele>318.25</ele></trkpt>
@@ -23,7 +23,7 @@
    <trkpt lat="49.437218" lon="11.108019"><ele>315.25</ele></trkpt>
    <trkpt lat="49.436993" lon="11.108262"><ele>314</ele></trkpt>
    <trkpt lat="49.43654" lon="11.108591"><ele>314.25</ele></trkpt>
-   <trkpt lat="49.436538" lon="11.108592"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.436534" lon="11.108595"><ele>314.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=68 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kreuz Schweiggerstraße Weiche Nord-Ost-Nord - Kreuz Schweiggerstraße Weiche West-Süd-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.44139/11.08966/standard&amp;lonlats=11.089845,49.441608;11.090058,49.441345&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.441608" lon="11.089846"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441604" lon="11.089851"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441585" lon="11.089869"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441525" lon="11.089926"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441522" lon="11.089928"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441498" lon="11.08995"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.44145" lon="11.089988"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441434" lon="11.089998"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441348" lon="11.090057"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.441345" lon="11.090058"><ele>314.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

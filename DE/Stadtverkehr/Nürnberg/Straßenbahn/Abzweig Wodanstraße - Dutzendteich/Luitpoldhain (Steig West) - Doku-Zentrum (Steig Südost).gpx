@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 451 filtered ascend = 5 plain-ascend = 5 cost=902 energy=0.0kwh time=36s -->
+<!-- track-length = 444 filtered ascend = 5 plain-ascend = 5 cost=888 energy=0.0kwh time=36s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Luitpoldhain - Doku-Zentrum</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.43384/11.11171/standard&amp;lonlats=11.10859,49.436538;11.111868,49.434085&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Luitpoldhain (Steig West) - Doku-Zentrum (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.43413/11.11137/standard&amp;lonlats=11.108593,49.436534;11.111871,49.434084&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.436538" lon="11.108592"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.436534" lon="11.108595"><ele>314.25</ele></trkpt>
    <trkpt lat="49.436457" lon="11.108651"><ele>314.75</ele></trkpt>
    <trkpt lat="49.436302" lon="11.108766"><ele>315.75</ele></trkpt>
    <trkpt lat="49.436081" lon="11.108917"><ele>316.75</ele></trkpt>
@@ -20,6 +20,7 @@
    <trkpt lat="49.435502" lon="11.109294"><ele>318</ele></trkpt>
    <trkpt lat="49.435218" lon="11.109406"><ele>318</ele></trkpt>
    <trkpt lat="49.434969" lon="11.109554"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.433962" lon="11.110293"><ele>318</ele></trkpt>
    <trkpt lat="49.43394" lon="11.110309"><ele>318</ele></trkpt>
    <trkpt lat="49.433907" lon="11.110343"><ele>318.25</ele></trkpt>
    <trkpt lat="49.433863" lon="11.110405"><ele>318.5</ele></trkpt>
@@ -30,7 +31,7 @@
    <trkpt lat="49.433774" lon="11.110945"><ele>319.25</ele></trkpt>
    <trkpt lat="49.433788" lon="11.111003"><ele>319.25</ele></trkpt>
    <trkpt lat="49.433812" lon="11.111095"><ele>319</ele></trkpt>
-   <trkpt lat="49.434083" lon="11.111867"><ele>319</ele></trkpt>
+   <trkpt lat="49.434084" lon="11.111869"><ele>319.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
