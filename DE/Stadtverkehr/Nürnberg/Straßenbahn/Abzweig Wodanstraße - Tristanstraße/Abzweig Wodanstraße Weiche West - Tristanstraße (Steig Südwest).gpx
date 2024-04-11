@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 2 plain-ascend = 1 cost=780 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Wodanstraße Weiche West - Tristanstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/49.43457/11.09382/standard&amp;lonlats=11.091465,49.436524;11.094768,49.433775&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.436524" lon="11.091465"><ele>321.5</ele></trkpt>
+   <trkpt lat="49.43652" lon="11.091471"><ele>321.75</ele></trkpt>
+   <trkpt lat="49.436479" lon="11.091522"><ele>321.75</ele></trkpt>
+   <trkpt lat="49.436453" lon="11.091555"><ele>322</ele></trkpt>
+   <trkpt lat="49.436283" lon="11.091766"><ele>322.25</ele></trkpt>
+   <trkpt lat="49.435874" lon="11.092276"><ele>322.5</ele></trkpt>
+   <trkpt lat="49.43451" lon="11.093973"><ele>323.75</ele></trkpt>
+   <trkpt lat="49.434353" lon="11.094147"><ele>323.25</ele></trkpt>
+   <trkpt lat="49.434097" lon="11.094409"><ele>323</ele></trkpt>
+   <trkpt lat="49.433986" lon="11.09453"><ele>323</ele></trkpt>
+   <trkpt lat="49.433785" lon="11.09478"><ele>322.75</ele></trkpt>
+   <trkpt lat="49.433782" lon="11.094783"><ele>322.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
