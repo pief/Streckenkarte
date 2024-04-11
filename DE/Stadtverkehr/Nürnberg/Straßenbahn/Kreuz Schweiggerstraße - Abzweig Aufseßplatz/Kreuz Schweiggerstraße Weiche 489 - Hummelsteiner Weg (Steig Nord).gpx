@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 0 plain-ascend = -1 cost=600 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kreuz Schweiggerstraße Weiche 489 - Hummelsteiner Weg (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.44083/11.08546/standard&amp;lonlats=11.089416,49.441453;11.085355,49.440917&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.441457" lon="11.089413"><ele>314.5</ele></trkpt>
+   <trkpt lat="49.441323" lon="11.088422"><ele>314</ele></trkpt>
+   <trkpt lat="49.44112" lon="11.086876"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.441035" lon="11.086229"><ele>313</ele></trkpt>
+   <trkpt lat="49.440951" lon="11.085608"><ele>312.5</ele></trkpt>
+   <trkpt lat="49.440916" lon="11.085354"><ele>312.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

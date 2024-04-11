@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 1 plain-ascend = 1 cost=562 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hummelsteiner Weg (Steig Nord) - Abzweig Aufseßplatz Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/49.44029/11.08444/standard&amp;lonlats=11.085355,49.440917;11.081567,49.440397&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.440916" lon="11.085354"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.440904" lon="11.085262"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.440876" lon="11.085051"><ele>312</ele></trkpt>
+   <trkpt lat="49.44085" lon="11.084871"><ele>312</ele></trkpt>
+   <trkpt lat="49.440661" lon="11.083505"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440466" lon="11.082068"><ele>313</ele></trkpt>
+   <trkpt lat="49.440441" lon="11.081895"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440426" lon="11.081773"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440406" lon="11.081637"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440398" lon="11.081574"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.440396" lon="11.081566"><ele>312.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
