@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 1 plain-ascend = 1 cost=700 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Meistersingerhalle (Steig Nordost) - Platz der Opfer des Faschimus (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=18/49.43792/11.10472/standard&amp;lonlats=11.106109,49.438231;11.101405,49.438697&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.438231" lon="11.106108"><ele>318</ele></trkpt>
+   <trkpt lat="49.438271" lon="11.105985"><ele>318</ele></trkpt>
+   <trkpt lat="49.438346" lon="11.105746"><ele>317.75</ele></trkpt>
+   <trkpt lat="49.438412" lon="11.105499"><ele>317</ele></trkpt>
+   <trkpt lat="49.438528" lon="11.104993"><ele>316.5</ele></trkpt>
+   <trkpt lat="49.43858" lon="11.104713"><ele>316.5</ele></trkpt>
+   <trkpt lat="49.438624" lon="11.104427"><ele>316.5</ele></trkpt>
+   <trkpt lat="49.438663" lon="11.104077"><ele>316.5</ele></trkpt>
+   <trkpt lat="49.438691" lon="11.103723"><ele>317</ele></trkpt>
+   <trkpt lat="49.438719" lon="11.103051"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.438724" lon="11.102845"><ele>318.75</ele></trkpt>
+   <trkpt lat="49.438728" lon="11.102516"><ele>319.75</ele></trkpt>
+   <trkpt lat="49.438734" lon="11.102262"><ele>319.75</ele></trkpt>
+   <trkpt lat="49.438737" lon="11.101977"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.438729" lon="11.101745"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.438711" lon="11.101508"><ele>319.25</ele></trkpt>
+   <trkpt lat="49.438697" lon="11.101403"><ele>319.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
