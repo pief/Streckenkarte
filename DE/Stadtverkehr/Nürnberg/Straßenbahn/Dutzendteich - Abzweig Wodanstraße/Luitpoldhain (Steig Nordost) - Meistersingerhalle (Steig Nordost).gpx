@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 243 filtered ascend = 4 plain-ascend = 5 cost=486 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Luitpoldhain (Steig Nordost) - Meistersingerhalle (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=17/49.43750/11.10428/standard&amp;lonlats=11.108486,49.436758;11.106108,49.438231&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.436758" lon="11.108486"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.436762" lon="11.108484"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.437012" lon="11.108306"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.437243" lon="11.108056"><ele>315.5</ele></trkpt>
+   <trkpt lat="49.437507" lon="11.107673"><ele>317.5</ele></trkpt>
+   <trkpt lat="49.437872" lon="11.106978"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.438038" lon="11.10661"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.438111" lon="11.106435"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.43823" lon="11.106112"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.438231" lon="11.106108"><ele>318</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

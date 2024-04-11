@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 2 plain-ascend = 2 cost=502 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Immelmannstraße (Steig Südwest) - Fliegerstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.43861/11.11346/standard&amp;lonlats=11.111074,49.440059;11.113724,49.438758&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.440056" lon="11.111071"><ele>316.25</ele></trkpt>
+   <trkpt lat="49.439989" lon="11.11123"><ele>316.25</ele></trkpt>
+   <trkpt lat="49.439987" lon="11.111235"><ele>316.25</ele></trkpt>
+   <trkpt lat="49.439922" lon="11.111387"><ele>316.5</ele></trkpt>
+   <trkpt lat="49.439643" lon="11.112043"><ele>317.5</ele></trkpt>
+   <trkpt lat="49.439596" lon="11.112155"><ele>317.75</ele></trkpt>
+   <trkpt lat="49.439531" lon="11.112306"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.439426" lon="11.112548"><ele>318.75</ele></trkpt>
+   <trkpt lat="49.439355" lon="11.11274"><ele>318.5</ele></trkpt>
+   <trkpt lat="49.43929" lon="11.112942"><ele>318.25</ele></trkpt>
+   <trkpt lat="49.439196" lon="11.113293"><ele>318</ele></trkpt>
+   <trkpt lat="49.439172" lon="11.113382"><ele>317.75</ele></trkpt>
+   <trkpt lat="49.439148" lon="11.113444"><ele>318</ele></trkpt>
+   <trkpt lat="49.439101" lon="11.113524"><ele>318</ele></trkpt>
+   <trkpt lat="49.439069" lon="11.113562"><ele>318</ele></trkpt>
+   <trkpt lat="49.438994" lon="11.113609"><ele>318</ele></trkpt>
+   <trkpt lat="49.438979" lon="11.113617"><ele>318</ele></trkpt>
+   <trkpt lat="49.438826" lon="11.113684"><ele>318</ele></trkpt>
+   <trkpt lat="49.438757" lon="11.113719"><ele>318</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

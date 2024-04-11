@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 2 plain-ascend = 2 cost=422 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Fliegerstraße (Steig West) - Abzweig Wendeschleife Dutzendteich Weiche Nord-Nord</name>
+  <link href="https://bikerouter.de/#map=18/49.43673/11.11560/standard&amp;lonlats=11.113719,49.438757;11.115206,49.437132&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.438757" lon="11.113719"><ele>318</ele></trkpt>
+   <trkpt lat="49.438625" lon="11.113788"><ele>318</ele></trkpt>
+   <trkpt lat="49.438487" lon="11.113911"><ele>318</ele></trkpt>
+   <trkpt lat="49.437628" lon="11.114726"><ele>320</ele></trkpt>
+   <trkpt lat="49.437207" lon="11.115127"><ele>320</ele></trkpt>
+   <trkpt lat="49.43713" lon="11.115202"><ele>320</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

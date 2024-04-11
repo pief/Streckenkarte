@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 143 filtered ascend = 0 plain-ascend = 1 cost=286 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Wendeschleife Dutzendteich Weiche Nord-Nord - Abzweig Wendeschleife Dutzendteich Weiche Süd-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.43608/11.11561/standard&amp;lonlats=11.115206,49.437132;11.115753,49.435943&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.43713" lon="11.115202"><ele>320</ele></trkpt>
+   <trkpt lat="49.437126" lon="11.115207"><ele>320</ele></trkpt>
+   <trkpt lat="49.436817" lon="11.1155"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.436743" lon="11.11556"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.436656" lon="11.115625"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.436562" lon="11.115678"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.436473" lon="11.115715"><ele>319.5</ele></trkpt>
+   <trkpt lat="49.436299" lon="11.115757"><ele>319.75</ele></trkpt>
+   <trkpt lat="49.436228" lon="11.115762"><ele>320</ele></trkpt>
+   <trkpt lat="49.436004" lon="11.115756"><ele>320.5</ele></trkpt>
+   <trkpt lat="49.435944" lon="11.115754"><ele>320.5</ele></trkpt>
+   <trkpt lat="49.435943" lon="11.115754"><ele>320.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
