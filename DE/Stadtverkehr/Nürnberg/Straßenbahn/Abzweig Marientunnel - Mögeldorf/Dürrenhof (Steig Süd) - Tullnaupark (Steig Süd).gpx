@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 584 filtered ascend = 0 plain-ascend = -6 cost=1168 energy=0.0kwh time=47s -->
+<!-- track-length = 585 filtered ascend = 0 plain-ascend = -3 cost=1170 energy=0.0kwh time=47s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Dürrenhof - Tullnaupark</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/49.45049/11.10326/standard&amp;lonlats=11.096928,49.448721;11.103125,49.450677&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Dürrenhof (Steig Süd) - Tullnaupark (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.45052/11.10268/standard&amp;lonlats=11.09692,49.448718;11.103331,49.450661&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.448719" lon="11.096927"><ele>307</ele></trkpt>
+   <trkpt lat="49.448717" lon="11.096919"><ele>307</ele></trkpt>
+   <trkpt lat="49.448719" lon="11.096925"><ele>307</ele></trkpt>
    <trkpt lat="49.448751" lon="11.097076"><ele>307</ele></trkpt>
    <trkpt lat="49.448773" lon="11.097143"><ele>306.75</ele></trkpt>
-   <trkpt lat="49.448826" lon="11.097257"><ele>306.5</ele></trkpt>
-   <trkpt lat="49.448887" lon="11.097334"><ele>306.5</ele></trkpt>
+   <trkpt lat="49.448824" lon="11.097254"><ele>306.5</ele></trkpt>
+   <trkpt lat="49.448874" lon="11.097318"><ele>306.5</ele></trkpt>
    <trkpt lat="49.44894" lon="11.097373"><ele>306.25</ele></trkpt>
    <trkpt lat="49.449002" lon="11.097399"><ele>306.25</ele></trkpt>
    <trkpt lat="49.449059" lon="11.097409"><ele>306</ele></trkpt>
@@ -24,9 +25,11 @@
    <trkpt lat="49.449711" lon="11.09736"><ele>304.5</ele></trkpt>
    <trkpt lat="49.449766" lon="11.097376"><ele>304.25</ele></trkpt>
    <trkpt lat="49.449816" lon="11.097413"><ele>304.25</ele></trkpt>
-   <trkpt lat="49.449863" lon="11.097476"><ele>304.25</ele></trkpt>
+   <trkpt lat="49.449855" lon="11.097465"><ele>304.25</ele></trkpt>
+   <trkpt lat="49.449869" lon="11.097491"><ele>304.25</ele></trkpt>
    <trkpt lat="49.44989" lon="11.097535"><ele>304.25</ele></trkpt>
    <trkpt lat="49.449917" lon="11.097619"><ele>304</ele></trkpt>
+   <trkpt lat="49.449934" lon="11.097704"><ele>304</ele></trkpt>
    <trkpt lat="49.450183" lon="11.098938"><ele>302.25</ele></trkpt>
    <trkpt lat="49.450231" lon="11.099176"><ele>301.5</ele></trkpt>
    <trkpt lat="49.450549" lon="11.100751"><ele>300.25</ele></trkpt>
@@ -34,7 +37,8 @@
    <trkpt lat="49.450671" lon="11.101755"><ele>301</ele></trkpt>
    <trkpt lat="49.450687" lon="11.102124"><ele>300</ele></trkpt>
    <trkpt lat="49.450694" lon="11.102596"><ele>299.25</ele></trkpt>
-   <trkpt lat="49.450677" lon="11.103125"><ele>300.25</ele></trkpt>
+   <trkpt lat="49.450677" lon="11.103133"><ele>300.5</ele></trkpt>
+   <trkpt lat="49.450663" lon="11.103331"><ele>303</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

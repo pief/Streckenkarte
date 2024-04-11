@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 402 filtered ascend = 0 plain-ascend = -13 cost=804 energy=0.0kwh time=32s -->
+<!-- track-length = 395 filtered ascend = 0 plain-ascend = -14 cost=790 energy=0.0kwh time=32s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Arminiusstraße - Tullnaupark</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.45067/11.10334/standard&amp;lonlats=11.108146,49.451586;11.103128,49.450704&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Arminiusstraße (Steig Nordwest) - Tullnaupark (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.45061/11.10308/standard&amp;lonlats=11.108047,49.451553;11.102953,49.450704&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.451587" lon="11.108143"><ele>314</ele></trkpt>
-   <trkpt lat="49.45149" lon="11.107886"><ele>314</ele></trkpt>
+   <trkpt lat="49.451551" lon="11.108047"><ele>314</ele></trkpt>
+   <trkpt lat="49.45149" lon="11.107887"><ele>314</ele></trkpt>
    <trkpt lat="49.451421" lon="11.107706"><ele>314</ele></trkpt>
    <trkpt lat="49.451043" lon="11.106744"><ele>310.5</ele></trkpt>
    <trkpt lat="49.450838" lon="11.106199"><ele>310</ele></trkpt>
@@ -25,10 +25,12 @@
    <trkpt lat="49.450578" lon="11.104554"><ele>310.75</ele></trkpt>
    <trkpt lat="49.450586" lon="11.10433"><ele>310</ele></trkpt>
    <trkpt lat="49.450607" lon="11.104073"><ele>308.75</ele></trkpt>
+   <trkpt lat="49.45062" lon="11.103979"><ele>307.75</ele></trkpt>
    <trkpt lat="49.450644" lon="11.1038"><ele>306</ele></trkpt>
    <trkpt lat="49.450677" lon="11.103563"><ele>303.5</ele></trkpt>
+   <trkpt lat="49.45068" lon="11.103506"><ele>303</ele></trkpt>
    <trkpt lat="49.450704" lon="11.103131"><ele>300.5</ele></trkpt>
-   <trkpt lat="49.450704" lon="11.103128"><ele>300.25</ele></trkpt>
+   <trkpt lat="49.450708" lon="11.102953"><ele>299.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 230 filtered ascend = 0 plain-ascend = 0 cost=460 energy=0.0kwh time=18s -->
+<!-- track-length = 225 filtered ascend = 0 plain-ascend = 0 cost=450 energy=0.0kwh time=18s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Bahnhofstraße Einmündung Allersdorfer Straße Ost - Marientunnel</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.44744/11.08843/standard&amp;lonlats=11.085324,49.447251;11.088305,49.447518&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Dreieck Allersberger Unterführung Weiche Ost-Süd - Marientunnel (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.44742/11.08837/standard&amp;lonlats=11.085323,49.44725;11.088305,49.447522&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
    <trkpt lat="49.44725" lon="11.085323"><ele>310.75</ele></trkpt>
@@ -21,7 +21,7 @@
    <trkpt lat="49.447244" lon="11.087597"><ele>310</ele></trkpt>
    <trkpt lat="49.447266" lon="11.087675"><ele>310</ele></trkpt>
    <trkpt lat="49.447351" lon="11.087907"><ele>310</ele></trkpt>
-   <trkpt lat="49.447517" lon="11.088304"><ele>309.75</ele></trkpt>
+   <trkpt lat="49.447518" lon="11.088307"><ele>309.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

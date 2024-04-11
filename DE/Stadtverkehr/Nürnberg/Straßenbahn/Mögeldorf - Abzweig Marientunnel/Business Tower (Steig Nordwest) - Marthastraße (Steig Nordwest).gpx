@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 350 filtered ascend = 0 plain-ascend = 0 cost=700 energy=0.0kwh time=28s -->
+<!-- track-length = 339 filtered ascend = 0 plain-ascend = 0 cost=678 energy=0.0kwh time=27s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Business Tower - Marthastraße</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.45377/11.11402/standard&amp;lonlats=11.117804,49.455513;11.113752,49.45387&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Business Tower (Steig Nordwest) - Marthastraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.45372/11.11263/standard&amp;lonlats=11.117703,49.455475;11.113738,49.453871&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.455511" lon="11.117804"><ele>313</ele></trkpt>
+   <trkpt lat="49.455472" lon="11.117704"><ele>313</ele></trkpt>
    <trkpt lat="49.454833" lon="11.116111"><ele>312.5</ele></trkpt>
    <trkpt lat="49.454401" lon="11.115004"><ele>313.75</ele></trkpt>
    <trkpt lat="49.453976" lon="11.113995"><ele>312.25</ele></trkpt>
    <trkpt lat="49.453872" lon="11.113751"><ele>312</ele></trkpt>
-   <trkpt lat="49.453871" lon="11.113749"><ele>312</ele></trkpt>
+   <trkpt lat="49.453867" lon="11.11374"><ele>312</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

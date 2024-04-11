@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 564 filtered ascend = 2 plain-ascend = 1 cost=1128 energy=0.0kwh time=45s -->
+<!-- track-length = 547 filtered ascend = 1 plain-ascend = 0 cost=1094 energy=0.0kwh time=44s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Business Tower - Lechnerstraße</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.45769/11.12521/standard&amp;lonlats=11.117839,49.455499;11.124743,49.457642&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Business Tower (Steig Südost) - Lechnerstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.45740/11.12490/standard&amp;lonlats=11.118064,49.455588;11.124869,49.457686&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.455495" lon="11.117841"><ele>313</ele></trkpt>
-   <trkpt lat="49.4555" lon="11.117853"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.455587" lon="11.118063"><ele>313.25</ele></trkpt>
    <trkpt lat="49.455652" lon="11.118222"><ele>313.25</ele></trkpt>
    <trkpt lat="49.455706" lon="11.118371"><ele>313.25</ele></trkpt>
    <trkpt lat="49.455755" lon="11.118516"><ele>312.75</ele></trkpt>
@@ -27,11 +26,14 @@
    <trkpt lat="49.456586" lon="11.121022"><ele>314.25</ele></trkpt>
    <trkpt lat="49.45668" lon="11.121349"><ele>315</ele></trkpt>
    <trkpt lat="49.456896" lon="11.12206"><ele>314.75</ele></trkpt>
+   <trkpt lat="49.456906" lon="11.122091"><ele>314.5</ele></trkpt>
    <trkpt lat="49.45711" lon="11.122765"><ele>314.5</ele></trkpt>
+   <trkpt lat="49.457171" lon="11.122978"><ele>314.5</ele></trkpt>
    <trkpt lat="49.457286" lon="11.123379"><ele>314.5</ele></trkpt>
    <trkpt lat="49.457521" lon="11.124283"><ele>313.75</ele></trkpt>
    <trkpt lat="49.457574" lon="11.124486"><ele>313.5</ele></trkpt>
-   <trkpt lat="49.45764" lon="11.124742"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.457641" lon="11.124744"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.457678" lon="11.124873"><ele>313.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

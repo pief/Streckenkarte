@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 563 filtered ascend = 1 plain-ascend = 0 cost=1126 energy=0.0kwh time=45s -->
+<!-- track-length = 557 filtered ascend = 1 plain-ascend = 0 cost=1114 energy=0.0kwh time=45s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Lechnerstraße - Business Tower</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.45529/11.11732/standard&amp;lonlats=11.124714,49.457663;11.117804,49.455513&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Lechnerstraße (Steig Nordwest) - Business Tower (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.45539/11.11814/standard&amp;lonlats=11.124601,49.457631;11.117703,49.455475&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.457661" lon="11.124714"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.45763" lon="11.1246"><ele>313.25</ele></trkpt>
    <trkpt lat="49.457597" lon="11.124472"><ele>313.5</ele></trkpt>
    <trkpt lat="49.457544" lon="11.124269"><ele>313.75</ele></trkpt>
    <trkpt lat="49.457312" lon="11.123375"><ele>314.5</ele></trkpt>
@@ -30,7 +30,7 @@
    <trkpt lat="49.455728" lon="11.118357"><ele>313</ele></trkpt>
    <trkpt lat="49.455673" lon="11.118206"><ele>313.25</ele></trkpt>
    <trkpt lat="49.455514" lon="11.117809"><ele>313.25</ele></trkpt>
-   <trkpt lat="49.455511" lon="11.117804"><ele>313</ele></trkpt>
+   <trkpt lat="49.455472" lon="11.117704"><ele>312.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
