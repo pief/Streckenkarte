@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 288 filtered ascend = 5 plain-ascend = 4 cost=576 energy=0.0kwh time=23s -->
+<!-- track-length = 277 filtered ascend = 5 plain-ascend = 3 cost=554 energy=0.0kwh time=22s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Widhalmstraße - Allersberger Straße Einmündung Scheurlstraße Süd</name>
-  <link href="https://brouter.damsy.net/latest/#map=20/49.44294/11.08816/standard&amp;lonlats=11.085783,49.444574;11.088374,49.442913&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Widhalmstraße (Steig West) - Dreieck Allersberger Straße/Scheuristraße Weiche Südost-West</name>
+  <link href="https://bikerouter.de/#map=19/49.44288/11.08847/standard&amp;lonlats=11.085784,49.444562;11.088373,49.442911&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.444572" lon="11.085783"><ele>310</ele></trkpt>
-   <trkpt lat="49.444571" lon="11.085783"><ele>310</ele></trkpt>
+   <trkpt lat="49.444561" lon="11.085782"><ele>310</ele></trkpt>
    <trkpt lat="49.444439" lon="11.085775"><ele>310</ele></trkpt>
    <trkpt lat="49.444343" lon="11.085779"><ele>310</ele></trkpt>
    <trkpt lat="49.444269" lon="11.085796"><ele>310</ele></trkpt>
@@ -29,7 +28,7 @@
    <trkpt lat="49.443125" lon="11.088058"><ele>314.5</ele></trkpt>
    <trkpt lat="49.443042" lon="11.088189"><ele>314.25</ele></trkpt>
    <trkpt lat="49.442912" lon="11.088374"><ele>313.75</ele></trkpt>
-   <trkpt lat="49.442912" lon="11.088373"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.442911" lon="11.088374"><ele>313</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

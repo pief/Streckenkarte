@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=104 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Allersdorfer Straße Abzweig Bahnhofstraße Ost - Bahnhofstraße Einmündung Allersdorfer Straße Ost</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.44721/11.08509/standard&amp;lonlats=11.084984,49.446954;11.085324,49.447251&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Dreieck Allersberger Unterführung Weiche Süd-Ost - Dreieck Allersberger Unterführung Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=18/49.44670/11.08676/standard&amp;lonlats=11.084982,49.446951;11.085323,49.44725&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.446953" lon="11.084982"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.446951" lon="11.084984"><ele>311.25</ele></trkpt>
    <trkpt lat="49.446955" lon="11.084982"><ele>311.25</ele></trkpt>
    <trkpt lat="49.447064" lon="11.084962"><ele>311</ele></trkpt>
    <trkpt lat="49.447104" lon="11.084966"><ele>310.75</ele></trkpt>
-   <trkpt lat="49.447153" lon="11.084996"><ele>310.75</ele></trkpt>
+   <trkpt lat="49.447167" lon="11.085009"><ele>310.75</ele></trkpt>
    <trkpt lat="49.447204" lon="11.085051"><ele>310.75</ele></trkpt>
    <trkpt lat="49.447224" lon="11.085087"><ele>310.5</ele></trkpt>
    <trkpt lat="49.447229" lon="11.08511"><ele>310.5</ele></trkpt>
