@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 0 plain-ascend = 0 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Allersberger Unterführung Weiche West-Nord - Hauptbahnhof (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.44717/11.08262/standard&amp;lonlats=11.084391,49.447345;11.082689,49.447511&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.447345" lon="11.084391"><ele>311</ele></trkpt>
+   <trkpt lat="49.447363" lon="11.084157"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.447372" lon="11.08365"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.447382" lon="11.083507"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.4474" lon="11.083301"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.44743" lon="11.083076"><ele>311</ele></trkpt>
+   <trkpt lat="49.447475" lon="11.082853"><ele>311</ele></trkpt>
+   <trkpt lat="49.44748" lon="11.082824"><ele>311</ele></trkpt>
+   <trkpt lat="49.447506" lon="11.082686"><ele>311</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
