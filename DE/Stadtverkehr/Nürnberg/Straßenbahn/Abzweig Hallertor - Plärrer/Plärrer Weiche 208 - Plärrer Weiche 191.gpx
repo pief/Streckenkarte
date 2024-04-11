@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 69 filtered ascend = 0 plain-ascend = -1 cost=138 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Plärrer Weiche 208 - Plärrer Weiche 191</name>
+  <link href="https://bikerouter.de/#map=19/49.44845/11.06450/standard&amp;lonlats=11.064109,49.448745;11.06427,49.448245&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.448744" lon="11.064108"><ele>310</ele></trkpt>
+   <trkpt lat="49.448547" lon="11.063966"><ele>310</ele></trkpt>
+   <trkpt lat="49.448462" lon="11.063951"><ele>309.75</ele></trkpt>
+   <trkpt lat="49.448417" lon="11.063964"><ele>309.5</ele></trkpt>
+   <trkpt lat="49.448396" lon="11.063974"><ele>309.5</ele></trkpt>
+   <trkpt lat="49.448342" lon="11.064024"><ele>309</ele></trkpt>
+   <trkpt lat="49.448305" lon="11.064084"><ele>308.5</ele></trkpt>
+   <trkpt lat="49.448285" lon="11.064132"><ele>308.25</ele></trkpt>
+   <trkpt lat="49.448246" lon="11.06427"><ele>308.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

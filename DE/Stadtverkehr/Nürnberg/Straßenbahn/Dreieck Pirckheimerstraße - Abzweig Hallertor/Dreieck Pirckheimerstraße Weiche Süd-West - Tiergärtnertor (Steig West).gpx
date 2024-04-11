@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 291 filtered ascend = 3 plain-ascend = 2 cost=582 energy=0.0kwh time=23s -->
+<!-- track-length = 304 filtered ascend = 3 plain-ascend = 0 cost=608 energy=0.0kwh time=24s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Bucher Straße Einmündung Pirckheimerstraße Süd - Tiergärtnertor</name>
-  <link href="https://brouter.damsy.net/latest/#map=21/49.45802/11.07296/standard&amp;lonlats=11.072488,49.460575;11.07297,49.458068&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Dreieck Pirckheimerstraße Weiche Süd-West - Tiergärtnertor (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.45777/11.07298/standard&amp;lonlats=11.072489,49.460569;11.072864,49.457925&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.460574" lon="11.072487"><ele>324.25</ele></trkpt>
-   <trkpt lat="49.460574" lon="11.072488"><ele>324.5</ele></trkpt>
+   <trkpt lat="49.460569" lon="11.072489"><ele>324.5</ele></trkpt>
    <trkpt lat="49.460323" lon="11.072592"><ele>325</ele></trkpt>
-   <trkpt lat="49.459642" lon="11.072922"><ele>326.5</ele></trkpt>
+   <trkpt lat="49.459854" lon="11.072823"><ele>326</ele></trkpt>
+   <trkpt lat="49.459564" lon="11.072951"><ele>326.75</ele></trkpt>
    <trkpt lat="49.459419" lon="11.073006"><ele>327.25</ele></trkpt>
    <trkpt lat="49.459227" lon="11.073052"><ele>327.75</ele></trkpt>
    <trkpt lat="49.458958" lon="11.073078"><ele>327.75</ele></trkpt>
    <trkpt lat="49.458545" lon="11.07307"><ele>327.75</ele></trkpt>
    <trkpt lat="49.458457" lon="11.073069"><ele>327.5</ele></trkpt>
-   <trkpt lat="49.45842" lon="11.073067"><ele>327.5</ele></trkpt>
+   <trkpt lat="49.458389" lon="11.073065"><ele>327.5</ele></trkpt>
    <trkpt lat="49.458299" lon="11.073055"><ele>327.25</ele></trkpt>
    <trkpt lat="49.458215" lon="11.073034"><ele>327</ele></trkpt>
    <trkpt lat="49.458069" lon="11.072971"><ele>326.25</ele></trkpt>
-   <trkpt lat="49.458067" lon="11.072969"><ele>326</ele></trkpt>
+   <trkpt lat="49.457971" lon="11.072907"><ele>325.5</ele></trkpt>
+   <trkpt lat="49.457924" lon="11.072863"><ele>324.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

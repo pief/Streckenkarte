@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 1 plain-ascend = 1 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Plärrer Weiche 191 - Plärrer (Steig D)</name>
+  <link href="https://bikerouter.de/#map=19/49.44810/11.06495/standard&amp;lonlats=11.06427,49.448245;11.064928,49.448076&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.448246" lon="11.06427"><ele>308.25</ele></trkpt>
+   <trkpt lat="49.448245" lon="11.064275"><ele>308.25</ele></trkpt>
+   <trkpt lat="49.44821" lon="11.064421"><ele>308.25</ele></trkpt>
+   <trkpt lat="49.448081" lon="11.064925"><ele>308.75</ele></trkpt>
+   <trkpt lat="49.44808" lon="11.064929"><ele>309.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
