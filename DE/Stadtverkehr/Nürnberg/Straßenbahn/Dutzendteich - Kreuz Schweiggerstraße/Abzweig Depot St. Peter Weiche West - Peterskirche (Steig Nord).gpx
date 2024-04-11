@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 165 filtered ascend = 1 plain-ascend = 2 cost=330 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Depot St. Peter Weiche West - Peterskirche (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.44328/11.09892/standard&amp;lonlats=11.101084,49.443063;11.098815,49.443085&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.443062" lon="11.101083"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.443032" lon="11.100185"><ele>311.5</ele></trkpt>
+   <trkpt lat="49.443031" lon="11.100148"><ele>311.5</ele></trkpt>
+   <trkpt lat="49.443027" lon="11.099828"><ele>311.5</ele></trkpt>
+   <trkpt lat="49.443044" lon="11.099483"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.443053" lon="11.099334"><ele>311.25</ele></trkpt>
+   <trkpt lat="49.443076" lon="11.098927"><ele>311.5</ele></trkpt>
+   <trkpt lat="49.443081" lon="11.098814"><ele>312.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

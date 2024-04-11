@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 279 filtered ascend = 1 plain-ascend = 1 cost=558 energy=0.0kwh time=22s -->
+<!-- track-length = 272 filtered ascend = 1 plain-ascend = 1 cost=544 energy=0.0kwh time=22s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>Harsdörfferplatz - Schweiggerstraße (Ost)</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/49.44149/11.09092/standard&amp;lonlats=11.093712,49.442881;11.090487,49.441646&amp;profile=rail">
-   <text>BRouter-Web</text>
+  <name>Harsdörfferplatz (Steig Nordwest) - Schweiggerstraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/49.44183/11.09031/standard&amp;lonlats=11.093716,49.442883;11.090484,49.441648&amp;profile=rail">
+   <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.44288" lon="11.093711"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.442882" lon="11.093715"><ele>313.25</ele></trkpt>
    <trkpt lat="49.442814" lon="11.093549"><ele>313.25</ele></trkpt>
    <trkpt lat="49.442757" lon="11.093438"><ele>313.25</ele></trkpt>
    <trkpt lat="49.442667" lon="11.093295"><ele>313.5</ele></trkpt>
@@ -24,7 +24,7 @@
    <trkpt lat="49.441896" lon="11.091176"><ele>313.5</ele></trkpt>
    <trkpt lat="49.441753" lon="11.090806"><ele>313.75</ele></trkpt>
    <trkpt lat="49.441648" lon="11.090489"><ele>314.25</ele></trkpt>
-   <trkpt lat="49.441647" lon="11.090485"><ele>314.25</ele></trkpt>
+   <trkpt lat="49.441646" lon="11.090483"><ele>314.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

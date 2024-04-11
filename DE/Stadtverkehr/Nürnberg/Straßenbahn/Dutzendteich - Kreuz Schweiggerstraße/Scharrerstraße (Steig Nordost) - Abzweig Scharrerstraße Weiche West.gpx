@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 0 plain-ascend = 0 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Scharrerstraße (Steig Nordost) - Abzweig Scharrerstraße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/49.44283/11.10455/standard&amp;lonlats=11.104951,49.442737;11.104074,49.443008&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.442737" lon="11.10495"><ele>314</ele></trkpt>
+   <trkpt lat="49.442791" lon="11.104815"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.442806" lon="11.10478"><ele>313.75</ele></trkpt>
+   <trkpt lat="49.442881" lon="11.104587"><ele>313.5</ele></trkpt>
+   <trkpt lat="49.442946" lon="11.104376"><ele>313.25</ele></trkpt>
+   <trkpt lat="49.443004" lon="11.104116"><ele>313</ele></trkpt>
+   <trkpt lat="49.44301" lon="11.104081"><ele>313</ele></trkpt>
+   <trkpt lat="49.443011" lon="11.104075"><ele>312.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

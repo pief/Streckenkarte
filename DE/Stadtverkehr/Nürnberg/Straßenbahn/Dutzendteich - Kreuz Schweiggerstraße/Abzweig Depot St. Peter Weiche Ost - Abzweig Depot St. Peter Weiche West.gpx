@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 1 plain-ascend = 2 cost=94 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Depot St. Peter Weiche Ost - Abzweig Depot St. Peter Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/49.44319/11.10079/standard&amp;lonlats=11.101717,49.443085;11.101084,49.443063&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.443083" lon="11.101716"><ele>310</ele></trkpt>
+   <trkpt lat="49.443083" lon="11.101715"><ele>310</ele></trkpt>
+   <trkpt lat="49.443063" lon="11.10109"><ele>310.5</ele></trkpt>
+   <trkpt lat="49.443062" lon="11.101083"><ele>311.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

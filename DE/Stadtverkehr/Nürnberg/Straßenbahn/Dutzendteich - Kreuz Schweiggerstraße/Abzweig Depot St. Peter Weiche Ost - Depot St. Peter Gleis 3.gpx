@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=124 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Depot St. Peter Weiche Ost - Depot St. Peter Gleis 3</name>
+  <link href="https://bikerouter.de/#map=19/49.44332/11.10076/standard&amp;lonlats=11.101716,49.443083;11.101126,49.443439&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.443083" lon="11.101715"><ele>310</ele></trkpt>
+   <trkpt lat="49.443101" lon="11.101565"><ele>310</ele></trkpt>
+   <trkpt lat="49.443149" lon="11.101458"><ele>310</ele></trkpt>
+   <trkpt lat="49.443189" lon="11.101406"><ele>310</ele></trkpt>
+   <trkpt lat="49.443207" lon="11.101385"><ele>310</ele></trkpt>
+   <trkpt lat="49.443229" lon="11.101362"><ele>310</ele></trkpt>
+   <trkpt lat="49.443292" lon="11.101295"><ele>310</ele></trkpt>
+   <trkpt lat="49.443326" lon="11.101258"><ele>310</ele></trkpt>
+   <trkpt lat="49.443392" lon="11.101179"><ele>310</ele></trkpt>
+   <trkpt lat="49.443439" lon="11.101126"><ele>310</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
