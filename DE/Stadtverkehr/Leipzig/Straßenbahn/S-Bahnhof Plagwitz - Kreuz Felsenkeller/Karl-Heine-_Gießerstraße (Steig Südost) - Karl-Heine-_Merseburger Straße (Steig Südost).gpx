@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 453 filtered ascend = 2 plain-ascend = 3 cost=906 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Karl-Heine-/Gießerstraße (Steig Südost) - Karl-Heine-/Merseburger Straße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.33122/12.33421/standard&amp;lonlats=12.326845,51.329548;12.332835,51.331142&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.329548" lon="12.326843"><ele>116</ele></trkpt>
+   <trkpt lat="51.329549" lon="12.326847"><ele>116</ele></trkpt>
+   <trkpt lat="51.329631" lon="12.327161"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.329883" lon="12.328106"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.32999" lon="12.328507"><ele>117</ele></trkpt>
+   <trkpt lat="51.330261" lon="12.329523"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.330314" lon="12.329724"><ele>117</ele></trkpt>
+   <trkpt lat="51.330361" lon="12.329899"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.330443" lon="12.330209"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.330529" lon="12.330529"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.330828" lon="12.331651"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.331142" lon="12.332833"><ele>118.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
