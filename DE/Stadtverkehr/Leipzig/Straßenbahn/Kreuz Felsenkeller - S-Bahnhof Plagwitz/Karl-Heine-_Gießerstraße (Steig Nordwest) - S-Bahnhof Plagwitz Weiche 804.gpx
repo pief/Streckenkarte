@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 335 filtered ascend = 2 plain-ascend = 3 cost=672 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Karl-Heine-/Gießerstraße (Steig Nordwest) - S-Bahnhof Plagwitz Weiche 804</name>
+  <link href="https://bikerouter.de/#map=19/51.32842/12.32416/standard&amp;lonlats=12.327511,51.32975;12.323278,51.328435&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.32975" lon="12.32751"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.329653" lon="12.327146"><ele>116</ele></trkpt>
+   <trkpt lat="51.32889" lon="12.324295"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.328724" lon="12.323641"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.32871" lon="12.323588"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.32868" lon="12.323517"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.328663" lon="12.323488"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.328624" lon="12.323446"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.328587" lon="12.323405"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.328434" lon="12.323277"><ele>118.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

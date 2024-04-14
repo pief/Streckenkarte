@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 1 plain-ascend = 2 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kreuz Felsenkeller Weiche 748 - Kreuz Felsenkeller Weiche Nord-nach-West-West</name>
+  <link href="https://bikerouter.de/#map=19/51.33252/12.33876/standard&amp;lonlats=12.339039,51.332376;12.338416,51.332395&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.332373" lon="12.339038"><ele>117</ele></trkpt>
+   <trkpt lat="51.332374" lon="12.339035"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.332379" lon="12.338808"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.33238" lon="12.338789"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.33238" lon="12.33877"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.332383" lon="12.338651"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.332387" lon="12.338504"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.332389" lon="12.338425"><ele>118</ele></trkpt>
+   <trkpt lat="51.332389" lon="12.338415"><ele>118.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

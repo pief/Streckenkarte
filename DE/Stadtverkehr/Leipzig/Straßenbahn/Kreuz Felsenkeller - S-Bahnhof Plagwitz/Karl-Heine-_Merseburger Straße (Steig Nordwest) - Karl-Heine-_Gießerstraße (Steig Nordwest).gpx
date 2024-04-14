@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 459 filtered ascend = 0 plain-ascend = -1 cost=918 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Karl-Heine-/Merseburger Straße (Steig Nordwest) - Karl-Heine-/Gießerstraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.32970/12.32758/standard&amp;lonlats=12.333602,51.331372;12.32751,51.329755&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.331371" lon="12.333601"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.331296" lon="12.333317"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.330987" lon="12.332155"><ele>119</ele></trkpt>
+   <trkpt lat="51.330674" lon="12.330981"><ele>118</ele></trkpt>
+   <trkpt lat="51.330501" lon="12.330331"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.330465" lon="12.330195"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.330383" lon="12.329885"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.330336" lon="12.32971"><ele>117</ele></trkpt>
+   <trkpt lat="51.329973" lon="12.328347"><ele>117</ele></trkpt>
+   <trkpt lat="51.32975" lon="12.327511"><ele>116.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
