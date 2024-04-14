@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 5 plain-ascend = 6 cost=536 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Fritz-Seger-Straße (Steig Südwest) - Springerstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.35455/12.37199/standard&amp;lonlats=12.369028,51.356799;12.371212,51.354832&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.3568" lon="12.36903"><ele>111</ele></trkpt>
+   <trkpt lat="51.356534" lon="12.369274"><ele>111</ele></trkpt>
+   <trkpt lat="51.356241" lon="12.369549"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.355837" lon="12.369953"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.355237" lon="12.370705"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.354835" lon="12.371208"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.354831" lon="12.371212"><ele>116.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

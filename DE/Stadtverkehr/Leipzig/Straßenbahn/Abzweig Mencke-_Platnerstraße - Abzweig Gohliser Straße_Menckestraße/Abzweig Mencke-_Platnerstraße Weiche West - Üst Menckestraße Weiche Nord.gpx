@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Mencke-/Platnerstraße Weiche West - Üst Menckestraße Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.35895/12.36292/standard&amp;lonlats=12.362331,51.359337;12.362529,51.358914&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.359336" lon="12.362329"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.359336" lon="12.36233"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.359221" lon="12.362377"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.359135" lon="12.362417"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.359057" lon="12.362457"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.358964" lon="12.362502"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.358915" lon="12.362529"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.358914" lon="12.362529"><ele>112.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

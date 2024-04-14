@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 298 filtered ascend = 0 plain-ascend = -1 cost=596 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Springerstraße (Steig Südwest) - Nordplatz (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.35256/12.37353/standard&amp;lonlats=12.371212,51.354832;12.373374,51.352611&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.354831" lon="12.371212"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.3546" lon="12.371498"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.354509" lon="12.371614"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.354213" lon="12.371977"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.353643" lon="12.372692"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.353273" lon="12.373139"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.353182" lon="12.373234"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.353111" lon="12.373294"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.35306" lon="12.373319"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.352617" lon="12.373374"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.352611" lon="12.373374"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

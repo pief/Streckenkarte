@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Menckestraße (Steig West) - Abzweig Mencke-/Platnerstraße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.35903/12.36319/standard&amp;lonlats=12.362315,51.35937;12.362331,51.359337&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.359369" lon="12.362314"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.359336" lon="12.362329"><ele>112.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
