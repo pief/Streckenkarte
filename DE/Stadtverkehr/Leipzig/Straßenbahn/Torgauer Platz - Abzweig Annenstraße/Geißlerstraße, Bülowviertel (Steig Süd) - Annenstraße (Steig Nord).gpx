@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 276 filtered ascend = 2 plain-ascend = 0 cost=552 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Geißlerstraße, Bülowviertel (Steig Süd) - Annenstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.34372/12.42188/standard&amp;lonlats=12.418801,51.344845;12.421545,51.34394&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.34485" lon="12.418801"><ele>122</ele></trkpt>
+   <trkpt lat="51.344831" lon="12.419244"><ele>122.75</ele></trkpt>
+   <trkpt lat="51.344792" lon="12.420284"><ele>124.25</ele></trkpt>
+   <trkpt lat="51.344754" lon="12.421284"><ele>124</ele></trkpt>
+   <trkpt lat="51.344739" lon="12.4214"><ele>124</ele></trkpt>
+   <trkpt lat="51.344702" lon="12.421493"><ele>124</ele></trkpt>
+   <trkpt lat="51.344649" lon="12.421553"><ele>124</ele></trkpt>
+   <trkpt lat="51.344579" lon="12.421582"><ele>123.75</ele></trkpt>
+   <trkpt lat="51.344452" lon="12.421582"><ele>123.75</ele></trkpt>
+   <trkpt lat="51.343938" lon="12.421546"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

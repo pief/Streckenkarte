@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=84 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Hofmeisterstraße (Steig Nord) - Dreieck Hauptbahnhof/Georgiring Weiche 106</name>
+  <link href="https://bikerouter.de/#map=19/51.34365/12.38459/standard&amp;lonlats=12.385771,51.343534;12.385164,51.343548&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.343534" lon="12.385771"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.343556" lon="12.385385"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.343547" lon="12.385163"><ele>111.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

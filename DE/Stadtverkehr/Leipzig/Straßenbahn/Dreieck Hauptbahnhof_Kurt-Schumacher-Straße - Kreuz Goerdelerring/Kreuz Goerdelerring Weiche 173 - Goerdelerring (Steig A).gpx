@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 194 filtered ascend = 3 plain-ascend = 0 cost=388 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kreuz Goerdelerring Weiche 173 - Goerdelerring (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/51.34425/12.37191/standard&amp;lonlats=12.374827,51.344295;12.372048,51.34431&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.344293" lon="12.374826"><ele>111</ele></trkpt>
+   <trkpt lat="51.344298" lon="12.374556"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.344308" lon="12.373708"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.344308" lon="12.373639"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.344314" lon="12.372728"><ele>113</ele></trkpt>
+   <trkpt lat="51.344313" lon="12.372058"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.344312" lon="12.372046"><ele>110.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

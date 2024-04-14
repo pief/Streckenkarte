@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 511 filtered ascend = 0 plain-ascend = 1 cost=1022 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Sportforum Süd (Steig Nord) - Angerbrücke Straßenbahnhof Weiche 204</name>
+  <link href="https://bikerouter.de/#map=19/51.33823/12.34273/standard&amp;lonlats=12.349571,51.34017;12.342646,51.338664&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.34017" lon="12.349569"><ele>109</ele></trkpt>
+   <trkpt lat="51.340141" lon="12.34944"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.339902" lon="12.348377"><ele>105.25</ele></trkpt>
+   <trkpt lat="51.339355" lon="12.345837"><ele>107</ele></trkpt>
+   <trkpt lat="51.338716" lon="12.342863"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.33866" lon="12.342647"><ele>109.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

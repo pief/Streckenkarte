@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 0 plain-ascend = 0 cost=562 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Torgauer Platz Weiche Süd-nach-Ost-Ost - Geißlerstraße, Bülowviertel (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.34474/12.41889/standard&amp;lonlats=12.414787,51.345064;12.418801,51.344845&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.34506" lon="12.414786"><ele>123.25</ele></trkpt>
+   <trkpt lat="51.345057" lon="12.414878"><ele>123.5</ele></trkpt>
+   <trkpt lat="51.345002" lon="12.415889"><ele>122.75</ele></trkpt>
+   <trkpt lat="51.344937" lon="12.417098"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.344897" lon="12.417732"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.344877" lon="12.418232"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.344851" lon="12.418796"><ele>122</ele></trkpt>
+   <trkpt lat="51.34485" lon="12.418801"><ele>122.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

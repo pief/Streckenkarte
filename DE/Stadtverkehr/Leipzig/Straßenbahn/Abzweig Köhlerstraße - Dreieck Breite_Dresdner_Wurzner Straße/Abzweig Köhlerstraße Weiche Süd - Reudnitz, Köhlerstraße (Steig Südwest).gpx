@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=178 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Köhlerstraße Weiche Süd - Reudnitz, Köhlerstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.33839/12.40384/standard&amp;lonlats=12.402797,51.338818;12.403902,51.338438&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338817" lon="12.402796"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.338802" lon="12.402842"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.338665" lon="12.403246"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.338441" lon="12.403898"><ele>116</ele></trkpt>
+   <trkpt lat="51.338439" lon="12.403903"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

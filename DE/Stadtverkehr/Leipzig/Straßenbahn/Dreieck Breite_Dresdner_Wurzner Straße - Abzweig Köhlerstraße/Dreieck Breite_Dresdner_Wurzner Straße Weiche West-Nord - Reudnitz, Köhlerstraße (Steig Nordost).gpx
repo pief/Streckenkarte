@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 219 filtered ascend = 1 plain-ascend = 2 cost=438 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Breite/Dresdner/Wurzner Straße Weiche West-Nord - Reudnitz, Köhlerstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.33869/12.40319/standard&amp;lonlats=12.406292,51.338107;12.403361,51.338652&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338106" lon="12.406291"><ele>115</ele></trkpt>
+   <trkpt lat="51.338084" lon="12.405598"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.338102" lon="12.405345"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.338138" lon="12.405091"><ele>116</ele></trkpt>
+   <trkpt lat="51.338161" lon="12.40493"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.338197" lon="12.404753"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.338243" lon="12.404569"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.338466" lon="12.403907"><ele>116</ele></trkpt>
+   <trkpt lat="51.33865" lon="12.403363"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.33865" lon="12.40336"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

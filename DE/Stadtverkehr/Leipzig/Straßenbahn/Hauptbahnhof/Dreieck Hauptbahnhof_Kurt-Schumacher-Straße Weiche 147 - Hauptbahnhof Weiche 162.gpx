@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 147 filtered ascend = 0 plain-ascend = 0 cost=294 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Hauptbahnhof/Kurt-Schumacher-Straße Weiche 147 - Hauptbahnhof Weiche 162</name>
+  <link href="https://bikerouter.de/#map=19/51.34424/12.37666/standard&amp;lonlats=12.375063,51.344257;12.37715,51.344374&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.344253" lon="12.375062"><ele>110</ele></trkpt>
+   <trkpt lat="51.344253" lon="12.375068"><ele>110</ele></trkpt>
+   <trkpt lat="51.344251" lon="12.375512"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.344261" lon="12.375757"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.344323" lon="12.376561"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.344334" lon="12.376709"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.34434" lon="12.376777"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.344345" lon="12.37685"><ele>109</ele></trkpt>
+   <trkpt lat="51.344348" lon="12.376886"><ele>109</ele></trkpt>
+   <trkpt lat="51.344355" lon="12.376981"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.344358" lon="12.377014"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.34436" lon="12.377039"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.344367" lon="12.37715"><ele>109.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

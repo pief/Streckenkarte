@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 445 filtered ascend = 0 plain-ascend = -7 cost=890 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Torgauer Platz Weiche Ost-nach-Süd-Süd - Abzweig Torgauer/Wurzner Straße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.34161/12.41104/standard&amp;lonlats=12.414218,51.344995;12.410595,51.341737&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.344992" lon="12.41422"><ele>121</ele></trkpt>
+   <trkpt lat="51.344983" lon="12.414201"><ele>121</ele></trkpt>
+   <trkpt lat="51.344897" lon="12.414042"><ele>120.25</ele></trkpt>
+   <trkpt lat="51.344496" lon="12.413405"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.344269" lon="12.413156"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.343677" lon="12.412601"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.342876" lon="12.41185"><ele>114</ele></trkpt>
+   <trkpt lat="51.342613" lon="12.411613"><ele>114</ele></trkpt>
+   <trkpt lat="51.342229" lon="12.411207"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.34203" lon="12.410996"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.341739" lon="12.410601"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.341735" lon="12.410596"><ele>113.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

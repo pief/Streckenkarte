@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 131 filtered ascend = 1 plain-ascend = 1 cost=262 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Hauptbahnhof/Kurt-Schuhmacher-Straße Weiche Nord-nach-Steig-D-Steig D - Hauptbahnhof (Steig D)</name>
+  <link href="https://bikerouter.de/#map=19/51.34425/12.37983/standard&amp;lonlats=12.379328,51.344265;12.380891,51.343627&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.344265" lon="12.379328"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.344222" lon="12.379434"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.343932" lon="12.380141"><ele>112</ele></trkpt>
+   <trkpt lat="51.343918" lon="12.380174"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.343627" lon="12.380891"><ele>112.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

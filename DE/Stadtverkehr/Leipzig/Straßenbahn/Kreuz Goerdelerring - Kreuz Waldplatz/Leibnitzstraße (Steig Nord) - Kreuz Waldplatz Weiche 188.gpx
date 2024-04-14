@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 1 plain-ascend = -1 cost=728 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Leibnitzstraße (Steig Nord) - Kreuz Waldplatz Weiche 188</name>
+  <link href="https://bikerouter.de/#map=19/51.34209/12.36062/standard&amp;lonlats=12.365137,51.343242;12.360236,51.342207&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.343241" lon="12.365136"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.343213" lon="12.365004"><ele>112</ele></trkpt>
+   <trkpt lat="51.34316" lon="12.364736"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.343122" lon="12.364547"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.343122" lon="12.364544"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.342943" lon="12.363762"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.342831" lon="12.363268"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.34232" lon="12.361067"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.342208" lon="12.360258"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.342205" lon="12.360235"><ele>109.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

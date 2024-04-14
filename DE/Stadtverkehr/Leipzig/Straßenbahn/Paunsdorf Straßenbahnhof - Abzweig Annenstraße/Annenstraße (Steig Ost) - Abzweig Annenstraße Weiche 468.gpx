@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 0 cost=20 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Annenstraße (Steig Ost) - Abzweig Annenstraße Weiche 468</name>
+  <link href="https://bikerouter.de/#map=19/51.34379/12.42212/standard&amp;lonlats=12.422126,51.343731;12.421997,51.343729&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.343731" lon="12.422124"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.343726" lon="12.422"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.343726" lon="12.421996"><ele>120.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
