@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 1 plain-ascend = 1 cost=588 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kreuz Waldplatz Weiche Ost-nach-Nord-Nord - Abzweig Fregestraße Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.34526/12.35816/standard&amp;lonlats=12.358798,51.342749;12.357412,51.345228&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.342749" lon="12.358798"><ele>110</ele></trkpt>
+   <trkpt lat="51.343186" lon="12.358554"><ele>110</ele></trkpt>
+   <trkpt lat="51.344125" lon="12.358029"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.344836" lon="12.357631"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.345062" lon="12.357504"><ele>110</ele></trkpt>
+   <trkpt lat="51.345226" lon="12.357412"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.345227" lon="12.357411"><ele>111.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

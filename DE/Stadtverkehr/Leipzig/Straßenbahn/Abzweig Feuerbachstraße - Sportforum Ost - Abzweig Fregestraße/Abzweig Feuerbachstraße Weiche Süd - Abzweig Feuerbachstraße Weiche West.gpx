@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 1 plain-ascend = 1 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Feuerbachstraße Weiche Süd - Abzweig Feuerbachstraße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.34569/12.35675/standard&amp;lonlats=12.357066,51.345852;12.356602,51.345952&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.345851" lon="12.357064"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.345855" lon="12.357062"><ele>112</ele></trkpt>
+   <trkpt lat="51.345884" lon="12.357034"><ele>112</ele></trkpt>
+   <trkpt lat="51.345913" lon="12.356991"><ele>112</ele></trkpt>
+   <trkpt lat="51.34594" lon="12.356936"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.34596" lon="12.356868"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.34597" lon="12.356782"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.345966" lon="12.356707"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.345949" lon="12.35661"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.345947" lon="12.356603"><ele>112.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
