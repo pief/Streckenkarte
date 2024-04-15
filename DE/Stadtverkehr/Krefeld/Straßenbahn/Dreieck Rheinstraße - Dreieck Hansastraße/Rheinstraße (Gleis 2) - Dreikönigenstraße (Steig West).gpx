@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 1 plain-ascend = 0 cost=280 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Rheinstraße (Gleis 2) - Dreikönigenstraße (Steig West)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.33051/6.56723/standard&amp;lonlats=6.565853,51.332989;6.566954,51.330608&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.332988" lon="6.565851"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.332736" lon="6.565974"><ele>44</ele></trkpt>
+   <trkpt lat="51.33233" lon="6.566169"><ele>44.75</ele></trkpt>
+   <trkpt lat="51.332296" lon="6.566187"><ele>44.75</ele></trkpt>
+   <trkpt lat="51.332137" lon="6.566211"><ele>45</ele></trkpt>
+   <trkpt lat="51.33208" lon="6.566231"><ele>45</ele></trkpt>
+   <trkpt lat="51.331279" lon="6.566624"><ele>45</ele></trkpt>
+   <trkpt lat="51.330611" lon="6.566952"><ele>44</ele></trkpt>
+   <trkpt lat="51.330607" lon="6.566953"><ele>44</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = 1 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Rheinstraße Weiche 110 - Dreieck Rheinstraße Weiche 113</name>
+  <link href="https://bikerouter.de/#map=19/51.33355/6.56644/standard&amp;lonlats=6.566176,51.333782;6.565645,51.333412&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333782" lon="6.566176"><ele>43</ele></trkpt>
+   <trkpt lat="51.333751" lon="6.566023"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.333695" lon="6.565866"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333673" lon="6.565826"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333659" lon="6.565798"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333639" lon="6.565762"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333626" lon="6.565739"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333601" lon="6.565704"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333554" lon="6.565662"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333509" lon="6.565641"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.333459" lon="6.565639"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.333411" lon="6.565649"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.333412" lon="6.565648"><ele>43.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

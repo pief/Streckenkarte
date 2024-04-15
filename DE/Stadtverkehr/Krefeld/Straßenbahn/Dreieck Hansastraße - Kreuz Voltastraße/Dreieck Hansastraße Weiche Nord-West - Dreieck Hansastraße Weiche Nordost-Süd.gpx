@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 132 filtered ascend = 0 plain-ascend = 0 cost=132 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Dreieck Hansastraße Weiche Nord-West - Dreieck Hansastraße Weiche Nordost-Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.32659/6.56956/standard&amp;lonlats=6.568569,51.327378;6.569506,51.326582&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.327377" lon="6.568567"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.327376" lon="6.568569"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.327302" lon="6.568661"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.32723" lon="6.568723"><ele>43</ele></trkpt>
+   <trkpt lat="51.326723" lon="6.568969"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.32666" lon="6.569011"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.32661" lon="6.56909"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.326591" lon="6.569139"><ele>43</ele></trkpt>
+   <trkpt lat="51.326569" lon="6.569211"><ele>43</ele></trkpt>
+   <trkpt lat="51.326565" lon="6.569231"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.326559" lon="6.569259"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.326555" lon="6.569358"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.326579" lon="6.569506"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.326579" lon="6.569506"><ele>43.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 0 plain-ascend = -3 cost=301 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Krefeld Hbf (Gleis 2) - Kreuz Voltastraße Trennungsweiche Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.32838/6.57481/standard&amp;lonlats=6.570353,51.326862;6.574127,51.328049&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.326863" lon="6.57035"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.326864" lon="6.570352"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.326951" lon="6.57061"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.327009" lon="6.570779"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.327155" lon="6.571195"><ele>44.75</ele></trkpt>
+   <trkpt lat="51.32737" lon="6.571878"><ele>44.75</ele></trkpt>
+   <trkpt lat="51.327408" lon="6.572"><ele>44.5</ele></trkpt>
+   <trkpt lat="51.327696" lon="6.57296"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.32783" lon="6.573387"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.328028" lon="6.574071"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.328044" lon="6.574129"><ele>40.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

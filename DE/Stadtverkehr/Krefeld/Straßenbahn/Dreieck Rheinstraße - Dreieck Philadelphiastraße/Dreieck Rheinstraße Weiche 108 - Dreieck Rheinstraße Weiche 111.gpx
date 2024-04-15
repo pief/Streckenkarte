@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=79 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Dreieck Rheinstraße Weiche 108 - Dreieck Rheinstraße Weiche 111</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.33375/6.56589/standard&amp;lonlats=6.565836,51.333481;6.566064,51.333727&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.33348" lon="6.565836"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333479" lon="6.565837"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.333529" lon="6.565835"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.33358" lon="6.565845"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333609" lon="6.56586"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333648" lon="6.565898"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333676" lon="6.565942"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.333718" lon="6.566041"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.333727" lon="6.566062"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.333727" lon="6.566062"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

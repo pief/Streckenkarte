@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 333 filtered ascend = 1 plain-ascend = 2 cost=666 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>Viktoriastraße (Steig Süd) - Moltkestraße (Steig Süd)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.33754/6.58297/standard&amp;lonlats=6.576331,51.336071;6.580765,51.337098&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.336073" lon="6.576328"><ele>37</ele></trkpt>
+   <trkpt lat="51.336074" lon="6.576331"><ele>37</ele></trkpt>
+   <trkpt lat="51.33612" lon="6.576522"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.336525" lon="6.578286"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.336536" lon="6.578335"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.336863" lon="6.57975"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.337098" lon="6.580765"><ele>38.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
