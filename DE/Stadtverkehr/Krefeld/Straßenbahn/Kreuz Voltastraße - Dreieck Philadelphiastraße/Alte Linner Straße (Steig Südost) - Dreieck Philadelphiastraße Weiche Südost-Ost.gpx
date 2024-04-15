@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 416 filtered ascend = 0 plain-ascend = -1 cost=832 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Alte Linner Straße (Steig Südost) - Dreieck Philadelphiastraße Weiche Südost-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.33489/6.57200/standard&amp;lonlats=6.573119,51.331204;6.571348,51.334771&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.331204" lon="6.573119"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.331323" lon="6.57306"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.333483" lon="6.571987"><ele>41</ele></trkpt>
+   <trkpt lat="51.334771" lon="6.571351"><ele>40.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

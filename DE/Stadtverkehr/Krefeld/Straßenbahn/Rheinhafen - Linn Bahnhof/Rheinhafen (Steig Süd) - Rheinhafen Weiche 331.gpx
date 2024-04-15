@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 33 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Rheinhafen (Steig Süd) - Rheinhafen Weiche 331</name>
+  <link href="https://bikerouter.de/#map=19/51.34166/6.65913/standard&amp;lonlats=6.659034,51.341573;6.658643,51.341698&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.341566" lon="6.659034"><ele>33</ele></trkpt>
+   <trkpt lat="51.341566" lon="6.658966"><ele>33</ele></trkpt>
+   <trkpt lat="51.341577" lon="6.658894"><ele>33</ele></trkpt>
+   <trkpt lat="51.341598" lon="6.658825"><ele>33</ele></trkpt>
+   <trkpt lat="51.341629" lon="6.658766"><ele>33</ele></trkpt>
+   <trkpt lat="51.341669" lon="6.658709"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.341698" lon="6.658645"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.341698" lon="6.658643"><ele>32.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

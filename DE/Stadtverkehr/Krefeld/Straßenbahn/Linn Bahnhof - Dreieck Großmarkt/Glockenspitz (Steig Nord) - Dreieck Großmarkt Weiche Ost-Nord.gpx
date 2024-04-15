@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 362 filtered ascend = 1 plain-ascend = -1 cost=724 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Glockenspitz (Steig Nord) - Dreieck Großmarkt Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.33387/6.59013/standard&amp;lonlats=6.594249,51.334121;6.589125,51.333999&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.334121" lon="6.594249"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.334167" lon="6.593943"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.334246" lon="6.593386"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.334252" lon="6.593288"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.334242" lon="6.593202"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.334134" lon="6.592662"><ele>37</ele></trkpt>
+   <trkpt lat="51.334095" lon="6.592422"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.33407" lon="6.592151"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.334041" lon="6.59176"><ele>36</ele></trkpt>
+   <trkpt lat="51.33404" lon="6.589745"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.33403" lon="6.589494"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.333998" lon="6.589126"><ele>35</ele></trkpt>
+   <trkpt lat="51.333998" lon="6.589124"><ele>35</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

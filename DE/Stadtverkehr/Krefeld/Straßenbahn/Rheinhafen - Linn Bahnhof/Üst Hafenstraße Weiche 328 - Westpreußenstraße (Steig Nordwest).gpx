@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 285 filtered ascend = 0 plain-ascend = -1 cost=572 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Üst Hafenstraße Weiche 328 - Westpreußenstraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.34009/6.65621/standard&amp;lonlats=6.657949,51.341502;6.654805,51.339885&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.341502" lon="6.657948"><ele>33.25</ele></trkpt>
+   <trkpt lat="51.340711" lon="6.656407"><ele>32.25</ele></trkpt>
+   <trkpt lat="51.340346" lon="6.655703"><ele>31.25</ele></trkpt>
+   <trkpt lat="51.340008" lon="6.655038"><ele>31</ele></trkpt>
+   <trkpt lat="51.339885" lon="6.654809"><ele>31</ele></trkpt>
+   <trkpt lat="51.339883" lon="6.654805"><ele>31.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

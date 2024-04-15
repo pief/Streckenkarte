@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 0 plain-ascend = 0 cost=150 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Rheinhafen Weiche 329 - Rheinhafen Weiche 330</name>
+  <link href="https://bikerouter.de/#map=19/51.34166/6.65913/standard&amp;lonlats=6.658307,51.341683;6.65919,51.341913&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.341683" lon="6.658307"><ele>33</ele></trkpt>
+   <trkpt lat="51.341685" lon="6.658311"><ele>33</ele></trkpt>
+   <trkpt lat="51.341837" lon="6.658599"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.341936" lon="6.65881"><ele>32.5</ele></trkpt>
+   <trkpt lat="51.341967" lon="6.658954"><ele>32.5</ele></trkpt>
+   <trkpt lat="51.341962" lon="6.659049"><ele>32.5</ele></trkpt>
+   <trkpt lat="51.34194" lon="6.659136"><ele>32.5</ele></trkpt>
+   <trkpt lat="51.341913" lon="6.65919"><ele>32.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 423 filtered ascend = 3 plain-ascend = 3 cost=846 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Westpreußenstraße (Steig Nordwest) - Am Steinacker (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.33842/6.65289/standard&amp;lonlats=6.654805,51.339885;6.650435,51.337512&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.339883" lon="6.654805"><ele>31</ele></trkpt>
+   <trkpt lat="51.339715" lon="6.654519"><ele>31.5</ele></trkpt>
+   <trkpt lat="51.339475" lon="6.654154"><ele>32</ele></trkpt>
+   <trkpt lat="51.339232" lon="6.653845"><ele>32</ele></trkpt>
+   <trkpt lat="51.339051" lon="6.653629"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.338854" lon="6.653422"><ele>31.75</ele></trkpt>
+   <trkpt lat="51.338401" lon="6.653004"><ele>32.75</ele></trkpt>
+   <trkpt lat="51.338073" lon="6.652689"><ele>33.5</ele></trkpt>
+   <trkpt lat="51.337941" lon="6.652505"><ele>33.75</ele></trkpt>
+   <trkpt lat="51.33788" lon="6.652381"><ele>34</ele></trkpt>
+   <trkpt lat="51.337836" lon="6.652275"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.337797" lon="6.652141"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.337769" lon="6.652036"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.337745" lon="6.651902"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.337696" lon="6.651469"><ele>34.75</ele></trkpt>
+   <trkpt lat="51.337629" lon="6.651045"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.337496" lon="6.650443"><ele>34</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

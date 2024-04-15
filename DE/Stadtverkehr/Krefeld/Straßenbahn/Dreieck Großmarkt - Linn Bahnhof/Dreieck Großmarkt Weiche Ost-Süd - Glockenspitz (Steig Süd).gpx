@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 357 filtered ascend = 2 plain-ascend = 2 cost=714 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Großmarkt Weiche Ost-Süd - Glockenspitz (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.33432/6.59432/standard&amp;lonlats=6.589163,51.33396;6.59424,51.334101&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333964" lon="6.58916"><ele>35</ele></trkpt>
+   <trkpt lat="51.334005" lon="6.589503"><ele>35</ele></trkpt>
+   <trkpt lat="51.33402" lon="6.589859"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.334016" lon="6.591321"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.334021" lon="6.591744"><ele>36</ele></trkpt>
+   <trkpt lat="51.334047" lon="6.592164"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.334073" lon="6.592439"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.334111" lon="6.592688"><ele>37</ele></trkpt>
+   <trkpt lat="51.334153" lon="6.592911"><ele>37.25</ele></trkpt>
+   <trkpt lat="51.334217" lon="6.593201"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.334224" lon="6.593315"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.334207" lon="6.593497"><ele>37.75</ele></trkpt>
+   <trkpt lat="51.334103" lon="6.59424"><ele>36.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

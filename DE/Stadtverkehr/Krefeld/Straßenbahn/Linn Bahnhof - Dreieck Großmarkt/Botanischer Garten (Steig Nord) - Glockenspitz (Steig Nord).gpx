@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 326 filtered ascend = 2 plain-ascend = 2 cost=652 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Botanischer Garten (Steig Nord) - Glockenspitz (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.33434/6.59477/standard&amp;lonlats=6.598776,51.333429;6.594251,51.334124&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333428" lon="6.598775"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.333429" lon="6.598773"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.33365" lon="6.597438"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.333748" lon="6.59679"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.333829" lon="6.596251"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.33412" lon="6.594257"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.334121" lon="6.594249"><ele>37.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

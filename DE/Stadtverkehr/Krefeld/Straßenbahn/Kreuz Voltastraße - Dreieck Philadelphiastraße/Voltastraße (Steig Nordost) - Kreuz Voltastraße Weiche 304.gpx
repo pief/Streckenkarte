@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 0 plain-ascend = 1 cost=152 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Voltastraße (Steig Nordost) - Kreuz Voltastraße Weiche 304</name>
+  <link href="https://bikerouter.de/#map=19/51.32906/6.57551/standard&amp;lonlats=6.57528,51.328904;6.574338,51.328889&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.328903" lon="6.575279"><ele>39</ele></trkpt>
+   <trkpt lat="51.328812" lon="6.575094"><ele>39</ele></trkpt>
+   <trkpt lat="51.328784" lon="6.575031"><ele>39</ele></trkpt>
+   <trkpt lat="51.328748" lon="6.574889"><ele>39</ele></trkpt>
+   <trkpt lat="51.328735" lon="6.574736"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.32876" lon="6.57458"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.328802" lon="6.574472"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.32885" lon="6.574397"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.328884" lon="6.574345"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.328889" lon="6.574342"><ele>39.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

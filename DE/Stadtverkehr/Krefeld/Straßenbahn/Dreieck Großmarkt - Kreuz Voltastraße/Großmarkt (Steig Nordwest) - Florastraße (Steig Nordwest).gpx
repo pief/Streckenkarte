@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 391 filtered ascend = 1 plain-ascend = 1 cost=782 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Großmarkt (Steig Nordwest) - Florastraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.33264/6.58425/standard&amp;lonlats=6.587878,51.333769;6.582718,51.332391&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.33377" lon="6.587875"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.33376" lon="6.587834"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.333645" lon="6.587269"><ele>36</ele></trkpt>
+   <trkpt lat="51.33348" lon="6.586645"><ele>36.75</ele></trkpt>
+   <trkpt lat="51.333448" lon="6.586532"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.333368" lon="6.586251"><ele>36.25</ele></trkpt>
+   <trkpt lat="51.333275" lon="6.585873"><ele>35.75</ele></trkpt>
+   <trkpt lat="51.333028" lon="6.584857"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.33287" lon="6.584229"><ele>35.25</ele></trkpt>
+   <trkpt lat="51.332796" lon="6.583955"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.332756" lon="6.58382"><ele>35.5</ele></trkpt>
+   <trkpt lat="51.332391" lon="6.582725"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.332389" lon="6.582718"><ele>36.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
