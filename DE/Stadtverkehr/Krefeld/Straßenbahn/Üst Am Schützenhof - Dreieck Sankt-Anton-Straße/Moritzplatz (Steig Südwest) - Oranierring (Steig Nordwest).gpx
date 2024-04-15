@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 542 filtered ascend = 0 plain-ascend = 0 cost=1084 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Moritzplatz (Steig Südwest) - Oranierring (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.34181/6.55609/standard&amp;lonlats=6.549193,51.344613;6.555555,51.341802&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.344614" lon="6.549194"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.34441" lon="6.54966"><ele>41</ele></trkpt>
+   <trkpt lat="51.3435" lon="6.551735"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.342724" lon="6.553477"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.342185" lon="6.554699"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.342055" lon="6.554997"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.341804" lon="6.555557"><ele>40.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 462 filtered ascend = 0 plain-ascend = 1 cost=924 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Inrath Siedlung (Steig Nordost) - Kützhofweg (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.35999/6.52534/standard&amp;lonlats=6.529197,51.357075;6.52457,51.360048&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.357076" lon="6.5292"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.357078" lon="6.529198"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.357937" lon="6.527829"><ele>39.5</ele></trkpt>
+   <trkpt lat="51.358276" lon="6.527331"><ele>40</ele></trkpt>
+   <trkpt lat="51.359101" lon="6.526049"><ele>38</ele></trkpt>
+   <trkpt lat="51.359297" lon="6.525723"><ele>38</ele></trkpt>
+   <trkpt lat="51.359619" lon="6.525216"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.359939" lon="6.52474"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.36005" lon="6.524574"><ele>40</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

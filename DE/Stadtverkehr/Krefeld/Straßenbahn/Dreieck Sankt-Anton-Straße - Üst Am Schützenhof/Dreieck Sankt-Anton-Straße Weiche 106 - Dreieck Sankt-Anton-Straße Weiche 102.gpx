@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=84 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Sankt-Anton-Straße Weiche 106 - Dreieck Sankt-Anton-Straße Weiche 102</name>
+  <link href="https://bikerouter.de/#map=19/51.33490/6.56668/standard&amp;lonlats=6.565391,51.334407;6.565125,51.334734&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.334407" lon="6.565392"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.334411" lon="6.56539"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.33451" lon="6.565312"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.33465" lon="6.565177"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.33473" lon="6.565127"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.334733" lon="6.565125"><ele>42</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

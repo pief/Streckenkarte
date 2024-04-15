@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 637 filtered ascend = 1 plain-ascend = 1 cost=1274 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Oranierring (Steig Südost) - Moritzplatz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.34458/6.55023/standard&amp;lonlats=6.556346,51.341487;6.548852,51.344787&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.341487" lon="6.556346"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.341602" lon="6.556084"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.341673" lon="6.555919"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.342701" lon="6.553587"><ele>41</ele></trkpt>
+   <trkpt lat="51.343514" lon="6.551757"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.343998" lon="6.550666"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.344009" lon="6.55064"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.344208" lon="6.550173"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.344718" lon="6.549019"><ele>41</ele></trkpt>
+   <trkpt lat="51.34479" lon="6.548855"><ele>41</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 1 plain-ascend = 1 cost=50 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Friedrichsplatz (Steig Nord) - Friedrichsplatz Weiche Nord-West</name>
+  <link href="https://bikerouter.de/#map=19/51.33704/6.56104/standard&amp;lonlats=6.560144,51.337202;6.560104,51.337008&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.3372" lon="6.560137"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.337198" lon="6.560139"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.337138" lon="6.56017"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.337061" lon="6.560171"><ele>43</ele></trkpt>
+   <trkpt lat="51.337011" lon="6.560111"><ele>43</ele></trkpt>
+   <trkpt lat="51.337006" lon="6.560105"><ele>43.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

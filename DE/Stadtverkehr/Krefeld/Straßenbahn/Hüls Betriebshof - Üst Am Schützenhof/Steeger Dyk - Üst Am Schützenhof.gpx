@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 264 filtered ascend = 0 plain-ascend = -1 cost=528 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Steeger Dyk - Üst Am Schützenhof</name>
+  <link href="https://bikerouter.de/#map=19/51.36697/6.51702/standard&amp;lonlats=6.515402,51.367132;6.517459,51.365144&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.367133" lon="6.515405"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.367133" lon="6.515406"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.366849" lon="6.515686"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.366502" lon="6.516035"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.365895" lon="6.516637"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.365453" lon="6.517103"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.365322" lon="6.517225"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.365228" lon="6.517343"><ele>38.25</ele></trkpt>
+   <trkpt lat="51.365146" lon="6.517462"><ele>38</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
