@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 303 filtered ascend = 0 plain-ascend = -3 cost=303 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Niederndodeleben Weiche 3 - Niederndodeleben (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/52.12989/11.50211/standard&amp;lonlats=11.498061,52.130271;11.502444,52.129938&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.130268" lon="11.49806"><ele>92</ele></trkpt>
+   <trkpt lat="52.130268" lon="11.498063"><ele>92</ele></trkpt>
+   <trkpt lat="52.13024" lon="11.498609"><ele>91.5</ele></trkpt>
+   <trkpt lat="52.130177" lon="11.499323"><ele>91</ele></trkpt>
+   <trkpt lat="52.130139" lon="11.49984"><ele>90.5</ele></trkpt>
+   <trkpt lat="52.13013" lon="11.499955"><ele>90.5</ele></trkpt>
+   <trkpt lat="52.130022" lon="11.501394"><ele>88.5</ele></trkpt>
+   <trkpt lat="52.129978" lon="11.501951"><ele>88</ele></trkpt>
+   <trkpt lat="52.129956" lon="11.502239"><ele>88</ele></trkpt>
+   <trkpt lat="52.12994" lon="11.502444"><ele>88.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

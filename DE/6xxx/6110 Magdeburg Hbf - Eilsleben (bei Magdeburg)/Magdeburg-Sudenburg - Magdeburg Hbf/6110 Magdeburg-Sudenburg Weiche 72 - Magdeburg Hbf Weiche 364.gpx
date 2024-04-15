@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 318 filtered ascend = 0 plain-ascend = -2 cost=318 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Magdeburg-Sudenburg Weiche 72 - Magdeburg Hbf Weiche 364</name>
+  <link href="https://bikerouter.de/#map=19/52.12062/11.62104/standard&amp;lonlats=11.615705,52.119102;11.619895,52.120287&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.119102" lon="11.615703"><ele>55</ele></trkpt>
+   <trkpt lat="52.119103" lon="11.615711"><ele>55</ele></trkpt>
+   <trkpt lat="52.119156" lon="11.616173"><ele>55</ele></trkpt>
+   <trkpt lat="52.119224" lon="11.616576"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.119294" lon="11.616927"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.119388" lon="11.617349"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.11949" lon="11.617744"><ele>53</ele></trkpt>
+   <trkpt lat="52.119494" lon="11.617758"><ele>53</ele></trkpt>
+   <trkpt lat="52.119584" lon="11.618076"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.119726" lon="11.618517"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.119804" lon="11.618737"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.119898" lon="11.618998"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.120016" lon="11.619296"><ele>52</ele></trkpt>
+   <trkpt lat="52.120131" lon="11.619565"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.120285" lon="11.619896"><ele>52.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

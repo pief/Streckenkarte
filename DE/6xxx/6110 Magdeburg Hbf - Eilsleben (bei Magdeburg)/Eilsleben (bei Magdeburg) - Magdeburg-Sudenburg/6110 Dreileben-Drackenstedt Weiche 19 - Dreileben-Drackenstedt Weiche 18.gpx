@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 172 filtered ascend = 1 plain-ascend = 1 cost=172 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Dreileben-Drackenstedt Weiche 19 - Dreileben-Drackenstedt Weiche 18</name>
+  <link href="https://bikerouter.de/#map=18/52.14344/11.34081/standard&amp;lonlats=11.337816,52.143788;11.340321,52.143828&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.143788" lon="11.337814"><ele>139.5</ele></trkpt>
+   <trkpt lat="52.143789" lon="11.337821"><ele>139.75</ele></trkpt>
+   <trkpt lat="52.143815" lon="11.339563"><ele>140.75</ele></trkpt>
+   <trkpt lat="52.143819" lon="11.339839"><ele>141</ele></trkpt>
+   <trkpt lat="52.143824" lon="11.340136"><ele>141</ele></trkpt>
+   <trkpt lat="52.143826" lon="11.34032"><ele>140.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

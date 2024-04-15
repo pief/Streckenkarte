@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1602 filtered ascend = 9 plain-ascend = 7 cost=1602 energy=0.0kwh time=2m 8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Ovelgünne (Gleis 1) - Eilsleben (bei Magdeburg) Weiche 1</name>
+  <link href="https://bikerouter.de/#map=17/52.14731/11.24635/standard&amp;lonlats=11.268707,52.141929;11.246575,52.146578&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.141929" lon="11.268707"><ele>147.75</ele></trkpt>
+   <trkpt lat="52.142366" lon="11.266633"><ele>149.25</ele></trkpt>
+   <trkpt lat="52.142436" lon="11.266296"><ele>149.5</ele></trkpt>
+   <trkpt lat="52.1429" lon="11.264091"><ele>150</ele></trkpt>
+   <trkpt lat="52.143475" lon="11.261353"><ele>151</ele></trkpt>
+   <trkpt lat="52.144076" lon="11.258491"><ele>152.75</ele></trkpt>
+   <trkpt lat="52.144377" lon="11.257057"><ele>153.25</ele></trkpt>
+   <trkpt lat="52.144668" lon="11.255678"><ele>154.75</ele></trkpt>
+   <trkpt lat="52.145273" lon="11.252795"><ele>156.75</ele></trkpt>
+   <trkpt lat="52.14534" lon="11.252474"><ele>157.25</ele></trkpt>
+   <trkpt lat="52.145887" lon="11.249871"><ele>156.75</ele></trkpt>
+   <trkpt lat="52.146188" lon="11.24844"><ele>155.5</ele></trkpt>
+   <trkpt lat="52.146469" lon="11.247098"><ele>155</ele></trkpt>
+   <trkpt lat="52.146578" lon="11.246575"><ele>155</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 286 filtered ascend = 2 plain-ascend = 3 cost=286 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Eilsleben (bei Magdeburg) Weiche 3 - Eilsleben (bei Magdeburg) Weiche 2</name>
+  <link href="https://bikerouter.de/#map=17/52.14737/11.24866/standard&amp;lonlats=11.240673,52.147832;11.244601,52.146952&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.147832" lon="11.240673"><ele>151.25</ele></trkpt>
+   <trkpt lat="52.147572" lon="11.241717"><ele>152</ele></trkpt>
+   <trkpt lat="52.147432" lon="11.24232"><ele>152</ele></trkpt>
+   <trkpt lat="52.147287" lon="11.242996"><ele>152.75</ele></trkpt>
+   <trkpt lat="52.147284" lon="11.243009"><ele>152.75</ele></trkpt>
+   <trkpt lat="52.14719" lon="11.243453"><ele>153</ele></trkpt>
+   <trkpt lat="52.146989" lon="11.244426"><ele>153.5</ele></trkpt>
+   <trkpt lat="52.146952" lon="11.244601"><ele>153.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

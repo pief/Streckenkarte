@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 195 filtered ascend = 1 plain-ascend = 1 cost=195 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Magdeburg-Sudenburg (Gleis 1) - Magdeburg-Sudenburg Weiche 19</name>
+  <link href="https://bikerouter.de/#map=19/52.12074/11.59555/standard&amp;lonlats=11.59667,52.120524;11.593846,52.120735&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.120522" lon="11.596669"><ele>56</ele></trkpt>
+   <trkpt lat="52.120531" lon="11.596564"><ele>56</ele></trkpt>
+   <trkpt lat="52.120536" lon="11.596506"><ele>56</ele></trkpt>
+   <trkpt lat="52.120544" lon="11.596401"><ele>56</ele></trkpt>
+   <trkpt lat="52.120562" lon="11.596211"><ele>56</ele></trkpt>
+   <trkpt lat="52.120567" lon="11.596143"><ele>56</ele></trkpt>
+   <trkpt lat="52.120572" lon="11.596079"><ele>56</ele></trkpt>
+   <trkpt lat="52.120589" lon="11.595883"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.120633" lon="11.595308"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.120733" lon="11.593849"><ele>57</ele></trkpt>
+   <trkpt lat="52.120733" lon="11.593845"><ele>57.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

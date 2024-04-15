@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 0 cost=64 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Eilsleben (bei Magdeburg) Weiche 28 - Eilsleben (bei Magdeburg) Weiche 25</name>
+  <link href="https://bikerouter.de/#map=19/52.15144/11.22418/standard&amp;lonlats=11.221971,52.150848;11.222883,52.150889&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.150846" lon="11.22197"><ele>144</ele></trkpt>
+   <trkpt lat="52.150889" lon="11.222886"><ele>144</ele></trkpt>
+   <trkpt lat="52.150888" lon="11.222882"><ele>144</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

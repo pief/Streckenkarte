@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 531 filtered ascend = 3 plain-ascend = 1 cost=531 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Wellen (bei Magdeburg) Weiche 2 - Wellen (bei Magdeburg) (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/52.13591/11.43339/standard&amp;lonlats=11.425966,52.137447;11.433275,52.135872&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.137447" lon="11.425966"><ele>113.75</ele></trkpt>
+   <trkpt lat="52.137447" lon="11.425971"><ele>113.75</ele></trkpt>
+   <trkpt lat="52.136446" lon="11.430627"><ele>116.5</ele></trkpt>
+   <trkpt lat="52.136135" lon="11.432057"><ele>116.75</ele></trkpt>
+   <trkpt lat="52.135871" lon="11.433274"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
