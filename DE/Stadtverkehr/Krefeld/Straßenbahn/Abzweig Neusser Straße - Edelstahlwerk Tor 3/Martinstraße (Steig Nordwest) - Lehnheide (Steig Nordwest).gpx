@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 532 filtered ascend = 1 plain-ascend = 0 cost=1064 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Martinstraße (Steig Nordwest) - Lehnheide (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.31630/6.56116/standard&amp;lonlats=6.562454,51.32086;6.559525,51.316443&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.320858" lon="6.562456"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.320616" lon="6.562295"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.320542" lon="6.562246"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.32045" lon="6.562199"><ele>42.5</ele></trkpt>
+   <trkpt lat="51.3204" lon="6.562178"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.320346" lon="6.562142"><ele>42.25</ele></trkpt>
+   <trkpt lat="51.318811" lon="6.56111"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.318701" lon="6.561007"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.318318" lon="6.560759"><ele>43</ele></trkpt>
+   <trkpt lat="51.317841" lon="6.560443"><ele>43.5</ele></trkpt>
+   <trkpt lat="51.317684" lon="6.560339"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.317589" lon="6.560295"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.31644" lon="6.559531"><ele>42.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

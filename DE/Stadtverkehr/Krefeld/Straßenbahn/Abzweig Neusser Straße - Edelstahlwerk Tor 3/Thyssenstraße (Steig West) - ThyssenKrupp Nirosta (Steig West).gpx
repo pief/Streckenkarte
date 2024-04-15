@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 0 plain-ascend = -2 cost=864 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Thyssenstraße (Steig West) - ThyssenKrupp Nirosta (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.30352/6.55567/standard&amp;lonlats=6.554431,51.307411;6.554391,51.303531&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.307411" lon="6.554434"><ele>43</ele></trkpt>
+   <trkpt lat="51.307236" lon="6.554435"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.305163" lon="6.554442"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.304919" lon="6.554436"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.30443" lon="6.554398"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.303534" lon="6.554402"><ele>41.25</ele></trkpt>
+   <trkpt lat="51.303531" lon="6.554402"><ele>40.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
