@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6404 Magdeburg-Buckau Weiche 78 - Magdeburg-Buckau Weiche 77</name>
+  <link href="https://bikerouter.de/#map=19/52.11258/11.62797/standard&amp;lonlats=11.627135,52.112188;11.626912,52.112434&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.112189" lon="11.627139"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.112434" lon="11.626916"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.112435" lon="11.626914"><ele>52.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

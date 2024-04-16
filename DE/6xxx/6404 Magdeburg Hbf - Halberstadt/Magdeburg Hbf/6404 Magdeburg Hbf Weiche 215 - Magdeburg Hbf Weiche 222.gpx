@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 0 plain-ascend = 0 cost=164 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6404 Magdeburg Hbf Weiche 215 - Magdeburg Hbf Weiche 222</name>
+  <link href="https://bikerouter.de/#map=19/52.12621/11.62749/standard&amp;lonlats=11.626266,52.127574;11.626032,52.126769;11.625831,52.126136&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.127573" lon="11.626264"><ele>51.25</ele></trkpt>
+   <trkpt lat="52.127576" lon="11.626265"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.126768" lon="11.626023"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.126138" lon="11.625834"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.126134" lon="11.625832"><ele>51.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

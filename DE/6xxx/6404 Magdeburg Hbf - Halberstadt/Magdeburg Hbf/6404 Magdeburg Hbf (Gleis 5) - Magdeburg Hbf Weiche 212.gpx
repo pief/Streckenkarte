@@ -5,15 +5,19 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 0.18.1">
+ creator="bikerouter.de 2024.12">
  <trk>
   <name>6404 Magdeburg Hbf (Gleis 5) - Magdeburg Hbf Weiche 212</name>
+  <link href="https://bikerouter.de/#map=19/52.12804/11.62790/standard&amp;lonlats=11.627119,52.130482;11.626381,52.127972&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
   <trkseg>
-   <trkpt lat="52.130467" lon="11.627117"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.13048" lon="11.627121"><ele>53.25</ele></trkpt>
    <trkpt lat="52.129101" lon="11.626714"><ele>53</ele></trkpt>
    <trkpt lat="52.128834" lon="11.626633"><ele>52.75</ele></trkpt>
-   <trkpt lat="52.127968" lon="11.626373"><ele>52.25</ele></trkpt>
-   <trkpt lat="52.127965" lon="11.626372"><ele>52</ele></trkpt>
+   <trkpt lat="52.128533" lon="11.626544"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.127969" lon="11.62638"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.127971" lon="11.62638"><ele>52.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

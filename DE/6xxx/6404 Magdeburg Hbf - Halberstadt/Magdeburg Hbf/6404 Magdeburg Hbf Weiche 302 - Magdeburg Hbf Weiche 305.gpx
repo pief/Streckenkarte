@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6404 Magdeburg Hbf Weiche 302 - Magdeburg Hbf Weiche 305</name>
+  <link href="https://bikerouter.de/#map=19/52.12790/11.62686/standard&amp;lonlats=11.625754,52.128526;11.625531,52.127768&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.128524" lon="11.625754"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.128519" lon="11.625753"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.127767" lon="11.62553"><ele>51.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
