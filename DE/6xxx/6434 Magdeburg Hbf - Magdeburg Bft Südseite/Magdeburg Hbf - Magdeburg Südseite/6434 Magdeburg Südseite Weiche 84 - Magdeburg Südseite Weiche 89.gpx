@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 107 filtered ascend = 0 plain-ascend = 0 cost=107 energy=0.0kwh time=9s -->
+<!-- track-length = 106 filtered ascend = 0 plain-ascend = 0 cost=107 energy=0.0kwh time=8s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 0.18.1">
+ creator="bikerouter.de 2024.12">
  <trk>
   <name>6434 Magdeburg Südseite Weiche 84 - Magdeburg Südseite Weiche 89</name>
+  <link href="https://bikerouter.de/#map=19/52.12079/11.62632/standard&amp;lonlats=11.624866,52.121067;11.624596,52.120133&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
   <trkseg>
-   <trkpt lat="52.121062" lon="11.624865"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.121066" lon="11.624866"><ele>52.5</ele></trkpt>
    <trkpt lat="52.120633" lon="11.62473"><ele>52.25</ele></trkpt>
    <trkpt lat="52.120328" lon="11.624634"><ele>52.75</ele></trkpt>
    <trkpt lat="52.120138" lon="11.624597"><ele>52.75</ele></trkpt>
-   <trkpt lat="52.12014" lon="11.624597"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.120131" lon="11.624596"><ele>52.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

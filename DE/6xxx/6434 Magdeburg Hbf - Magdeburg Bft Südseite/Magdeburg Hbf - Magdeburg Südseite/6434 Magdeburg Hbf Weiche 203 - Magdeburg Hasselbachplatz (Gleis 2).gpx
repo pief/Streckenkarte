@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 449 filtered ascend = 1 plain-ascend = 2 cost=449 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6434 Magdeburg Hbf Weiche 203 - Magdeburg Hasselbachplatz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/52.12236/11.62720/standard&amp;lonlats=11.626357,52.126494;11.625289,52.122518&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.126493" lon="11.626355"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.12642" lon="11.626332"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.124945" lon="11.625904"><ele>53</ele></trkpt>
+   <trkpt lat="52.124632" lon="11.625834"><ele>53</ele></trkpt>
+   <trkpt lat="52.124047" lon="11.625723"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.123774" lon="11.62566"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.122516" lon="11.625295"><ele>53.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
