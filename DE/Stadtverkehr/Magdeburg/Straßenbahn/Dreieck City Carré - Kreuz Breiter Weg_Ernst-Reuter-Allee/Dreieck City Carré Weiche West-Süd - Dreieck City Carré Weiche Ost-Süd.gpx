@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 0 plain-ascend = 1 cost=152 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck City Carré Weiche West-Süd - Dreieck City Carré Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.13154/11.63444/standard&amp;lonlats=11.631314,52.131325;11.632378,52.131272&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.131323" lon="11.631313"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.131323" lon="11.63132"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.131308" lon="11.63153"><ele>58</ele></trkpt>
+   <trkpt lat="52.131292" lon="11.631742"><ele>58</ele></trkpt>
+   <trkpt lat="52.131284" lon="11.631838"><ele>58</ele></trkpt>
+   <trkpt lat="52.131282" lon="11.631882"><ele>58</ele></trkpt>
+   <trkpt lat="52.131274" lon="11.632053"><ele>58</ele></trkpt>
+   <trkpt lat="52.131273" lon="11.632108"><ele>58</ele></trkpt>
+   <trkpt lat="52.131272" lon="11.632146"><ele>58</ele></trkpt>
+   <trkpt lat="52.131269" lon="11.632376"><ele>58</ele></trkpt>
+   <trkpt lat="52.131269" lon="11.632378"><ele>58</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

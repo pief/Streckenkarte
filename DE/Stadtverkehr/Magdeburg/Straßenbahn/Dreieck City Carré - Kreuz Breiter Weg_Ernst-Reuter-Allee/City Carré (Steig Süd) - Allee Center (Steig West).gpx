@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 113 filtered ascend = 2 plain-ascend = 2 cost=226 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>City Carré (Steig Süd) - Allee Center (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.13120/11.63638/standard&amp;lonlats=11.633974,52.131236;11.635597,52.131173&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.131237" lon="11.633974"><ele>58</ele></trkpt>
+   <trkpt lat="52.131236" lon="11.634186"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.131229" lon="11.634632"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.131217" lon="11.635244"><ele>60</ele></trkpt>
+   <trkpt lat="52.131202" lon="11.635448"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.131179" lon="11.635595"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.131177" lon="11.635599"><ele>59.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

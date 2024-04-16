@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 3 plain-ascend = 4 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Willy-Brandt-Platz Weiche Ost-Süd - Dreieck City Carré Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.13129/11.63227/standard&amp;lonlats=11.629529,52.131571;11.631314,52.131325&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.131571" lon="11.629529"><ele>54</ele></trkpt>
+   <trkpt lat="52.131558" lon="11.629601"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.131553" lon="11.629628"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.131498" lon="11.629865"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.131438" lon="11.630174"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.131389" lon="11.630515"><ele>57</ele></trkpt>
+   <trkpt lat="52.131323" lon="11.631313"><ele>57.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

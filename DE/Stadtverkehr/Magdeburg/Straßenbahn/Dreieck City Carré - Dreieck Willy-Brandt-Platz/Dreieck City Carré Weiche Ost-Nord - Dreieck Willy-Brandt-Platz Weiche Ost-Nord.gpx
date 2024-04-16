@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 201 filtered ascend = 0 plain-ascend = -3 cost=402 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck City Carré Weiche Ost-Nord - Dreieck Willy-Brandt-Platz Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.13154/11.63039/standard&amp;lonlats=11.632364,52.131294;11.629484,52.131608&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.131294" lon="11.632364"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.131295" lon="11.63236"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.1313" lon="11.632154"><ele>58</ele></trkpt>
+   <trkpt lat="52.131302" lon="11.632064"><ele>58</ele></trkpt>
+   <trkpt lat="52.131306" lon="11.631932"><ele>58</ele></trkpt>
+   <trkpt lat="52.131311" lon="11.631854"><ele>58</ele></trkpt>
+   <trkpt lat="52.131319" lon="11.631753"><ele>58</ele></trkpt>
+   <trkpt lat="52.131335" lon="11.631536"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.131342" lon="11.631431"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.131394" lon="11.630766"><ele>57</ele></trkpt>
+   <trkpt lat="52.131434" lon="11.630375"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.131468" lon="11.630164"><ele>56</ele></trkpt>
+   <trkpt lat="52.131528" lon="11.629877"><ele>55</ele></trkpt>
+   <trkpt lat="52.131578" lon="11.629643"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.131583" lon="11.629615"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.131607" lon="11.629483"><ele>53.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
