@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 517 filtered ascend = 1 plain-ascend = 0 cost=517 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6880 Altengrabow - Altengrabow Weiche 2</name>
+  <link href="https://bikerouter.de/#map=17/52.19819/12.17507/standard&amp;lonlats=12.173699,52.197415;12.167637,52.194666&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.197419" lon="12.173692"><ele>96.75</ele></trkpt>
+   <trkpt lat="52.197418" lon="12.173689"><ele>96.75</ele></trkpt>
+   <trkpt lat="52.194966" lon="12.168302"><ele>98</ele></trkpt>
+   <trkpt lat="52.194666" lon="12.167644"><ele>97</ele></trkpt>
+   <trkpt lat="52.194663" lon="12.167638"><ele>96.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
