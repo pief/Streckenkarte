@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 439 filtered ascend = 5 plain-ascend = 1 cost=878 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Neumarkt (Steig Nordwest-Nord) - Zollbrücke (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/52.12734/11.64842/standard&amp;lonlats=11.653774,52.12626;11.647659,52.127385&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.126261" lon="11.653774"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.126275" lon="11.6537"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.126345" lon="11.653328"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.126986" lon="11.649864"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.12713" lon="11.649069"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.127216" lon="11.648612"><ele>46.25</ele></trkpt>
+   <trkpt lat="52.127258" lon="11.648363"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.127368" lon="11.647765"><ele>46.25</ele></trkpt>
+   <trkpt lat="52.127386" lon="11.647664"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.127386" lon="11.647659"><ele>46.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
