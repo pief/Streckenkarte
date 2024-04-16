@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 1 plain-ascend = 1 cost=22 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>2522 Rheydt Gbf Weiche 240 - Rheydt Gbf Weiche 242</name>
+  <link href="https://bikerouter.de/#map=19/51.15209/6.43264/standard&amp;lonlats=6.431699,51.152296;6.431838,51.152471&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.152295" lon="6.431698"><ele>70.25</ele></trkpt>
+   <trkpt lat="51.152298" lon="6.4317"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.15247" lon="6.431837"><ele>71.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

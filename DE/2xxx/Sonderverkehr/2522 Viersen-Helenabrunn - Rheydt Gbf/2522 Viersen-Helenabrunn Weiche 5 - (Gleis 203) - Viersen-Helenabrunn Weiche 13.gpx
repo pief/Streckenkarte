@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 708 filtered ascend = 2 plain-ascend = 2 cost=709 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>2522 Viersen-Helenabrunn Weiche 5 - (Gleis 203) - Viersen-Helenabrunn Weiche 13</name>
+  <link href="https://bikerouter.de/#map=19/51.23383/6.43777/standard&amp;lonlats=6.437023,51.240053;6.436827,51.23404;6.436811,51.233701&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.240052" lon="6.437023"><ele>38.5</ele></trkpt>
+   <trkpt lat="51.239622" lon="6.437009"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.239524" lon="6.437006"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.23898" lon="6.436987"><ele>39</ele></trkpt>
+   <trkpt lat="51.234319" lon="6.436832"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.234039" lon="6.436822"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.233704" lon="6.436812"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.233699" lon="6.436811"><ele>40.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
