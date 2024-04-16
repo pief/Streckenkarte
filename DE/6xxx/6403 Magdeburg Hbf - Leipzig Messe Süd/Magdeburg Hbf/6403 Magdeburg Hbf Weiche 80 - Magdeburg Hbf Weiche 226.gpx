@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 497 filtered ascend = 0 plain-ascend = 0 cost=497 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Magdeburg Hbf Weiche 80 - Magdeburg Hbf Weiche 226</name>
+  <link href="https://bikerouter.de/#map=18/52.12093/11.62803/standard&amp;lonlats=11.624749,52.121319;11.624866,52.122054;11.625784,52.125718&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.121317" lon="11.624749"><ele>53</ele></trkpt>
+   <trkpt lat="52.121322" lon="11.62475"><ele>53</ele></trkpt>
+   <trkpt lat="52.121624" lon="11.624792"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.122052" lon="11.624867"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.122179" lon="11.62489"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.122805" lon="11.625036"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.123881" lon="11.625266"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.124528" lon="11.625434"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.125203" lon="11.62563"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.125721" lon="11.625785"><ele>52</ele></trkpt>
+   <trkpt lat="52.125717" lon="11.625783"><ele>52.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

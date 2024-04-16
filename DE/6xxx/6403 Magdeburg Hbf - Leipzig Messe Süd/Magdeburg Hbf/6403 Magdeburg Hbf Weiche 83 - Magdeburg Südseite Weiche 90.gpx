@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 207 filtered ascend = 1 plain-ascend = 1 cost=208 energy=0.0kwh time=17s -->
+<!-- track-length = 203 filtered ascend = 1 plain-ascend = 1 cost=203 energy=0.0kwh time=16s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 0.18.1">
+ creator="bikerouter.de 2024.12">
  <trk>
-  <name>6403 Magdeburg Hbf Weiche 83 - Magdeburg Hbf Weiche 90</name>
+  <name>6403 Magdeburg Hbf Weiche 83 - Magdeburg Südseite Weiche 90</name>
+  <link href="https://bikerouter.de/#map=19/52.12050/11.62682/standard&amp;lonlats=11.624756,52.120837;11.624518,52.119019&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
   <trkseg>
-   <trkpt lat="52.120848" lon="11.624759"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.120835" lon="11.624756"><ele>52.25</ele></trkpt>
    <trkpt lat="52.120633" lon="11.62473"><ele>52.25</ele></trkpt>
    <trkpt lat="52.120078" lon="11.624654"><ele>52.75</ele></trkpt>
    <trkpt lat="52.119886" lon="11.62463"><ele>53</ele></trkpt>
    <trkpt lat="52.119024" lon="11.624519"><ele>53.5</ele></trkpt>
-   <trkpt lat="52.119024" lon="11.624519"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.119017" lon="11.624518"><ele>52.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
