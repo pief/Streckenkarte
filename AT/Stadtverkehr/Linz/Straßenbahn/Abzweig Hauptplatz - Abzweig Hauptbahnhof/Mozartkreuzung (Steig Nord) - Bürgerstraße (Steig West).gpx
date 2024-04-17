@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 0 plain-ascend = -3 cost=700 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Mozartkreuzung (Steig Nord) - Bürgerstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/48.29818/14.29191/standard&amp;lonlats=14.290448,48.301133;14.291491,48.298076&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.301133" lon="14.290448"><ele>270.5</ele></trkpt>
+   <trkpt lat="48.300974" lon="14.290543"><ele>270.75</ele></trkpt>
+   <trkpt lat="48.300897" lon="14.290588"><ele>270.75</ele></trkpt>
+   <trkpt lat="48.300864" lon="14.290608"><ele>270.75</ele></trkpt>
+   <trkpt lat="48.30083" lon="14.290628"><ele>270.5</ele></trkpt>
+   <trkpt lat="48.300354" lon="14.290911"><ele>268</ele></trkpt>
+   <trkpt lat="48.300099" lon="14.291034"><ele>267.25</ele></trkpt>
+   <trkpt lat="48.299603" lon="14.291218"><ele>267</ele></trkpt>
+   <trkpt lat="48.299424" lon="14.291252"><ele>266.75</ele></trkpt>
+   <trkpt lat="48.299395" lon="14.291258"><ele>266.75</ele></trkpt>
+   <trkpt lat="48.29898" lon="14.291319"><ele>266.75</ele></trkpt>
+   <trkpt lat="48.298634" lon="14.291385"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.298528" lon="14.291406"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.298383" lon="14.291433"><ele>266</ele></trkpt>
+   <trkpt lat="48.298076" lon="14.291491"><ele>266.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

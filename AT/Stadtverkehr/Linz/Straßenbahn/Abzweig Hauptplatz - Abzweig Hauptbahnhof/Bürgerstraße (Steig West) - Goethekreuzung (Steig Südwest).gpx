@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 293 filtered ascend = 1 plain-ascend = 1 cost=586 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Bürgerstraße (Steig West) - Goethekreuzung (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.29550/14.29319/standard&amp;lonlats=14.291491,48.298076;14.292486,48.295577&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.298076" lon="14.291491"><ele>266</ele></trkpt>
+   <trkpt lat="48.297934" lon="14.291518"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.297459" lon="14.291608"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.297226" lon="14.291657"><ele>266</ele></trkpt>
+   <trkpt lat="48.297174" lon="14.291668"><ele>266</ele></trkpt>
+   <trkpt lat="48.296475" lon="14.29182"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.296355" lon="14.291861"><ele>266.5</ele></trkpt>
+   <trkpt lat="48.296249" lon="14.291912"><ele>266.5</ele></trkpt>
+   <trkpt lat="48.296169" lon="14.291962"><ele>266.75</ele></trkpt>
+   <trkpt lat="48.29612" lon="14.291998"><ele>267</ele></trkpt>
+   <trkpt lat="48.29608" lon="14.292029"><ele>267</ele></trkpt>
+   <trkpt lat="48.296009" lon="14.292086"><ele>267.25</ele></trkpt>
+   <trkpt lat="48.295753" lon="14.292326"><ele>267.75</ele></trkpt>
+   <trkpt lat="48.295578" lon="14.292489"><ele>267</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

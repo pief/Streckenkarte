@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 540 filtered ascend = 3 plain-ascend = 4 cost=1080 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Wendeschleife Hauptbahnhof Nord Weiche Nord - Goethekreuzung (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/48.29590/14.29309/standard&amp;lonlats=14.290831,48.291622;14.292124,48.296021&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.291622" lon="14.290834"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.291631" lon="14.290831"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.291672" lon="14.290826"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.291746" lon="14.290843"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.291872" lon="14.29093"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.293241" lon="14.292089"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.29395" lon="14.292555"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.294251" lon="14.292746"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.294423" lon="14.29283"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.294696" lon="14.292941"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.294814" lon="14.292964"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.294934" lon="14.292968"><ele>264.25</ele></trkpt>
+   <trkpt lat="48.295059" lon="14.292942"><ele>264.75</ele></trkpt>
+   <trkpt lat="48.295135" lon="14.29291"><ele>265.25</ele></trkpt>
+   <trkpt lat="48.295281" lon="14.292812"><ele>266</ele></trkpt>
+   <trkpt lat="48.295522" lon="14.292591"><ele>267.25</ele></trkpt>
+   <trkpt lat="48.296022" lon="14.292127"><ele>267.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
