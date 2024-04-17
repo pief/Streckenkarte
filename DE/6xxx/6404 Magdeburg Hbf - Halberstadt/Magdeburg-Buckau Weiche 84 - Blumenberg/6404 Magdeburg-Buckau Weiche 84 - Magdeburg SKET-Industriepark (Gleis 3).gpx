@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 789 filtered ascend = 1 plain-ascend = 2 cost=789 energy=0.0kwh time=1m 3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6404 Magdeburg-Buckau Weiche 84 - Magdeburg SKET-Industriepark (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/52.09765/11.63883/standard&amp;lonlats=11.634092,52.104239;11.638097,52.09761&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.10424" lon="11.634098"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.104179" lon="11.634149"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.104125" lon="11.634194"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.103498" lon="11.634705"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.102953" lon="11.635105"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.102538" lon="11.635384"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.102226" lon="11.635578"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.101664" lon="11.635904"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.099193" lon="11.637241"><ele>52</ele></trkpt>
+   <trkpt lat="52.09761" lon="11.638097"><ele>54.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
