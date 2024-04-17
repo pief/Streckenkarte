@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 378 filtered ascend = 0 plain-ascend = 0 cost=378 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6406 Magdeburg Südost (Gleis 4) - Magdeburg Südost Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/52.07322/11.66788/standard&amp;lonlats=11.670248,52.070109;11.667464,52.073029&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.070109" lon="11.670248"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.070767" lon="11.66967"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.0709" lon="11.669551"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.071515" lon="11.668986"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.071787" lon="11.668725"><ele>54</ele></trkpt>
+   <trkpt lat="52.072243" lon="11.668278"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.072716" lon="11.667796"><ele>54</ele></trkpt>
+   <trkpt lat="52.072954" lon="11.667543"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.073028" lon="11.667467"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.073029" lon="11.667465"><ele>54.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

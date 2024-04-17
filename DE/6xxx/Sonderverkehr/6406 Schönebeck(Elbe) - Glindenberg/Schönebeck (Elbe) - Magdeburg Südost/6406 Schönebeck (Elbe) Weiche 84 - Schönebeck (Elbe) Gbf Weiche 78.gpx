@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 747 filtered ascend = 0 plain-ascend = -1 cost=747 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6406 Schönebeck (Elbe) Weiche 84 - Schönebeck (Elbe) Gbf Weiche 78</name>
+  <link href="https://bikerouter.de/#map=19/52.02167/11.72885/standard&amp;lonlats=11.736435,52.017091;11.728452,52.021658&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.017091" lon="11.736435"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.017419" lon="11.735875"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.017585" lon="11.735591"><ele>51</ele></trkpt>
+   <trkpt lat="52.01813" lon="11.734653"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.020488" lon="11.730469"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.020549" lon="11.730363"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.020963" lon="11.729639"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.021658" lon="11.728452"><ele>49</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

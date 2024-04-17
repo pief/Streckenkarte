@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 133 filtered ascend = 1 plain-ascend = 2 cost=134 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6110 Magdeburg Hbf Weiche 309 - Magdeburg Hbf Weiche 318</name>
+  <link href="https://bikerouter.de/#map=19/52.12670/11.62551/standard&amp;lonlats=11.625094,52.126941;11.624612,52.125786&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.12694" lon="11.625096"><ele>51</ele></trkpt>
+   <trkpt lat="52.126667" lon="11.624999"><ele>51</ele></trkpt>
+   <trkpt lat="52.126562" lon="11.624954"><ele>51</ele></trkpt>
+   <trkpt lat="52.126191" lon="11.624768"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.125951" lon="11.624669"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.125789" lon="11.624613"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.125786" lon="11.624612"><ele>52.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
