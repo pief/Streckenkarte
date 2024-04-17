@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 191 filtered ascend = 0 plain-ascend = 1 cost=191 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6880 Biederitz Weiche 24 - Biederitz (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/52.15295/11.71718/standard&amp;lonlats=11.719105,52.153815;11.716801,52.152849&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.153812" lon="11.719106"><ele>45</ele></trkpt>
+   <trkpt lat="52.15374" lon="11.718878"><ele>45</ele></trkpt>
+   <trkpt lat="52.153612" lon="11.718503"><ele>45</ele></trkpt>
+   <trkpt lat="52.153552" lon="11.718338"><ele>45</ele></trkpt>
+   <trkpt lat="52.153513" lon="11.718233"><ele>45</ele></trkpt>
+   <trkpt lat="52.153314" lon="11.71775"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.153159" lon="11.717407"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.152997" lon="11.717082"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.152848" lon="11.716801"><ele>45.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
