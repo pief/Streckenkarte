@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 398 filtered ascend = 0 plain-ascend = 1 cost=398 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Magdeburg SKET-Industriepark (Gleis 2) - Magdeburg-Fermersleben Weiche 302</name>
+  <link href="https://bikerouter.de/#map=19/52.09434/11.64077/standard&amp;lonlats=11.638228,52.097636;11.640052,52.094247&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.097635" lon="11.638225"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.097556" lon="11.638268"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.097214" lon="11.63845"><ele>55</ele></trkpt>
+   <trkpt lat="52.097185" lon="11.638464"><ele>55</ele></trkpt>
+   <trkpt lat="52.09716" lon="11.638476"><ele>55</ele></trkpt>
+   <trkpt lat="52.096914" lon="11.638615"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.094248" lon="11.640055"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.094247" lon="11.640055"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

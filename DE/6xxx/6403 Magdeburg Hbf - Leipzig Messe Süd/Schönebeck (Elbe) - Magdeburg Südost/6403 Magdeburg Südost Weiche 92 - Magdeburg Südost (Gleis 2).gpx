@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 568 filtered ascend = 0 plain-ascend = -5 cost=568 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Magdeburg Südost Weiche 92 - Magdeburg Südost (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/52.07008/11.67113/standard&amp;lonlats=11.673743,52.065494;11.670061,52.070063&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.065494" lon="11.673746"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.066081" lon="11.673375"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.066437" lon="11.673137"><ele>61</ele></trkpt>
+   <trkpt lat="52.066774" lon="11.672893"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.067272" lon="11.672508"><ele>62</ele></trkpt>
+   <trkpt lat="52.068014" lon="11.671873"><ele>61</ele></trkpt>
+   <trkpt lat="52.070063" lon="11.670064"><ele>55.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

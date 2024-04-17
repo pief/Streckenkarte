@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 826 filtered ascend = 0 plain-ascend = -2 cost=826 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Schönebeck (Elbe) Gbf Weiche 50 - Schönebeck-Frohse (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/52.03402/11.70790/standard&amp;lonlats=11.715975,52.028852;11.707252,52.033956&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.02885" lon="11.715972"><ele>48.75</ele></trkpt>
+   <trkpt lat="52.028851" lon="11.715972"><ele>48.75</ele></trkpt>
+   <trkpt lat="52.029464" lon="11.714923"><ele>49.5</ele></trkpt>
+   <trkpt lat="52.030146" lon="11.71376"><ele>47.5</ele></trkpt>
+   <trkpt lat="52.030231" lon="11.713614"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.031936" lon="11.710701"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.033955" lon="11.70725"><ele>46.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

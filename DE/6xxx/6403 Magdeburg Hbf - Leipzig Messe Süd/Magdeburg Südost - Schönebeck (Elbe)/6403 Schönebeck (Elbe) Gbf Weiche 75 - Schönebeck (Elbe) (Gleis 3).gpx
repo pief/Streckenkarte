@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 457 filtered ascend = 1 plain-ascend = 1 cost=457 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Schönebeck (Elbe) Gbf Weiche 75 - Schönebeck (Elbe) (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/52.01888/11.73325/standard&amp;lonlats=11.728133,52.021666;11.732956,52.018833&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.021666" lon="11.728133"><ele>49</ele></trkpt>
+   <trkpt lat="52.021662" lon="11.728141"><ele>49</ele></trkpt>
+   <trkpt lat="52.020508" lon="11.730069"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.019637" lon="11.731533"><ele>50</ele></trkpt>
+   <trkpt lat="52.018832" lon="11.732954"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

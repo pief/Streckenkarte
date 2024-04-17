@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1784 filtered ascend = 2 plain-ascend = 1 cost=1784 energy=0.0kwh time=2m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Magdeburg-Salbke (Gleis 2) - Magdeburg-Fermersleben Weiche 304</name>
+  <link href="https://bikerouter.de/#map=19/52.09308/11.64088/standard&amp;lonlats=11.65655,52.080676;11.640774,52.093024&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.080676" lon="11.65655"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.080703" lon="11.6565"><ele>55</ele></trkpt>
+   <trkpt lat="52.080805" lon="11.656313"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.080961" lon="11.656026"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.084581" lon="11.649363"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.085033" lon="11.648554"><ele>56</ele></trkpt>
+   <trkpt lat="52.085435" lon="11.647873"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.08586" lon="11.647199"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.086108" lon="11.646828"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.086483" lon="11.646296"><ele>57.25</ele></trkpt>
+   <trkpt lat="52.086739" lon="11.645952"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.087145" lon="11.645434"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.087671" lon="11.644811"><ele>56</ele></trkpt>
+   <trkpt lat="52.088258" lon="11.644176"><ele>56</ele></trkpt>
+   <trkpt lat="52.088686" lon="11.643751"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.089264" lon="11.643222"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.089796" lon="11.642779"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.090111" lon="11.642538"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.090299" lon="11.642397"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.090478" lon="11.642274"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.090755" lon="11.642082"><ele>57</ele></trkpt>
+   <trkpt lat="52.091305" lon="11.641734"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.091783" lon="11.641457"><ele>56</ele></trkpt>
+   <trkpt lat="52.093024" lon="11.640777"><ele>55.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

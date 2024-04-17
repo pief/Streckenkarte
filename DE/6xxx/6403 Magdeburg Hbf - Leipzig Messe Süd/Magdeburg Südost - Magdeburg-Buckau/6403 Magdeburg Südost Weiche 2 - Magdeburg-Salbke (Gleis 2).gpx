@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 934 filtered ascend = 1 plain-ascend = 1 cost=934 energy=0.0kwh time=1m 15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Magdeburg Südost Weiche 2 - Magdeburg-Salbke (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/52.08053/11.65673/standard&amp;lonlats=11.665713,52.074554;11.656553,52.080678&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.074554" lon="11.665713"><ele>54</ele></trkpt>
+   <trkpt lat="52.074556" lon="11.665712"><ele>54</ele></trkpt>
+   <trkpt lat="52.074903" lon="11.665345"><ele>53</ele></trkpt>
+   <trkpt lat="52.075857" lon="11.664339"><ele>49.25</ele></trkpt>
+   <trkpt lat="52.076021" lon="11.664164"><ele>49.5</ele></trkpt>
+   <trkpt lat="52.076216" lon="11.663945"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.076407" lon="11.663732"><ele>51.25</ele></trkpt>
+   <trkpt lat="52.076788" lon="11.663272"><ele>53</ele></trkpt>
+   <trkpt lat="52.077036" lon="11.662951"><ele>53</ele></trkpt>
+   <trkpt lat="52.077276" lon="11.662621"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.077611" lon="11.662128"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.078052" lon="11.661409"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.078576" lon="11.660471"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.080676" lon="11.65655"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
