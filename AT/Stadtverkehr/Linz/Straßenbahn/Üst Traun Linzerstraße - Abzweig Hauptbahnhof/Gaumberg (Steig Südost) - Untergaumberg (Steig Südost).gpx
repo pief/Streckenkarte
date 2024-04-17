@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 369 filtered ascend = 0 plain-ascend = -2 cost=738 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Gaumberg (Steig Südost) - Untergaumberg (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.28018/14.28035/standard&amp;lonlats=14.276605,48.278052;14.280172,48.280339&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.27805" lon="14.276605"><ele>270</ele></trkpt>
+   <trkpt lat="48.278051" lon="14.276607"><ele>270.25</ele></trkpt>
+   <trkpt lat="48.278072" lon="14.276639"><ele>270.25</ele></trkpt>
+   <trkpt lat="48.279458" lon="14.278894"><ele>268</ele></trkpt>
+   <trkpt lat="48.27997" lon="14.279645"><ele>266.75</ele></trkpt>
+   <trkpt lat="48.280335" lon="14.280175"><ele>267.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

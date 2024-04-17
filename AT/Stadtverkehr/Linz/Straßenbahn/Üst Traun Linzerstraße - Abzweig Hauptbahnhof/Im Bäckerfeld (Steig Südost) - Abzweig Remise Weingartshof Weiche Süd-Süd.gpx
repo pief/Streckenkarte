@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 430 filtered ascend = 9 plain-ascend = 9 cost=860 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Im Bäckerfeld (Steig Südost) - Abzweig Remise Weingartshof Weiche Süd-Süd</name>
+  <link href="https://bikerouter.de/#map=19/48.25408/14.24765/standard&amp;lonlats=14.244419,48.250564;14.247312,48.253877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.250563" lon="14.244418"><ele>274.5</ele></trkpt>
+   <trkpt lat="48.25057" lon="14.244424"><ele>274.75</ele></trkpt>
+   <trkpt lat="48.250855" lon="14.244686"><ele>275.25</ele></trkpt>
+   <trkpt lat="48.25103" lon="14.244871"><ele>275.75</ele></trkpt>
+   <trkpt lat="48.251396" lon="14.245304"><ele>276.75</ele></trkpt>
+   <trkpt lat="48.251802" lon="14.245864"><ele>276</ele></trkpt>
+   <trkpt lat="48.251972" lon="14.246084"><ele>277.25</ele></trkpt>
+   <trkpt lat="48.252102" lon="14.246213"><ele>277.5</ele></trkpt>
+   <trkpt lat="48.252222" lon="14.246316"><ele>278</ele></trkpt>
+   <trkpt lat="48.253624" lon="14.247131"><ele>282.5</ele></trkpt>
+   <trkpt lat="48.253876" lon="14.247312"><ele>283.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

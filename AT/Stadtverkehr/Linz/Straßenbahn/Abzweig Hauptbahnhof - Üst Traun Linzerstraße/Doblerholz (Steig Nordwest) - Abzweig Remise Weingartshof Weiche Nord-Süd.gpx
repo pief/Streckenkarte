@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 315 filtered ascend = 0 plain-ascend = -2 cost=630 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Doblerholz (Steig Nordwest) - Abzweig Remise Weingartshof Weiche Nord-Süd</name>
+  <link href="https://bikerouter.de/#map=19/48.25464/14.24908/standard&amp;lonlats=14.251407,48.256647;14.248203,48.254827&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.256647" lon="14.251405"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.256621" lon="14.25137"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.256472" lon="14.251111"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.256402" lon="14.250928"><ele>283.25</ele></trkpt>
+   <trkpt lat="48.256356" lon="14.25078"><ele>283</ele></trkpt>
+   <trkpt lat="48.256278" lon="14.250529"><ele>281.5</ele></trkpt>
+   <trkpt lat="48.256234" lon="14.250409"><ele>280.75</ele></trkpt>
+   <trkpt lat="48.256181" lon="14.250293"><ele>280</ele></trkpt>
+   <trkpt lat="48.25611" lon="14.250164"><ele>279.25</ele></trkpt>
+   <trkpt lat="48.255525" lon="14.249237"><ele>276.75</ele></trkpt>
+   <trkpt lat="48.255312" lon="14.248913"><ele>277</ele></trkpt>
+   <trkpt lat="48.255151" lon="14.248648"><ele>277.75</ele></trkpt>
+   <trkpt lat="48.254986" lon="14.248413"><ele>278.75</ele></trkpt>
+   <trkpt lat="48.254827" lon="14.248209"><ele>280</ele></trkpt>
+   <trkpt lat="48.254824" lon="14.248206"><ele>280.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

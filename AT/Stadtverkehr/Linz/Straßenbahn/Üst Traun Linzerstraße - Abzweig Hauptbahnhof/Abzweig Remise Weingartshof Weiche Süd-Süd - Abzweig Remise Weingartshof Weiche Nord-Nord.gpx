@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 236 filtered ascend = 0 plain-ascend = -5 cost=472 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Remise Weingartshof Weiche Süd-Süd - Abzweig Remise Weingartshof Weiche Nord-Nord</name>
+  <link href="https://bikerouter.de/#map=19/48.25559/14.24949/standard&amp;lonlats=14.247312,48.253877;14.249276,48.255514&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.253876" lon="14.247312"><ele>283.25</ele></trkpt>
+   <trkpt lat="48.253878" lon="14.247314"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.253882" lon="14.247317"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.254108" lon="14.247503"><ele>283.75</ele></trkpt>
+   <trkpt lat="48.25426" lon="14.247643"><ele>283.25</ele></trkpt>
+   <trkpt lat="48.2544" lon="14.247777"><ele>282.5</ele></trkpt>
+   <trkpt lat="48.254596" lon="14.247991"><ele>281.25</ele></trkpt>
+   <trkpt lat="48.254798" lon="14.248233"><ele>280</ele></trkpt>
+   <trkpt lat="48.254962" lon="14.248447"><ele>279</ele></trkpt>
+   <trkpt lat="48.25513" lon="14.24868"><ele>277.75</ele></trkpt>
+   <trkpt lat="48.255295" lon="14.248943"><ele>277</ele></trkpt>
+   <trkpt lat="48.255514" lon="14.249276"><ele>277</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

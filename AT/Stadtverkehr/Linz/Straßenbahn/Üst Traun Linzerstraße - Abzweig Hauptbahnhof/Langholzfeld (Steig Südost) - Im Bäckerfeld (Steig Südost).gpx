@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 378 filtered ascend = 1 plain-ascend = 1 cost=756 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Langholzfeld (Steig Südost) - Im Bäckerfeld (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.25040/14.24445/standard&amp;lonlats=14.241406,48.247826;14.244418,48.250566&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.247821" lon="14.241415"><ele>273.5</ele></trkpt>
+   <trkpt lat="48.247859" lon="14.24145"><ele>273.5</ele></trkpt>
+   <trkpt lat="48.247945" lon="14.241529"><ele>273.5</ele></trkpt>
+   <trkpt lat="48.248495" lon="14.242041"><ele>273.25</ele></trkpt>
+   <trkpt lat="48.248672" lon="14.242192"><ele>273.25</ele></trkpt>
+   <trkpt lat="48.248874" lon="14.242378"><ele>273.25</ele></trkpt>
+   <trkpt lat="48.249045" lon="14.242548"><ele>273.5</ele></trkpt>
+   <trkpt lat="48.249211" lon="14.242729"><ele>274</ele></trkpt>
+   <trkpt lat="48.249562" lon="14.243181"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.250046" lon="14.243852"><ele>273</ele></trkpt>
+   <trkpt lat="48.250148" lon="14.243985"><ele>273.25</ele></trkpt>
+   <trkpt lat="48.250182" lon="14.244026"><ele>273.25</ele></trkpt>
+   <trkpt lat="48.250261" lon="14.244119"><ele>273.5</ele></trkpt>
+   <trkpt lat="48.250564" lon="14.244419"><ele>274.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

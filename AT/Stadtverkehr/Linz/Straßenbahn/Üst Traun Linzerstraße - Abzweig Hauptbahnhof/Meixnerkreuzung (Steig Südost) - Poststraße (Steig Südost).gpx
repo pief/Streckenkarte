@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 789 filtered ascend = 0 plain-ascend = -1 cost=1578 energy=0.0kwh time=1m 3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Meixnerkreuzung (Steig Südost) - Poststraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.26835/14.26611/standard&amp;lonlats=14.259184,48.262891;14.265782,48.268467&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.262888" lon="14.259186"><ele>285</ele></trkpt>
+   <trkpt lat="48.26291" lon="14.259211"><ele>285.25</ele></trkpt>
+   <trkpt lat="48.263379" lon="14.259716"><ele>285</ele></trkpt>
+   <trkpt lat="48.26463" lon="14.2611"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.264762" lon="14.261242"><ele>283.25</ele></trkpt>
+   <trkpt lat="48.265131" lon="14.26166"><ele>281.5</ele></trkpt>
+   <trkpt lat="48.265988" lon="14.262732"><ele>281.25</ele></trkpt>
+   <trkpt lat="48.267388" lon="14.264443"><ele>279.75</ele></trkpt>
+   <trkpt lat="48.267484" lon="14.264548"><ele>279.75</ele></trkpt>
+   <trkpt lat="48.267851" lon="14.265005"><ele>280.75</ele></trkpt>
+   <trkpt lat="48.267982" lon="14.265173"><ele>281</ele></trkpt>
+   <trkpt lat="48.268115" lon="14.265344"><ele>281.5</ele></trkpt>
+   <trkpt lat="48.268463" lon="14.265787"><ele>282.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

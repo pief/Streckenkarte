@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 367 filtered ascend = 0 plain-ascend = 0 cost=734 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Meixnerkreuzung (Steig Nordwest) - Harterfeldsiedlung (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.26006/14.25652/standard&amp;lonlats=14.258787,48.262599;14.255804,48.259988&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.262596" lon="14.258793"><ele>284.5</ele></trkpt>
+   <trkpt lat="48.262575" lon="14.258772"><ele>284.5</ele></trkpt>
+   <trkpt lat="48.262425" lon="14.258589"><ele>284.25</ele></trkpt>
+   <trkpt lat="48.262247" lon="14.258372"><ele>284.25</ele></trkpt>
+   <trkpt lat="48.261852" lon="14.257933"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.261454" lon="14.257508"><ele>283</ele></trkpt>
+   <trkpt lat="48.260241" lon="14.256117"><ele>282</ele></trkpt>
+   <trkpt lat="48.259987" lon="14.255811"><ele>283</ele></trkpt>
+   <trkpt lat="48.259984" lon="14.255808"><ele>283.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 693 filtered ascend = 5 plain-ascend = 5 cost=1386 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Poststraße (Steig Nordwest) - Meixnerkreuzung (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.26276/14.25944/standard&amp;lonlats=14.264524,48.267513;14.258787,48.262599&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.26751" lon="14.264527"><ele>280</ele></trkpt>
+   <trkpt lat="48.267501" lon="14.264517"><ele>280</ele></trkpt>
+   <trkpt lat="48.267402" lon="14.264409"><ele>279.75</ele></trkpt>
+   <trkpt lat="48.266484" lon="14.263291"><ele>280.75</ele></trkpt>
+   <trkpt lat="48.265151" lon="14.261625"><ele>281.5</ele></trkpt>
+   <trkpt lat="48.264779" lon="14.261192"><ele>283.25</ele></trkpt>
+   <trkpt lat="48.26465" lon="14.26106"><ele>283.5</ele></trkpt>
+   <trkpt lat="48.264498" lon="14.260907"><ele>283.75</ele></trkpt>
+   <trkpt lat="48.26293" lon="14.259175"><ele>285.5</ele></trkpt>
+   <trkpt lat="48.262601" lon="14.258798"><ele>284.5</ele></trkpt>
+   <trkpt lat="48.262596" lon="14.258793"><ele>284.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

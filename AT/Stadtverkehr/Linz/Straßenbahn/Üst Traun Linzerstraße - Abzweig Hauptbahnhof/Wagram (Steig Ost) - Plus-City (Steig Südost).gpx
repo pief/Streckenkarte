@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 629 filtered ascend = 5 plain-ascend = 2 cost=1258 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Wagram (Steig Ost) - Plus-City (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.24316/14.23785/standard&amp;lonlats=14.234797,48.237928;14.237168,48.243146&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.237928" lon="14.234798"><ele>273</ele></trkpt>
+   <trkpt lat="48.237981" lon="14.234774"><ele>273</ele></trkpt>
+   <trkpt lat="48.238122" lon="14.234711"><ele>272.75</ele></trkpt>
+   <trkpt lat="48.238191" lon="14.234681"><ele>272.5</ele></trkpt>
+   <trkpt lat="48.238471" lon="14.234623"><ele>272</ele></trkpt>
+   <trkpt lat="48.238689" lon="14.234599"><ele>271.75</ele></trkpt>
+   <trkpt lat="48.238823" lon="14.23459"><ele>271.5</ele></trkpt>
+   <trkpt lat="48.239396" lon="14.234607"><ele>271.5</ele></trkpt>
+   <trkpt lat="48.23959" lon="14.234637"><ele>272.25</ele></trkpt>
+   <trkpt lat="48.239976" lon="14.234729"><ele>273.75</ele></trkpt>
+   <trkpt lat="48.240175" lon="14.234788"><ele>274</ele></trkpt>
+   <trkpt lat="48.240472" lon="14.234901"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.240718" lon="14.235018"><ele>274</ele></trkpt>
+   <trkpt lat="48.240902" lon="14.235117"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.241272" lon="14.23536"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.24146" lon="14.235504"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.241667" lon="14.235689"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.24204" lon="14.236062"><ele>276</ele></trkpt>
+   <trkpt lat="48.24263" lon="14.23669"><ele>278</ele></trkpt>
+   <trkpt lat="48.242986" lon="14.237013"><ele>277.25</ele></trkpt>
+   <trkpt lat="48.243147" lon="14.237163"><ele>275</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

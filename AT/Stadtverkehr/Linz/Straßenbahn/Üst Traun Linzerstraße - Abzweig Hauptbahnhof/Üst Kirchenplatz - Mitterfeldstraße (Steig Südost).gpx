@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 0 plain-ascend = -3 cost=798 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Üst Kirchenplatz - Mitterfeldstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.22699/14.23533/standard&amp;lonlats=14.235376,48.223506;14.234671,48.226989&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.223506" lon="14.235376"><ele>275</ele></trkpt>
+   <trkpt lat="48.223507" lon="14.235376"><ele>275</ele></trkpt>
+   <trkpt lat="48.22402" lon="14.23517"><ele>275.5</ele></trkpt>
+   <trkpt lat="48.224225" lon="14.235098"><ele>275.5</ele></trkpt>
+   <trkpt lat="48.22506" lon="14.234902"><ele>273</ele></trkpt>
+   <trkpt lat="48.225323" lon="14.234825"><ele>273</ele></trkpt>
+   <trkpt lat="48.225621" lon="14.234709"><ele>273.25</ele></trkpt>
+   <trkpt lat="48.22608" lon="14.234478"><ele>272.75</ele></trkpt>
+   <trkpt lat="48.226139" lon="14.234462"><ele>272.5</ele></trkpt>
+   <trkpt lat="48.226256" lon="14.234448"><ele>272.25</ele></trkpt>
+   <trkpt lat="48.226341" lon="14.23447"><ele>272</ele></trkpt>
+   <trkpt lat="48.226398" lon="14.23449"><ele>271.75</ele></trkpt>
+   <trkpt lat="48.226592" lon="14.234558"><ele>271</ele></trkpt>
+   <trkpt lat="48.226987" lon="14.234672"><ele>271.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

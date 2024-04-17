@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 29 filtered ascend = 0 plain-ascend = 0 cost=58 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Hauptbahnhof Weiche West - Abzweig Wendeschleife Hauptbahnhof Weiche Nordwest</name>
+  <link href="https://bikerouter.de/#map=19/48.29033/14.29168/standard&amp;lonlats=14.291708,48.290652;14.291617,48.290405&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.290652" lon="14.291708"/>
+   <trkpt lat="48.290645" lon="14.291714"/>
+   <trkpt lat="48.290569" lon="14.291718"/>
+   <trkpt lat="48.290501" lon="14.291686"/>
+   <trkpt lat="48.290403" lon="14.291618"/>
+  </trkseg>
+ </trk>
+</gpx>
