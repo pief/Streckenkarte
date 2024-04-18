@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 122 filtered ascend = 0 plain-ascend = -2 cost=244 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Rudolfstraße Weiche Ost - Abzweig Sonnensteinstraße Weiche West-Ost</name>
+  <link href="https://bikerouter.de/#map=19/48.31208/14.28543/standard&amp;lonlats=14.282876,48.311147;14.284026,48.311825&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.311147" lon="14.282878"><ele>266</ele></trkpt>
+   <trkpt lat="48.311148" lon="14.282878"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.311256" lon="14.282889"><ele>266.5</ele></trkpt>
+   <trkpt lat="48.311349" lon="14.282942"><ele>266.5</ele></trkpt>
+   <trkpt lat="48.311419" lon="14.283025"><ele>266.5</ele></trkpt>
+   <trkpt lat="48.311498" lon="14.283176"><ele>266</ele></trkpt>
+   <trkpt lat="48.311654" lon="14.283515"><ele>265.25</ele></trkpt>
+   <trkpt lat="48.31172" lon="14.283696"><ele>264.75</ele></trkpt>
+   <trkpt lat="48.311822" lon="14.284023"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.311823" lon="14.284026"><ele>263.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

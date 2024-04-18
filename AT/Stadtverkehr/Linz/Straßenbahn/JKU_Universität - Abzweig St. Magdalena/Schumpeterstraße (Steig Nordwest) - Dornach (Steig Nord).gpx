@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 1 plain-ascend = 2 cost=864 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Schumpeterstraße (Steig Nordwest) - Dornach (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/48.33191/14.31267/standard&amp;lonlats=14.317822,48.332088;14.312157,48.331801&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.332089" lon="14.317818"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332069" lon="14.317784"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332038" lon="14.317708"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332023" lon="14.317641"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332015" lon="14.317512"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332049" lon="14.317293"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.3322" lon="14.316518"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332249" lon="14.316245"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332277" lon="14.316011"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.332282" lon="14.315793"><ele>259.5</ele></trkpt>
+   <trkpt lat="48.332272" lon="14.315564"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.332247" lon="14.315334"><ele>260</ele></trkpt>
+   <trkpt lat="48.33189" lon="14.312984"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.331871" lon="14.312868"><ele>259.5</ele></trkpt>
+   <trkpt lat="48.331848" lon="14.312722"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.331817" lon="14.312499"><ele>260.25</ele></trkpt>
+   <trkpt lat="48.331807" lon="14.312399"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.3318" lon="14.312156"><ele>261</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

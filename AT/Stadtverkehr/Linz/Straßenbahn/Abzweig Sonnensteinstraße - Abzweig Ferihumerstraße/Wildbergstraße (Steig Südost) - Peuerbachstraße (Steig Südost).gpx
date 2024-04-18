@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 371 filtered ascend = 0 plain-ascend = -1 cost=742 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Wildbergstraße (Steig Südost) - Peuerbachstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.31561/14.29113/standard&amp;lonlats=14.287253,48.313181;14.289962,48.315951&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.313179" lon="14.287253"><ele>262.25</ele></trkpt>
+   <trkpt lat="48.31318" lon="14.287255"><ele>262.25</ele></trkpt>
+   <trkpt lat="48.313224" lon="14.287326"><ele>262.5</ele></trkpt>
+   <trkpt lat="48.313291" lon="14.287432"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.313408" lon="14.287595"><ele>262.5</ele></trkpt>
+   <trkpt lat="48.31352" lon="14.287727"><ele>262</ele></trkpt>
+   <trkpt lat="48.313682" lon="14.287887"><ele>261.75</ele></trkpt>
+   <trkpt lat="48.314715" lon="14.288753"><ele>260</ele></trkpt>
+   <trkpt lat="48.314942" lon="14.288963"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.315479" lon="14.289492"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.315589" lon="14.289603"><ele>260</ele></trkpt>
+   <trkpt lat="48.315646" lon="14.289661"><ele>260</ele></trkpt>
+   <trkpt lat="48.31595" lon="14.289961"><ele>260.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

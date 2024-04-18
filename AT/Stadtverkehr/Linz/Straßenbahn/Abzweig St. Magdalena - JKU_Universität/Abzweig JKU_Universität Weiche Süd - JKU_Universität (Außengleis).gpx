@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 0 plain-ascend = 0 cost=246 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig JKU/Universität Weiche Süd - JKU/Universität (Außengleis)</name>
+  <link href="https://bikerouter.de/#map=19/48.33496/14.32179/standard&amp;lonlats=14.319968,48.33432;14.320161,48.3348&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.334317" lon="14.319967"><ele>260</ele></trkpt>
+   <trkpt lat="48.334318" lon="14.319973"><ele>260</ele></trkpt>
+   <trkpt lat="48.334326" lon="14.320206"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.334342" lon="14.320319"><ele>259.5</ele></trkpt>
+   <trkpt lat="48.334372" lon="14.320428"><ele>259.5</ele></trkpt>
+   <trkpt lat="48.334427" lon="14.320555"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.334478" lon="14.320621"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.334531" lon="14.320663"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.334609" lon="14.320683"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.334695" lon="14.320657"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.334746" lon="14.320618"><ele>259.25</ele></trkpt>
+   <trkpt lat="48.33479" lon="14.320547"><ele>259.5</ele></trkpt>
+   <trkpt lat="48.334823" lon="14.320457"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.334835" lon="14.320344"><ele>260</ele></trkpt>
+   <trkpt lat="48.334822" lon="14.320238"><ele>260.25</ele></trkpt>
+   <trkpt lat="48.334797" lon="14.320162"><ele>260.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

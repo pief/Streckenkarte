@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 365 filtered ascend = 5 plain-ascend = 6 cost=730 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Harbachsiedlung (Steig Nordwest) - Harbach (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.32691/14.28517/standard&amp;lonlats=14.287891,48.329798;14.285011,48.327125&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.329796" lon="14.287892"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.329755" lon="14.287855"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.329691" lon="14.287796"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.329337" lon="14.287466"><ele>265.25</ele></trkpt>
+   <trkpt lat="48.329019" lon="14.287139"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.328613" lon="14.286691"><ele>267.25</ele></trkpt>
+   <trkpt lat="48.328269" lon="14.28629"><ele>268.25</ele></trkpt>
+   <trkpt lat="48.327743" lon="14.28563"><ele>270.25</ele></trkpt>
+   <trkpt lat="48.327628" lon="14.285496"><ele>270.75</ele></trkpt>
+   <trkpt lat="48.32736" lon="14.285223"><ele>271.25</ele></trkpt>
+   <trkpt lat="48.327132" lon="14.285012"><ele>271.5</ele></trkpt>
+   <trkpt lat="48.327125" lon="14.285007"><ele>271.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 348 filtered ascend = 2 plain-ascend = 0 cost=696 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Gründberg (Steig Nordwest) - Harbachsiedlung (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.32983/14.28790/standard&amp;lonlats=14.290295,48.332487;14.287891,48.329798&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.332486" lon="14.290295"><ele>265.5</ele></trkpt>
+   <trkpt lat="48.332461" lon="14.290274"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.332403" lon="14.290224"><ele>266</ele></trkpt>
+   <trkpt lat="48.332348" lon="14.290176"><ele>266.25</ele></trkpt>
+   <trkpt lat="48.331847" lon="14.28973"><ele>268.25</ele></trkpt>
+   <trkpt lat="48.330747" lon="14.288704"><ele>267.25</ele></trkpt>
+   <trkpt lat="48.329798" lon="14.287893"><ele>265.75</ele></trkpt>
+   <trkpt lat="48.329796" lon="14.287892"><ele>265.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
