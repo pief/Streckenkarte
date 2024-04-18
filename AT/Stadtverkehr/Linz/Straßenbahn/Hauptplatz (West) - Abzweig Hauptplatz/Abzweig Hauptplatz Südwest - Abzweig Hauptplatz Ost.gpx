@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 23 filtered ascend = 0 plain-ascend = -2 cost=46 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Hauptplatz Südwest - Abzweig Hauptplatz Ost</name>
+  <link href="https://bikerouter.de/#map=19/48.30667/14.28701/standard&amp;lonlats=14.286076,48.306428;14.286054,48.306623&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.306428" lon="14.286078"><ele>267.75</ele></trkpt>
+   <trkpt lat="48.306432" lon="14.286077"><ele>267.75</ele></trkpt>
+   <trkpt lat="48.306487" lon="14.286067"><ele>267.75</ele></trkpt>
+   <trkpt lat="48.306526" lon="14.286073"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.306587" lon="14.286069"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.30662" lon="14.286057"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.306623" lon="14.286054"><ele>264.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

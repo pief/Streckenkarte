@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 172 filtered ascend = 0 plain-ascend = 0 cost=344 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Biegung (Steig Ost) - Mühlkreisbahnhof (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=18/48.31186/14.28365/standard&amp;lonlats=14.28217,48.312507;14.280172,48.311936&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.312507" lon="14.28217"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.312532" lon="14.282146"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.312556" lon="14.282112"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.312583" lon="14.282033"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.312588" lon="14.281983"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.312585" lon="14.281914"><ele>267.25</ele></trkpt>
+   <trkpt lat="48.31257" lon="14.281857"><ele>267.25</ele></trkpt>
+   <trkpt lat="48.312249" lon="14.280999"><ele>266.75</ele></trkpt>
+   <trkpt lat="48.312201" lon="14.280871"><ele>267</ele></trkpt>
+   <trkpt lat="48.311945" lon="14.280189"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.311937" lon="14.280169"><ele>267.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

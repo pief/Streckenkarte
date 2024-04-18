@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 192 filtered ascend = 20 plain-ascend = 20 cost=384 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Pöstlingbergbahn-Museum - Spazgasse</name>
+  <link href="https://bikerouter.de/#map=19/48.31061/14.27384/standard&amp;lonlats=14.275583,48.31053;14.273123,48.310464&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.310528" lon="14.275583"><ele>265.5</ele></trkpt>
+   <trkpt lat="48.310424" lon="14.275369"><ele>267</ele></trkpt>
+   <trkpt lat="48.310392" lon="14.275272"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.310367" lon="14.275185"><ele>268</ele></trkpt>
+   <trkpt lat="48.310335" lon="14.275013"><ele>269.25</ele></trkpt>
+   <trkpt lat="48.310328" lon="14.274944"><ele>269.5</ele></trkpt>
+   <trkpt lat="48.310322" lon="14.274812"><ele>270</ele></trkpt>
+   <trkpt lat="48.310322" lon="14.27467"><ele>270.5</ele></trkpt>
+   <trkpt lat="48.310332" lon="14.27455"><ele>271</ele></trkpt>
+   <trkpt lat="48.310473" lon="14.273731"><ele>277.25</ele></trkpt>
+   <trkpt lat="48.310485" lon="14.273582"><ele>278.75</ele></trkpt>
+   <trkpt lat="48.310485" lon="14.27342"><ele>280.25</ele></trkpt>
+   <trkpt lat="48.31046" lon="14.273128"><ele>282</ele></trkpt>
+   <trkpt lat="48.310459" lon="14.273124"><ele>285.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

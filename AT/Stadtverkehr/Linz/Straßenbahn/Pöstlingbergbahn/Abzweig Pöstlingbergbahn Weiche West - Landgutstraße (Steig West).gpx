@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Pöstlingbergbahn Weiche West - Landgutstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/48.31081/14.27739/standard&amp;lonlats=14.276994,48.310965;14.276406,48.310771&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.310962" lon="14.276994"><ele>264.75</ele></trkpt>
+   <trkpt lat="48.310929" lon="14.276866"><ele>264.75</ele></trkpt>
+   <trkpt lat="48.310907" lon="14.276802"><ele>264.5</ele></trkpt>
+   <trkpt lat="48.310887" lon="14.27675"><ele>264.25</ele></trkpt>
+   <trkpt lat="48.310771" lon="14.276409"><ele>263.75</ele></trkpt>
+   <trkpt lat="48.310769" lon="14.276406"><ele>263.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

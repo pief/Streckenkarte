@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 2 plain-ascend = 2 cost=458 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Pöstlingbergbahn Weiche Süd - Mühlkreisbahnhof (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.31228/14.28202/standard&amp;lonlats=14.277798,48.311022;14.280478,48.312014&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.311019" lon="14.277798"><ele>266</ele></trkpt>
+   <trkpt lat="48.311114" lon="14.278052"><ele>266</ele></trkpt>
+   <trkpt lat="48.311463" lon="14.278988"><ele>264.5</ele></trkpt>
+   <trkpt lat="48.311772" lon="14.279819"><ele>267.5</ele></trkpt>
+   <trkpt lat="48.311828" lon="14.279967"><ele>268</ele></trkpt>
+   <trkpt lat="48.311878" lon="14.280102"><ele>268</ele></trkpt>
+   <trkpt lat="48.312018" lon="14.280474"><ele>267.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

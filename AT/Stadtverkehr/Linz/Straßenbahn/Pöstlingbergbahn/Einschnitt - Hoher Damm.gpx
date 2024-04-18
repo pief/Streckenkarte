@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 191 filtered ascend = 0 plain-ascend = -23 cost=382 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Einschnitt - Hoher Damm</name>
+  <link href="https://bikerouter.de/#map=19/48.31858/14.25815/standard&amp;lonlats=14.257725,48.318653;14.257244,48.317155&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.318655" lon="14.257729"><ele>449.5</ele></trkpt>
+   <trkpt lat="48.318488" lon="14.257945"><ele>446.75</ele></trkpt>
+   <trkpt lat="48.318449" lon="14.257979"><ele>446.25</ele></trkpt>
+   <trkpt lat="48.318348" lon="14.25804"><ele>445.75</ele></trkpt>
+   <trkpt lat="48.31824" lon="14.258055"><ele>444.5</ele></trkpt>
+   <trkpt lat="48.318144" lon="14.258038"><ele>443.75</ele></trkpt>
+   <trkpt lat="48.318085" lon="14.258012"><ele>443.25</ele></trkpt>
+   <trkpt lat="48.318019" lon="14.257965"><ele>443.25</ele></trkpt>
+   <trkpt lat="48.317936" lon="14.257893"><ele>443</ele></trkpt>
+   <trkpt lat="48.317338" lon="14.257319"><ele>432.5</ele></trkpt>
+   <trkpt lat="48.317252" lon="14.25727"><ele>429.5</ele></trkpt>
+   <trkpt lat="48.317164" lon="14.257245"><ele>426.75</ele></trkpt>
+   <trkpt lat="48.317154" lon="14.257243"><ele>425.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
