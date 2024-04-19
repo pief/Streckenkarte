@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 768 filtered ascend = 3 plain-ascend = 1 cost=768 energy=0.0kwh time=1m 1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Sachsendorf (bei Calbe) (Gleis 2) - Sachsendorf (bei Calbe) Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/51.87643/11.85748/standard&amp;lonlats=11.864282,51.871316;11.857257,51.876637&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.871317" lon="11.864286"><ele>53</ele></trkpt>
+   <trkpt lat="51.871453" lon="11.86414"><ele>53</ele></trkpt>
+   <trkpt lat="51.872305" lon="11.863191"><ele>53.75</ele></trkpt>
+   <trkpt lat="51.872696" lon="11.862743"><ele>54.25</ele></trkpt>
+   <trkpt lat="51.873185" lon="11.86216"><ele>54.5</ele></trkpt>
+   <trkpt lat="51.873648" lon="11.861571"><ele>55.5</ele></trkpt>
+   <trkpt lat="51.874091" lon="11.860964"><ele>56.75</ele></trkpt>
+   <trkpt lat="51.874518" lon="11.860352"><ele>55.5</ele></trkpt>
+   <trkpt lat="51.875689" lon="11.858642"><ele>54</ele></trkpt>
+   <trkpt lat="51.876633" lon="11.857262"><ele>53.75</ele></trkpt>
+   <trkpt lat="51.876636" lon="11.857256"><ele>53.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 657 filtered ascend = 3 plain-ascend = 4 cost=657 energy=0.0kwh time=53s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Calbe (Saale) Ost Weiche 7 - Calbe (Saale) Ost (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.92060/11.81086/standard&amp;lonlats=11.811209,51.926502;11.810531,51.920619&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.9265" lon="11.811212"><ele>54.75</ele></trkpt>
+   <trkpt lat="51.926502" lon="11.811213"><ele>54.75</ele></trkpt>
+   <trkpt lat="51.925251" lon="11.811118"><ele>55</ele></trkpt>
+   <trkpt lat="51.925074" lon="11.811101"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.92356" lon="11.810945"><ele>55</ele></trkpt>
+   <trkpt lat="51.922965" lon="11.810872"><ele>55.25</ele></trkpt>
+   <trkpt lat="51.921663" lon="11.810677"><ele>58.5</ele></trkpt>
+   <trkpt lat="51.920618" lon="11.810534"><ele>58.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

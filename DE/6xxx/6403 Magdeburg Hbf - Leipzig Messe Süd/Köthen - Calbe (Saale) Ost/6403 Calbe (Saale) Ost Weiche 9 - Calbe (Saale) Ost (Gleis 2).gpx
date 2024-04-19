@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 195 filtered ascend = 1 plain-ascend = 0 cost=195 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Calbe (Saale) Ost Weiche 9 - Calbe (Saale) Ost (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.92052/11.81115/standard&amp;lonlats=11.810453,51.918865;11.810705,51.92061&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.918864" lon="11.810452"><ele>56.75</ele></trkpt>
+   <trkpt lat="51.918871" lon="11.810453"><ele>56.75</ele></trkpt>
+   <trkpt lat="51.919832" lon="11.810605"><ele>57.5</ele></trkpt>
+   <trkpt lat="51.920537" lon="11.810701"><ele>58</ele></trkpt>
+   <trkpt lat="51.920608" lon="11.810708"><ele>56</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

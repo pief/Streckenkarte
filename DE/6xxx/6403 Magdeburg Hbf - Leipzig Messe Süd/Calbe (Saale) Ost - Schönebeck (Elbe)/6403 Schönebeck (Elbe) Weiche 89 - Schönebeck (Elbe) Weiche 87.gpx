@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 0 cost=35 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Schönebeck (Elbe) Weiche 89 - Schönebeck (Elbe) Weiche 87</name>
+  <link href="https://bikerouter.de/#map=19/52.01600/11.73796/standard&amp;lonlats=11.738146,52.015978;11.73777,52.016197&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.015978" lon="11.738146"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.016197" lon="11.73777"><ele>50.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
