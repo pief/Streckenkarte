@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 371 filtered ascend = 3 plain-ascend = 3 cost=371 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6419 Köthen Weiche 101 - Köthen Weiche 107</name>
+  <link href="https://bikerouter.de/#map=18/51.75622/11.98737/standard&amp;lonlats=11.986819,51.756563;11.988672,51.753425&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.756564" lon="11.986822"><ele>76</ele></trkpt>
+   <trkpt lat="51.756506" lon="11.986862"><ele>76</ele></trkpt>
+   <trkpt lat="51.756172" lon="11.987074"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.755544" lon="11.987473"><ele>77.5</ele></trkpt>
+   <trkpt lat="51.754881" lon="11.987879"><ele>79.25</ele></trkpt>
+   <trkpt lat="51.754838" lon="11.987907"><ele>79.25</ele></trkpt>
+   <trkpt lat="51.754708" lon="11.987985"><ele>79</ele></trkpt>
+   <trkpt lat="51.754017" lon="11.988413"><ele>79</ele></trkpt>
+   <trkpt lat="51.753894" lon="11.988481"><ele>79</ele></trkpt>
+   <trkpt lat="51.753632" lon="11.988595"><ele>79</ele></trkpt>
+   <trkpt lat="51.753468" lon="11.988657"><ele>79</ele></trkpt>
+   <trkpt lat="51.753425" lon="11.988672"><ele>78.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

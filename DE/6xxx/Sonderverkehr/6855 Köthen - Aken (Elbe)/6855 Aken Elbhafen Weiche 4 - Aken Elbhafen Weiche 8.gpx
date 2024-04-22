@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 94 filtered ascend = 0 plain-ascend = 1 cost=94 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6855 Aken Elbhafen Weiche 4 - Aken Elbhafen Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/51.85675/12.04098/standard&amp;lonlats=12.042361,51.856697;12.041042,51.856873&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.856697" lon="12.042361"><ele>54.5</ele></trkpt>
+   <trkpt lat="51.856698" lon="12.042359"><ele>54.75</ele></trkpt>
+   <trkpt lat="51.856801" lon="12.041494"><ele>54.75</ele></trkpt>
+   <trkpt lat="51.856829" lon="12.041293"><ele>55</ele></trkpt>
+   <trkpt lat="51.856873" lon="12.041042"><ele>55.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
