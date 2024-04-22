@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2541 filtered ascend = 0 plain-ascend = -6 cost=2541 energy=0.0kwh time=3m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Köthen Süd Weiche 503 - Köthen Weiche 250</name>
+  <link href="https://bikerouter.de/#map=19/51.74815/11.99140/standard&amp;lonlats=12.000439,51.725825;11.991207,51.747908&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.725825" lon="12.000441"><ele>87</ele></trkpt>
+   <trkpt lat="51.727435" lon="11.999742"><ele>87</ele></trkpt>
+   <trkpt lat="51.730004" lon="11.998623"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.741324" lon="11.993681"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.742318" lon="11.993249"><ele>81</ele></trkpt>
+   <trkpt lat="51.744491" lon="11.992303"><ele>83</ele></trkpt>
+   <trkpt lat="51.745242" lon="11.991974"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.745669" lon="11.991805"><ele>82.25</ele></trkpt>
+   <trkpt lat="51.746166" lon="11.991647"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.747905" lon="11.991212"><ele>80.5</ele></trkpt>
+   <trkpt lat="51.747908" lon="11.991211"><ele>80.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

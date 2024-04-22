@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4608 filtered ascend = 1 plain-ascend = 0 cost=4608 energy=0.1kwh time=6m 9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Weißandt-Gölzau (Gleis 2) - Arensdorf (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.70957/12.00780/standard&amp;lonlats=12.028594,51.670269;12.007568,51.709439&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.670267" lon="12.028589"><ele>87.25</ele></trkpt>
+   <trkpt lat="51.670274" lon="12.028585"><ele>87.5</ele></trkpt>
+   <trkpt lat="51.671376" lon="12.027791"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.674072" lon="12.025876"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.682322" lon="12.020045"><ele>88</ele></trkpt>
+   <trkpt lat="51.682386" lon="12.02"><ele>88</ele></trkpt>
+   <trkpt lat="51.683546" lon="12.019179"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.684087" lon="12.018809"><ele>88</ele></trkpt>
+   <trkpt lat="51.68462" lon="12.018465"><ele>88</ele></trkpt>
+   <trkpt lat="51.684881" lon="12.01831"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.685136" lon="12.018165"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.68567" lon="12.017881"><ele>87.75</ele></trkpt>
+   <trkpt lat="51.687702" lon="12.01689"><ele>87</ele></trkpt>
+   <trkpt lat="51.691482" lon="12.015059"><ele>86</ele></trkpt>
+   <trkpt lat="51.69178" lon="12.014917"><ele>85.75</ele></trkpt>
+   <trkpt lat="51.692386" lon="12.014649"><ele>85</ele></trkpt>
+   <trkpt lat="51.693002" lon="12.014405"><ele>85.5</ele></trkpt>
+   <trkpt lat="51.694625" lon="12.013805"><ele>86.25</ele></trkpt>
+   <trkpt lat="51.694836" lon="12.013735"><ele>86</ele></trkpt>
+   <trkpt lat="51.696939" lon="12.012952"><ele>87</ele></trkpt>
+   <trkpt lat="51.698144" lon="12.012488"><ele>86</ele></trkpt>
+   <trkpt lat="51.700009" lon="12.011682"><ele>88</ele></trkpt>
+   <trkpt lat="51.708486" lon="12.007985"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.708918" lon="12.007798"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.709056" lon="12.007736"><ele>88.25</ele></trkpt>
+   <trkpt lat="51.709439" lon="12.007569"><ele>87.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
