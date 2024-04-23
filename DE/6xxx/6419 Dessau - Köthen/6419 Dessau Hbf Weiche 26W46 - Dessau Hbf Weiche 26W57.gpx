@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 222 filtered ascend = 1 plain-ascend = 2 cost=222 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6419 Dessau Hbf Weiche 26W46 - Dessau Hbf Weiche 26W57</name>
+  <link href="https://bikerouter.de/#map=19/51.83768/12.23342/standard&amp;lonlats=12.233228,51.837617;12.231922,51.8358&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.837616" lon="12.233227"><ele>59.25</ele></trkpt>
+   <trkpt lat="51.837321" lon="12.233055"><ele>59.5</ele></trkpt>
+   <trkpt lat="51.836854" lon="12.232756"><ele>60.25</ele></trkpt>
+   <trkpt lat="51.836293" lon="12.232389"><ele>61</ele></trkpt>
+   <trkpt lat="51.836118" lon="12.232251"><ele>61</ele></trkpt>
+   <trkpt lat="51.83593" lon="12.232067"><ele>61</ele></trkpt>
+   <trkpt lat="51.835802" lon="12.231925"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.835799" lon="12.231921"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

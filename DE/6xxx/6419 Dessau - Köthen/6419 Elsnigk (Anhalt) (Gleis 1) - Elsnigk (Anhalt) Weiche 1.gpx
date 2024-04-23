@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 752 filtered ascend = 0 plain-ascend = 0 cost=752 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6419 Elsnigk (Anhalt) (Gleis 1) - Elsnigk (Anhalt) Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/51.79351/12.07043/standard&amp;lonlats=12.059834,51.791086;12.069887,51.79368&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.79109" lon="12.05983"><ele>73</ele></trkpt>
+   <trkpt lat="51.792193" lon="12.064154"><ele>72.25</ele></trkpt>
+   <trkpt lat="51.793027" lon="12.06738"><ele>72.25</ele></trkpt>
+   <trkpt lat="51.793339" lon="12.068583"><ele>72</ele></trkpt>
+   <trkpt lat="51.793653" lon="12.069801"><ele>72</ele></trkpt>
+   <trkpt lat="51.793674" lon="12.069883"><ele>72</ele></trkpt>
+   <trkpt lat="51.793675" lon="12.069888"><ele>71.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
