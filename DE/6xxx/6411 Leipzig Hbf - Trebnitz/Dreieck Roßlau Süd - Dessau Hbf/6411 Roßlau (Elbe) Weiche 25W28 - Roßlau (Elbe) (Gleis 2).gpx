@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 202 filtered ascend = 0 plain-ascend = -1 cost=202 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6411 Roßlau (Elbe) Weiche 25W28 - Roßlau (Elbe) (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.88372/12.23721/standard&amp;lonlats=12.237305,51.885639;12.236994,51.883838&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.885637" lon="12.237308"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.885635" lon="12.237308"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.885437" lon="12.237276"><ele>70.25</ele></trkpt>
+   <trkpt lat="51.885237" lon="12.237239"><ele>70</ele></trkpt>
+   <trkpt lat="51.884862" lon="12.237173"><ele>69.5</ele></trkpt>
+   <trkpt lat="51.884594" lon="12.237127"><ele>69.75</ele></trkpt>
+   <trkpt lat="51.883952" lon="12.237016"><ele>69.5</ele></trkpt>
+   <trkpt lat="51.883836" lon="12.236996"><ele>68.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 1 cost=28 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6411 Industriehafen Rosslau Weiche B4a - Industriehafen Rosslau Weiche B4b</name>
+  <link href="https://bikerouter.de/#map=19/51.87963/12.21928/standard&amp;lonlats=12.218159,51.879564;12.218551,51.879602&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.879564" lon="12.218157"><ele>57.5</ele></trkpt>
+   <trkpt lat="51.879565" lon="12.218165"><ele>57.75</ele></trkpt>
+   <trkpt lat="51.87959" lon="12.218387"><ele>58</ele></trkpt>
+   <trkpt lat="51.879599" lon="12.21855"><ele>58</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
