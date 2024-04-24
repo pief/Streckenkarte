@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 230 filtered ascend = 0 plain-ascend = -1 cost=460 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Tellplatz (Steig C) - Heiliggeistkirche (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/47.54187/7.59775/standard&amp;lonlats=7.594849,47.542695;7.597647,47.541884&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.542691" lon="7.594846"><ele>283.75</ele></trkpt>
+   <trkpt lat="47.54269" lon="7.594853"><ele>283.75</ele></trkpt>
+   <trkpt lat="47.542664" lon="7.594948"><ele>283.75</ele></trkpt>
+   <trkpt lat="47.542558" lon="7.595354"><ele>283.5</ele></trkpt>
+   <trkpt lat="47.542435" lon="7.595773"><ele>283</ele></trkpt>
+   <trkpt lat="47.542149" lon="7.596747"><ele>281.75</ele></trkpt>
+   <trkpt lat="47.54188" lon="7.597644"><ele>282</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 231 filtered ascend = 2 plain-ascend = 2 cost=462 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Solothurnerstrasse (Steig Südwest) - Tellplatz (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/47.54291/7.59450/standard&amp;lonlats=7.591193,47.544063;7.593827,47.543034&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.544066" lon="7.591196"><ele>280.5</ele></trkpt>
+   <trkpt lat="47.544028" lon="7.591294"><ele>280.75</ele></trkpt>
+   <trkpt lat="47.543976" lon="7.591428"><ele>281</ele></trkpt>
+   <trkpt lat="47.54352" lon="7.592605"><ele>281</ele></trkpt>
+   <trkpt lat="47.543489" lon="7.592682"><ele>281</ele></trkpt>
+   <trkpt lat="47.543035" lon="7.593826"><ele>282.25</ele></trkpt>
+   <trkpt lat="47.543034" lon="7.593827"><ele>282.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

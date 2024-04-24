@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 39 filtered ascend = 0 plain-ascend = -1 cost=80 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Peter Merian Weiche Ost - Dreieck Münchensteinerstrasse Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/47.54382/7.59964/standard&amp;lonlats=7.598921,47.543296;7.599079,47.543623&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.543295" lon="7.598921"><ele>284.75</ele></trkpt>
+   <trkpt lat="47.543323" lon="7.598942"><ele>284.75</ele></trkpt>
+   <trkpt lat="47.54339" lon="7.598987"><ele>284</ele></trkpt>
+   <trkpt lat="47.54343" lon="7.599009"><ele>283.75</ele></trkpt>
+   <trkpt lat="47.543486" lon="7.599038"><ele>283.25</ele></trkpt>
+   <trkpt lat="47.543523" lon="7.599052"><ele>283</ele></trkpt>
+   <trkpt lat="47.543537" lon="7.599056"/>
+   <trkpt lat="47.543622" lon="7.599081"/>
+  </trkseg>
+ </trk>
+</gpx>

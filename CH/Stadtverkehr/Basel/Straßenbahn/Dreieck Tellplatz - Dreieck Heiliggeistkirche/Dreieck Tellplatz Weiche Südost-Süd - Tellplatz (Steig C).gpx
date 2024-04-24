@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 0 cost=60 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Tellplatz Weiche Südost-Süd - Tellplatz (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/47.54255/7.59578/standard&amp;lonlats=7.594484,47.542796;7.594849,47.542695&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.542797" lon="7.594484"><ele>283.75</ele></trkpt>
+   <trkpt lat="47.542691" lon="7.594846"><ele>283.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

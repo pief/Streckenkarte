@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 355 filtered ascend = 2 plain-ascend = 3 cost=710 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Denkmal (Steig Nordost) - Kreuz Aeschenplatz Weiche Südost-nach-Nordost-Südost</name>
+  <link href="https://bikerouter.de/#map=19/47.55129/7.59574/standard&amp;lonlats=7.597888,47.548371;7.59537,47.551074&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.548371" lon="7.597888"><ele>274.5</ele></trkpt>
+   <trkpt lat="47.548455" lon="7.597813"><ele>274.5</ele></trkpt>
+   <trkpt lat="47.54903" lon="7.597292"><ele>274.25</ele></trkpt>
+   <trkpt lat="47.550021" lon="7.596392"><ele>275</ele></trkpt>
+   <trkpt lat="47.550118" lon="7.596309"><ele>275.25</ele></trkpt>
+   <trkpt lat="47.55022" lon="7.596213"><ele>275.75</ele></trkpt>
+   <trkpt lat="47.550924" lon="7.595572"><ele>277.25</ele></trkpt>
+   <trkpt lat="47.550973" lon="7.59552"><ele>277</ele></trkpt>
+   <trkpt lat="47.551039" lon="7.595424"><ele>277</ele></trkpt>
+   <trkpt lat="47.551074" lon="7.59537"><ele>277</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
