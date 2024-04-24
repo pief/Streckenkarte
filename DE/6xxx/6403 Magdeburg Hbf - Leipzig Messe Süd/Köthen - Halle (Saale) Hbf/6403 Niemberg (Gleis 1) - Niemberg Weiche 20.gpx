@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 202 filtered ascend = 0 plain-ascend = -3 cost=202 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Niemberg (Gleis 1) - Niemberg Weiche 20</name>
+  <link href="https://bikerouter.de/#map=19/51.54956/12.09914/standard&amp;lonlats=12.099128,51.551072;12.098018,51.549399&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.551071" lon="12.099127"><ele>97</ele></trkpt>
+   <trkpt lat="51.551013" lon="12.099088"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.550005" lon="12.09842"><ele>96</ele></trkpt>
+   <trkpt lat="51.5494" lon="12.09802"><ele>94.25</ele></trkpt>
+   <trkpt lat="51.549398" lon="12.098018"><ele>93.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
