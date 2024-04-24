@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 690 filtered ascend = 2 plain-ascend = 2 cost=690 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6421 Köthen Süd Weiche 411 - Köthen Süd Weiche 500</name>
+  <link href="https://bikerouter.de/#map=19/51.72672/12.00013/standard&amp;lonlats=11.996984,51.73259;11.999683,51.726618&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.73259" lon="11.996985"><ele>84.75</ele></trkpt>
+   <trkpt lat="51.727285" lon="11.999295"><ele>87</ele></trkpt>
+   <trkpt lat="51.727073" lon="11.999404"><ele>87</ele></trkpt>
+   <trkpt lat="51.726625" lon="11.999682"><ele>87</ele></trkpt>
+   <trkpt lat="51.726618" lon="11.999686"><ele>87</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
