@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3103 filtered ascend = 0 plain-ascend = -8 cost=3103 energy=0.0kwh time=4m 8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6420 Frenz (Gleis 1) - Biendorf (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.75691/11.85641/standard&amp;lonlats=11.899268,51.749164;11.856115,51.756966&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.749167" lon="11.899269"><ele>78</ele></trkpt>
+   <trkpt lat="51.749219" lon="11.898986"><ele>78</ele></trkpt>
+   <trkpt lat="51.749282" lon="11.898631"><ele>78</ele></trkpt>
+   <trkpt lat="51.749813" lon="11.895698"><ele>78</ele></trkpt>
+   <trkpt lat="51.752958" lon="11.878304"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.753631" lon="11.874582"><ele>77</ele></trkpt>
+   <trkpt lat="51.754514" lon="11.86972"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.755363" lon="11.865019"><ele>74.25</ele></trkpt>
+   <trkpt lat="51.756271" lon="11.859998"><ele>72.25</ele></trkpt>
+   <trkpt lat="51.756783" lon="11.857178"><ele>70.75</ele></trkpt>
+   <trkpt lat="51.756938" lon="11.856326"><ele>70.5</ele></trkpt>
+   <trkpt lat="51.75697" lon="11.856116"><ele>69.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
