@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 154 filtered ascend = 0 plain-ascend = -1 cost=154 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6344 Halle (Saale) Hbf (Gleis 11) - Halle (Saale) Hbf Weiche 96W325</name>
+  <link href="https://bikerouter.de/#map=19/51.47897/11.98705/standard&amp;lonlats=11.987996,51.477773;11.986913,51.478978&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.47777" lon="11.987988"><ele>110</ele></trkpt>
+   <trkpt lat="51.477913" lon="11.987859"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.478502" lon="11.987318"><ele>108</ele></trkpt>
+   <trkpt lat="51.478594" lon="11.987234"><ele>108</ele></trkpt>
+   <trkpt lat="51.478652" lon="11.987181"><ele>108</ele></trkpt>
+   <trkpt lat="51.478746" lon="11.9871"><ele>108</ele></trkpt>
+   <trkpt lat="51.478954" lon="11.986935"><ele>108</ele></trkpt>
+   <trkpt lat="51.478979" lon="11.986916"><ele>108</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
