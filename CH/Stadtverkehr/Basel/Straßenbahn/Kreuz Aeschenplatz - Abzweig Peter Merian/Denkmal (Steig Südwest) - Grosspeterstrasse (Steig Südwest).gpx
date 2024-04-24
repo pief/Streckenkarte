@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 3 plain-ascend = 1 cost=576 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Denkmal (Steig Südwest) - Grosspeterstrasse (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.54543/7.59919/standard&amp;lonlats=7.598154,47.54801;7.59873,47.545499&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.548009" lon="7.59815"><ele>275</ele></trkpt>
+   <trkpt lat="47.547952" lon="7.598181"><ele>275.25</ele></trkpt>
+   <trkpt lat="47.547848" lon="7.598214"><ele>275.5</ele></trkpt>
+   <trkpt lat="47.547685" lon="7.598223"><ele>276.25</ele></trkpt>
+   <trkpt lat="47.547032" lon="7.59814"><ele>278</ele></trkpt>
+   <trkpt lat="47.546898" lon="7.598139"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.546821" lon="7.598148"><ele>278.5</ele></trkpt>
+   <trkpt lat="47.546694" lon="7.598181"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.546304" lon="7.598345"><ele>277.25</ele></trkpt>
+   <trkpt lat="47.545924" lon="7.598537"><ele>276.25</ele></trkpt>
+   <trkpt lat="47.545505" lon="7.598732"><ele>276.25</ele></trkpt>
+   <trkpt lat="47.545499" lon="7.598734"><ele>276.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

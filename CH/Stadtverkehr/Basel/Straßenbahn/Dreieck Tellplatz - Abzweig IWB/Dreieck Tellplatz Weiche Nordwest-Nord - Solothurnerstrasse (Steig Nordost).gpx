@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 278 filtered ascend = 0 plain-ascend = -1 cost=556 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Tellplatz Weiche Nordwest-Nord - Solothurnerstrasse (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.54406/7.59123/standard&amp;lonlats=7.593975,47.543015;7.590775,47.544274&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.543014" lon="7.593974"><ele>282.5</ele></trkpt>
+   <trkpt lat="47.543021" lon="7.593962"><ele>282.5</ele></trkpt>
+   <trkpt lat="47.54324" lon="7.593393"><ele>281</ele></trkpt>
+   <trkpt lat="47.543509" lon="7.592698"><ele>281</ele></trkpt>
+   <trkpt lat="47.543538" lon="7.592621"><ele>281</ele></trkpt>
+   <trkpt lat="47.543997" lon="7.591446"><ele>281</ele></trkpt>
+   <trkpt lat="47.544054" lon="7.591315"><ele>280.75</ele></trkpt>
+   <trkpt lat="47.544273" lon="7.590774"><ele>280.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Dreieck Tellplatz Weiche Südost-Nord - Dreieck Tellplatz Weiche Nordwest-Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.54279/7.59426/standard&amp;lonlats=7.59449,47.542838;7.593975,47.543015&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.542837" lon="7.594489"><ele>283.5</ele></trkpt>
+   <trkpt lat="47.542849" lon="7.59445"><ele>283.5</ele></trkpt>
+   <trkpt lat="47.542909" lon="7.594264"><ele>283.5</ele></trkpt>
+   <trkpt lat="47.543013" lon="7.593978"><ele>282.75</ele></trkpt>
+   <trkpt lat="47.543014" lon="7.593974"><ele>282.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

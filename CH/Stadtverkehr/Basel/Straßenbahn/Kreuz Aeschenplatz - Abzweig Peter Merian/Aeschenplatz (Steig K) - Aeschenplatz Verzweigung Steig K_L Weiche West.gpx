@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 1 plain-ascend = 1 cost=68 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Aeschenplatz (Steig K) - Aeschenplatz Verzweigung Steig K/L Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/47.55126/7.59602/standard&amp;lonlats=7.595611,47.551477;7.595337,47.55126&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551479" lon="7.595608"><ele>275</ele></trkpt>
+   <trkpt lat="47.551469" lon="7.595553"><ele>275</ele></trkpt>
+   <trkpt lat="47.551459" lon="7.595513"><ele>275</ele></trkpt>
+   <trkpt lat="47.551427" lon="7.595443"><ele>275.25</ele></trkpt>
+   <trkpt lat="47.551379" lon="7.595388"><ele>275.75</ele></trkpt>
+   <trkpt lat="47.551309" lon="7.595353"><ele>276</ele></trkpt>
+   <trkpt lat="47.551262" lon="7.595343"><ele>276.25</ele></trkpt>
+   <trkpt lat="47.551258" lon="7.595342"><ele>276.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
