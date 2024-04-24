@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 8 plain-ascend = 9 cost=508 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Abzweig Heuwaage/Markthalle Weiche Nord - Kreuz Markthalle Weiche Nordost-nach-West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.54900/7.58681/standard&amp;lonlats=7.587585,47.551125;7.586143,47.54914&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551125" lon="7.587584"><ele>273</ele></trkpt>
+   <trkpt lat="47.551103" lon="7.587518"><ele>273</ele></trkpt>
+   <trkpt lat="47.551079" lon="7.587443"><ele>272.75</ele></trkpt>
+   <trkpt lat="47.55107" lon="7.587415"><ele>272.75</ele></trkpt>
+   <trkpt lat="47.551067" lon="7.587405"><ele>272.75</ele></trkpt>
+   <trkpt lat="47.551018" lon="7.587268"><ele>272.5</ele></trkpt>
+   <trkpt lat="47.550994" lon="7.587216"><ele>272.5</ele></trkpt>
+   <trkpt lat="47.550931" lon="7.587136"><ele>272.25</ele></trkpt>
+   <trkpt lat="47.55091" lon="7.587116"><ele>272.25</ele></trkpt>
+   <trkpt lat="47.550885" lon="7.587096"><ele>272.25</ele></trkpt>
+   <trkpt lat="47.550819" lon="7.587055"><ele>272.25</ele></trkpt>
+   <trkpt lat="47.550714" lon="7.586998"><ele>272.75</ele></trkpt>
+   <trkpt lat="47.549139" lon="7.586142"><ele>281.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
