@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1265 filtered ascend = 7 plain-ascend = 6 cost=1265 energy=0.0kwh time=1m 41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Zöberitz (Gleis 1) - Halle (Saale)-Diemitz Weiche 95W001</name>
+  <link href="https://bikerouter.de/#map=16/51.4994/12.0202/standard&amp;lonlats=12.033125,51.504425;12.016954,51.499206&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.504425" lon="12.033123"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.50417" lon="12.032422"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.503862" lon="12.031519"><ele>101</ele></trkpt>
+   <trkpt lat="51.503152" lon="12.029305"><ele>103</ele></trkpt>
+   <trkpt lat="51.502405" lon="12.026965"><ele>104.25</ele></trkpt>
+   <trkpt lat="51.501456" lon="12.023988"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.500731" lon="12.02172"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.500286" lon="12.020325"><ele>107</ele></trkpt>
+   <trkpt lat="51.500285" lon="12.020322"><ele>107</ele></trkpt>
+   <trkpt lat="51.499848" lon="12.018955"><ele>107</ele></trkpt>
+   <trkpt lat="51.499223" lon="12.017002"><ele>107</ele></trkpt>
+   <trkpt lat="51.499208" lon="12.016952"><ele>107</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

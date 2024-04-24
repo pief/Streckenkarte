@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=20 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Halle (Saale)-Diemitz Weiche 95W003 - Halle (Saale)-Diemitz Weiche 95W002</name>
+  <link href="https://bikerouter.de/#map=19/51.49859/12.01531/standard&amp;lonlats=12.015306,51.498642;12.015559,51.498725&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.498642" lon="12.015306"><ele>108</ele></trkpt>
+   <trkpt lat="51.498723" lon="12.015558"><ele>108</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

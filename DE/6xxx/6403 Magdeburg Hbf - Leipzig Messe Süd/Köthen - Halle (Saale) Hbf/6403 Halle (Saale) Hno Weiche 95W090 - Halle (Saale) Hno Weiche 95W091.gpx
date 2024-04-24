@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 1 cost=66 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Halle (Saale) Hno Weiche 95W090 - Halle (Saale) Hno Weiche 95W091</name>
+  <link href="https://bikerouter.de/#map=19/51.49249/11.99590/standard&amp;lonlats=11.995618,51.492899;11.994908,51.49252&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.492899" lon="11.995618"><ele>110</ele></trkpt>
+   <trkpt lat="51.492518" lon="11.994909"><ele>110.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

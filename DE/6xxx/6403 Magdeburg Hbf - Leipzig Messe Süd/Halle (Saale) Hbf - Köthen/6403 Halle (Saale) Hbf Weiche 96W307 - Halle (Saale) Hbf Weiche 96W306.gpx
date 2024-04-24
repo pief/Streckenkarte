@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 1 plain-ascend = 1 cost=55 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6403 Halle (Saale) Hbf Weiche 96W307 - Halle (Saale) Hbf Weiche 96W306</name>
+  <link href="https://bikerouter.de/#map=19/51.48087/11.98699/standard&amp;lonlats=11.986242,51.480699;11.986186,51.481184&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.480699" lon="11.986244"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.481179" lon="11.986188"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.481184" lon="11.986187"><ele>109.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
