@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 0 plain-ascend = 0 cost=197 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6419 Dessau Hbf (Gleis 7) - Dessau Hbf Weiche 26W38</name>
+  <link href="https://bikerouter.de/#map=19/51.84129/12.23628/standard&amp;lonlats=12.234302,51.840007;12.235706,51.841521&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.840006" lon="12.234301"><ele>62.25</ele></trkpt>
+   <trkpt lat="51.840058" lon="12.234334"><ele>62.5</ele></trkpt>
+   <trkpt lat="51.840384" lon="12.234569"><ele>62</ele></trkpt>
+   <trkpt lat="51.840629" lon="12.234778"><ele>61.5</ele></trkpt>
+   <trkpt lat="51.840642" lon="12.234789"><ele>61.25</ele></trkpt>
+   <trkpt lat="51.840796" lon="12.234925"><ele>61</ele></trkpt>
+   <trkpt lat="51.840916" lon="12.235043"><ele>61</ele></trkpt>
+   <trkpt lat="51.841094" lon="12.235234"><ele>61</ele></trkpt>
+   <trkpt lat="51.841316" lon="12.23549"><ele>61</ele></trkpt>
+   <trkpt lat="51.841521" lon="12.235706"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

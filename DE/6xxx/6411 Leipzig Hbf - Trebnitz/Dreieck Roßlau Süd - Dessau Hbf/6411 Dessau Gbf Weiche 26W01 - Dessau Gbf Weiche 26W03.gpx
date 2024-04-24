@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=52 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6411 Dessau Gbf Weiche 26W01 - Dessau Gbf Weiche 26W03</name>
+  <link href="https://bikerouter.de/#map=19/51.85204/12.23834/standard&amp;lonlats=12.23783,51.852361;12.237965,51.851911&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.852361" lon="12.23783"><ele>62.75</ele></trkpt>
+   <trkpt lat="51.852358" lon="12.237831"><ele>62.75</ele></trkpt>
+   <trkpt lat="51.852208" lon="12.237877"><ele>62.5</ele></trkpt>
+   <trkpt lat="51.852199" lon="12.23788"><ele>62.5</ele></trkpt>
+   <trkpt lat="51.851911" lon="12.237966"><ele>61.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
