@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 37 filtered ascend = 0 plain-ascend = 1 cost=74 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Aeschenplatz Abzweig Wendeschleife Weiche Nord - Aeschenplatz Abzweig Wendeschleife Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/47.55154/7.59645/standard&amp;lonlats=7.596299,47.551779;7.596308,47.551557&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551779" lon="7.596299"><ele>274.25</ele></trkpt>
+   <trkpt lat="47.551779" lon="7.596305"><ele>274.25</ele></trkpt>
+   <trkpt lat="47.55176" lon="7.596379"><ele>274.5</ele></trkpt>
+   <trkpt lat="47.551729" lon="7.596425"><ele>274.5</ele></trkpt>
+   <trkpt lat="47.551691" lon="7.596447"><ele>274.5</ele></trkpt>
+   <trkpt lat="47.551643" lon="7.596444"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.551611" lon="7.596422"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.551583" lon="7.596385"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.551558" lon="7.596313"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.551556" lon="7.596307"><ele>274.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
