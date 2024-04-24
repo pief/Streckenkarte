@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 131 filtered ascend = 0 plain-ascend = 0 cost=131 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6419 Köthen (Gleis 3) - Köthen Weiche 107</name>
+  <link href="https://bikerouter.de/#map=18/51.75306/11.99005/standard&amp;lonlats=11.989177,51.752287;11.988672,51.753425&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.752287" lon="11.98918"><ele>78.75</ele></trkpt>
+   <trkpt lat="51.752313" lon="11.989169"><ele>78.75</ele></trkpt>
+   <trkpt lat="51.752689" lon="11.989003"><ele>79</ele></trkpt>
+   <trkpt lat="51.752805" lon="11.98895"><ele>79</ele></trkpt>
+   <trkpt lat="51.753287" lon="11.988724"><ele>79</ele></trkpt>
+   <trkpt lat="51.753315" lon="11.988714"><ele>79</ele></trkpt>
+   <trkpt lat="51.753419" lon="11.988675"><ele>78.75</ele></trkpt>
+   <trkpt lat="51.753425" lon="11.988672"><ele>79</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

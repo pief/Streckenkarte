@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 0 plain-ascend = 0 cost=145 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>6421 Köthen Süd Weiche 403 - Köthen Süd Weiche 410</name>
+  <link href="https://bikerouter.de/#map=18/51.73348/11.99783/standard&amp;lonlats=11.996518,51.734336;11.996845,51.733075&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.734336" lon="11.996518"><ele>84</ele></trkpt>
+   <trkpt lat="51.734336" lon="11.996519"><ele>84</ele></trkpt>
+   <trkpt lat="51.734191" lon="11.99657"><ele>84</ele></trkpt>
+   <trkpt lat="51.733658" lon="11.996702"><ele>83.25</ele></trkpt>
+   <trkpt lat="51.733479" lon="11.996749"><ele>83</ele></trkpt>
+   <trkpt lat="51.733408" lon="11.996764"><ele>83</ele></trkpt>
+   <trkpt lat="51.733073" lon="11.996849"><ele>83.5</ele></trkpt>
+   <trkpt lat="51.733075" lon="11.996848"><ele>83.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
