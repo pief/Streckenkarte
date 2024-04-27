@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 0 plain-ascend = 0 cost=82 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.13">
+ <trk>
+  <name>2400 Bochum-Dahlhausen EBM Weiche 339 - Bochum-Dahlhausen Weiche 365</name>
+  <link href="https://bikerouter.de/#map=18/51.43104/7.13050/standard&amp;lonlats=7.129544,51.431549;7.13046,51.431109&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.431549" lon="7.129544"><ele>62.25</ele></trkpt>
+   <trkpt lat="51.431549" lon="7.129545"><ele>62.25</ele></trkpt>
+   <trkpt lat="51.431497" lon="7.12968"><ele>62</ele></trkpt>
+   <trkpt lat="51.431379" lon="7.129954"><ele>62</ele></trkpt>
+   <trkpt lat="51.431345" lon="7.130025"><ele>61.75</ele></trkpt>
+   <trkpt lat="51.431304" lon="7.130112"><ele>61.75</ele></trkpt>
+   <trkpt lat="51.431184" lon="7.130327"><ele>61.5</ele></trkpt>
+   <trkpt lat="51.431104" lon="7.130454"><ele>61.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
