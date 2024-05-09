@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 191 filtered ascend = 0 plain-ascend = 1 cost=191 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>9150 Heiligenrode Weiche 2 - Heiligenrode Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/52.98362/8.70050/standard&amp;lonlats=8.700295,52.983642;8.699418,52.982016">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.98364" lon="8.700298"><ele>13.25</ele></trkpt>
+   <trkpt lat="52.983635" lon="8.700295"><ele>13.25</ele></trkpt>
+   <trkpt lat="52.982017" lon="8.699419"><ele>13.25</ele></trkpt>
+   <trkpt lat="52.982015" lon="8.699417"><ele>13.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

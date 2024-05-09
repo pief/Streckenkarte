@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 342 filtered ascend = 0 plain-ascend = -1 cost=342 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>9150 Harpstedt Weiche 1 - Harpstedt Weiche 9</name>
+  <link href="https://bikerouter.de/#map=19/52.91323/8.60621/standard&amp;lonlats=8.605715,52.913277;8.601708,52.911406">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.913275" lon="8.605715"><ele>44</ele></trkpt>
+   <trkpt lat="52.913274" lon="8.605711"><ele>44</ele></trkpt>
+   <trkpt lat="52.913184" lon="8.605454"><ele>44</ele></trkpt>
+   <trkpt lat="52.912748" lon="8.604368"><ele>44</ele></trkpt>
+   <trkpt lat="52.912554" lon="8.603948"><ele>43.25</ele></trkpt>
+   <trkpt lat="52.912493" lon="8.603831"><ele>43</ele></trkpt>
+   <trkpt lat="52.911959" lon="8.602801"><ele>42.75</ele></trkpt>
+   <trkpt lat="52.911483" lon="8.601886"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.911406" lon="8.601713"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.911404" lon="8.601708"><ele>42</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

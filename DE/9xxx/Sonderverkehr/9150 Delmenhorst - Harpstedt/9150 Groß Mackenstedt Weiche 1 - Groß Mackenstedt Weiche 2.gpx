@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 250 filtered ascend = 2 plain-ascend = 0 cost=250 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>9150 Groß Mackenstedt Weiche 1 - Groß Mackenstedt Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/53.00004/8.70300/standard&amp;lonlats=8.702679,52.999946;8.702838,52.999601;8.703575,52.997777">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.999946" lon="8.702681"><ele>12</ele></trkpt>
+   <trkpt lat="52.999945" lon="8.702682"><ele>12</ele></trkpt>
+   <trkpt lat="52.999657" lon="8.702814"><ele>12</ele></trkpt>
+   <trkpt lat="52.999601" lon="8.702839"><ele>12</ele></trkpt>
+   <trkpt lat="52.999435" lon="8.702917"><ele>12</ele></trkpt>
+   <trkpt lat="52.998938" lon="8.703122"><ele>12.5</ele></trkpt>
+   <trkpt lat="52.998451" lon="8.703314"><ele>14.5</ele></trkpt>
+   <trkpt lat="52.998309" lon="8.703368"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.998286" lon="8.703377"><ele>14.75</ele></trkpt>
+   <trkpt lat="52.997783" lon="8.703577"><ele>13</ele></trkpt>
+   <trkpt lat="52.997777" lon="8.703579"><ele>12.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
