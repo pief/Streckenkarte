@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1182 filtered ascend = 0 plain-ascend = -1 cost=2364 energy=0.0kwh time=1m 35s -->
+<!-- track-length = 1183 filtered ascend = 0 plain-ascend = -1 cost=2366 energy=0.0kwh time=1m 35s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.12">
+ creator="bikerouter.de 2024.15">
  <trk>
   <name>Heinrich-Pesch-Haus (Steig Nord) - Wollstraße (Steig Nordost)</name>
-  <link href="https://bikerouter.de/#map=16/49.4847/8.3971/standard&amp;lonlats=8.413036,49.483609;8.397618,49.485472&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=17/49.48350/8.40557/standard&amp;lonlats=8.413035,49.483607;8.397622,49.485474&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.483607" lon="8.413035"><ele>91.75</ele></trkpt>
+   <trkpt lat="49.483607" lon="8.413033"><ele>91.75</ele></trkpt>
    <trkpt lat="49.483601" lon="8.412952"><ele>92</ele></trkpt>
    <trkpt lat="49.483568" lon="8.412589"><ele>92.5</ele></trkpt>
    <trkpt lat="49.483542" lon="8.412314"><ele>92.25</ele></trkpt>
-   <trkpt lat="49.48353" lon="8.412115"><ele>91.75</ele></trkpt>
-   <trkpt lat="49.483517" lon="8.41188"><ele>91.25</ele></trkpt>
-   <trkpt lat="49.483508" lon="8.411532"><ele>90.75</ele></trkpt>
-   <trkpt lat="49.483478" lon="8.411054"><ele>91.25</ele></trkpt>
-   <trkpt lat="49.483448" lon="8.410512"><ele>90.75</ele></trkpt>
-   <trkpt lat="49.483426" lon="8.40986"><ele>90</ele></trkpt>
-   <trkpt lat="49.483419" lon="8.409215"><ele>90</ele></trkpt>
-   <trkpt lat="49.483423" lon="8.407745"><ele>90.5</ele></trkpt>
+   <trkpt lat="49.483499" lon="8.41179"><ele>91</ele></trkpt>
+   <trkpt lat="49.483442" lon="8.410964"><ele>91.25</ele></trkpt>
+   <trkpt lat="49.483409" lon="8.410202"><ele>90.25</ele></trkpt>
+   <trkpt lat="49.483399" lon="8.409682"><ele>90</ele></trkpt>
+   <trkpt lat="49.483399" lon="8.409012"><ele>90</ele></trkpt>
+   <trkpt lat="49.483416" lon="8.40774"><ele>90.5</ele></trkpt>
    <trkpt lat="49.483434" lon="8.406984"><ele>90.25</ele></trkpt>
    <trkpt lat="49.483451" lon="8.406236"><ele>90.5</ele></trkpt>
    <trkpt lat="49.483505" lon="8.404178"><ele>91.75</ele></trkpt>
