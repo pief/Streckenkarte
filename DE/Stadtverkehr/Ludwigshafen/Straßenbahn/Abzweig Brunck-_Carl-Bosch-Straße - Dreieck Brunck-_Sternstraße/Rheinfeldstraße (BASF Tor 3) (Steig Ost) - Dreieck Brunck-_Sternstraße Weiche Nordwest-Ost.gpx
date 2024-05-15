@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 203 filtered ascend = 0 plain-ascend = 0 cost=406 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>Rheinfeldstraße (BASF Tor 3) (Steig Ost) - Dreieck Brunck-/Sternstraße Weiche Nordwest-Ost</name>
+  <link href="https://bikerouter.de/#map=19/49.50045/8.42456/standard&amp;lonlats=8.424909,49.499429;8.423247,49.500892&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.499429" lon="8.424909"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.499632" lon="8.42475"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.499819" lon="8.4246"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.500009" lon="8.424412"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.500179" lon="8.424208"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.500678" lon="8.423556"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.500732" lon="8.423483"><ele>95</ele></trkpt>
+   <trkpt lat="49.500887" lon="8.423253"><ele>95</ele></trkpt>
+   <trkpt lat="49.500891" lon="8.423245"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

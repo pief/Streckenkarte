@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 1 plain-ascend = 2 cost=300 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>Dreieck Brunck-/Sternstraße Weiche Nordwest-Ost - Friesenheim Ost (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.50124/8.42231/standard&amp;lonlats=8.423247,49.500892;8.421439,49.501509&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.500891" lon="8.423245"><ele>95</ele></trkpt>
+   <trkpt lat="49.500947" lon="8.423145"><ele>95</ele></trkpt>
+   <trkpt lat="49.501047" lon="8.422932"><ele>95</ele></trkpt>
+   <trkpt lat="49.501128" lon="8.422735"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.501249" lon="8.422379"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.501358" lon="8.42202"><ele>95</ele></trkpt>
+   <trkpt lat="49.501503" lon="8.421439"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.501503" lon="8.421436"><ele>96.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

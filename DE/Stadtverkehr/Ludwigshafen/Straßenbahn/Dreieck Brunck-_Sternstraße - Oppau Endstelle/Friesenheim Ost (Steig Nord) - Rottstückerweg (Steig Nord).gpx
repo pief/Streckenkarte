@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 444 filtered ascend = 1 plain-ascend = -3 cost=888 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>Friesenheim Ost (Steig Nord) - Rottstückerweg (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.50289/8.41642/standard&amp;lonlats=8.421439,49.501509;8.415688,49.502862&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.501503" lon="8.421436"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.501594" lon="8.421057"><ele>96.5</ele></trkpt>
+   <trkpt lat="49.501623" lon="8.420933"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.501648" lon="8.420822"><ele>97</ele></trkpt>
+   <trkpt lat="49.502381" lon="8.417697"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.502603" lon="8.416806"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.502691" lon="8.416413"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.502727" lon="8.416268"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.50286" lon="8.415688"><ele>94.25</ele></trkpt>
+   <trkpt lat="49.50286" lon="8.415687"><ele>92</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
