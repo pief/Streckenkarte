@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 152 filtered ascend = 0 plain-ascend = 2 cost=306 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>Ebertstraße Weiche Nord - (Südöstliches Gleis) - Ebertstraße Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.49113/8.41988/standard&amp;lonlats=8.419824,49.491493;8.418475,49.490697;8.418269,49.490589&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.491494" lon="8.419822"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.491143" lon="8.419233"><ele>92.5</ele></trkpt>
+   <trkpt lat="49.4907" lon="8.418469"><ele>94</ele></trkpt>
+   <trkpt lat="49.490589" lon="8.418278"><ele>94</ele></trkpt>
+   <trkpt lat="49.490586" lon="8.418272"><ele>94</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
