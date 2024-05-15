@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 423 filtered ascend = 4 plain-ascend = 4 cost=846 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>Hauptfriedhof Ludwigshafen (Steig Süd) - Rohrlachstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/49.48333/8.42654/standard&amp;lonlats=8.424035,49.483919;8.429699,49.483097&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.483924" lon="8.424036"><ele>95</ele></trkpt>
+   <trkpt lat="49.483851" lon="8.424655"><ele>96</ele></trkpt>
+   <trkpt lat="49.483659" lon="8.426048"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.483535" lon="8.426964"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.483504" lon="8.427192"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.483442" lon="8.427664"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.483374" lon="8.428115"><ele>97</ele></trkpt>
+   <trkpt lat="49.483341" lon="8.428285"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.483279" lon="8.428509"><ele>98</ele></trkpt>
+   <trkpt lat="49.483242" lon="8.428673"><ele>98.25</ele></trkpt>
+   <trkpt lat="49.483097" lon="8.429699"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
