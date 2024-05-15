@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 308 filtered ascend = 3 plain-ascend = 3 cost=616 energy=0.0kwh time=25s -->
+<!-- track-length = 257 filtered ascend = 3 plain-ascend = 3 cost=514 energy=0.0kwh time=21s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.12">
+ creator="bikerouter.de 2024.15">
  <trk>
-  <name>Dreieck Friesenheim Mitte Weiche Südost-Ost - Hagellochstraße (Steig Nord)</name>
-  <link href="https://bikerouter.de/#map=19/49.49852/8.41699/standard&amp;lonlats=8.419277,49.497917;8.415699,49.499213&amp;profile=rail">
+  <name>Dreieck Friesenheim Mitte Weiche Nordwest-Nord - Hagellochstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/49.49845/8.41759/standard&amp;lonlats=8.41871,49.498159;8.415697,49.499215&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.497916" lon="8.419276"><ele>93.5</ele></trkpt>
-   <trkpt lat="49.497919" lon="8.419271"><ele>93.5</ele></trkpt>
-   <trkpt lat="49.498006" lon="8.419063"><ele>93.25</ele></trkpt>
-   <trkpt lat="49.498042" lon="8.418975"><ele>93.25</ele></trkpt>
-   <trkpt lat="49.498099" lon="8.418842"><ele>93.5</ele></trkpt>
-   <trkpt lat="49.498109" lon="8.418819"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.498159" lon="8.41871"><ele>93.5</ele></trkpt>
    <trkpt lat="49.498562" lon="8.417813"><ele>94.25</ele></trkpt>
    <trkpt lat="49.499007" lon="8.416848"><ele>93.5</ele></trkpt>
    <trkpt lat="49.49914" lon="8.416543"><ele>94.25</ele></trkpt>
@@ -26,7 +21,7 @@
    <trkpt lat="49.499223" lon="8.416237"><ele>95</ele></trkpt>
    <trkpt lat="49.49923" lon="8.415991"><ele>95.5</ele></trkpt>
    <trkpt lat="49.499216" lon="8.415707"><ele>96</ele></trkpt>
-   <trkpt lat="49.499215" lon="8.415697"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.499215" lon="8.415695"><ele>96.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
