@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 1 plain-ascend = 1 cost=26 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>9340 Ellerstadt Ost (Steig Nord) - Gleisdreieck Ellerstadt Ost Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/49.46385/8.26339/standard&amp;lonlats=8.264506,49.464104;8.264152,49.464076&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.464102" lon="8.264505"><ele>102</ele></trkpt>
+   <trkpt lat="49.464099" lon="8.264477"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.464094" lon="8.264418"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.464088" lon="8.264348"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.46407" lon="8.264158"><ele>103</ele></trkpt>
+   <trkpt lat="49.464069" lon="8.264152"><ele>103</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
