@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 0 plain-ascend = 1 cost=52 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Inselwall - Inselwall Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.26777/10.51543/standard&amp;lonlats=10.515037,52.267908;10.514839,52.26809">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.267908" lon="10.515039"><ele>74</ele></trkpt>
+   <trkpt lat="52.26791" lon="10.515039"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.267931" lon="10.515033"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.267954" lon="10.515026"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.267991" lon="10.515006"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.26803" lon="10.51496"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.268038" lon="10.514951"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.268054" lon="10.514923"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.268061" lon="10.514905"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.268087" lon="10.514848"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.26809" lon="10.514839"><ele>74.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
