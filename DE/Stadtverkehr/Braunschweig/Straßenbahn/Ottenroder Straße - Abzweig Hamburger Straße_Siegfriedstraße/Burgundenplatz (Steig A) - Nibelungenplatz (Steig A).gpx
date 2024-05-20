@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 284 filtered ascend = 1 plain-ascend = 0 cost=568 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Burgundenplatz (Steig A) - Nibelungenplatz (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/52.28767/10.52808/standard&amp;lonlats=10.531954,52.287425;10.527866,52.287865">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.287427" lon="10.531954"><ele>75</ele></trkpt>
+   <trkpt lat="52.287445" lon="10.53173"><ele>75</ele></trkpt>
+   <trkpt lat="52.287455" lon="10.531596"><ele>75</ele></trkpt>
+   <trkpt lat="52.28747" lon="10.531329"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.287474" lon="10.531282"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.287518" lon="10.530778"><ele>76</ele></trkpt>
+   <trkpt lat="52.28772" lon="10.529338"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.287742" lon="10.529185"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.287757" lon="10.52908"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.287834" lon="10.528543"><ele>75</ele></trkpt>
+   <trkpt lat="52.287861" lon="10.528176"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.287865" lon="10.527872"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.287865" lon="10.527866"><ele>74</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
