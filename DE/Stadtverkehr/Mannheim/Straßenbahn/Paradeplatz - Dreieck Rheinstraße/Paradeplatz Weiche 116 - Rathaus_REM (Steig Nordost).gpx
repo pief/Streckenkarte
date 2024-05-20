@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 2 plain-ascend = -1 cost=576 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Paradeplatz Weiche 116 - Rathaus/REM (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.48911/8.46253/standard&amp;lonlats=8.46588,49.487906;8.462424,49.489195&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.487907" lon="8.465881"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.48811" lon="8.465352"><ele>105.5</ele></trkpt>
+   <trkpt lat="49.488429" lon="8.46453"><ele>106.5</ele></trkpt>
+   <trkpt lat="49.488752" lon="8.463698"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.488828" lon="8.463496"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.489044" lon="8.462854"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.489057" lon="8.462817"><ele>103.25</ele></trkpt>
+   <trkpt lat="49.489199" lon="8.462427"><ele>102</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
