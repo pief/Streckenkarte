@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 812 filtered ascend = 0 plain-ascend = -1 cost=1624 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Abzweig Allerweg Weiche Ost - Waterloo (Steig Außen Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.36782/9.72975/standard&amp;lonlats=9.722229,52.362409;9.729771,52.367976&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.362408" lon="9.722228"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.362412" lon="9.722233"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.362445" lon="9.722275"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.362504" lon="9.722346"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.362521" lon="9.72237"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.362613" lon="9.72249"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.363023" lon="9.723009"><ele>54</ele></trkpt>
+   <trkpt lat="52.363667" lon="9.723844"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.363723" lon="9.723924"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.364641" lon="9.725117"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.364863" lon="9.725381"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.364968" lon="9.7255"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.365754" lon="9.726288"/>
+   <trkpt lat="52.366279" lon="9.726879"/>
+   <trkpt lat="52.36662" lon="9.727275"/>
+   <trkpt lat="52.366946" lon="9.727745"/>
+   <trkpt lat="52.367213" lon="9.728228"/>
+   <trkpt lat="52.367428" lon="9.728651"/>
+   <trkpt lat="52.367667" lon="9.729139"/>
+   <trkpt lat="52.367968" lon="9.729779"/>
+  </trkseg>
+ </trk>
+</gpx>
