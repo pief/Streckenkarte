@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 0 plain-ascend = -1 cost=278 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Abzweig Deisterstraße Weiche Ost - Schwarzer Bär (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=17/52.36882/9.72297/standard&amp;lonlats=9.719735,52.36764;9.721411,52.368162&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.367638" lon="9.719737"><ele>59</ele></trkpt>
+   <trkpt lat="52.367806" lon="9.719797"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.367853" lon="9.719843"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.367899" lon="9.719915"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.367918" lon="9.719969"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.367936" lon="9.720061"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.367972" lon="9.720375"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.368067" lon="9.720891"><ele>57.25</ele></trkpt>
+   <trkpt lat="52.368166" lon="9.721407"><ele>57.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

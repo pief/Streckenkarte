@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 1 plain-ascend = 1 cost=192 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Schwarzer Bär (Steig Nordwest) - Abzweig Deisterstraße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/52.36759/9.72000/standard&amp;lonlats=9.720761,52.368101;9.719684,52.36767&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.368101" lon="9.720759"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.368017" lon="9.720363"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.367974" lon="9.720043"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.367936" lon="9.719893"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.367873" lon="9.71979"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.367799" lon="9.719728"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.367694" lon="9.719693"><ele>59</ele></trkpt>
+   <trkpt lat="52.367668" lon="9.719685"><ele>59</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
