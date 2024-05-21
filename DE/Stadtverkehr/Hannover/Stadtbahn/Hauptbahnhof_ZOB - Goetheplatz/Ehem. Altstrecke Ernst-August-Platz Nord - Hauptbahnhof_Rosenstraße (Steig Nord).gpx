@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 0 plain-ascend = 0 cost=192 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Ehem. Altstrecke Ernst-August-Platz Nord - Hauptbahnhof/Rosenstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/52.37713/9.73908/standard&amp;lonlats=9.739393,52.376881;9.738087,52.377004&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.376881" lon="9.739393"><ele>59</ele></trkpt>
+   <trkpt lat="52.376883" lon="9.739341"><ele>59</ele></trkpt>
+   <trkpt lat="52.376906" lon="9.739215"><ele>59</ele></trkpt>
+   <trkpt lat="52.377032" lon="9.738944"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.377048" lon="9.738882"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.377062" lon="9.738739"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.377054" lon="9.738633"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.377004" lon="9.738086"><ele>59.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
