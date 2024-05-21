@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 526 filtered ascend = 0 plain-ascend = 1 cost=1052 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Tresckowstraße (Steig Ost) - Mühlenberger Markt (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/52.34032/9.69244/standard&amp;lonlats=9.690587,52.336436;9.692701,52.340708&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.336436" lon="9.690588"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.336565" lon="9.690551"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.336654" lon="9.690526"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.336723" lon="9.690506"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.336872" lon="9.690465"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.337068" lon="9.690418"><ele>71</ele></trkpt>
+   <trkpt lat="52.337296" lon="9.690381"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.337835" lon="9.690354"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.338003" lon="9.690369"><ele>71.75</ele></trkpt>
+   <trkpt lat="52.338029" lon="9.690373"/>
+   <trkpt lat="52.338547" lon="9.690451"/>
+   <trkpt lat="52.3391" lon="9.690782"/>
+   <trkpt lat="52.339523" lon="9.69116"/>
+   <trkpt lat="52.339765" lon="9.691391"/>
+   <trkpt lat="52.340316" lon="9.692067"/>
+   <trkpt lat="52.340701" lon="9.69271"/>
+  </trkseg>
+ </trk>
+</gpx>

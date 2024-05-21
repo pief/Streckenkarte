@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 555 filtered ascend = 2 plain-ascend = 3 cost=1110 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Bartold-Knaust-Straße (Steig Nord) - Am Sauerwinkel (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/52.34150/9.70184/standard&amp;lonlats=9.71006,52.342063;9.702062,52.341416&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.342062" lon="9.710059"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.342062" lon="9.710057"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.342012" lon="9.709662"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.342" lon="9.709562"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.341983" lon="9.709428"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.341978" lon="9.709392"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.341958" lon="9.709231"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.341942" lon="9.709109"><ele>60</ele></trkpt>
+   <trkpt lat="52.341631" lon="9.706782"><ele>61</ele></trkpt>
+   <trkpt lat="52.341392" lon="9.704891"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.341344" lon="9.704452"><ele>61</ele></trkpt>
+   <trkpt lat="52.341335" lon="9.70437"><ele>61</ele></trkpt>
+   <trkpt lat="52.341319" lon="9.704044"><ele>61</ele></trkpt>
+   <trkpt lat="52.341321" lon="9.703724"><ele>61</ele></trkpt>
+   <trkpt lat="52.341342" lon="9.703208"><ele>61</ele></trkpt>
+   <trkpt lat="52.341347" lon="9.703083"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.341359" lon="9.702952"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.341368" lon="9.702822"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.341416" lon="9.702062"><ele>61.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

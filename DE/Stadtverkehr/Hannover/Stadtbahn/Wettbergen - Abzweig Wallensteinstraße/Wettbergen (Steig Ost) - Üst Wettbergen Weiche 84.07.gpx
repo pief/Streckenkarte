@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 1 cost=128 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Wettbergen (Steig Ost) - Üst Wettbergen Weiche 84.07</name>
+  <link href="https://bikerouter.de/#map=19/52.33320/9.69140/standard&amp;lonlats=9.690847,52.333098;9.691004,52.333664&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.333096" lon="9.690848"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.333105" lon="9.690851"><ele>74</ele></trkpt>
+   <trkpt lat="52.333428" lon="9.690954"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.333556" lon="9.690985"><ele>74.25</ele></trkpt>
+   <trkpt lat="52.333612" lon="9.690998"><ele>74.5</ele></trkpt>
+   <trkpt lat="52.333662" lon="9.691008"><ele>74.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 273 filtered ascend = 3 plain-ascend = 4 cost=546 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Tresckowstraße (Steig West) - Üst Wettbergen Weiche 84.05</name>
+  <link href="https://bikerouter.de/#map=18/52.33340/9.69150/standard&amp;lonlats=9.690539,52.336432;9.691044,52.334047&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.336432" lon="9.690539"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.336172" lon="9.690648"><ele>72</ele></trkpt>
+   <trkpt lat="52.336033" lon="9.690714"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.336028" lon="9.690716"><ele>72.25</ele></trkpt>
+   <trkpt lat="52.335967" lon="9.690744"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.335916" lon="9.69077"><ele>72.5</ele></trkpt>
+   <trkpt lat="52.335619" lon="9.690923"><ele>73.5</ele></trkpt>
+   <trkpt lat="52.334978" lon="9.691159"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.334452" lon="9.69115"><ele>75</ele></trkpt>
+   <trkpt lat="52.334097" lon="9.691059"><ele>75</ele></trkpt>
+   <trkpt lat="52.334045" lon="9.691044"><ele>75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
