@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 112 filtered ascend = 0 plain-ascend = -1 cost=224 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Üst Birkenstraße Weiche Nord - Laatzen/Birkenstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.31892/9.78727/standard&amp;lonlats=9.788019,52.318476;9.78694,52.319226">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.318477" lon="9.788021"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.318658" lon="9.787799"><ele>63.25</ele></trkpt>
+   <trkpt lat="52.318735" lon="9.787701"><ele>63</ele></trkpt>
+   <trkpt lat="52.318815" lon="9.787584"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.318923" lon="9.787416"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.319227" lon="9.786942"><ele>62</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

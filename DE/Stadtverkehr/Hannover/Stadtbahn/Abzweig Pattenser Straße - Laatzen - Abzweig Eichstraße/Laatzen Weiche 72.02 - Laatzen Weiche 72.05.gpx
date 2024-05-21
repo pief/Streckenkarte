@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 0 plain-ascend = 1 cost=260 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Laatzen Weiche 72.02 - Laatzen Weiche 72.05</name>
+  <link href="https://bikerouter.de/#map=19/52.30201/9.81752/standard&amp;lonlats=9.816495,52.301777;9.816821,52.302295">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.301777" lon="9.816495"><ele>63</ele></trkpt>
+   <trkpt lat="52.301772" lon="9.816499"><ele>63</ele></trkpt>
+   <trkpt lat="52.301697" lon="9.816574"><ele>63</ele></trkpt>
+   <trkpt lat="52.301651" lon="9.816669"><ele>63</ele></trkpt>
+   <trkpt lat="52.301635" lon="9.816726"><ele>63</ele></trkpt>
+   <trkpt lat="52.301622" lon="9.816839"><ele>63.25</ele></trkpt>
+   <trkpt lat="52.301626" lon="9.816927"><ele>63.25</ele></trkpt>
+   <trkpt lat="52.301646" lon="9.817018"><ele>63.25</ele></trkpt>
+   <trkpt lat="52.30168" lon="9.817101"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.301722" lon="9.817161"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.301762" lon="9.817195"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.30181" lon="9.817217"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.30184" lon="9.817223"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.301891" lon="9.817217"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.301951" lon="9.817185"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.302294" lon="9.816823"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.302295" lon="9.816821"><ele>63.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 88 filtered ascend = 1 plain-ascend = 1 cost=176 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Abzweig Bothmerstraße Weiche 68.04 - Bothmerstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.33283/9.77384/standard&amp;lonlats=9.773656,52.332412;9.773036,52.333104">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.332412" lon="9.773656"><ele>60</ele></trkpt>
+   <trkpt lat="52.332531" lon="9.773552"><ele>60</ele></trkpt>
+   <trkpt lat="52.333053" lon="9.773084"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.333104" lon="9.773037"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
