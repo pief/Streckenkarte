@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 683 filtered ascend = 0 plain-ascend = -1 cost=1366 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Hemmingen/Berliner Straße (Steig West) - Hemmingen (Steig West)</name>
+  <link href="https://bikerouter.de/#map=18/52.31603/9.73108/standard&amp;lonlats=9.725838,52.322051;9.729568,52.316389&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.322052" lon="9.725842"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.320134" lon="9.727324"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.319135" lon="9.728069"><ele>57</ele></trkpt>
+   <trkpt lat="52.318759" lon="9.728332"><ele>57.25</ele></trkpt>
+   <trkpt lat="52.318614" lon="9.728435"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.318515" lon="9.728513"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.318031" lon="9.728794"><ele>57.25</ele></trkpt>
+   <trkpt lat="52.317885" lon="9.728893"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.317727" lon="9.729011"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.317615" lon="9.729093"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.317062" lon="9.729303"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.316809" lon="9.729401"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.316391" lon="9.729563"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.316388" lon="9.729564"><ele>55.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 555 filtered ascend = 2 plain-ascend = 0 cost=1112 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Hemmingen/Saarstraße (Steig West) - Hemmingen/Zentrum (Steig West)</name>
+  <link href="https://bikerouter.de/#map=17/52.32629/9.72423/standard&amp;lonlats=9.720298,52.329726;9.723399,52.32514&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.329726" lon="9.720298"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.328849" lon="9.720631"><ele>57</ele></trkpt>
+   <trkpt lat="52.328742" lon="9.720671"><ele>57</ele></trkpt>
+   <trkpt lat="52.328421" lon="9.720863"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.326941" lon="9.722008"><ele>58.25</ele></trkpt>
+   <trkpt lat="52.326117" lon="9.722634"><ele>57</ele></trkpt>
+   <trkpt lat="52.325144" lon="9.723411"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.325143" lon="9.723411"><ele>55.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 433 filtered ascend = 0 plain-ascend = 0 cost=866 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Stadtfriedhof Ricklingen (Steig Ost) - Unter den Birken (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/52.33767/9.71671/standard&amp;lonlats=9.716862,52.333971;9.717029,52.337865&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.33397" lon="9.716859"><ele>59</ele></trkpt>
+   <trkpt lat="52.333974" lon="9.71686"><ele>59</ele></trkpt>
+   <trkpt lat="52.334461" lon="9.716877"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.335532" lon="9.716915"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.337165" lon="9.717002"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.337266" lon="9.717007"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.337386" lon="9.717012"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.337863" lon="9.717029"><ele>58.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
