@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 551 filtered ascend = 2 plain-ascend = 1 cost=1102 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Bahnhof Linden/Fischerhof (Steig West) - Schünemannplatz (Steig West)</name>
+  <link href="https://bikerouter.de/#map=18/52.34716/9.72459/standard&amp;lonlats=9.722211,52.352276;9.723817,52.34742&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.352275" lon="9.722211"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.35179" lon="9.72239"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.351747" lon="9.722412"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.35147" lon="9.722548"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.349816" lon="9.723119"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.349758" lon="9.723131"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.34964" lon="9.723162"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.349159" lon="9.723283"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.348119" lon="9.723616"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.348036" lon="9.723623"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.347941" lon="9.723646"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.34742" lon="9.723823"><ele>56.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

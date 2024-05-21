@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 552 filtered ascend = 1 plain-ascend = 0 cost=1104 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Schnünemannplatz (Steig Ost) - Bahnhof Linden/Fischerhof (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/52.35222/9.72176/standard&amp;lonlats=9.723914,52.347443;9.722345,52.352296&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.347443" lon="9.723915"><ele>56</ele></trkpt>
+   <trkpt lat="52.34795" lon="9.723741"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.348014" lon="9.723718"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.348047" lon="9.723708"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.349164" lon="9.723349"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.349523" lon="9.723243"><ele>57</ele></trkpt>
+   <trkpt lat="52.349647" lon="9.723209"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.349764" lon="9.723173"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.351478" lon="9.722594"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.351756" lon="9.722522"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.352295" lon="9.722348"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.352296" lon="9.722347"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

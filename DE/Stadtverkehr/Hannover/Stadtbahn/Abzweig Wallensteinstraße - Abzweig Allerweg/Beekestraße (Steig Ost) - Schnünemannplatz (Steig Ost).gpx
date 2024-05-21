@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 442 filtered ascend = 3 plain-ascend = 1 cost=884 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>Beekestraße (Steig Ost) - Schnünemannplatz (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/52.34758/9.72386/standard&amp;lonlats=9.725183,52.343548;9.723914,52.347443&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.343547" lon="9.725179"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.343549" lon="9.725179"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.343892" lon="9.725114"><ele>56</ele></trkpt>
+   <trkpt lat="52.343963" lon="9.725097"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.344203" lon="9.725019"><ele>57</ele></trkpt>
+   <trkpt lat="52.34502" lon="9.724741"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.346369" lon="9.724283"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.346917" lon="9.724093"><ele>56</ele></trkpt>
+   <trkpt lat="52.346957" lon="9.72408"><ele>56</ele></trkpt>
+   <trkpt lat="52.346993" lon="9.724064"><ele>56</ele></trkpt>
+   <trkpt lat="52.347013" lon="9.724055"><ele>56</ele></trkpt>
+   <trkpt lat="52.347118" lon="9.724027"><ele>56</ele></trkpt>
+   <trkpt lat="52.347439" lon="9.723917"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.347443" lon="9.723915"><ele>55.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
