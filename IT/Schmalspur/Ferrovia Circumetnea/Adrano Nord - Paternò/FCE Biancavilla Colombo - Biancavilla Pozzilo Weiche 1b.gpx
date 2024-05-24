@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1117 filtered ascend = 0 plain-ascend = 0 cost=1117 energy=0.0kwh time=1m 29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>FCE Biancavilla Colombo - Biancavilla Pozzilo Weiche 1b</name>
+  <link href="https://bikerouter.de/#map=18/37.65400/14.85551/standard&amp;lonlats=14.867078,37.648342;14.856732,37.653914&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.648342" lon="14.867078"><ele>552.5</ele></trkpt>
+   <trkpt lat="37.652302" lon="14.861347"><ele>552.5</ele></trkpt>
+   <trkpt lat="37.65273" lon="14.860556"><ele>552.5</ele></trkpt>
+   <trkpt lat="37.653043" lon="14.859861"><ele>552.5</ele></trkpt>
+   <trkpt lat="37.653403" lon="14.858758"><ele>552.5</ele></trkpt>
+   <trkpt lat="37.653901" lon="14.856798"><ele>552.5</ele></trkpt>
+   <trkpt lat="37.653915" lon="14.856732"><ele>551.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

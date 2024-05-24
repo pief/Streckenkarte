@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>FCE Santa Maria di Licodia Sud (Gleis 1) - Santa Maria di Licodia Sud Weiche 2b</name>
+  <link href="https://bikerouter.de/#map=19/37.61223/14.89863/standard&amp;lonlats=14.898984,37.612221;14.89862,37.612455&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.612224" lon="14.898987"/>
+   <trkpt lat="37.612295" lon="14.898876"/>
+   <trkpt lat="37.612452" lon="14.898628"/>
+   <trkpt lat="37.612456" lon="14.898621"/>
+  </trkseg>
+ </trk>
+</gpx>

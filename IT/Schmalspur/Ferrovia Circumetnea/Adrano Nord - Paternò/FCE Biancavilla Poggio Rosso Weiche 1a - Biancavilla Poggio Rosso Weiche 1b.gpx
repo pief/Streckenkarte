@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = 0 cost=45 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>FCE Biancavilla Poggio Rosso Weiche 1a - Biancavilla Poggio Rosso Weiche 1b</name>
+  <link href="https://bikerouter.de/#map=19/37.63396/14.88302/standard&amp;lonlats=14.883052,37.634092;14.883481,37.633891&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.634094" lon="14.883053"><ele>500</ele></trkpt>
+   <trkpt lat="37.634094" lon="14.883054"><ele>500</ele></trkpt>
+   <trkpt lat="37.634042" lon="14.883156"><ele>500</ele></trkpt>
+   <trkpt lat="37.633948" lon="14.883377"><ele>499.75</ele></trkpt>
+   <trkpt lat="37.633893" lon="14.883482"><ele>499.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

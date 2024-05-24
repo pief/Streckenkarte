@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 1 plain-ascend = 1 cost=123 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>FCE Nesima (Gleis 1) - Nesima Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/37.51635/15.05022/standard&amp;lonlats=15.049789,37.516617;15.050932,37.51723&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.516618" lon="15.049786"><ele>137.5</ele></trkpt>
+   <trkpt lat="37.516667" lon="15.049886"><ele>137.5</ele></trkpt>
+   <trkpt lat="37.517019" lon="15.050591"><ele>138</ele></trkpt>
+   <trkpt lat="37.517133" lon="15.050792"><ele>138.25</ele></trkpt>
+   <trkpt lat="37.517227" lon="15.05093"><ele>138.75</ele></trkpt>
+   <trkpt lat="37.517228" lon="15.050932"><ele>138.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

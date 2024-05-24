@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 98 filtered ascend = 4 plain-ascend = 5 cost=98 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.16">
+ <trk>
+  <name>FCE Catania Borgo (Gleis 1) - Catania Borgo Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/37.52176/15.08406/standard&amp;lonlats=15.084676,37.521708;15.083563,37.52168&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.521712" lon="15.084674"><ele>60.25</ele></trkpt>
+   <trkpt lat="37.521712" lon="15.084651"><ele>60.5</ele></trkpt>
+   <trkpt lat="37.521704" lon="15.084422"><ele>60.25</ele></trkpt>
+   <trkpt lat="37.521691" lon="15.084017"><ele>61</ele></trkpt>
+   <trkpt lat="37.521678" lon="15.083571"><ele>63.5</ele></trkpt>
+   <trkpt lat="37.521677" lon="15.083562"><ele>64.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
