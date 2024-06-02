@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 1 plain-ascend = 2 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>FCE Bronte Weiche 1a - Bronte Weiche 1b</name>
+  <link href="https://bikerouter.de/#map=19/37.78750/14.83891/standard&amp;lonlats=14.838334,37.78681;14.838428,37.787382&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.786808" lon="14.838336"><ele>835.75</ele></trkpt>
+   <trkpt lat="37.786814" lon="14.838337"><ele>835.75</ele></trkpt>
+   <trkpt lat="37.786943" lon="14.838358"><ele>836</ele></trkpt>
+   <trkpt lat="37.787175" lon="14.83841"><ele>836.5</ele></trkpt>
+   <trkpt lat="37.787377" lon="14.838432"><ele>836.5</ele></trkpt>
+   <trkpt lat="37.78738" lon="14.838432"><ele>837.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

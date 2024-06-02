@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = 1 cost=57 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>FCE Gurrida (Gleis 2) - Gurrida Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/37.85183/14.90923/standard&amp;lonlats=14.908446,37.851977;14.908321,37.85148&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.851975" lon="14.90845"><ele>870.75</ele></trkpt>
+   <trkpt lat="37.851484" lon="14.908323"><ele>871</ele></trkpt>
+   <trkpt lat="37.851478" lon="14.908321"><ele>871.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

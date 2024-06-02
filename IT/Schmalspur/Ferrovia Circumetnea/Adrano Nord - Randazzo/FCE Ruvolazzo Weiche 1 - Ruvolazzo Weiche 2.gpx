@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 147 filtered ascend = 1 plain-ascend = 0 cost=147 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>FCE Ruvolazzo Weiche 1 - Ruvolazzo Weiche 2</name>
+  <link href="https://bikerouter.de/#map=18/37.74269/14.83309/standard&amp;lonlats=14.833616,37.742977;14.832696,37.744072&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.742976" lon="14.833614"><ele>781</ele></trkpt>
+   <trkpt lat="37.742981" lon="14.833611"><ele>781.25</ele></trkpt>
+   <trkpt lat="37.7433" lon="14.833349"><ele>782.75</ele></trkpt>
+   <trkpt lat="37.744068" lon="14.8327"><ele>781</ele></trkpt>
+   <trkpt lat="37.744072" lon="14.832696"><ele>779.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
