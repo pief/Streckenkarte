@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 503 filtered ascend = 0 plain-ascend = 0 cost=1006 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Am Forstkamp (Gleis Nord) - Kafkastraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.39486/9.84243/standard&amp;lonlats=9.848752,52.392806;9.842487,52.394994&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.392807" lon="9.84875"><ele>60</ele></trkpt>
+   <trkpt lat="52.392804" lon="9.848419"><ele>60</ele></trkpt>
+   <trkpt lat="52.392805" lon="9.848056"><ele>60</ele></trkpt>
+   <trkpt lat="52.392811" lon="9.847963"><ele>60</ele></trkpt>
+   <trkpt lat="52.392816" lon="9.847893"><ele>60</ele></trkpt>
+   <trkpt lat="52.392826" lon="9.847812"><ele>60</ele></trkpt>
+   <trkpt lat="52.392832" lon="9.84777"><ele>60</ele></trkpt>
+   <trkpt lat="52.392864" lon="9.84761"><ele>60</ele></trkpt>
+   <trkpt lat="52.392889" lon="9.847514"><ele>60</ele></trkpt>
+   <trkpt lat="52.392922" lon="9.847408"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.39304" lon="9.847101"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.393216" lon="9.846666"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.393473" lon="9.845952"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.393806" lon="9.845137"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.393916" lon="9.844888"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.393979" lon="9.84476"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.394024" lon="9.844672"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.394186" lon="9.844385"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.394332" lon="9.844097"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.394715" lon="9.84318"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.394994" lon="9.842495"><ele>58</ele></trkpt>
+   <trkpt lat="52.394996" lon="9.842489"><ele>59.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

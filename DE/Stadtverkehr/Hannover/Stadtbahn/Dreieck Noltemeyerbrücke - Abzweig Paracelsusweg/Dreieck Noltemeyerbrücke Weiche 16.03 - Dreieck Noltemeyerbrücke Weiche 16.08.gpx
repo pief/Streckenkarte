@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 1 plain-ascend = 3 cost=146 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Dreieck Noltemeyerbrücke Weiche 16.03 - Dreieck Noltemeyerbrücke Weiche 16.08</name>
+  <link href="https://bikerouter.de/#map=19/52.40649/9.80097/standard&amp;lonlats=9.799823,52.406056;9.800346,52.406255;9.800719,52.406385&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.406055" lon="9.799822"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.406059" lon="9.79983"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.406086" lon="9.799903"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.406224" lon="9.800275"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.40625" lon="9.800349"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.406269" lon="9.800399"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.406383" lon="9.800718"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.406383" lon="9.800719"><ele>56.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

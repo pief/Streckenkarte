@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 2 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Abzweig Paracelsusweg Weiche 16.12 - Paracelsusweg (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.40902/9.81645/standard&amp;lonlats=9.817352,52.409107;9.816756,52.409215&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.409105" lon="9.817351"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.409118" lon="9.817283"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.409208" lon="9.816756"><ele>58</ele></trkpt>
+   <trkpt lat="52.409208" lon="9.816752"><ele>59.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
