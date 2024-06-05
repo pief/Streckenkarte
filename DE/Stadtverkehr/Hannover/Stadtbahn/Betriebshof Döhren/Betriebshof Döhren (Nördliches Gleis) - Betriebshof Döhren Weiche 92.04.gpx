@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 0 plain-ascend = 1 cost=194 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Betriebshof Döhren (Nördliches Gleis) - Betriebshof Döhren Weiche 92.04</name>
+  <link href="https://bikerouter.de/#map=19/52.33734/9.77134/standard&amp;lonlats=9.771208,52.337831;9.770232,52.337249&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.337829" lon="9.771208"><ele>60</ele></trkpt>
+   <trkpt lat="52.337775" lon="9.77099"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.337747" lon="9.770903"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.337682" lon="9.770755"><ele>60</ele></trkpt>
+   <trkpt lat="52.337604" lon="9.770613"><ele>60</ele></trkpt>
+   <trkpt lat="52.337446" lon="9.770415"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.337251" lon="9.770235"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.337248" lon="9.770231"><ele>60.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

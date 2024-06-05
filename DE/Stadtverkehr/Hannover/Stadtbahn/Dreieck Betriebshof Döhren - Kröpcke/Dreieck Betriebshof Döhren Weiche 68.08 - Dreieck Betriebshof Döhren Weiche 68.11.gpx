@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 1 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Dreieck Betriebshof Döhren Weiche 68.08 - Dreieck Betriebshof Döhren Weiche 68.11</name>
+  <link href="https://bikerouter.de/#map=19/52.33734/9.77134/standard&amp;lonlats=9.770153,52.337188;9.769493,52.337208&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.337187" lon="9.770153"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.337184" lon="9.77015"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.33714" lon="9.770081"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.337104" lon="9.769999"><ele>61</ele></trkpt>
+   <trkpt lat="52.337082" lon="9.769901"><ele>61</ele></trkpt>
+   <trkpt lat="52.337078" lon="9.76984"><ele>61</ele></trkpt>
+   <trkpt lat="52.337088" lon="9.769723"><ele>61</ele></trkpt>
+   <trkpt lat="52.337127" lon="9.7696"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.337166" lon="9.769536"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.337206" lon="9.769495"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.337208" lon="9.769493"><ele>61.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
