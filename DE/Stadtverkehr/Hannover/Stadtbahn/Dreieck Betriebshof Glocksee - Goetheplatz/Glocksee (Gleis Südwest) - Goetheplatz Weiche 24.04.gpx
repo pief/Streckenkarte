@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 215 filtered ascend = 2 plain-ascend = 2 cost=430 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Glocksee (Gleis Südwest) - Goetheplatz Weiche 24.04</name>
+  <link href="https://bikerouter.de/#map=19/52.37302/9.72137/standard&amp;lonlats=9.720309,52.373402;9.723082,52.372597&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.373402" lon="9.720309"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.373282" lon="9.720825"><ele>53</ele></trkpt>
+   <trkpt lat="52.373272" lon="9.720861"><ele>53</ele></trkpt>
+   <trkpt lat="52.373238" lon="9.721078"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.372884" lon="9.722568"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.372869" lon="9.722616"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.372832" lon="9.722739"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.372783" lon="9.722871"><ele>55</ele></trkpt>
+   <trkpt lat="52.372716" lon="9.722971"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.372602" lon="9.723079"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.372597" lon="9.723082"><ele>55.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

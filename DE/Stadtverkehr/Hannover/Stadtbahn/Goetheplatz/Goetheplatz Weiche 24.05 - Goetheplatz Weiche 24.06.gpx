@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 1 plain-ascend = 1 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Goetheplatz Weiche 24.05 - Goetheplatz Weiche 24.06</name>
+  <link href="https://bikerouter.de/#map=19/52.37249/9.72475/standard&amp;lonlats=9.723169,52.372502;9.723758,52.372477&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.372502" lon="9.723169"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.372499" lon="9.723174"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.372436" lon="9.723323"><ele>56</ele></trkpt>
+   <trkpt lat="52.372418" lon="9.723448"><ele>56</ele></trkpt>
+   <trkpt lat="52.372421" lon="9.723562"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.372439" lon="9.723657"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.372477" lon="9.723758"><ele>56.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
