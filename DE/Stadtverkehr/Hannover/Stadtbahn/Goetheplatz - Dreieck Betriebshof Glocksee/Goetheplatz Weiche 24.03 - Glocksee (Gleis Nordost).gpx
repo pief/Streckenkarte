@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 274 filtered ascend = 0 plain-ascend = -1 cost=548 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Goetheplatz Weiche 24.03 - Glocksee (Gleis Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.37379/9.71987/standard&amp;lonlats=9.723292,52.372904;9.719537,52.373654&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.372904" lon="9.72329"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.372904" lon="9.723289"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.372864" lon="9.723062"><ele>55</ele></trkpt>
+   <trkpt lat="52.372854" lon="9.722982"><ele>55</ele></trkpt>
+   <trkpt lat="52.372853" lon="9.722891"><ele>55</ele></trkpt>
+   <trkpt lat="52.372861" lon="9.722805"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.37287" lon="9.722772"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.372905" lon="9.72264"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.373333" lon="9.720901"><ele>53</ele></trkpt>
+   <trkpt lat="52.37334" lon="9.720863"><ele>53</ele></trkpt>
+   <trkpt lat="52.373516" lon="9.720153"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.373646" lon="9.719585"><ele>54</ele></trkpt>
+   <trkpt lat="52.373655" lon="9.719537"><ele>53.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
