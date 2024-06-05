@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 616 filtered ascend = 1 plain-ascend = 0 cost=1232 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Tiergarten (Gleis Süd) - Üst Ostfeldstraße Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/52.36084/9.84350/standard&amp;lonlats=9.834527,52.361242;9.843227,52.360909&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.361242" lon="9.834527"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.361242" lon="9.834537"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.361251" lon="9.834902"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.36127" lon="9.83509"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.36128" lon="9.835265"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.361322" lon="9.835614"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.361473" lon="9.836944"><ele>69.25</ele></trkpt>
+   <trkpt lat="52.361683" lon="9.838811"><ele>70</ele></trkpt>
+   <trkpt lat="52.361738" lon="9.839283"><ele>70.25</ele></trkpt>
+   <trkpt lat="52.361755" lon="9.839548"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.361753" lon="9.839733"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.361724" lon="9.840104"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.361646" lon="9.84052"><ele>71.5</ele></trkpt>
+   <trkpt lat="52.361278" lon="9.84186"><ele>72</ele></trkpt>
+   <trkpt lat="52.36108" lon="9.842636"><ele>70</ele></trkpt>
+   <trkpt lat="52.36091" lon="9.843227"><ele>69</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

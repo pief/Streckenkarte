@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 560 filtered ascend = 5 plain-ascend = 5 cost=1120 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Bleekstraße (Gleis Südwest) - Saarbrückener Straße (Gleis Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.36252/9.81888/standard&amp;lonlats=9.813195,52.365602;9.819223,52.362568&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.365602" lon="9.813195"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.365601" lon="9.813197"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.365301" lon="9.813498"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.365209" lon="9.813584"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.365181" lon="9.81361"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.365107" lon="9.81368"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.365004" lon="9.8138"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.364795" lon="9.814031"><ele>63</ele></trkpt>
+   <trkpt lat="52.364458" lon="9.814362"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.363889" lon="9.814934"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.363714" lon="9.815163"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.36358" lon="9.815364"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.363487" lon="9.815529"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.363324" lon="9.815881"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.363186" lon="9.816273"><ele>63</ele></trkpt>
+   <trkpt lat="52.363092" lon="9.81662"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.363049" lon="9.816839"><ele>63</ele></trkpt>
+   <trkpt lat="52.363036" lon="9.816902"><ele>63</ele></trkpt>
+   <trkpt lat="52.36302" lon="9.816982"><ele>63</ele></trkpt>
+   <trkpt lat="52.362894" lon="9.817612"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.362832" lon="9.817924"><ele>64.25</ele></trkpt>
+   <trkpt lat="52.362789" lon="9.81814"><ele>64.5</ele></trkpt>
+   <trkpt lat="52.362767" lon="9.818243"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.362718" lon="9.818461"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.362572" lon="9.819225"><ele>66.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

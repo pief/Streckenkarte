@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 317 filtered ascend = 2 plain-ascend = 3 cost=634 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Abzweig Karl-Wiechert-Allee Weiche 60.24 - Annastift (Gleis Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.36942/9.80747/standard&amp;lonlats=9.803671,52.370517;9.807971,52.369493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.370517" lon="9.803671"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.370517" lon="9.803677"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.370506" lon="9.803785"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.37047" lon="9.804221"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.370435" lon="9.804457"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.370399" lon="9.804621"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.370373" lon="9.80474"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.370326" lon="9.804921"><ele>60</ele></trkpt>
+   <trkpt lat="52.370291" lon="9.80505"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.36996" lon="9.806"><ele>61</ele></trkpt>
+   <trkpt lat="52.369884" lon="9.806272"><ele>61</ele></trkpt>
+   <trkpt lat="52.369658" lon="9.807232"><ele>61</ele></trkpt>
+   <trkpt lat="52.369489" lon="9.807968"><ele>61.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

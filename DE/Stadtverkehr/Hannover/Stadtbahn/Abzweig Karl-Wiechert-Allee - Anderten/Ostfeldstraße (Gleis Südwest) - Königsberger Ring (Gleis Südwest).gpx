@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 469 filtered ascend = 0 plain-ascend = -4 cost=938 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Ostfeldstraße (Gleis Südwest) - Königsberger Ring (Gleis Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.35937/9.85190/standard&amp;lonlats=9.84483,52.360388;9.851518,52.359404&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.360388" lon="9.84483"><ele>69</ele></trkpt>
+   <trkpt lat="52.360369" lon="9.844962"><ele>69</ele></trkpt>
+   <trkpt lat="52.360356" lon="9.845061"><ele>68.75</ele></trkpt>
+   <trkpt lat="52.36035" lon="9.845116"><ele>68.75</ele></trkpt>
+   <trkpt lat="52.360303" lon="9.845596"><ele>68</ele></trkpt>
+   <trkpt lat="52.360269" lon="9.845912"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.360193" lon="9.846441"><ele>66.25</ele></trkpt>
+   <trkpt lat="52.360077" lon="9.847235"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.36005" lon="9.847389"><ele>65</ele></trkpt>
+   <trkpt lat="52.359836" lon="9.848745"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.359821" lon="9.848839"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.359577" lon="9.85035"><ele>64.25</ele></trkpt>
+   <trkpt lat="52.359535" lon="9.85062"><ele>64.25</ele></trkpt>
+   <trkpt lat="52.359501" lon="9.850849"><ele>64</ele></trkpt>
+   <trkpt lat="52.359403" lon="9.851517"><ele>63.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
