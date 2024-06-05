@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 4 plain-ascend = 4 cost=150 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Berliner Platz (Steig Ost) - Üst Berliner Platz Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.43106/9.73226/standard&amp;lonlats=9.731743,52.430295;9.731658,52.430956&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.430295" lon="9.731745"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.4303" lon="9.731745"><ele>50</ele></trkpt>
+   <trkpt lat="52.43095" lon="9.731661"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.430956" lon="9.73166"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

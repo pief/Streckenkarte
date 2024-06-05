@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 456 filtered ascend = 2 plain-ascend = 2 cost=912 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Windausstraße (Steig Ost) - Kabelkamp (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/52.41202/9.73501/standard&amp;lonlats=9.734908,52.407768;9.734321,52.411839&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.407768" lon="9.734909"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.409001" lon="9.734815"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.409527" lon="9.734748"><ele>54</ele></trkpt>
+   <trkpt lat="52.410775" lon="9.734541"><ele>56</ele></trkpt>
+   <trkpt lat="52.411359" lon="9.734402"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.411838" lon="9.734317"><ele>55.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
