@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 173 filtered ascend = 0 plain-ascend = 1 cost=346 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Messe/Nord (Steig Südost) - Messe/Nord (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.32848/9.80599/standard&amp;lonlats=9.804501,52.327784;9.80412,52.328969&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.327787" lon="9.804496"><ele>67</ele></trkpt>
+   <trkpt lat="52.327789" lon="9.8045"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.327915" lon="9.804847"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.327942" lon="9.804909"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.327991" lon="9.804986"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.328049" lon="9.80503"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.328106" lon="9.805047"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.328156" lon="9.805062"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.328225" lon="9.805055"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.328269" lon="9.80503"><ele>67</ele></trkpt>
+   <trkpt lat="52.328323" lon="9.804976"><ele>67</ele></trkpt>
+   <trkpt lat="52.328962" lon="9.80412"><ele>67.5</ele></trkpt>
+   <trkpt lat="52.328966" lon="9.804114"><ele>67.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
