@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 0 plain-ascend = -3 cost=81 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>FCE Cerro (Gleis 1) - Cerro Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/37.85187/15.11690/standard&amp;lonlats=15.11572,37.852132;15.116418,37.851666&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.852133" lon="15.115721"><ele>645</ele></trkpt>
+   <trkpt lat="37.851671" lon="15.116417"><ele>644.25</ele></trkpt>
+   <trkpt lat="37.851668" lon="15.11642"><ele>640.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
