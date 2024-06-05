@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 637 filtered ascend = 0 plain-ascend = 0 cost=1274 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Lortzingstraße (Steig Nordwest) - Lister Platz (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.38907/9.75230/standard&amp;lonlats=9.75804,52.392817;9.751064,52.389044&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.392813" lon="9.758044"><ele>59</ele></trkpt>
+   <trkpt lat="52.392664" lon="9.757779"><ele>59</ele></trkpt>
+   <trkpt lat="52.392557" lon="9.757583"><ele>59</ele></trkpt>
+   <trkpt lat="52.39241" lon="9.757314"><ele>59</ele></trkpt>
+   <trkpt lat="52.391956" lon="9.756468"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.391567" lon="9.755765"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.391066" lon="9.754898"/>
+   <trkpt lat="52.390293" lon="9.753556"/>
+   <trkpt lat="52.389496" lon="9.752179"/>
+   <trkpt lat="52.389093" lon="9.751176"/>
+   <trkpt lat="52.389046" lon="9.75106"/>
+  </trkseg>
+ </trk>
+</gpx>
