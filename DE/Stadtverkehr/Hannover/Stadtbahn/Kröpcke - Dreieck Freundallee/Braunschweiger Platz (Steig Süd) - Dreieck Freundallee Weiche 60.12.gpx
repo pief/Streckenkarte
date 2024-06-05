@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 601 filtered ascend = 0 plain-ascend = -2 cost=1202 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Braunschweiger Platz (Steig Süd) - Dreieck Freundallee Weiche 60.12</name>
+  <link href="https://bikerouter.de/#map=19/52.37105/9.77040/standard&amp;lonlats=9.762023,52.370433;9.770813,52.370913&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.370433" lon="9.762021"><ele>58.25</ele></trkpt>
+   <trkpt lat="52.370434" lon="9.762053"><ele>58.25</ele></trkpt>
+   <trkpt lat="52.370454" lon="9.76315"><ele>58.25</ele></trkpt>
+   <trkpt lat="52.370532" lon="9.764112"><ele>58.25</ele></trkpt>
+   <trkpt lat="52.370691" lon="9.766963"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.370888" lon="9.770454"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.370906" lon="9.770762"><ele>55</ele></trkpt>
+   <trkpt lat="52.370908" lon="9.770812"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

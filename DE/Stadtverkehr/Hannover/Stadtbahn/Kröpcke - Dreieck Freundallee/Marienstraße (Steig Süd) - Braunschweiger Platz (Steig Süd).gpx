@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 608 filtered ascend = 0 plain-ascend = 0 cost=1216 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Marienstraße (Steig Süd) - Braunschweiger Platz (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=17/52.37012/9.76165/standard&amp;lonlats=9.753171,52.369907;9.762025,52.370433&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.369907" lon="9.753169"/>
+   <trkpt lat="52.369912" lon="9.753192"/>
+   <trkpt lat="52.370034" lon="9.753802"/>
+   <trkpt lat="52.370078" lon="9.754076"/>
+   <trkpt lat="52.370115" lon="9.754484"/>
+   <trkpt lat="52.370128" lon="9.755811"/>
+   <trkpt lat="52.370254" lon="9.758128"/>
+   <trkpt lat="52.370376" lon="9.760259"/>
+   <trkpt lat="52.370423" lon="9.761656"/>
+   <trkpt lat="52.370433" lon="9.762023"/>
+  </trkseg>
+ </trk>
+</gpx>

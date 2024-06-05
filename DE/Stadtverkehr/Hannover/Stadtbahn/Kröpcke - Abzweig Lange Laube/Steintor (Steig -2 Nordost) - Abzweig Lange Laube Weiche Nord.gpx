@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 441 filtered ascend = 0 plain-ascend = 0 cost=882 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Steintor (Steig -2 Nordost) - Abzweig Lange Laube Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.37685/9.72671/standard&amp;lonlats=9.732552,52.37583;9.726454,52.377181&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.37583" lon="9.732552"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.375932" lon="9.732018"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.37601" lon="9.73161"/>
+   <trkpt lat="52.376394" lon="9.729793"/>
+   <trkpt lat="52.376838" lon="9.727898"/>
+   <trkpt lat="52.377061" lon="9.726936"/>
+   <trkpt lat="52.37718" lon="9.726453"/>
+  </trkseg>
+ </trk>
+</gpx>
