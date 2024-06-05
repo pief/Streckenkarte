@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 358 filtered ascend = 0 plain-ascend = -1 cost=718 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Werderstraße (Steig Ost) - Vahrenwalder Platz (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/52.39070/9.73612/standard&amp;lonlats=9.734179,52.387801;9.734707,52.390998&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.3878" lon="9.734176"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.387853" lon="9.734183"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.388244" lon="9.734227"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.388604" lon="9.734305"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.38932" lon="9.734519"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.38995" lon="9.734638"><ele>59</ele></trkpt>
+   <trkpt lat="52.390582" lon="9.734672"><ele>58</ele></trkpt>
+   <trkpt lat="52.390997" lon="9.734712"><ele>57.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

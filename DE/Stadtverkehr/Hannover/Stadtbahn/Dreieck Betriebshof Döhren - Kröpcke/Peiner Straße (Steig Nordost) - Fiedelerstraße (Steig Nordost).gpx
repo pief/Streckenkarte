@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 485 filtered ascend = 0 plain-ascend = 0 cost=970 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Peiner Straße (Steig Nordost) - Fiedelerstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=17/52.34028/9.76670/standard&amp;lonlats=9.76919,52.337536;9.76584,52.341378&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.337536" lon="9.76919"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.337539" lon="9.769188"><ele>61.75</ele></trkpt>
+   <trkpt lat="52.33774" lon="9.769018"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.337835" lon="9.76894"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.338017" lon="9.768789"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.33809" lon="9.768733"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.338217" lon="9.768619"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.338276" lon="9.768573"><ele>60</ele></trkpt>
+   <trkpt lat="52.338835" lon="9.768035"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.340571" lon="9.766524"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.340829" lon="9.766318"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.341165" lon="9.766025"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.341377" lon="9.765839"><ele>60.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 449 filtered ascend = 5 plain-ascend = 2 cost=898 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Büttnerstraße (Steig West) - Niedersachsenring (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.39847/9.73723/standard&amp;lonlats=9.735477,52.402622;9.736043,52.398632&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.402622" lon="9.735479"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.40262" lon="9.73548"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.402383" lon="9.735521"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.402297" lon="9.735536"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.402192" lon="9.735555"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.401982" lon="9.735592"><ele>56</ele></trkpt>
+   <trkpt lat="52.400654" lon="9.735822"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.399548" lon="9.735975"><ele>58</ele></trkpt>
+   <trkpt lat="52.399496" lon="9.735978"><ele>58.25</ele></trkpt>
+   <trkpt lat="52.399406" lon="9.735983"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.399325" lon="9.735987"><ele>59</ele></trkpt>
+   <trkpt lat="52.399224" lon="9.735994"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.3991" lon="9.736004"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.398631" lon="9.736042"><ele>56.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

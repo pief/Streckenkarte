@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 447 filtered ascend = 3 plain-ascend = -1 cost=894 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Niedersachsenring (Steig Ost) - Büttnerstraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/52.40264/9.73659/standard&amp;lonlats=9.736094,52.398629;9.735523,52.402621&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.398629" lon="9.736096"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.398633" lon="9.736096"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.398921" lon="9.736073"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.398963" lon="9.736071"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.399072" lon="9.736063"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.399101" lon="9.736061"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.399215" lon="9.736052"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.399321" lon="9.736045"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.399403" lon="9.736039"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.399492" lon="9.736033"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.400654" lon="9.735885"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.401985" lon="9.735643"><ele>56</ele></trkpt>
+   <trkpt lat="52.40262" lon="9.735522"><ele>54.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

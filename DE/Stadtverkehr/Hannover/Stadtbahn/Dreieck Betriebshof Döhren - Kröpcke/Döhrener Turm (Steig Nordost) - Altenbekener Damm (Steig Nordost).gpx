@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1234 filtered ascend = 0 plain-ascend = -1 cost=2468 energy=0.0kwh time=1m 39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Döhrener Turm (Steig Nordost) - Altenbekener Damm (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.35527/9.75425/standard&amp;lonlats=9.762377,52.345176;9.754414,52.355118&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.345176" lon="9.762378"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.345309" lon="9.762262"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.345489" lon="9.762107"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.345565" lon="9.762039"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.34573" lon="9.761895"><ele>61</ele></trkpt>
+   <trkpt lat="52.345825" lon="9.761805"><ele>60</ele></trkpt>
+   <trkpt lat="52.345929" lon="9.761709"><ele>60</ele></trkpt>
+   <trkpt lat="52.346213" lon="9.761466"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.346616" lon="9.761118"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.346743" lon="9.761016"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.346859" lon="9.760923"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.346893" lon="9.760893"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.347094" lon="9.760718"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.348493" lon="9.759462"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.349289" lon="9.75882"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.349984" lon="9.758285"><ele>56</ele></trkpt>
+   <trkpt lat="52.350492" lon="9.757887"><ele>57.25</ele></trkpt>
+   <trkpt lat="52.351062" lon="9.757458"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.352453" lon="9.756391"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.352633" lon="9.756254"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.354105" lon="9.755188"/>
+   <trkpt lat="52.354902" lon="9.754592"/>
+   <trkpt lat="52.355122" lon="9.754431"/>
+  </trkseg>
+ </trk>
+</gpx>

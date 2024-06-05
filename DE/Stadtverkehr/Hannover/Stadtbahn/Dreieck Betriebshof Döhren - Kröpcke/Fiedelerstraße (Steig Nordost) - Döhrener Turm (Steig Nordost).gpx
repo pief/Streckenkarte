@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 485 filtered ascend = 3 plain-ascend = 3 cost=970 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Fiedelerstraße (Steig Nordost) - Döhrener Turm (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=16/52.3439/9.7632/standard&amp;lonlats=9.76584,52.341378;9.762377,52.345176&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.341377" lon="9.765839"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.341404" lon="9.765816"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.341519" lon="9.765717"><ele>60</ele></trkpt>
+   <trkpt lat="52.341595" lon="9.765649"><ele>60</ele></trkpt>
+   <trkpt lat="52.341667" lon="9.765584"><ele>60</ele></trkpt>
+   <trkpt lat="52.341782" lon="9.765479"><ele>60</ele></trkpt>
+   <trkpt lat="52.342621" lon="9.764777"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.342732" lon="9.764692"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.342919" lon="9.76455"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.343003" lon="9.764482"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.343329" lon="9.764198"><ele>57</ele></trkpt>
+   <trkpt lat="52.344142" lon="9.763309"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.344592" lon="9.762891"><ele>60.25</ele></trkpt>
+   <trkpt lat="52.345176" lon="9.762378"><ele>63.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

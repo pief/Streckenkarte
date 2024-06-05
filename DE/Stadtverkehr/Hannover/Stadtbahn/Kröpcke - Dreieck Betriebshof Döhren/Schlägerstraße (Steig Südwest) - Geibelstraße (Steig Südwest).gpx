@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 535 filtered ascend = 0 plain-ascend = 0 cost=1070 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Schlägerstraße (Steig Südwest) - Geibelstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/52.35949/9.75237/standard&amp;lonlats=9.747257,52.364286;9.750599,52.359949&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.364291" lon="9.747276"/>
+   <trkpt lat="52.364282" lon="9.747283"/>
+   <trkpt lat="52.363845" lon="9.747614"/>
+   <trkpt lat="52.363545" lon="9.74784"/>
+   <trkpt lat="52.363236" lon="9.748077"/>
+   <trkpt lat="52.36072" lon="9.750015"/>
+   <trkpt lat="52.359994" lon="9.750563"/>
+   <trkpt lat="52.359948" lon="9.750597"/>
+  </trkseg>
+ </trk>
+</gpx>
