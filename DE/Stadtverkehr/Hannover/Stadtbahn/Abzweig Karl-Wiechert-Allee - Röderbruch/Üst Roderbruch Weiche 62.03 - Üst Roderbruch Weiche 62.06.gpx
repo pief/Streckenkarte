@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Üst Roderbruch Weiche 62.03 - Üst Roderbruch Weiche 62.06</name>
+  <link href="https://bikerouter.de/#map=19/52.38980/9.81698/standard&amp;lonlats=9.816847,52.389527;9.817478,52.389751&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.389524" lon="9.816847"><ele>59</ele></trkpt>
+   <trkpt lat="52.389525" lon="9.816849"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.389624" lon="9.817128"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.389732" lon="9.817432"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.389747" lon="9.817475"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.389748" lon="9.817478"><ele>59</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

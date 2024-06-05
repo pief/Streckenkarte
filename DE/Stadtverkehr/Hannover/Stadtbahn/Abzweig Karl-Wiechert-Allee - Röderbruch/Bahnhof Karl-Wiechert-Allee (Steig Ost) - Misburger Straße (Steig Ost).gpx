@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 450 filtered ascend = 0 plain-ascend = -1 cost=900 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Bahnhof Karl-Wiechert-Allee (Steig Ost) - Misburger Straße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=16/52.3801/9.8071/standard&amp;lonlats=9.807931,52.3751;9.808846,52.379092&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.375099" lon="9.807926"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.375104" lon="9.807928"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.375237" lon="9.807966"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.375375" lon="9.808005"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.375793" lon="9.808124"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.376391" lon="9.808252"><ele>60</ele></trkpt>
+   <trkpt lat="52.377143" lon="9.808379"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.377901" lon="9.808469"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.378228" lon="9.808555"><ele>59</ele></trkpt>
+   <trkpt lat="52.378563" lon="9.80869"><ele>59</ele></trkpt>
+   <trkpt lat="52.37878" lon="9.808766"><ele>59</ele></trkpt>
+   <trkpt lat="52.379091" lon="9.808844"><ele>59</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

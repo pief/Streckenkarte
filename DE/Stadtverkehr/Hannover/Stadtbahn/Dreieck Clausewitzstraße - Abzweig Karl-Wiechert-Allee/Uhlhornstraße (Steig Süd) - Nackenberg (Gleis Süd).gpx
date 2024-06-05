@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 652 filtered ascend = 1 plain-ascend = -2 cost=1304 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Uhlhornstraße (Steig Süd) - Nackenberg (Gleis Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.37055/9.80325/standard&amp;lonlats=9.793865,52.371445;9.803317,52.370552&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.371446" lon="9.793865"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.371443" lon="9.793902"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.371417" lon="9.794168"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.371415" lon="9.794187"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.371397" lon="9.794388"><ele>61.75</ele></trkpt>
+   <trkpt lat="52.371221" lon="9.796298"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.371207" lon="9.796429"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.371196" lon="9.796532"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.370796" lon="9.800461"><ele>63</ele></trkpt>
+   <trkpt lat="52.370715" lon="9.801301"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.370687" lon="9.801599"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.370636" lon="9.802337"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.370547" lon="9.803315"><ele>58.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
