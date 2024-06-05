@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = -1 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Üst Alte Heide Weiche Ost-Nord - Üst Alte Heide Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.41600/9.77924/standard&amp;lonlats=9.779836,52.415765;9.779243,52.415885&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.415763" lon="9.779835"><ele>54</ele></trkpt>
+   <trkpt lat="52.415764" lon="9.779832"><ele>54</ele></trkpt>
+   <trkpt lat="52.415881" lon="9.779248"><ele>54</ele></trkpt>
+   <trkpt lat="52.415882" lon="9.779241"><ele>52.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
