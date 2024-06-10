@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 0 plain-ascend = 1 cost=46 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Bf Haseschacht (Südliches Gleis) - Bf Haseschacht Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/52.31553/8.00809/standard&amp;lonlats=8.007976,52.315645;8.007338,52.315658&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.315643" lon="8.007975"><ele>104</ele></trkpt>
+   <trkpt lat="52.315616" lon="8.007826"><ele>103.5</ele></trkpt>
+   <trkpt lat="52.315605" lon="8.007638"><ele>103.25</ele></trkpt>
+   <trkpt lat="52.315609" lon="8.007506"><ele>103</ele></trkpt>
+   <trkpt lat="52.315654" lon="8.007345"><ele>103.75</ele></trkpt>
+   <trkpt lat="52.315657" lon="8.007337"><ele>104.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

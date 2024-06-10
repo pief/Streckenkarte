@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 1 plain-ascend = 1 cost=24 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Bf Siebenbürgen (östliches Gleis) - Bf Siebenbürgen Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/52.32057/8.00620/standard&amp;lonlats=8.006318,52.320721;8.006477,52.320896&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.32072" lon="8.006317"><ele>124.25</ele></trkpt>
+   <trkpt lat="52.320722" lon="8.006319"><ele>124.5</ele></trkpt>
+   <trkpt lat="52.320894" lon="8.006475"><ele>125.5</ele></trkpt>
+   <trkpt lat="52.320895" lon="8.006476"><ele>125.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
