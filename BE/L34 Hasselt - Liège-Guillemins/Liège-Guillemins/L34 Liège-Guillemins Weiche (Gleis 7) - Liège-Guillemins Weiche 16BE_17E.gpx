@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 255 filtered ascend = 3 plain-ascend = 3 cost=255 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>L34 Liège-Guillemins Weiche (Gleis 7) - Liège-Guillemins Weiche 16BE/17E</name>
+  <link href="https://bikerouter.de/#map=19/50.62471/5.56609/standard&amp;lonlats=5.566393,50.62435;5.564433,50.626249&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.62435" lon="5.566393"><ele>73.25</ele></trkpt>
+   <trkpt lat="50.624539" lon="5.56615"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.624741" lon="5.565888"><ele>75.5</ele></trkpt>
+   <trkpt lat="50.625015" lon="5.565533"><ele>74.5</ele></trkpt>
+   <trkpt lat="50.62503" lon="5.565514"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.625048" lon="5.565491"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.625066" lon="5.565467"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.625292" lon="5.565201"><ele>75.25</ele></trkpt>
+   <trkpt lat="50.625388" lon="5.5651"><ele>75</ele></trkpt>
+   <trkpt lat="50.625547" lon="5.564953"><ele>75.25</ele></trkpt>
+   <trkpt lat="50.626251" lon="5.564434"><ele>76</ele></trkpt>
+   <trkpt lat="50.626249" lon="5.564434"><ele>76.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

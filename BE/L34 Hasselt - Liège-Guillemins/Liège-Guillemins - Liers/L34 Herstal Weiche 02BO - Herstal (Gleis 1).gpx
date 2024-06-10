@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 449 filtered ascend = 0 plain-ascend = -4 cost=449 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>L34 Herstal Weiche 02BO - Herstal (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/50.66074/5.62294/standard&amp;lonlats=5.617755,50.658446;5.622939,50.660757&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.658443" lon="5.617758"><ele>75.5</ele></trkpt>
+   <trkpt lat="50.658446" lon="5.617763"><ele>75.5</ele></trkpt>
+   <trkpt lat="50.658751" lon="5.618248"><ele>72.25</ele></trkpt>
+   <trkpt lat="50.658962" lon="5.618634"><ele>72.75</ele></trkpt>
+   <trkpt lat="50.659072" lon="5.618866"><ele>73</ele></trkpt>
+   <trkpt lat="50.659385" lon="5.619575"><ele>72.75</ele></trkpt>
+   <trkpt lat="50.659596" lon="5.62008"><ele>72.25</ele></trkpt>
+   <trkpt lat="50.660352" lon="5.621996"><ele>72</ele></trkpt>
+   <trkpt lat="50.660629" lon="5.622654"><ele>72.25</ele></trkpt>
+   <trkpt lat="50.660754" lon="5.622929"><ele>72.25</ele></trkpt>
+   <trkpt lat="50.660757" lon="5.622937"><ele>70.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

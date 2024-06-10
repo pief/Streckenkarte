@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 191 filtered ascend = 2 plain-ascend = 4 cost=191 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>L34  Liège-Guillemins Weiche 07AE - Liège-Guillemins Weiche 11BE/12AE</name>
+  <link href="https://bikerouter.de/#map=18/50.62747/5.56446/standard&amp;lonlats=5.562994,50.628341;5.563545,50.627564;5.564111,50.626787&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.628341" lon="5.562994"><ele>73</ele></trkpt>
+   <trkpt lat="50.628335" lon="5.562999"><ele>73</ele></trkpt>
+   <trkpt lat="50.627566" lon="5.563552"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.626789" lon="5.564111"><ele>74.75</ele></trkpt>
+   <trkpt lat="50.626787" lon="5.564111"><ele>75.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
