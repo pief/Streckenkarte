@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 384 filtered ascend = 2 plain-ascend = 2 cost=384 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Zechenbahnhof Piesberg (Gleis 2) - Zechenbahnhof Piesberg Weiche 602</name>
+  <link href="https://bikerouter.de/#map=18/52.31210/8.00805/standard&amp;lonlats=8.005133,52.311919;8.010616,52.312201&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.31192" lon="8.005131"><ele>65</ele></trkpt>
+   <trkpt lat="52.31203" lon="8.005923"><ele>64.5</ele></trkpt>
+   <trkpt lat="52.312367" lon="8.008365"><ele>64.5</ele></trkpt>
+   <trkpt lat="52.312402" lon="8.008673"><ele>64.5</ele></trkpt>
+   <trkpt lat="52.312422" lon="8.008921"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.312427" lon="8.009133"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.312422" lon="8.009289"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.312398" lon="8.009582"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.312361" lon="8.009843"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.312263" lon="8.010372"><ele>66.75</ele></trkpt>
+   <trkpt lat="52.3122" lon="8.010617"><ele>67.25</ele></trkpt>
+   <trkpt lat="52.3122" lon="8.010615"><ele>66.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

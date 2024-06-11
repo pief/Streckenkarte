@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.17">
+ <trk>
+  <name>Containerterminal Weiche 427 - Containerterminal Weiche 429</name>
+  <link href="https://bikerouter.de/#map=19/52.29636/8.02817/standard&amp;lonlats=8.028664,52.296466;8.028262,52.296632&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.296468" lon="8.028667"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.296471" lon="8.028663"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.296513" lon="8.028569"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.296632" lon="8.028262"><ele>63.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
