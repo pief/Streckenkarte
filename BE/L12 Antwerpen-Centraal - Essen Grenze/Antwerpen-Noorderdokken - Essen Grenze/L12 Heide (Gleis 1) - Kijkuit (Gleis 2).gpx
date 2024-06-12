@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1503 filtered ascend = 0 plain-ascend = -5 cost=1503 energy=0.0kwh time=2m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.18">
+ <trk>
+  <name>L12 Heide (Gleis 1) - Kijkuit (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/51.37978/4.46891/standard&amp;lonlats=4.461291,51.366188;4.467288,51.379121&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.366185" lon="4.4613"><ele>25.75</ele></trkpt>
+   <trkpt lat="51.374638" lon="4.465898"><ele>23.25</ele></trkpt>
+   <trkpt lat="51.375151" lon="4.466176"><ele>23</ele></trkpt>
+   <trkpt lat="51.37546" lon="4.466337"><ele>23.5</ele></trkpt>
+   <trkpt lat="51.376006" lon="4.466588"><ele>24.25</ele></trkpt>
+   <trkpt lat="51.376554" lon="4.466801"><ele>24.5</ele></trkpt>
+   <trkpt lat="51.376791" lon="4.466881"><ele>24.75</ele></trkpt>
+   <trkpt lat="51.377112" lon="4.466978"><ele>24.75</ele></trkpt>
+   <trkpt lat="51.377669" lon="4.467117"><ele>24.25</ele></trkpt>
+   <trkpt lat="51.378233" lon="4.467217"><ele>22.25</ele></trkpt>
+   <trkpt lat="51.378621" lon="4.467262"><ele>21</ele></trkpt>
+   <trkpt lat="51.379119" lon="4.467297"><ele>19.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

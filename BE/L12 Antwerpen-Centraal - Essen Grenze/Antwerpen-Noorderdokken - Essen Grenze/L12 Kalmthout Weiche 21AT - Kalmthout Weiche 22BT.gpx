@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 235 filtered ascend = 2 plain-ascend = 3 cost=235 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.18">
+ <trk>
+  <name>L12 Kalmthout Weiche 21AT - Kalmthout Weiche 22BT</name>
+  <link href="https://bikerouter.de/#map=19/51.38683/4.46745/standard&amp;lonlats=4.466983,51.384983;4.466862,51.387085&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.384983" lon="4.466987"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.384984" lon="4.466987"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.38708" lon="4.466864"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.387085" lon="4.466863"><ele>19.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

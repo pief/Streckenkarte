@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 202 filtered ascend = 0 plain-ascend = 1 cost=202 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.18">
+ <trk>
+  <name>L12 Kapellen Weiche 01T - Kapellen (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/51.31218/4.43269/standard&amp;lonlats=4.433045,51.313942;4.432117,51.312227&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313941" lon="4.433048"><ele>8</ele></trkpt>
+   <trkpt lat="51.313824" lon="4.432989"><ele>8</ele></trkpt>
+   <trkpt lat="51.313605" lon="4.432863"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.312523" lon="4.432279"><ele>8.75</ele></trkpt>
+   <trkpt lat="51.312226" lon="4.432117"><ele>8.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
