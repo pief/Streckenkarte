@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 0 plain-ascend = -2 cost=382 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.19">
+ <trk>
+  <name>L37 Welkenraedt Weiche 08BK - Welkenraedt (Gleis 5)</name>
+  <link href="https://bikerouter.de/#map=19/50.65938/5.97610/standard&amp;lonlats=5.980875,50.659645;5.975516,50.659397&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.659646" lon="5.980873"><ele>257.25</ele></trkpt>
+   <trkpt lat="50.659647" lon="5.980875"><ele>257.5</ele></trkpt>
+   <trkpt lat="50.659574" lon="5.97943"><ele>256.5</ele></trkpt>
+   <trkpt lat="50.659518" lon="5.978213"><ele>256.5</ele></trkpt>
+   <trkpt lat="50.659393" lon="5.975537"><ele>256.5</ele></trkpt>
+   <trkpt lat="50.659392" lon="5.975515"><ele>254.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
