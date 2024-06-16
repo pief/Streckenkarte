@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 562 filtered ascend = 0 plain-ascend = -8 cost=562 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.19">
+ <trk>
+  <name>L49 Eupen (Gleis 2) - Eupen Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/50.63464/6.03874/standard&amp;lonlats=6.03999,50.634951;6.032969,50.636936&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.634958" lon="6.039992"><ele>287.75</ele></trkpt>
+   <trkpt lat="50.635091" lon="6.038914"><ele>286</ele></trkpt>
+   <trkpt lat="50.635353" lon="6.036774"><ele>285.75</ele></trkpt>
+   <trkpt lat="50.635435" lon="6.036265"><ele>284.75</ele></trkpt>
+   <trkpt lat="50.635512" lon="6.035913"><ele>283.75</ele></trkpt>
+   <trkpt lat="50.635605" lon="6.035553"><ele>283</ele></trkpt>
+   <trkpt lat="50.635734" lon="6.035096"><ele>282</ele></trkpt>
+   <trkpt lat="50.635892" lon="6.034645"><ele>280.25</ele></trkpt>
+   <trkpt lat="50.636047" lon="6.034288"><ele>278.75</ele></trkpt>
+   <trkpt lat="50.636205" lon="6.033981"><ele>277.75</ele></trkpt>
+   <trkpt lat="50.636303" lon="6.033813"><ele>277.5</ele></trkpt>
+   <trkpt lat="50.636404" lon="6.03366"><ele>277.25</ele></trkpt>
+   <trkpt lat="50.636594" lon="6.033396"><ele>276.75</ele></trkpt>
+   <trkpt lat="50.636936" lon="6.03297"><ele>275.5</ele></trkpt>
+   <trkpt lat="50.636936" lon="6.032969"><ele>279</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
