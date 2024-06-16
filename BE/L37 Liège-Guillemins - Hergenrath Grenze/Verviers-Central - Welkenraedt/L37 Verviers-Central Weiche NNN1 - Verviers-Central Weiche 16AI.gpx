@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 355 filtered ascend = 0 plain-ascend = -1 cost=356 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.19">
+ <trk>
+  <name>L37 Verviers-Central Weiche NNN1 - Verviers-Central Weiche 16AI</name>
+  <link href="https://bikerouter.de/#map=18/50.59026/5.86121/standard&amp;lonlats=5.85611,50.588867;5.860375,50.590416&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.588867" lon="5.85611"><ele>180.5</ele></trkpt>
+   <trkpt lat="50.58913" lon="5.856489"><ele>180.5</ele></trkpt>
+   <trkpt lat="50.589354" lon="5.856888"><ele>180.5</ele></trkpt>
+   <trkpt lat="50.589583" lon="5.857334"><ele>180.25</ele></trkpt>
+   <trkpt lat="50.589693" lon="5.857575"><ele>179.75</ele></trkpt>
+   <trkpt lat="50.589869" lon="5.858011"><ele>179</ele></trkpt>
+   <trkpt lat="50.589978" lon="5.858341"><ele>178.25</ele></trkpt>
+   <trkpt lat="50.590129" lon="5.858884"><ele>177.5</ele></trkpt>
+   <trkpt lat="50.59019" lon="5.859152"><ele>177.25</ele></trkpt>
+   <trkpt lat="50.590302" lon="5.859718"><ele>177.75</ele></trkpt>
+   <trkpt lat="50.590409" lon="5.860376"><ele>178.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

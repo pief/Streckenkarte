@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 236 filtered ascend = 0 plain-ascend = -10 cost=236 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.19">
+ <trk>
+  <name>L37 Dolhain-Gilleppe (Gleis 2) - Dolhain-Gilleppe Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/50.62400/5.93848/standard&amp;lonlats=5.938499,50.626154;5.938218,50.624047&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.626152" lon="5.9385"><ele>220.75</ele></trkpt>
+   <trkpt lat="50.625914" lon="5.938445"><ele>221</ele></trkpt>
+   <trkpt lat="50.625659" lon="5.938408"><ele>220</ele></trkpt>
+   <trkpt lat="50.624647" lon="5.938287"><ele>213.5</ele></trkpt>
+   <trkpt lat="50.62405" lon="5.938217"><ele>210.25</ele></trkpt>
+   <trkpt lat="50.624046" lon="5.938216"><ele>209.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

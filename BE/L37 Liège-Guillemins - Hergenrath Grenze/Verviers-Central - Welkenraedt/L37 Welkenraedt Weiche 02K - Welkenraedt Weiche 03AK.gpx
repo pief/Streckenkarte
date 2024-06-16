@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 0 plain-ascend = 0 cost=26 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.19">
+ <trk>
+  <name>L37 Welkenraedt Weiche 02K - Welkenraedt Weiche 03AK</name>
+  <link href="https://bikerouter.de/#map=19/50.65916/5.97097/standard&amp;lonlats=5.970765,50.659192;5.971128,50.659221&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.659192" lon="5.970765"><ele>253</ele></trkpt>
+   <trkpt lat="50.659217" lon="5.971127"><ele>253</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

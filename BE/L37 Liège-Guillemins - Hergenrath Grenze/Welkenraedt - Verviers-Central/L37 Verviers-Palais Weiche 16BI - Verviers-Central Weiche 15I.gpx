@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 378 filtered ascend = 0 plain-ascend = 1 cost=378 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.19">
+ <trk>
+  <name>L37 Verviers-Palais Weiche 16BI - Verviers-Central Weiche 15I</name>
+  <link href="https://bikerouter.de/#map=18/50.58906/5.85729/standard&amp;lonlats=5.861306,50.590517;5.856542,50.589103&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.590517" lon="5.861306"><ele>180.25</ele></trkpt>
+   <trkpt lat="50.590426" lon="5.860698"><ele>179.25</ele></trkpt>
+   <trkpt lat="50.590317" lon="5.860028"><ele>178.5</ele></trkpt>
+   <trkpt lat="50.59021" lon="5.859439"><ele>178</ele></trkpt>
+   <trkpt lat="50.590092" lon="5.858903"><ele>178</ele></trkpt>
+   <trkpt lat="50.590021" lon="5.858635"><ele>178.25</ele></trkpt>
+   <trkpt lat="50.589945" lon="5.858365"><ele>178.75</ele></trkpt>
+   <trkpt lat="50.589835" lon="5.858039"><ele>179.5</ele></trkpt>
+   <trkpt lat="50.589763" lon="5.857851"><ele>180</ele></trkpt>
+   <trkpt lat="50.589555" lon="5.85737"><ele>180.75</ele></trkpt>
+   <trkpt lat="50.589467" lon="5.857184"><ele>181</ele></trkpt>
+   <trkpt lat="50.589329" lon="5.85692"><ele>181</ele></trkpt>
+   <trkpt lat="50.589102" lon="5.856541"><ele>181</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

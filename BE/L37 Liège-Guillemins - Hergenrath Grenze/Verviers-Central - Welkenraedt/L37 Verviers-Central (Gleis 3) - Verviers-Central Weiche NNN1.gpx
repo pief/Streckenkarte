@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 1 plain-ascend = 1 cost=199 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.19">
+ <trk>
+  <name>L37 Verviers-Central (Gleis 3) - Verviers-Central Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/50.58859/5.85599/standard&amp;lonlats=5.85427,50.587538;5.85611,50.588868&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.587535" lon="5.854273"><ele>176.5</ele></trkpt>
+   <trkpt lat="50.588068" lon="5.854999"><ele>177.5</ele></trkpt>
+   <trkpt lat="50.588867" lon="5.85611"><ele>177.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
