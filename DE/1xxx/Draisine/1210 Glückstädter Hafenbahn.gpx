@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 497 filtered ascend = 0 plain-ascend = 0 cost=497 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Glückstädter Hafenbahn</name>
+  <link href="https://bikerouter.de/#map=19/53.78638/9.42481/standard&amp;lonlats=9.424373,53.786111;9.417088,53.785748&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.786109" lon="9.42437"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.786056" lon="9.42411"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.785973" lon="9.423768"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785828" lon="9.423246"><ele>2</ele></trkpt>
+   <trkpt lat="53.785774" lon="9.423045"><ele>2</ele></trkpt>
+   <trkpt lat="53.785713" lon="9.422821"><ele>2</ele></trkpt>
+   <trkpt lat="53.785604" lon="9.422381"><ele>2</ele></trkpt>
+   <trkpt lat="53.785569" lon="9.422185"><ele>2</ele></trkpt>
+   <trkpt lat="53.785552" lon="9.421988"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.78554" lon="9.421569"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785548" lon="9.421351"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785567" lon="9.421142"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785593" lon="9.420943"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785791" lon="9.419558"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.78582" lon="9.419291"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785846" lon="9.418889"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785832" lon="9.418486"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.785746" lon="9.417087"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
