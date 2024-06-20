@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 376 filtered ascend = 1 plain-ascend = 1 cost=376 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>9123 Geesthacht - Geesthacht Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/53.43419/10.36494/standard&amp;lonlats=10.364524,53.434189;10.361728,53.437128&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.434188" lon="10.364521"><ele>10.75</ele></trkpt>
+   <trkpt lat="53.434192" lon="10.364518"><ele>10.75</ele></trkpt>
+   <trkpt lat="53.434794" lon="10.363942"><ele>11</ele></trkpt>
+   <trkpt lat="53.435468" lon="10.363305"><ele>11</ele></trkpt>
+   <trkpt lat="53.437121" lon="10.361745"><ele>11</ele></trkpt>
+   <trkpt lat="53.43713" lon="10.361736"><ele>11.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
