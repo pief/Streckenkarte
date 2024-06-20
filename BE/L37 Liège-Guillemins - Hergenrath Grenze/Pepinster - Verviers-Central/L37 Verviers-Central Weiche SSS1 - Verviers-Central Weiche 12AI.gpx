@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 204 filtered ascend = 8 plain-ascend = 8 cost=204 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>L37 Verviers-Central Weiche SSS1 - Verviers-Central Weiche 12AI</name>
+  <link href="https://bikerouter.de/#map=18/50.58545/5.85150/standard&amp;lonlats=5.849183,50.584;5.851207,50.585292&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.584" lon="5.849181"><ele>166.25</ele></trkpt>
+   <trkpt lat="50.584005" lon="5.84919"><ele>166.25</ele></trkpt>
+   <trkpt lat="50.584445" lon="5.849945"><ele>166.5</ele></trkpt>
+   <trkpt lat="50.584546" lon="5.850116"><ele>167.5</ele></trkpt>
+   <trkpt lat="50.58468" lon="5.850332"><ele>169</ele></trkpt>
+   <trkpt lat="50.584852" lon="5.850597"><ele>171</ele></trkpt>
+   <trkpt lat="50.58507" lon="5.850912"><ele>173.25</ele></trkpt>
+   <trkpt lat="50.58529" lon="5.851208"><ele>174.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
