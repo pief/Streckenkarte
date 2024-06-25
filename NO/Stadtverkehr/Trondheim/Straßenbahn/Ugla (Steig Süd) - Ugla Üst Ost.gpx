@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 1 plain-ascend = -4 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Ugla (Steig Süd) - Ugla Üst Ost</name>
+  <link href="https://bikerouter.de/#map=19/63.40036/10.34470/standard&amp;lonlats=10.344032,63.400518;10.345369,63.400336&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.400521" lon="10.344035"><ele>170.5</ele></trkpt>
+   <trkpt lat="63.400471" lon="10.344273"><ele>170.5</ele></trkpt>
+   <trkpt lat="63.400418" lon="10.344615"><ele>171</ele></trkpt>
+   <trkpt lat="63.400369" lon="10.345016"><ele>171.5</ele></trkpt>
+   <trkpt lat="63.400337" lon="10.345369"><ele>170</ele></trkpt>
+   <trkpt lat="63.400336" lon="10.345369"><ele>165.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

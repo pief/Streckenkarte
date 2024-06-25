@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 4 plain-ascend = 4 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Bygrensen Üst Nord - Bygrensen (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/63.41876/10.37607/standard&amp;lonlats=10.375619,63.419324;10.375578,63.418726&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.419324" lon="10.375621"><ele>47.5</ele></trkpt>
+   <trkpt lat="63.419323" lon="10.375622"><ele>47.75</ele></trkpt>
+   <trkpt lat="63.419171" lon="10.375616"><ele>49.25</ele></trkpt>
+   <trkpt lat="63.419001" lon="10.375576"><ele>50.25</ele></trkpt>
+   <trkpt lat="63.418729" lon="10.375584"><ele>51</ele></trkpt>
+   <trkpt lat="63.418724" lon="10.375583"><ele>51.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

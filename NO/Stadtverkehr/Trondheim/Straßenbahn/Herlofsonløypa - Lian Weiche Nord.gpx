@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 313 filtered ascend = 5 plain-ascend = 6 cost=626 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Herlofsonløypa - Lian Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/63.40380/10.31640/standard&amp;lonlats=10.319807,63.405173;10.315186,63.403368&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.405173" lon="10.319805"><ele>226.75</ele></trkpt>
+   <trkpt lat="63.405137" lon="10.319463"><ele>226.75</ele></trkpt>
+   <trkpt lat="63.405072" lon="10.319036"><ele>226.25</ele></trkpt>
+   <trkpt lat="63.404939" lon="10.318501"><ele>224.75</ele></trkpt>
+   <trkpt lat="63.404865" lon="10.318262"><ele>224.5</ele></trkpt>
+   <trkpt lat="63.404753" lon="10.317967"><ele>225</ele></trkpt>
+   <trkpt lat="63.404454" lon="10.317305"><ele>224.25</ele></trkpt>
+   <trkpt lat="63.403368" lon="10.315184"><ele>232.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

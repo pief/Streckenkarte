@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 37 filtered ascend = 4 plain-ascend = 5 cost=74 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Ugla (Steg Nord) - Ugla Üst West</name>
+  <link href="https://bikerouter.de/#map=19/63.40064/10.34353/standard&amp;lonlats=10.343732,63.400654;10.343177,63.400857&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.400652" lon="10.343729"><ele>172</ele></trkpt>
+   <trkpt lat="63.400698" lon="10.343578"><ele>172.5</ele></trkpt>
+   <trkpt lat="63.400857" lon="10.343182"><ele>173.75</ele></trkpt>
+   <trkpt lat="63.400858" lon="10.343179"><ele>176.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

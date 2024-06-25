@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 320 filtered ascend = 7 plain-ascend = 7 cost=640 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Bergsli gate Üst - Nyveibakken</name>
+  <link href="https://bikerouter.de/#map=17/63.42538/10.36842/standard&amp;lonlats=10.368562,63.426565;10.372517,63.424316&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.426565" lon="10.368562"><ele>24</ele></trkpt>
+   <trkpt lat="63.426124" lon="10.369119"><ele>25</ele></trkpt>
+   <trkpt lat="63.425885" lon="10.36945"><ele>23.75</ele></trkpt>
+   <trkpt lat="63.425072" lon="10.370736"><ele>28.5</ele></trkpt>
+   <trkpt lat="63.424794" lon="10.371221"><ele>29.25</ele></trkpt>
+   <trkpt lat="63.42458" lon="10.371799"><ele>29.75</ele></trkpt>
+   <trkpt lat="63.424434" lon="10.372243"><ele>30.25</ele></trkpt>
+   <trkpt lat="63.424316" lon="10.372517"><ele>31.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

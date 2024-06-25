@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 302 filtered ascend = 2 plain-ascend = 2 cost=604 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Skansen (Steig Nord) - Ila (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=18/63.42874/10.36868/standard&amp;lonlats=10.373428,63.430013;10.367683,63.42925&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.430018" lon="10.37342"><ele>11.5</ele></trkpt>
+   <trkpt lat="63.430017" lon="10.373416"><ele>11.75</ele></trkpt>
+   <trkpt lat="63.429928" lon="10.373032"><ele>11.5</ele></trkpt>
+   <trkpt lat="63.429864" lon="10.372533"><ele>11</ele></trkpt>
+   <trkpt lat="63.429702" lon="10.371263"><ele>12.5</ele></trkpt>
+   <trkpt lat="63.429687" lon="10.371129"><ele>12.5</ele></trkpt>
+   <trkpt lat="63.429489" lon="10.369569"><ele>13.5</ele></trkpt>
+   <trkpt lat="63.429252" lon="10.367687"><ele>13.75</ele></trkpt>
+   <trkpt lat="63.429251" lon="10.367681"><ele>13.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 173 filtered ascend = 0 plain-ascend = -1 cost=346 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>St. Olavs gate - Dronningens gate 62</name>
+  <link href="https://bikerouter.de/#map=19/63.43134/10.38909/standard&amp;lonlats=10.390312,63.431075;10.388244,63.431572&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.431075" lon="10.390316"><ele>9.25</ele></trkpt>
+   <trkpt lat="63.431078" lon="10.390315"><ele>9.25</ele></trkpt>
+   <trkpt lat="63.43136" lon="10.39018"><ele>9</ele></trkpt>
+   <trkpt lat="63.431683" lon="10.39002"><ele>8.75</ele></trkpt>
+   <trkpt lat="63.431726" lon="10.389977"><ele>8.75</ele></trkpt>
+   <trkpt lat="63.431766" lon="10.389918"><ele>8.5</ele></trkpt>
+   <trkpt lat="63.431795" lon="10.389855"><ele>8.25</ele></trkpt>
+   <trkpt lat="63.431819" lon="10.389746"><ele>8</ele></trkpt>
+   <trkpt lat="63.431834" lon="10.389587"><ele>7.75</ele></trkpt>
+   <trkpt lat="63.431833" lon="10.389528"><ele>7.75</ele></trkpt>
+   <trkpt lat="63.431831" lon="10.389475"><ele>7.75</ele></trkpt>
+   <trkpt lat="63.431815" lon="10.38937"><ele>7.5</ele></trkpt>
+   <trkpt lat="63.431569" lon="10.388245"><ele>7</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

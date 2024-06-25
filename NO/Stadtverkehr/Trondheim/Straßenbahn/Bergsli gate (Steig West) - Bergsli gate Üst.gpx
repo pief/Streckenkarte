@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 2 plain-ascend = 2 cost=156 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.20">
+ <trk>
+  <name>Bergsli gate (Steig West) - Bergsli gate Üst</name>
+  <link href="https://bikerouter.de/#map=19/63.42654/10.36787/standard&amp;lonlats=10.367821,63.427171;10.368559,63.426565&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.427169" lon="10.367813"><ele>23</ele></trkpt>
+   <trkpt lat="63.426985" lon="10.368045"><ele>23.5</ele></trkpt>
+   <trkpt lat="63.426569" lon="10.368558"><ele>24</ele></trkpt>
+   <trkpt lat="63.426565" lon="10.368562"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
