@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 402 filtered ascend = 2 plain-ascend = 2 cost=804 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>Hyazinthstraße (Steig B) - An der Feuerwache (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/51.48084/11.93385/standard&amp;lonlats=11.939762,51.481281;11.934014,51.480808&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.48128" lon="11.939761"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.481272" lon="11.93964"><ele>80</ele></trkpt>
+   <trkpt lat="51.481021" lon="11.935903"><ele>81</ele></trkpt>
+   <trkpt lat="51.480995" lon="11.935526"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.480964" lon="11.935226"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.480957" lon="11.935156"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.480937" lon="11.934997"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.480926" lon="11.934901"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.480906" lon="11.934734"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.480808" lon="11.934026"><ele>82</ele></trkpt>
+   <trkpt lat="51.480806" lon="11.934013"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
