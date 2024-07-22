@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 388 filtered ascend = 1 plain-ascend = 0 cost=776 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>Straßburger Weg (Steig Südwest) - Weinberg Campus (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.49569/11.93821/standard&amp;lonlats=11.935443,51.498309;11.939193,51.495726&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.49831" lon="11.935445"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.498175" lon="11.93564"><ele>88.75</ele></trkpt>
+   <trkpt lat="51.498002" lon="11.935892"><ele>88.5</ele></trkpt>
+   <trkpt lat="51.497361" lon="11.93682"><ele>89.75</ele></trkpt>
+   <trkpt lat="51.496836" lon="11.937582"><ele>89.5</ele></trkpt>
+   <trkpt lat="51.496073" lon="11.938692"><ele>88</ele></trkpt>
+   <trkpt lat="51.495726" lon="11.939193"><ele>87.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
