@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 516 filtered ascend = 0 plain-ascend = -4 cost=1032 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>S-Bahnhof Neustadt (Steig A) - Zentrum Neustadt (Steig A)</name>
+  <link href="https://bikerouter.de/#map=17/51.47897/11.92481/standard&amp;lonlats=11.920655,51.478985;11.927917,51.479938&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478989" lon="11.920653"><ele>84</ele></trkpt>
+   <trkpt lat="51.47899" lon="11.920663"><ele>84</ele></trkpt>
+   <trkpt lat="51.479017" lon="11.921003"><ele>83.25</ele></trkpt>
+   <trkpt lat="51.479019" lon="11.921026"><ele>83.25</ele></trkpt>
+   <trkpt lat="51.479049" lon="11.921328"><ele>82.75</ele></trkpt>
+   <trkpt lat="51.47905" lon="11.921345"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.479055" lon="11.921382"><ele>82.5</ele></trkpt>
+   <trkpt lat="51.479098" lon="11.921708"><ele>81.75</ele></trkpt>
+   <trkpt lat="51.479516" lon="11.92476"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.479523" lon="11.924814"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.479832" lon="11.927142"><ele>81.75</ele></trkpt>
+   <trkpt lat="51.47994" lon="11.927915"><ele>79.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
