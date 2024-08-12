@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 190 filtered ascend = 0 plain-ascend = 0 cost=190 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06a Esch-sur-Alzette Weiche 404 - Esch-sur-Alzette Weiche 401</name>
+  <link href="https://bikerouter.de/#map=19/49.50385/5.99998/standard&amp;lonlats=5.998487,49.503036;6.00067,49.503978&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.503038" lon="5.998483"><ele>296.5</ele></trkpt>
+   <trkpt lat="49.50304" lon="5.998487"><ele>296.5</ele></trkpt>
+   <trkpt lat="49.503494" lon="5.999537"><ele>295</ele></trkpt>
+   <trkpt lat="49.503979" lon="6.000667"><ele>295.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
