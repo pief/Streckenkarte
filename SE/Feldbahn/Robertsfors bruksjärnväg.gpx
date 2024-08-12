@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 401 filtered ascend = 0 plain-ascend = -3 cost=401 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>Robertsfors bruksjärnväg</name>
+  <link href="https://bikerouter.de/#map=17/64.18320/20.85398/standard&amp;lonlats=20.851358,64.184697;20.859457,64.18406&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="64.184697" lon="20.851358"><ele>42.25</ele></trkpt>
+   <trkpt lat="64.184697" lon="20.851364"><ele>42.25</ele></trkpt>
+   <trkpt lat="64.184677" lon="20.851594"><ele>42</ele></trkpt>
+   <trkpt lat="64.184672" lon="20.851733"><ele>41.75</ele></trkpt>
+   <trkpt lat="64.184675" lon="20.851936"><ele>41.75</ele></trkpt>
+   <trkpt lat="64.184666" lon="20.85204"><ele>41.75</ele></trkpt>
+   <trkpt lat="64.184592" lon="20.852919"><ele>41.75</ele></trkpt>
+   <trkpt lat="64.184226" lon="20.857266"><ele>40.25</ele></trkpt>
+   <trkpt lat="64.184041" lon="20.859448"><ele>38.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
