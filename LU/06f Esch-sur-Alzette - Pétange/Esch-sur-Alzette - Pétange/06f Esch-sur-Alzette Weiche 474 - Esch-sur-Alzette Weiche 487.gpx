@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 239 filtered ascend = 1 plain-ascend = 2 cost=239 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06f Esch-sur-Alzette Weiche 474 - Esch-sur-Alzette Weiche 487</name>
+  <link href="https://bikerouter.de/#map=19/49.49168/5.98311/standard&amp;lonlats=5.984333,49.493136;5.98296,49.492107;5.982179,49.491527&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.493135" lon="5.984332"><ele>298.75</ele></trkpt>
+   <trkpt lat="49.493134" lon="5.98433"><ele>299</ele></trkpt>
+   <trkpt lat="49.492612" lon="5.98361"><ele>299</ele></trkpt>
+   <trkpt lat="49.492111" lon="5.98295"><ele>299.75</ele></trkpt>
+   <trkpt lat="49.491527" lon="5.982181"><ele>299.75</ele></trkpt>
+   <trkpt lat="49.491526" lon="5.982179"><ele>300</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

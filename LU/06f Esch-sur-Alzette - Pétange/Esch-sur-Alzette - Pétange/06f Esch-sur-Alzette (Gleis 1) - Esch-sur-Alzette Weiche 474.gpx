@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 2 plain-ascend = 2 cost=101 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06f Esch-sur-Alzette (Gleis 1) - Esch-sur-Alzette Weiche 474</name>
+  <link href="https://bikerouter.de/#map=18/49.49302/5.98688/standard&amp;lonlats=5.985268,49.49381;5.984333,49.493136&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.493809" lon="5.985267"><ele>296.75</ele></trkpt>
+   <trkpt lat="49.493135" lon="5.984332"><ele>299</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

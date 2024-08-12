@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 542 filtered ascend = 5 plain-ascend = 5 cost=542 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06f Belval-Usines Weiche 12 - Belval-Université (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.49976/5.94641/standard&amp;lonlats=5.952868,49.497324;5.946347,49.499591&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.497322" lon="5.952867"><ele>302.75</ele></trkpt>
+   <trkpt lat="49.497323" lon="5.952865"><ele>303</ele></trkpt>
+   <trkpt lat="49.49775" lon="5.950828"><ele>306.25</ele></trkpt>
+   <trkpt lat="49.497849" lon="5.950426"><ele>306</ele></trkpt>
+   <trkpt lat="49.497955" lon="5.950052"><ele>305.75</ele></trkpt>
+   <trkpt lat="49.498015" lon="5.949863"><ele>305.75</ele></trkpt>
+   <trkpt lat="49.498177" lon="5.949418"><ele>305</ele></trkpt>
+   <trkpt lat="49.498378" lon="5.94895"><ele>305</ele></trkpt>
+   <trkpt lat="49.499345" lon="5.946893"><ele>307.5</ele></trkpt>
+   <trkpt lat="49.49959" lon="5.946346"><ele>308</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
