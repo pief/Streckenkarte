@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 901 filtered ascend = 0 plain-ascend = -4 cost=901 energy=0.0kwh time=1m 12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06f Belval-Lycée (Gleis 1) - Belval-Université (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.49921/5.94642/standard&amp;lonlats=5.934505,49.501479;5.946237,49.499488&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.501481" lon="5.934503"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.501482" lon="5.934505"><ele>312.25</ele></trkpt>
+   <trkpt lat="49.501475" lon="5.938693"><ele>308.5</ele></trkpt>
+   <trkpt lat="49.501453" lon="5.939175"><ele>307.5</ele></trkpt>
+   <trkpt lat="49.501434" lon="5.939406"><ele>307</ele></trkpt>
+   <trkpt lat="49.501385" lon="5.939807"><ele>306.25</ele></trkpt>
+   <trkpt lat="49.501324" lon="5.940171"><ele>305.75</ele></trkpt>
+   <trkpt lat="49.501233" lon="5.940609"><ele>305.5</ele></trkpt>
+   <trkpt lat="49.500901" lon="5.942071"><ele>305.25</ele></trkpt>
+   <trkpt lat="49.500721" lon="5.942806"><ele>305.75</ele></trkpt>
+   <trkpt lat="49.5006" lon="5.943245"><ele>306</ele></trkpt>
+   <trkpt lat="49.500414" lon="5.943863"><ele>305.75</ele></trkpt>
+   <trkpt lat="49.500206" lon="5.944487"><ele>306</ele></trkpt>
+   <trkpt lat="49.500044" lon="5.944926"><ele>306.75</ele></trkpt>
+   <trkpt lat="49.499856" lon="5.945408"><ele>307.25</ele></trkpt>
+   <trkpt lat="49.49963" lon="5.945933"><ele>308.25</ele></trkpt>
+   <trkpt lat="49.499488" lon="5.946237"><ele>307.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

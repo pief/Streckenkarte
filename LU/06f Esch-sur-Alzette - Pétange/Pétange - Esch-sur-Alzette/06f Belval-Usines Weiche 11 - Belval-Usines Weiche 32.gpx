@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 649 filtered ascend = 0 plain-ascend = -6 cost=649 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06f Belval-Usines Weiche 11 - Belval-Usines Weiche 32</name>
+  <link href="https://bikerouter.de/#map=19/49.49537/5.95926/standard&amp;lonlats=5.951422,49.497586;5.959664,49.495427&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.497587" lon="5.951422"><ele>306.25</ele></trkpt>
+   <trkpt lat="49.497586" lon="5.951428"><ele>306.25</ele></trkpt>
+   <trkpt lat="49.496691" lon="5.955729"><ele>301</ele></trkpt>
+   <trkpt lat="49.496537" lon="5.956425"><ele>301.25</ele></trkpt>
+   <trkpt lat="49.496417" lon="5.956881"><ele>301.25</ele></trkpt>
+   <trkpt lat="49.496233" lon="5.957476"><ele>301.25</ele></trkpt>
+   <trkpt lat="49.496089" lon="5.957886"><ele>300.75</ele></trkpt>
+   <trkpt lat="49.495767" lon="5.958756"><ele>299.75</ele></trkpt>
+   <trkpt lat="49.495429" lon="5.959661"><ele>299.75</ele></trkpt>
+   <trkpt lat="49.495427" lon="5.959664"><ele>299</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
