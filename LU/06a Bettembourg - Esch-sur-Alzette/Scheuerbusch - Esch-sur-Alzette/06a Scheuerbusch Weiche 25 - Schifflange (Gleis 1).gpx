@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1130 filtered ascend = 0 plain-ascend = 0 cost=1130 energy=0.0kwh time=1m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06a Scheuerbusch Weiche 25 - Schifflange (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/49.50775/6.00826/standard&amp;lonlats=6.0244,49.509712;6.009701,49.506457&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.50971" lon="6.0244"><ele>293.25</ele></trkpt>
+   <trkpt lat="49.508529" lon="6.020717"><ele>288.5</ele></trkpt>
+   <trkpt lat="49.508273" lon="6.019898"><ele>288</ele></trkpt>
+   <trkpt lat="49.508147" lon="6.019442"><ele>287.25</ele></trkpt>
+   <trkpt lat="49.508043" lon="6.018999"><ele>286.75</ele></trkpt>
+   <trkpt lat="49.507994" lon="6.018771"><ele>286.5</ele></trkpt>
+   <trkpt lat="49.507877" lon="6.018116"><ele>286.25</ele></trkpt>
+   <trkpt lat="49.507852" lon="6.017968"><ele>286</ele></trkpt>
+   <trkpt lat="49.506953" lon="6.012408"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.50677" lon="6.011356"><ele>287.25</ele></trkpt>
+   <trkpt lat="49.506461" lon="6.0097"><ele>286.5</ele></trkpt>
+   <trkpt lat="49.50646" lon="6.009698"><ele>293.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

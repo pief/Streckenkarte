@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1003 filtered ascend = 0 plain-ascend = -2 cost=1003 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06a Bettembourg-M Weiche 60ab/cd - Bettembourg-M Weiche 94</name>
+  <link href="https://bikerouter.de/#map=18/49.50515/6.09763/standard&amp;lonlats=6.105919,49.497038;6.098059,49.504355&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.497038" lon="6.105919"><ele>277.75</ele></trkpt>
+   <trkpt lat="49.497037" lon="6.105923"><ele>278</ele></trkpt>
+   <trkpt lat="49.497177" lon="6.105615"><ele>277.5</ele></trkpt>
+   <trkpt lat="49.497344" lon="6.10527"><ele>277</ele></trkpt>
+   <trkpt lat="49.49759" lon="6.104842"><ele>277.5</ele></trkpt>
+   <trkpt lat="49.497837" lon="6.104487"><ele>278</ele></trkpt>
+   <trkpt lat="49.498017" lon="6.104256"><ele>278</ele></trkpt>
+   <trkpt lat="49.498184" lon="6.104066"><ele>277.75</ele></trkpt>
+   <trkpt lat="49.501987" lon="6.099994"><ele>276</ele></trkpt>
+   <trkpt lat="49.503117" lon="6.098791"><ele>276.5</ele></trkpt>
+   <trkpt lat="49.503227" lon="6.098684"><ele>276.5</ele></trkpt>
+   <trkpt lat="49.503442" lon="6.098499"><ele>276.5</ele></trkpt>
+   <trkpt lat="49.503656" lon="6.098352"><ele>276</ele></trkpt>
+   <trkpt lat="49.503938" lon="6.098202"><ele>275.5</ele></trkpt>
+   <trkpt lat="49.504205" lon="6.0981"><ele>275</ele></trkpt>
+   <trkpt lat="49.504355" lon="6.098062"><ele>275</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1392 filtered ascend = 7 plain-ascend = 7 cost=1392 energy=0.0kwh time=1m 51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06 Bettembourg Grenze - Bettembourg-M Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/49.48436/6.11014/standard&amp;lonlats=6.107891,49.472062;6.110689,49.48444&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.472062" lon="6.107891"><ele>277.75</ele></trkpt>
+   <trkpt lat="49.47254" lon="6.107879"><ele>278.5</ele></trkpt>
+   <trkpt lat="49.47298" lon="6.107906"><ele>279.25</ele></trkpt>
+   <trkpt lat="49.473423" lon="6.107966"><ele>279.75</ele></trkpt>
+   <trkpt lat="49.473863" lon="6.108056"><ele>281.5</ele></trkpt>
+   <trkpt lat="49.484438" lon="6.110691"><ele>285</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

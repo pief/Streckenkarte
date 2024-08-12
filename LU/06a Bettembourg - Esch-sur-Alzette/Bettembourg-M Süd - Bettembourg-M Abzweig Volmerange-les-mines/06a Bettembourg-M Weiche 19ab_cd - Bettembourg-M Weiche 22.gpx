@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 0 plain-ascend = 0 cost=73 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06a Bettembourg-M Weiche 19ab/cd - Bettembourg-M Weiche 22</name>
+  <link href="https://bikerouter.de/#map=18/49.48738/6.11043/standard&amp;lonlats=6.111008,49.486853;6.111014,49.487511&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.486851" lon="6.111008"><ele>283.5</ele></trkpt>
+   <trkpt lat="49.487133" lon="6.111028"><ele>283.25</ele></trkpt>
+   <trkpt lat="49.487291" lon="6.111029"><ele>283.25</ele></trkpt>
+   <trkpt lat="49.487511" lon="6.111016"><ele>282.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 95 filtered ascend = 1 plain-ascend = 1 cost=95 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06a Bettembourg-W Weiche 199 - Bettembourg-W Weiche 201</name>
+  <link href="https://bikerouter.de/#map=19/49.51474/6.09279/standard&amp;lonlats=6.093324,49.514644;6.09223,49.515097&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.514644" lon="6.093324"><ele>278.5</ele></trkpt>
+   <trkpt lat="49.514646" lon="6.093321"><ele>278.75</ele></trkpt>
+   <trkpt lat="49.514951" lon="6.092631"><ele>278.75</ele></trkpt>
+   <trkpt lat="49.515091" lon="6.092232"><ele>279.25</ele></trkpt>
+   <trkpt lat="49.515092" lon="6.092227"><ele>279.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
