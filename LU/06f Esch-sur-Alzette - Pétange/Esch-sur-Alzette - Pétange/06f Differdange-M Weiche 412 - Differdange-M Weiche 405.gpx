@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = -1 cost=102 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06f Differdange-M Weiche 412 - Differdange-M Weiche 405</name>
+  <link href="https://bikerouter.de/#map=19/49.53327/5.89338/standard&amp;lonlats=5.8928,49.532788;5.89299,49.533686&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.532786" lon="5.8928"><ele>302.75</ele></trkpt>
+   <trkpt lat="49.533257" lon="5.892924"><ele>302</ele></trkpt>
+   <trkpt lat="49.533472" lon="5.892964"><ele>301.5</ele></trkpt>
+   <trkpt lat="49.533685" lon="5.892991"><ele>301</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

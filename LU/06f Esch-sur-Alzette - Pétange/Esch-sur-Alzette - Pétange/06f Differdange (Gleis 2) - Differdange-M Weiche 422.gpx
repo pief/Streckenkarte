@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 1 plain-ascend = 2 cost=307 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06f Differdange (Gleis 2) - Differdange-M Weiche 422</name>
+  <link href="https://bikerouter.de/#map=18/49.52546/5.89379/standard&amp;lonlats=5.891674,49.522517;5.891872,49.525222&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.522517" lon="5.891674"><ele>303.75</ele></trkpt>
+   <trkpt lat="49.522721" lon="5.891765"><ele>302.75</ele></trkpt>
+   <trkpt lat="49.522997" lon="5.891881"><ele>301.5</ele></trkpt>
+   <trkpt lat="49.523334" lon="5.891998"><ele>300</ele></trkpt>
+   <trkpt lat="49.523486" lon="5.892036"><ele>300.75</ele></trkpt>
+   <trkpt lat="49.523761" lon="5.892085"><ele>302</ele></trkpt>
+   <trkpt lat="49.524005" lon="5.8921"><ele>303</ele></trkpt>
+   <trkpt lat="49.524264" lon="5.892089"><ele>304</ele></trkpt>
+   <trkpt lat="49.524562" lon="5.892044"><ele>304.5</ele></trkpt>
+   <trkpt lat="49.52472" lon="5.892009"><ele>304.75</ele></trkpt>
+   <trkpt lat="49.525222" lon="5.891872"><ele>305.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
