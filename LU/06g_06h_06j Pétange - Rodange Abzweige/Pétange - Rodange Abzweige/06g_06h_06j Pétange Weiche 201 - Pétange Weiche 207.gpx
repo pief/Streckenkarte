@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = -2 cost=121 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06g/06h/06j Pétange Weiche 201 - Pétange Weiche 207</name>
+  <link href="https://bikerouter.de/#map=19/49.55360/5.87605/standard&amp;lonlats=5.877258,49.553901;5.875634,49.553626&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.553901" lon="5.877256"><ele>291.5</ele></trkpt>
+   <trkpt lat="49.553762" lon="5.876521"><ele>291</ele></trkpt>
+   <trkpt lat="49.553715" lon="5.876245"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.553623" lon="5.875633"><ele>288.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

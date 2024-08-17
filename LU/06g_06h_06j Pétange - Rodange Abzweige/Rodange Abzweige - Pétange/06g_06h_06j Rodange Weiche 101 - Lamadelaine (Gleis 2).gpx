@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 276 filtered ascend = 2 plain-ascend = 2 cost=276 energy=0.0kwh time=22s -->
+<!-- track-length = 274 filtered ascend = 1 plain-ascend = 2 cost=274 energy=0.0kwh time=22s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.5">
+ creator="bikerouter.de 2024.23">
  <trk>
-  <name>06g/06h Rodange Weiche 101 - Lamadelaine (Gleis 2)</name>
-  <link href="https://bikerouter.de/#map=19/49.55343/5.86204/standard&amp;lonlats=5.857126,49.553096;5.860868,49.553376&amp;profile=rail">
+  <name>06g/06h/06j Rodange Weiche 101 - Lamadelaine (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.55325/5.86073/standard&amp;lonlats=5.857129,49.553096;5.860862,49.553367&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.553096" lon="5.857124"><ele>275</ele></trkpt>
-   <trkpt lat="49.553097" lon="5.857126"><ele>275.25</ele></trkpt>
+   <trkpt lat="49.553097" lon="5.857127"><ele>275.25</ele></trkpt>
    <trkpt lat="49.55323" lon="5.857946"><ele>277</ele></trkpt>
    <trkpt lat="49.553297" lon="5.858398"><ele>277</ele></trkpt>
    <trkpt lat="49.553346" lon="5.858828"><ele>276.25</ele></trkpt>
@@ -21,7 +20,7 @@
    <trkpt lat="49.553388" lon="5.859476"><ele>276</ele></trkpt>
    <trkpt lat="49.553395" lon="5.859889"><ele>276.5</ele></trkpt>
    <trkpt lat="49.553385" lon="5.860458"><ele>276.75</ele></trkpt>
-   <trkpt lat="49.553371" lon="5.860867"><ele>276.75</ele></trkpt>
+   <trkpt lat="49.553371" lon="5.860862"><ele>276.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=54 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06g/06h/06j Rodange Weiche 108 - Rodange Weiche 109</name>
+  <link href="https://bikerouter.de/#map=19/49.55273/5.85273/standard&amp;lonlats=5.853313,49.552641;5.852593,49.552579&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.552641" lon="5.853311"><ele>271.75</ele></trkpt>
+   <trkpt lat="49.552642" lon="5.853316"><ele>271.75</ele></trkpt>
+   <trkpt lat="49.552577" lon="5.852592"><ele>272</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 294 filtered ascend = 0 plain-ascend = 0 cost=294 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>06g/06h/06j Rodange (Gleis 7) - Rodange Weiche 109</name>
+  <link href="https://bikerouter.de/#map=19/49.55214/5.84874/standard&amp;lonlats=5.848626,49.552059;5.852593,49.552579&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.552054" lon="5.848626"><ele>273</ele></trkpt>
+   <trkpt lat="49.552388" lon="5.851042"><ele>272.5</ele></trkpt>
+   <trkpt lat="49.552501" lon="5.851886"><ele>272.5</ele></trkpt>
+   <trkpt lat="49.552577" lon="5.852589"><ele>272</ele></trkpt>
+   <trkpt lat="49.552577" lon="5.852592"><ele>271.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
