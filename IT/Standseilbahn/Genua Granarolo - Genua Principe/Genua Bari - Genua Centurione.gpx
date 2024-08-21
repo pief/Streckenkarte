@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 97 filtered ascend = 0 plain-ascend = -16 cost=97 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>Genua Bari - Genua Centurione</name>
+  <link href="https://bikerouter.de/#map=19/44.42090/8.91687/standard&amp;lonlats=8.916657,44.420835;8.916625,44.419971&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.420834" lon="8.916654"><ele>98</ele></trkpt>
+   <trkpt lat="44.420718" lon="8.916656"><ele>95.75</ele></trkpt>
+   <trkpt lat="44.420521" lon="8.916689"><ele>90.75</ele></trkpt>
+   <trkpt lat="44.420315" lon="8.916682"><ele>87</ele></trkpt>
+   <trkpt lat="44.420134" lon="8.916639"><ele>84.5</ele></trkpt>
+   <trkpt lat="44.420006" lon="8.916631"><ele>82</ele></trkpt>
+   <trkpt lat="44.419973" lon="8.916628"><ele>82</ele></trkpt>
+   <trkpt lat="44.419971" lon="8.916628"><ele>80.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

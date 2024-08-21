@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 157 filtered ascend = 24 plain-ascend = 24 cost=157 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>Genua Cambiaso - Genua Salita Granarolo</name>
+  <link href="https://bikerouter.de/#map=19/44.42309/8.91618/standard&amp;lonlats=8.915944,44.42235;8.915174,44.423653&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.422349" lon="8.915942"><ele>125.75</ele></trkpt>
+   <trkpt lat="44.422392" lon="8.915926"><ele>126.5</ele></trkpt>
+   <trkpt lat="44.422728" lon="8.915778"><ele>132</ele></trkpt>
+   <trkpt lat="44.422953" lon="8.915636"><ele>137</ele></trkpt>
+   <trkpt lat="44.423199" lon="8.915512"><ele>142.25</ele></trkpt>
+   <trkpt lat="44.423362" lon="8.915406"><ele>146.25</ele></trkpt>
+   <trkpt lat="44.42365" lon="8.915169"><ele>150</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
