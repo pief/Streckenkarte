@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = 1 cost=202 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.23">
+ <trk>
+  <name>Dreieck Naturkundemuseum Weiche 250 - Naturkundemuseum (Steig 3)</name>
+  <link href="https://bikerouter.de/#map=19/52.53007/13.38333/standard&amp;lonlats=13.381332,52.530086;13.382725,52.530412&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.530085" lon="13.381331"><ele>43</ele></trkpt>
+   <trkpt lat="52.530087" lon="13.381337"><ele>43</ele></trkpt>
+   <trkpt lat="52.530139" lon="13.381562"><ele>42.75</ele></trkpt>
+   <trkpt lat="52.530227" lon="13.382048"><ele>42.75</ele></trkpt>
+   <trkpt lat="52.530416" lon="13.38272"><ele>43.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
