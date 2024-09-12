@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 475 filtered ascend = 1 plain-ascend = 1 cost=475 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>6751 Rheinsberg(Mark) (Gleis 2) - Rheinsberg(Mark) Weiche 5</name>
+  <link href="https://bikerouter.de/#map=19/53.09267/12.90152/osm-mapnik-german_style&amp;lonlats=12.900181,53.092771;12.904995,53.089641&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.092764" lon="12.90017"><ele>59</ele></trkpt>
+   <trkpt lat="53.091592" lon="12.902038"><ele>60</ele></trkpt>
+   <trkpt lat="53.090167" lon="12.904196"><ele>60</ele></trkpt>
+   <trkpt lat="53.08993" lon="12.904568"><ele>60.25</ele></trkpt>
+   <trkpt lat="53.08964" lon="12.904995"><ele>60</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
