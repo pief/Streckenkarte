@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=3s -->
+<!-- track-length = 29 filtered ascend = 0 plain-ascend = 0 cost=29 energy=0.0kwh time=2s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.18a">
+ creator="bikerouter.de 2024.27">
  <trk>
   <name>6088 Löwenberg (Mark) Weiche 13 - Löwenberg (Mark) Weiche 14</name>
-  <link href="https://bikerouter.de/#map=19/52.89894/13.18853/standard&amp;lonlats=13.188894,52.898621;13.188752,52.89887">
+  <link href="https://bikerouter.de/#map=19/52.89833/13.19075/osm-mapnik-german_style&amp;lonlats=13.188899,52.898629;13.188755,52.898872&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="52.898621" lon="13.188894"><ele>61.25</ele></trkpt>
-   <trkpt lat="52.898736" lon="13.188831"><ele>61.25</ele></trkpt>
-   <trkpt lat="52.898788" lon="13.1888"><ele>61.25</ele></trkpt>
-   <trkpt lat="52.898844" lon="13.188767"><ele>61</ele></trkpt>
-   <trkpt lat="52.89887" lon="13.188752"><ele>61</ele></trkpt>
+   <trkpt lat="52.898628" lon="13.188897"><ele>63</ele></trkpt>
+   <trkpt lat="52.898737" lon="13.188835"><ele>63</ele></trkpt>
+   <trkpt lat="52.898788" lon="13.188804"><ele>63</ele></trkpt>
+   <trkpt lat="52.898844" lon="13.188772"><ele>63</ele></trkpt>
+   <trkpt lat="52.898872" lon="13.188755"><ele>63</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
