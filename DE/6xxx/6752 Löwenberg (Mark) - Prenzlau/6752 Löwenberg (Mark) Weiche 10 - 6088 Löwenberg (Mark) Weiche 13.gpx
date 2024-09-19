@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 1 cost=78 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>6752 Löwenberg (Mark) Weiche 10 - 6088 Löwenberg (Mark) Weiche 13</name>
+  <link href="https://bikerouter.de/#map=19/52.89782/13.19105/osm-mapnik-german_style&amp;lonlats=13.189363,52.898005;13.188899,52.898629&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.898004" lon="13.189361"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.898005" lon="13.189361"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.898408" lon="13.189043"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.898622" lon="13.188901"><ele>63</ele></trkpt>
+   <trkpt lat="52.898628" lon="13.188897"><ele>63</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

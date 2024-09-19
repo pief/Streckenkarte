@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>6752 Löwenberg (Mark) (Gleis 3) - Löwenberg (Mark) Weiche 9</name>
+  <link href="https://bikerouter.de/#map=19/52.89644/13.19143/osm-mapnik-german_style&amp;lonlats=13.190168,52.896764;13.189586,52.897726&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.896763" lon="13.190164"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.896827" lon="13.190128"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.897097" lon="13.189971"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.897506" lon="13.189739"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.897722" lon="13.189587"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.897725" lon="13.189584"><ele>62.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
