@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 429 filtered ascend = 0 plain-ascend = 0 cost=429 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>SPIB Heggedal Weiche 2 - Heggedal (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/59.78676/10.43080/osm-mapnik-german_style&amp;lonlats=10.427774,59.783582;10.431395,59.786966&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.783579" lon="10.42778"><ele>98.75</ele></trkpt>
+   <trkpt lat="59.783587" lon="10.427788"><ele>98.75</ele></trkpt>
+   <trkpt lat="59.783844" lon="10.428078"><ele>98.75</ele></trkpt>
+   <trkpt lat="59.784058" lon="10.428347"><ele>98.5</ele></trkpt>
+   <trkpt lat="59.78424" lon="10.42856"><ele>98.25</ele></trkpt>
+   <trkpt lat="59.784954" lon="10.429303"><ele>98.75</ele></trkpt>
+   <trkpt lat="59.786814" lon="10.431235"><ele>99</ele></trkpt>
+   <trkpt lat="59.786965" lon="10.431393"><ele>98.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

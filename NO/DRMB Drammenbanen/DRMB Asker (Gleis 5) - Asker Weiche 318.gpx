@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 237 filtered ascend = 0 plain-ascend = -1 cost=237 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Asker (Gleis 5) - Asker Weiche 318</name>
+  <link href="https://bikerouter.de/#map=19/59.83319/10.43530/osm-mapnik-german_style&amp;lonlats=10.434834,59.833377;10.432637,59.831559&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.833375" lon="10.434834"><ele>105.25</ele></trkpt>
+   <trkpt lat="59.832917" lon="10.434256"><ele>105.25</ele></trkpt>
+   <trkpt lat="59.832055" lon="10.433176"><ele>104</ele></trkpt>
+   <trkpt lat="59.831892" lon="10.432992"><ele>104</ele></trkpt>
+   <trkpt lat="59.831563" lon="10.432646"><ele>104</ele></trkpt>
+   <trkpt lat="59.831557" lon="10.43264"><ele>103.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
