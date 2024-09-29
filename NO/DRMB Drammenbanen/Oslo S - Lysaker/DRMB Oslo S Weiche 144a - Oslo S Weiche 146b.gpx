@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Oslo S Weiche 144a - Oslo S Weiche 146b</name>
+  <link href="https://bikerouter.de/#map=19/59.91204/10.74959/osm-mapnik-german_style&amp;lonlats=10.748969,59.912198;10.748105,59.912357&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.912196" lon="10.748967"/>
+   <trkpt lat="59.912197" lon="10.748965"/>
+   <trkpt lat="59.912352" lon="10.748108"/>
+   <trkpt lat="59.912353" lon="10.748102"/>
+  </trkseg>
+ </trk>
+</gpx>

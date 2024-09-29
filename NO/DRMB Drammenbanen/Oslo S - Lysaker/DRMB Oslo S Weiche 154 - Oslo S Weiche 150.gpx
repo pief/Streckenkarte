@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Oslo S Weiche 154 - Oslo S Weiche 150</name>
+  <link href="https://bikerouter.de/#map=19/59.91193/10.75122/osm-mapnik-german_style&amp;lonlats=10.75101,59.91172;10.750168,59.911932&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.911718" lon="10.751008"/>
+   <trkpt lat="59.911931" lon="10.750174"/>
+   <trkpt lat="59.911932" lon="10.750168"/>
+  </trkseg>
+ </trk>
+</gpx>

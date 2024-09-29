@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 0 plain-ascend = 0 cost=268 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Sandvika Weiche 240 - Sandvika (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=18/59.89324/10.52592/osm-mapnik-german_style&amp;lonlats=10.528561,59.89386;10.52457,59.892535&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.893858" lon="10.528562"><ele>11.5</ele></trkpt>
+   <trkpt lat="59.892594" lon="10.524741"><ele>11.5</ele></trkpt>
+   <trkpt lat="59.892537" lon="10.524567"><ele>10.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

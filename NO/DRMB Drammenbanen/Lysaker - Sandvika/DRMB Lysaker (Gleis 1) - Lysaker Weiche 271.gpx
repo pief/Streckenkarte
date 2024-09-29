@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 219 filtered ascend = 5 plain-ascend = 6 cost=219 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Lysaker (Gleis 1) - Lysaker Weiche 271</name>
+  <link href="https://bikerouter.de/#map=18/59.91396/10.63335/osm-mapnik-german_style&amp;lonlats=10.637034,59.913616;10.633261,59.914109&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.913616" lon="10.637034"><ele>8</ele></trkpt>
+   <trkpt lat="59.913629" lon="10.636593"><ele>8</ele></trkpt>
+   <trkpt lat="59.913658" lon="10.636148"><ele>9.75</ele></trkpt>
+   <trkpt lat="59.913714" lon="10.635543"><ele>12.75</ele></trkpt>
+   <trkpt lat="59.913775" lon="10.635044"><ele>11</ele></trkpt>
+   <trkpt lat="59.913835" lon="10.634628"><ele>12</ele></trkpt>
+   <trkpt lat="59.913915" lon="10.634174"><ele>12.25</ele></trkpt>
+   <trkpt lat="59.913974" lon="10.633872"><ele>11</ele></trkpt>
+   <trkpt lat="59.914108" lon="10.63326"><ele>13.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

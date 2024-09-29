@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 304 filtered ascend = 0 plain-ascend = 1 cost=304 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Oslo S Weiche 148 - Oslo S (Gleis 9)</name>
+  <link href="https://bikerouter.de/#map=19/59.91082/10.75414/osm-mapnik-german_style&amp;lonlats=10.750149,59.911866;10.754955,59.910595&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.911864" lon="10.750147"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911863" lon="10.750155"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911763" lon="10.750592"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911694" lon="10.750868"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911631" lon="10.75109"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911506" lon="10.751502"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911358" lon="10.751957"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911185" lon="10.752532"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.911026" lon="10.753145"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.910909" lon="10.753654"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.910597" lon="10.754956"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

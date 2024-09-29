@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 476 filtered ascend = 0 plain-ascend = -2 cost=476 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Høvik (Gleis 2) - Høvik Weiche 330</name>
+  <link href="https://bikerouter.de/#map=18/59.90253/10.59179/osm-mapnik-german_style&amp;lonlats=10.582231,59.900867;10.589876,59.902757&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.900867" lon="10.582229"><ele>24</ele></trkpt>
+   <trkpt lat="59.900954" lon="10.5826"><ele>23.75</ele></trkpt>
+   <trkpt lat="59.901177" lon="10.583589"><ele>24</ele></trkpt>
+   <trkpt lat="59.901551" lon="10.585156"><ele>21.75</ele></trkpt>
+   <trkpt lat="59.901725" lon="10.585846"><ele>20.25</ele></trkpt>
+   <trkpt lat="59.902226" lon="10.587734"><ele>21</ele></trkpt>
+   <trkpt lat="59.90253" lon="10.588897"><ele>19.75</ele></trkpt>
+   <trkpt lat="59.902755" lon="10.589876"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 3 plain-ascend = -3 cost=300 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Skøyen Weiche 113b - Skøyen (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=18/59.92215/10.67968/osm-mapnik-german_style&amp;lonlats=10.673422,59.923067;10.67848,59.922404&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.923064" lon="10.673421"><ele>10</ele></trkpt>
+   <trkpt lat="59.923065" lon="10.673425"><ele>10.25</ele></trkpt>
+   <trkpt lat="59.923098" lon="10.674167"><ele>12.5</ele></trkpt>
+   <trkpt lat="59.923104" lon="10.674435"><ele>13</ele></trkpt>
+   <trkpt lat="59.923099" lon="10.674788"><ele>8</ele></trkpt>
+   <trkpt lat="59.92308" lon="10.675134"><ele>7.75</ele></trkpt>
+   <trkpt lat="59.923013" lon="10.675729"><ele>7.5</ele></trkpt>
+   <trkpt lat="59.922934" lon="10.676234"><ele>6.75</ele></trkpt>
+   <trkpt lat="59.922877" lon="10.676533"><ele>7</ele></trkpt>
+   <trkpt lat="59.922767" lon="10.677033"><ele>7</ele></trkpt>
+   <trkpt lat="59.922416" lon="10.678469"><ele>7</ele></trkpt>
+   <trkpt lat="59.922411" lon="10.678487"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

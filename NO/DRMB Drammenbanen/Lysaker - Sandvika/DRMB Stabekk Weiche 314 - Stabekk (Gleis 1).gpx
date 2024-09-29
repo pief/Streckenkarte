@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 174 filtered ascend = 0 plain-ascend = 0 cost=174 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Stabekk Weiche 314 - Stabekk (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/59.90817/10.60758/osm-mapnik-german_style&amp;lonlats=10.60977,59.90899;10.607241,59.908094&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.908989" lon="10.60977"><ele>20.75</ele></trkpt>
+   <trkpt lat="59.908947" lon="10.609664"><ele>20.75</ele></trkpt>
+   <trkpt lat="59.908626" lon="10.608813"><ele>21.25</ele></trkpt>
+   <trkpt lat="59.908415" lon="10.608216"><ele>21.25</ele></trkpt>
+   <trkpt lat="59.908099" lon="10.607232"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

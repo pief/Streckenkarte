@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 716 filtered ascend = 3 plain-ascend = 4 cost=716 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Skøyen Weiche 116b - Skøyen Weiche 104a</name>
+  <link href="https://bikerouter.de/#map=18/59.91939/10.66349/osm-mapnik-german_style&amp;lonlats=10.673083,59.923146;10.669624,59.922546;10.66269,59.919573&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.923146" lon="10.673081"><ele>9</ele></trkpt>
+   <trkpt lat="59.923119" lon="10.6727"><ele>9</ele></trkpt>
+   <trkpt lat="59.923076" lon="10.672239"><ele>9</ele></trkpt>
+   <trkpt lat="59.92302" lon="10.671801"><ele>10.25</ele></trkpt>
+   <trkpt lat="59.922956" lon="10.671378"><ele>10.25</ele></trkpt>
+   <trkpt lat="59.922852" lon="10.670814"><ele>10.75</ele></trkpt>
+   <trkpt lat="59.922744" lon="10.670328"><ele>11</ele></trkpt>
+   <trkpt lat="59.92264" lon="10.669925"><ele>11.75</ele></trkpt>
+   <trkpt lat="59.922551" lon="10.669616"><ele>12</ele></trkpt>
+   <trkpt lat="59.922528" lon="10.669537"><ele>12</ele></trkpt>
+   <trkpt lat="59.922344" lon="10.668981"><ele>12.25</ele></trkpt>
+   <trkpt lat="59.922201" lon="10.668605"><ele>12</ele></trkpt>
+   <trkpt lat="59.921964" lon="10.668041"><ele>12.25</ele></trkpt>
+   <trkpt lat="59.919622" lon="10.662799"><ele>12.5</ele></trkpt>
+   <trkpt lat="59.919573" lon="10.662689"><ele>12.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

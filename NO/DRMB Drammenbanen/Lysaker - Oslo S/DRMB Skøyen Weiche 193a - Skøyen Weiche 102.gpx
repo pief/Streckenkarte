@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12 filtered ascend = 0 plain-ascend = 1 cost=12 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Skøyen Weiche 193a - Skøyen Weiche 102</name>
+  <link href="https://bikerouter.de/#map=19/59.91873/10.66088/osm-mapnik-german_style&amp;lonlats=10.66056,59.918622;10.660713,59.918694&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.918622" lon="10.66056"><ele>12</ele></trkpt>
+   <trkpt lat="59.918692" lon="10.660715"><ele>12.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
