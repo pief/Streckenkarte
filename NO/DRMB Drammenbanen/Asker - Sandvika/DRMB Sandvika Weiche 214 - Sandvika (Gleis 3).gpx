@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 112 filtered ascend = 2 plain-ascend = 2 cost=112 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Sandvika Weiche 214 - Sandvika (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/59.89254/10.52502/osm-mapnik-german_style&amp;lonlats=10.522936,59.891973;10.524605,59.892508&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.891971" lon="10.522936"><ele>10</ele></trkpt>
+   <trkpt lat="59.891974" lon="10.522945"><ele>10.25</ele></trkpt>
+   <trkpt lat="59.892313" lon="10.524029"><ele>10.5</ele></trkpt>
+   <trkpt lat="59.892504" lon="10.524609"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

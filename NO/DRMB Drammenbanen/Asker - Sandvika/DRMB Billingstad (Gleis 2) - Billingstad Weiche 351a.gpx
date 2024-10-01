@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 222 filtered ascend = 1 plain-ascend = 1 cost=223 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Billingstad (Gleis 2) - Billingstad Weiche 351a</name>
+  <link href="https://bikerouter.de/#map=19/59.87533/10.48675/osm-mapnik-german_style&amp;lonlats=10.483124,59.874745;10.486726,59.875551&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.874742" lon="10.483125"><ele>42</ele></trkpt>
+   <trkpt lat="59.874906" lon="10.483734"><ele>42</ele></trkpt>
+   <trkpt lat="59.875011" lon="10.484129"><ele>37.25</ele></trkpt>
+   <trkpt lat="59.875071" lon="10.484368"><ele>38.25</ele></trkpt>
+   <trkpt lat="59.875182" lon="10.48483"><ele>40.5</ele></trkpt>
+   <trkpt lat="59.875245" lon="10.485119"><ele>40.5</ele></trkpt>
+   <trkpt lat="59.87534" lon="10.48561"><ele>43</ele></trkpt>
+   <trkpt lat="59.875549" lon="10.486727"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

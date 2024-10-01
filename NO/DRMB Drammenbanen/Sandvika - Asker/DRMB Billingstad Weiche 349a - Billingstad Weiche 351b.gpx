@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 0 plain-ascend = 0 cost=124 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Billingstad Weiche 349a - Billingstad Weiche 351b</name>
+  <link href="https://bikerouter.de/#map=18/59.87574/10.48632/osm-mapnik-german_style&amp;lonlats=10.487882,59.875805;10.485801,59.875422&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.875803" lon="10.487881"><ele>43</ele></trkpt>
+   <trkpt lat="59.875425" lon="10.485816"><ele>43</ele></trkpt>
+   <trkpt lat="59.875422" lon="10.485799"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = 0 cost=60 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>DRMB Asker Weiche 328 - Asker Weiche 307</name>
+  <link href="https://bikerouter.de/#map=19/59.83503/10.43714/osm-mapnik-german_style&amp;lonlats=10.436819,59.83491;10.437165,59.835126;10.437448,59.835335&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.834907" lon="10.436823"/>
+   <trkpt lat="59.83491" lon="10.436828"/>
+   <trkpt lat="59.83513" lon="10.43715"/>
+   <trkpt lat="59.835335" lon="10.437448"/>
+  </trkseg>
+ </trk>
+</gpx>
