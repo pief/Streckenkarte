@@ -7,14 +7,14 @@
  version="1.1" 
  creator="bikerouter.de 2024.27">
  <trk>
-  <name>DRMB Oslo S Weiche 154 - Oslo S Weiche 150</name>
-  <link href="https://bikerouter.de/#map=19/59.91193/10.75122/osm-mapnik-german_style&amp;lonlats=10.75101,59.91172;10.750168,59.911932&amp;profile=rail">
+  <name>Oslo S Weiche 150 - Oslo S Weiche 154</name>
+  <link href="https://bikerouter.de/#map=19/59.91174/10.75089/osm-mapnik-german_style&amp;lonlats=10.750168,59.911932;10.751008,59.911718&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="59.911718" lon="10.751008"/>
-   <trkpt lat="59.911931" lon="10.750174"/>
    <trkpt lat="59.911932" lon="10.750168"/>
+   <trkpt lat="59.911931" lon="10.750174"/>
+   <trkpt lat="59.911718" lon="10.751008"/>
   </trkseg>
  </trk>
 </gpx>

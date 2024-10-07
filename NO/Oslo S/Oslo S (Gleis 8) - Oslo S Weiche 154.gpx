@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 255 filtered ascend = 0 plain-ascend = 0 cost=255 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>Oslo S (Gleis 8) - Oslo S Weiche 154</name>
+  <link href="https://bikerouter.de/#map=19/59.91161/10.75210/osm-mapnik-german_style&amp;lonlats=10.754993,59.910636;10.751008,59.911718&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.910636" lon="10.754993"><ele>2.5</ele></trkpt>
+   <trkpt lat="59.91095" lon="10.753691"><ele>2.25</ele></trkpt>
+   <trkpt lat="59.91107" lon="10.753193"/>
+   <trkpt lat="59.911231" lon="10.752595"/>
+   <trkpt lat="59.91141" lon="10.752005"/>
+   <trkpt lat="59.911538" lon="10.75162"/>
+   <trkpt lat="59.911717" lon="10.751014"/>
+   <trkpt lat="59.911718" lon="10.751008"/>
+  </trkseg>
+ </trk>
+</gpx>
