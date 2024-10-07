@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 592 filtered ascend = 0 plain-ascend = -9 cost=592 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Lørenskog Weiche 135b - Høybråten (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/59.94802/10.92780/osm-mapnik-german_style&amp;lonlats=10.937828,59.946625;10.927684,59.948118&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.946623" lon="10.937826"><ele>162.25</ele></trkpt>
+   <trkpt lat="59.946624" lon="10.937825"><ele>162.25</ele></trkpt>
+   <trkpt lat="59.94679" lon="10.937026"><ele>161.75</ele></trkpt>
+   <trkpt lat="59.946998" lon="10.935924"><ele>160.75</ele></trkpt>
+   <trkpt lat="59.947086" lon="10.935416"><ele>160.75</ele></trkpt>
+   <trkpt lat="59.947249" lon="10.934393"><ele>158.25</ele></trkpt>
+   <trkpt lat="59.947363" lon="10.933614"><ele>159.5</ele></trkpt>
+   <trkpt lat="59.948071" lon="10.928037"><ele>155.75</ele></trkpt>
+   <trkpt lat="59.948115" lon="10.927682"><ele>152.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

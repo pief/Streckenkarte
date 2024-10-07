@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 7 plain-ascend = 8 cost=70 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Strømmen Weiche 147b - Strømmen Weiche 145a</name>
+  <link href="https://bikerouter.de/#map=19/59.94638/10.99650/osm-mapnik-german_style&amp;lonlats=10.997644,59.94676;10.996765,59.946326&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.946759" lon="10.997643"><ele>150</ele></trkpt>
+   <trkpt lat="59.946758" lon="10.99764"><ele>150.25</ele></trkpt>
+   <trkpt lat="59.946327" lon="10.996772"><ele>148</ele></trkpt>
+   <trkpt lat="59.946324" lon="10.996766"><ele>157.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

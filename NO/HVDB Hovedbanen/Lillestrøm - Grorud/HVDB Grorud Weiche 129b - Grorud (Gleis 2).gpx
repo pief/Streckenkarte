@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 415 filtered ascend = 0 plain-ascend = -1 cost=415 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Grorud Weiche 129b - Grorud (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=17/59.95132/10.88740/osm-mapnik-german_style&amp;lonlats=10.891847,59.952945;10.887712,59.949914&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.952942" lon="10.891849"><ele>129.75</ele></trkpt>
+   <trkpt lat="59.952799" lon="10.891474"><ele>129.25</ele></trkpt>
+   <trkpt lat="59.952722" lon="10.891292"><ele>129</ele></trkpt>
+   <trkpt lat="59.952567" lon="10.890946"><ele>129.5</ele></trkpt>
+   <trkpt lat="59.952408" lon="10.89062"><ele>129.25</ele></trkpt>
+   <trkpt lat="59.952244" lon="10.890315"><ele>129</ele></trkpt>
+   <trkpt lat="59.952076" lon="10.890027"><ele>129</ele></trkpt>
+   <trkpt lat="59.951807" lon="10.88962"><ele>129</ele></trkpt>
+   <trkpt lat="59.951714" lon="10.88949"><ele>128.25</ele></trkpt>
+   <trkpt lat="59.951522" lon="10.889248"><ele>128.25</ele></trkpt>
+   <trkpt lat="59.951425" lon="10.889131"><ele>128</ele></trkpt>
+   <trkpt lat="59.951225" lon="10.888915"><ele>128</ele></trkpt>
+   <trkpt lat="59.950874" lon="10.888583"><ele>128</ele></trkpt>
+   <trkpt lat="59.950211" lon="10.888003"><ele>126.75</ele></trkpt>
+   <trkpt lat="59.950087" lon="10.887886"><ele>126.5</ele></trkpt>
+   <trkpt lat="59.949934" lon="10.887734"><ele>127.75</ele></trkpt>
+   <trkpt lat="59.949913" lon="10.887711"><ele>127.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

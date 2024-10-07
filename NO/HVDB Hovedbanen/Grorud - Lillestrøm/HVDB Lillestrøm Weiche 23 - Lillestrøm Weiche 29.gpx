@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 2 plain-ascend = 2 cost=44 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Lillestrøm Weiche 23 - Lillestrøm Weiche 29</name>
+  <link href="https://bikerouter.de/#map=19/59.95225/11.03997/osm-mapnik-german_style&amp;lonlats=11.039508,59.952353;11.040276,59.95234&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.952351" lon="11.039507"><ele>106.25</ele></trkpt>
+   <trkpt lat="59.952351" lon="11.039509"><ele>106.25</ele></trkpt>
+   <trkpt lat="59.952338" lon="11.040275"><ele>108.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

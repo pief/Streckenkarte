@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 271 filtered ascend = 0 plain-ascend = -9 cost=271 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Lillestrøm Weiche 46 - Lillestrøm Weiche 13</name>
+  <link href="https://bikerouter.de/#map=18/59.95221/11.03369/osm-mapnik-german_style&amp;lonlats=11.033049,59.952304;11.037871,59.95235&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.952303" lon="11.033048"><ele>113.25</ele></trkpt>
+   <trkpt lat="59.952303" lon="11.033053"><ele>113.25</ele></trkpt>
+   <trkpt lat="59.952255" lon="11.034424"><ele>112.25</ele></trkpt>
+   <trkpt lat="59.952243" lon="11.035137"><ele>110</ele></trkpt>
+   <trkpt lat="59.952247" lon="11.035669"><ele>109.75</ele></trkpt>
+   <trkpt lat="59.952261" lon="11.036202"><ele>109.5</ele></trkpt>
+   <trkpt lat="59.952291" lon="11.03683"><ele>103.25</ele></trkpt>
+   <trkpt lat="59.95235" lon="11.037869"><ele>103.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

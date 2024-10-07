@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 5 plain-ascend = 2 cost=196 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Lørenskog Weiche 141a - Lørenskog (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/59.94527/10.94439/osm-mapnik-german_style&amp;lonlats=10.948088,59.944324;10.944966,59.945141&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.944323" lon="10.948088"><ele>157</ele></trkpt>
+   <trkpt lat="59.944424" lon="10.947764"><ele>157</ele></trkpt>
+   <trkpt lat="59.944528" lon="10.947427"><ele>157</ele></trkpt>
+   <trkpt lat="59.944701" lon="10.946843"><ele>159.75</ele></trkpt>
+   <trkpt lat="59.944813" lon="10.946437"><ele>162</ele></trkpt>
+   <trkpt lat="59.944913" lon="10.946029"><ele>161.5</ele></trkpt>
+   <trkpt lat="59.945004" lon="10.945616"><ele>160.25</ele></trkpt>
+   <trkpt lat="59.94514" lon="10.944965"><ele>159</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

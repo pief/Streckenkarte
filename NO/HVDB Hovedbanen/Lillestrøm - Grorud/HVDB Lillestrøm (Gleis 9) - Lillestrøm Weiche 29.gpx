@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 0 plain-ascend = -1 cost=299 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Lillestrøm (Gleis 9) - Lillestrøm Weiche 29</name>
+  <link href="https://bikerouter.de/#map=19/59.95258/11.04146/osm-mapnik-german_style&amp;lonlats=11.045417,59.953013;11.040276,59.95234&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.953009" lon="11.045418"><ele>108.25</ele></trkpt>
+   <trkpt lat="59.952969" lon="11.045194"><ele>108</ele></trkpt>
+   <trkpt lat="59.952821" lon="11.044375"><ele>109</ele></trkpt>
+   <trkpt lat="59.95262" lon="11.043174"><ele>109</ele></trkpt>
+   <trkpt lat="59.952514" lon="11.04246"><ele>109</ele></trkpt>
+   <trkpt lat="59.952415" lon="11.041733"><ele>108.5</ele></trkpt>
+   <trkpt lat="59.95237" lon="11.041293"><ele>108.5</ele></trkpt>
+   <trkpt lat="59.952357" lon="11.041107"><ele>108.25</ele></trkpt>
+   <trkpt lat="59.952341" lon="11.040727"><ele>108.5</ele></trkpt>
+   <trkpt lat="59.952338" lon="11.040282"><ele>108.25</ele></trkpt>
+   <trkpt lat="59.952338" lon="11.040275"><ele>106.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
