@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 147 filtered ascend = 0 plain-ascend = -7 cost=147 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Lodalen Weiche 302b - Lodalen Weiche 303</name>
+  <link href="https://bikerouter.de/#map=18/59.90590/10.78888/osm-mapnik-german_style&amp;lonlats=10.792831,59.905925;10.790221,59.905918&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.905925" lon="10.792829"><ele>47</ele></trkpt>
+   <trkpt lat="59.905925" lon="10.792827"><ele>47.25</ele></trkpt>
+   <trkpt lat="59.905916" lon="10.790226"><ele>44.75</ele></trkpt>
+   <trkpt lat="59.905915" lon="10.79022"><ele>39.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

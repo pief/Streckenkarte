@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 144 filtered ascend = 3 plain-ascend = 4 cost=144 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>Oslo S Weiche 246a - Oslo S Weiche 246b</name>
+  <link href="https://bikerouter.de/#map=19/59.90877/10.76341/osm-mapnik-german_style&amp;lonlats=10.76216,59.908945;10.764606,59.908596&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.908943" lon="10.762158"><ele>4.75</ele></trkpt>
+   <trkpt lat="59.908943" lon="10.762162"><ele>5</ele></trkpt>
+   <trkpt lat="59.908862" lon="10.762677"><ele>6</ele></trkpt>
+   <trkpt lat="59.908793" lon="10.763207"><ele>6</ele></trkpt>
+   <trkpt lat="59.908683" lon="10.764041"><ele>6.5</ele></trkpt>
+   <trkpt lat="59.908596" lon="10.764603"><ele>8</ele></trkpt>
+   <trkpt lat="59.908595" lon="10.764605"><ele>8.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

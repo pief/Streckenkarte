@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 227 filtered ascend = 0 plain-ascend = 0 cost=227 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Bryn (Gleis 1) - Bryn Weiche 103a</name>
+  <link href="https://bikerouter.de/#map=19/59.90769/10.81608/osm-mapnik-german_style&amp;lonlats=10.819543,59.908452;10.815748,59.907779&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.908455" lon="10.819538"><ele>78.5</ele></trkpt>
+   <trkpt lat="59.908425" lon="10.819415"><ele>78.5</ele></trkpt>
+   <trkpt lat="59.908309" lon="10.818918"><ele>79</ele></trkpt>
+   <trkpt lat="59.908211" lon="10.818441"><ele>78.5</ele></trkpt>
+   <trkpt lat="59.908114" lon="10.817904"><ele>78.5</ele></trkpt>
+   <trkpt lat="59.908002" lon="10.817206"><ele>78.5</ele></trkpt>
+   <trkpt lat="59.907778" lon="10.815758"><ele>78</ele></trkpt>
+   <trkpt lat="59.907776" lon="10.815748"><ele>78</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

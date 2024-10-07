@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = 0 cost=2 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Grorud Weiche 125a - Grorud Weiche 123b</name>
+  <link href="https://bikerouter.de/#map=19/59.94809/10.88463/osm-mapnik-german_style&amp;lonlats=10.884618,59.948113;10.884592,59.948105&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.948112" lon="10.884617"><ele>125.5</ele></trkpt>
+   <trkpt lat="59.948103" lon="10.884592"><ele>125.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

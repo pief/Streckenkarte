@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = -11 cost=2 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Bryn Weiche 103a - Bryn Weiche 101b</name>
+  <link href="https://bikerouter.de/#map=19/59.90774/10.81604/osm-mapnik-german_style&amp;lonlats=10.815748,59.907776;10.815723,59.907773&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.907776" lon="10.815746"><ele>78</ele></trkpt>
+   <trkpt lat="59.907773" lon="10.815727"><ele>78</ele></trkpt>
+   <trkpt lat="59.907772" lon="10.815722"><ele>66.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

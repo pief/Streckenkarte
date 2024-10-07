@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 467 filtered ascend = 0 plain-ascend = -2 cost=467 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>HVDB Nyland (Gleis 2) - Aker Weiche 114b</name>
+  <link href="https://bikerouter.de/#map=17/59.94176/10.86758/osm-mapnik-german_style&amp;lonlats=10.870762,59.943696;10.863534,59.941604&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.943697" lon="10.870758"><ele>121.75</ele></trkpt>
+   <trkpt lat="59.943696" lon="10.870753"><ele>121.75</ele></trkpt>
+   <trkpt lat="59.943523" lon="10.870159"><ele>119</ele></trkpt>
+   <trkpt lat="59.943458" lon="10.869935"><ele>118.75</ele></trkpt>
+   <trkpt lat="59.941603" lon="10.863537"><ele>119</ele></trkpt>
+   <trkpt lat="59.941602" lon="10.863534"><ele>119.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
