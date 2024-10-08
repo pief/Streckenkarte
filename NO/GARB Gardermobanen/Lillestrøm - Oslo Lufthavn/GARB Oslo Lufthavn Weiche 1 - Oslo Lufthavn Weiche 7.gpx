@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 153 filtered ascend = 2 plain-ascend = 0 cost=153 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>GARB Oslo Lufthavn Weiche 1 - Oslo Lufthavn Weiche 7</name>
+  <link href="https://bikerouter.de/#map=18/60.17912/11.09309/osm-mapnik-german_style&amp;lonlats=11.093144,60.178386;11.092428,60.179705&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.178386" lon="11.093144"><ele>199.75</ele></trkpt>
+   <trkpt lat="60.178478" lon="11.093086"><ele>199.75</ele></trkpt>
+   <trkpt lat="60.178736" lon="11.092924"><ele>201.75</ele></trkpt>
+   <trkpt lat="60.17909" lon="11.092726"><ele>201</ele></trkpt>
+   <trkpt lat="60.179477" lon="11.092531"><ele>201</ele></trkpt>
+   <trkpt lat="60.179705" lon="11.09243"><ele>201</ele></trkpt>
+   <trkpt lat="60.179705" lon="11.092429"><ele>200</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

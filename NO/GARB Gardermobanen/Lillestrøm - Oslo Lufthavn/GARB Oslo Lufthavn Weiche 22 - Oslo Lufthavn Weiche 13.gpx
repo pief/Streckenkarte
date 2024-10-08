@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 358 filtered ascend = 0 plain-ascend = 0 cost=358 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>GARB Oslo Lufthavn Weiche 22 - Oslo Lufthavn Weiche 13</name>
+  <link href="https://bikerouter.de/#map=18/60.18767/11.09434/osm-mapnik-german_style&amp;lonlats=11.092108,60.18445;11.093635,60.187577&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.18445" lon="11.092108"><ele>195.5</ele></trkpt>
+   <trkpt lat="60.18495" lon="11.09227"><ele>195</ele></trkpt>
+   <trkpt lat="60.185429" lon="11.092465"><ele>195</ele></trkpt>
+   <trkpt lat="60.185769" lon="11.092624"><ele>195</ele></trkpt>
+   <trkpt lat="60.186496" lon="11.093016"><ele>195</ele></trkpt>
+   <trkpt lat="60.18737" lon="11.093517"><ele>195</ele></trkpt>
+   <trkpt lat="60.187575" lon="11.093637"><ele>195</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

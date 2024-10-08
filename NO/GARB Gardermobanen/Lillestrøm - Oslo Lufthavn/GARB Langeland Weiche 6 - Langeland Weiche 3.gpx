@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1079 filtered ascend = 2 plain-ascend = -1 cost=1079 energy=0.0kwh time=1m 26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>GARB Langeland Weiche 6 - Langeland Weiche 3</name>
+  <link href="https://bikerouter.de/#map=17/60.13732/11.15244/osm-mapnik-german_style&amp;lonlats=11.159632,60.127322;11.155195,60.136701&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.127322" lon="11.159632"><ele>178.75</ele></trkpt>
+   <trkpt lat="60.127907" lon="11.159592"><ele>178.5</ele></trkpt>
+   <trkpt lat="60.128405" lon="11.159529"><ele>178.25</ele></trkpt>
+   <trkpt lat="60.128855" lon="11.159453"><ele>179</ele></trkpt>
+   <trkpt lat="60.129373" lon="11.159344"><ele>179.25</ele></trkpt>
+   <trkpt lat="60.129891" lon="11.159209"><ele>180.5</ele></trkpt>
+   <trkpt lat="60.130401" lon="11.159051"><ele>181</ele></trkpt>
+   <trkpt lat="60.130917" lon="11.158864"><ele>181</ele></trkpt>
+   <trkpt lat="60.131423" lon="11.158657"><ele>181</ele></trkpt>
+   <trkpt lat="60.13188" lon="11.158448"><ele>181.25</ele></trkpt>
+   <trkpt lat="60.132486" lon="11.158138"><ele>181</ele></trkpt>
+   <trkpt lat="60.133211" lon="11.157717"><ele>180</ele></trkpt>
+   <trkpt lat="60.133708" lon="11.157396"><ele>180.25</ele></trkpt>
+   <trkpt lat="60.134203" lon="11.157057"><ele>179.25</ele></trkpt>
+   <trkpt lat="60.135443" lon="11.156144"><ele>178</ele></trkpt>
+   <trkpt lat="60.136203" lon="11.155571"><ele>176.5</ele></trkpt>
+   <trkpt lat="60.136701" lon="11.155198"/>
+   <trkpt lat="60.136701" lon="11.155197"/>
+  </trkseg>
+ </trk>
+</gpx>
