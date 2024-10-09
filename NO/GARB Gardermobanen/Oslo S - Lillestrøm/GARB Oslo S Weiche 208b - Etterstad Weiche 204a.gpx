@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 347 filtered ascend = 4 plain-ascend = 5 cost=347 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>GARB Oslo S Weiche 208b - Etterstad Weiche 204a</name>
+  <link href="https://bikerouter.de/#map=18/59.90610/10.77834/osm-mapnik-german_style&amp;lonlats=10.774598,59.906719;10.780584,59.90587&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.906719" lon="10.774598"><ele>22.75</ele></trkpt>
+   <trkpt lat="59.906472" lon="10.776045"><ele>25.25</ele></trkpt>
+   <trkpt lat="59.906364" lon="10.776711"><ele>24.5</ele></trkpt>
+   <trkpt lat="59.906217" lon="10.7777"><ele>26.75</ele></trkpt>
+   <trkpt lat="59.906077" lon="10.778755"><ele>26.5</ele></trkpt>
+   <trkpt lat="59.905962" lon="10.779721"><ele>25.75</ele></trkpt>
+   <trkpt lat="59.905867" lon="10.780582"><ele>27.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 168 filtered ascend = 5 plain-ascend = 5 cost=168 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>GARB Oslo S Weiche 484 - Oslo S Weiche 218a</name>
+  <link href="https://bikerouter.de/#map=19/59.90777/10.76919/osm-mapnik-german_style&amp;lonlats=10.766657,59.9081;10.769509,59.907614&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.9081" lon="10.766657"><ele>8.75</ele></trkpt>
+   <trkpt lat="59.908058" lon="10.766945"><ele>10.75</ele></trkpt>
+   <trkpt lat="59.907943" lon="10.767627"><ele>8.25</ele></trkpt>
+   <trkpt lat="59.907888" lon="10.767938"><ele>8.5</ele></trkpt>
+   <trkpt lat="59.907612" lon="10.769508"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

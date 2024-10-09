@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 291 filtered ascend = 2 plain-ascend = 2 cost=291 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>GARB Etterstad Weiche 306a - Etterstad Weiche 202b</name>
+  <link href="https://bikerouter.de/#map=18/59.90512/10.78913/osm-mapnik-german_style&amp;lonlats=10.78358,59.905594;10.788724,59.905239&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.905592" lon="10.783579"><ele>32</ele></trkpt>
+   <trkpt lat="59.905592" lon="10.783585"><ele>32.25</ele></trkpt>
+   <trkpt lat="59.905298" lon="10.787165"><ele>34.25</ele></trkpt>
+   <trkpt lat="59.905253" lon="10.787992"><ele>34.25</ele></trkpt>
+   <trkpt lat="59.905236" lon="10.788723"><ele>33.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

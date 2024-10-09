@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7858 filtered ascend = 0 plain-ascend = 0 cost=7859 energy=0.1kwh time=10m 29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.27">
+ <trk>
+  <name>GARB Hellerud Weiche 2 - Fjellsrud Weiche 1</name>
+  <link href="https://bikerouter.de/#map=17/59.94650/10.98650/osm-mapnik-german_style&amp;lonlats=10.860669,59.913172;10.985384,59.945713&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.913172" lon="10.860667"/>
+   <trkpt lat="59.929826" lon="10.924392"/>
+   <trkpt lat="59.934514" lon="10.94302"/>
+   <trkpt lat="59.940773" lon="10.966449"/>
+   <trkpt lat="59.945714" lon="10.985399"/>
+  </trkseg>
+ </trk>
+</gpx>
