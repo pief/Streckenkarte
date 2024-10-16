@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 320 filtered ascend = 1 plain-ascend = 1 cost=320 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Haga (Gleis 1) - Haga Weiche 1</name>
+  <link href="https://bikerouter.de/#map=16/60.0509/11.3708/osm-mapnik-german_style&amp;lonlats=11.37303,60.053781;11.369686,60.051465&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.053782" lon="11.373025"><ele>126.75</ele></trkpt>
+   <trkpt lat="60.053711" lon="11.37288"><ele>126.5</ele></trkpt>
+   <trkpt lat="60.053568" lon="11.372615"><ele>127.5</ele></trkpt>
+   <trkpt lat="60.05341" lon="11.372334"><ele>127.5</ele></trkpt>
+   <trkpt lat="60.053124" lon="11.371894"><ele>127</ele></trkpt>
+   <trkpt lat="60.052968" lon="11.371672"><ele>126.5</ele></trkpt>
+   <trkpt lat="60.052701" lon="11.371324"><ele>127.25</ele></trkpt>
+   <trkpt lat="60.052647" lon="11.371254"><ele>126.75</ele></trkpt>
+   <trkpt lat="60.051817" lon="11.370183"><ele>128</ele></trkpt>
+   <trkpt lat="60.051468" lon="11.369689"><ele>128</ele></trkpt>
+   <trkpt lat="60.051465" lon="11.369684"><ele>127.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

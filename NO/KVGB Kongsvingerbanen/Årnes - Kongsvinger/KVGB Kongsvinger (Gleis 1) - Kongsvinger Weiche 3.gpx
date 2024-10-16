@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226 filtered ascend = 0 plain-ascend = 0 cost=226 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Kongsvinger (Gleis 1) - Kongsvinger Weiche 3</name>
+  <link href="https://bikerouter.de/#map=18/60.18784/12.00120/osm-mapnik-german_style&amp;lonlats=12.003596,60.187613;11.999653,60.187921&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.187617" lon="12.003594"><ele>149</ele></trkpt>
+   <trkpt lat="60.187617" lon="12.003593"><ele>149</ele></trkpt>
+   <trkpt lat="60.187587" lon="12.002444"><ele>148.5</ele></trkpt>
+   <trkpt lat="60.18759" lon="12.002027"><ele>149</ele></trkpt>
+   <trkpt lat="60.187602" lon="12.001745"><ele>149</ele></trkpt>
+   <trkpt lat="60.187636" lon="12.001328"><ele>148.75</ele></trkpt>
+   <trkpt lat="60.18767" lon="12.001056"><ele>148.25</ele></trkpt>
+   <trkpt lat="60.187753" lon="12.000517"><ele>148</ele></trkpt>
+   <trkpt lat="60.187825" lon="12.000122"><ele>148.5</ele></trkpt>
+   <trkpt lat="60.187918" lon="11.999655"><ele>149.25</ele></trkpt>
+   <trkpt lat="60.187918" lon="11.999651"><ele>148.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 503 filtered ascend = 2 plain-ascend = 2 cost=504 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Årnes (Gleis 1) - Årnes Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/60.12362/11.46448/osm-mapnik-german_style&amp;lonlats=11.464743,60.123645;11.469885,60.127323&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.123643" lon="11.464744"><ele>127.75</ele></trkpt>
+   <trkpt lat="60.123682" lon="11.464768"><ele>128</ele></trkpt>
+   <trkpt lat="60.123989" lon="11.465005"><ele>128.5</ele></trkpt>
+   <trkpt lat="60.124149" lon="11.465149"><ele>128.5</ele></trkpt>
+   <trkpt lat="60.124258" lon="11.465255"><ele>128.5</ele></trkpt>
+   <trkpt lat="60.124494" lon="11.465512"><ele>127.75</ele></trkpt>
+   <trkpt lat="60.12469" lon="11.465752"><ele>128.5</ele></trkpt>
+   <trkpt lat="60.125058" lon="11.466249"><ele>129</ele></trkpt>
+   <trkpt lat="60.125231" lon="11.466504"><ele>129</ele></trkpt>
+   <trkpt lat="60.125514" lon="11.466951"><ele>129</ele></trkpt>
+   <trkpt lat="60.126363" lon="11.46838"><ele>130</ele></trkpt>
+   <trkpt lat="60.126738" lon="11.468995"><ele>129.5</ele></trkpt>
+   <trkpt lat="60.126901" lon="11.469253"><ele>130</ele></trkpt>
+   <trkpt lat="60.127322" lon="11.469886"><ele>130</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

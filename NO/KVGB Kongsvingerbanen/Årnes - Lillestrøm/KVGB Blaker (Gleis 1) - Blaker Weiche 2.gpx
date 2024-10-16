@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 320 filtered ascend = 1 plain-ascend = 0 cost=320 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Blaker (Gleis 1) - Blaker Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/60.00485/11.30118/osm-mapnik-german_style&amp;lonlats=11.301284,60.004935;11.304417,60.007321&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.004935" lon="11.301281"><ele>115</ele></trkpt>
+   <trkpt lat="60.004938" lon="11.301286"><ele>115</ele></trkpt>
+   <trkpt lat="60.00515" lon="11.301635"><ele>114.5</ele></trkpt>
+   <trkpt lat="60.005578" lon="11.302289"><ele>114.75</ele></trkpt>
+   <trkpt lat="60.005918" lon="11.302771"><ele>115</ele></trkpt>
+   <trkpt lat="60.006346" lon="11.30333"><ele>115.25</ele></trkpt>
+   <trkpt lat="60.006625" lon="11.303669"><ele>116</ele></trkpt>
+   <trkpt lat="60.006934" lon="11.304017"><ele>115.5</ele></trkpt>
+   <trkpt lat="60.007317" lon="11.304419"><ele>114</ele></trkpt>
+   <trkpt lat="60.007318" lon="11.304421"><ele>114.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

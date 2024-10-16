@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 292 filtered ascend = 0 plain-ascend = -3 cost=292 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Galterud (Gleis 1) - Galterud Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/60.19758/11.87680/osm-mapnik-german_style&amp;lonlats=11.881116,60.19722;11.87606,60.19781&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.197221" lon="11.881116"><ele>140.75</ele></trkpt>
+   <trkpt lat="60.197228" lon="11.880698"><ele>140.75</ele></trkpt>
+   <trkpt lat="60.197255" lon="11.88006"><ele>140.5</ele></trkpt>
+   <trkpt lat="60.197298" lon="11.879426"><ele>139.75</ele></trkpt>
+   <trkpt lat="60.197354" lon="11.87882"><ele>139.25</ele></trkpt>
+   <trkpt lat="60.197417" lon="11.878255"><ele>137.5</ele></trkpt>
+   <trkpt lat="60.197473" lon="11.877837"><ele>139.25</ele></trkpt>
+   <trkpt lat="60.197593" lon="11.877089"><ele>138</ele></trkpt>
+   <trkpt lat="60.197648" lon="11.876803"><ele>136.25</ele></trkpt>
+   <trkpt lat="60.197809" lon="11.876066"><ele>138.25</ele></trkpt>
+   <trkpt lat="60.19781" lon="11.87606"><ele>137.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

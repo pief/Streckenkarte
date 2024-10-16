@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3384 filtered ascend = 2 plain-ascend = 2 cost=3384 energy=0.0kwh time=4m 31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Mangbakken Weiche 1  - Sander Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/60.23806/11.74649/osm-mapnik-german_style&amp;lonlats=11.747654,60.238091;11.804933,60.227547&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.23809" lon="11.747653"><ele>138.5</ele></trkpt>
+   <trkpt lat="60.23809" lon="11.747658"><ele>138.75</ele></trkpt>
+   <trkpt lat="60.235945" lon="11.759319"><ele>137</ele></trkpt>
+   <trkpt lat="60.233262" lon="11.773904"><ele>139</ele></trkpt>
+   <trkpt lat="60.232148" lon="11.779947"><ele>138.75</ele></trkpt>
+   <trkpt lat="60.230549" lon="11.788627"><ele>138.75</ele></trkpt>
+   <trkpt lat="60.229483" lon="11.794421"><ele>139.75</ele></trkpt>
+   <trkpt lat="60.227586" lon="11.804699"><ele>140.5</ele></trkpt>
+   <trkpt lat="60.227541" lon="11.804928"><ele>140.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

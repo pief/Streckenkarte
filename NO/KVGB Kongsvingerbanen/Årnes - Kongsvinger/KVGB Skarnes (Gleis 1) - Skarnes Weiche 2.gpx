@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = 0 cost=385 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Skarnes (Gleis 1) - Skarnes Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/60.25381/11.68084/osm-mapnik-german_style&amp;lonlats=11.680586,60.253718;11.687009,60.254835&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.253717" lon="11.680585"><ele>139</ele></trkpt>
+   <trkpt lat="60.253954" lon="11.681271"><ele>139</ele></trkpt>
+   <trkpt lat="60.254144" lon="11.681894"><ele>139</ele></trkpt>
+   <trkpt lat="60.254249" lon="11.682275"><ele>138.5</ele></trkpt>
+   <trkpt lat="60.254421" lon="11.682966"><ele>139</ele></trkpt>
+   <trkpt lat="60.254524" lon="11.683463"><ele>138.25</ele></trkpt>
+   <trkpt lat="60.254584" lon="11.683799"><ele>136.25</ele></trkpt>
+   <trkpt lat="60.254637" lon="11.684138"><ele>137</ele></trkpt>
+   <trkpt lat="60.254705" lon="11.684656"><ele>138.5</ele></trkpt>
+   <trkpt lat="60.254772" lon="11.685364"><ele>139</ele></trkpt>
+   <trkpt lat="60.254803" lon="11.685876"><ele>139</ele></trkpt>
+   <trkpt lat="60.254823" lon="11.686337"><ele>139</ele></trkpt>
+   <trkpt lat="60.254832" lon="11.687008"><ele>138.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

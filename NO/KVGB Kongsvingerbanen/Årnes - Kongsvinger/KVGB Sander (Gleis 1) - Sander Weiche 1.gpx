@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 0 plain-ascend = -1 cost=295 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Sander (Gleis 1) - Sander Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/60.22738/11.80511/osm-mapnik-german_style&amp;lonlats=11.809659,60.226334;11.804933,60.227547&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.226335" lon="11.80966"><ele>142.25</ele></trkpt>
+   <trkpt lat="60.226534" lon="11.809021"><ele>142.25</ele></trkpt>
+   <trkpt lat="60.226836" lon="11.807964"><ele>142.25</ele></trkpt>
+   <trkpt lat="60.226868" lon="11.807846"><ele>142.25</ele></trkpt>
+   <trkpt lat="60.227062" lon="11.807095"><ele>141.75</ele></trkpt>
+   <trkpt lat="60.227226" lon="11.806415"><ele>141.75</ele></trkpt>
+   <trkpt lat="60.227377" lon="11.805732"><ele>140.25</ele></trkpt>
+   <trkpt lat="60.227539" lon="11.804943"><ele>140.75</ele></trkpt>
+   <trkpt lat="60.227541" lon="11.804928"><ele>140.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

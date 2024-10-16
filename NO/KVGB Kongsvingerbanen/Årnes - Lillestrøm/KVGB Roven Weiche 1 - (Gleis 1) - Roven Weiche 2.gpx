@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1053 filtered ascend = 2 plain-ascend = 3 cost=1054 energy=0.0kwh time=1m 24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Roven Weiche 1 - (Gleis 1) - Roven Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/59.95578/11.19378/osm-mapnik-german_style&amp;lonlats=11.193499,59.955537;11.199529,59.964389&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="59.955536" lon="11.193498"><ele>106.75</ele></trkpt>
+   <trkpt lat="59.95554" lon="11.193504"><ele>106.75</ele></trkpt>
+   <trkpt lat="59.95663" lon="11.194921"><ele>107.25</ele></trkpt>
+   <trkpt lat="59.957159" lon="11.195546"><ele>107.25</ele></trkpt>
+   <trkpt lat="59.957518" lon="11.195927"><ele>106.75</ele></trkpt>
+   <trkpt lat="59.957899" lon="11.196299"><ele>107</ele></trkpt>
+   <trkpt lat="59.958281" lon="11.196636"><ele>107.75</ele></trkpt>
+   <trkpt lat="59.958638" lon="11.196926"><ele>107.5</ele></trkpt>
+   <trkpt lat="59.959118" lon="11.197271"><ele>107</ele></trkpt>
+   <trkpt lat="59.959498" lon="11.197511"><ele>107.5</ele></trkpt>
+   <trkpt lat="59.959898" lon="11.197734"><ele>107.5</ele></trkpt>
+   <trkpt lat="59.960301" lon="11.197928"><ele>107</ele></trkpt>
+   <trkpt lat="59.960849" lon="11.198145"><ele>107.5</ele></trkpt>
+   <trkpt lat="59.962637" lon="11.198782"><ele>107</ele></trkpt>
+   <trkpt lat="59.963183" lon="11.198987"><ele>107.25</ele></trkpt>
+   <trkpt lat="59.963546" lon="11.199139"><ele>107.75</ele></trkpt>
+   <trkpt lat="59.964387" lon="11.19953"><ele>109.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

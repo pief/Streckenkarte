@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 389 filtered ascend = 0 plain-ascend = 0 cost=389 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.30">
+ <trk>
+  <name>KVGB Seterstøa (Gleis 2) - Seterstøa Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/60.16820/11.56430/osm-mapnik-german_style&amp;lonlats=11.567308,60.170979;11.563776,60.167973&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.170978" lon="11.567307"><ele>137</ele></trkpt>
+   <trkpt lat="60.170769" lon="11.567107"><ele>137</ele></trkpt>
+   <trkpt lat="60.170452" lon="11.566779"><ele>136.75</ele></trkpt>
+   <trkpt lat="60.170049" lon="11.566293"><ele>135</ele></trkpt>
+   <trkpt lat="60.169235" lon="11.565243"><ele>136.25</ele></trkpt>
+   <trkpt lat="60.168993" lon="11.564955"><ele>136.25</ele></trkpt>
+   <trkpt lat="60.168486" lon="11.564404"><ele>137.25</ele></trkpt>
+   <trkpt lat="60.168154" lon="11.563984"><ele>136.75</ele></trkpt>
+   <trkpt lat="60.167974" lon="11.563779"><ele>136.75</ele></trkpt>
+   <trkpt lat="60.167972" lon="11.563776"><ele>136.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
