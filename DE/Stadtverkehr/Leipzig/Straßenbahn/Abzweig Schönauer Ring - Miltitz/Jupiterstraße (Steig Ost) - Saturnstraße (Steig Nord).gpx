@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 312 filtered ascend = 0 plain-ascend = 0 cost=624 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Jupiterstraße (Steig Ost) - Saturnstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.32320/12.26478/osm-mapnik-german_style&amp;lonlats=12.267434,51.321921;12.264172,51.323337&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.321921" lon="12.267436"><ele>119</ele></trkpt>
+   <trkpt lat="51.322469" lon="12.267192"><ele>119</ele></trkpt>
+   <trkpt lat="51.32258" lon="12.267134"><ele>119</ele></trkpt>
+   <trkpt lat="51.322661" lon="12.267073"><ele>119</ele></trkpt>
+   <trkpt lat="51.322758" lon="12.266982"><ele>119</ele></trkpt>
+   <trkpt lat="51.322868" lon="12.26684"><ele>119</ele></trkpt>
+   <trkpt lat="51.322966" lon="12.266658"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.323038" lon="12.266487"><ele>119</ele></trkpt>
+   <trkpt lat="51.323098" lon="12.266271"><ele>119</ele></trkpt>
+   <trkpt lat="51.323137" lon="12.26605"><ele>119</ele></trkpt>
+   <trkpt lat="51.323267" lon="12.264878"><ele>119</ele></trkpt>
+   <trkpt lat="51.32334" lon="12.264173"><ele>118</ele></trkpt>
+   <trkpt lat="51.32334" lon="12.264172"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

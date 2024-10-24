@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 0 plain-ascend = 0 cost=620 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Saturnstraße (Steig Süd) - Jupiterstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.32159/12.26696/osm-mapnik-german_style&amp;lonlats=12.264735,51.32324;12.267538,51.32154&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.323243" lon="12.264735"><ele>119</ele></trkpt>
+   <trkpt lat="51.323231" lon="12.264869"><ele>119</ele></trkpt>
+   <trkpt lat="51.3231" lon="12.266058"><ele>119</ele></trkpt>
+   <trkpt lat="51.323058" lon="12.266274"><ele>119</ele></trkpt>
+   <trkpt lat="51.323" lon="12.266471"><ele>119</ele></trkpt>
+   <trkpt lat="51.32292" lon="12.266658"><ele>119</ele></trkpt>
+   <trkpt lat="51.32283" lon="12.266817"><ele>119</ele></trkpt>
+   <trkpt lat="51.322707" lon="12.266963"><ele>119</ele></trkpt>
+   <trkpt lat="51.322566" lon="12.267077"><ele>119</ele></trkpt>
+   <trkpt lat="51.322475" lon="12.267129"><ele>119</ele></trkpt>
+   <trkpt lat="51.321542" lon="12.26754"><ele>119</ele></trkpt>
+   <trkpt lat="51.32154" lon="12.26754"><ele>119.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

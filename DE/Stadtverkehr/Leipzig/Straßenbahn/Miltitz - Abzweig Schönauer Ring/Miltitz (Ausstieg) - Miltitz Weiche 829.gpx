@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Miltitz (Ausstieg) - Miltitz Weiche 829</name>
+  <link href="https://bikerouter.de/#map=19/51.32509/12.26258/osm-mapnik-german_style&amp;lonlats=12.262812,51.324765;12.26281,51.324806&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.324763" lon="12.262812"><ele>116</ele></trkpt>
+   <trkpt lat="51.324773" lon="12.262813"><ele>116</ele></trkpt>
+   <trkpt lat="51.324806" lon="12.262812"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

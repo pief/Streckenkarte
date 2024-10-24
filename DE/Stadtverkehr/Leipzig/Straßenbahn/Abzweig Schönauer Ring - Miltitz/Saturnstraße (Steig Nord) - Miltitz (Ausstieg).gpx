@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 231 filtered ascend = 0 plain-ascend = -1 cost=462 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Saturnstraße (Steig Nord) - Miltitz (Ausstieg)</name>
+  <link href="https://bikerouter.de/#map=19/51.32479/12.26327/osm-mapnik-german_style&amp;lonlats=12.264172,51.323337;12.262812,51.324767&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.32334" lon="12.264172"><ele>118</ele></trkpt>
+   <trkpt lat="51.323353" lon="12.264058"><ele>118</ele></trkpt>
+   <trkpt lat="51.323452" lon="12.263172"><ele>118</ele></trkpt>
+   <trkpt lat="51.323477" lon="12.26304"><ele>118</ele></trkpt>
+   <trkpt lat="51.323511" lon="12.262952"><ele>118</ele></trkpt>
+   <trkpt lat="51.323581" lon="12.262856"><ele>118</ele></trkpt>
+   <trkpt lat="51.323644" lon="12.262816"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.323737" lon="12.262801"><ele>118</ele></trkpt>
+   <trkpt lat="51.32429" lon="12.262814"><ele>117</ele></trkpt>
+   <trkpt lat="51.324395" lon="12.262804"><ele>117</ele></trkpt>
+   <trkpt lat="51.324765" lon="12.262812"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

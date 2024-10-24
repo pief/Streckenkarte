@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 1 plain-ascend = 1 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Miltitz (Einstieg) - Miltitz Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.32434/12.26293/osm-mapnik-german_style&amp;lonlats=12.262426,51.324445;12.262751,51.324141&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.324444" lon="12.262424"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.324444" lon="12.262425"><ele>117</ele></trkpt>
+   <trkpt lat="51.324405" lon="12.262516"><ele>117</ele></trkpt>
+   <trkpt lat="51.32433" lon="12.262636"><ele>117</ele></trkpt>
+   <trkpt lat="51.324273" lon="12.262694"><ele>117</ele></trkpt>
+   <trkpt lat="51.324217" lon="12.262726"><ele>117</ele></trkpt>
+   <trkpt lat="51.324143" lon="12.26275"><ele>117</ele></trkpt>
+   <trkpt lat="51.32414" lon="12.262749"><ele>117.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
