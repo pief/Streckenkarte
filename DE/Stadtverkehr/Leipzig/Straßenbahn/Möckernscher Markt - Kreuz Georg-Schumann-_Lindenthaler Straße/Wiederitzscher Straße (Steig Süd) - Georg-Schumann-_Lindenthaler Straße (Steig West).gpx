@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 506 filtered ascend = 0 plain-ascend = 0 cost=1012 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wiederitzscher Straße (Steig Süd) - Georg-Schumann-/Lindenthaler Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.36266/12.36508/osm-mapnik-german_style&amp;lonlats=12.358133,51.364145;12.364964,51.362616&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.364148" lon="12.358134"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.364125" lon="12.358236"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.364109" lon="12.358308"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.364074" lon="12.358466"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.364026" lon="12.358684"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.363427" lon="12.361309"><ele>114</ele></trkpt>
+   <trkpt lat="51.363363" lon="12.361596"><ele>114</ele></trkpt>
+   <trkpt lat="51.363314" lon="12.361808"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.362934" lon="12.363513"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.362819" lon="12.364057"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.362614" lon="12.364963"><ele>113.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
