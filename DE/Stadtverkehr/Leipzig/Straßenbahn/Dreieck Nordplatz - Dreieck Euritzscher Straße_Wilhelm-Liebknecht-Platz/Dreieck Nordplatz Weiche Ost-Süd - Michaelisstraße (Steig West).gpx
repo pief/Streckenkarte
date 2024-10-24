@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=230 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Nordplatz Weiche Ost-Süd - Michaelisstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.35135/12.37470/osm-mapnik-german_style&amp;lonlats=12.373945,51.351675;12.375307,51.351305&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.351672" lon="12.373944"><ele>110</ele></trkpt>
+   <trkpt lat="51.35168" lon="12.374119"><ele>110</ele></trkpt>
+   <trkpt lat="51.351685" lon="12.374232"><ele>110</ele></trkpt>
+   <trkpt lat="51.351697" lon="12.374513"><ele>110</ele></trkpt>
+   <trkpt lat="51.351692" lon="12.374694"><ele>110</ele></trkpt>
+   <trkpt lat="51.351686" lon="12.374768"><ele>110</ele></trkpt>
+   <trkpt lat="51.351662" lon="12.374868"><ele>110</ele></trkpt>
+   <trkpt lat="51.351629" lon="12.374938"><ele>110</ele></trkpt>
+   <trkpt lat="51.351587" lon="12.374998"><ele>110</ele></trkpt>
+   <trkpt lat="51.351306" lon="12.375309"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

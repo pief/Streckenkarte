@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Goerdelerring Weiche 167 - Kreuz Goerdelerring Weiche West-nach-Nord-Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.34421/12.37156/osm-mapnik-german_style&amp;lonlats=12.370673,51.344241;12.371306,51.344481&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.344241" lon="12.370673"><ele>109</ele></trkpt>
+   <trkpt lat="51.344242" lon="12.370684"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.344248" lon="12.370787"><ele>109</ele></trkpt>
+   <trkpt lat="51.344266" lon="12.370921"><ele>109</ele></trkpt>
+   <trkpt lat="51.344282" lon="12.370975"><ele>109</ele></trkpt>
+   <trkpt lat="51.344299" lon="12.371026"><ele>109</ele></trkpt>
+   <trkpt lat="51.344362" lon="12.37116"><ele>109</ele></trkpt>
+   <trkpt lat="51.344432" lon="12.371249"><ele>109</ele></trkpt>
+   <trkpt lat="51.344479" lon="12.371306"><ele>109</ele></trkpt>
+   <trkpt lat="51.34448" lon="12.371306"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
