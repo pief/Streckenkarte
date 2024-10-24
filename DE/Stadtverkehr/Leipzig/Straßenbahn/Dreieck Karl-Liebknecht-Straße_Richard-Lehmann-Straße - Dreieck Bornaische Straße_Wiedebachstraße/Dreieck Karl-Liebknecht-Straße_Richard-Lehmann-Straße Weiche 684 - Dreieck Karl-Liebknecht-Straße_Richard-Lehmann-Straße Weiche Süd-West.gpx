@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 2 plain-ascend = 3 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Karl-Liebknecht-Straße/Richard-Lehmann-Straße Weiche 684 - Dreieck Karl-Liebknecht-Straße/Richard-Lehmann-Straße Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/51.31480/12.37372/osm-mapnik-german_style&amp;lonlats=12.373328,51.315103;12.373339,51.314924;12.373312,51.314669&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.315103" lon="12.37333"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.315102" lon="12.37333"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.314942" lon="12.373329"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.314923" lon="12.373328"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.314789" lon="12.373325"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.314673" lon="12.373314"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.314669" lon="12.373314"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.314667" lon="12.373313"><ele>121</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

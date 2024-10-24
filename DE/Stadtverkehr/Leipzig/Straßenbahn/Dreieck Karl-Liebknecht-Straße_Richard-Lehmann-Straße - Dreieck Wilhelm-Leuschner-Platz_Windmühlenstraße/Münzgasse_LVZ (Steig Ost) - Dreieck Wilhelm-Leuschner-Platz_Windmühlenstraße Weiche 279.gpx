@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 144 filtered ascend = 1 plain-ascend = 1 cost=288 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Münzgasse/LVZ (Steig Ost) - Dreieck Wilhelm-Leuschner-Platz/Windmühlenstraße Weiche 279</name>
+  <link href="https://bikerouter.de/#map=19/51.33403/12.37421/osm-mapnik-german_style&amp;lonlats=12.37369,51.332742;12.373926,51.334014&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.332742" lon="12.37369"><ele>112</ele></trkpt>
+   <trkpt lat="51.332817" lon="12.373684"><ele>112</ele></trkpt>
+   <trkpt lat="51.332885" lon="12.373678"><ele>112</ele></trkpt>
+   <trkpt lat="51.333077" lon="12.373659"><ele>112</ele></trkpt>
+   <trkpt lat="51.333223" lon="12.373657"><ele>112</ele></trkpt>
+   <trkpt lat="51.333435" lon="12.373687"><ele>112</ele></trkpt>
+   <trkpt lat="51.333659" lon="12.373774"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.334012" lon="12.373928"><ele>113.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

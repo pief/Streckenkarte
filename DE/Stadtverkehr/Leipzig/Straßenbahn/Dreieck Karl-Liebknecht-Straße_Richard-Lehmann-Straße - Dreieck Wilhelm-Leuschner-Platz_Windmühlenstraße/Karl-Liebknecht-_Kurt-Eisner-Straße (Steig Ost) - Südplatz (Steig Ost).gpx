@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 501 filtered ascend = 0 plain-ascend = 0 cost=1002 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Karl-Liebknecht-/Kurt-Eisner-Straße (Steig Ost) - Südplatz (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.32483/12.37389/osm-mapnik-german_style&amp;lonlats=12.373513,51.32032;12.373647,51.324831&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.320318" lon="12.373515"><ele>117</ele></trkpt>
+   <trkpt lat="51.320402" lon="12.373518"><ele>117</ele></trkpt>
+   <trkpt lat="51.320566" lon="12.373522"><ele>117</ele></trkpt>
+   <trkpt lat="51.320721" lon="12.373536"><ele>117</ele></trkpt>
+   <trkpt lat="51.320881" lon="12.373542"><ele>117</ele></trkpt>
+   <trkpt lat="51.321411" lon="12.373549"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.322059" lon="12.373571"><ele>116</ele></trkpt>
+   <trkpt lat="51.323165" lon="12.373598"><ele>116</ele></trkpt>
+   <trkpt lat="51.324079" lon="12.373627"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.324226" lon="12.373635"><ele>117</ele></trkpt>
+   <trkpt lat="51.324373" lon="12.373637"><ele>117</ele></trkpt>
+   <trkpt lat="51.324829" lon="12.373651"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
