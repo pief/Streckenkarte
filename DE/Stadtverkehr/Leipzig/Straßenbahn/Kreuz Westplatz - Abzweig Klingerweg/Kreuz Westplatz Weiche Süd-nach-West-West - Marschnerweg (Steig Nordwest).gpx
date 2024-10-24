@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 444 filtered ascend = 1 plain-ascend = 1 cost=888 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Westplatz Weiche Süd-nach-West-West - Marschnerweg (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.33625/12.35714/osm-mapnik-german_style&amp;lonlats=12.362068,51.338883;12.357256,51.336283&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338881" lon="12.362069"><ele>108</ele></trkpt>
+   <trkpt lat="51.338198" lon="12.360807"><ele>108</ele></trkpt>
+   <trkpt lat="51.337978" lon="12.360397"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.336758" lon="12.35812"><ele>109</ele></trkpt>
+   <trkpt lat="51.336467" lon="12.35759"><ele>109</ele></trkpt>
+   <trkpt lat="51.336285" lon="12.35726"><ele>109</ele></trkpt>
+   <trkpt lat="51.336282" lon="12.357255"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 1 plain-ascend = 1 cost=798 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Nonnenstraße (Steig Nord) - Alte Straße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.33238/12.33981/osm-mapnik-german_style&amp;lonlats=12.34871,51.332194;12.342997,51.332294&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.33219" lon="12.348709"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.332186" lon="12.348505"><ele>110</ele></trkpt>
+   <trkpt lat="51.332183" lon="12.348115"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.332195" lon="12.347531"><ele>109</ele></trkpt>
+   <trkpt lat="51.332232" lon="12.345629"><ele>109</ele></trkpt>
+   <trkpt lat="51.332263" lon="12.344345"><ele>109</ele></trkpt>
+   <trkpt lat="51.332292" lon="12.342996"><ele>109.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
