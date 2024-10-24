@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 170 filtered ascend = 0 plain-ascend = 0 cost=342 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Neues Rathaus Weiche Nord - Neues Rathaus (Steig West-Nord)</name>
+  <link href="https://bikerouter.de/#map=18/51.33568/12.37118/osm-mapnik-german_style&amp;lonlats=12.371483,51.335292;12.369138,51.334924&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.33529" lon="12.371482"><ele>111</ele></trkpt>
+   <trkpt lat="51.335261" lon="12.371299"><ele>111</ele></trkpt>
+   <trkpt lat="51.335247" lon="12.371216"><ele>111</ele></trkpt>
+   <trkpt lat="51.335213" lon="12.371003"><ele>111</ele></trkpt>
+   <trkpt lat="51.335195" lon="12.370897"><ele>111</ele></trkpt>
+   <trkpt lat="51.33519" lon="12.370861"><ele>111</ele></trkpt>
+   <trkpt lat="51.33517" lon="12.370741"><ele>111</ele></trkpt>
+   <trkpt lat="51.335157" lon="12.370659"><ele>111</ele></trkpt>
+   <trkpt lat="51.335135" lon="12.370515"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.334926" lon="12.369139"><ele>110</ele></trkpt>
+   <trkpt lat="51.334925" lon="12.369136"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

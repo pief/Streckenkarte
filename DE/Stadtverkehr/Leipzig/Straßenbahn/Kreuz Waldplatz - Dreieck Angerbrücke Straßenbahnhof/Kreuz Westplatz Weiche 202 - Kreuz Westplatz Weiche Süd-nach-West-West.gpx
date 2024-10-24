@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 1 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Westplatz Weiche 202 - Kreuz Westplatz Weiche Süd-nach-West-West</name>
+  <link href="https://bikerouter.de/#map=19/51.34166/12.35842/osm-mapnik-german_style&amp;lonlats=12.35878,51.341812;12.3582,51.34204&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.341812" lon="12.35878"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.341816" lon="12.358776"><ele>108</ele></trkpt>
+   <trkpt lat="51.341868" lon="12.358708"><ele>108</ele></trkpt>
+   <trkpt lat="51.341899" lon="12.358668"><ele>108</ele></trkpt>
+   <trkpt lat="51.341966" lon="12.358565"><ele>108</ele></trkpt>
+   <trkpt lat="51.342001" lon="12.358493"><ele>108</ele></trkpt>
+   <trkpt lat="51.342021" lon="12.358429"><ele>108</ele></trkpt>
+   <trkpt lat="51.342028" lon="12.358385"><ele>108</ele></trkpt>
+   <trkpt lat="51.34204" lon="12.358202"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.342039" lon="12.358199"><ele>108.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

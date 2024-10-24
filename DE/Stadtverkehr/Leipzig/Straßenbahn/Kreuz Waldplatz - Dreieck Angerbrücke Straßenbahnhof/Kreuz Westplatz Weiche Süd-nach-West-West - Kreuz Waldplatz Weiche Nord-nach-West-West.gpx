@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Westplatz Weiche Süd-nach-West-West - Kreuz Waldplatz Weiche Nord-nach-West-West</name>
+  <link href="https://bikerouter.de/#map=19/51.34166/12.35842/osm-mapnik-german_style&amp;lonlats=12.3582,51.34204;12.358132,51.342037&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.342039" lon="12.358199"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.342038" lon="12.35814"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.342037" lon="12.35813"><ele>108.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
