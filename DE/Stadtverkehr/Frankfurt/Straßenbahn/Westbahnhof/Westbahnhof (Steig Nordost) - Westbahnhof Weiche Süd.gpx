@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = 1 cost=118 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Westbahnhof (Steig Nordost) - Westbahnhof Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.11891/8.64266/osm-mapnik-german_style&amp;lonlats=8.640575,50.118912;8.641259,50.118664&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.118917" lon="8.640582"><ele>99.25</ele></trkpt>
+   <trkpt lat="50.118746" lon="8.640881"><ele>99</ele></trkpt>
+   <trkpt lat="50.118708" lon="8.640946"><ele>99</ele></trkpt>
+   <trkpt lat="50.118677" lon="8.64103"><ele>99</ele></trkpt>
+   <trkpt lat="50.118665" lon="8.641088"><ele>99</ele></trkpt>
+   <trkpt lat="50.118661" lon="8.641182"><ele>99</ele></trkpt>
+   <trkpt lat="50.118664" lon="8.641253"><ele>99</ele></trkpt>
+   <trkpt lat="50.118664" lon="8.641257"><ele>99.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

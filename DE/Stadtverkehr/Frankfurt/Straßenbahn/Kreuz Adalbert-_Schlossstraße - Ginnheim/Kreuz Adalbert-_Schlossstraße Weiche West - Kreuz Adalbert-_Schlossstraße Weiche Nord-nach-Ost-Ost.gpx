@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 1 plain-ascend = 1 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Adalbert-/Schlossstraße Weiche West - Kreuz Adalbert-/Schlossstraße Weiche Nord-nach-Ost-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.11927/8.64468/osm-mapnik-german_style&amp;lonlats=8.643183,50.118991;8.64388,50.119158&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.118986" lon="8.643183"><ele>99.75</ele></trkpt>
+   <trkpt lat="50.118987" lon="8.643186"><ele>100</ele></trkpt>
+   <trkpt lat="50.118988" lon="8.643189"><ele>100</ele></trkpt>
+   <trkpt lat="50.119011" lon="8.64329"><ele>100</ele></trkpt>
+   <trkpt lat="50.119041" lon="8.643407"><ele>100</ele></trkpt>
+   <trkpt lat="50.119069" lon="8.643502"><ele>100.25</ele></trkpt>
+   <trkpt lat="50.11909" lon="8.643569"><ele>100.5</ele></trkpt>
+   <trkpt lat="50.119103" lon="8.643607"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.119109" lon="8.64363"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.119134" lon="8.64374"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.119157" lon="8.643877"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.119157" lon="8.643879"><ele>100.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
