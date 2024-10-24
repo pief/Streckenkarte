@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 628 filtered ascend = 2 plain-ascend = 2 cost=1256 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Westplatz (Steig Südost-Südwest) - Neues Rathaus (Steig West-Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.33502/12.36984/osm-mapnik-german_style&amp;lonlats=12.363698,51.338121;12.370333,51.335072&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.33812" lon="12.363697"><ele>108</ele></trkpt>
+   <trkpt lat="51.338118" lon="12.363701"><ele>108</ele></trkpt>
+   <trkpt lat="51.338079" lon="12.36375"><ele>108</ele></trkpt>
+   <trkpt lat="51.337744" lon="12.36416"><ele>108</ele></trkpt>
+   <trkpt lat="51.336701" lon="12.365579"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.336219" lon="12.366235"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.336099" lon="12.366402"><ele>108</ele></trkpt>
+   <trkpt lat="51.335852" lon="12.366833"><ele>108</ele></trkpt>
+   <trkpt lat="51.335747" lon="12.366979"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.335435" lon="12.367407"><ele>109</ele></trkpt>
+   <trkpt lat="51.335318" lon="12.367567"><ele>109</ele></trkpt>
+   <trkpt lat="51.335042" lon="12.367943"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.334984" lon="12.368031"><ele>109</ele></trkpt>
+   <trkpt lat="51.334929" lon="12.368141"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.33488" lon="12.36828"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.334852" lon="12.368405"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.334841" lon="12.368494"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.334837" lon="12.368643"><ele>110</ele></trkpt>
+   <trkpt lat="51.334848" lon="12.3688"><ele>110</ele></trkpt>
+   <trkpt lat="51.334866" lon="12.368927"><ele>110</ele></trkpt>
+   <trkpt lat="51.335075" lon="12.37033"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
