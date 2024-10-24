@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 1 plain-ascend = 1 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Euritzscher Straße/Wilhelm-Liebknecht-Platz Weiche 252 - Dreieck Euritzscher Straße/Wilhelm-Liebknecht-Platz Weiche Nord-nach-Nordwest-Nordwest</name>
+  <link href="https://bikerouter.de/#map=18/51.34981/12.37727/osm-mapnik-german_style&amp;lonlats=12.376641,51.350142;12.37563,51.351059&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.350142" lon="12.376641"><ele>109</ele></trkpt>
+   <trkpt lat="51.350144" lon="12.37664"><ele>109</ele></trkpt>
+   <trkpt lat="51.350246" lon="12.376527"><ele>109</ele></trkpt>
+   <trkpt lat="51.350298" lon="12.376469"><ele>109</ele></trkpt>
+   <trkpt lat="51.350388" lon="12.37637"><ele>109</ele></trkpt>
+   <trkpt lat="51.350473" lon="12.376277"><ele>109</ele></trkpt>
+   <trkpt lat="51.350955" lon="12.375745"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.351006" lon="12.375689"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.351055" lon="12.375635"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.351059" lon="12.37563"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
