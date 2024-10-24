@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 0 plain-ascend = 0 cost=214 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Wilhelm-Leuschner-Platz/Windmühlenstraße Weiche Ost - Windmühlenstraße (Ausstieg)</name>
+  <link href="https://bikerouter.de/#map=19/51.33389/12.37589/osm-mapnik-german_style&amp;lonlats=12.374454,51.334233;12.375827,51.334025&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.334235" lon="12.374452"><ele>114</ele></trkpt>
+   <trkpt lat="51.334252" lon="12.375145"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.334252" lon="12.375371"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.334245" lon="12.375459"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.334234" lon="12.375512"><ele>114</ele></trkpt>
+   <trkpt lat="51.334207" lon="12.375596"><ele>114</ele></trkpt>
+   <trkpt lat="51.334167" lon="12.375666"><ele>114</ele></trkpt>
+   <trkpt lat="51.334026" lon="12.375829"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

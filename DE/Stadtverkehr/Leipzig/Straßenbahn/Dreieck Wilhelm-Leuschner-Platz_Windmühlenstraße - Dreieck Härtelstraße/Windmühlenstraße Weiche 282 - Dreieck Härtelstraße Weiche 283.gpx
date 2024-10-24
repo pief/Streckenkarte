@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Windmühlenstraße Weiche 282 - Dreieck Härtelstraße Weiche 283</name>
+  <link href="https://bikerouter.de/#map=19/51.33334/12.37678/osm-mapnik-german_style&amp;lonlats=12.376722,51.333307;12.376785,51.333268&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333307" lon="12.376722"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.333267" lon="12.376784"><ele>113.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
