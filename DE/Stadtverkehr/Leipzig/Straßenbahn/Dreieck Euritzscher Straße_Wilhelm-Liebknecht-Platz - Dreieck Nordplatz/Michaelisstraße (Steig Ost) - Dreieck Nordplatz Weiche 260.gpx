@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 0 plain-ascend = 0 cost=248 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Michaelisstraße (Steig Ost) - Dreieck Nordplatz Weiche 260</name>
+  <link href="https://bikerouter.de/#map=19/51.35178/12.37471/osm-mapnik-german_style&amp;lonlats=12.375339,51.351321;12.373875,51.351698&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.351321" lon="12.375339"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.351322" lon="12.375339"><ele>110</ele></trkpt>
+   <trkpt lat="51.351607" lon="12.375021"><ele>110</ele></trkpt>
+   <trkpt lat="51.351666" lon="12.374924"><ele>110</ele></trkpt>
+   <trkpt lat="51.351706" lon="12.374809"><ele>110</ele></trkpt>
+   <trkpt lat="51.351716" lon="12.374735"><ele>110</ele></trkpt>
+   <trkpt lat="51.351724" lon="12.374511"><ele>110</ele></trkpt>
+   <trkpt lat="51.351711" lon="12.374237"><ele>110</ele></trkpt>
+   <trkpt lat="51.351706" lon="12.374108"><ele>110</ele></trkpt>
+   <trkpt lat="51.351695" lon="12.373876"><ele>110</ele></trkpt>
+   <trkpt lat="51.351695" lon="12.373874"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
