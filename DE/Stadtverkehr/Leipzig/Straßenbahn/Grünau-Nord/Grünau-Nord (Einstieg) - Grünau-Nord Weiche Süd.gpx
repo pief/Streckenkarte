@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 1 cost=56 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Grünau-Nord (Einstieg) - Grünau-Nord Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.32469/12.28348/osm-mapnik-german_style&amp;lonlats=12.283036,51.325022;12.283399,51.324945&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.325021" lon="12.283035"><ele>118</ele></trkpt>
+   <trkpt lat="51.325021" lon="12.283039"><ele>118</ele></trkpt>
+   <trkpt lat="51.324997" lon="12.283257"><ele>118</ele></trkpt>
+   <trkpt lat="51.32495" lon="12.283396"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.324946" lon="12.283401"><ele>118.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
