@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 97 filtered ascend = 0 plain-ascend = 1 cost=194 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Ludwig-Jahn-Straße Ost - Ludwig-Jahn-Straße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.36023/12.28550/osm-mapnik-german_style&amp;lonlats=12.286304,51.360184;12.284943,51.360348&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.360183" lon="12.286303"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.360184" lon="12.2863"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.360222" lon="12.285972"><ele>109</ele></trkpt>
+   <trkpt lat="51.360249" lon="12.285728"><ele>109</ele></trkpt>
+   <trkpt lat="51.360346" lon="12.28495"><ele>109</ele></trkpt>
+   <trkpt lat="51.360346" lon="12.284942"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

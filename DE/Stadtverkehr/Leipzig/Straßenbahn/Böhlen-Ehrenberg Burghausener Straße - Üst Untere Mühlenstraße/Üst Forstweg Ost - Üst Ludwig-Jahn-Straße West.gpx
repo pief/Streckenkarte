@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 418 filtered ascend = 0 plain-ascend = 0 cost=836 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Forstweg Ost - Üst Ludwig-Jahn-Straße West</name>
+  <link href="https://bikerouter.de/#map=18/51.36092/12.27909/osm-mapnik-german_style&amp;lonlats=12.278297,51.361115;12.284193,51.36044&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.361113" lon="12.278296"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.361113" lon="12.278297"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.36112" lon="12.278435"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.361115" lon="12.278526"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.360992" lon="12.279708"><ele>110</ele></trkpt>
+   <trkpt lat="51.360711" lon="12.282083"><ele>110</ele></trkpt>
+   <trkpt lat="51.360696" lon="12.282205"><ele>110</ele></trkpt>
+   <trkpt lat="51.360488" lon="12.283928"><ele>110</ele></trkpt>
+   <trkpt lat="51.36044" lon="12.284193"><ele>109.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

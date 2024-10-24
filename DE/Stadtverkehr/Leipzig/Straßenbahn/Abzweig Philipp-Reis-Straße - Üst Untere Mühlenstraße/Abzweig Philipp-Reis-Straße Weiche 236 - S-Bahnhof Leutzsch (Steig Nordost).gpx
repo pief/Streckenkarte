@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 194 filtered ascend = 4 plain-ascend = 4 cost=388 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Philipp-Reis-Straße Weiche 236 - S-Bahnhof Leutzsch (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.35287/12.30390/osm-mapnik-german_style&amp;lonlats=12.305717,51.351752;12.303614,51.352871&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.351752" lon="12.305717"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.351754" lon="12.305714"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.351836" lon="12.305552"><ele>109</ele></trkpt>
+   <trkpt lat="51.351887" lon="12.30545"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.351962" lon="12.305286"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.35255" lon="12.304196"><ele>111</ele></trkpt>
+   <trkpt lat="51.352579" lon="12.304143"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.352709" lon="12.303906"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.352767" lon="12.3038"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.352869" lon="12.303614"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.352869" lon="12.303612"><ele>112.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

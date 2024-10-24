@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 253 filtered ascend = 0 plain-ascend = 0 cost=506 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Böhlitz-Ehrenberg Burghausener Straße - Üst Forstweg West</name>
+  <link href="https://bikerouter.de/#map=18/51.36144/12.27384/osm-mapnik-german_style&amp;lonlats=12.272632,51.361716;12.276203,51.361358&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.361713" lon="12.272631"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.361702" lon="12.273112"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.361683" lon="12.27351"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.361424" lon="12.275774"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.361401" lon="12.275969"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.361358" lon="12.276203"><ele>110.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

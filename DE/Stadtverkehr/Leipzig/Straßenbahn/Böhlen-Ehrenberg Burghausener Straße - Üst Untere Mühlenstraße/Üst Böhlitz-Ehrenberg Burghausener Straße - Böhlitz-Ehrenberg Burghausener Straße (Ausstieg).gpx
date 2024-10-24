@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = 0 cost=134 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Böhlitz-Ehrenberg Burghausener Straße - Böhlitz-Ehrenberg Burghausener Straße (Ausstieg)</name>
+  <link href="https://bikerouter.de/#map=19/51.36141/12.27313/osm-mapnik-german_style&amp;lonlats=12.272632,51.361716;12.271983,51.361313&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.361713" lon="12.272631"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.361714" lon="12.272631"><ele>111</ele></trkpt>
+   <trkpt lat="51.361685" lon="12.272467"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.361622" lon="12.272338"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.361519" lon="12.272217"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.361315" lon="12.271986"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.361312" lon="12.271982"><ele>111</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

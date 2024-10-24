@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 87 filtered ascend = 0 plain-ascend = 0 cost=174 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Böhlitz-Ehrenberg Burghausener Straße Weiche West - Böhlitz-Ehrenberg Burghausener Straße (Einstieg)</name>
+  <link href="https://bikerouter.de/#map=19/51.36177/12.27257/osm-mapnik-german_style&amp;lonlats=12.271109,51.361507;12.272165,51.361723&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.361505" lon="12.271109"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.361611" lon="12.271192"><ele>110</ele></trkpt>
+   <trkpt lat="51.36164" lon="12.271214"><ele>110</ele></trkpt>
+   <trkpt lat="51.361686" lon="12.271292"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.361724" lon="12.271414"><ele>110</ele></trkpt>
+   <trkpt lat="51.361733" lon="12.271495"><ele>110</ele></trkpt>
+   <trkpt lat="51.36174" lon="12.271551"><ele>110</ele></trkpt>
+   <trkpt lat="51.361725" lon="12.272164"><ele>110</ele></trkpt>
+   <trkpt lat="51.361724" lon="12.272165"><ele>110.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

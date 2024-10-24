@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 588 filtered ascend = 2 plain-ascend = 1 cost=1176 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Südstraße (Steig Süd) - Barnecker Straße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.35656/12.29901/osm-mapnik-german_style&amp;lonlats=12.292575,51.359393;12.299143,51.35627&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.35939" lon="12.292574"><ele>106</ele></trkpt>
+   <trkpt lat="51.359349" lon="12.292836"><ele>106.25</ele></trkpt>
+   <trkpt lat="51.359311" lon="12.293015"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.359275" lon="12.29314"><ele>107</ele></trkpt>
+   <trkpt lat="51.358253" lon="12.296343"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.358128" lon="12.296651"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.358055" lon="12.2968"><ele>108</ele></trkpt>
+   <trkpt lat="51.357988" lon="12.296917"><ele>108</ele></trkpt>
+   <trkpt lat="51.357871" lon="12.297097"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.356891" lon="12.298355"><ele>107</ele></trkpt>
+   <trkpt lat="51.356274" lon="12.299151"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

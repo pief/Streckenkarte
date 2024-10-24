@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 287 filtered ascend = 0 plain-ascend = -1 cost=574 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Ludwig-Jahn-Straße Ost - Üst Untere Mühlenstraße</name>
+  <link href="https://bikerouter.de/#map=18/51.36014/12.28717/osm-mapnik-german_style&amp;lonlats=12.286304,51.360184;12.290346,51.359757&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.360183" lon="12.286303"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.360166" lon="12.2869"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.360148" lon="12.287146"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.360048" lon="12.287958"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.359898" lon="12.289192"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.359757" lon="12.290346"><ele>106.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
