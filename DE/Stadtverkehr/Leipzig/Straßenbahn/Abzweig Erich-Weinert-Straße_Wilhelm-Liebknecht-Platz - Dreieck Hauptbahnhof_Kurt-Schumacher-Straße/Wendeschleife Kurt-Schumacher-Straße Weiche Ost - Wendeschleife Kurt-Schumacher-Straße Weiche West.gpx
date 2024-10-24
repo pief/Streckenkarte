@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = -2 cost=198 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wendeschleife Kurt-Schumacher-Straße Weiche Ost - Wendeschleife Kurt-Schumacher-Straße Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.34781/12.37933/osm-mapnik-german_style&amp;lonlats=12.378523,51.347954;12.377885,51.348096&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.347952" lon="12.378524"><ele>109</ele></trkpt>
+   <trkpt lat="51.347956" lon="12.378528"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.348022" lon="12.378582"><ele>109</ele></trkpt>
+   <trkpt lat="51.348069" lon="12.3786"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.348123" lon="12.378603"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.348174" lon="12.378583"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.348222" lon="12.378546"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.348258" lon="12.378496"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.348292" lon="12.378427"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.348315" lon="12.378336"><ele>108</ele></trkpt>
+   <trkpt lat="51.348325" lon="12.378258"><ele>108</ele></trkpt>
+   <trkpt lat="51.348322" lon="12.378167"><ele>108</ele></trkpt>
+   <trkpt lat="51.348298" lon="12.378066"><ele>108</ele></trkpt>
+   <trkpt lat="51.348254" lon="12.377969"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.348225" lon="12.377935"><ele>107.5</ele></trkpt>
+   <trkpt lat="51.34817" lon="12.377891"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.348157" lon="12.377882"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.34811" lon="12.377886"><ele>108</ele></trkpt>
+   <trkpt lat="51.348096" lon="12.377887"><ele>108</ele></trkpt>
+   <trkpt lat="51.348096" lon="12.377886"><ele>106.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

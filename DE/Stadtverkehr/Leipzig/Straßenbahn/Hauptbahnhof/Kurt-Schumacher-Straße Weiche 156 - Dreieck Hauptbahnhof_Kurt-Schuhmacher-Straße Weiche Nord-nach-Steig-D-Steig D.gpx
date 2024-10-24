@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 0 plain-ascend = 0 cost=254 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kurt-Schumacher-Straße Weiche 156 - Dreieck Hauptbahnhof/Kurt-Schuhmacher-Straße Weiche Nord-nach-Steig-D-Steig D</name>
+  <link href="https://bikerouter.de/#map=19/51.34420/12.38075/osm-mapnik-german_style&amp;lonlats=12.378861,51.345285;12.379328,51.344265&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.345284" lon="12.378862"><ele>109</ele></trkpt>
+   <trkpt lat="51.344765" lon="12.378859"><ele>109</ele></trkpt>
+   <trkpt lat="51.344744" lon="12.378861"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.344642" lon="12.378873"><ele>109</ele></trkpt>
+   <trkpt lat="51.344578" lon="12.378894"><ele>109</ele></trkpt>
+   <trkpt lat="51.34453" lon="12.378922"><ele>109</ele></trkpt>
+   <trkpt lat="51.344483" lon="12.378959"><ele>109</ele></trkpt>
+   <trkpt lat="51.344449" lon="12.378984"><ele>109</ele></trkpt>
+   <trkpt lat="51.344404" lon="12.379041"><ele>109</ele></trkpt>
+   <trkpt lat="51.344354" lon="12.379122"><ele>109</ele></trkpt>
+   <trkpt lat="51.344268" lon="12.379323"><ele>109</ele></trkpt>
+   <trkpt lat="51.344265" lon="12.379328"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

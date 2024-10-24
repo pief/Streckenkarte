@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kurt-Schumacher-Straße Weiche 133 - Kurt-Schumacher-Straße Weiche 135</name>
+  <link href="https://bikerouter.de/#map=19/51.34653/12.37984/osm-mapnik-german_style&amp;lonlats=12.378674,51.346282;12.378556,51.346708&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.346282" lon="12.378676"><ele>109</ele></trkpt>
+   <trkpt lat="51.346283" lon="12.378676"><ele>109</ele></trkpt>
+   <trkpt lat="51.346365" lon="12.378651"><ele>109</ele></trkpt>
+   <trkpt lat="51.346564" lon="12.378617"><ele>109</ele></trkpt>
+   <trkpt lat="51.346706" lon="12.378561"><ele>109</ele></trkpt>
+   <trkpt lat="51.346708" lon="12.37856"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
