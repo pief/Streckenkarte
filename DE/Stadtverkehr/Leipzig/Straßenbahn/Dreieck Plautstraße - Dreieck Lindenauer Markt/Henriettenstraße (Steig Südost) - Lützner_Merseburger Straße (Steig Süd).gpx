@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 410 filtered ascend = 0 plain-ascend = -5 cost=820 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Henriettenstraße (Steig Südost) - Lützner/Merseburger Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.33556/12.33006/osm-mapnik-german_style&amp;lonlats=12.324801,51.333828;12.329825,51.335639&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333827" lon="12.3248"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.333829" lon="12.324803"><ele>117</ele></trkpt>
+   <trkpt lat="51.334017" lon="12.325181"><ele>116</ele></trkpt>
+   <trkpt lat="51.334348" lon="12.325845"><ele>116</ele></trkpt>
+   <trkpt lat="51.334532" lon="12.326231"><ele>116</ele></trkpt>
+   <trkpt lat="51.334705" lon="12.326642"><ele>116</ele></trkpt>
+   <trkpt lat="51.335043" lon="12.327493"><ele>115</ele></trkpt>
+   <trkpt lat="51.335212" lon="12.327979"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.335348" lon="12.328424"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.335498" lon="12.328959"><ele>112</ele></trkpt>
+   <trkpt lat="51.335542" lon="12.329161"><ele>112</ele></trkpt>
+   <trkpt lat="51.335584" lon="12.329391"><ele>112</ele></trkpt>
+   <trkpt lat="51.33564" lon="12.329823"><ele>111</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 272 filtered ascend = 0 plain-ascend = 0 cost=544 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Plautstraße Weiche Nordost-Süd - Credéstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.33015/12.31504/osm-mapnik-german_style&amp;lonlats=12.311511,51.329028;12.314815,51.33031&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.329027" lon="12.31151"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.329148" lon="12.311828"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.329719" lon="12.313207"><ele>117</ele></trkpt>
+   <trkpt lat="51.330035" lon="12.313979"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.330124" lon="12.314237"><ele>117</ele></trkpt>
+   <trkpt lat="51.330303" lon="12.314811"><ele>117</ele></trkpt>
+   <trkpt lat="51.330305" lon="12.314817"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

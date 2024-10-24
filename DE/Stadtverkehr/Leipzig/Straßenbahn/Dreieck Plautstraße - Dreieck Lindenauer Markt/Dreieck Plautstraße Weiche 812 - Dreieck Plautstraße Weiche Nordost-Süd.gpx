@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = 0 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Plautstraße Weiche 812 - Dreieck Plautstraße Weiche Nordost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.32897/12.31149/osm-mapnik-german_style&amp;lonlats=12.310824,51.328755;12.311511,51.329028&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.328754" lon="12.310823"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.328757" lon="12.310829"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.328792" lon="12.310917"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.328887" lon="12.311158"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.328986" lon="12.311409"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.329026" lon="12.311508"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.329027" lon="12.31151"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

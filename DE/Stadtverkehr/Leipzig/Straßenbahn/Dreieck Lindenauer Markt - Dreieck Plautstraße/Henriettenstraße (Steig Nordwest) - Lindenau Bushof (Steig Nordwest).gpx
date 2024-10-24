@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 444 filtered ascend = 0 plain-ascend = 0 cost=888 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Henriettenstraße (Steig Nordwest) - Lindenau Bushof (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=17/51.33069/12.32041/osm-mapnik-german_style&amp;lonlats=12.324343,51.33364;12.318868,51.331604&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333641" lon="12.32434"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.333619" lon="12.324294"><ele>117</ele></trkpt>
+   <trkpt lat="51.333504" lon="12.324047"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.333316" lon="12.323623"><ele>116</ele></trkpt>
+   <trkpt lat="51.332733" lon="12.32209"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.33269" lon="12.321976"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.332652" lon="12.321878"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.332178" lon="12.320616"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.331815" lon="12.31951"><ele>116</ele></trkpt>
+   <trkpt lat="51.331618" lon="12.318905"><ele>116</ele></trkpt>
+   <trkpt lat="51.331605" lon="12.318866"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

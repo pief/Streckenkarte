@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 0 plain-ascend = 0 cost=718 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Credéstraße (Steig Südost) - Lindenau Bushof (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.33160/12.31889/osm-mapnik-german_style&amp;lonlats=12.314815,51.33031;12.319434,51.331761&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.330305" lon="12.314817"><ele>117</ele></trkpt>
+   <trkpt lat="51.330358" lon="12.314987"><ele>117</ele></trkpt>
+   <trkpt lat="51.330707" lon="12.316096"><ele>117</ele></trkpt>
+   <trkpt lat="51.331395" lon="12.318292"><ele>116</ele></trkpt>
+   <trkpt lat="51.331537" lon="12.318743"><ele>116</ele></trkpt>
+   <trkpt lat="51.331627" lon="12.319018"><ele>116</ele></trkpt>
+   <trkpt lat="51.331761" lon="12.319432"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

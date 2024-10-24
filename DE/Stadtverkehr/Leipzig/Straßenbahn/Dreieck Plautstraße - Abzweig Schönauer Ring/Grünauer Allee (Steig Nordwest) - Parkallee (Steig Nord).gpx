@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 487 filtered ascend = 1 plain-ascend = 1 cost=974 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Grünauer Allee (Steig Nordwest) - Parkallee (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.32470/12.29582/osm-mapnik-german_style&amp;lonlats=12.302029,51.325825;12.29534,51.324769&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.325828" lon="12.302025"><ele>117</ele></trkpt>
+   <trkpt lat="51.3258" lon="12.301927"><ele>117</ele></trkpt>
+   <trkpt lat="51.325506" lon="12.300959"><ele>118</ele></trkpt>
+   <trkpt lat="51.325332" lon="12.300288"><ele>118</ele></trkpt>
+   <trkpt lat="51.32523" lon="12.299847"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.325135" lon="12.299373"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.325014" lon="12.298615"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.324951" lon="12.298109"><ele>118</ele></trkpt>
+   <trkpt lat="51.32493" lon="12.297896"><ele>118</ele></trkpt>
+   <trkpt lat="51.32489" lon="12.297432"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.32477" lon="12.295347"><ele>118</ele></trkpt>
+   <trkpt lat="51.324769" lon="12.295338"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

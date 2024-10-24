@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 355 filtered ascend = 1 plain-ascend = 1 cost=712 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Lindenau Bushof (Steig Nordwest) - Credéstraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.33022/12.31502/osm-mapnik-german_style&amp;lonlats=12.318868,51.331604;12.314327,51.330183&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.331605" lon="12.318866"><ele>116</ele></trkpt>
+   <trkpt lat="51.331557" lon="12.318718"><ele>116</ele></trkpt>
+   <trkpt lat="51.331419" lon="12.318274"><ele>116</ele></trkpt>
+   <trkpt lat="51.330729" lon="12.316077"><ele>117</ele></trkpt>
+   <trkpt lat="51.330381" lon="12.31497"><ele>117</ele></trkpt>
+   <trkpt lat="51.33018" lon="12.314332"><ele>117</ele></trkpt>
+   <trkpt lat="51.330179" lon="12.314328"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

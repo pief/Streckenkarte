@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 492 filtered ascend = 6 plain-ascend = 7 cost=984 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Lützner/Merseburger Straße (Steig Nord) - Henriettenstraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.33371/12.32481/osm-mapnik-german_style&amp;lonlats=12.330431,51.335737;12.324343,51.33364&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.335735" lon="12.33043"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.335724" lon="12.330346"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.335719" lon="12.330299"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.335704" lon="12.330179"><ele>111</ele></trkpt>
+   <trkpt lat="51.335693" lon="12.330066"><ele>111</ele></trkpt>
+   <trkpt lat="51.335672" lon="12.329806"><ele>111</ele></trkpt>
+   <trkpt lat="51.335617" lon="12.329377"><ele>112</ele></trkpt>
+   <trkpt lat="51.335572" lon="12.329135"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.335525" lon="12.328937"><ele>112</ele></trkpt>
+   <trkpt lat="51.33542" lon="12.328565"><ele>113</ele></trkpt>
+   <trkpt lat="51.335237" lon="12.327957"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.335071" lon="12.327466"><ele>115</ele></trkpt>
+   <trkpt lat="51.334697" lon="12.326515"><ele>116</ele></trkpt>
+   <trkpt lat="51.33456" lon="12.3262"><ele>116</ele></trkpt>
+   <trkpt lat="51.333964" lon="12.324988"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.333642" lon="12.324343"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.333641" lon="12.32434"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
