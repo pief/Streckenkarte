@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Gleisdreieck Annenstraße Weiche B4 - Gleisdreieck Annenstraße Weiche B6</name>
+  <link href="https://bikerouter.de/#map=19/50.82885/12.92372/osm-mapnik-german_style&amp;lonlats=12.923462,50.829227;12.923175,50.828761&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.829227" lon="12.923462"><ele>298</ele></trkpt>
+   <trkpt lat="50.829227" lon="12.923463"><ele>298</ele></trkpt>
+   <trkpt lat="50.829116" lon="12.923511"><ele>298</ele></trkpt>
+   <trkpt lat="50.829059" lon="12.923519"><ele>298</ele></trkpt>
+   <trkpt lat="50.829" lon="12.923514"><ele>298</ele></trkpt>
+   <trkpt lat="50.828949" lon="12.923488"><ele>298</ele></trkpt>
+   <trkpt lat="50.828881" lon="12.923429"><ele>298</ele></trkpt>
+   <trkpt lat="50.828835" lon="12.923357"><ele>298</ele></trkpt>
+   <trkpt lat="50.828791" lon="12.923267"><ele>298</ele></trkpt>
+   <trkpt lat="50.828761" lon="12.923183"><ele>298</ele></trkpt>
+   <trkpt lat="50.828758" lon="12.923175"><ele>298</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

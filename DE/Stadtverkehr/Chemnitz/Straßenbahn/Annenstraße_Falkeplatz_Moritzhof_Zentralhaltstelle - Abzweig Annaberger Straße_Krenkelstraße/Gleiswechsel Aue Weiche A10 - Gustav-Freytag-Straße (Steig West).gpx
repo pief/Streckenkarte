@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 140 filtered ascend = 0 plain-ascend = 1 cost=280 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Gleiswechsel Aue Weiche A10 - Gustav-Freytag-Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/50.82559/12.92084/osm-mapnik-german_style&amp;lonlats=12.920193,50.82683;12.920263,50.825595&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.826828" lon="12.920195"><ele>297.5</ele></trkpt>
+   <trkpt lat="50.826628" lon="12.920126"><ele>298</ele></trkpt>
+   <trkpt lat="50.826479" lon="12.92009"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.826408" lon="12.920081"><ele>298</ele></trkpt>
+   <trkpt lat="50.826316" lon="12.920077"><ele>298</ele></trkpt>
+   <trkpt lat="50.826193" lon="12.92009"><ele>298</ele></trkpt>
+   <trkpt lat="50.825596" lon="12.920261"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.825594" lon="12.920261"><ele>298</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
