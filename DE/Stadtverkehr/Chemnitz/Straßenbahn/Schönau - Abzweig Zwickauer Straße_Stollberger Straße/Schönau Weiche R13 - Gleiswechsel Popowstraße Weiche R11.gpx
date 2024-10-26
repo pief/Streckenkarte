@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 217 filtered ascend = 0 plain-ascend = 0 cost=434 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schönau Weiche R13 - Gleiswechsel Popowstraße Weiche R11</name>
+  <link href="https://bikerouter.de/#map=19/50.82125/12.87894/osm-mapnik-german_style&amp;lonlats=12.875947,50.821123;12.878219,50.821413;12.878938,50.821443&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.821123" lon="12.875945"><ele>308</ele></trkpt>
+   <trkpt lat="50.821125" lon="12.875947"><ele>308</ele></trkpt>
+   <trkpt lat="50.821149" lon="12.876028"><ele>308</ele></trkpt>
+   <trkpt lat="50.821179" lon="12.876173"><ele>308</ele></trkpt>
+   <trkpt lat="50.821203" lon="12.876321"><ele>308</ele></trkpt>
+   <trkpt lat="50.821242" lon="12.876607"><ele>308</ele></trkpt>
+   <trkpt lat="50.821307" lon="12.877064"><ele>307.5</ele></trkpt>
+   <trkpt lat="50.821386" lon="12.877826"><ele>307.75</ele></trkpt>
+   <trkpt lat="50.821409" lon="12.878218"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.82141" lon="12.878234"><ele>306.75</ele></trkpt>
+   <trkpt lat="50.821441" lon="12.878939"><ele>305.75</ele></trkpt>
+   <trkpt lat="50.82144" lon="12.878937"><ele>306.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

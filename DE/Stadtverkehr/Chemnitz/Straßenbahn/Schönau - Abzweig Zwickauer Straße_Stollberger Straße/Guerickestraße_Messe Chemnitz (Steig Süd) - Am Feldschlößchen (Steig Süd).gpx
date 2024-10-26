@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 378 filtered ascend = 0 plain-ascend = 0 cost=756 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Guerickestraße/Messe Chemnitz (Steig Süd) - Am Feldschlößchen (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/50.82254/12.88654/osm-mapnik-german_style&amp;lonlats=12.881496,50.821728;12.886699,50.822541&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.821722" lon="12.881496"><ele>306.25</ele></trkpt>
+   <trkpt lat="50.821735" lon="12.881583"><ele>306.25</ele></trkpt>
+   <trkpt lat="50.821799" lon="12.882003"><ele>305.25</ele></trkpt>
+   <trkpt lat="50.821887" lon="12.882668"><ele>305.75</ele></trkpt>
+   <trkpt lat="50.822164" lon="12.884918"><ele>305</ele></trkpt>
+   <trkpt lat="50.822218" lon="12.885243"><ele>305</ele></trkpt>
+   <trkpt lat="50.822262" lon="12.885502"><ele>305</ele></trkpt>
+   <trkpt lat="50.822325" lon="12.88581"><ele>305</ele></trkpt>
+   <trkpt lat="50.822431" lon="12.886266"><ele>305.25</ele></trkpt>
+   <trkpt lat="50.822449" lon="12.886339"><ele>305</ele></trkpt>
+   <trkpt lat="50.822541" lon="12.886699"><ele>305.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 1 plain-ascend = 0 cost=214 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schönau (Steig 1) - Schönau Weiche R12</name>
+  <link href="https://bikerouter.de/#map=19/50.82046/12.87576/osm-mapnik-german_style&amp;lonlats=12.875986,50.820648;12.875158,50.820262&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.820648" lon="12.875986"><ele>309</ele></trkpt>
+   <trkpt lat="50.82042" lon="12.875963"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.820341" lon="12.875947"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.820281" lon="12.875915"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.820237" lon="12.875875"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.820179" lon="12.875791"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.820148" lon="12.8757"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.820127" lon="12.8756"><ele>310</ele></trkpt>
+   <trkpt lat="50.820127" lon="12.87547"><ele>310</ele></trkpt>
+   <trkpt lat="50.820145" lon="12.87538"><ele>309.75</ele></trkpt>
+   <trkpt lat="50.820175" lon="12.875288"><ele>309.5</ele></trkpt>
+   <trkpt lat="50.820216" lon="12.875215"><ele>309.25</ele></trkpt>
+   <trkpt lat="50.820262" lon="12.875158"><ele>309</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
