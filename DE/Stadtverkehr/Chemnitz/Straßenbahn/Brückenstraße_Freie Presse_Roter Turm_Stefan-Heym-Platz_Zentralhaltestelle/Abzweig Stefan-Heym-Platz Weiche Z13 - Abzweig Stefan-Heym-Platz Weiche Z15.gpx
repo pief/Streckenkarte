@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = 0 cost=134 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Stefan-Heym-Platz Weiche Z13 - Abzweig Stefan-Heym-Platz Weiche Z15</name>
+  <link href="https://bikerouter.de/#map=19/50.83379/12.92570/osm-mapnik-german_style&amp;lonlats=12.925633,50.833497;12.925807,50.834058&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.833496" lon="12.925632"><ele>298</ele></trkpt>
+   <trkpt lat="50.833499" lon="12.925636"><ele>298</ele></trkpt>
+   <trkpt lat="50.83356" lon="12.925699"><ele>298</ele></trkpt>
+   <trkpt lat="50.833621" lon="12.925744"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.833668" lon="12.925771"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.833774" lon="12.925806"><ele>297.25</ele></trkpt>
+   <trkpt lat="50.833877" lon="12.925823"><ele>297</ele></trkpt>
+   <trkpt lat="50.833936" lon="12.925823"><ele>297</ele></trkpt>
+   <trkpt lat="50.834017" lon="12.925816"><ele>297</ele></trkpt>
+   <trkpt lat="50.834058" lon="12.925808"><ele>297</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
