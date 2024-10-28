@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 1 plain-ascend = 2 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Gohlis Nord (Einstieg Nord) - Gohlis Nord Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.37464/12.37801/osm-mapnik-german_style&amp;lonlats=12.378426,51.37493;12.377893,51.37462&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.374928" lon="12.378425"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.374897" lon="12.378175"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.374861" lon="12.378085"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.374828" lon="12.378025"><ele>115</ele></trkpt>
+   <trkpt lat="51.374794" lon="12.377992"><ele>115</ele></trkpt>
+   <trkpt lat="51.374755" lon="12.377955"><ele>115</ele></trkpt>
+   <trkpt lat="51.374696" lon="12.377919"><ele>115</ele></trkpt>
+   <trkpt lat="51.374625" lon="12.377896"><ele>115</ele></trkpt>
+   <trkpt lat="51.374618" lon="12.377894"><ele>115.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

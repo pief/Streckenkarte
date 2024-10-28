@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 249 filtered ascend = 0 plain-ascend = 0 cost=498 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Baaderstraße (Steig West) - Gottschallstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.36895/12.37664/osm-mapnik-german_style&amp;lonlats=12.377024,51.371322;12.376471,51.369115&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.371321" lon="12.377023"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.371229" lon="12.376997"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.371097" lon="12.376966"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.369352" lon="12.376534"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.369116" lon="12.376476"><ele>117</ele></trkpt>
+   <trkpt lat="51.369113" lon="12.376475"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

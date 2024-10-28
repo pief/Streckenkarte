@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 223 filtered ascend = 0 plain-ascend = -1 cost=446 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Gottschallstraße (Steig West) - Virchow-/Coppistraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.36686/12.37584/osm-mapnik-german_style&amp;lonlats=12.376471,51.369115;12.375865,51.367142&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.369113" lon="12.376475"><ele>117</ele></trkpt>
+   <trkpt lat="51.368789" lon="12.376393"><ele>117</ele></trkpt>
+   <trkpt lat="51.368535" lon="12.376279"><ele>117</ele></trkpt>
+   <trkpt lat="51.368385" lon="12.376218"><ele>117</ele></trkpt>
+   <trkpt lat="51.367143" lon="12.37587"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.36714" lon="12.375869"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
