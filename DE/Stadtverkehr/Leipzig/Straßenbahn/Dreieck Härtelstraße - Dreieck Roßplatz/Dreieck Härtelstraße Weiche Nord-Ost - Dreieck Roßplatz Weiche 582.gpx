@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 177 filtered ascend = 2 plain-ascend = 2 cost=354 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Härtelstraße Weiche Nord-Ost - Dreieck Roßplatz Weiche 582</name>
+  <link href="https://bikerouter.de/#map=19/51.33516/12.37903/osm-mapnik-german_style&amp;lonlats=12.377389,51.333346;12.378338,51.334821&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333345" lon="12.377388"><ele>113</ele></trkpt>
+   <trkpt lat="51.33335" lon="12.377391"><ele>113</ele></trkpt>
+   <trkpt lat="51.334659" lon="12.378241"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.334818" lon="12.378344"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
