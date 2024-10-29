@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 518 filtered ascend = 1 plain-ascend = -2 cost=1038 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Moritz Hof (Steig Ost) - Abzweig Wendeschleife An der Märchenwiese Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.30533/12.39700/osm-mapnik-german_style&amp;lonlats=12.396312,51.300972;12.396384,51.305612&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.300971" lon="12.396311"><ele>129</ele></trkpt>
+   <trkpt lat="51.300975" lon="12.396312"><ele>129</ele></trkpt>
+   <trkpt lat="51.301117" lon="12.396316"><ele>129</ele></trkpt>
+   <trkpt lat="51.301194" lon="12.396319"><ele>129</ele></trkpt>
+   <trkpt lat="51.301963" lon="12.39634"><ele>130</ele></trkpt>
+   <trkpt lat="51.303454" lon="12.396364"><ele>130</ele></trkpt>
+   <trkpt lat="51.303541" lon="12.396362"><ele>130</ele></trkpt>
+   <trkpt lat="51.305392" lon="12.396381"><ele>126</ele></trkpt>
+   <trkpt lat="51.305611" lon="12.396385"><ele>126</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
