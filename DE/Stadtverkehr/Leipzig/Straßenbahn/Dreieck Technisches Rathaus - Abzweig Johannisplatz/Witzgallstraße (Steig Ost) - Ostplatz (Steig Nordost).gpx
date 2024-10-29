@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 533 filtered ascend = 0 plain-ascend = -2 cost=1066 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Witzgallstraße (Steig Ost) - Ostplatz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.33197/12.39542/osm-mapnik-german_style&amp;lonlats=12.399672,51.327927;12.395544,51.331877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.327927" lon="12.399674"><ele>121</ele></trkpt>
+   <trkpt lat="51.328218" lon="12.399568"><ele>121</ele></trkpt>
+   <trkpt lat="51.328465" lon="12.399458"><ele>121</ele></trkpt>
+   <trkpt lat="51.328885" lon="12.399208"><ele>120</ele></trkpt>
+   <trkpt lat="51.329238" lon="12.398947"><ele>120</ele></trkpt>
+   <trkpt lat="51.329347" lon="12.398856"><ele>120</ele></trkpt>
+   <trkpt lat="51.329894" lon="12.398272"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.33003" lon="12.398127"><ele>119</ele></trkpt>
+   <trkpt lat="51.330184" lon="12.397946"><ele>119</ele></trkpt>
+   <trkpt lat="51.330644" lon="12.397378"><ele>119</ele></trkpt>
+   <trkpt lat="51.330868" lon="12.397058"><ele>119</ele></trkpt>
+   <trkpt lat="51.331201" lon="12.39656"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.331878" lon="12.395546"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
