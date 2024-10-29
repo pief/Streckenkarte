@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 37 filtered ascend = 1 plain-ascend = 1 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Friedrich-List-Platz (Steig Nordost) - Abzweig Friedrich-List-Platz Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.34576/12.39232/osm-mapnik-german_style&amp;lonlats=12.392728,51.345542;12.392277,51.345381&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.345543" lon="12.392727"><ele>109</ele></trkpt>
+   <trkpt lat="51.345482" lon="12.392559"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.345465" lon="12.39251"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.345439" lon="12.392439"><ele>110</ele></trkpt>
+   <trkpt lat="51.345398" lon="12.392322"><ele>110</ele></trkpt>
+   <trkpt lat="51.345383" lon="12.392282"><ele>110</ele></trkpt>
+   <trkpt lat="51.345381" lon="12.392275"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

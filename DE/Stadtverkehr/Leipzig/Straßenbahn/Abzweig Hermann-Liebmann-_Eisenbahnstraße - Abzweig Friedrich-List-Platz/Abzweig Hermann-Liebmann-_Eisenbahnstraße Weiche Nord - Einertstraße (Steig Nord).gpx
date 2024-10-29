@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 410 filtered ascend = 0 plain-ascend = -1 cost=820 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Hermann-Liebmann-/Eisenbahnstraße Weiche Nord - Einertstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.34595/12.39952/osm-mapnik-german_style&amp;lonlats=12.4057,51.345558;12.399833,51.345877&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.345559" lon="12.4057"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.345698" lon="12.403104"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.345747" lon="12.402111"><ele>113</ele></trkpt>
+   <trkpt lat="51.345845" lon="12.400377"><ele>112</ele></trkpt>
+   <trkpt lat="51.345874" lon="12.399832"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

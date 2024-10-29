@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 1 plain-ascend = 1 cost=278 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Stannebeinplatz Weiche Nord - Stannebeinplatz (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.35109/12.40771/osm-mapnik-german_style&amp;lonlats=12.408057,51.351546;12.406351,51.350906&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.351546" lon="12.408057"><ele>115</ele></trkpt>
+   <trkpt lat="51.351474" lon="12.407941"><ele>115</ele></trkpt>
+   <trkpt lat="51.35138" lon="12.407771"><ele>115</ele></trkpt>
+   <trkpt lat="51.351298" lon="12.407558"><ele>115</ele></trkpt>
+   <trkpt lat="51.351212" lon="12.40729"><ele>115</ele></trkpt>
+   <trkpt lat="51.351081" lon="12.406884"><ele>115</ele></trkpt>
+   <trkpt lat="51.350908" lon="12.406357"><ele>116</ele></trkpt>
+   <trkpt lat="51.350905" lon="12.40635"><ele>115.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

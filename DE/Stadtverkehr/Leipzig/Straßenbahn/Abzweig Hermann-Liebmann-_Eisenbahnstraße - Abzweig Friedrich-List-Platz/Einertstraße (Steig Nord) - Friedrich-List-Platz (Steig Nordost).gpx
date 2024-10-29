@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 513 filtered ascend = 0 plain-ascend = -2 cost=1026 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Einertstraße (Steig Nord) - Friedrich-List-Platz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.34571/12.39369/osm-mapnik-german_style&amp;lonlats=12.399833,51.345877;12.392728,51.345542&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.345874" lon="12.399832"><ele>112</ele></trkpt>
+   <trkpt lat="51.345875" lon="12.39983"><ele>112</ele></trkpt>
+   <trkpt lat="51.345933" lon="12.398739"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.346002" lon="12.397449"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.34613" lon="12.394811"><ele>110</ele></trkpt>
+   <trkpt lat="51.34614" lon="12.394571"><ele>110</ele></trkpt>
+   <trkpt lat="51.346137" lon="12.394464"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.346115" lon="12.394327"><ele>110</ele></trkpt>
+   <trkpt lat="51.346069" lon="12.394161"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.34605" lon="12.394111"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.345914" lon="12.393742"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.345631" lon="12.392969"><ele>109</ele></trkpt>
+   <trkpt lat="51.345543" lon="12.392727"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
