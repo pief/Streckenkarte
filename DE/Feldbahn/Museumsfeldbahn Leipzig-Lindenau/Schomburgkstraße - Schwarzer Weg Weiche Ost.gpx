@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 525 filtered ascend = 2 plain-ascend = 1 cost=525 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schomburgkstraße - Schwarzer Weg Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.33740/12.29635/osm-mapnik-german_style&amp;lonlats=12.296761,51.337298;12.290791,51.337109&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.3373" lon="12.296764"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.33819" lon="12.295624"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.338263" lon="12.295514"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.338329" lon="12.295378"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.338338" lon="12.295349"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.338379" lon="12.295194"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.338399" lon="12.295064"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.338404" lon="12.294986"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.338401" lon="12.294864"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.338374" lon="12.294666"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.33832" lon="12.294496"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.338288" lon="12.294424"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.338246" lon="12.294345"><ele>114</ele></trkpt>
+   <trkpt lat="51.33819" lon="12.29426"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.337541" lon="12.293332"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.337429" lon="12.293154"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.337317" lon="12.292921"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.337252" lon="12.292739"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.337188" lon="12.292416"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.337142" lon="12.292109"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.3371" lon="12.291596"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.3371" lon="12.291316"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.337109" lon="12.290791"><ele>114.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 1 plain-ascend = 2 cost=70 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schöner Lachen (Südliches Gleis) - Schöner Lachen Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.33836/12.28673/osm-mapnik-german_style&amp;lonlats=12.284673,51.338357;12.28562,51.338168&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338361" lon="12.284675"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.338171" lon="12.285616"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.338169" lon="12.285621"><ele>113.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 0 plain-ascend = -1 cost=110 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Museumsbahnhof Weiche Nord-zu-Bahnsteiggleise - Museumsbahnhof Weiche Nord-zu-Lokhalle Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.33531/12.30060/osm-mapnik-german_style&amp;lonlats=12.299889,51.33544;12.298567,51.335976&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.335439" lon="12.299887"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.335468" lon="12.299837"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.335514" lon="12.29974"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.335561" lon="12.299639"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.335696" lon="12.299285"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.335974" lon="12.298573"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.335976" lon="12.298567"><ele>113</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
