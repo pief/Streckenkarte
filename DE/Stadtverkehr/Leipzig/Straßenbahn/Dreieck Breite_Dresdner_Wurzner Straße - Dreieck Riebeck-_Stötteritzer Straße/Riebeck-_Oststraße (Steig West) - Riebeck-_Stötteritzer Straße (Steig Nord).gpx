@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 450 filtered ascend = 5 plain-ascend = 5 cost=900 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Riebeck-/Oststraße (Steig West) - Riebeck-/Stötteritzer Straße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.32702/12.40405/osm-mapnik-german_style&amp;lonlats=12.405525,51.331209;12.403349,51.327406&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.331208" lon="12.405524"><ele>118</ele></trkpt>
+   <trkpt lat="51.331083" lon="12.40545"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.330923" lon="12.405351"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.330433" lon="12.405064"><ele>119</ele></trkpt>
+   <trkpt lat="51.330363" lon="12.405017"><ele>119</ele></trkpt>
+   <trkpt lat="51.330221" lon="12.404929"><ele>119</ele></trkpt>
+   <trkpt lat="51.330004" lon="12.404795"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.329596" lon="12.404568"><ele>120</ele></trkpt>
+   <trkpt lat="51.328938" lon="12.404202"><ele>121</ele></trkpt>
+   <trkpt lat="51.32833" lon="12.403864"><ele>122</ele></trkpt>
+   <trkpt lat="51.328173" lon="12.403777"><ele>122</ele></trkpt>
+   <trkpt lat="51.328075" lon="12.403722"><ele>122</ele></trkpt>
+   <trkpt lat="51.327974" lon="12.403666"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.327863" lon="12.403604"><ele>122.5</ele></trkpt>
+   <trkpt lat="51.327762" lon="12.403547"><ele>123</ele></trkpt>
+   <trkpt lat="51.327654" lon="12.403487"><ele>123</ele></trkpt>
+   <trkpt lat="51.327567" lon="12.403439"><ele>122.75</ele></trkpt>
+   <trkpt lat="51.327405" lon="12.403348"><ele>123</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

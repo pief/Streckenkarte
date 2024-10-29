@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 1 plain-ascend = 1 cost=94 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Riebeck-/Stötteritzer Straße Weiche 533 - Dreieck Riebeck-/Stötteritzer Straße Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/51.32706/12.40401/osm-mapnik-german_style&amp;lonlats=12.403256,51.327253;12.403084,51.326856&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.327251" lon="12.403259"><ele>123</ele></trkpt>
+   <trkpt lat="51.327246" lon="12.403256"><ele>123</ele></trkpt>
+   <trkpt lat="51.327114" lon="12.403201"><ele>123</ele></trkpt>
+   <trkpt lat="51.327012" lon="12.403156"><ele>123</ele></trkpt>
+   <trkpt lat="51.326859" lon="12.403089"><ele>123.25</ele></trkpt>
+   <trkpt lat="51.326855" lon="12.403086"><ele>124</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
