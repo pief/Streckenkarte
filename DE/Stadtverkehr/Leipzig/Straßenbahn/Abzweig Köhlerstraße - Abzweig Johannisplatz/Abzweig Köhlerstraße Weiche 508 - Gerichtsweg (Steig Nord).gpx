@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 1 plain-ascend = 1 cost=1024 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Köhlerstraße Weiche 508 - Gerichtsweg (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=18/51.33898/12.39799/osm-mapnik-german_style&amp;lonlats=12.402811,51.338838;12.395668,51.339131&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338838" lon="12.402811"><ele>113</ele></trkpt>
+   <trkpt lat="51.338839" lon="12.402809"><ele>113</ele></trkpt>
+   <trkpt lat="51.338892" lon="12.402653"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.338901" lon="12.402626"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.338968" lon="12.402431"><ele>113</ele></trkpt>
+   <trkpt lat="51.338971" lon="12.402422"><ele>113</ele></trkpt>
+   <trkpt lat="51.339037" lon="12.402231"><ele>113</ele></trkpt>
+   <trkpt lat="51.339092" lon="12.402091"><ele>113</ele></trkpt>
+   <trkpt lat="51.339242" lon="12.401674"><ele>113</ele></trkpt>
+   <trkpt lat="51.339291" lon="12.401482"><ele>113</ele></trkpt>
+   <trkpt lat="51.339308" lon="12.401375"><ele>113</ele></trkpt>
+   <trkpt lat="51.339317" lon="12.401257"><ele>113</ele></trkpt>
+   <trkpt lat="51.339315" lon="12.401052"><ele>113</ele></trkpt>
+   <trkpt lat="51.339293" lon="12.400427"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.339263" lon="12.399507"><ele>114</ele></trkpt>
+   <trkpt lat="51.339224" lon="12.398321"><ele>114</ele></trkpt>
+   <trkpt lat="51.339187" lon="12.397194"><ele>114</ele></trkpt>
+   <trkpt lat="51.339184" lon="12.397116"><ele>114</ele></trkpt>
+   <trkpt lat="51.339162" lon="12.396404"><ele>114</ele></trkpt>
+   <trkpt lat="51.339136" lon="12.395667"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

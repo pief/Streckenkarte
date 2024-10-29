@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 1 plain-ascend = 1 cost=628 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Wendeschleife Täubchenweg Weiche Ost - Johannisplatz (Steig Nord-Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.33825/12.38723/osm-mapnik-german_style&amp;lonlats=12.389995,51.338499;12.385551,51.338235&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338498" lon="12.389994"><ele>115</ele></trkpt>
+   <trkpt lat="51.33838" lon="12.389277"><ele>115</ele></trkpt>
+   <trkpt lat="51.338255" lon="12.388523"><ele>115</ele></trkpt>
+   <trkpt lat="51.338216" lon="12.388267"><ele>115</ele></trkpt>
+   <trkpt lat="51.338194" lon="12.388095"><ele>115</ele></trkpt>
+   <trkpt lat="51.338171" lon="12.387835"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.338158" lon="12.387426"><ele>116</ele></trkpt>
+   <trkpt lat="51.338172" lon="12.387004"><ele>116</ele></trkpt>
+   <trkpt lat="51.338234" lon="12.385551"><ele>116</ele></trkpt>
+   <trkpt lat="51.338234" lon="12.38555"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
