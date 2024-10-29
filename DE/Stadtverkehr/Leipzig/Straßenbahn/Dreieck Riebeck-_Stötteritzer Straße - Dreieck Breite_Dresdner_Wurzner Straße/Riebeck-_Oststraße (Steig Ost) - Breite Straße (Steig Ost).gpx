@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 526 filtered ascend = 2 plain-ascend = -3 cost=1052 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Riebeck-/Oststraße (Steig Ost) - Breite Straße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.33550/12.40844/osm-mapnik-german_style&amp;lonlats=12.405345,51.330856;12.407775,51.335319&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.330853" lon="12.405353"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.330855" lon="12.405354"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.330998" lon="12.405443"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.331074" lon="12.405491"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.331579" lon="12.405775"><ele>118</ele></trkpt>
+   <trkpt lat="51.331687" lon="12.405828"><ele>118</ele></trkpt>
+   <trkpt lat="51.331768" lon="12.405869"><ele>118</ele></trkpt>
+   <trkpt lat="51.331921" lon="12.405937"><ele>118</ele></trkpt>
+   <trkpt lat="51.332444" lon="12.406226"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.332488" lon="12.40625"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.332701" lon="12.406354"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.333057" lon="12.406515"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.333143" lon="12.406561"><ele>120</ele></trkpt>
+   <trkpt lat="51.333384" lon="12.406696"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.334151" lon="12.407123"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.335318" lon="12.407774"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

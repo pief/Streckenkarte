@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = -3 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Weißestraße (Steig Ost) - Abzweig Arnold-/Weißestraße Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.32243/12.41857/osm-mapnik-german_style&amp;lonlats=12.418877,51.321708;12.418767,51.322161&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.321708" lon="12.418877"><ele>136.75</ele></trkpt>
+   <trkpt lat="51.321711" lon="12.418877"><ele>136.75</ele></trkpt>
+   <trkpt lat="51.321795" lon="12.418858"><ele>136.5</ele></trkpt>
+   <trkpt lat="51.321889" lon="12.418834"><ele>136</ele></trkpt>
+   <trkpt lat="51.321924" lon="12.418825"><ele>136</ele></trkpt>
+   <trkpt lat="51.321947" lon="12.418818"><ele>135.75</ele></trkpt>
+   <trkpt lat="51.322155" lon="12.418771"><ele>135.5</ele></trkpt>
+   <trkpt lat="51.322161" lon="12.418769"><ele>132.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

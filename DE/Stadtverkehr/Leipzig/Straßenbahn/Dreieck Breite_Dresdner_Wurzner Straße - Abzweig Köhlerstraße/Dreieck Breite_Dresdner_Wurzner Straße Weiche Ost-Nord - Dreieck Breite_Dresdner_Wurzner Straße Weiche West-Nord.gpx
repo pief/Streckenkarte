@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 0 plain-ascend = 0 cost=146 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Breite/Dresdner/Wurzner Straße Weiche Ost-Nord - Dreieck Breite/Dresdner/Wurzner Straße Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.33796/12.40700/osm-mapnik-german_style&amp;lonlats=12.407303,51.338067;12.406291,51.338106&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338066" lon="12.407302"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.338068" lon="12.407298"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.338085" lon="12.40721"><ele>112</ele></trkpt>
+   <trkpt lat="51.338116" lon="12.407048"><ele>112</ele></trkpt>
+   <trkpt lat="51.338128" lon="12.406886"><ele>112</ele></trkpt>
+   <trkpt lat="51.33813" lon="12.40676"><ele>112</ele></trkpt>
+   <trkpt lat="51.338122" lon="12.406572"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.338122" lon="12.406568"><ele>112</ele></trkpt>
+   <trkpt lat="51.338107" lon="12.4063"><ele>112</ele></trkpt>
+   <trkpt lat="51.338106" lon="12.406289"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

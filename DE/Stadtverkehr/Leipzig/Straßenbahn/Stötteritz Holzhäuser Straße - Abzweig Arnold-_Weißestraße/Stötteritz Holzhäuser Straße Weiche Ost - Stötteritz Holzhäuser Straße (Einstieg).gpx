@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 158 filtered ascend = 3 plain-ascend = 3 cost=318 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Stötteritz Holzhäuser Straße Weiche Ost - Stötteritz Holzhäuser Straße (Einstieg)</name>
+  <link href="https://bikerouter.de/#map=19/51.31885/12.42978/osm-mapnik-german_style&amp;lonlats=12.430347,51.318243;12.429614,51.319276&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.318243" lon="12.430347"><ele>138</ele></trkpt>
+   <trkpt lat="51.318657" lon="12.43065"><ele>139</ele></trkpt>
+   <trkpt lat="51.318724" lon="12.430666"><ele>139</ele></trkpt>
+   <trkpt lat="51.318793" lon="12.43064"><ele>139</ele></trkpt>
+   <trkpt lat="51.318829" lon="12.430615"><ele>139</ele></trkpt>
+   <trkpt lat="51.318881" lon="12.430558"><ele>139</ele></trkpt>
+   <trkpt lat="51.318917" lon="12.430487"><ele>139</ele></trkpt>
+   <trkpt lat="51.319276" lon="12.429616"><ele>140.5</ele></trkpt>
+   <trkpt lat="51.319276" lon="12.429614"><ele>141</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
