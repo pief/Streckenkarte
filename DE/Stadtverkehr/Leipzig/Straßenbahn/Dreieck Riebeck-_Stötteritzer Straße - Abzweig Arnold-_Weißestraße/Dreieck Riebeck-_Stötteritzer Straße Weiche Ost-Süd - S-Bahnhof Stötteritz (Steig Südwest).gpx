@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 428 filtered ascend = 1 plain-ascend = 2 cost=856 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Riebeck-/Stötteritzer Straße Weiche Ost-Süd - S-Bahnhof Stötteritz (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.32504/12.41115/osm-mapnik-german_style&amp;lonlats=12.403634,51.326903;12.409312,51.325461&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.326901" lon="12.403633"><ele>124</ele></trkpt>
+   <trkpt lat="51.326634" lon="12.404709"><ele>124</ele></trkpt>
+   <trkpt lat="51.326555" lon="12.404983"><ele>124</ele></trkpt>
+   <trkpt lat="51.326043" lon="12.407017"><ele>124</ele></trkpt>
+   <trkpt lat="51.325948" lon="12.407395"><ele>124.5</ele></trkpt>
+   <trkpt lat="51.325587" lon="12.408831"><ele>125</ele></trkpt>
+   <trkpt lat="51.325465" lon="12.409314"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.325464" lon="12.409314"><ele>125.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

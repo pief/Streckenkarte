@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 318 filtered ascend = 1 plain-ascend = 0 cost=636 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kolmstraße (Steig West) - Stötteritz Holzhäuser Straße (Ausstieg)</name>
+  <link href="https://bikerouter.de/#map=18/51.31820/12.43030/osm-mapnik-german_style&amp;lonlats=12.425608,51.320067;12.429807,51.319169&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.320068" lon="12.425606"><ele>141</ele></trkpt>
+   <trkpt lat="51.320069" lon="12.425614"><ele>141</ele></trkpt>
+   <trkpt lat="51.320073" lon="12.425689"><ele>141</ele></trkpt>
+   <trkpt lat="51.320071" lon="12.426005"><ele>141</ele></trkpt>
+   <trkpt lat="51.320056" lon="12.426262"><ele>141</ele></trkpt>
+   <trkpt lat="51.319965" lon="12.427127"><ele>142</ele></trkpt>
+   <trkpt lat="51.319875" lon="12.427966"><ele>142</ele></trkpt>
+   <trkpt lat="51.319859" lon="12.428075"><ele>141.75</ele></trkpt>
+   <trkpt lat="51.319814" lon="12.42825"><ele>141.25</ele></trkpt>
+   <trkpt lat="51.319758" lon="12.428406"><ele>141</ele></trkpt>
+   <trkpt lat="51.319417" lon="12.429218"><ele>141</ele></trkpt>
+   <trkpt lat="51.319171" lon="12.429808"><ele>140</ele></trkpt>
+   <trkpt lat="51.31917" lon="12.429808"><ele>139.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

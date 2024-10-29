@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 362 filtered ascend = 6 plain-ascend = 6 cost=724 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Breslauer Straße (Steig West) - Weißestraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=18/51.32229/12.41646/osm-mapnik-german_style&amp;lonlats=12.414697,51.323483;12.417648,51.3219&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.323483" lon="12.4147"><ele>130</ele></trkpt>
+   <trkpt lat="51.323483" lon="12.414701"><ele>130.25</ele></trkpt>
+   <trkpt lat="51.323438" lon="12.414709"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.323407" lon="12.414715"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.322596" lon="12.414863"><ele>133</ele></trkpt>
+   <trkpt lat="51.321999" lon="12.41497"><ele>134.75</ele></trkpt>
+   <trkpt lat="51.321945" lon="12.415004"><ele>134.75</ele></trkpt>
+   <trkpt lat="51.321882" lon="12.415083"><ele>135</ele></trkpt>
+   <trkpt lat="51.321857" lon="12.415151"><ele>135.25</ele></trkpt>
+   <trkpt lat="51.321846" lon="12.415262"><ele>135.25</ele></trkpt>
+   <trkpt lat="51.321878" lon="12.416519"><ele>135</ele></trkpt>
+   <trkpt lat="51.321892" lon="12.417261"><ele>136</ele></trkpt>
+   <trkpt lat="51.321899" lon="12.417647"><ele>136</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

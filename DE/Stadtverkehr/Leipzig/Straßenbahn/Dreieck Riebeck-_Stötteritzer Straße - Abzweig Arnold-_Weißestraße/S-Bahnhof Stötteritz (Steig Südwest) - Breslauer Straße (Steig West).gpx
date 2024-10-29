@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 460 filtered ascend = 5 plain-ascend = 5 cost=920 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>S-Bahnhof Stötteritz (Steig Südwest) - Breslauer Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=18/51.32309/12.41489/osm-mapnik-german_style&amp;lonlats=12.409312,51.325461;12.414697,51.323483&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.325464" lon="12.409314"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.325365" lon="12.409712"><ele>125.75</ele></trkpt>
+   <trkpt lat="51.325249" lon="12.410234"><ele>126</ele></trkpt>
+   <trkpt lat="51.325197" lon="12.410473"><ele>126.25</ele></trkpt>
+   <trkpt lat="51.325121" lon="12.410828"><ele>127</ele></trkpt>
+   <trkpt lat="51.324934" lon="12.411528"><ele>127.5</ele></trkpt>
+   <trkpt lat="51.32491" lon="12.411613"><ele>128</ele></trkpt>
+   <trkpt lat="51.324902" lon="12.411644"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.324894" lon="12.411673"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.324847" lon="12.411844"><ele>129</ele></trkpt>
+   <trkpt lat="51.32452" lon="12.413023"><ele>126.75</ele></trkpt>
+   <trkpt lat="51.324515" lon="12.413038"><ele>127</ele></trkpt>
+   <trkpt lat="51.324122" lon="12.414409"><ele>129</ele></trkpt>
+   <trkpt lat="51.324071" lon="12.414495"><ele>129</ele></trkpt>
+   <trkpt lat="51.323969" lon="12.414593"><ele>129</ele></trkpt>
+   <trkpt lat="51.323923" lon="12.414619"><ele>129</ele></trkpt>
+   <trkpt lat="51.323768" lon="12.414648"><ele>129.25</ele></trkpt>
+   <trkpt lat="51.323483" lon="12.4147"><ele>130.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
