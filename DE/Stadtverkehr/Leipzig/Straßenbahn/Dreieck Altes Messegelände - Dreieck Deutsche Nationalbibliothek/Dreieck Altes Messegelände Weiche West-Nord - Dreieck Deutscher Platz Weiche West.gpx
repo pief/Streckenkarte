@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 0 plain-ascend = -2 cost=560 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Altes Messegelände Weiche West-Nord - Dreieck Deutscher Platz Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.32193/12.40157/osm-mapnik-german_style&amp;lonlats=12.403248,51.321581;12.399399,51.322188&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.321578" lon="12.403247"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.321561" lon="12.403011"><ele>129</ele></trkpt>
+   <trkpt lat="51.321556" lon="12.402917"><ele>129</ele></trkpt>
+   <trkpt lat="51.32156" lon="12.40282"><ele>129</ele></trkpt>
+   <trkpt lat="51.321575" lon="12.402689"><ele>128.5</ele></trkpt>
+   <trkpt lat="51.321641" lon="12.40226"><ele>128</ele></trkpt>
+   <trkpt lat="51.321829" lon="12.40107"><ele>127.25</ele></trkpt>
+   <trkpt lat="51.321877" lon="12.400772"><ele>127</ele></trkpt>
+   <trkpt lat="51.322053" lon="12.399907"><ele>127</ele></trkpt>
+   <trkpt lat="51.322182" lon="12.399405"><ele>126.75</ele></trkpt>
+   <trkpt lat="51.322184" lon="12.399396"><ele>126</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

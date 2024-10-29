@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 422 filtered ascend = 3 plain-ascend = 3 cost=844 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Ostplatz (Steig Südwest) - Witzgallstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.32804/12.39993/osm-mapnik-german_style&amp;lonlats=12.395986,51.331543;12.399416,51.328458&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.331544" lon="12.395988"><ele>118</ele></trkpt>
+   <trkpt lat="51.331194" lon="12.396516"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.330852" lon="12.397031"><ele>119</ele></trkpt>
+   <trkpt lat="51.330628" lon="12.397341"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.330167" lon="12.397909"><ele>119</ele></trkpt>
+   <trkpt lat="51.330014" lon="12.398089"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.329877" lon="12.398237"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.329524" lon="12.39862"><ele>120</ele></trkpt>
+   <trkpt lat="51.329356" lon="12.398789"><ele>120</ele></trkpt>
+   <trkpt lat="51.329227" lon="12.398898"><ele>120</ele></trkpt>
+   <trkpt lat="51.328872" lon="12.399171"><ele>120</ele></trkpt>
+   <trkpt lat="51.32846" lon="12.399411"><ele>121</ele></trkpt>
+   <trkpt lat="51.328457" lon="12.399412"><ele>121</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 147 filtered ascend = 0 plain-ascend = 0 cost=294 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Augustusplatz Weiche Ost-Süd - Abzweig Johannisplatz Weiche 502</name>
+  <link href="https://bikerouter.de/#map=19/51.33830/12.38412/osm-mapnik-german_style&amp;lonlats=12.382273,51.338638;12.384301,51.338292&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.338638" lon="12.382273"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.33863" lon="12.382301"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.338626" lon="12.382317"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.338512" lon="12.382819"><ele>116</ele></trkpt>
+   <trkpt lat="51.338403" lon="12.383419"><ele>116</ele></trkpt>
+   <trkpt lat="51.338341" lon="12.383817"><ele>116</ele></trkpt>
+   <trkpt lat="51.33829" lon="12.3843"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

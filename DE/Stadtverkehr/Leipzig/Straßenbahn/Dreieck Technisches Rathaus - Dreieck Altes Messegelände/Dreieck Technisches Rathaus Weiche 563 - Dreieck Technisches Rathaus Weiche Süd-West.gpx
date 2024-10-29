@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 1 plain-ascend = 2 cost=260 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Technisches Rathaus Weiche 563 - Dreieck Technisches Rathaus Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=18/51.32337/12.40380/osm-mapnik-german_style&amp;lonlats=12.401108,51.324911;12.401582,51.324187;12.40188,51.323887&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.324912" lon="12.401113"><ele>125</ele></trkpt>
+   <trkpt lat="51.324911" lon="12.401114"><ele>125</ele></trkpt>
+   <trkpt lat="51.32442" lon="12.401418"><ele>125</ele></trkpt>
+   <trkpt lat="51.324258" lon="12.401538"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.324203" lon="12.401578"><ele>125.5</ele></trkpt>
+   <trkpt lat="51.324189" lon="12.401589"><ele>126</ele></trkpt>
+   <trkpt lat="51.32409" lon="12.401676"><ele>126</ele></trkpt>
+   <trkpt lat="51.323911" lon="12.401857"><ele>126</ele></trkpt>
+   <trkpt lat="51.32389" lon="12.401878"><ele>126</ele></trkpt>
+   <trkpt lat="51.323887" lon="12.40188"><ele>126</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
