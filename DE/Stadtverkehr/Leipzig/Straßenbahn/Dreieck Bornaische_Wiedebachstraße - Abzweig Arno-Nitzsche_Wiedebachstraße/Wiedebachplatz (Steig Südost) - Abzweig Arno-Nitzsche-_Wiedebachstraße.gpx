@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 0 plain-ascend = 1 cost=44 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wiedebachplatz (Steig Südost) - Abzweig Arno-Nitzsche-/Wiedebachstraße</name>
+  <link href="https://bikerouter.de/#map=19/51.30972/12.37847/osm-mapnik-german_style&amp;lonlats=12.378445,51.309679;12.378735,51.309752&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.309678" lon="12.378444"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.309681" lon="12.378453"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.309748" lon="12.378706"><ele>122</ele></trkpt>
+   <trkpt lat="51.309754" lon="12.378732"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

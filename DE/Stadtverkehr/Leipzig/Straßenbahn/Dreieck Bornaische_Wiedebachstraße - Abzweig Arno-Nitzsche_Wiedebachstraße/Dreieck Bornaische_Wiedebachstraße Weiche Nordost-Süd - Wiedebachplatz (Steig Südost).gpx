@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 136 filtered ascend = 1 plain-ascend = 2 cost=272 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Bornaische/Wiedebachstraße Weiche Nordost-Süd - Wiedebachplatz (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.30972/12.37847/osm-mapnik-german_style&amp;lonlats=12.376648,51.309207;12.378451,51.309673&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.309203" lon="12.376649"><ele>120</ele></trkpt>
+   <trkpt lat="51.309608" lon="12.37818"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.309679" lon="12.378445"><ele>121.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
