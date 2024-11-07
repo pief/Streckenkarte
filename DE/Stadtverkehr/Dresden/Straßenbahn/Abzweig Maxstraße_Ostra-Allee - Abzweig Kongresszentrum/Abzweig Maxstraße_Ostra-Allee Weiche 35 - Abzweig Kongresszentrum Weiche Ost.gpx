@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 1 plain-ascend = 2 cost=368 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Maxstraße/Ostra-Allee Weiche 35 - Abzweig Kongresszentrum Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.05813/13.72739/osm-mapnik-german_style&amp;lonlats=13.728487,51.056578;13.727516,51.058053&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.056577" lon="13.728486"><ele>110</ele></trkpt>
+   <trkpt lat="51.056579" lon="13.728485"><ele>110</ele></trkpt>
+   <trkpt lat="51.056659" lon="13.728417"><ele>110</ele></trkpt>
+   <trkpt lat="51.056863" lon="13.728268"><ele>110</ele></trkpt>
+   <trkpt lat="51.057065" lon="13.728114"><ele>110</ele></trkpt>
+   <trkpt lat="51.057179" lon="13.728016"><ele>110</ele></trkpt>
+   <trkpt lat="51.057441" lon="13.727788"><ele>110</ele></trkpt>
+   <trkpt lat="51.057795" lon="13.727473"><ele>111</ele></trkpt>
+   <trkpt lat="51.057838" lon="13.727446"><ele>111</ele></trkpt>
+   <trkpt lat="51.05793" lon="13.72744"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.057981" lon="13.727459"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.058053" lon="13.727513"><ele>111.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
