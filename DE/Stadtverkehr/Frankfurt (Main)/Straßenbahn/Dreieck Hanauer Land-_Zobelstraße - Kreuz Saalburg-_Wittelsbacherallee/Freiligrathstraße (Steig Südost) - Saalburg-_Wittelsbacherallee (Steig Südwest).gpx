@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 0 plain-ascend = -2 cost=628 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Freiligrathstraße (Steig Südost) - Saalburg-/Wittelsbacherallee (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/50.12449/8.71313/osm-mapnik-german_style&amp;lonlats=8.709956,50.12205;8.71286,50.124157&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.122053" lon="8.70995"><ele>118</ele></trkpt>
+   <trkpt lat="50.122205" lon="8.710237"><ele>118</ele></trkpt>
+   <trkpt lat="50.122349" lon="8.710527"><ele>118</ele></trkpt>
+   <trkpt lat="50.122497" lon="8.710797"><ele>118</ele></trkpt>
+   <trkpt lat="50.12257" lon="8.710912"><ele>117.5</ele></trkpt>
+   <trkpt lat="50.122709" lon="8.711107"><ele>117</ele></trkpt>
+   <trkpt lat="50.122801" lon="8.711223"><ele>117</ele></trkpt>
+   <trkpt lat="50.123512" lon="8.71204"><ele>116</ele></trkpt>
+   <trkpt lat="50.123965" lon="8.712599"><ele>115.75</ele></trkpt>
+   <trkpt lat="50.124157" lon="8.712857"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

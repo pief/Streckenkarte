@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 1 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Saalburg-/Wittelsbacherallee (Steig Südost) - Kreuz Saalburg-/Wittelsbacherallee Weiche Südost-nach-Südwest-Südost</name>
+  <link href="https://bikerouter.de/#map=19/50.12423/8.71488/osm-mapnik-german_style&amp;lonlats=8.713769,50.124471;8.713709,50.12449&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.124471" lon="8.713769"><ele>114</ele></trkpt>
+   <trkpt lat="50.124472" lon="8.713767"><ele>114.25</ele></trkpt>
+   <trkpt lat="50.124489" lon="8.713708"><ele>114.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
