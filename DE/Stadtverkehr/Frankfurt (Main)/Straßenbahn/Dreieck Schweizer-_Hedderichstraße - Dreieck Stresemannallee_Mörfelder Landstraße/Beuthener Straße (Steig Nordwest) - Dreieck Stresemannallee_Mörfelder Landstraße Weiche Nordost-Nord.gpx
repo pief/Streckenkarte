@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 1 plain-ascend = 1 cost=502 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Beuthener Straße (Steig Nordwest) - Dreieck Stresemannallee/Mörfelder Landstraße Weiche Nordost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09030/8.67319/osm-mapnik-german_style&amp;lonlats=8.674828,50.09164;8.672161,50.090191&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.091639" lon="8.674827"><ele>99</ele></trkpt>
+   <trkpt lat="50.091506" lon="8.674587"><ele>99</ele></trkpt>
+   <trkpt lat="50.090232" lon="8.672243"><ele>100</ele></trkpt>
+   <trkpt lat="50.090188" lon="8.672163"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

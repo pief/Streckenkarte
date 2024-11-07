@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 0 plain-ascend = 0 cost=700 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schweizer-/Gartenstraße (Steig Südost) - Otto-Hahn-Platz (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=18/50.10178/8.67712/osm-mapnik-german_style&amp;lonlats=8.679776,50.103101;8.675627,50.101847&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.1031" lon="8.679773"><ele>97</ele></trkpt>
+   <trkpt lat="50.103102" lon="8.679772"><ele>97</ele></trkpt>
+   <trkpt lat="50.10319" lon="8.679701"><ele>97</ele></trkpt>
+   <trkpt lat="50.103219" lon="8.679665"><ele>97</ele></trkpt>
+   <trkpt lat="50.10324" lon="8.67963"><ele>97</ele></trkpt>
+   <trkpt lat="50.103272" lon="8.679545"><ele>97</ele></trkpt>
+   <trkpt lat="50.103282" lon="8.679469"><ele>97</ele></trkpt>
+   <trkpt lat="50.103281" lon="8.679397"><ele>97</ele></trkpt>
+   <trkpt lat="50.103278" lon="8.679369"><ele>97</ele></trkpt>
+   <trkpt lat="50.103269" lon="8.679313"><ele>97.25</ele></trkpt>
+   <trkpt lat="50.103249" lon="8.679251"><ele>97.25</ele></trkpt>
+   <trkpt lat="50.102293" lon="8.676712"><ele>97</ele></trkpt>
+   <trkpt lat="50.102266" lon="8.676638"><ele>97</ele></trkpt>
+   <trkpt lat="50.102156" lon="8.676363"><ele>97</ele></trkpt>
+   <trkpt lat="50.10206" lon="8.676152"><ele>97</ele></trkpt>
+   <trkpt lat="50.102015" lon="8.676038"><ele>97</ele></trkpt>
+   <trkpt lat="50.101851" lon="8.675623"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

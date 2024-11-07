@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = 0 cost=160 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Stresemannallee/Mörfelder Landstraße Weiche Süd-Ost - Dreieck Stresemannallee/Mörfelder Landstraße Weiche Nordost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.09009/8.67347/osm-mapnik-german_style&amp;lonlats=8.671619,50.089587;8.672038,50.090075;8.67218,50.090154&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.089587" lon="8.671619"><ele>100</ele></trkpt>
+   <trkpt lat="50.08959" lon="8.671619"><ele>100</ele></trkpt>
+   <trkpt lat="50.089696" lon="8.671626"><ele>100</ele></trkpt>
+   <trkpt lat="50.089787" lon="8.671666"><ele>100</ele></trkpt>
+   <trkpt lat="50.089876" lon="8.671733"><ele>100</ele></trkpt>
+   <trkpt lat="50.089939" lon="8.671805"><ele>100</ele></trkpt>
+   <trkpt lat="50.08998" lon="8.671866"><ele>100</ele></trkpt>
+   <trkpt lat="50.090075" lon="8.672035"><ele>100</ele></trkpt>
+   <trkpt lat="50.090153" lon="8.672174"><ele>100</ele></trkpt>
+   <trkpt lat="50.090155" lon="8.672178"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

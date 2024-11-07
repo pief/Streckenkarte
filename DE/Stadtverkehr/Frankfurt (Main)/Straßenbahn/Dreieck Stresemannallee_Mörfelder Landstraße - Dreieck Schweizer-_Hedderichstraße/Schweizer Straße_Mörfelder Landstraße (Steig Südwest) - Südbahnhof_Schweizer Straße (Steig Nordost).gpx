@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 193 filtered ascend = 2 plain-ascend = 0 cost=386 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schweizer Straße/Mörfelder Landstraße (Steig Südwest) - Südbahnhof/Schweizer Straße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/50.09799/8.68339/osm-mapnik-german_style&amp;lonlats=8.684115,50.09669;8.683549,50.098221&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.096691" lon="8.68411"><ele>99</ele></trkpt>
+   <trkpt lat="50.096692" lon="8.684112"><ele>99</ele></trkpt>
+   <trkpt lat="50.096838" lon="8.684303"><ele>99</ele></trkpt>
+   <trkpt lat="50.096931" lon="8.6844"><ele>99</ele></trkpt>
+   <trkpt lat="50.097043" lon="8.68441"><ele>98.5</ele></trkpt>
+   <trkpt lat="50.097122" lon="8.684395"><ele>98.25</ele></trkpt>
+   <trkpt lat="50.097168" lon="8.684379"><ele>98</ele></trkpt>
+   <trkpt lat="50.097223" lon="8.684345"><ele>97.75</ele></trkpt>
+   <trkpt lat="50.097764" lon="8.683898"><ele>96</ele></trkpt>
+   <trkpt lat="50.098095" lon="8.683648"><ele>101.75</ele></trkpt>
+   <trkpt lat="50.098214" lon="8.683555"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.09822" lon="8.68355"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.098221" lon="8.683549"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

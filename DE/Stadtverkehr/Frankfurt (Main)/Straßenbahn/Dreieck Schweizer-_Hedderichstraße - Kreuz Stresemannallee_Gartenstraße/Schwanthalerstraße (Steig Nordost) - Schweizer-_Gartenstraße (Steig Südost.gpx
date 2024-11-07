@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 0 plain-ascend = 0 cost=562 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schwanthalerstraße (Steig Nordost) - Schweizer-/Gartenstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/50.10271/8.68068/osm-mapnik-german_style&amp;lonlats=8.68153,50.100827;8.679776,50.103101&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.100827" lon="8.681533"><ele>97</ele></trkpt>
+   <trkpt lat="50.100976" lon="8.681425"><ele>97</ele></trkpt>
+   <trkpt lat="50.101554" lon="8.680976"><ele>97</ele></trkpt>
+   <trkpt lat="50.101629" lon="8.680918"><ele>97</ele></trkpt>
+   <trkpt lat="50.101735" lon="8.680836"><ele>97</ele></trkpt>
+   <trkpt lat="50.102091" lon="8.68056"><ele>97</ele></trkpt>
+   <trkpt lat="50.102216" lon="8.680463"><ele>97.25</ele></trkpt>
+   <trkpt lat="50.102259" lon="8.680429"><ele>97.25</ele></trkpt>
+   <trkpt lat="50.102712" lon="8.680076"><ele>97</ele></trkpt>
+   <trkpt lat="50.1031" lon="8.679773"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=204 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Stresemannallee/Mörfelder Landstraße Weiche Süd-West - Stresemannallee/Mörfelder Landstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=18/50.08904/8.67266/osm-mapnik-german_style&amp;lonlats=8.671566,50.089594;8.67164,50.08868&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.089594" lon="8.671567"><ele>100</ele></trkpt>
+   <trkpt lat="50.089461" lon="8.671586"><ele>100</ele></trkpt>
+   <trkpt lat="50.089358" lon="8.6716"><ele>100</ele></trkpt>
+   <trkpt lat="50.089176" lon="8.671621"><ele>100</ele></trkpt>
+   <trkpt lat="50.088679" lon="8.671639"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
