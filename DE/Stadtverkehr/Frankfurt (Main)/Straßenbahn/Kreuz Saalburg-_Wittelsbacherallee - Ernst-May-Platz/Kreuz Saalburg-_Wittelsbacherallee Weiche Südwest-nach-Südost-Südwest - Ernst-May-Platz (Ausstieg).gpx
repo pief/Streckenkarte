@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 0 plain-ascend = 1 cost=520 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Saalburg-/Wittelsbacherallee Weiche Südwest-nach-Südost-Südwest - Ernst-May-Platz (Ausstieg)</name>
+  <link href="https://bikerouter.de/#map=19/50.12631/8.71685/osm-mapnik-german_style&amp;lonlats=8.713245,50.124412;8.715961,50.125987&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.124412" lon="8.713243"><ele>115</ele></trkpt>
+   <trkpt lat="50.124416" lon="8.71325"><ele>115</ele></trkpt>
+   <trkpt lat="50.124487" lon="8.713362"><ele>115</ele></trkpt>
+   <trkpt lat="50.124495" lon="8.713375"><ele>115</ele></trkpt>
+   <trkpt lat="50.124539" lon="8.713447"><ele>115</ele></trkpt>
+   <trkpt lat="50.124558" lon="8.713478"><ele>115</ele></trkpt>
+   <trkpt lat="50.124634" lon="8.713598"><ele>115</ele></trkpt>
+   <trkpt lat="50.124672" lon="8.713661"><ele>114.75</ele></trkpt>
+   <trkpt lat="50.124922" lon="8.714061"><ele>115</ele></trkpt>
+   <trkpt lat="50.125137" lon="8.714404"><ele>114.5</ele></trkpt>
+   <trkpt lat="50.125443" lon="8.714923"><ele>114.75</ele></trkpt>
+   <trkpt lat="50.125799" lon="8.715581"><ele>115</ele></trkpt>
+   <trkpt lat="50.125987" lon="8.715959"><ele>115.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

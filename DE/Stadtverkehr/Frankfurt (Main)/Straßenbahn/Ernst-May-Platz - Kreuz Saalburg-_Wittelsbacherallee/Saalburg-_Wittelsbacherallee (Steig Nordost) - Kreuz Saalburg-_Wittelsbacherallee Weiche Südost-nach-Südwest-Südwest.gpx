@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Saalburg-/Wittelsbacherallee (Steig Nordost) - Kreuz Saalburg-/Wittelsbacherallee Weiche Südost-nach-Südwest-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/50.12455/8.71337/osm-mapnik-german_style&amp;lonlats=8.713714,50.124741;8.713226,50.124437&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.124741" lon="8.713711"><ele>114.75</ele></trkpt>
+   <trkpt lat="50.124685" lon="8.71362"><ele>114.75</ele></trkpt>
+   <trkpt lat="50.124646" lon="8.713556"><ele>115</ele></trkpt>
+   <trkpt lat="50.12457" lon="8.713436"><ele>115</ele></trkpt>
+   <trkpt lat="50.12455" lon="8.713406"><ele>115</ele></trkpt>
+   <trkpt lat="50.124499" lon="8.713321"><ele>115</ele></trkpt>
+   <trkpt lat="50.124439" lon="8.713228"><ele>115</ele></trkpt>
+   <trkpt lat="50.124437" lon="8.713224"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
