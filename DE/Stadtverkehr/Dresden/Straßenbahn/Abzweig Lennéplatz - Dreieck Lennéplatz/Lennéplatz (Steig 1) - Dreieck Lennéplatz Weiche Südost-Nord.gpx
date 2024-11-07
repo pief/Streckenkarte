@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Lennéplatz (Steig 1) - Dreieck Lennéplatz Weiche Südost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.03822/13.74673/osm-mapnik-german_style&amp;lonlats=13.747365,51.038064;13.747147,51.038164&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.038064" lon="13.747365"><ele>114</ele></trkpt>
+   <trkpt lat="51.038065" lon="13.747365"><ele>114</ele></trkpt>
+   <trkpt lat="51.038137" lon="13.747205"><ele>114</ele></trkpt>
+   <trkpt lat="51.038163" lon="13.747146"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

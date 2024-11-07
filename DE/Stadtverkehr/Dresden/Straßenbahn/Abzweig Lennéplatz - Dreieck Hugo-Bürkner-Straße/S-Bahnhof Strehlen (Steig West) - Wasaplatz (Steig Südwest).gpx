@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 441 filtered ascend = 4 plain-ascend = 4 cost=882 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>S-Bahnhof Strehlen (Steig West) - Wasaplatz (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.02752/13.75988/osm-mapnik-german_style&amp;lonlats=13.761057,51.030982;13.759855,51.027382&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.030979" lon="13.761063"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.03082" lon="13.760936"><ele>118</ele></trkpt>
+   <trkpt lat="51.030681" lon="13.760827"><ele>118</ele></trkpt>
+   <trkpt lat="51.030294" lon="13.760529"><ele>119</ele></trkpt>
+   <trkpt lat="51.029935" lon="13.760263"><ele>119</ele></trkpt>
+   <trkpt lat="51.029071" lon="13.759625"><ele>120.25</ele></trkpt>
+   <trkpt lat="51.028566" lon="13.759251"><ele>121</ele></trkpt>
+   <trkpt lat="51.028504" lon="13.759205"><ele>121</ele></trkpt>
+   <trkpt lat="51.028442" lon="13.759175"><ele>121</ele></trkpt>
+   <trkpt lat="51.028423" lon="13.75917"><ele>121</ele></trkpt>
+   <trkpt lat="51.028383" lon="13.759169"><ele>121</ele></trkpt>
+   <trkpt lat="51.028316" lon="13.759181"><ele>121</ele></trkpt>
+   <trkpt lat="51.02828" lon="13.759198"><ele>121</ele></trkpt>
+   <trkpt lat="51.027995" lon="13.759366"><ele>122</ele></trkpt>
+   <trkpt lat="51.027874" lon="13.759452"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.027729" lon="13.759554"><ele>122</ele></trkpt>
+   <trkpt lat="51.027383" lon="13.759857"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

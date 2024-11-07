@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 433 filtered ascend = 2 plain-ascend = 2 cost=866 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Zoo (Steig Südwest) - Querallee (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.03457/13.75811/osm-mapnik-german_style&amp;lonlats=13.753062,51.036558;13.758315,51.034472&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.036561" lon="13.753065"><ele>114</ele></trkpt>
+   <trkpt lat="51.036545" lon="13.753106"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.036454" lon="13.753351"><ele>114</ele></trkpt>
+   <trkpt lat="51.036164" lon="13.754076"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.036148" lon="13.754114"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.036105" lon="13.754225"><ele>115</ele></trkpt>
+   <trkpt lat="51.036013" lon="13.754455"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.035194" lon="13.75651"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.035135" lon="13.75666"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.035045" lon="13.756885"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.034717" lon="13.757711"><ele>116</ele></trkpt>
+   <trkpt lat="51.034474" lon="13.758317"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

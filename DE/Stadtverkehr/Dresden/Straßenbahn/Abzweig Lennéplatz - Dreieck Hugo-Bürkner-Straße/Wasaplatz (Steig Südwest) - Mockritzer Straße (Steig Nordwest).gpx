@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 335 filtered ascend = 2 plain-ascend = 3 cost=670 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wasaplatz (Steig Südwest) - Mockritzer Straße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.02448/13.76191/osm-mapnik-german_style&amp;lonlats=13.759855,51.027382;13.762012,51.02471&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.027383" lon="13.759857"><ele>122</ele></trkpt>
+   <trkpt lat="51.027383" lon="13.759858"><ele>122</ele></trkpt>
+   <trkpt lat="51.027231" lon="13.759993"><ele>122</ele></trkpt>
+   <trkpt lat="51.026189" lon="13.760856"><ele>122.75</ele></trkpt>
+   <trkpt lat="51.02612" lon="13.760911"><ele>122.75</ele></trkpt>
+   <trkpt lat="51.026058" lon="13.760962"><ele>123</ele></trkpt>
+   <trkpt lat="51.02539" lon="13.761496"><ele>123.75</ele></trkpt>
+   <trkpt lat="51.024714" lon="13.762013"><ele>124</ele></trkpt>
+   <trkpt lat="51.024711" lon="13.762015"><ele>124.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
