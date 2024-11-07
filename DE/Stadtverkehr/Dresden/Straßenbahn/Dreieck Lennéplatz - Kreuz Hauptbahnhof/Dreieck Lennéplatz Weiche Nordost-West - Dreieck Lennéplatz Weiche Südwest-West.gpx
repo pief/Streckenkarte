@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = 0 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Lennéplatz Weiche Nordost-West - Dreieck Lennéplatz Weiche Südwest-West</name>
+  <link href="https://bikerouter.de/#map=19/51.03824/13.74683/osm-mapnik-german_style&amp;lonlats=13.747126,51.038672;13.746351,51.038247&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.03867" lon="13.747127"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.038668" lon="13.747124"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.038525" lon="13.746891"><ele>114</ele></trkpt>
+   <trkpt lat="51.038417" lon="13.746708"><ele>114</ele></trkpt>
+   <trkpt lat="51.038334" lon="13.74654"><ele>114</ele></trkpt>
+   <trkpt lat="51.038248" lon="13.746354"><ele>114</ele></trkpt>
+   <trkpt lat="51.038246" lon="13.74635"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
