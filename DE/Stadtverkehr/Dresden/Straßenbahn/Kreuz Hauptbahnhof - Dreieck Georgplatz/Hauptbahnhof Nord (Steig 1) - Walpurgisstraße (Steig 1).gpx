@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 339 filtered ascend = 0 plain-ascend = 0 cost=678 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hauptbahnhof Nord (Steig 1) - Walpurgisstraße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=18/51.04354/13.73853/osm-mapnik-german_style&amp;lonlats=13.735317,51.041628;13.738145,51.0441&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.041627" lon="13.735316"><ele>114</ele></trkpt>
+   <trkpt lat="51.041733" lon="13.735426"><ele>114</ele></trkpt>
+   <trkpt lat="51.041801" lon="13.735498"><ele>114</ele></trkpt>
+   <trkpt lat="51.042377" lon="13.736089"><ele>114</ele></trkpt>
+   <trkpt lat="51.042467" lon="13.736186"><ele>114</ele></trkpt>
+   <trkpt lat="51.042678" lon="13.736409"><ele>114</ele></trkpt>
+   <trkpt lat="51.042963" lon="13.736743"><ele>114</ele></trkpt>
+   <trkpt lat="51.043593" lon="13.737517"><ele>114</ele></trkpt>
+   <trkpt lat="51.043633" lon="13.737567"><ele>114</ele></trkpt>
+   <trkpt lat="51.044098" lon="13.738146"><ele>113.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

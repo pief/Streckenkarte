@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 312 filtered ascend = 0 plain-ascend = 1 cost=624 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Walpurgisstraße (Steig 1) - Dreieck Georgplatz Weiche 138</name>
+  <link href="https://bikerouter.de/#map=18/51.04647/13.74059/osm-mapnik-german_style&amp;lonlats=13.738146,51.044098;13.740933,51.046281&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.044097" lon="13.738145"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.044133" lon="13.738189"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.044154" lon="13.738215"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.044179" lon="13.738246"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.044353" lon="13.738457"><ele>113</ele></trkpt>
+   <trkpt lat="51.044427" lon="13.738561"><ele>113</ele></trkpt>
+   <trkpt lat="51.045319" lon="13.739673"><ele>113</ele></trkpt>
+   <trkpt lat="51.045337" lon="13.739695"><ele>113</ele></trkpt>
+   <trkpt lat="51.045934" lon="13.740456"><ele>114</ele></trkpt>
+   <trkpt lat="51.046187" lon="13.740815"><ele>114</ele></trkpt>
+   <trkpt lat="51.046278" lon="13.740936"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

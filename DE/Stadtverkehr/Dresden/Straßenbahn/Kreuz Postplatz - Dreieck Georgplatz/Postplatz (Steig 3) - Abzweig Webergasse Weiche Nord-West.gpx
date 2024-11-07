@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 185 filtered ascend = 1 plain-ascend = 1 cost=370 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Postplatz (Steig 3) - Abzweig Webergasse Weiche Nord-West</name>
+  <link href="https://bikerouter.de/#map=19/51.04825/13.73489/osm-mapnik-german_style&amp;lonlats=13.733801,51.04966;13.734391,51.048053&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.049661" lon="13.733808"><ele>112</ele></trkpt>
+   <trkpt lat="51.04966" lon="13.733809"><ele>112</ele></trkpt>
+   <trkpt lat="51.049597" lon="13.733832"><ele>112</ele></trkpt>
+   <trkpt lat="51.04949" lon="13.73387"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.04918" lon="13.733983"><ele>112</ele></trkpt>
+   <trkpt lat="51.049129" lon="13.734001"><ele>112</ele></trkpt>
+   <trkpt lat="51.048943" lon="13.734068"><ele>112</ele></trkpt>
+   <trkpt lat="51.048576" lon="13.734201"><ele>112</ele></trkpt>
+   <trkpt lat="51.048482" lon="13.734235"><ele>112</ele></trkpt>
+   <trkpt lat="51.048388" lon="13.734269"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.04829" lon="13.734308"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.048056" lon="13.734391"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.048053" lon="13.734392"><ele>113</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
