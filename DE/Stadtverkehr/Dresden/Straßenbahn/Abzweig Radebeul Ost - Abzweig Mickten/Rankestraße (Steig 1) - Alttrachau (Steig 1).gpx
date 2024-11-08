@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 0 plain-ascend = 0 cost=590 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Rankestraße (Steig 1) - Alttrachau (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.08447/13.70823/osm-mapnik-german_style&amp;lonlats=13.70503,51.085348;13.708659,51.084334&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.085347" lon="13.705027"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.085152" lon="13.705137"><ele>111</ele></trkpt>
+   <trkpt lat="51.085087" lon="13.705183"><ele>111</ele></trkpt>
+   <trkpt lat="51.08503" lon="13.705238"><ele>111</ele></trkpt>
+   <trkpt lat="51.08497" lon="13.705333"><ele>111</ele></trkpt>
+   <trkpt lat="51.084933" lon="13.705415"><ele>111</ele></trkpt>
+   <trkpt lat="51.084902" lon="13.70551"><ele>111</ele></trkpt>
+   <trkpt lat="51.084513" lon="13.706995"><ele>110</ele></trkpt>
+   <trkpt lat="51.084461" lon="13.707205"><ele>110</ele></trkpt>
+   <trkpt lat="51.084393" lon="13.707551"><ele>110</ele></trkpt>
+   <trkpt lat="51.084363" lon="13.707821"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.084337" lon="13.708658"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.084336" lon="13.708659"><ele>109.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

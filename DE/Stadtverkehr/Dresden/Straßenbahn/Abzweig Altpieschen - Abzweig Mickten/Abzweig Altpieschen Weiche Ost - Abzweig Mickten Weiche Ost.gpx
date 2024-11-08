@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 0 plain-ascend = 0 cost=502 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Altpieschen Weiche Ost - Abzweig Mickten Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.07940/13.71505/osm-mapnik-german_style&amp;lonlats=13.716655,51.07758;13.714706,51.079418&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.07758" lon="13.716655"><ele>111</ele></trkpt>
+   <trkpt lat="51.077645" lon="13.716513"><ele>111</ele></trkpt>
+   <trkpt lat="51.077694" lon="13.716403"><ele>111</ele></trkpt>
+   <trkpt lat="51.077783" lon="13.716217"><ele>111</ele></trkpt>
+   <trkpt lat="51.077884" lon="13.716032"><ele>111</ele></trkpt>
+   <trkpt lat="51.078099" lon="13.715687"><ele>111</ele></trkpt>
+   <trkpt lat="51.078244" lon="13.715508"><ele>111</ele></trkpt>
+   <trkpt lat="51.078397" lon="13.715366"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.078475" lon="13.715308"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.079226" lon="13.714837"><ele>110</ele></trkpt>
+   <trkpt lat="51.079417" lon="13.714705"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

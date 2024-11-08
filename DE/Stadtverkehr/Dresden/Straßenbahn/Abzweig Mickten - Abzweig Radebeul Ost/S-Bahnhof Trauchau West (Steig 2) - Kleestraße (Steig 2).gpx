@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 324 filtered ascend = 6 plain-ascend = 6 cost=648 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>S-Bahnhof Trauchau West (Steig 2) - Kleestraße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=18/51.09316/13.69967/osm-mapnik-german_style&amp;lonlats=13.702759,51.089998;13.699951,51.092267&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.089998" lon="13.702759"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.090005" lon="13.702756"><ele>110</ele></trkpt>
+   <trkpt lat="51.090089" lon="13.702715"><ele>110</ele></trkpt>
+   <trkpt lat="51.09025" lon="13.70264"><ele>110</ele></trkpt>
+   <trkpt lat="51.090268" lon="13.702631"><ele>110</ele></trkpt>
+   <trkpt lat="51.090292" lon="13.70262"><ele>110</ele></trkpt>
+   <trkpt lat="51.090363" lon="13.702587"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.090481" lon="13.702501"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.090559" lon="13.702416"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.090668" lon="13.70226"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.091497" lon="13.701026"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.09171" lon="13.700725"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.092266" lon="13.699951"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

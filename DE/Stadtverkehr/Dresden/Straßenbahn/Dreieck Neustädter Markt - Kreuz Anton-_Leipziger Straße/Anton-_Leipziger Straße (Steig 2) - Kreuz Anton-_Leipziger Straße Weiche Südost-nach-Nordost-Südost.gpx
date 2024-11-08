@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Anton-/Leipziger Straße (Steig 2) - Kreuz Anton-/Leipziger Straße Weiche Südost-nach-Nordost-Südost</name>
+  <link href="https://bikerouter.de/#map=19/51.06326/13.73740/osm-mapnik-german_style&amp;lonlats=13.737211,51.062875;13.737156,51.062996&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.062875" lon="13.737211"><ele>112</ele></trkpt>
+   <trkpt lat="51.062876" lon="13.737211"><ele>112</ele></trkpt>
+   <trkpt lat="51.062926" lon="13.737188"><ele>112</ele></trkpt>
+   <trkpt lat="51.062996" lon="13.737156"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

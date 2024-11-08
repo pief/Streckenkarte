@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 562 filtered ascend = 1 plain-ascend = 2 cost=1124 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Alter Schlachthof (Steig 1) - Dreieck Leipziger/Eisenbahnstraße Weiche 192</name>
+  <link href="https://bikerouter.de/#map=19/51.06368/13.73765/osm-mapnik-german_style&amp;lonlats=13.731447,51.068127;13.736156,51.064056&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.068127" lon="13.731447"><ele>111</ele></trkpt>
+   <trkpt lat="51.067862" lon="13.731717"><ele>111</ele></trkpt>
+   <trkpt lat="51.066904" lon="13.732699"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.066563" lon="13.733075"><ele>111</ele></trkpt>
+   <trkpt lat="51.066202" lon="13.733518"><ele>111</ele></trkpt>
+   <trkpt lat="51.066014" lon="13.733766"><ele>111</ele></trkpt>
+   <trkpt lat="51.065905" lon="13.733911"><ele>111</ele></trkpt>
+   <trkpt lat="51.065738" lon="13.734132"><ele>111</ele></trkpt>
+   <trkpt lat="51.065499" lon="13.734447"><ele>112</ele></trkpt>
+   <trkpt lat="51.065281" lon="13.734735"><ele>112</ele></trkpt>
+   <trkpt lat="51.064056" lon="13.736156"><ele>112.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

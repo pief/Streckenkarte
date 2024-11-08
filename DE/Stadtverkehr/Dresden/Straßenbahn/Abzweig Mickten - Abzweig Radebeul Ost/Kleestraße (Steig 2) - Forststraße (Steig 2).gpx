@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 546 filtered ascend = 4 plain-ascend = 3 cost=1092 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kleestraße (Steig 2) - Forststraße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.09596/13.69528/osm-mapnik-german_style&amp;lonlats=13.699951,51.092267;13.694796,51.095944&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.092266" lon="13.699951"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.092269" lon="13.699948"><ele>116</ele></trkpt>
+   <trkpt lat="51.092395" lon="13.699777"><ele>116</ele></trkpt>
+   <trkpt lat="51.092406" lon="13.699763"><ele>116</ele></trkpt>
+   <trkpt lat="51.093406" lon="13.698355"><ele>118</ele></trkpt>
+   <trkpt lat="51.093421" lon="13.698333"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.09359" lon="13.698101"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.093795" lon="13.697816"><ele>119</ele></trkpt>
+   <trkpt lat="51.094157" lon="13.697307"><ele>119</ele></trkpt>
+   <trkpt lat="51.094206" lon="13.697238"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.094626" lon="13.696648"><ele>119</ele></trkpt>
+   <trkpt lat="51.095946" lon="13.6948"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

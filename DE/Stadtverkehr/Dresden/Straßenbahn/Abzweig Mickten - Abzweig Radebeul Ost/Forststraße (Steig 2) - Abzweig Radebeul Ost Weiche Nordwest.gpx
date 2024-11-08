@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 577 filtered ascend = 2 plain-ascend = 2 cost=1154 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Forststraße (Steig 2) - Abzweig Radebeul Ost Weiche Nordwest</name>
+  <link href="https://bikerouter.de/#map=19/51.09915/13.68957/osm-mapnik-german_style&amp;lonlats=13.6948,51.095946;13.688538,51.099284&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.095946" lon="13.6948"><ele>119</ele></trkpt>
+   <trkpt lat="51.095948" lon="13.694798"><ele>119</ele></trkpt>
+   <trkpt lat="51.096037" lon="13.694671"><ele>119</ele></trkpt>
+   <trkpt lat="51.096755" lon="13.693674"><ele>119</ele></trkpt>
+   <trkpt lat="51.096834" lon="13.693552"><ele>119</ele></trkpt>
+   <trkpt lat="51.096972" lon="13.69331"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.097054" lon="13.693148"><ele>119</ele></trkpt>
+   <trkpt lat="51.097127" lon="13.692991"><ele>119</ele></trkpt>
+   <trkpt lat="51.097744" lon="13.691739"><ele>119</ele></trkpt>
+   <trkpt lat="51.09799" lon="13.691241"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.09858" lon="13.690011"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.098618" lon="13.689932"><ele>120</ele></trkpt>
+   <trkpt lat="51.098647" lon="13.689872"><ele>120</ele></trkpt>
+   <trkpt lat="51.099188" lon="13.688738"><ele>121</ele></trkpt>
+   <trkpt lat="51.099284" lon="13.688538"><ele>120.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

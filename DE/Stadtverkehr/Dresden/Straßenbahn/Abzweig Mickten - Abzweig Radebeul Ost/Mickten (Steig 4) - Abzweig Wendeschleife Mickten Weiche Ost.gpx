@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 98 filtered ascend = 0 plain-ascend = 0 cost=196 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Mickten (Steig 4) - Abzweig Wendeschleife Mickten Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.08086/13.71383/osm-mapnik-german_style&amp;lonlats=13.7141,51.080243;13.713448,51.081016&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.080243" lon="13.7141"><ele>110</ele></trkpt>
+   <trkpt lat="51.080244" lon="13.7141"><ele>110</ele></trkpt>
+   <trkpt lat="51.080305" lon="13.714048"><ele>110</ele></trkpt>
+   <trkpt lat="51.080422" lon="13.713947"><ele>110</ele></trkpt>
+   <trkpt lat="51.080561" lon="13.713835"><ele>110</ele></trkpt>
+   <trkpt lat="51.080853" lon="13.713573"><ele>110</ele></trkpt>
+   <trkpt lat="51.080968" lon="13.713484"><ele>110</ele></trkpt>
+   <trkpt lat="51.081015" lon="13.713445"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 464 filtered ascend = 1 plain-ascend = 1 cost=928 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Alexander-Puschkin-Platz (Steig 2) - Oschatzer Straße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.07427/13.72387/osm-mapnik-german_style&amp;lonlats=13.727612,51.071417;13.723133,51.074478&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.071416" lon="13.727612"><ele>110</ele></trkpt>
+   <trkpt lat="51.071745" lon="13.727038"><ele>110</ele></trkpt>
+   <trkpt lat="51.071913" lon="13.726738"><ele>110</ele></trkpt>
+   <trkpt lat="51.07211" lon="13.726392"><ele>110</ele></trkpt>
+   <trkpt lat="51.072388" lon="13.725922"><ele>110</ele></trkpt>
+   <trkpt lat="51.072477" lon="13.725792"><ele>110</ele></trkpt>
+   <trkpt lat="51.072888" lon="13.725242"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.073129" lon="13.724919"><ele>110</ele></trkpt>
+   <trkpt lat="51.073948" lon="13.723828"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.074003" lon="13.723756"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.074153" lon="13.723558"><ele>110</ele></trkpt>
+   <trkpt lat="51.07434" lon="13.723311"><ele>111</ele></trkpt>
+   <trkpt lat="51.074475" lon="13.723128"><ele>110.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
