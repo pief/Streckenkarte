@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 341 filtered ascend = 0 plain-ascend = 0 cost=682 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Prof.-Ricker-Straße (Steig 1) - Marienberger Straße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.02566/13.80486/osm-mapnik-german_style&amp;lonlats=13.808103,51.023847;13.80456,51.025869&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.023847" lon="13.808103"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.023863" lon="13.808074"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.024242" lon="13.807453"><ele>115</ele></trkpt>
+   <trkpt lat="51.024515" lon="13.807039"><ele>115</ele></trkpt>
+   <trkpt lat="51.024694" lon="13.806795"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.02515" lon="13.806216"><ele>115</ele></trkpt>
+   <trkpt lat="51.025292" lon="13.80602"><ele>115</ele></trkpt>
+   <trkpt lat="51.025393" lon="13.805861"><ele>115</ele></trkpt>
+   <trkpt lat="51.025444" lon="13.805766"><ele>115</ele></trkpt>
+   <trkpt lat="51.025503" lon="13.805645"><ele>115</ele></trkpt>
+   <trkpt lat="51.025575" lon="13.805468"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.025871" lon="13.804563"><ele>115</ele></trkpt>
+   <trkpt lat="51.025871" lon="13.804561"><ele>115.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

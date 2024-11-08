@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 0 plain-ascend = 0 cost=602 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Marienberger Straße (Steig 1) - Rennplatzstraße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.02703/13.80129/osm-mapnik-german_style&amp;lonlats=13.80456,51.025869;13.800845,51.027215&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.025871" lon="13.804561"><ele>115</ele></trkpt>
+   <trkpt lat="51.025968" lon="13.804263"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.026201" lon="13.80365"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.02649" lon="13.802939"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.026714" lon="13.802369"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.026844" lon="13.801995"><ele>115</ele></trkpt>
+   <trkpt lat="51.026952" lon="13.801654"><ele>115</ele></trkpt>
+   <trkpt lat="51.027194" lon="13.800897"><ele>115</ele></trkpt>
+   <trkpt lat="51.027212" lon="13.800842"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

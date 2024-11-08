@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 481 filtered ascend = 0 plain-ascend = 0 cost=962 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Rauensteinstraße (Steig 1) - Liebstädter Straße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.03006/13.78982/osm-mapnik-german_style&amp;lonlats=13.795328,51.028363;13.789237,51.030293&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.028363" lon="13.795328"><ele>115</ele></trkpt>
+   <trkpt lat="51.028409" lon="13.795096"><ele>115</ele></trkpt>
+   <trkpt lat="51.028489" lon="13.794647"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.02856" lon="13.794291"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.028633" lon="13.79397"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.028705" lon="13.79369"><ele>115</ele></trkpt>
+   <trkpt lat="51.028762" lon="13.793488"><ele>115</ele></trkpt>
+   <trkpt lat="51.028892" lon="13.793071"><ele>115</ele></trkpt>
+   <trkpt lat="51.029024" lon="13.792691"><ele>115</ele></trkpt>
+   <trkpt lat="51.029827" lon="13.790479"><ele>115</ele></trkpt>
+   <trkpt lat="51.02998" lon="13.790078"><ele>115</ele></trkpt>
+   <trkpt lat="51.030276" lon="13.78927"><ele>115</ele></trkpt>
+   <trkpt lat="51.030288" lon="13.789233"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

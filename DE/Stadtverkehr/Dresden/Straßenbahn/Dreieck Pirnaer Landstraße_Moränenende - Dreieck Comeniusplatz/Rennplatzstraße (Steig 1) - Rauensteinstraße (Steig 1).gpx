@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 409 filtered ascend = 0 plain-ascend = 0 cost=818 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Rennplatzstraße (Steig 1) - Rauensteinstraße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.02835/13.79570/osm-mapnik-german_style&amp;lonlats=13.800845,51.027215;13.795328,51.028363&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.027212" lon="13.800842"><ele>115</ele></trkpt>
+   <trkpt lat="51.027234" lon="13.800781"><ele>115</ele></trkpt>
+   <trkpt lat="51.027336" lon="13.80045"><ele>115</ele></trkpt>
+   <trkpt lat="51.027403" lon="13.800225"><ele>115</ele></trkpt>
+   <trkpt lat="51.027544" lon="13.799779"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.027621" lon="13.79949"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.02777" lon="13.798706"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.027955" lon="13.797613"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.028115" lon="13.796722"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.028151" lon="13.796522"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.028198" lon="13.796267"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.028362" lon="13.795337"><ele>115</ele></trkpt>
+   <trkpt lat="51.028363" lon="13.795328"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
