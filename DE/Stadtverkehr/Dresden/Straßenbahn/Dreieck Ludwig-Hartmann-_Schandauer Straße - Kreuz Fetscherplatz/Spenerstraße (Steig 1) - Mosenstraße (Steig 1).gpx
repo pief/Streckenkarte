@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 0 plain-ascend = 1 cost=590 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Spenerstraße (Steig 1) - Mosenstraße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.04465/13.77758/osm-mapnik-german_style&amp;lonlats=13.782097,51.043733;13.778175,51.044726">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.043738" lon="13.7821"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.043765" lon="13.782003"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.043827" lon="13.781779"><ele>114</ele></trkpt>
+   <trkpt lat="51.043843" lon="13.781715"><ele>114</ele></trkpt>
+   <trkpt lat="51.043892" lon="13.781509"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.044264" lon="13.780006"><ele>115</ele></trkpt>
+   <trkpt lat="51.044291" lon="13.779896"><ele>115</ele></trkpt>
+   <trkpt lat="51.044325" lon="13.779764"><ele>115</ele></trkpt>
+   <trkpt lat="51.044428" lon="13.779359"><ele>115</ele></trkpt>
+   <trkpt lat="51.044729" lon="13.778177"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

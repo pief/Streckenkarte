@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 127 filtered ascend = 0 plain-ascend = 0 cost=254 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Straßburger Platz/Canalettostraße Weiche Nordwest-Süd - Dreieck Straßburger Platz/Canalettostraße Weiche Südost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.04505/13.75844/osm-mapnik-german_style&amp;lonlats=13.756648,51.045554;13.757367,51.045263;13.758158,51.044962">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.045554" lon="13.756647"><ele>114</ele></trkpt>
+   <trkpt lat="51.045553" lon="13.756651"><ele>114</ele></trkpt>
+   <trkpt lat="51.045492" lon="13.756808"><ele>114</ele></trkpt>
+   <trkpt lat="51.045269" lon="13.757373"><ele>114</ele></trkpt>
+   <trkpt lat="51.04496" lon="13.758157"><ele>114</ele></trkpt>
+   <trkpt lat="51.04496" lon="13.758155"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

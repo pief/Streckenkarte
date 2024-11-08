@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Fetscherplatz Weiche Ost-nach-Südwest-Südwest - Kreuz Fetscherplatz Weiche Nordwest-nach-Südwest-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/51.04579/13.77105/osm-mapnik-german_style&amp;lonlats=13.771239,51.046315;13.770826,51.045898">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.046313" lon="13.771242"><ele>114</ele></trkpt>
+   <trkpt lat="51.046175" lon="13.771104"><ele>114</ele></trkpt>
+   <trkpt lat="51.046024" lon="13.770953"><ele>114</ele></trkpt>
+   <trkpt lat="51.045992" lon="13.770921"><ele>114</ele></trkpt>
+   <trkpt lat="51.045901" lon="13.77083"><ele>114</ele></trkpt>
+   <trkpt lat="51.045896" lon="13.770826"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
