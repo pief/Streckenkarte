@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12 filtered ascend = 0 plain-ascend = 0 cost=24 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Leipziger/Eisenbahnstraße Weiche 444 - Anton-/Leipziger Straße (Steig 9)</name>
+  <link href="https://bikerouter.de/#map=19/51.06445/13.73875/osm-mapnik-german_style&amp;lonlats=13.736882,51.064038;13.73699,51.064122&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.064038" lon="13.73688"><ele>113</ele></trkpt>
+   <trkpt lat="51.064118" lon="13.736994"><ele>112.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

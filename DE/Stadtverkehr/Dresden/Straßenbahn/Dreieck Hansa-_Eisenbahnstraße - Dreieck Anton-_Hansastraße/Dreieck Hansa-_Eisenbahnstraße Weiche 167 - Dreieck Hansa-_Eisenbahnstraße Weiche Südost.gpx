@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 1 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Hansa-/Eisenbahnstraße Weiche 167 - Dreieck Hansa-/Eisenbahnstraße Weiche Südost</name>
+  <link href="https://bikerouter.de/#map=19/51.06502/13.74034/osm-mapnik-german_style&amp;lonlats=13.738674,51.065595;13.739246,51.065615&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.065593" lon="13.738675"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.065596" lon="13.738681"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.06563" lon="13.738787"><ele>113</ele></trkpt>
+   <trkpt lat="51.065652" lon="13.738881"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.065659" lon="13.73898"><ele>113</ele></trkpt>
+   <trkpt lat="51.065657" lon="13.73904"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.065618" lon="13.739244"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.065615" lon="13.739247"><ele>112.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

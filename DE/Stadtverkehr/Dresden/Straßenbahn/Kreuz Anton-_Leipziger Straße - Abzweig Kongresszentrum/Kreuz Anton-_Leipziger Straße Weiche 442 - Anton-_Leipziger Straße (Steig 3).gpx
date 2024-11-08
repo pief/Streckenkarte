@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 79 filtered ascend = 2 plain-ascend = 2 cost=158 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Anton-/Leipziger Straße Weiche 442 - Anton-/Leipziger Straße (Steig 3)</name>
+  <link href="https://bikerouter.de/#map=18/51.06367/13.73685/osm-mapnik-german_style&amp;lonlats=13.736676,51.063003;13.735889,51.062495&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.063" lon="13.736678"><ele>112</ele></trkpt>
+   <trkpt lat="51.062499" lon="13.735896"><ele>114</ele></trkpt>
+   <trkpt lat="51.062494" lon="13.735888"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
