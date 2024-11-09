@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 204 filtered ascend = 1 plain-ascend = 2 cost=204 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>5930 Max Bögl - Schlierferheide Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=18/49.22175/11.45292/osm-mapnik-german_style&amp;lonlats=11.451984,49.221495;11.453853,49.222814&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.221492" lon="11.45199"><ele>415.25</ele></trkpt>
+   <trkpt lat="49.221631" lon="11.452076"><ele>416.25</ele></trkpt>
+   <trkpt lat="49.22172" lon="11.452142"><ele>416</ele></trkpt>
+   <trkpt lat="49.221862" lon="11.452275"><ele>416</ele></trkpt>
+   <trkpt lat="49.221887" lon="11.452301"><ele>415.75</ele></trkpt>
+   <trkpt lat="49.222051" lon="11.452505"><ele>416</ele></trkpt>
+   <trkpt lat="49.222132" lon="11.452631"><ele>416</ele></trkpt>
+   <trkpt lat="49.22221" lon="11.452766"><ele>416</ele></trkpt>
+   <trkpt lat="49.222362" lon="11.453058"><ele>416</ele></trkpt>
+   <trkpt lat="49.222401" lon="11.453136"><ele>416</ele></trkpt>
+   <trkpt lat="49.222535" lon="11.453407"><ele>415.75</ele></trkpt>
+   <trkpt lat="49.222602" lon="11.453536"><ele>415.5</ele></trkpt>
+   <trkpt lat="49.222763" lon="11.453787"><ele>416.25</ele></trkpt>
+   <trkpt lat="49.222812" lon="11.453854"><ele>416.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
