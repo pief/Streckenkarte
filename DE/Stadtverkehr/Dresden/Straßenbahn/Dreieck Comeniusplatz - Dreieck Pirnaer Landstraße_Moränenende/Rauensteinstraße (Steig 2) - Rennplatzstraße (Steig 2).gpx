@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 504 filtered ascend = 0 plain-ascend = 0 cost=1008 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Rauensteinstraße (Steig 2) - Rennplatzstraße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=18/51.02724/13.79944/osm-mapnik-german_style&amp;lonlats=13.794825,51.028426;13.801587,51.026944&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.028427" lon="13.794825"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.028427" lon="13.79483"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.028383" lon="13.795082"><ele>115</ele></trkpt>
+   <trkpt lat="51.028173" lon="13.796257"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.028128" lon="13.796503"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.02809" lon="13.79671"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.027929" lon="13.797599"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.027745" lon="13.79869"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.027597" lon="13.799479"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.027533" lon="13.799721"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.027379" lon="13.80021"><ele>115</ele></trkpt>
+   <trkpt lat="51.027308" lon="13.800428"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.02721" lon="13.800761"><ele>115</ele></trkpt>
+   <trkpt lat="51.026948" lon="13.80159"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 1 plain-ascend = 0 cost=800 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Rennplatzstraße (Steig 2) - Marienberger Straße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.02487/13.80661/osm-mapnik-german_style&amp;lonlats=13.801587,51.026944;13.806332,51.025011&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.026948" lon="13.80159"><ele>115</ele></trkpt>
+   <trkpt lat="51.026948" lon="13.801592"><ele>115</ele></trkpt>
+   <trkpt lat="51.026932" lon="13.801639"><ele>115</ele></trkpt>
+   <trkpt lat="51.026696" lon="13.802332"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.02651" lon="13.802812"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.026203" lon="13.803548"><ele>116</ele></trkpt>
+   <trkpt lat="51.025984" lon="13.804098"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.025852" lon="13.804466"><ele>115</ele></trkpt>
+   <trkpt lat="51.025608" lon="13.805209"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.02553" lon="13.80544"><ele>115</ele></trkpt>
+   <trkpt lat="51.025479" lon="13.805581"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.025415" lon="13.805726"><ele>115</ele></trkpt>
+   <trkpt lat="51.025296" lon="13.805944"><ele>115</ele></trkpt>
+   <trkpt lat="51.025206" lon="13.806086"><ele>115</ele></trkpt>
+   <trkpt lat="51.025018" lon="13.806328"><ele>115</ele></trkpt>
+   <trkpt lat="51.025012" lon="13.806335"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = 1 cost=170 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Leubener/Österreicher Straße Weiche Südost-West - Leubener Straße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.02413/13.83793/osm-mapnik-german_style&amp;lonlats=13.837519,51.024673;13.838103,51.024009">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.024673" lon="13.837519"><ele>113</ele></trkpt>
+   <trkpt lat="51.02464" lon="13.837553"><ele>113</ele></trkpt>
+   <trkpt lat="51.024009" lon="13.838099"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.024007" lon="13.8381"><ele>113.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 551 filtered ascend = 1 plain-ascend = 2 cost=1116 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Lassallestraße (Steig 2) - Dreieck Pirnaer Landstraße/Moränenende Weiche Nordwest-West</name>
+  <link href="https://bikerouter.de/#map=17/51.01644/13.81525/osm-mapnik-german_style&amp;lonlats=13.811711,51.020464;13.811721,51.020422;13.811883,51.020112;13.812218,51.0199;13.813192,51.019501;13.813586,51.019224;13.813745,51.019016;13.814356,51.017952;13.814603,51.01763;13.815903,51.016441&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.020464" lon="13.811711"><ele>115</ele></trkpt>
+   <trkpt lat="51.020422" lon="13.811721"><ele>115</ele></trkpt>
+   <trkpt lat="51.020252" lon="13.811782"><ele>115</ele></trkpt>
+   <trkpt lat="51.020167" lon="13.811836"><ele>115</ele></trkpt>
+   <trkpt lat="51.020112" lon="13.811883"><ele>115</ele></trkpt>
+   <trkpt lat="51.020016" lon="13.812002"><ele>115</ele></trkpt>
+   <trkpt lat="51.0199" lon="13.812218"><ele>115</ele></trkpt>
+   <trkpt lat="51.019844" lon="13.81234"><ele>115</ele></trkpt>
+   <trkpt lat="51.019798" lon="13.812465"><ele>115</ele></trkpt>
+   <trkpt lat="51.01972" lon="13.812659"><ele>115</ele></trkpt>
+   <trkpt lat="51.019585" lon="13.813006"><ele>115</ele></trkpt>
+   <trkpt lat="51.019501" lon="13.813192"><ele>115</ele></trkpt>
+   <trkpt lat="51.01941" lon="13.813354"><ele>115</ele></trkpt>
+   <trkpt lat="51.01932" lon="13.813479"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.019224" lon="13.813586"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.019121" lon="13.813675"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.019016" lon="13.813745"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.018559" lon="13.813993"><ele>116</ele></trkpt>
+   <trkpt lat="51.017952" lon="13.814356"><ele>117</ele></trkpt>
+   <trkpt lat="51.01763" lon="13.814603"><ele>117</ele></trkpt>
+   <trkpt lat="51.017464" lon="13.814754"><ele>117</ele></trkpt>
+   <trkpt lat="51.017059" lon="13.815199"><ele>116</ele></trkpt>
+   <trkpt lat="51.016441" lon="13.815903"><ele>115.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

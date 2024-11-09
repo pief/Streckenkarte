@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 450 filtered ascend = 0 plain-ascend = -1 cost=900 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Laibacher Straße (Steig 1) - Leubener Straße (Steig 3)</name>
+  <link href="https://bikerouter.de/#map=19/51.02452/13.83678/osm-mapnik-german_style&amp;lonlats=13.833529,51.021551;13.837131,51.024707&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.021548" lon="13.83354"><ele>115</ele></trkpt>
+   <trkpt lat="51.02155" lon="13.833541"><ele>115</ele></trkpt>
+   <trkpt lat="51.021636" lon="13.833572"><ele>115</ele></trkpt>
+   <trkpt lat="51.022257" lon="13.833735"><ele>115</ele></trkpt>
+   <trkpt lat="51.022394" lon="13.833771"><ele>115</ele></trkpt>
+   <trkpt lat="51.022554" lon="13.833834"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.022654" lon="13.833891"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.022754" lon="13.833961"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.022868" lon="13.834064"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.022975" lon="13.834177"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.023084" lon="13.834329"><ele>114</ele></trkpt>
+   <trkpt lat="51.023137" lon="13.834422"><ele>114</ele></trkpt>
+   <trkpt lat="51.023399" lon="13.834912"><ele>114</ele></trkpt>
+   <trkpt lat="51.023586" lon="13.835242"><ele>114</ele></trkpt>
+   <trkpt lat="51.023916" lon="13.835769"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.024161" lon="13.836131"><ele>114</ele></trkpt>
+   <trkpt lat="51.024198" lon="13.83619"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.024621" lon="13.83699"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.024701" lon="13.837137"><ele>113</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
