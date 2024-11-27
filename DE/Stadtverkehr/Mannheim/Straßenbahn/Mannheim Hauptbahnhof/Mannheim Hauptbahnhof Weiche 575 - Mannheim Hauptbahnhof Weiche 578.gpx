@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = 1 cost=170 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Mannheim Hauptbahnhof Weiche 575 - Mannheim Hauptbahnhof Weiche 578</name>
+  <link href="https://bikerouter.de/#map=19/49.48103/8.46820/osm-mapnik-german_style&amp;lonlats=8.468929,49.480377;8.467919,49.48073&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.480377" lon="8.468929"><ele>95</ele></trkpt>
+   <trkpt lat="49.480378" lon="8.468927"><ele>95</ele></trkpt>
+   <trkpt lat="49.48043" lon="8.468679"><ele>95</ele></trkpt>
+   <trkpt lat="49.48047" lon="8.468536"><ele>95</ele></trkpt>
+   <trkpt lat="49.480512" lon="8.468419"><ele>95</ele></trkpt>
+   <trkpt lat="49.480588" lon="8.468239"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.480724" lon="8.467936"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.48073" lon="8.467919"><ele>95.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
