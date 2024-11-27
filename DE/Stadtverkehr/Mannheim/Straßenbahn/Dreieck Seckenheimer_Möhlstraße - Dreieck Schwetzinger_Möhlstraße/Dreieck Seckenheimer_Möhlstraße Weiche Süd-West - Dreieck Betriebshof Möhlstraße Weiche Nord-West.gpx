@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 0 plain-ascend = 0 cost=328 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Seckenheimer/Möhlstraße Weiche Süd-West - Dreieck Betriebshof Möhlstraße Weiche Nord-West</name>
+  <link href="https://bikerouter.de/#map=19/49.47431/8.48796/osm-mapnik-german_style&amp;lonlats=8.487858,49.4758;8.486769,49.474507&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.475799" lon="8.487857"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.475518" lon="8.487612"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.475072" lon="8.487191"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.474933" lon="8.487075"><ele>95</ele></trkpt>
+   <trkpt lat="49.47453" lon="8.486793"><ele>95</ele></trkpt>
+   <trkpt lat="49.474524" lon="8.486788"><ele>95</ele></trkpt>
+   <trkpt lat="49.474505" lon="8.486771"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
