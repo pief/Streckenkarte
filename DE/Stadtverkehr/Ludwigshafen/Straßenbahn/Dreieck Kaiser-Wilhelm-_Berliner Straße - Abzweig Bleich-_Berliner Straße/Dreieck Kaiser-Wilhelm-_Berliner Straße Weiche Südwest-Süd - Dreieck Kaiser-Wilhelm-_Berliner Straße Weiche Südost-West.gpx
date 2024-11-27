@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Kaiser-Wilhelm-/Berliner Straße Weiche Südwest-Süd - Dreieck Kaiser-Wilhelm-/Berliner Straße Weiche Südost-West</name>
+  <link href="https://bikerouter.de/#map=19/49.47981/8.44514/osm-mapnik-german_style&amp;lonlats=8.444556,49.479527;8.445089,49.479408&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.479526" lon="8.444555"><ele>94</ele></trkpt>
+   <trkpt lat="49.479528" lon="8.444559"><ele>94</ele></trkpt>
+   <trkpt lat="49.479572" lon="8.44467"><ele>94</ele></trkpt>
+   <trkpt lat="49.479581" lon="8.444774"><ele>94</ele></trkpt>
+   <trkpt lat="49.479572" lon="8.444845"><ele>94</ele></trkpt>
+   <trkpt lat="49.479542" lon="8.44492"><ele>94</ele></trkpt>
+   <trkpt lat="49.47941" lon="8.445088"><ele>94</ele></trkpt>
+   <trkpt lat="49.479408" lon="8.445089"><ele>93</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
