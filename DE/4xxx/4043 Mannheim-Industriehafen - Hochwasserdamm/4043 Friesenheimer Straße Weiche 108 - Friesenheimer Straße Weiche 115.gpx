@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 601 filtered ascend = 0 plain-ascend = 1 cost=601 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>4043 Friesenheimer Straße Weiche 108 - Friesenheimer Straße Weiche 115</name>
+  <link href="https://bikerouter.de/#map=19/49.51061/8.45068/osm-mapnik-german_style&amp;lonlats=8.450809,49.510719;8.451305,49.511004;8.456506,49.51462&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.510717" lon="8.450809"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.510721" lon="8.450814"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.51099" lon="8.451291"><ele>93</ele></trkpt>
+   <trkpt lat="49.510999" lon="8.451309"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.511225" lon="8.451725"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.511321" lon="8.451877"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.514617" lon="8.456505"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.514618" lon="8.456506"><ele>93.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

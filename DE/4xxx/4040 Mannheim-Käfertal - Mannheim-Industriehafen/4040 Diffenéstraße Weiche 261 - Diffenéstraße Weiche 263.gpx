@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>4040 Diffenéstraße Weiche 261 - Diffenéstraße Weiche 263</name>
+  <link href="https://bikerouter.de/#map=19/49.51793/8.46359/osm-mapnik-german_style&amp;lonlats=8.466505,49.517471;8.466052,49.517594&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.517471" lon="8.466505"><ele>94</ele></trkpt>
+   <trkpt lat="49.517472" lon="8.466504"><ele>94</ele></trkpt>
+   <trkpt lat="49.517512" lon="8.466359"><ele>94</ele></trkpt>
+   <trkpt lat="49.517546" lon="8.46623"><ele>94</ele></trkpt>
+   <trkpt lat="49.517591" lon="8.46605"><ele>94</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

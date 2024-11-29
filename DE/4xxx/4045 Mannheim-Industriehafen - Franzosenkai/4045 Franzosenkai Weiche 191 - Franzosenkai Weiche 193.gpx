@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 1 plain-ascend = 1 cost=64 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>4045 Franzosenkai Weiche 191 - Franzosenkai Weiche 193</name>
+  <link href="https://bikerouter.de/#map=19/49.51625/8.46517/osm-mapnik-german_style&amp;lonlats=8.465237,49.51634;8.465846,49.516739&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.516339" lon="8.465236"><ele>92</ele></trkpt>
+   <trkpt lat="49.516343" lon="8.465241"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.516556" lon="8.465542"><ele>92.75</ele></trkpt>
+   <trkpt lat="49.516663" lon="8.465711"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.516737" lon="8.465845"><ele>93</ele></trkpt>
+   <trkpt lat="49.516737" lon="8.465846"><ele>92.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

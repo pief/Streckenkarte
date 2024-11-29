@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 684 filtered ascend = 2 plain-ascend = -1 cost=684 energy=0.0kwh time=55s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>4040 Mannheim-Käfertal Sammelbahnhof Weiche 239 - Hafenbahnstraße Weiche 241</name>
+  <link href="https://bikerouter.de/#map=18/49.51505/8.47400/osm-mapnik-german_style&amp;lonlats=8.483661,49.512948;8.474903,49.51525&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.512948" lon="8.483661"><ele>97</ele></trkpt>
+   <trkpt lat="49.512968" lon="8.483587"><ele>97</ele></trkpt>
+   <trkpt lat="49.512984" lon="8.483524"><ele>97</ele></trkpt>
+   <trkpt lat="49.513152" lon="8.482895"><ele>97</ele></trkpt>
+   <trkpt lat="49.513182" lon="8.482778"><ele>97</ele></trkpt>
+   <trkpt lat="49.513204" lon="8.482696"><ele>97</ele></trkpt>
+   <trkpt lat="49.514099" lon="8.479296"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.514215" lon="8.478765"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.514383" lon="8.477843"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.514496" lon="8.477347"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.514689" lon="8.476602"><ele>93.5</ele></trkpt>
+   <trkpt lat="49.514748" lon="8.476402"><ele>93</ele></trkpt>
+   <trkpt lat="49.514825" lon="8.476186"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.515043" lon="8.475509"><ele>99</ele></trkpt>
+   <trkpt lat="49.515227" lon="8.474984"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.51525" lon="8.474903"><ele>95.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

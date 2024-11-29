@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 179 filtered ascend = 0 plain-ascend = 0 cost=179 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>4045 Franzosenkai Weiche 168 - Franzosenkai Weiche 172</name>
+  <link href="https://bikerouter.de/#map=18/49.51063/8.45754/osm-mapnik-german_style&amp;lonlats=8.456857,49.510311;8.458482,49.51153&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.510307" lon="8.456861"><ele>93</ele></trkpt>
+   <trkpt lat="49.510936" lon="8.457671"><ele>92.5</ele></trkpt>
+   <trkpt lat="49.511313" lon="8.458183"><ele>92.5</ele></trkpt>
+   <trkpt lat="49.51153" lon="8.458482"><ele>92</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 0 plain-ascend = 0 cost=75 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>4040 Mannheim-Käfertal Weiche 10 - Mannheim-Käfertal Weiche 11</name>
+  <link href="https://bikerouter.de/#map=19/49.49425/8.50811/osm-mapnik-german_style&amp;lonlats=8.507908,49.49419;8.50749,49.494795">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.49419" lon="8.50791"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.494195" lon="8.507908"><ele>98.75</ele></trkpt>
+   <trkpt lat="49.494465" lon="8.507729"><ele>98</ele></trkpt>
+   <trkpt lat="49.494789" lon="8.507492"><ele>98</ele></trkpt>
+   <trkpt lat="49.494794" lon="8.507487"><ele>98</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
