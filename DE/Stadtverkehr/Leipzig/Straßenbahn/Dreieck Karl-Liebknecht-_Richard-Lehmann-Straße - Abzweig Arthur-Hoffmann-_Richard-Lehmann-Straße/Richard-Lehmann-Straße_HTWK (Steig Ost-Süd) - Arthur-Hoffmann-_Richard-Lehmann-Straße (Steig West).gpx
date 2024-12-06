@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 238 filtered ascend = 0 plain-ascend = 1 cost=476 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Richard-Lehmann-Straße/HTWK (Steig Ost-Süd) - Arthur-Hoffmann-/Richard-Lehmann-Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.31478/12.37792/osm-mapnik-german_style&amp;lonlats=12.374465,51.314812;12.377871,51.314827&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.314814" lon="12.374463"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.314815" lon="12.374471"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.314821" lon="12.376463"><ele>119</ele></trkpt>
+   <trkpt lat="51.314822" lon="12.376608"><ele>119</ele></trkpt>
+   <trkpt lat="51.314822" lon="12.376699"><ele>119</ele></trkpt>
+   <trkpt lat="51.314827" lon="12.377869"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

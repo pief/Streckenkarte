@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 304 filtered ascend = 1 plain-ascend = 2 cost=608 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Arthur-Hoffmann-/Richard-Lehmann-Straße Weiche Süd - Altenburger Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.31471/12.38230/osm-mapnik-german_style&amp;lonlats=12.377947,51.314832;12.382299,51.314839&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.314828" lon="12.377947"><ele>119</ele></trkpt>
+   <trkpt lat="51.314828" lon="12.377948"><ele>119</ele></trkpt>
+   <trkpt lat="51.314829" lon="12.378078"><ele>119</ele></trkpt>
+   <trkpt lat="51.314829" lon="12.378339"><ele>119</ele></trkpt>
+   <trkpt lat="51.31483" lon="12.378509"><ele>119</ele></trkpt>
+   <trkpt lat="51.314835" lon="12.379991"><ele>120</ele></trkpt>
+   <trkpt lat="51.314835" lon="12.380067"><ele>120</ele></trkpt>
+   <trkpt lat="51.31484" lon="12.381568"><ele>120.25</ele></trkpt>
+   <trkpt lat="51.31484" lon="12.381683"><ele>120.25</ele></trkpt>
+   <trkpt lat="51.314841" lon="12.382297"><ele>120.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
