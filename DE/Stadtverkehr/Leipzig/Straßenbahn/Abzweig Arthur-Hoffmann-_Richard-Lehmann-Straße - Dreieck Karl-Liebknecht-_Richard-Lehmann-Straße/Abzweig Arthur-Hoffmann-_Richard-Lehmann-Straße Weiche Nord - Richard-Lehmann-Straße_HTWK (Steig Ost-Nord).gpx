@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 268 filtered ascend = 0 plain-ascend = 0 cost=536 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Arthur-Hoffmann-/Richard-Lehmann-Straße Weiche Nord - Richard-Lehmann-Straße/HTWK (Steig Ost-Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.31477/12.37437/osm-mapnik-german_style&amp;lonlats=12.377955,51.314953;12.374119,51.314931&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.31495" lon="12.377954"><ele>119</ele></trkpt>
+   <trkpt lat="51.314947" lon="12.376701"><ele>119</ele></trkpt>
+   <trkpt lat="51.314947" lon="12.376606"><ele>119</ele></trkpt>
+   <trkpt lat="51.314946" lon="12.376465"><ele>119</ele></trkpt>
+   <trkpt lat="51.314936" lon="12.374123"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.314936" lon="12.374119"><ele>118.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
