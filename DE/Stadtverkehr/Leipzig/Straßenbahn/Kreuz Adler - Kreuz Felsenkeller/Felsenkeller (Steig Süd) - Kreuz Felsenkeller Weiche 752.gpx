@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 29 filtered ascend = 0 plain-ascend = 0 cost=58 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Felsenkeller (Steig Süd) - Kreuz Felsenkeller Weiche 752</name>
+  <link href="https://bikerouter.de/#map=19/51.33208/12.33828/osm-mapnik-german_style&amp;lonlats=12.338536,51.331943;12.338695,51.332185&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.331942" lon="12.338535"><ele>115</ele></trkpt>
+   <trkpt lat="51.331948" lon="12.338539"><ele>115</ele></trkpt>
+   <trkpt lat="51.332185" lon="12.33869"><ele>114.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = 0 cost=162 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Grünau-Süd Weiche Nord - Grünau-Süd (Einstieg)</name>
+  <link href="https://bikerouter.de/#map=19/51.31171/12.27959/osm-mapnik-german_style&amp;lonlats=12.279054,51.312215;12.278922,51.311618&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.312215" lon="12.279052"><ele>122</ele></trkpt>
+   <trkpt lat="51.312157" lon="12.278905"><ele>122</ele></trkpt>
+   <trkpt lat="51.312057" lon="12.278769"><ele>122</ele></trkpt>
+   <trkpt lat="51.31194" lon="12.278721"><ele>122</ele></trkpt>
+   <trkpt lat="51.311836" lon="12.278743"><ele>122</ele></trkpt>
+   <trkpt lat="51.31162" lon="12.278914"><ele>122</ele></trkpt>
+   <trkpt lat="51.311616" lon="12.278916"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

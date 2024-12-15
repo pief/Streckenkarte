@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 480 filtered ascend = 0 plain-ascend = -1 cost=960 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Markranstädter Straße (Steig Südost) - Elster Passage (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.32910/12.33646/osm-mapnik-german_style&amp;lonlats=12.334232,51.325153;12.336812,51.329154&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.325151" lon="12.334234"><ele>119</ele></trkpt>
+   <trkpt lat="51.325154" lon="12.334237"><ele>119</ele></trkpt>
+   <trkpt lat="51.325331" lon="12.334388"><ele>119</ele></trkpt>
+   <trkpt lat="51.325596" lon="12.33455"><ele>119</ele></trkpt>
+   <trkpt lat="51.325813" lon="12.334687"><ele>119</ele></trkpt>
+   <trkpt lat="51.326232" lon="12.334952"><ele>119</ele></trkpt>
+   <trkpt lat="51.32626" lon="12.33497"><ele>119</ele></trkpt>
+   <trkpt lat="51.326713" lon="12.335257"><ele>119</ele></trkpt>
+   <trkpt lat="51.32766" lon="12.335859"><ele>118</ele></trkpt>
+   <trkpt lat="51.328024" lon="12.336082"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.328326" lon="12.336275"><ele>114</ele></trkpt>
+   <trkpt lat="51.328806" lon="12.336586"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.329153" lon="12.336812"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 334 filtered ascend = 1 plain-ascend = 1 cost=668 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Antonien-/Gießerstraße (Steig Süd) - Adler (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.32019/12.32919/osm-mapnik-german_style&amp;lonlats=12.324852,51.320357;12.329621,51.320321&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.320356" lon="12.324851"><ele>118</ele></trkpt>
+   <trkpt lat="51.320356" lon="12.32486"><ele>118</ele></trkpt>
+   <trkpt lat="51.320349" lon="12.325819"><ele>118</ele></trkpt>
+   <trkpt lat="51.320342" lon="12.326772"><ele>119</ele></trkpt>
+   <trkpt lat="51.320338" lon="12.327552"><ele>119</ele></trkpt>
+   <trkpt lat="51.320331" lon="12.328225"><ele>119</ele></trkpt>
+   <trkpt lat="51.320331" lon="12.328321"><ele>119</ele></trkpt>
+   <trkpt lat="51.320331" lon="12.328531"><ele>119</ele></trkpt>
+   <trkpt lat="51.320321" lon="12.329618"><ele>119</ele></trkpt>
+   <trkpt lat="51.32032" lon="12.32962"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

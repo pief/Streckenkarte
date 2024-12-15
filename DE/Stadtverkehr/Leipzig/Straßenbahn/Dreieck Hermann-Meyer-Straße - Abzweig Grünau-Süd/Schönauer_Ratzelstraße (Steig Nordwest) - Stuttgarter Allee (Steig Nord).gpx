@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 574 filtered ascend = 1 plain-ascend = -1 cost=1148 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schönauer/Ratzelstraße (Steig Nordwest) - Stuttgarter Allee (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.31322/12.29313/osm-mapnik-german_style&amp;lonlats=12.301463,51.314073;12.293352,51.313308&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.314075" lon="12.30146"><ele>121</ele></trkpt>
+   <trkpt lat="51.314024" lon="12.301203"><ele>121</ele></trkpt>
+   <trkpt lat="51.31399" lon="12.301014"><ele>121</ele></trkpt>
+   <trkpt lat="51.313842" lon="12.300106"><ele>121</ele></trkpt>
+   <trkpt lat="51.313727" lon="12.299274"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.313636" lon="12.298416"><ele>122</ele></trkpt>
+   <trkpt lat="51.313538" lon="12.297268"><ele>121</ele></trkpt>
+   <trkpt lat="51.313514" lon="12.296973"><ele>121</ele></trkpt>
+   <trkpt lat="51.313482" lon="12.296622"><ele>121</ele></trkpt>
+   <trkpt lat="51.313457" lon="12.296237"><ele>121</ele></trkpt>
+   <trkpt lat="51.313307" lon="12.293352"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

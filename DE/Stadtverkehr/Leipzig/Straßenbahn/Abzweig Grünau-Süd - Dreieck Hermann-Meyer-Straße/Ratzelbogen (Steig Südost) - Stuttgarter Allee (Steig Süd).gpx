@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 730 filtered ascend = 0 plain-ascend = -2 cost=1460 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Ratzelbogen (Steig Südost) - Stuttgarter Allee (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.31309/12.29223/osm-mapnik-german_style&amp;lonlats=12.282589,51.311648;12.292714,51.313241&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.311646" lon="12.282588"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.311647" lon="12.282592"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.311671" lon="12.282716"><ele>121</ele></trkpt>
+   <trkpt lat="51.312079" lon="12.284805"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.312572" lon="12.287285"><ele>120</ele></trkpt>
+   <trkpt lat="51.31288" lon="12.288849"><ele>119</ele></trkpt>
+   <trkpt lat="51.312957" lon="12.289331"><ele>119</ele></trkpt>
+   <trkpt lat="51.313022" lon="12.289798"><ele>119</ele></trkpt>
+   <trkpt lat="51.313062" lon="12.290139"><ele>119</ele></trkpt>
+   <trkpt lat="51.313086" lon="12.290326"><ele>119</ele></trkpt>
+   <trkpt lat="51.313166" lon="12.291316"><ele>119</ele></trkpt>
+   <trkpt lat="51.313177" lon="12.291616"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.313236" lon="12.292713"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

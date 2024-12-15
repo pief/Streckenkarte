@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Hermann-Meyer-Straße Weiche West - Hermann-Meyer-Straße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.31524/12.30876/osm-mapnik-german_style&amp;lonlats=12.308823,51.315231;12.308142,51.315142&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.315231" lon="12.308821"><ele>120.75</ele></trkpt>
+   <trkpt lat="51.31514" lon="12.308144"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.315139" lon="12.308141"><ele>121</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

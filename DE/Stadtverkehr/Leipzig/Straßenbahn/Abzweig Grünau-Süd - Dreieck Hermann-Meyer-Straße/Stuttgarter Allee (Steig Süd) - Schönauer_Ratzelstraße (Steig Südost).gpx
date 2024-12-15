@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 702 filtered ascend = 3 plain-ascend = 3 cost=1404 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Stuttgarter Allee (Steig Süd) - Schönauer/Ratzelstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.31406/12.30230/osm-mapnik-german_style&amp;lonlats=12.292714,51.313241;12.302624,51.31427&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313236" lon="12.292713"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.313237" lon="12.29272"><ele>119</ele></trkpt>
+   <trkpt lat="51.313256" lon="12.293048"><ele>119</ele></trkpt>
+   <trkpt lat="51.313421" lon="12.296179"><ele>121</ele></trkpt>
+   <trkpt lat="51.31345" lon="12.296632"><ele>121</ele></trkpt>
+   <trkpt lat="51.313481" lon="12.296979"><ele>121</ele></trkpt>
+   <trkpt lat="51.313504" lon="12.297277"><ele>121</ele></trkpt>
+   <trkpt lat="51.313602" lon="12.298429"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.313692" lon="12.299285"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.313806" lon="12.300121"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.313962" lon="12.301056"><ele>121</ele></trkpt>
+   <trkpt lat="51.313993" lon="12.30122"><ele>121</ele></trkpt>
+   <trkpt lat="51.314273" lon="12.302621"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

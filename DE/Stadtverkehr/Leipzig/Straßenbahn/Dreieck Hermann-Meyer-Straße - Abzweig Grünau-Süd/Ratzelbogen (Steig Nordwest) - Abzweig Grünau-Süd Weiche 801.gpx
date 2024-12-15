@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 1 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Ratzelbogen (Steig Nordwest) - Abzweig Grünau-Süd Weiche 801</name>
+  <link href="https://bikerouter.de/#map=18/51.31146/12.28198/osm-mapnik-german_style&amp;lonlats=12.281954,51.311551;12.281215,51.311412&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.311551" lon="12.281952"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.311527" lon="12.281824"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.311461" lon="12.281495"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.311433" lon="12.281349"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.311408" lon="12.281215"><ele>121.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

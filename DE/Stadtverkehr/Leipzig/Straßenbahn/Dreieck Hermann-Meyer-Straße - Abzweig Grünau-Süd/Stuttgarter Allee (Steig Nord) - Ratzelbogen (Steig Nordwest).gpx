@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 822 filtered ascend = 2 plain-ascend = 3 cost=1646 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Stuttgarter Allee (Steig Nord) - Ratzelbogen (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.31131/12.28281/osm-mapnik-german_style&amp;lonlats=12.293352,51.313308;12.281956,51.311551&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313307" lon="12.293352"><ele>119</ele></trkpt>
+   <trkpt lat="51.313292" lon="12.293044"><ele>119</ele></trkpt>
+   <trkpt lat="51.313175" lon="12.290967"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.313128" lon="12.290415"><ele>119</ele></trkpt>
+   <trkpt lat="51.313095" lon="12.290129"><ele>119</ele></trkpt>
+   <trkpt lat="51.313004" lon="12.289425"><ele>119</ele></trkpt>
+   <trkpt lat="51.312953" lon="12.289076"><ele>119</ele></trkpt>
+   <trkpt lat="51.31289" lon="12.288718"><ele>119</ele></trkpt>
+   <trkpt lat="51.312118" lon="12.284789"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.311695" lon="12.2827"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.311552" lon="12.281957"><ele>121.25</ele></trkpt>
+   <trkpt lat="51.311551" lon="12.281954"><ele>121.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

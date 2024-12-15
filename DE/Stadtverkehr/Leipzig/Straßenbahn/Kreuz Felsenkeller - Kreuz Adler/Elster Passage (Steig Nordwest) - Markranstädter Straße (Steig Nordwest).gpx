@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 503 filtered ascend = 2 plain-ascend = 2 cost=1006 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Elster Passage (Steig Nordwest) - Markranstädter Straße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.32502/12.33399/osm-mapnik-german_style&amp;lonlats=12.336702,51.329086;12.333988,51.324898&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.329086" lon="12.336697"><ele>117</ele></trkpt>
+   <trkpt lat="51.328818" lon="12.336538"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.328384" lon="12.336266"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.328336" lon="12.336235"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.328033" lon="12.336046"><ele>113</ele></trkpt>
+   <trkpt lat="51.327755" lon="12.335875"><ele>118</ele></trkpt>
+   <trkpt lat="51.327619" lon="12.33579"><ele>118</ele></trkpt>
+   <trkpt lat="51.327255" lon="12.335557"><ele>118</ele></trkpt>
+   <trkpt lat="51.32698" lon="12.335377"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.326848" lon="12.335292"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.326083" lon="12.33482"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.325394" lon="12.334385"><ele>119</ele></trkpt>
+   <trkpt lat="51.325341" lon="12.334352"><ele>119</ele></trkpt>
+   <trkpt lat="51.324901" lon="12.333995"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.324895" lon="12.333991"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

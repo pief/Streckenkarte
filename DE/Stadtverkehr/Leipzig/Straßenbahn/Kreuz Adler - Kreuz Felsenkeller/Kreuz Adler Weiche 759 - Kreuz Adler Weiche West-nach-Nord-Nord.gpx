@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Adler Weiche 759 - Kreuz Adler Weiche West-nach-Nord-Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.32052/12.32977/osm-mapnik-german_style&amp;lonlats=12.32975,51.32032;12.33048,51.32051&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.32032" lon="12.32975"><ele>119</ele></trkpt>
+   <trkpt lat="51.32032" lon="12.329752"><ele>119</ele></trkpt>
+   <trkpt lat="51.320319" lon="12.329923"><ele>119</ele></trkpt>
+   <trkpt lat="51.320319" lon="12.329941"><ele>119</ele></trkpt>
+   <trkpt lat="51.320322" lon="12.330038"><ele>119</ele></trkpt>
+   <trkpt lat="51.320325" lon="12.330082"><ele>119</ele></trkpt>
+   <trkpt lat="51.32035" lon="12.330206"><ele>119</ele></trkpt>
+   <trkpt lat="51.320382" lon="12.330299"><ele>119</ele></trkpt>
+   <trkpt lat="51.3204" lon="12.330336"><ele>119</ele></trkpt>
+   <trkpt lat="51.320429" lon="12.330388"><ele>119</ele></trkpt>
+   <trkpt lat="51.320506" lon="12.330479"><ele>119</ele></trkpt>
+   <trkpt lat="51.320508" lon="12.330481"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
