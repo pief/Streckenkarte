@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 278 filtered ascend = 0 plain-ascend = 0 cost=556 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Scheidemannplatz Nordwest-Ost - Hauptbahnhof Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.31836/9.48967/osm-mapnik-german_style&amp;lonlats=9.492543,51.316522;9.489559,51.318133&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.316522" lon="9.492543"><ele>180</ele></trkpt>
+   <trkpt lat="51.316657" lon="9.492339"><ele>180</ele></trkpt>
+   <trkpt lat="51.317093" lon="9.491678"><ele>180.75</ele></trkpt>
+   <trkpt lat="51.317298" lon="9.491372"><ele>179.5</ele></trkpt>
+   <trkpt lat="51.317573" lon="9.490973"/>
+   <trkpt lat="51.317723" lon="9.490683"/>
+   <trkpt lat="51.317947" lon="9.490187"/>
+   <trkpt lat="51.318023" lon="9.489991"/>
+   <trkpt lat="51.318081" lon="9.489798"/>
+   <trkpt lat="51.318132" lon="9.489558"/>
+  </trkseg>
+ </trk>
+</gpx>
