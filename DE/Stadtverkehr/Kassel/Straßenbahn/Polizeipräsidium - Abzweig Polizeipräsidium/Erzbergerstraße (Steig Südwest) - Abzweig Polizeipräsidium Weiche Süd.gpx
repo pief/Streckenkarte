@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 308 filtered ascend = 2 plain-ascend = 2 cost=616 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Erzbergerstraße (Steig Südwest) - Abzweig Polizeipräsidium Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.31880/9.49625/osm-mapnik-german_style&amp;lonlats=9.492377,51.320141;9.496289,51.318874&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.320141" lon="9.492377"><ele>163</ele></trkpt>
+   <trkpt lat="51.320062" lon="9.492654"><ele>163</ele></trkpt>
+   <trkpt lat="51.320015" lon="9.492815"><ele>163</ele></trkpt>
+   <trkpt lat="51.319978" lon="9.492943"><ele>163</ele></trkpt>
+   <trkpt lat="51.319885" lon="9.49326"><ele>163.25</ele></trkpt>
+   <trkpt lat="51.319619" lon="9.494237"><ele>164.25</ele></trkpt>
+   <trkpt lat="51.319585" lon="9.494343"><ele>164</ele></trkpt>
+   <trkpt lat="51.319477" lon="9.494625"><ele>164</ele></trkpt>
+   <trkpt lat="51.319089" lon="9.495501"><ele>165.25</ele></trkpt>
+   <trkpt lat="51.319041" lon="9.495617"><ele>165.25</ele></trkpt>
+   <trkpt lat="51.319" lon="9.495713"><ele>165.25</ele></trkpt>
+   <trkpt lat="51.318939" lon="9.495913"><ele>164.75</ele></trkpt>
+   <trkpt lat="51.318875" lon="9.496286"><ele>165</ele></trkpt>
+   <trkpt lat="51.318874" lon="9.496289"><ele>165</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
