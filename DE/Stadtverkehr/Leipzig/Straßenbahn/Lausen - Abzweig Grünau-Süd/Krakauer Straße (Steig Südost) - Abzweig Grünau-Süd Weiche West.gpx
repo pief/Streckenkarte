@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 643 filtered ascend = 1 plain-ascend = 2 cost=1286 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Krakauer Straße (Steig Südost) - Abzweig Grünau-Süd Weiche West</name>
+  <link href="https://bikerouter.de/#map=17/51.31045/12.28165/osm-mapnik-german_style&amp;lonlats=12.271577,51.308919;12.280069,51.311144&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.308915" lon="12.271578"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.308916" lon="12.271581"><ele>120.75</ele></trkpt>
+   <trkpt lat="51.308968" lon="12.271729"><ele>121</ele></trkpt>
+   <trkpt lat="51.309675" lon="12.273781"><ele>121</ele></trkpt>
+   <trkpt lat="51.309785" lon="12.274148"><ele>121</ele></trkpt>
+   <trkpt lat="51.310202" lon="12.275836"><ele>122</ele></trkpt>
+   <trkpt lat="51.310636" lon="12.277636"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.310762" lon="12.2782"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.311018" lon="12.279439"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.311144" lon="12.280067"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
