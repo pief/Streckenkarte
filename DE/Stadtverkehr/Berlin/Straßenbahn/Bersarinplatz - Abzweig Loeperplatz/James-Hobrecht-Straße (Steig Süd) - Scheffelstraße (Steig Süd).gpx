@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 434 filtered ascend = 2 plain-ascend = 0 cost=868 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>James-Hobrecht-Straße (Steig Süd) - Scheffelstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.52044/13.47387/osm-mapnik-german_style&amp;lonlats=13.467835,52.520225;13.474208,52.520484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.520227" lon="13.467833"><ele>49</ele></trkpt>
+   <trkpt lat="52.520359" lon="13.469394"><ele>50</ele></trkpt>
+   <trkpt lat="52.520371" lon="13.469548"><ele>50</ele></trkpt>
+   <trkpt lat="52.520388" lon="13.469771"><ele>50</ele></trkpt>
+   <trkpt lat="52.520455" lon="13.470625"><ele>49.5</ele></trkpt>
+   <trkpt lat="52.520471" lon="13.470807"><ele>47.5</ele></trkpt>
+   <trkpt lat="52.52057" lon="13.472022"><ele>46.25</ele></trkpt>
+   <trkpt lat="52.520605" lon="13.472475"><ele>51</ele></trkpt>
+   <trkpt lat="52.520607" lon="13.472805"><ele>51</ele></trkpt>
+   <trkpt lat="52.520555" lon="13.473435"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.520494" lon="13.474128"><ele>50</ele></trkpt>
+   <trkpt lat="52.520487" lon="13.474208"><ele>48.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

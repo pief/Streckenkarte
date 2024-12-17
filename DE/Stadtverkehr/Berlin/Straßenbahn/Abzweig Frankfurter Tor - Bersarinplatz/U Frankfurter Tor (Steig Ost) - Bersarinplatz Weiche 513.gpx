@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 325 filtered ascend = 5 plain-ascend = 6 cost=650 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>U Frankfurter Tor (Steig Ost) - Bersarinplatz Weiche 513</name>
+  <link href="https://bikerouter.de/#map=19/52.51833/13.45326/osm-mapnik-german_style&amp;lonlats=13.45406,52.515492;13.453462,52.518336&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.515491" lon="13.454059"><ele>37</ele></trkpt>
+   <trkpt lat="52.515615" lon="13.45411"><ele>37</ele></trkpt>
+   <trkpt lat="52.51568" lon="13.454121"><ele>37</ele></trkpt>
+   <trkpt lat="52.515722" lon="13.454124"><ele>37</ele></trkpt>
+   <trkpt lat="52.51585" lon="13.454122"><ele>37</ele></trkpt>
+   <trkpt lat="52.515897" lon="13.454115"><ele>37</ele></trkpt>
+   <trkpt lat="52.516266" lon="13.453988"><ele>37.5</ele></trkpt>
+   <trkpt lat="52.51636" lon="13.453952"><ele>37.75</ele></trkpt>
+   <trkpt lat="52.516836" lon="13.453778"><ele>38.5</ele></trkpt>
+   <trkpt lat="52.517087" lon="13.453691"><ele>39.5</ele></trkpt>
+   <trkpt lat="52.518018" lon="13.453349"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.518048" lon="13.453343"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.518108" lon="13.453343"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.518201" lon="13.453372"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.518334" lon="13.45346"><ele>42</ele></trkpt>
+   <trkpt lat="52.518335" lon="13.453461"><ele>42.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

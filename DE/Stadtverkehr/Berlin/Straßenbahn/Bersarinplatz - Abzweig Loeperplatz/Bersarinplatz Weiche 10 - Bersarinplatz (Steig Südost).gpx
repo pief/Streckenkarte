@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 82 filtered ascend = 1 plain-ascend = 2 cost=164 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bersarinplatz Weiche 10 - Bersarinplatz (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=17/52.51852/13.45346/osm-mapnik-german_style&amp;lonlats=13.45362,52.518558;13.454507,52.519012&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.518555" lon="13.453623"><ele>42.5</ele></trkpt>
+   <trkpt lat="52.51856" lon="13.453626"><ele>42.75</ele></trkpt>
+   <trkpt lat="52.518707" lon="13.453735"><ele>43</ele></trkpt>
+   <trkpt lat="52.518763" lon="13.453784"><ele>43.25</ele></trkpt>
+   <trkpt lat="52.518787" lon="13.453817"><ele>43.25</ele></trkpt>
+   <trkpt lat="52.5188" lon="13.453839"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.518848" lon="13.453966"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.518864" lon="13.454016"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.518894" lon="13.454117"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.519012" lon="13.454505"><ele>44</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 0 plain-ascend = 0 cost=576 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Möllendorffstraße/Storkower Straße (Steig Ost) - Kreuz Roederplatz Weiche 91</name>
+  <link href="https://bikerouter.de/#map=18/52.52601/13.48021/osm-mapnik-german_style&amp;lonlats=13.47959,52.52384;13.479804,52.526426&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.523838" lon="13.47959"><ele>49</ele></trkpt>
+   <trkpt lat="52.523842" lon="13.479591"><ele>49</ele></trkpt>
+   <trkpt lat="52.523924" lon="13.47959"><ele>49</ele></trkpt>
+   <trkpt lat="52.524494" lon="13.479605"><ele>49</ele></trkpt>
+   <trkpt lat="52.525234" lon="13.479662"><ele>49</ele></trkpt>
+   <trkpt lat="52.525578" lon="13.479703"><ele>49</ele></trkpt>
+   <trkpt lat="52.526006" lon="13.479756"><ele>49</ele></trkpt>
+   <trkpt lat="52.526424" lon="13.479804"><ele>49</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

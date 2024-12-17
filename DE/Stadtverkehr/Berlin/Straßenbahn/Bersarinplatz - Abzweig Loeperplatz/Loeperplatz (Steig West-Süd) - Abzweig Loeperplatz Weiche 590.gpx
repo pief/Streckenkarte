@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 1 plain-ascend = 1 cost=252 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Loeperplatz (Steig West-Süd) - Abzweig Loeperplatz Weiche 590</name>
+  <link href="https://bikerouter.de/#map=19/52.52075/13.48038/osm-mapnik-german_style&amp;lonlats=13.47874,52.520337;13.480273,52.520835&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.52034" lon="13.478738"><ele>48</ele></trkpt>
+   <trkpt lat="52.520359" lon="13.478992"><ele>48</ele></trkpt>
+   <trkpt lat="52.520392" lon="13.479323"><ele>48</ele></trkpt>
+   <trkpt lat="52.520426" lon="13.4795"><ele>48</ele></trkpt>
+   <trkpt lat="52.520453" lon="13.4796"><ele>48.5</ele></trkpt>
+   <trkpt lat="52.520636" lon="13.480088"><ele>49</ele></trkpt>
+   <trkpt lat="52.520674" lon="13.480163"><ele>49</ele></trkpt>
+   <trkpt lat="52.520733" lon="13.480227"><ele>49</ele></trkpt>
+   <trkpt lat="52.520832" lon="13.480274"><ele>49</ele></trkpt>
+   <trkpt lat="52.520833" lon="13.480274"><ele>49</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

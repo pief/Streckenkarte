@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 570 filtered ascend = 0 plain-ascend = 1 cost=1140 energy=0.0kwh time=46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Herzbergstraße/Industriegebiet (Steig Süd) - Herzbergstraße/Siegfriedstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.52639/13.49815/osm-mapnik-german_style&amp;lonlats=13.490748,52.526545;13.499141,52.526364&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.526544" lon="13.490747"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.52654" lon="13.490952"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.526532" lon="13.491319"><ele>53</ele></trkpt>
+   <trkpt lat="52.526497" lon="13.492994"><ele>53</ele></trkpt>
+   <trkpt lat="52.52643" lon="13.496247"><ele>53</ele></trkpt>
+   <trkpt lat="52.5264" lon="13.497634"><ele>53</ele></trkpt>
+   <trkpt lat="52.526371" lon="13.498966"><ele>54</ele></trkpt>
+   <trkpt lat="52.52637" lon="13.499036"><ele>54</ele></trkpt>
+   <trkpt lat="52.526367" lon="13.499141"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

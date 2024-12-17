@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 302 filtered ascend = 2 plain-ascend = 2 cost=604 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Proskauer Straße (Steig Süd) - James-Hobrecht-Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.52005/13.46738/osm-mapnik-german_style&amp;lonlats=13.463431,52.519856;13.467835,52.520225&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.519851" lon="13.46343"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.519852" lon="13.463438"><ele>48</ele></trkpt>
+   <trkpt lat="52.519874" lon="13.463696"><ele>48</ele></trkpt>
+   <trkpt lat="52.520108" lon="13.466397"><ele>49</ele></trkpt>
+   <trkpt lat="52.520154" lon="13.466878"><ele>49</ele></trkpt>
+   <trkpt lat="52.520183" lon="13.467301"><ele>48.75</ele></trkpt>
+   <trkpt lat="52.520227" lon="13.467833"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 2 plain-ascend = 2 cost=290 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Roederplatz Weiche 579 - Bernhard-Bastien-Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.52652/13.48237/osm-mapnik-german_style&amp;lonlats=13.480412,52.526713;13.482552,52.526736&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.526711" lon="13.480411"><ele>49</ele></trkpt>
+   <trkpt lat="52.526764" lon="13.480956"><ele>50</ele></trkpt>
+   <trkpt lat="52.526762" lon="13.481268"><ele>50</ele></trkpt>
+   <trkpt lat="52.526748" lon="13.481932"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.526735" lon="13.482551"><ele>51.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

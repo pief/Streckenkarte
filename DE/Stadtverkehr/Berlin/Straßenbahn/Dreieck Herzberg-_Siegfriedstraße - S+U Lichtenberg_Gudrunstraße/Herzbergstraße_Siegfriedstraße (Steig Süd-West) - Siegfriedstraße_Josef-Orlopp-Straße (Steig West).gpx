@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 0 plain-ascend = 0 cost=496 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Herzbergstraße/Siegfriedstraße (Steig Süd-West) - Siegfriedstraße/Josef-Orlopp-Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.52325/13.49972/osm-mapnik-german_style&amp;lonlats=13.499692,52.52538;13.499552,52.523149&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.525379" lon="13.499691"><ele>54</ele></trkpt>
+   <trkpt lat="52.525179" lon="13.49968"><ele>54</ele></trkpt>
+   <trkpt lat="52.525004" lon="13.499669"><ele>54</ele></trkpt>
+   <trkpt lat="52.524906" lon="13.499664"><ele>54</ele></trkpt>
+   <trkpt lat="52.524546" lon="13.499643"><ele>54</ele></trkpt>
+   <trkpt lat="52.524135" lon="13.49962"><ele>54</ele></trkpt>
+   <trkpt lat="52.524097" lon="13.499618"><ele>54</ele></trkpt>
+   <trkpt lat="52.524052" lon="13.499615"><ele>54</ele></trkpt>
+   <trkpt lat="52.523964" lon="13.49961"><ele>54</ele></trkpt>
+   <trkpt lat="52.523148" lon="13.499563"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

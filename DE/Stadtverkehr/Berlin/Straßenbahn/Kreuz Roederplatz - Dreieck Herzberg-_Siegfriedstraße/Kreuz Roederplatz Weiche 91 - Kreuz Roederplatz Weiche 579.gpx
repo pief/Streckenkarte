@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 1 plain-ascend = 1 cost=114 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Roederplatz Weiche 91 - Kreuz Roederplatz Weiche 579</name>
+  <link href="https://bikerouter.de/#map=19/52.52653/13.48026/osm-mapnik-german_style&amp;lonlats=13.479804,52.526426;13.480042,52.526646;13.480412,52.526713&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.526424" lon="13.479804"><ele>49</ele></trkpt>
+   <trkpt lat="52.526431" lon="13.479805"><ele>49</ele></trkpt>
+   <trkpt lat="52.526489" lon="13.479833"><ele>49</ele></trkpt>
+   <trkpt lat="52.526582" lon="13.479922"><ele>49</ele></trkpt>
+   <trkpt lat="52.526625" lon="13.479985"><ele>49</ele></trkpt>
+   <trkpt lat="52.526646" lon="13.48004"><ele>49</ele></trkpt>
+   <trkpt lat="52.526662" lon="13.480078"><ele>49</ele></trkpt>
+   <trkpt lat="52.526678" lon="13.480165"><ele>48.75</ele></trkpt>
+   <trkpt lat="52.526711" lon="13.480407"><ele>49</ele></trkpt>
+   <trkpt lat="52.526711" lon="13.480411"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
