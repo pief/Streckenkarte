@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 151 filtered ascend = 0 plain-ascend = 0 cost=302 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Friedrich-Ebert-/Osterstraße Weiche 202 - Am neuen Markt (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/53.07276/8.79983/osm-mapnik-german_style&amp;lonlats=8.801208,53.071638;8.799896,53.072737&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.071638" lon="8.801209"><ele>7</ele></trkpt>
+   <trkpt lat="53.072006" lon="8.80087"><ele>7</ele></trkpt>
+   <trkpt lat="53.072163" lon="8.800694"><ele>6.25</ele></trkpt>
+   <trkpt lat="53.072228" lon="8.800613"><ele>6</ele></trkpt>
+   <trkpt lat="53.07274" lon="8.799904"><ele>6.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

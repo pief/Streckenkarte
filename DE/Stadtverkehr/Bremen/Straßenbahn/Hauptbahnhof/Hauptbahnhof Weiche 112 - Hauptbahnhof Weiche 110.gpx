@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 23 filtered ascend = 0 plain-ascend = 0 cost=46 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hauptbahnhof Weiche 112 - Hauptbahnhof Weiche 110</name>
+  <link href="https://bikerouter.de/#map=19/53.08182/8.81334/osm-mapnik-german_style&amp;lonlats=8.812036,53.082016;8.811826,53.081857&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.082016" lon="8.812033"><ele>4</ele></trkpt>
+   <trkpt lat="53.081858" lon="8.81183"><ele>4.25</ele></trkpt>
+   <trkpt lat="53.081855" lon="8.811827"><ele>4.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

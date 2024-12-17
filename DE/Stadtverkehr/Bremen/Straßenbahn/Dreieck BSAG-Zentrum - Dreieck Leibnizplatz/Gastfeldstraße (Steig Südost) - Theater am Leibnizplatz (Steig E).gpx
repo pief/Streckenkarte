@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 489 filtered ascend = 1 plain-ascend = 1 cost=978 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Gastfeldstraße (Steig Südost) - Theater am Leibnizplatz (Steig E)</name>
+  <link href="https://bikerouter.de/#map=19/53.06917/8.79831/osm-mapnik-german_style&amp;lonlats=8.793531,53.066266;8.798635,53.069377&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.066267" lon="8.793527"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.066381" lon="8.793708"><ele>5</ele></trkpt>
+   <trkpt lat="53.067612" lon="8.795567"><ele>5</ele></trkpt>
+   <trkpt lat="53.068779" lon="8.797322"><ele>5</ele></trkpt>
+   <trkpt lat="53.068924" lon="8.797555"><ele>5</ele></trkpt>
+   <trkpt lat="53.069046" lon="8.797785"><ele>5</ele></trkpt>
+   <trkpt lat="53.069119" lon="8.797957"><ele>5</ele></trkpt>
+   <trkpt lat="53.069377" lon="8.798632"><ele>5.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

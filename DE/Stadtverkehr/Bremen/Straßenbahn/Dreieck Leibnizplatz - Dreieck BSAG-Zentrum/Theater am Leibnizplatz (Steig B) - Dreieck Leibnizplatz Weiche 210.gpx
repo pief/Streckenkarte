@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Theater am Leibnizplatz (Steig B) - Dreieck Leibnizplatz Weiche 210</name>
+  <link href="https://bikerouter.de/#map=19/53.06955/8.79860/osm-mapnik-german_style&amp;lonlats=8.799217,53.069733;8.798692,53.069433&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.069734" lon="8.799211"><ele>6</ele></trkpt>
+   <trkpt lat="53.069653" lon="8.799125"><ele>6</ele></trkpt>
+   <trkpt lat="53.069563" lon="8.798989"><ele>6</ele></trkpt>
+   <trkpt lat="53.069559" lon="8.798982"><ele>6</ele></trkpt>
+   <trkpt lat="53.0695" lon="8.798862"><ele>6</ele></trkpt>
+   <trkpt lat="53.069434" lon="8.798696"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.069432" lon="8.798691"><ele>5.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

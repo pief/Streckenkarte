@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 460 filtered ascend = 0 plain-ascend = 0 cost=920 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Leibnizplatz Weiche 210 - Gastfeldstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/53.06640/8.79396/osm-mapnik-german_style&amp;lonlats=8.798692,53.069433;8.79388,53.066532&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.069432" lon="8.798691"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.0694" lon="8.798605"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.069232" lon="8.798167"><ele>5</ele></trkpt>
+   <trkpt lat="53.069069" lon="8.797764"><ele>5</ele></trkpt>
+   <trkpt lat="53.068983" lon="8.797596"><ele>5</ele></trkpt>
+   <trkpt lat="53.068892" lon="8.797438"><ele>5</ele></trkpt>
+   <trkpt lat="53.068787" lon="8.797278"><ele>5</ele></trkpt>
+   <trkpt lat="53.067629" lon="8.795534"><ele>5</ele></trkpt>
+   <trkpt lat="53.06653" lon="8.793881"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

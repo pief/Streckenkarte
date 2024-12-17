@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 284 filtered ascend = 0 plain-ascend = 1 cost=568 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hochschule Bremen (Steig Südost) - Dreieck Langemarck-/Westerstraße Weiche 458</name>
+  <link href="https://bikerouter.de/#map=19/53.07440/8.79369/osm-mapnik-german_style&amp;lonlats=8.791013,53.072284;8.793791,53.074221&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.072283" lon="8.791012"><ele>5</ele></trkpt>
+   <trkpt lat="53.072314" lon="8.791054"><ele>5</ele></trkpt>
+   <trkpt lat="53.073051" lon="8.792058"><ele>5</ele></trkpt>
+   <trkpt lat="53.073613" lon="8.792877"><ele>5</ele></trkpt>
+   <trkpt lat="53.07422" lon="8.79379"><ele>5.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

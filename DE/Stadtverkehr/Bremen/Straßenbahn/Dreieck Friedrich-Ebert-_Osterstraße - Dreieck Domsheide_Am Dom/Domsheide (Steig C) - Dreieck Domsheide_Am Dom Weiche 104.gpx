@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 1 cost=68 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Domsheide (Steig C) - Dreieck Domsheide/Am Dom Weiche 104</name>
+  <link href="https://bikerouter.de/#map=19/53.07465/8.80898/osm-mapnik-german_style&amp;lonlats=8.808554,53.074679;8.80901,53.074759&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.074679" lon="8.808554"><ele>10.5</ele></trkpt>
+   <trkpt lat="53.074694" lon="8.808576"><ele>10.75</ele></trkpt>
+   <trkpt lat="53.07473" lon="8.808644"><ele>11</ele></trkpt>
+   <trkpt lat="53.074753" lon="8.808715"><ele>11</ele></trkpt>
+   <trkpt lat="53.07477" lon="8.808797"><ele>11</ele></trkpt>
+   <trkpt lat="53.074772" lon="8.80888"><ele>11</ele></trkpt>
+   <trkpt lat="53.07476" lon="8.809005"><ele>11</ele></trkpt>
+   <trkpt lat="53.074758" lon="8.809009"><ele>11</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

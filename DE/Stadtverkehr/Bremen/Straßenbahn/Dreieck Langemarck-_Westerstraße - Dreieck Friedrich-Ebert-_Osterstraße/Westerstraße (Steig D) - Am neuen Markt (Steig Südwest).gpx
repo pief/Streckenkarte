@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 1 plain-ascend = 1 cost=602 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Westerstraße (Steig D) - Am neuen Markt (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/53.07277/8.79986/osm-mapnik-german_style&amp;lonlats=8.795282,53.073984;8.799421,53.072918&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.073988" lon="8.795285"><ele>6</ele></trkpt>
+   <trkpt lat="53.07398" lon="8.795323"><ele>6</ele></trkpt>
+   <trkpt lat="53.073959" lon="8.795413"><ele>6</ele></trkpt>
+   <trkpt lat="53.073946" lon="8.795503"><ele>6</ele></trkpt>
+   <trkpt lat="53.073936" lon="8.795564"><ele>6</ele></trkpt>
+   <trkpt lat="53.073918" lon="8.795676"><ele>6</ele></trkpt>
+   <trkpt lat="53.073819" lon="8.796051"><ele>6</ele></trkpt>
+   <trkpt lat="53.073343" lon="8.797822"><ele>6</ele></trkpt>
+   <trkpt lat="53.073305" lon="8.797965"><ele>6</ele></trkpt>
+   <trkpt lat="53.072913" lon="8.799417"><ele>7</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

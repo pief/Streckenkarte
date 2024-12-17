@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 0 plain-ascend = -1 cost=300 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Friedrich-Ebert-/Osterstraße Weiche 199 - Dreieck Friedrich-Ebert-/Osterstraße Weiche 204</name>
+  <link href="https://bikerouter.de/#map=19/53.07130/8.80130/osm-mapnik-german_style&amp;lonlats=8.802972,53.071929;8.801052,53.071258&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.071928" lon="8.802971"><ele>8.5</ele></trkpt>
+   <trkpt lat="53.071929" lon="8.802973"><ele>8.25</ele></trkpt>
+   <trkpt lat="53.071819" lon="8.802717"><ele>8.25</ele></trkpt>
+   <trkpt lat="53.071694" lon="8.802355"><ele>8</ele></trkpt>
+   <trkpt lat="53.071682" lon="8.802317"><ele>8</ele></trkpt>
+   <trkpt lat="53.071617" lon="8.802115"><ele>8</ele></trkpt>
+   <trkpt lat="53.071457" lon="8.801609"><ele>8</ele></trkpt>
+   <trkpt lat="53.071448" lon="8.80158"><ele>8</ele></trkpt>
+   <trkpt lat="53.071442" lon="8.801561"><ele>8</ele></trkpt>
+   <trkpt lat="53.07142" lon="8.801492"><ele>8</ele></trkpt>
+   <trkpt lat="53.071378" lon="8.801365"><ele>7.75</ele></trkpt>
+   <trkpt lat="53.071348" lon="8.801277"><ele>7.5</ele></trkpt>
+   <trkpt lat="53.071343" lon="8.801265"><ele>7.5</ele></trkpt>
+   <trkpt lat="53.071318" lon="8.8012"><ele>7.25</ele></trkpt>
+   <trkpt lat="53.071258" lon="8.801057"><ele>7</ele></trkpt>
+   <trkpt lat="53.071256" lon="8.801053"><ele>6.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
