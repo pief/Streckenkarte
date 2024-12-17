@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = 0 cost=204 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>U Frankfurter Tor (Steig West) - Abzweig Frankfurter Tor Weiche 102</name>
+  <link href="https://bikerouter.de/#map=17/52.51524/13.45673/osm-mapnik-german_style&amp;lonlats=13.453729,52.515328;13.453339,52.514455&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.515326" lon="13.453729"><ele>36.75</ele></trkpt>
+   <trkpt lat="52.514722" lon="13.453453"><ele>36.25</ele></trkpt>
+   <trkpt lat="52.514472" lon="13.453346"><ele>36</ele></trkpt>
+   <trkpt lat="52.514455" lon="13.453339"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

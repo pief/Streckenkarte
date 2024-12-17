@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 0 plain-ascend = 0 cost=512 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Neue Bahnhofstraße (Steig Nordost) - Holteistraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/52.50848/13.46661/osm-mapnik-german_style&amp;lonlats=13.469136,52.506727;13.46661,52.508396&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.506727" lon="13.469136"><ele>36</ele></trkpt>
+   <trkpt lat="52.506728" lon="13.469134"><ele>36</ele></trkpt>
+   <trkpt lat="52.506807" lon="13.468939"><ele>36</ele></trkpt>
+   <trkpt lat="52.506955" lon="13.46863"><ele>36</ele></trkpt>
+   <trkpt lat="52.506983" lon="13.46858"><ele>36</ele></trkpt>
+   <trkpt lat="52.507114" lon="13.468352"><ele>36</ele></trkpt>
+   <trkpt lat="52.507289" lon="13.468108"><ele>35.75</ele></trkpt>
+   <trkpt lat="52.507519" lon="13.467797"><ele>36</ele></trkpt>
+   <trkpt lat="52.507596" lon="13.467696"><ele>36</ele></trkpt>
+   <trkpt lat="52.507649" lon="13.467627"><ele>36</ele></trkpt>
+   <trkpt lat="52.508137" lon="13.466956"><ele>36.25</ele></trkpt>
+   <trkpt lat="52.508209" lon="13.466858"><ele>36.25</ele></trkpt>
+   <trkpt lat="52.508393" lon="13.466612"><ele>36</ele></trkpt>
+   <trkpt lat="52.508395" lon="13.466608"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

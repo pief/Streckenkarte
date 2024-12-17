@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 296 filtered ascend = 0 plain-ascend = 0 cost=592 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wismarplatz (Steig Südwest) - Holteistraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.50870/13.46647/osm-mapnik-german_style&amp;lonlats=13.463438,52.510974;13.465968,52.508818&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.510978" lon="13.463451"><ele>36</ele></trkpt>
+   <trkpt lat="52.510729" lon="13.46369"><ele>36</ele></trkpt>
+   <trkpt lat="52.509949" lon="13.464457"><ele>36</ele></trkpt>
+   <trkpt lat="52.509837" lon="13.464593"><ele>36</ele></trkpt>
+   <trkpt lat="52.509635" lon="13.464867"><ele>36</ele></trkpt>
+   <trkpt lat="52.509538" lon="13.464999"><ele>36</ele></trkpt>
+   <trkpt lat="52.508824" lon="13.465969"><ele>36</ele></trkpt>
+   <trkpt lat="52.50882" lon="13.465973"><ele>36</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
