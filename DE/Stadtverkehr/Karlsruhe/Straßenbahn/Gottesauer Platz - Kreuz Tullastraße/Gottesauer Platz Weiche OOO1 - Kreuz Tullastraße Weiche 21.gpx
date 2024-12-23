@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 223 filtered ascend = 0 plain-ascend = 1 cost=446 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Gottesauer Platz Weiche OOO1 - Kreuz Tullastraße Weiche 21</name>
+  <link href="https://bikerouter.de/#map=19/49.00637/8.43088/osm-mapnik-german_style&amp;lonlats=8.427823,49.006973;8.430746,49.006426&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.006973" lon="8.427823"><ele>114</ele></trkpt>
+   <trkpt lat="49.006936" lon="8.428001"><ele>114</ele></trkpt>
+   <trkpt lat="49.006743" lon="8.429043"><ele>114</ele></trkpt>
+   <trkpt lat="49.006608" lon="8.429779"><ele>114</ele></trkpt>
+   <trkpt lat="49.006444" lon="8.430648"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.006441" lon="8.430666"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.006426" lon="8.430745"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.006425" lon="8.430745"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

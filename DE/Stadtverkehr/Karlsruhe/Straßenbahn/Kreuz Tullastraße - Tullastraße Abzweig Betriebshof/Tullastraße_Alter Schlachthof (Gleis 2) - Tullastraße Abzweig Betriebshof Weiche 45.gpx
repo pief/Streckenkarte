@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8 filtered ascend = 0 plain-ascend = 1 cost=16 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Tullastraße/Alter Schlachthof (Gleis 2) - Tullastraße Abzweig Betriebshof Weiche 45</name>
+  <link href="https://bikerouter.de/#map=18/49.00625/8.43375/osm-mapnik-german_style&amp;lonlats=8.433454,49.005916;8.43356,49.005896&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005916" lon="8.433454"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.00591" lon="8.433484"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.005899" lon="8.433535"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.005898" lon="8.433543"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.005895" lon="8.433559"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

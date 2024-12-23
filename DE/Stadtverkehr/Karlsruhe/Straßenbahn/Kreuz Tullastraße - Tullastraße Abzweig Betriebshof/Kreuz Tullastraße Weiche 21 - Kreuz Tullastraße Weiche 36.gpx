@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Tullastraße Weiche 21 - Kreuz Tullastraße Weiche 36</name>
+  <link href="https://bikerouter.de/#map=19/49.00612/8.43127/osm-mapnik-german_style&amp;lonlats=8.430746,49.006426;8.431374,49.006306&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.006425" lon="8.430745"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.006426" lon="8.430745"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.006413" lon="8.430812"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.006381" lon="8.430993"><ele>115</ele></trkpt>
+   <trkpt lat="49.006371" lon="8.431048"><ele>115</ele></trkpt>
+   <trkpt lat="49.006366" lon="8.431078"><ele>115</ele></trkpt>
+   <trkpt lat="49.006342" lon="8.431211"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.006308" lon="8.431374"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.006307" lon="8.431374"><ele>114.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

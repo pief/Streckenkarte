@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 395 filtered ascend = 0 plain-ascend = 0 cost=790 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Augartenstraße (Gleis 2) - Kongresszentrum (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/49.00254/8.40323/osm-mapnik-german_style&amp;lonlats=8.403505,48.999079;8.403202,49.00259">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.99908" lon="8.403514"><ele>113.75</ele></trkpt>
+   <trkpt lat="48.999179" lon="8.403475"><ele>113.75</ele></trkpt>
+   <trkpt lat="48.999185" lon="8.403472"><ele>113.75</ele></trkpt>
+   <trkpt lat="48.999248" lon="8.403446"><ele>113.75</ele></trkpt>
+   <trkpt lat="48.999617" lon="8.403292"><ele>113.75</ele></trkpt>
+   <trkpt lat="48.999621" lon="8.403291"><ele>113.75</ele></trkpt>
+   <trkpt lat="48.999633" lon="8.403285"><ele>113.75</ele></trkpt>
+   <trkpt lat="49.000038" lon="8.403133"><ele>114</ele></trkpt>
+   <trkpt lat="49.000278" lon="8.403075"><ele>113.75</ele></trkpt>
+   <trkpt lat="49.000471" lon="8.403043"><ele>114</ele></trkpt>
+   <trkpt lat="49.000744" lon="8.403034"><ele>114</ele></trkpt>
+   <trkpt lat="49.001175" lon="8.403065"><ele>114</ele></trkpt>
+   <trkpt lat="49.002071" lon="8.403143"/>
+   <trkpt lat="49.002589" lon="8.403192"/>
+  </trkseg>
+ </trk>
+</gpx>

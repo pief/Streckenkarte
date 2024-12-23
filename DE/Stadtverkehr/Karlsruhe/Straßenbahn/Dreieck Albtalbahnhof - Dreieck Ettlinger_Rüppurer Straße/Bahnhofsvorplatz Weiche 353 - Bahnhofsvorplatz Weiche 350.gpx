@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = 0 cost=170 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bahnhofsvorplatz Weiche 353 - Bahnhofsvorplatz Weiche 350</name>
+  <link href="https://bikerouter.de/#map=19/48.99488/8.40277/osm-mapnik-german_style&amp;lonlats=8.400923,48.994574;8.402028,48.994742">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.994575" lon="8.400921"><ele>116.25</ele></trkpt>
+   <trkpt lat="48.994624" lon="8.401421"><ele>116</ele></trkpt>
+   <trkpt lat="48.994645" lon="8.401607"><ele>116</ele></trkpt>
+   <trkpt lat="48.994661" lon="8.401707"><ele>116</ele></trkpt>
+   <trkpt lat="48.994671" lon="8.401761"><ele>116</ele></trkpt>
+   <trkpt lat="48.994689" lon="8.401841"><ele>116</ele></trkpt>
+   <trkpt lat="48.994737" lon="8.402026"><ele>116</ele></trkpt>
+   <trkpt lat="48.994738" lon="8.402029"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Poststraße (Gleis 2) - Dreieck Ettlinger/Rüppurer Straße Weiche 155 E</name>
+  <link href="https://bikerouter.de/#map=19/48.99550/8.40436/osm-mapnik-german_style&amp;lonlats=8.403988,48.995245;8.404399,48.995578">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.995244" lon="8.403987"><ele>115</ele></trkpt>
+   <trkpt lat="48.995247" lon="8.403995"><ele>115</ele></trkpt>
+   <trkpt lat="48.995261" lon="8.404049"><ele>115</ele></trkpt>
+   <trkpt lat="48.995265" lon="8.404066"><ele>115</ele></trkpt>
+   <trkpt lat="48.995269" lon="8.404082"><ele>115</ele></trkpt>
+   <trkpt lat="48.995318" lon="8.40425"><ele>114.75</ele></trkpt>
+   <trkpt lat="48.995359" lon="8.404322"><ele>115</ele></trkpt>
+   <trkpt lat="48.995377" lon="8.404346"><ele>115</ele></trkpt>
+   <trkpt lat="48.995446" lon="8.404392"><ele>115</ele></trkpt>
+   <trkpt lat="48.995576" lon="8.404404"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

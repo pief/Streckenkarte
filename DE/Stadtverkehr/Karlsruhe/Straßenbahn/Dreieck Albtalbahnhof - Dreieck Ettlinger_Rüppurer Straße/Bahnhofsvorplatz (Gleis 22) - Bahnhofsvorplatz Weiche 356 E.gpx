@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=14 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bahnhofsvorplatz (Gleis 22) - Bahnhofsvorplatz Weiche 356 E</name>
+  <link href="https://bikerouter.de/#map=19/48.99457/8.40058/osm-mapnik-german_style&amp;lonlats=8.400102,48.994471;8.400169,48.994485">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.994462" lon="8.400105"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.994463" lon="8.400108"><ele>116.75</ele></trkpt>
+   <trkpt lat="48.994472" lon="8.400146"><ele>116.75</ele></trkpt>
+   <trkpt lat="48.994479" lon="8.400172"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

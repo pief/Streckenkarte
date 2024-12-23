@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 0 plain-ascend = 0 cost=222 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Durlach Marktplatz Weiche 6 E - Üst Durlach Schlossplatz Weiche 5 E</name>
+  <link href="https://bikerouter.de/#map=19/48.99927/8.47324/osm-mapnik-german_style&amp;lonlats=8.471583,48.999183;8.473112,48.999122&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.999183" lon="8.471583"><ele>118</ele></trkpt>
+   <trkpt lat="48.999183" lon="8.471651"><ele>118</ele></trkpt>
+   <trkpt lat="48.999183" lon="8.471722"><ele>117.75</ele></trkpt>
+   <trkpt lat="48.999183" lon="8.471757"><ele>117.75</ele></trkpt>
+   <trkpt lat="48.999183" lon="8.47179"><ele>117.75</ele></trkpt>
+   <trkpt lat="48.999185" lon="8.471997"><ele>117.75</ele></trkpt>
+   <trkpt lat="48.999187" lon="8.472179"><ele>117</ele></trkpt>
+   <trkpt lat="48.999185" lon="8.472333"><ele>117</ele></trkpt>
+   <trkpt lat="48.999184" lon="8.4724"><ele>117</ele></trkpt>
+   <trkpt lat="48.999174" lon="8.472576"><ele>117</ele></trkpt>
+   <trkpt lat="48.999141" lon="8.47293"><ele>117</ele></trkpt>
+   <trkpt lat="48.999123" lon="8.473112"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

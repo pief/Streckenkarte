@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 182 filtered ascend = 0 plain-ascend = 1 cost=364 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Friedrichschule (Gleis 2) - Üst Durlach Marktplatz Weiche 6 E</name>
+  <link href="https://bikerouter.de/#map=19/48.99918/8.47181/osm-mapnik-german_style&amp;lonlats=8.469123,48.999259;8.471583,48.999183&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.999261" lon="8.469123"><ele>117.25</ele></trkpt>
+   <trkpt lat="48.999259" lon="8.469165"><ele>117.25</ele></trkpt>
+   <trkpt lat="48.999221" lon="8.469813"><ele>117.25</ele></trkpt>
+   <trkpt lat="48.999201" lon="8.470467"><ele>117.5</ele></trkpt>
+   <trkpt lat="48.999197" lon="8.470694"><ele>118</ele></trkpt>
+   <trkpt lat="48.99919" lon="8.471145"><ele>118</ele></trkpt>
+   <trkpt lat="48.999188" lon="8.471262"><ele>118</ele></trkpt>
+   <trkpt lat="48.999183" lon="8.471579"><ele>118</ele></trkpt>
+   <trkpt lat="48.999183" lon="8.471583"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

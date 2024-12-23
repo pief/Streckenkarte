@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = 0 cost=172 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Durlach Schlossplatz Weiche 5 E - Durlach Schlossplatz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.99918/8.47438/osm-mapnik-german_style&amp;lonlats=8.473112,48.999122;8.474273,48.999134&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.999123" lon="8.473112"><ele>117</ele></trkpt>
+   <trkpt lat="48.999123" lon="8.473116"><ele>117</ele></trkpt>
+   <trkpt lat="48.999106" lon="8.473281"><ele>116.75</ele></trkpt>
+   <trkpt lat="48.999085" lon="8.473518"><ele>117</ele></trkpt>
+   <trkpt lat="48.999088" lon="8.47376"><ele>117</ele></trkpt>
+   <trkpt lat="48.999102" lon="8.473956"><ele>117</ele></trkpt>
+   <trkpt lat="48.999139" lon="8.47427"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
