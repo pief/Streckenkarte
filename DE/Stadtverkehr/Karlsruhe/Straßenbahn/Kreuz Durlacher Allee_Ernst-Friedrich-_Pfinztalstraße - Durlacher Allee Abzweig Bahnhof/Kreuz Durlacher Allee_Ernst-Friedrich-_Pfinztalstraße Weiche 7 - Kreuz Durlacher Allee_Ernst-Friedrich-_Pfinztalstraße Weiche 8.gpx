@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 1 plain-ascend = 1 cost=20 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Durlacher Allee/Ernst-Friedrich-/Pfinztalstraße Weiche 7 - Kreuz Durlacher Allee/Ernst-Friedrich-/Pfinztalstraße Weiche 8</name>
+  <link href="https://bikerouter.de/#map=19/49.00037/8.46412/osm-mapnik-german_style&amp;lonlats=8.464355,49.000265;8.464247,49.000297&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.000265" lon="8.464355"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.000266" lon="8.464354"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.00028" lon="8.464304"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.000293" lon="8.464256"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.000295" lon="8.464246"><ele>117.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

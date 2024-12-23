@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 1 plain-ascend = 1 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Durlach Turmberg (Gleis 1) - Durlach Turmberg Weiche 2</name>
+  <link href="https://bikerouter.de/#map=18/48.99976/8.47894/osm-mapnik-german_style&amp;lonlats=8.478531,48.99986;8.478747,48.999483&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.999859" lon="8.47853"><ele>120</ele></trkpt>
+   <trkpt lat="48.999852" lon="8.47855"><ele>120</ele></trkpt>
+   <trkpt lat="48.999837" lon="8.478583"><ele>120</ele></trkpt>
+   <trkpt lat="48.999829" lon="8.478601"><ele>120</ele></trkpt>
+   <trkpt lat="48.999809" lon="8.478651"><ele>120</ele></trkpt>
+   <trkpt lat="48.999776" lon="8.478708"><ele>120.25</ele></trkpt>
+   <trkpt lat="48.999725" lon="8.478761"><ele>120.5</ele></trkpt>
+   <trkpt lat="48.999669" lon="8.478791"><ele>120.5</ele></trkpt>
+   <trkpt lat="48.999641" lon="8.478801"><ele>120.75</ele></trkpt>
+   <trkpt lat="48.99958" lon="8.4788"><ele>120.75</ele></trkpt>
+   <trkpt lat="48.999537" lon="8.478785"><ele>120.75</ele></trkpt>
+   <trkpt lat="48.999484" lon="8.478746"><ele>120.75</ele></trkpt>
+   <trkpt lat="48.999483" lon="8.478744"><ele>121.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
