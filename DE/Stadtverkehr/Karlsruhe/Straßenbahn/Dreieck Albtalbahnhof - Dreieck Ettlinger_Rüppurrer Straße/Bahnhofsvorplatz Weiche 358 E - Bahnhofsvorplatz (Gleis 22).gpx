@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 0 plain-ascend = 1 cost=220 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bahnhofsvorplatz Weiche 358 E - Bahnhofsvorplatz (Gleis 22)</name>
+  <link href="https://bikerouter.de/#map=19/48.99447/8.39973/osm-mapnik-german_style&amp;lonlats=8.398678,48.994212;8.400105,48.994462&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.994208" lon="8.398677"><ele>116</ele></trkpt>
+   <trkpt lat="48.994208" lon="8.398683"><ele>116</ele></trkpt>
+   <trkpt lat="48.994204" lon="8.39881"><ele>116</ele></trkpt>
+   <trkpt lat="48.994204" lon="8.398879"><ele>116</ele></trkpt>
+   <trkpt lat="48.994205" lon="8.398965"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.994214" lon="8.39906"><ele>116</ele></trkpt>
+   <trkpt lat="48.994237" lon="8.399216"><ele>116</ele></trkpt>
+   <trkpt lat="48.994264" lon="8.399341"><ele>116</ele></trkpt>
+   <trkpt lat="48.994461" lon="8.400104"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
