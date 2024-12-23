@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 87 filtered ascend = 0 plain-ascend = 0 cost=174 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Karlstor Weiche Ost-nach-Süd-Süd - Karlstor/Bundesgerichtshof (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/49.00450/8.39467/osm-mapnik-german_style&amp;lonlats=8.394593,49.005203;8.394514,49.004418&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005202" lon="8.394591"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.004493" lon="8.394519"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.004417" lon="8.394511"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

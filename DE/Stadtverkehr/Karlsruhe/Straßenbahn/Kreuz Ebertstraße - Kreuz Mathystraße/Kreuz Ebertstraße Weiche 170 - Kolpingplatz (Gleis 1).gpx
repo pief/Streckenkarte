@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 346 filtered ascend = 0 plain-ascend = 0 cost=692 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Ebertstraße Weiche 170 - Kolpingplatz (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.99766/8.39401/osm-mapnik-german_style&amp;lonlats=8.393514,48.994946;8.393839,48.99805&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.994944" lon="8.393515"><ele>116</ele></trkpt>
+   <trkpt lat="48.994946" lon="8.393516"><ele>116</ele></trkpt>
+   <trkpt lat="48.995331" lon="8.393556"><ele>116</ele></trkpt>
+   <trkpt lat="48.995989" lon="8.393625"><ele>116</ele></trkpt>
+   <trkpt lat="48.997141" lon="8.393744"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.997171" lon="8.393747"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.997255" lon="8.393755"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.997343" lon="8.393764"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.997725" lon="8.393806"><ele>116</ele></trkpt>
+   <trkpt lat="48.997772" lon="8.393811"><ele>116</ele></trkpt>
+   <trkpt lat="48.997799" lon="8.393814"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.997962" lon="8.393831"><ele>115.25</ele></trkpt>
+   <trkpt lat="48.998049" lon="8.393839"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

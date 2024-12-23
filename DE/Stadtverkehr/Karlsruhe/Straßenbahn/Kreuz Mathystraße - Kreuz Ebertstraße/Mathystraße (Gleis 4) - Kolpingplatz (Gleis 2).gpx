@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 488 filtered ascend = 0 plain-ascend = 1 cost=976 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Mathystraße (Gleis 4) - Kolpingplatz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.99771/8.39407/osm-mapnik-german_style&amp;lonlats=8.394225,49.001768;8.393715,48.997385&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.001766" lon="8.394226"><ele>115</ele></trkpt>
+   <trkpt lat="49.001641" lon="8.394202"><ele>115</ele></trkpt>
+   <trkpt lat="49.00153" lon="8.394185"><ele>115</ele></trkpt>
+   <trkpt lat="49.001509" lon="8.394181"><ele>115</ele></trkpt>
+   <trkpt lat="49.001082" lon="8.394117"><ele>115</ele></trkpt>
+   <trkpt lat="49.00077" lon="8.394074"><ele>115</ele></trkpt>
+   <trkpt lat="49.00031" lon="8.39403"><ele>115</ele></trkpt>
+   <trkpt lat="49.000189" lon="8.394017"><ele>115</ele></trkpt>
+   <trkpt lat="48.999949" lon="8.393993"><ele>115</ele></trkpt>
+   <trkpt lat="48.99961" lon="8.393957"><ele>115</ele></trkpt>
+   <trkpt lat="48.999279" lon="8.393923"><ele>115</ele></trkpt>
+   <trkpt lat="48.998808" lon="8.393875"><ele>115</ele></trkpt>
+   <trkpt lat="48.99834" lon="8.393823"><ele>115</ele></trkpt>
+   <trkpt lat="48.998316" lon="8.39382"><ele>115</ele></trkpt>
+   <trkpt lat="48.998255" lon="8.393811"><ele>115</ele></trkpt>
+   <trkpt lat="48.998196" lon="8.393802"><ele>115</ele></trkpt>
+   <trkpt lat="48.997935" lon="8.393775"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.997894" lon="8.39377"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.997792" lon="8.39376"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.997412" lon="8.39372"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.997383" lon="8.393717"><ele>115.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 262 filtered ascend = 1 plain-ascend = 1 cost=524 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Mathystraße Weiche 186 - Karlstor/Bundesgerichtshof (Gleis 3)</name>
+  <link href="https://bikerouter.de/#map=19/49.00478/8.39459/osm-mapnik-german_style&amp;lonlats=8.394383,49.002777;8.394614,49.005117&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.002775" lon="8.394386"><ele>115</ele></trkpt>
+   <trkpt lat="49.002995" lon="8.394411"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.003395" lon="8.39445"><ele>116</ele></trkpt>
+   <trkpt lat="49.004283" lon="8.394536"><ele>116</ele></trkpt>
+   <trkpt lat="49.004304" lon="8.394537"><ele>116</ele></trkpt>
+   <trkpt lat="49.004381" lon="8.394545"><ele>116</ele></trkpt>
+   <trkpt lat="49.005115" lon="8.394621"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
