@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 1 plain-ascend = 1 cost=350 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hauptbahnhof Weiche 701 - Hauptbahnhof Nord/Messe (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/53.08437/8.81693/osm-mapnik-german_style&amp;lonlats=8.816273,53.083025;8.81678,53.084556&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.083025" lon="8.816271"><ele>3</ele></trkpt>
+   <trkpt lat="53.083029" lon="8.816277"><ele>3</ele></trkpt>
+   <trkpt lat="53.083097" lon="8.816363"><ele>3</ele></trkpt>
+   <trkpt lat="53.08314" lon="8.816407"><ele>3</ele></trkpt>
+   <trkpt lat="53.083204" lon="8.816441"><ele>3</ele></trkpt>
+   <trkpt lat="53.083286" lon="8.816461"><ele>3</ele></trkpt>
+   <trkpt lat="53.083579" lon="8.816495"><ele>3</ele></trkpt>
+   <trkpt lat="53.083803" lon="8.816533"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.084011" lon="8.816585"><ele>4</ele></trkpt>
+   <trkpt lat="53.084094" lon="8.816611"><ele>4</ele></trkpt>
+   <trkpt lat="53.084168" lon="8.816635"><ele>4</ele></trkpt>
+   <trkpt lat="53.08426" lon="8.816665"><ele>4</ele></trkpt>
+   <trkpt lat="53.084554" lon="8.81678"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
