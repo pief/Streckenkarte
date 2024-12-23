@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = 0 cost=170 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Europahalle/Europabad Weiche Nord - Europahalle Abzweig Wendeschleife Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.00010/8.37725/osm-mapnik-german_style&amp;lonlats=8.376488,48.999511;8.376965,49.000184&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.999509" lon="8.376488"><ele>116</ele></trkpt>
+   <trkpt lat="48.999511" lon="8.376489"><ele>116</ele></trkpt>
+   <trkpt lat="48.999563" lon="8.376509"><ele>116</ele></trkpt>
+   <trkpt lat="48.999672" lon="8.376559"><ele>116</ele></trkpt>
+   <trkpt lat="48.999777" lon="8.376621"><ele>116</ele></trkpt>
+   <trkpt lat="48.999987" lon="8.376789"><ele>116</ele></trkpt>
+   <trkpt lat="49.000178" lon="8.376962"><ele>116</ele></trkpt>
+   <trkpt lat="49.000182" lon="8.376966"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

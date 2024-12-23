@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 193 filtered ascend = 0 plain-ascend = 0 cost=386 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Landesbausparkasse (Gleis 1) - Europahalle Abzweig Wendeschleife Weiche 125 E</name>
+  <link href="https://bikerouter.de/#map=18/49.00013/8.37735/osm-mapnik-german_style&amp;lonlats=8.377513,49.00135;8.376552,48.99975&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.001348" lon="8.377513"><ele>116</ele></trkpt>
+   <trkpt lat="49.001344" lon="8.377513"><ele>116</ele></trkpt>
+   <trkpt lat="49.001313" lon="8.37751"><ele>116</ele></trkpt>
+   <trkpt lat="49.001188" lon="8.377496"><ele>116</ele></trkpt>
+   <trkpt lat="49.001052" lon="8.377461"><ele>116</ele></trkpt>
+   <trkpt lat="49.000902" lon="8.377411"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.000724" lon="8.37733"><ele>116</ele></trkpt>
+   <trkpt lat="49.000563" lon="8.377232"><ele>116</ele></trkpt>
+   <trkpt lat="49.000449" lon="8.37715"><ele>116</ele></trkpt>
+   <trkpt lat="49.000304" lon="8.377028"><ele>116</ele></trkpt>
+   <trkpt lat="49.000001" lon="8.376743"><ele>116</ele></trkpt>
+   <trkpt lat="48.999881" lon="8.376645"><ele>116</ele></trkpt>
+   <trkpt lat="48.999748" lon="8.376554"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

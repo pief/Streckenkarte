@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 216 filtered ascend = 0 plain-ascend = 0 cost=432 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Landesbausparkasse (Gleis 2) - Kreuz Weinbrennerplatz Weiche 343 E/344 E</name>
+  <link href="https://bikerouter.de/#map=17/49.00313/8.37771/osm-mapnik-german_style&amp;lonlats=8.377625,49.001985;8.377821,49.003913&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.001984" lon="8.377624"><ele>116</ele></trkpt>
+   <trkpt lat="49.001997" lon="8.377626"><ele>116</ele></trkpt>
+   <trkpt lat="49.002031" lon="8.377629"><ele>116</ele></trkpt>
+   <trkpt lat="49.003306" lon="8.377759"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.003338" lon="8.377762"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.003692" lon="8.377798"><ele>115.25</ele></trkpt>
+   <trkpt lat="49.003879" lon="8.377819"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.003919" lon="8.377823"><ele>116</ele></trkpt>
+   <trkpt lat="49.003912" lon="8.37782"><ele>115.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
