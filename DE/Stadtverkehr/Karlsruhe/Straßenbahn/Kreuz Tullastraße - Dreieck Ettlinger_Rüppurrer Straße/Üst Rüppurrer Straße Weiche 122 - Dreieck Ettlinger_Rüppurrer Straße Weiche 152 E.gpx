@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=178 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Rüppurrer Straße Weiche 122 - Dreieck Ettlinger_Rüppurrer Straße Weiche 152 E</name>
+  <link href="https://bikerouter.de/#map=19/48.99599/8.40545/osm-mapnik-german_style&amp;lonlats=8.405978,48.995858;8.404764,48.995871&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.995858" lon="8.405978"><ele>114.75</ele></trkpt>
+   <trkpt lat="48.995863" lon="8.405422"><ele>115</ele></trkpt>
+   <trkpt lat="48.995863" lon="8.405411"><ele>115</ele></trkpt>
+   <trkpt lat="48.995868" lon="8.404864"><ele>115</ele></trkpt>
+   <trkpt lat="48.995869" lon="8.404777"><ele>115</ele></trkpt>
+   <trkpt lat="48.995869" lon="8.404764"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

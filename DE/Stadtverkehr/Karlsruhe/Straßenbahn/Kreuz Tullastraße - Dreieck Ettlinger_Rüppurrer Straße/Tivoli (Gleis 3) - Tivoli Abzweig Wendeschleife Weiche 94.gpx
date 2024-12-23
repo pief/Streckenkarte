@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=72 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Tivoli (Gleis 3) - Tivoli Abzweig Wendeschleife Weiche 94</name>
+  <link href="https://bikerouter.de/#map=19/48.99670/8.41063/osm-mapnik-german_style&amp;lonlats=8.410664,48.996753;8.410327,48.996538&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.996748" lon="8.410665"><ele>115</ele></trkpt>
+   <trkpt lat="48.996732" lon="8.410593"><ele>115</ele></trkpt>
+   <trkpt lat="48.996729" lon="8.410583"><ele>115</ele></trkpt>
+   <trkpt lat="48.996685" lon="8.410487"><ele>115</ele></trkpt>
+   <trkpt lat="48.996614" lon="8.410394"><ele>115</ele></trkpt>
+   <trkpt lat="48.99654" lon="8.410333"><ele>115</ele></trkpt>
+   <trkpt lat="48.996535" lon="8.41033"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

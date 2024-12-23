@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 129 filtered ascend = 1 plain-ascend = 1 cost=258 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Ettlinger_Rüppurrer Straße Weiche 154 - Poststraße (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.99498/8.40366/osm-mapnik-german_style&amp;lonlats=8.404353,48.995641;8.403036,48.995034&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.995641" lon="8.404355"><ele>115</ele></trkpt>
+   <trkpt lat="48.995554" lon="8.404357"><ele>115</ele></trkpt>
+   <trkpt lat="48.995519" lon="8.404357"><ele>115</ele></trkpt>
+   <trkpt lat="48.995432" lon="8.404316"><ele>115</ele></trkpt>
+   <trkpt lat="48.995386" lon="8.404267"><ele>115</ele></trkpt>
+   <trkpt lat="48.995337" lon="8.404185"><ele>115</ele></trkpt>
+   <trkpt lat="48.995299" lon="8.404065"><ele>115</ele></trkpt>
+   <trkpt lat="48.99529" lon="8.404032"><ele>115</ele></trkpt>
+   <trkpt lat="48.995109" lon="8.403333"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.995032" lon="8.403035"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
