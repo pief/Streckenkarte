@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 379 filtered ascend = 0 plain-ascend = 0 cost=758 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Falkenstraße (Steig Nordost) - Daniel-von-Büren-Straße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/53.08469/8.80313/osm-mapnik-german_style&amp;lonlats=8.806754,53.082898;8.802259,53.084973&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.082895" lon="8.80675"><ele>5.5</ele></trkpt>
+   <trkpt lat="53.082958" lon="8.80666"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.083114" lon="8.806404"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.083406" lon="8.805861"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.083777" lon="8.805087"><ele>6</ele></trkpt>
+   <trkpt lat="53.084011" lon="8.804535"><ele>5.5</ele></trkpt>
+   <trkpt lat="53.084476" lon="8.803399"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.084604" lon="8.803114"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.084643" lon="8.803028"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.084724" lon="8.802842"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.084971" lon="8.802258"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 374 filtered ascend = 2 plain-ascend = 2 cost=748 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Daniel-von-Büren-Straße (Steig Südwest) - Falkenstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/53.08261/8.80701/osm-mapnik-german_style&amp;lonlats=8.802768,53.084715;8.8071,53.082622&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.084719" lon="8.802773"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.084702" lon="8.802815"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.084621" lon="8.802999"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.084593" lon="8.803061"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.084455" lon="8.803373"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.084331" lon="8.803659"><ele>4</ele></trkpt>
+   <trkpt lat="53.084107" lon="8.804231"><ele>5</ele></trkpt>
+   <trkpt lat="53.083758" lon="8.805065"><ele>6</ele></trkpt>
+   <trkpt lat="53.083562" lon="8.805487"><ele>6</ele></trkpt>
+   <trkpt lat="53.083388" lon="8.805837"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.083095" lon="8.806376"><ele>5</ele></trkpt>
+   <trkpt lat="53.082986" lon="8.806564"><ele>5.5</ele></trkpt>
+   <trkpt lat="53.082941" lon="8.806629"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.082619" lon="8.807095"><ele>5.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

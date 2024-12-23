@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Doventorsteinweg Weiche 522 - Dreieck Doventorsteinweg Weiche 535</name>
+  <link href="https://bikerouter.de/#map=18/53.08391/8.79791/osm-mapnik-german_style&amp;lonlats=8.800349,53.084378;8.799542,53.084082&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.084378" lon="8.800347"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.084378" lon="8.800345"><ele>6</ele></trkpt>
+   <trkpt lat="53.08437" lon="8.800326"><ele>6</ele></trkpt>
+   <trkpt lat="53.084288" lon="8.800119"><ele>6</ele></trkpt>
+   <trkpt lat="53.084232" lon="8.799977"><ele>6</ele></trkpt>
+   <trkpt lat="53.08422" lon="8.799944"><ele>6</ele></trkpt>
+   <trkpt lat="53.084162" lon="8.799788"><ele>6</ele></trkpt>
+   <trkpt lat="53.08408" lon="8.799552"><ele>6</ele></trkpt>
+   <trkpt lat="53.084077" lon="8.799544"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
