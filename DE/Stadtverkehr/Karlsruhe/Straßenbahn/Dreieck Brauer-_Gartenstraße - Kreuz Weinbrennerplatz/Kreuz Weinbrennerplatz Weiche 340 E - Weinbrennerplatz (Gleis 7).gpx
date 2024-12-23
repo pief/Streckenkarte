@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=140 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Weinbrennerplatz Weiche 340 E - Weinbrennerplatz (Gleis 7)</name>
+  <link href="https://bikerouter.de/#map=19/49.00528/8.37880/osm-mapnik-german_style&amp;lonlats=8.379199,49.005284;8.37832,49.005537&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005287" lon="8.379201"><ele>116</ele></trkpt>
+   <trkpt lat="49.005288" lon="8.379198"><ele>116</ele></trkpt>
+   <trkpt lat="49.005413" lon="8.378762"><ele>116</ele></trkpt>
+   <trkpt lat="49.005507" lon="8.378432"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.005523" lon="8.378376"><ele>116</ele></trkpt>
+   <trkpt lat="49.005539" lon="8.378321"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

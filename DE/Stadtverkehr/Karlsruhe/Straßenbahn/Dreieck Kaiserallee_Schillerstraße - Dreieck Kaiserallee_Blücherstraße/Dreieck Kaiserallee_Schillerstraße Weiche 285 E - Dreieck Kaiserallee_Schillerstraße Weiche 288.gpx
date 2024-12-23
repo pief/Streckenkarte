@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 1 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Kaiserallee/Schillerstraße Weiche 285 E - Dreieck Kaiserallee/Schillerstraße Weiche 288</name>
+  <link href="https://bikerouter.de/#map=18/49.01092/8.37637/osm-mapnik-german_style&amp;lonlats=8.379819,49.01046;8.379481,49.010764&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010459" lon="8.379817"><ele>116</ele></trkpt>
+   <trkpt lat="49.010462" lon="8.379818"><ele>116</ele></trkpt>
+   <trkpt lat="49.010472" lon="8.379819"><ele>116</ele></trkpt>
+   <trkpt lat="49.010531" lon="8.379827"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.010574" lon="8.379817"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.010592" lon="8.379813"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.010598" lon="8.379811"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.010622" lon="8.379804"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.010662" lon="8.379766"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.010698" lon="8.379724"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010726" lon="8.379668"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010754" lon="8.379573"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010762" lon="8.379483"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010762" lon="8.37948"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

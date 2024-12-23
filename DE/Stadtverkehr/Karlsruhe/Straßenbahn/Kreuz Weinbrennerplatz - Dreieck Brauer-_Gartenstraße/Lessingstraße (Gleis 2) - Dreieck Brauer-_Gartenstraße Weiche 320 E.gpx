@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = 0 cost=202 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Lessingstraße (Gleis 2) - Dreieck Brauer-/Gartenstraße Weiche 320 E</name>
+  <link href="https://bikerouter.de/#map=18/49.00416/8.38620/osm-mapnik-german_style&amp;lonlats=8.384693,49.004341;8.386047,49.004284&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.004341" lon="8.384693"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.004338" lon="8.384776"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.004334" lon="8.384865"><ele>116</ele></trkpt>
+   <trkpt lat="49.004333" lon="8.384889"><ele>116</ele></trkpt>
+   <trkpt lat="49.004326" lon="8.385021"><ele>116</ele></trkpt>
+   <trkpt lat="49.004323" lon="8.385087"><ele>116</ele></trkpt>
+   <trkpt lat="49.004316" lon="8.385247"><ele>116</ele></trkpt>
+   <trkpt lat="49.004281" lon="8.386046"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

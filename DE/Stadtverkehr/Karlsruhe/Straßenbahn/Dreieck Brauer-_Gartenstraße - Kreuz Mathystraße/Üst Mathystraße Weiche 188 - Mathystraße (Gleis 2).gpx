@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = 0 cost=170 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Mathystraße Weiche 188 - Mathystraße (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.00253/8.39340/osm-mapnik-german_style&amp;lonlats=8.392678,49.002703;8.393826,49.002553&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.002699" lon="8.392676"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.002635" lon="8.39317"><ele>115.25</ele></trkpt>
+   <trkpt lat="49.002554" lon="8.393791"><ele>115.5</ele></trkpt>
+   <trkpt lat="49.002549" lon="8.393824"><ele>115.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

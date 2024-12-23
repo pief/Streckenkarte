@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 269 filtered ascend = 0 plain-ascend = 0 cost=538 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Otto-Sachs-Straße (Gleis 1) - Üst Mathystraße Weiche 188</name>
+  <link href="https://bikerouter.de/#map=19/49.00273/8.39284/osm-mapnik-german_style&amp;lonlats=8.389208,49.003493;8.392678,49.002703&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.003495" lon="8.38921"><ele>116</ele></trkpt>
+   <trkpt lat="49.003479" lon="8.389251"><ele>116</ele></trkpt>
+   <trkpt lat="49.003433" lon="8.389359"><ele>116</ele></trkpt>
+   <trkpt lat="49.003344" lon="8.389577"><ele>116</ele></trkpt>
+   <trkpt lat="49.003205" lon="8.389979"><ele>116</ele></trkpt>
+   <trkpt lat="49.003121" lon="8.390253"><ele>116</ele></trkpt>
+   <trkpt lat="49.003011" lon="8.390691"><ele>116</ele></trkpt>
+   <trkpt lat="49.002945" lon="8.391"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.00287" lon="8.391428"><ele>116</ele></trkpt>
+   <trkpt lat="49.002813" lon="8.391864"><ele>116</ele></trkpt>
+   <trkpt lat="49.002798" lon="8.391961"><ele>116</ele></trkpt>
+   <trkpt lat="49.0027" lon="8.392673"><ele>116</ele></trkpt>
+   <trkpt lat="49.002699" lon="8.392676"><ele>115.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

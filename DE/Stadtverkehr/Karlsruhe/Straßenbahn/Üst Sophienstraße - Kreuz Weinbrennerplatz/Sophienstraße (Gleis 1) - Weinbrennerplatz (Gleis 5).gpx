@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 189 filtered ascend = 0 plain-ascend = 0 cost=378 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Sophienstraße (Gleis 1) - Weinbrennerplatz (Gleis 5)</name>
+  <link href="https://bikerouter.de/#map=19/49.00613/8.37768/osm-mapnik-german_style&amp;lonlats=8.379057,49.007497;8.377944,49.005963&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.007495" lon="8.379057"><ele>116</ele></trkpt>
+   <trkpt lat="49.00748" lon="8.379045"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.007287" lon="8.378904"><ele>116</ele></trkpt>
+   <trkpt lat="49.006691" lon="8.378471"><ele>116</ele></trkpt>
+   <trkpt lat="49.006422" lon="8.378278"><ele>116</ele></trkpt>
+   <trkpt lat="49.006129" lon="8.378067"><ele>116</ele></trkpt>
+   <trkpt lat="49.006115" lon="8.378057"><ele>116</ele></trkpt>
+   <trkpt lat="49.005961" lon="8.377946"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

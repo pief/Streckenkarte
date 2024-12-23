@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 187 filtered ascend = 0 plain-ascend = 0 cost=374 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Weinbrennerplatz (Gleis 6) - Sophienstraße (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.00754/8.37927/osm-mapnik-german_style&amp;lonlats=8.378169,49.006224;8.379272,49.007731&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.006219" lon="8.378179"><ele>116</ele></trkpt>
+   <trkpt lat="49.006379" lon="8.378294"><ele>116</ele></trkpt>
+   <trkpt lat="49.006415" lon="8.378322"><ele>116</ele></trkpt>
+   <trkpt lat="49.006664" lon="8.378502"><ele>116</ele></trkpt>
+   <trkpt lat="49.007247" lon="8.378923"><ele>116</ele></trkpt>
+   <trkpt lat="49.007459" lon="8.379077"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.007512" lon="8.379116"><ele>116</ele></trkpt>
+   <trkpt lat="49.00773" lon="8.379271"><ele>116.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

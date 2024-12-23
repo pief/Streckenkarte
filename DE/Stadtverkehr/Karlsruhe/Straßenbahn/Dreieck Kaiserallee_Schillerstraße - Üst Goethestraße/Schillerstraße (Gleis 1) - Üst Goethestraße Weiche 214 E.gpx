@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 0 plain-ascend = 1 cost=52 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schillerstraße (Gleis 1) - Üst Goethestraße Weiche 214 E</name>
+  <link href="https://bikerouter.de/#map=19/49.00942/8.37963/osm-mapnik-german_style&amp;lonlats=8.379663,49.009772;8.379626,49.009536&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.009771" lon="8.379662"><ele>116</ele></trkpt>
+   <trkpt lat="49.009735" lon="8.379657"><ele>116</ele></trkpt>
+   <trkpt lat="49.009714" lon="8.379654"><ele>116</ele></trkpt>
+   <trkpt lat="49.009707" lon="8.379653"><ele>116</ele></trkpt>
+   <trkpt lat="49.009542" lon="8.379627"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.009535" lon="8.379625"><ele>116.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 227 filtered ascend = 0 plain-ascend = 1 cost=454 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Yorckstraße (Gleis 2) - Dreieck Kaiserallee/Schillerstraße Weiche 287 E</name>
+  <link href="https://bikerouter.de/#map=19/49.01063/8.37918/osm-mapnik-german_style&amp;lonlats=8.376298,49.010883;8.379395,49.010742&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010882" lon="8.376297"><ele>116</ele></trkpt>
+   <trkpt lat="49.010875" lon="8.376474"><ele>116</ele></trkpt>
+   <trkpt lat="49.010861" lon="8.376709"><ele>116</ele></trkpt>
+   <trkpt lat="49.010809" lon="8.377856"><ele>116</ele></trkpt>
+   <trkpt lat="49.01074" lon="8.379375"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.01074" lon="8.379377"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010738" lon="8.379394"><ele>116.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

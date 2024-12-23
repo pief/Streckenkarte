@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Weinbrennerplatz Weiche 168 E - Kreuz Weinbrennerplatz Weiche 269</name>
+  <link href="https://bikerouter.de/#map=18/49.00573/8.37914/osm-mapnik-german_style&amp;lonlats=8.377877,49.005854;8.378199,49.005553&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005853" lon="8.377879"><ele>116</ele></trkpt>
+   <trkpt lat="49.005843" lon="8.377874"><ele>116</ele></trkpt>
+   <trkpt lat="49.0058" lon="8.37788"><ele>116</ele></trkpt>
+   <trkpt lat="49.005788" lon="8.37788"><ele>116</ele></trkpt>
+   <trkpt lat="49.005777" lon="8.377881"><ele>116</ele></trkpt>
+   <trkpt lat="49.005745" lon="8.377889"><ele>116</ele></trkpt>
+   <trkpt lat="49.005717" lon="8.377904"><ele>116</ele></trkpt>
+   <trkpt lat="49.005686" lon="8.377924"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.005647" lon="8.377965"><ele>116</ele></trkpt>
+   <trkpt lat="49.00562" lon="8.378003"><ele>116</ele></trkpt>
+   <trkpt lat="49.005599" lon="8.378053"><ele>116</ele></trkpt>
+   <trkpt lat="49.005554" lon="8.378193"><ele>116</ele></trkpt>
+   <trkpt lat="49.005552" lon="8.378198"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

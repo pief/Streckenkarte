@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Weinbrennerplatz Weiche 270 E - Kreuz Weinbrennerplatz Weiche 168 E</name>
+  <link href="https://bikerouter.de/#map=19/49.00585/8.37840/osm-mapnik-german_style&amp;lonlats=8.377893,49.00588;8.377877,49.005854&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005879" lon="8.377892"><ele>116</ele></trkpt>
+   <trkpt lat="49.005877" lon="8.377891"><ele>116</ele></trkpt>
+   <trkpt lat="49.005853" lon="8.377879"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

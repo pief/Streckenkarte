@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 98 filtered ascend = 0 plain-ascend = 0 cost=198 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Sophienstraße Weiche 215 E - Sophienstraße (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.00769/8.37914/osm-mapnik-german_style&amp;lonlats=8.379426,49.008329;8.379055,49.007499&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.008328" lon="8.379426"><ele>116</ele></trkpt>
+   <trkpt lat="49.008007" lon="8.379377"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.007891" lon="8.379339"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.007825" lon="8.379304"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.007756" lon="8.379253"><ele>116.25</ele></trkpt>
+   <trkpt lat="49.007577" lon="8.379118"><ele>116</ele></trkpt>
+   <trkpt lat="49.007497" lon="8.379057"><ele>116.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

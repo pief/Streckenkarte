@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 27 filtered ascend = 0 plain-ascend = 0 cost=54 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Mathystraße (Gleis 1) - Üst Mathystraße Weiche 187</name>
+  <link href="https://bikerouter.de/#map=19/49.00267/8.39250/osm-mapnik-german_style&amp;lonlats=8.392723,49.002731;8.392366,49.002775&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.002726" lon="8.392721"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.00273" lon="8.392692"><ele>116</ele></trkpt>
+   <trkpt lat="49.002731" lon="8.39268"><ele>116</ele></trkpt>
+   <trkpt lat="49.002772" lon="8.392372"><ele>116</ele></trkpt>
+   <trkpt lat="49.002772" lon="8.392365"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
