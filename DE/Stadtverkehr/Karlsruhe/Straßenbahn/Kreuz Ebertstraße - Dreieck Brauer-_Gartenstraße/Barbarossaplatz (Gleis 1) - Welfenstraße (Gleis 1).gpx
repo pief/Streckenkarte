@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 0 plain-ascend = 0 cost=654 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Barbarossaplatz (Gleis 1) - Welfenstraße (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.99544/8.38539/osm-mapnik-german_style&amp;lonlats=8.388818,48.995004;8.384395,48.995388&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.995001" lon="8.388817"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.995006" lon="8.388758"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.995193" lon="8.386201"><ele>116</ele></trkpt>
+   <trkpt lat="48.995248" lon="8.38564"><ele>116</ele></trkpt>
+   <trkpt lat="48.9953" lon="8.385127"><ele>116</ele></trkpt>
+   <trkpt lat="48.995387" lon="8.384394"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
