@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schiermond (Steig Nordost) - Wendeschleife Vierhavensstraat Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/51.90483/4.44460/osm-mapnik-german_style&amp;lonlats=4.446249,51.904446;4.446046,51.904493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.904446" lon="4.446249"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.904459" lon="4.446193"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.904493" lon="4.446046"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

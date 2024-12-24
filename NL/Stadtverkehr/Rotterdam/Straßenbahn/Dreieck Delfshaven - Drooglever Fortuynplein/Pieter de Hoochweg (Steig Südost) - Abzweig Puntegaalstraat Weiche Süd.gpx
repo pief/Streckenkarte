@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 243 filtered ascend = 2 plain-ascend = 2 cost=486 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Pieter de Hoochweg (Steig Südost) - Abzweig Puntegaalstraat Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.90653/4.46303/osm-mapnik-german_style&amp;lonlats=4.46012,51.905361;4.463174,51.906453&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.90536" lon="4.460119"><ele>3</ele></trkpt>
+   <trkpt lat="51.905406" lon="4.460237"><ele>3</ele></trkpt>
+   <trkpt lat="51.905465" lon="4.460407"><ele>3</ele></trkpt>
+   <trkpt lat="51.9055" lon="4.460504"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.905554" lon="4.460655"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.906277" lon="4.462688"><ele>5</ele></trkpt>
+   <trkpt lat="51.90645" lon="4.463174"><ele>5.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
