@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 37 filtered ascend = 0 plain-ascend = 0 cost=74 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Konzerthaus (Gleis 3) - Konzerthaus Weiche 201</name>
+  <link href="https://bikerouter.de/#map=19/49.00368/8.40040/osm-mapnik-german_style&amp;lonlats=8.399987,49.003811;8.400408,49.003955&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.003811" lon="8.399984"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.003816" lon="8.39999"><ele>115</ele></trkpt>
+   <trkpt lat="49.003825" lon="8.4"><ele>115</ele></trkpt>
+   <trkpt lat="49.003883" lon="8.400078"><ele>115</ele></trkpt>
+   <trkpt lat="49.003907" lon="8.400127"><ele>115</ele></trkpt>
+   <trkpt lat="49.003931" lon="8.400201"><ele>115</ele></trkpt>
+   <trkpt lat="49.003945" lon="8.400291"><ele>115</ele></trkpt>
+   <trkpt lat="49.003951" lon="8.400407"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

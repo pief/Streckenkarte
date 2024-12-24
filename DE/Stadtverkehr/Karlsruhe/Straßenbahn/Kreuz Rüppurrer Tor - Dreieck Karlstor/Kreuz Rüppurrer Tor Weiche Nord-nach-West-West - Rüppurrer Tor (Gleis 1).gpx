@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = 0 cost=160 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Rüppurrer Tor Weiche Nord-nach-West-West - Rüppurrer Tor (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.00562/8.40878/osm-mapnik-german_style&amp;lonlats=8.409787,49.005949;8.408696,49.005827&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005949" lon="8.409785"><ele>114</ele></trkpt>
+   <trkpt lat="49.00593" lon="8.409605"><ele>114</ele></trkpt>
+   <trkpt lat="49.005834" lon="8.408765"><ele>114</ele></trkpt>
+   <trkpt lat="49.005825" lon="8.408696"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

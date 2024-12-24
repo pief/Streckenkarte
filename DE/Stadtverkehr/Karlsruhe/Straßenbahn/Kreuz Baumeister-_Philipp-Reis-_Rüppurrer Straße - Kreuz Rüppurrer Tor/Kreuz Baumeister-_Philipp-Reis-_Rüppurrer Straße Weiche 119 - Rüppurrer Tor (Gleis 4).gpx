@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 95 filtered ascend = 0 plain-ascend = 0 cost=190 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Baumeister-/Philipp-Reis-/Rüppurrer Straße Weiche 119 - Rüppurrer Tor (Gleis 4)</name>
+  <link href="https://bikerouter.de/#map=19/49.00538/8.41033/osm-mapnik-german_style&amp;lonlats=8.410412,49.004754;8.410382,49.005603&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.004754" lon="8.410416"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.004768" lon="8.410416"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.005073" lon="8.410407"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.005179" lon="8.410403"><ele>114</ele></trkpt>
+   <trkpt lat="49.00528" lon="8.4104"><ele>114</ele></trkpt>
+   <trkpt lat="49.005386" lon="8.410395"><ele>114</ele></trkpt>
+   <trkpt lat="49.005603" lon="8.410384"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

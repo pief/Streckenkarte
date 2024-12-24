@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 1 cost=20 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Rüppurrer Tor Weiche 144 E - Kreuz Rüppurrer Tor Weiche 145 E</name>
+  <link href="https://bikerouter.de/#map=19/49.00550/8.41002/osm-mapnik-german_style&amp;lonlats=8.410383,49.005622;8.410378,49.005696&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005622" lon="8.410383"><ele>114</ele></trkpt>
+   <trkpt lat="49.005625" lon="8.410383"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.005696" lon="8.410382"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.005696" lon="8.410381"><ele>114.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
