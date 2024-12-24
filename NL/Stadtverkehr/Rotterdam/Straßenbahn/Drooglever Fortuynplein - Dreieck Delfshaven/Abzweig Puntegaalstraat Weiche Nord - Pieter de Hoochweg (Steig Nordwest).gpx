@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 271 filtered ascend = 0 plain-ascend = -1 cost=542 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Puntegaalstraat Weiche Nord - Pieter de Hoochweg (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.90525/4.46002/osm-mapnik-german_style&amp;lonlats=4.463153,51.906477;4.459741,51.905261&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.906476" lon="4.463152"><ele>5.25</ele></trkpt>
+   <trkpt lat="51.906304" lon="4.462665"><ele>5</ele></trkpt>
+   <trkpt lat="51.90558" lon="4.460635"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.905526" lon="4.460484"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.905491" lon="4.460386"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.905433" lon="4.460218"><ele>3</ele></trkpt>
+   <trkpt lat="51.905262" lon="4.459739"><ele>3.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

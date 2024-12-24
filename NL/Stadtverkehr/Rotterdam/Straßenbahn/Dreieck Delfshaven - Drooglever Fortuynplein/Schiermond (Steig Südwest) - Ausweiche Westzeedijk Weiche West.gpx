@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 239 filtered ascend = 1 plain-ascend = 2 cost=478 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schiermond (Steig Südwest) - Ausweiche Westzeedijk Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.90360/4.45049/osm-mapnik-german_style&amp;lonlats=4.446999,51.904214;4.450268,51.9035&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.904214" lon="4.446999"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.904163" lon="4.447172"><ele>4</ele></trkpt>
+   <trkpt lat="51.904116" lon="4.447317"><ele>4</ele></trkpt>
+   <trkpt lat="51.904094" lon="4.44739"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.904046" lon="4.447546"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.903867" lon="4.448167"><ele>5</ele></trkpt>
+   <trkpt lat="51.903739" lon="4.448714"><ele>5</ele></trkpt>
+   <trkpt lat="51.90368" lon="4.449022"><ele>5</ele></trkpt>
+   <trkpt lat="51.903596" lon="4.449569"><ele>5</ele></trkpt>
+   <trkpt lat="51.903499" lon="4.450267"><ele>5.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

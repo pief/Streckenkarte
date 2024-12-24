@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = -1 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Euromast (Steig Nord) - Drooglever Fortuynplein Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=18/51.90856/4.46650/osm-mapnik-german_style&amp;lonlats=4.46695,51.908364;4.466321,51.908432&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.908365" lon="4.46695"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.908369" lon="4.466865"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.908374" lon="4.466803"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.908388" lon="4.466677"><ele>4</ele></trkpt>
+   <trkpt lat="51.90843" lon="4.466322"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.90843" lon="4.46632"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = 0 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wendeschleife Vierhavensstraat Weiche Süd - Schiermond (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.90427/4.44668/osm-mapnik-german_style&amp;lonlats=4.446019,51.90447;4.447,51.904215&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.904468" lon="4.446018"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.904432" lon="4.446176"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.904332" lon="4.446577"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.904241" lon="4.446909"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.904214" lon="4.446999"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

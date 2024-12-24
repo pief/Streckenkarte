@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 336 filtered ascend = 0 plain-ascend = -3 cost=672 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kievitslaan (Steig Nordwest) - Euromast (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=17/51.90944/4.46904/osm-mapnik-german_style&amp;lonlats=4.471368,51.90963;4.46695,51.908364&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.90963" lon="4.471366"><ele>8.75</ele></trkpt>
+   <trkpt lat="51.909621" lon="4.471334"><ele>8.75</ele></trkpt>
+   <trkpt lat="51.909564" lon="4.471136"><ele>8.75</ele></trkpt>
+   <trkpt lat="51.9095" lon="4.470912"><ele>8.5</ele></trkpt>
+   <trkpt lat="51.908444" lon="4.467424"><ele>5</ele></trkpt>
+   <trkpt lat="51.908388" lon="4.467217"><ele>5</ele></trkpt>
+   <trkpt lat="51.90837" lon="4.467079"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.908365" lon="4.466956"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.908365" lon="4.46695"><ele>4.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
