@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kruisplein (Steig D) - Dreieck Kruisplein Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.92093/4.47146/osm-mapnik-german_style&amp;lonlats=4.471908,51.920702;4.47187,51.920839&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.920702" lon="4.471908"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.920704" lon="4.471908"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.920839" lon="4.471873"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

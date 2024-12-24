@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 224 filtered ascend = 1 plain-ascend = 2 cost=448 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Eendrachtsplein (Steig Südost-Südwest) - Museumpark (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.91492/4.47535/osm-mapnik-german_style&amp;lonlats=4.473447,51.916487;4.475163,51.914817&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.916489" lon="4.473453"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.916475" lon="4.473469"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.916447" lon="4.4735"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.916366" lon="4.473588"><ele>4</ele></trkpt>
+   <trkpt lat="51.916205" lon="4.473762"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.916114" lon="4.473862"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.915921" lon="4.474084"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.915883" lon="4.474138"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.915752" lon="4.47437"><ele>4</ele></trkpt>
+   <trkpt lat="51.915699" lon="4.474451"><ele>4</ele></trkpt>
+   <trkpt lat="51.915598" lon="4.474572"><ele>4</ele></trkpt>
+   <trkpt lat="51.915488" lon="4.474671"><ele>4</ele></trkpt>
+   <trkpt lat="51.915069" lon="4.474976"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.915015" lon="4.475014"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.914818" lon="4.475164"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.914817" lon="4.475164"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

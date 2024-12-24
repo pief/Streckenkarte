@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 5 plain-ascend = 6 cost=728 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Museumpark (Steig Südwest) - Kreuz Vasteland Weiche Nordwest-nach-Nordost-Nordwest</name>
+  <link href="https://bikerouter.de/#map=19/51.91182/4.47725/osm-mapnik-german_style&amp;lonlats=4.475164,51.914817;4.477216,51.911802&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.914817" lon="4.475164"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.913414" lon="4.47618"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.912975" lon="4.476513"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.912536" lon="4.476826"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.912403" lon="4.476901"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.911926" lon="4.477136"><ele>9.25</ele></trkpt>
+   <trkpt lat="51.911802" lon="4.477218"><ele>9.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
