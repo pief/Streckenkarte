@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 508 filtered ascend = 3 plain-ascend = 4 cost=1016 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Leuvehaven (Steig Ost) - Dreieck Beurs Weiche Südost-Ost</name>
+  <link href="https://bikerouter.de/#map=18/51.91790/4.48151/osm-mapnik-german_style&amp;lonlats=4.482037,51.913149;4.481277,51.917629&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.913149" lon="4.482037"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.913151" lon="4.482037"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.913216" lon="4.482033"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.913868" lon="4.482011"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.915771" lon="4.481952"><ele>5.25</ele></trkpt>
+   <trkpt lat="51.916289" lon="4.481919"><ele>6</ele></trkpt>
+   <trkpt lat="51.916322" lon="4.481916"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.916454" lon="4.481907"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.916491" lon="4.481904"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.916648" lon="4.481889"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.916798" lon="4.481846"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.916844" lon="4.481824"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.91691" lon="4.481785"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.917561" lon="4.481327"><ele>10.5</ele></trkpt>
+   <trkpt lat="51.917602" lon="4.481298"><ele>10.75</ele></trkpt>
+   <trkpt lat="51.917629" lon="4.481279"><ele>11</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 230 filtered ascend = 0 plain-ascend = 1 cost=460 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Vasteland (Steig Nordost-Südost) - Dreieck Leuvehaven Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.91223/4.48202/osm-mapnik-german_style&amp;lonlats=4.478492,51.91178;4.48169,51.912303&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.91178" lon="4.47849"><ele>8</ele></trkpt>
+   <trkpt lat="51.912057" lon="4.479385"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.912103" lon="4.47955"><ele>7</ele></trkpt>
+   <trkpt lat="51.912139" lon="4.479711"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.912187" lon="4.480006"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.912216" lon="4.480297"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.912301" lon="4.481689"><ele>8.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
