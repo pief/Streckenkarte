@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 329 filtered ascend = 1 plain-ascend = 0 cost=658 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Van Duylstraat (Steig Nordost) - Zeilmakersstraat (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.91170/4.43855/osm-mapnik-german_style&amp;lonlats=4.442797,51.910525;4.438396,51.911648&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.910524" lon="4.442796"><ele>6</ele></trkpt>
+   <trkpt lat="51.910557" lon="4.442627"><ele>6</ele></trkpt>
+   <trkpt lat="51.910979" lon="4.440626"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.911041" lon="4.440392"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.911645" lon="4.438397"><ele>5</ele></trkpt>
+   <trkpt lat="51.911645" lon="4.438394"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

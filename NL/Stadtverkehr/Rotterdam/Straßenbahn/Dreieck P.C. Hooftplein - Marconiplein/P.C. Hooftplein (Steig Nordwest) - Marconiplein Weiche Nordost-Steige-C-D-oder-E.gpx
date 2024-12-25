@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 0 plain-ascend = -3 cost=392 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>P.C. Hooftplein (Steig Nordwest) - Marconiplein Weiche Nordost-Steige-C-D-oder-E</name>
+  <link href="https://bikerouter.de/#map=19/51.91375/4.43269/osm-mapnik-german_style&amp;lonlats=4.434964,51.915291;4.433134,51.91395&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.915291" lon="4.434963"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.915255" lon="4.434918"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.914299" lon="4.433768"><ele>4</ele></trkpt>
+   <trkpt lat="51.914204" lon="4.433634"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.914089" lon="4.433426"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.913951" lon="4.433131"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

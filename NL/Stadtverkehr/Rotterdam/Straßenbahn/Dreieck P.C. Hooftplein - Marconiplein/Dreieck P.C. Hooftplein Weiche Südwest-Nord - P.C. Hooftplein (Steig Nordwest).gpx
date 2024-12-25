@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 0 plain-ascend = -1 cost=252 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck P.C. Hooftplein Weiche Südwest-Nord - P.C. Hooftplein (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.91550/4.43522/osm-mapnik-german_style&amp;lonlats=4.436191,51.91611;4.434965,51.915292&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.916108" lon="4.436191"><ele>8</ele></trkpt>
+   <trkpt lat="51.915937" lon="4.435777"><ele>8</ele></trkpt>
+   <trkpt lat="51.915866" lon="4.435655"><ele>8</ele></trkpt>
+   <trkpt lat="51.915798" lon="4.435566"><ele>8</ele></trkpt>
+   <trkpt lat="51.915735" lon="4.435499"><ele>8</ele></trkpt>
+   <trkpt lat="51.915295" lon="4.434968"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.915291" lon="4.434964"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

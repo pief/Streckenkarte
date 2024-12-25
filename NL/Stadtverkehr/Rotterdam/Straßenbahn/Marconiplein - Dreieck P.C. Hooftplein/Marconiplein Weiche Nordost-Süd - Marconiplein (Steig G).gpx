@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Marconiplein Weiche Nordost-Süd - Marconiplein (Steig G)</name>
+  <link href="https://bikerouter.de/#map=17/51.91496/4.43413/osm-mapnik-german_style&amp;lonlats=4.433021,51.913534;4.433259,51.91395&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.913534" lon="4.433023"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.913536" lon="4.433021"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.913604" lon="4.432955"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.913633" lon="4.432942"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.913669" lon="4.432937"><ele>3</ele></trkpt>
+   <trkpt lat="51.913729" lon="4.432955"><ele>3</ele></trkpt>
+   <trkpt lat="51.913764" lon="4.432987"><ele>3</ele></trkpt>
+   <trkpt lat="51.913816" lon="4.433054"><ele>3</ele></trkpt>
+   <trkpt lat="51.913947" lon="4.433258"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.913948" lon="4.433259"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

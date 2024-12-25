@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 254 filtered ascend = 4 plain-ascend = 5 cost=508 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Marconiplein (Steig G) - P.C. Hooftplein (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=18/51.91535/4.43457/osm-mapnik-german_style&amp;lonlats=4.433259,51.91395;4.435541,51.915719&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.913948" lon="4.433259"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.914069" lon="4.433454"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.914186" lon="4.433659"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.914281" lon="4.433806"><ele>4</ele></trkpt>
+   <trkpt lat="51.914522" lon="4.434109"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.915236" lon="4.434957"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.915718" lon="4.435536"><ele>8</ele></trkpt>
+   <trkpt lat="51.915719" lon="4.435538"><ele>8</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
