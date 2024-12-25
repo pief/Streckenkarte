@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 402 filtered ascend = 4 plain-ascend = 4 cost=804 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Station Noord (Steig Nordwest) - Soetendaalseweg (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.93947/4.47956/osm-mapnik-german_style&amp;lonlats=4.481075,51.94255;4.479407,51.939309&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.94255" lon="4.481071"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.942508" lon="4.481042"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.942409" lon="4.480961"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.942021" lon="4.480691"><ele>0</ele></trkpt>
+   <trkpt lat="51.941907" lon="4.480587"><ele>0</ele></trkpt>
+   <trkpt lat="51.941789" lon="4.480447"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.941537" lon="4.480117"><ele>1</ele></trkpt>
+   <trkpt lat="51.941458" lon="4.480016"><ele>1</ele></trkpt>
+   <trkpt lat="51.941135" lon="4.479601"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.941067" lon="4.479521"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.940937" lon="4.479374"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.940784" lon="4.479217"><ele>3</ele></trkpt>
+   <trkpt lat="51.940694" lon="4.479154"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.940604" lon="4.479118"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.940481" lon="4.479096"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.940414" lon="4.479096"><ele>4</ele></trkpt>
+   <trkpt lat="51.94033" lon="4.479107"><ele>4</ele></trkpt>
+   <trkpt lat="51.939587" lon="4.479337"><ele>4</ele></trkpt>
+   <trkpt lat="51.939312" lon="4.479411"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.939309" lon="4.479411"><ele>4.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

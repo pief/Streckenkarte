@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 1 cost=204 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wendeschleife Kleiweg Weiche Nord - Kleiweg (Inneres Gleis)</name>
+  <link href="https://bikerouter.de/#map=19/51.94490/4.46840/osm-mapnik-german_style&amp;lonlats=4.467696,51.945206;4.468117,51.944941&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.945204" lon="4.467694"><ele>-0.5</ele></trkpt>
+   <trkpt lat="51.945205" lon="4.467693"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.945214" lon="4.467604"><ele>-1</ele></trkpt>
+   <trkpt lat="51.945209" lon="4.467504"><ele>-1</ele></trkpt>
+   <trkpt lat="51.945189" lon="4.46743"><ele>-1</ele></trkpt>
+   <trkpt lat="51.945135" lon="4.467346"><ele>-1</ele></trkpt>
+   <trkpt lat="51.945099" lon="4.467322"><ele>-1</ele></trkpt>
+   <trkpt lat="51.945052" lon="4.46731"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.944987" lon="4.467331"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.944943" lon="4.467386"><ele>-0.5</ele></trkpt>
+   <trkpt lat="51.944909" lon="4.467448"><ele>-0.5</ele></trkpt>
+   <trkpt lat="51.944894" lon="4.467533"><ele>-0.5</ele></trkpt>
+   <trkpt lat="51.94489" lon="4.467592"><ele>-0.5</ele></trkpt>
+   <trkpt lat="51.944935" lon="4.468052"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.944939" lon="4.468116"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

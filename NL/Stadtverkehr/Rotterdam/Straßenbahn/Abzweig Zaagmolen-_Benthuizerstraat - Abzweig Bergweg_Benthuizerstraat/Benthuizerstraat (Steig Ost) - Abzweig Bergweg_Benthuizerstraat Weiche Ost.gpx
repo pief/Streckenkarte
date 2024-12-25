@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 246 filtered ascend = 0 plain-ascend = 1 cost=492 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Benthuizerstraat (Steig Ost) - Abzweig Bergweg/Benthuizerstraat Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.93827/4.47979/osm-mapnik-german_style&amp;lonlats=4.479554,51.936143;4.479675,51.938316&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.936141" lon="4.47956"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.936144" lon="4.479561"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.936196" lon="4.479577"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.936409" lon="4.479636"><ele>4</ele></trkpt>
+   <trkpt lat="51.93683" lon="4.47972"><ele>4</ele></trkpt>
+   <trkpt lat="51.936924" lon="4.479743"><ele>4</ele></trkpt>
+   <trkpt lat="51.937305" lon="4.479804"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.937381" lon="4.479815"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.937575" lon="4.47982"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.93767" lon="4.47982"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.938035" lon="4.47975"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.938313" lon="4.479678"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.938316" lon="4.479677"><ele>4.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

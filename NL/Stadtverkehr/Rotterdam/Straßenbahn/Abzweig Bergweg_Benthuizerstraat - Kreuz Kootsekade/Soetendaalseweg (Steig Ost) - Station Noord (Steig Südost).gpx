@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 415 filtered ascend = 0 plain-ascend = -2 cost=830 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Soetendaalseweg (Steig Ost) - Station Noord (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.94270/4.48151/osm-mapnik-german_style&amp;lonlats=4.479377,51.939578;4.481464,51.942873&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.939578" lon="4.479379"><ele>4</ele></trkpt>
+   <trkpt lat="51.93958" lon="4.479379"><ele>4</ele></trkpt>
+   <trkpt lat="51.939938" lon="4.479261"><ele>4</ele></trkpt>
+   <trkpt lat="51.940327" lon="4.479157"><ele>4</ele></trkpt>
+   <trkpt lat="51.940423" lon="4.479143"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.940491" lon="4.479143"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.940612" lon="4.479165"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.940701" lon="4.479207"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.94079" lon="4.479273"><ele>3</ele></trkpt>
+   <trkpt lat="51.940945" lon="4.479433"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.941076" lon="4.47958"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.941122" lon="4.479634"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.94144" lon="4.48005"><ele>1</ele></trkpt>
+   <trkpt lat="51.941506" lon="4.480137"><ele>1</ele></trkpt>
+   <trkpt lat="51.941877" lon="4.480608"><ele>0</ele></trkpt>
+   <trkpt lat="51.942033" lon="4.480749"><ele>0</ele></trkpt>
+   <trkpt lat="51.942403" lon="4.48102"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.942604" lon="4.481217"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.942645" lon="4.481256"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.942705" lon="4.481313"><ele>0.75</ele></trkpt>
+   <trkpt lat="51.942872" lon="4.481463"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
