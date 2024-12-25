@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 2 plain-ascend = 2 cost=180 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Hofplein Weiche Nordost-nach-Südost - Pompenburg (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.92461/4.47843/osm-mapnik-german_style&amp;lonlats=4.479911,51.924893;4.478667,51.924643&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.924892" lon="4.47991"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.924892" lon="4.479909"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.924864" lon="4.47977"><ele>6</ele></trkpt>
+   <trkpt lat="51.924833" lon="4.479614"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924821" lon="4.479557"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.924672" lon="4.478825"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.92464" lon="4.478667"><ele>7.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
