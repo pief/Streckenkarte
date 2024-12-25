@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 1 plain-ascend = 1 cost=82 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Spangen Spartastraat (Äußeres Gleis) - Spangen Spartastraat Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.91864/4.43399/osm-mapnik-german_style&amp;lonlats=4.433589,51.918715;4.433477,51.918407&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.918716" lon="4.433586"><ele>2</ele></trkpt>
+   <trkpt lat="51.918685" lon="4.433513"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.918643" lon="4.433453"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.9186" lon="4.43342"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.91856" lon="4.433403"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.918498" lon="4.433412"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.918451" lon="4.43344"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.918412" lon="4.433475"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.918407" lon="4.433479"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

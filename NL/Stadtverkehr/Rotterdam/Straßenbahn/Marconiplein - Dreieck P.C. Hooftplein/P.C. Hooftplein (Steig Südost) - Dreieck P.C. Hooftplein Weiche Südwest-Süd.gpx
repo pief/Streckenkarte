@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = 0 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>P.C. Hooftplein (Steig Südost) - Dreieck P.C. Hooftplein Weiche Südwest-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.91626/4.43621/osm-mapnik-german_style&amp;lonlats=4.435538,51.915719;4.436154,51.916063&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.915718" lon="4.435537"><ele>8</ele></trkpt>
+   <trkpt lat="51.915779" lon="4.435604"><ele>8</ele></trkpt>
+   <trkpt lat="51.915846" lon="4.43569"><ele>8</ele></trkpt>
+   <trkpt lat="51.915915" lon="4.435808"><ele>8</ele></trkpt>
+   <trkpt lat="51.916059" lon="4.436156"><ele>8</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

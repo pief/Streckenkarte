@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 116 filtered ascend = 1 plain-ascend = 2 cost=232 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Huygensstraat (Steig Südwest) - Dreieck P.C. Hooftplein Weiche Nordwest-West</name>
+  <link href="https://bikerouter.de/#map=19/51.91652/4.43655/osm-mapnik-german_style&amp;lonlats=4.435446,51.917407;4.43628,51.916512&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.917407" lon="4.435446"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.917185" lon="4.435656"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.917157" lon="4.435683"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.916514" lon="4.436286"><ele>7.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

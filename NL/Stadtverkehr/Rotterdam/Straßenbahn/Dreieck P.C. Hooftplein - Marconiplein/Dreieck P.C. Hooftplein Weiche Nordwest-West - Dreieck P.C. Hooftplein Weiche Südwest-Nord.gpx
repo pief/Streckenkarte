@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 1 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck P.C. Hooftplein Weiche Nordwest-West - Dreieck P.C. Hooftplein Weiche Südwest-Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.91651/4.43601/osm-mapnik-german_style&amp;lonlats=4.43628,51.916512;4.436191,51.91611&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.916514" lon="4.436286"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.916511" lon="4.436289"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.916429" lon="4.436354"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.916357" lon="4.436372"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.916303" lon="4.436371"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.91625" lon="4.436355"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.916215" lon="4.436331"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.916178" lon="4.436297"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.916122" lon="4.436214"><ele>8</ele></trkpt>
+   <trkpt lat="51.916111" lon="4.436196"><ele>8</ele></trkpt>
+   <trkpt lat="51.916108" lon="4.436191"><ele>8</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

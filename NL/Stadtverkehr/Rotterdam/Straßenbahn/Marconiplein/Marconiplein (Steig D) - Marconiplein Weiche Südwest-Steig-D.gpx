@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 1 plain-ascend = 1 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Marconiplein (Steig D) - Marconiplein Weiche Südwest-Steig-D</name>
+  <link href="https://bikerouter.de/#map=19/51.91350/4.43208/osm-mapnik-german_style&amp;lonlats=4.43217,51.913428;4.432407,51.913046&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.913426" lon="4.43217"><ele>3</ele></trkpt>
+   <trkpt lat="51.913368" lon="4.432127"><ele>3</ele></trkpt>
+   <trkpt lat="51.913316" lon="4.432091"><ele>3</ele></trkpt>
+   <trkpt lat="51.913262" lon="4.432076"><ele>3</ele></trkpt>
+   <trkpt lat="51.913224" lon="4.432079"><ele>3</ele></trkpt>
+   <trkpt lat="51.913149" lon="4.432122"><ele>3</ele></trkpt>
+   <trkpt lat="51.913119" lon="4.432162"><ele>3</ele></trkpt>
+   <trkpt lat="51.913082" lon="4.432231"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.913049" lon="4.432399"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.913048" lon="4.432407"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
