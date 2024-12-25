@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 1 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst St. Petersburger Straße Weiche Nord-Ost - St. Petersburger Straße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.13526/12.05719/osm-mapnik-german_style&amp;lonlats=12.057117,54.134866;12.057098,54.1353&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.134865" lon="12.057115"><ele>5</ele></trkpt>
+   <trkpt lat="54.134917" lon="12.057112"><ele>5</ele></trkpt>
+   <trkpt lat="54.1353" lon="12.057105"><ele>5.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

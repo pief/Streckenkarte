@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 0 plain-ascend = 0 cost=702 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Elmenhorster Weg (Steig B) - Üst Mecklenburger Allee</name>
+  <link href="https://bikerouter.de/#map=19/54.15473/12.05960/osm-mapnik-german_style&amp;lonlats=12.058667,54.151562;12.059405,54.154669&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.15156" lon="12.058675"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.151718" lon="12.058724"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.15256" lon="12.058969"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.153212" lon="12.059112"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.153735" lon="12.059217"><ele>4</ele></trkpt>
+   <trkpt lat="54.153878" lon="12.059246"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.153975" lon="12.059271"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.154126" lon="12.059299"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.154667" lon="12.059406"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

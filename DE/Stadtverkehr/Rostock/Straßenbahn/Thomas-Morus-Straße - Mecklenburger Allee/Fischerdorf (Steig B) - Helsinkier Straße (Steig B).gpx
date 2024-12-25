@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 401 filtered ascend = 2 plain-ascend = 2 cost=802 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Fischerdorf (Steig B) - Helsinkier Straße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.13268/12.05711/osm-mapnik-german_style&amp;lonlats=12.057386,54.129165;12.057165,54.132773&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.129165" lon="12.05739"><ele>3</ele></trkpt>
+   <trkpt lat="54.129237" lon="12.057388"><ele>3</ele></trkpt>
+   <trkpt lat="54.129659" lon="12.057376"><ele>2</ele></trkpt>
+   <trkpt lat="54.129745" lon="12.057373"><ele>2</ele></trkpt>
+   <trkpt lat="54.129919" lon="12.057367"><ele>2.5</ele></trkpt>
+   <trkpt lat="54.130221" lon="12.057331"><ele>3</ele></trkpt>
+   <trkpt lat="54.130735" lon="12.057265"><ele>4</ele></trkpt>
+   <trkpt lat="54.131182" lon="12.057221"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.13211" lon="12.057194"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.132249" lon="12.057186"><ele>4</ele></trkpt>
+   <trkpt lat="54.132361" lon="12.057184"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.132772" lon="12.057164"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

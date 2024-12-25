@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Mecklenburger Allee Weiche Nord - Mecklenburger Allee Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/54.15515/12.05938/osm-mapnik-german_style&amp;lonlats=12.059448,54.154861;12.059425,54.154728&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.154859" lon="12.059449"><ele>4</ele></trkpt>
+   <trkpt lat="54.154731" lon="12.059426"><ele>4</ele></trkpt>
+   <trkpt lat="54.154727" lon="12.059424"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
