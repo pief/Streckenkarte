@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 316 filtered ascend = 0 plain-ascend = 0 cost=634 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Turkuer Straße (Steig A) - Warnowallee (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/54.13922/12.05014/osm-mapnik-german_style&amp;lonlats=12.049735,54.141932;12.049572,54.139102&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.14193" lon="12.04974"><ele>6</ele></trkpt>
+   <trkpt lat="54.141845" lon="12.049739"><ele>6.25</ele></trkpt>
+   <trkpt lat="54.140064" lon="12.049732"><ele>6.25</ele></trkpt>
+   <trkpt lat="54.13972" lon="12.049708"><ele>5.75</ele></trkpt>
+   <trkpt lat="54.139614" lon="12.049686"><ele>6</ele></trkpt>
+   <trkpt lat="54.139535" lon="12.049671"><ele>6</ele></trkpt>
+   <trkpt lat="54.139102" lon="12.049579"><ele>5.75</ele></trkpt>
+   <trkpt lat="54.1391" lon="12.049578"><ele>5.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

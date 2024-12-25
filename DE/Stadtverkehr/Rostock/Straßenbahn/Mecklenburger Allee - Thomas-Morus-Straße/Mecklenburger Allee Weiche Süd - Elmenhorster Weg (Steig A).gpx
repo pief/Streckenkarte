@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 1 plain-ascend = 0 cost=770 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Mecklenburger Allee Weiche Süd - Elmenhorster Weg (Steig A)</name>
+  <link href="https://bikerouter.de/#map=18/54.15162/12.05879/osm-mapnik-german_style&amp;lonlats=12.059424,54.154727;12.058524,54.151314&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.154725" lon="12.059424"><ele>4</ele></trkpt>
+   <trkpt lat="54.154667" lon="12.059406"><ele>4</ele></trkpt>
+   <trkpt lat="54.154418" lon="12.059298"><ele>4</ele></trkpt>
+   <trkpt lat="54.154131" lon="12.059241"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.153979" lon="12.059211"><ele>4</ele></trkpt>
+   <trkpt lat="54.153881" lon="12.059189"><ele>4</ele></trkpt>
+   <trkpt lat="54.153739" lon="12.059156"><ele>4</ele></trkpt>
+   <trkpt lat="54.153215" lon="12.059056"><ele>4.5</ele></trkpt>
+   <trkpt lat="54.152759" lon="12.058961"><ele>4.25</ele></trkpt>
+   <trkpt lat="54.152186" lon="12.058812"><ele>5</ele></trkpt>
+   <trkpt lat="54.151758" lon="12.058675"><ele>5</ele></trkpt>
+   <trkpt lat="54.151323" lon="12.058532"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.151312" lon="12.058528"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
