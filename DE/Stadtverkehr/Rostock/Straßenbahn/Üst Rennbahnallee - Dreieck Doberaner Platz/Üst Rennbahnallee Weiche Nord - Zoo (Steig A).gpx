@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 0 plain-ascend = -8 cost=1024 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Rennbahnallee Weiche Nord - Zoo (Steig A)</name>
+  <link href="https://bikerouter.de/#map=18/54.07954/12.08874/osm-mapnik-german_style&amp;lonlats=12.087511,54.076423;12.089403,54.079802&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.076421" lon="12.087511"><ele>46.5</ele></trkpt>
+   <trkpt lat="54.076427" lon="12.087512"><ele>46.75</ele></trkpt>
+   <trkpt lat="54.076713" lon="12.087539"><ele>45.5</ele></trkpt>
+   <trkpt lat="54.076915" lon="12.087509"><ele>45</ele></trkpt>
+   <trkpt lat="54.077369" lon="12.087396"><ele>43.25</ele></trkpt>
+   <trkpt lat="54.079104" lon="12.08696"><ele>39</ele></trkpt>
+   <trkpt lat="54.079252" lon="12.086938"><ele>38.5</ele></trkpt>
+   <trkpt lat="54.079338" lon="12.086953"><ele>38.25</ele></trkpt>
+   <trkpt lat="54.0794" lon="12.086979"><ele>38</ele></trkpt>
+   <trkpt lat="54.079457" lon="12.087019"><ele>38</ele></trkpt>
+   <trkpt lat="54.079505" lon="12.087061"><ele>38</ele></trkpt>
+   <trkpt lat="54.079544" lon="12.08711"><ele>38</ele></trkpt>
+   <trkpt lat="54.079618" lon="12.087225"><ele>38</ele></trkpt>
+   <trkpt lat="54.079684" lon="12.087393"><ele>38</ele></trkpt>
+   <trkpt lat="54.079714" lon="12.087513"><ele>37.75</ele></trkpt>
+   <trkpt lat="54.079735" lon="12.087634"><ele>37.25</ele></trkpt>
+   <trkpt lat="54.079803" lon="12.088709"><ele>37.5</ele></trkpt>
+   <trkpt lat="54.079805" lon="12.089402"><ele>37.5</ele></trkpt>
+   <trkpt lat="54.079804" lon="12.089403"><ele>37.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

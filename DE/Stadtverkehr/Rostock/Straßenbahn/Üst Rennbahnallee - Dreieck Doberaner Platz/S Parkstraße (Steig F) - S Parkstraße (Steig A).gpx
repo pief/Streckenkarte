@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 149 filtered ascend = 0 plain-ascend = -2 cost=298 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>S Parkstraße (Steig F) - S Parkstraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/54.08406/12.10905/osm-mapnik-german_style&amp;lonlats=12.108312,54.083223;12.109989,54.084141&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.083223" lon="12.108309"><ele>14.25</ele></trkpt>
+   <trkpt lat="54.083225" lon="12.108311"><ele>14.25</ele></trkpt>
+   <trkpt lat="54.08327" lon="12.108396"><ele>14.25</ele></trkpt>
+   <trkpt lat="54.083443" lon="12.108707"><ele>13.75</ele></trkpt>
+   <trkpt lat="54.083543" lon="12.108896"><ele>13.25</ele></trkpt>
+   <trkpt lat="54.083795" lon="12.109355"><ele>12.75</ele></trkpt>
+   <trkpt lat="54.083969" lon="12.109673"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.084043" lon="12.109812"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.084052" lon="12.109829"><ele>12.25</ele></trkpt>
+   <trkpt lat="54.084128" lon="12.109968"><ele>11.5</ele></trkpt>
+   <trkpt lat="54.084139" lon="12.10999"><ele>11</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 225 filtered ascend = 5 plain-ascend = 5 cost=450 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Platz der Jugend Weiche West - Thierfelderstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.08029/12.10282/osm-mapnik-german_style&amp;lonlats=12.104557,54.081212;12.1018,54.08008&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.081211" lon="12.104557"><ele>22.75</ele></trkpt>
+   <trkpt lat="54.08107" lon="12.104301"><ele>23</ele></trkpt>
+   <trkpt lat="54.080929" lon="12.104025"><ele>23.75</ele></trkpt>
+   <trkpt lat="54.080864" lon="12.103884"><ele>24</ele></trkpt>
+   <trkpt lat="54.08059" lon="12.103324"><ele>25</ele></trkpt>
+   <trkpt lat="54.080547" lon="12.10324"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.080303" lon="12.102727"><ele>26</ele></trkpt>
+   <trkpt lat="54.080246" lon="12.102595"><ele>26</ele></trkpt>
+   <trkpt lat="54.080209" lon="12.102487"><ele>26</ele></trkpt>
+   <trkpt lat="54.080158" lon="12.102283"><ele>26.25</ele></trkpt>
+   <trkpt lat="54.080129" lon="12.102138"><ele>26.5</ele></trkpt>
+   <trkpt lat="54.080082" lon="12.101801"><ele>27</ele></trkpt>
+   <trkpt lat="54.080081" lon="12.101798"><ele>27.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

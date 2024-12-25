@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 383 filtered ascend = 0 plain-ascend = -2 cost=766 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Zoo (Steig A) - Dr.-Lorenz-Weg (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/54.07924/12.09541/osm-mapnik-german_style&amp;lonlats=12.089403,54.079802;12.095126,54.079311&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.079804" lon="12.089403"><ele>37.5</ele></trkpt>
+   <trkpt lat="54.079787" lon="12.090483"><ele>37.75</ele></trkpt>
+   <trkpt lat="54.079789" lon="12.091669"><ele>37</ele></trkpt>
+   <trkpt lat="54.079782" lon="12.091925"><ele>37</ele></trkpt>
+   <trkpt lat="54.079767" lon="12.092151"><ele>37</ele></trkpt>
+   <trkpt lat="54.079681" lon="12.092759"><ele>36.75</ele></trkpt>
+   <trkpt lat="54.079496" lon="12.093942"><ele>35.75</ele></trkpt>
+   <trkpt lat="54.079407" lon="12.09445"><ele>36</ele></trkpt>
+   <trkpt lat="54.079314" lon="12.095124"><ele>36</ele></trkpt>
+   <trkpt lat="54.079313" lon="12.095126"><ele>34.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
