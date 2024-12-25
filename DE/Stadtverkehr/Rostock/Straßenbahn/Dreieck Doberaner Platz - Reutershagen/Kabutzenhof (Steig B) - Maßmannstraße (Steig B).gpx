@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 354 filtered ascend = 5 plain-ascend = 5 cost=708 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kabutzenhof (Steig B) - Maßmannstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.09285/12.10773/osm-mapnik-german_style&amp;lonlats=12.112582,54.091874;12.107679,54.092966&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.091874" lon="12.112582"><ele>5</ele></trkpt>
+   <trkpt lat="54.091949" lon="12.112345"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.092001" lon="12.112177"><ele>4.75</ele></trkpt>
+   <trkpt lat="54.092051" lon="12.112018"><ele>5.25</ele></trkpt>
+   <trkpt lat="54.092662" lon="12.110071"><ele>8.5</ele></trkpt>
+   <trkpt lat="54.092825" lon="12.109549"><ele>9</ele></trkpt>
+   <trkpt lat="54.092863" lon="12.109399"><ele>9</ele></trkpt>
+   <trkpt lat="54.092923" lon="12.109188"><ele>9.75</ele></trkpt>
+   <trkpt lat="54.092986" lon="12.108978"><ele>10</ele></trkpt>
+   <trkpt lat="54.093018" lon="12.108835"><ele>10</ele></trkpt>
+   <trkpt lat="54.093038" lon="12.108692"><ele>10</ele></trkpt>
+   <trkpt lat="54.093047" lon="12.108519"><ele>10</ele></trkpt>
+   <trkpt lat="54.093036" lon="12.108305"><ele>10</ele></trkpt>
+   <trkpt lat="54.092969" lon="12.107678"><ele>10</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

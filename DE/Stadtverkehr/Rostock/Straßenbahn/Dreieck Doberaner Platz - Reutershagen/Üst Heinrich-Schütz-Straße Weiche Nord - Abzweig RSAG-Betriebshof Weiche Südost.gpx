@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Heinrich-Schütz-Straße Weiche Nord - Abzweig RSAG-Betriebshof Weiche Südost</name>
+  <link href="https://bikerouter.de/#map=19/54.09705/12.09212/osm-mapnik-german_style&amp;lonlats=12.092133,54.096772;12.092265,54.096648&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.096772" lon="12.092134"><ele>15</ele></trkpt>
+   <trkpt lat="54.096648" lon="12.092265"><ele>15</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

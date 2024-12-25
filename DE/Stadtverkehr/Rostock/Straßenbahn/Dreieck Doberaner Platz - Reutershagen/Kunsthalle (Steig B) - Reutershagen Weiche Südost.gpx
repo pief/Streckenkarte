@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 480 filtered ascend = 1 plain-ascend = 2 cost=960 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kunsthalle (Steig B) - Reutershagen Weiche Südost</name>
+  <link href="https://bikerouter.de/#map=19/54.10189/12.07942/osm-mapnik-german_style&amp;lonlats=12.086972,54.09956;12.080366,54.101412&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.09956" lon="12.086972"><ele>18.25</ele></trkpt>
+   <trkpt lat="54.099601" lon="12.086821"><ele>18.5</ele></trkpt>
+   <trkpt lat="54.099712" lon="12.086441"><ele>19</ele></trkpt>
+   <trkpt lat="54.101413" lon="12.080367"><ele>19.75</ele></trkpt>
+   <trkpt lat="54.101413" lon="12.080366"><ele>20</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

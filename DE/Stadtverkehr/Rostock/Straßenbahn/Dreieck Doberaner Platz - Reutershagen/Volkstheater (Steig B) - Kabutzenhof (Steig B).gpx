@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 397 filtered ascend = 0 plain-ascend = -8 cost=794 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Volkstheater (Steig B) - Kabutzenhof (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.09186/12.11286/osm-mapnik-german_style&amp;lonlats=12.117936,54.090216;12.112582,54.091874&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.090216" lon="12.117936"><ele>14</ele></trkpt>
+   <trkpt lat="54.090266" lon="12.117769"><ele>13.75</ele></trkpt>
+   <trkpt lat="54.090292" lon="12.117681"><ele>13.75</ele></trkpt>
+   <trkpt lat="54.091001" lon="12.115398"><ele>8.5</ele></trkpt>
+   <trkpt lat="54.091449" lon="12.11396"><ele>5.75</ele></trkpt>
+   <trkpt lat="54.091874" lon="12.112584"><ele>5.25</ele></trkpt>
+   <trkpt lat="54.091874" lon="12.112582"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 1 plain-ascend = 1 cost=530 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig RSAG-Betriebshof Weiche Südost - Abzweig RSAG-Betriebshof Weiche Mitte</name>
+  <link href="https://bikerouter.de/#map=19/54.09882/12.08988/osm-mapnik-german_style&amp;lonlats=12.092133,54.096772;12.089746,54.098656&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.096772" lon="12.092134"><ele>15</ele></trkpt>
+   <trkpt lat="54.096775" lon="12.092132"><ele>15</ele></trkpt>
+   <trkpt lat="54.097213" lon="12.091689"><ele>15</ele></trkpt>
+   <trkpt lat="54.097964" lon="12.090861"><ele>15.5</ele></trkpt>
+   <trkpt lat="54.098081" lon="12.090716"><ele>15.75</ele></trkpt>
+   <trkpt lat="54.09819" lon="12.090558"><ele>15.75</ele></trkpt>
+   <trkpt lat="54.098409" lon="12.090198"><ele>16</ele></trkpt>
+   <trkpt lat="54.098652" lon="12.08975"><ele>16</ele></trkpt>
+   <trkpt lat="54.098654" lon="12.089744"><ele>16.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

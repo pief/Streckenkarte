@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 0 plain-ascend = 0 cost=146 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Evershagen Süd Weiche Südwest-Nord - Evershagen Süd (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.11642/12.06102/osm-mapnik-german_style&amp;lonlats=12.06162,54.116576;12.060558,54.116418&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.116571" lon="12.06162"><ele>10</ele></trkpt>
+   <trkpt lat="54.116518" lon="12.061256"><ele>10</ele></trkpt>
+   <trkpt lat="54.11642" lon="12.060564"><ele>10</ele></trkpt>
+   <trkpt lat="54.116419" lon="12.060556"><ele>10</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
