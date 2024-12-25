@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 160 filtered ascend = 0 plain-ascend = -1 cost=320 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Steinstraße Weiche Nord - Neuer Markt (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/54.08914/12.14011/osm-mapnik-german_style&amp;lonlats=12.140762,54.087738;12.140466,54.089159&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.087738" lon="12.140764"><ele>16.75</ele></trkpt>
+   <trkpt lat="54.087974" lon="12.140694"><ele>16.25</ele></trkpt>
+   <trkpt lat="54.088222" lon="12.140633"><ele>16</ele></trkpt>
+   <trkpt lat="54.088266" lon="12.140624"><ele>16</ele></trkpt>
+   <trkpt lat="54.088753" lon="12.140549"><ele>15.25</ele></trkpt>
+   <trkpt lat="54.089156" lon="12.14047"><ele>15</ele></trkpt>
+   <trkpt lat="54.089159" lon="12.140469"><ele>14.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 0 plain-ascend = 1 cost=52 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Beim Grünen Tor Weiche Nord-West - Üst Beim Grünen Tor Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/54.08891/12.12808/osm-mapnik-german_style&amp;lonlats=12.127664,54.089088;12.127656,54.088863&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.089086" lon="12.127666"><ele>13.25</ele></trkpt>
+   <trkpt lat="54.089081" lon="12.127666"><ele>13.5</ele></trkpt>
+   <trkpt lat="54.088866" lon="12.127661"><ele>14</ele></trkpt>
+   <trkpt lat="54.088861" lon="12.12766"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

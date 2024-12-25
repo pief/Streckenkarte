@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 0 plain-ascend = 0 cost=132 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Steintor Weiche Nord-West - Dreieck Steintor Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/54.08576/12.14114/osm-mapnik-german_style&amp;lonlats=12.141043,54.086246;12.14107,54.085671&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.086246" lon="12.141046"><ele>15.25</ele></trkpt>
+   <trkpt lat="54.086242" lon="12.141047"><ele>15.25</ele></trkpt>
+   <trkpt lat="54.086136" lon="12.141051"><ele>15</ele></trkpt>
+   <trkpt lat="54.08599" lon="12.141058"><ele>15</ele></trkpt>
+   <trkpt lat="54.085792" lon="12.141066"><ele>15</ele></trkpt>
+   <trkpt lat="54.08575" lon="12.141068"><ele>15</ele></trkpt>
+   <trkpt lat="54.085736" lon="12.141068"><ele>15</ele></trkpt>
+   <trkpt lat="54.085673" lon="12.141071"><ele>15</ele></trkpt>
+   <trkpt lat="54.085671" lon="12.141071"><ele>15</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

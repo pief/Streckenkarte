@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 2 plain-ascend = 2 cost=798 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Paulstraße (Steig B) - Rosa-Luxemburg-Straße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.08004/12.13666/osm-mapnik-german_style&amp;lonlats=12.140922,54.082318;12.136277,54.08011&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.082316" lon="12.140922"><ele>15.5</ele></trkpt>
+   <trkpt lat="54.082287" lon="12.140903"><ele>15.5</ele></trkpt>
+   <trkpt lat="54.081914" lon="12.14066"><ele>16</ele></trkpt>
+   <trkpt lat="54.081868" lon="12.140617"><ele>16</ele></trkpt>
+   <trkpt lat="54.081771" lon="12.140486"><ele>16</ele></trkpt>
+   <trkpt lat="54.081705" lon="12.140343"><ele>16</ele></trkpt>
+   <trkpt lat="54.08137" lon="12.139484"><ele>16</ele></trkpt>
+   <trkpt lat="54.081129" lon="12.138875"><ele>16</ele></trkpt>
+   <trkpt lat="54.081049" lon="12.138688"><ele>16.75</ele></trkpt>
+   <trkpt lat="54.08011" lon="12.13628"><ele>17.5</ele></trkpt>
+   <trkpt lat="54.080108" lon="12.136277"><ele>17</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
