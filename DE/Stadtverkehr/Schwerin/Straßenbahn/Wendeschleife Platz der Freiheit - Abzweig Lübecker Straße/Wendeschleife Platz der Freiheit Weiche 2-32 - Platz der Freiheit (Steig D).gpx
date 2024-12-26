@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 1 cost=128 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wendeschleife Platz der Freiheit Weiche 2-32 - Platz der Freiheit (Steig D)</name>
+  <link href="https://bikerouter.de/#map=19/53.63281/11.40308/osm-mapnik-german_style&amp;lonlats=11.40228,53.633115;11.402901,53.632681&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.633117" lon="11.402284"><ele>57.5</ele></trkpt>
+   <trkpt lat="53.632859" lon="11.402654"><ele>57.5</ele></trkpt>
+   <trkpt lat="53.632689" lon="11.402906"><ele>57.75</ele></trkpt>
+   <trkpt lat="53.632686" lon="11.40291"><ele>58</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

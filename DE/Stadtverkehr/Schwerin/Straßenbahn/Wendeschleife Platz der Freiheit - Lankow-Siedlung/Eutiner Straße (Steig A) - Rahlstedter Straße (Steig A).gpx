@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 318 filtered ascend = 2 plain-ascend = 3 cost=636 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Eutiner Straße (Steig A) - Rahlstedter Straße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.65082/11.36639/osm-mapnik-german_style&amp;lonlats=11.371421,53.650419;11.36666,53.650719&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.65042" lon="11.371421"><ele>49.75</ele></trkpt>
+   <trkpt lat="53.650421" lon="11.37142"><ele>50</ele></trkpt>
+   <trkpt lat="53.650428" lon="11.371352"><ele>50</ele></trkpt>
+   <trkpt lat="53.650519" lon="11.370152"><ele>50</ele></trkpt>
+   <trkpt lat="53.650718" lon="11.366659"><ele>52.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

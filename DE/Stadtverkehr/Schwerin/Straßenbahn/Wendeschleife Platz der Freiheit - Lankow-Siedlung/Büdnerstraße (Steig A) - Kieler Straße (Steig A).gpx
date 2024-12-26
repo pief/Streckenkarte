@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 398 filtered ascend = 4 plain-ascend = 4 cost=796 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Büdnerstraße (Steig A) - Kieler Straße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.64724/11.37737/osm-mapnik-german_style&amp;lonlats=11.381428,53.645462;11.376673,53.64747&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.645462" lon="11.381428"><ele>47</ele></trkpt>
+   <trkpt lat="53.645581" lon="11.381097"><ele>47</ele></trkpt>
+   <trkpt lat="53.645773" lon="11.380614"><ele>47.5</ele></trkpt>
+   <trkpt lat="53.64621" lon="11.379574"><ele>48</ele></trkpt>
+   <trkpt lat="53.646354" lon="11.379172"><ele>48</ele></trkpt>
+   <trkpt lat="53.646482" lon="11.378765"><ele>48</ele></trkpt>
+   <trkpt lat="53.646608" lon="11.378267"><ele>47.5</ele></trkpt>
+   <trkpt lat="53.646689" lon="11.37779"><ele>48</ele></trkpt>
+   <trkpt lat="53.646733" lon="11.377566"><ele>48</ele></trkpt>
+   <trkpt lat="53.64676" lon="11.377469"><ele>48.25</ele></trkpt>
+   <trkpt lat="53.646781" lon="11.377403"><ele>48.25</ele></trkpt>
+   <trkpt lat="53.646816" lon="11.37731"><ele>48.5</ele></trkpt>
+   <trkpt lat="53.646878" lon="11.377195"><ele>48.75</ele></trkpt>
+   <trkpt lat="53.646959" lon="11.37708"><ele>49</ele></trkpt>
+   <trkpt lat="53.647018" lon="11.377028"><ele>49.25</ele></trkpt>
+   <trkpt lat="53.647178" lon="11.376889"><ele>49.75</ele></trkpt>
+   <trkpt lat="53.647469" lon="11.376675"><ele>50.75</ele></trkpt>
+   <trkpt lat="53.64747" lon="11.376674"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

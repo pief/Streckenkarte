@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 507 filtered ascend = 1 plain-ascend = 0 cost=1014 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kieler Straße (Steig A) - Eutiner Straße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.65032/11.37227/osm-mapnik-german_style&amp;lonlats=11.376673,53.64747;11.371421,53.650419&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.64747" lon="11.376674"><ele>50.75</ele></trkpt>
+   <trkpt lat="53.647576" lon="11.376599"><ele>51</ele></trkpt>
+   <trkpt lat="53.647618" lon="11.376563"><ele>51.25</ele></trkpt>
+   <trkpt lat="53.647766" lon="11.376434"><ele>51</ele></trkpt>
+   <trkpt lat="53.647931" lon="11.376256"><ele>52</ele></trkpt>
+   <trkpt lat="53.648124" lon="11.37602"><ele>52.25</ele></trkpt>
+   <trkpt lat="53.648661" lon="11.375406"><ele>52.25</ele></trkpt>
+   <trkpt lat="53.649626" lon="11.374281"><ele>51</ele></trkpt>
+   <trkpt lat="53.649918" lon="11.373854"><ele>50.75</ele></trkpt>
+   <trkpt lat="53.650051" lon="11.373589"><ele>50</ele></trkpt>
+   <trkpt lat="53.650157" lon="11.373302"><ele>50</ele></trkpt>
+   <trkpt lat="53.650228" lon="11.373073"><ele>50</ele></trkpt>
+   <trkpt lat="53.650293" lon="11.372799"><ele>49.75</ele></trkpt>
+   <trkpt lat="53.650338" lon="11.372525"><ele>49.75</ele></trkpt>
+   <trkpt lat="53.65042" lon="11.371421"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
