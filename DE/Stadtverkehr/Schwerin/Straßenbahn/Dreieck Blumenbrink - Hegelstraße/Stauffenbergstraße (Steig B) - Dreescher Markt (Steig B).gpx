@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 320 filtered ascend = 2 plain-ascend = 1 cost=640 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Stauffenbergstraße (Steig B) - Dreescher Markt (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/53.60318/11.43352/osm-mapnik-german_style&amp;lonlats=11.428562,53.603427;11.433366,53.603312&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.603424" lon="11.428561"><ele>57.5</ele></trkpt>
+   <trkpt lat="53.603425" lon="11.428568"><ele>57.5</ele></trkpt>
+   <trkpt lat="53.603425" lon="11.428637"><ele>57.5</ele></trkpt>
+   <trkpt lat="53.603449" lon="11.42913"><ele>58.5</ele></trkpt>
+   <trkpt lat="53.603473" lon="11.42983"><ele>59.25</ele></trkpt>
+   <trkpt lat="53.603473" lon="11.430189"><ele>59.25</ele></trkpt>
+   <trkpt lat="53.60346" lon="11.430548"><ele>59.5</ele></trkpt>
+   <trkpt lat="53.603413" lon="11.431363"><ele>59</ele></trkpt>
+   <trkpt lat="53.603404" lon="11.431542"><ele>59</ele></trkpt>
+   <trkpt lat="53.603396" lon="11.431723"><ele>58.75</ele></trkpt>
+   <trkpt lat="53.60335" lon="11.432771"><ele>58</ele></trkpt>
+   <trkpt lat="53.603313" lon="11.433366"><ele>58</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

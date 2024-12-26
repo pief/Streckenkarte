@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 551 filtered ascend = 0 plain-ascend = -9 cost=1102 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Berliner Platz (Steig A) - Zoo (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.60201/11.44143/osm-mapnik-german_style&amp;lonlats=11.448749,53.599603;11.441472,53.601997&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.599605" lon="11.448751"><ele>60.25</ele></trkpt>
+   <trkpt lat="53.599626" lon="11.448688"><ele>60.25</ele></trkpt>
+   <trkpt lat="53.599916" lon="11.447822"><ele>59.25</ele></trkpt>
+   <trkpt lat="53.60065" lon="11.445789"><ele>55.25</ele></trkpt>
+   <trkpt lat="53.601382" lon="11.443468"><ele>50.5</ele></trkpt>
+   <trkpt lat="53.601673" lon="11.442523"><ele>51.25</ele></trkpt>
+   <trkpt lat="53.601994" lon="11.441479"><ele>51</ele></trkpt>
+   <trkpt lat="53.601996" lon="11.441471"><ele>50.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

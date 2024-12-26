@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 652 filtered ascend = 0 plain-ascend = -7 cost=1304 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Keplerstraße (Steig B) - Hegelstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/53.58714/11.47126/osm-mapnik-german_style&amp;lonlats=11.467443,53.59258;11.471054,53.587149&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.59258" lon="11.467444"><ele>74.75</ele></trkpt>
+   <trkpt lat="53.592579" lon="11.467446"><ele>75</ele></trkpt>
+   <trkpt lat="53.592554" lon="11.467473"><ele>75</ele></trkpt>
+   <trkpt lat="53.591428" lon="11.468461"><ele>74</ele></trkpt>
+   <trkpt lat="53.590568" lon="11.469087"><ele>72.25</ele></trkpt>
+   <trkpt lat="53.590094" lon="11.469389"><ele>71.5</ele></trkpt>
+   <trkpt lat="53.589584" lon="11.46967"><ele>70.75</ele></trkpt>
+   <trkpt lat="53.587154" lon="11.471054"><ele>66.75</ele></trkpt>
+   <trkpt lat="53.587149" lon="11.471056"><ele>66.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

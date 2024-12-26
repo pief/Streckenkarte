@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 549 filtered ascend = 9 plain-ascend = 10 cost=1098 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Zoo (Steig B) - Berliner Platz (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/53.59952/11.44868/osm-mapnik-german_style&amp;lonlats=11.441351,53.601997;11.448596,53.599616&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.601997" lon="11.44135"><ele>50.75</ele></trkpt>
+   <trkpt lat="53.601983" lon="11.441405"><ele>51.25</ele></trkpt>
+   <trkpt lat="53.601642" lon="11.442496"><ele>51.25</ele></trkpt>
+   <trkpt lat="53.601353" lon="11.443442"><ele>50.75</ele></trkpt>
+   <trkpt lat="53.600607" lon="11.445746"><ele>56.25</ele></trkpt>
+   <trkpt lat="53.600245" lon="11.446801"><ele>57.25</ele></trkpt>
+   <trkpt lat="53.599619" lon="11.448589"><ele>60.25</ele></trkpt>
+   <trkpt lat="53.599616" lon="11.448596"><ele>60.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

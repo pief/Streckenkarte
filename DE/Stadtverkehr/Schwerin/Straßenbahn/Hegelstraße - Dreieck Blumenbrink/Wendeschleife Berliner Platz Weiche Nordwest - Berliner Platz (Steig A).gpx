@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 83 filtered ascend = 0 plain-ascend = 1 cost=166 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wendeschleife Berliner Platz Weiche Nordwest - Berliner Platz (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.59934/11.44917/osm-mapnik-german_style&amp;lonlats=11.449822,53.599233;11.448749,53.599603&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.599233" lon="11.449822"><ele>59.5</ele></trkpt>
+   <trkpt lat="53.599294" lon="11.449639"><ele>59.25</ele></trkpt>
+   <trkpt lat="53.599605" lon="11.448753"><ele>60.25</ele></trkpt>
+   <trkpt lat="53.599605" lon="11.448751"><ele>60.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

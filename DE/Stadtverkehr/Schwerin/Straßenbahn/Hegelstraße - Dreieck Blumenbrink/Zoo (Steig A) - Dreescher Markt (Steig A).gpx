@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 556 filtered ascend = 7 plain-ascend = 7 cost=1112 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Zoo (Steig A) - Dreescher Markt (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.60331/11.43400/osm-mapnik-german_style&amp;lonlats=11.441472,53.601997;11.43353,53.60334&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.601996" lon="11.441471"><ele>50.75</ele></trkpt>
+   <trkpt lat="53.602012" lon="11.441423"><ele>50.75</ele></trkpt>
+   <trkpt lat="53.602784" lon="11.439022"><ele>52.75</ele></trkpt>
+   <trkpt lat="53.602932" lon="11.438455"><ele>54.75</ele></trkpt>
+   <trkpt lat="53.603047" lon="11.437836"><ele>55.5</ele></trkpt>
+   <trkpt lat="53.603112" lon="11.437297"><ele>55.75</ele></trkpt>
+   <trkpt lat="53.603157" lon="11.43676"><ele>57.5</ele></trkpt>
+   <trkpt lat="53.603339" lon="11.433532"><ele>58</ele></trkpt>
+   <trkpt lat="53.603339" lon="11.433529"><ele>58</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
