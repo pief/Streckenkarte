@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 609 filtered ascend = 0 plain-ascend = -3 cost=1218 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Haselholz (Steig A) - Ludwigsluster Chaussee (Steig A)</name>
+  <link href="https://bikerouter.de/#map=17/53.59855/11.42785/osm-mapnik-german_style&amp;lonlats=11.425338,53.595515;11.426854,53.600131&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.595512" lon="11.425338"><ele>64.75</ele></trkpt>
+   <trkpt lat="53.595513" lon="11.425341"><ele>64.75</ele></trkpt>
+   <trkpt lat="53.595711" lon="11.426171"><ele>64.75</ele></trkpt>
+   <trkpt lat="53.595861" lon="11.426695"><ele>62.5</ele></trkpt>
+   <trkpt lat="53.595995" lon="11.42704"><ele>64</ele></trkpt>
+   <trkpt lat="53.596167" lon="11.427325"><ele>63.5</ele></trkpt>
+   <trkpt lat="53.596381" lon="11.427586"><ele>63</ele></trkpt>
+   <trkpt lat="53.596676" lon="11.427786"><ele>62.5</ele></trkpt>
+   <trkpt lat="53.59687" lon="11.427871"><ele>62</ele></trkpt>
+   <trkpt lat="53.597148" lon="11.427887"><ele>61.75</ele></trkpt>
+   <trkpt lat="53.597433" lon="11.427822"><ele>61.75</ele></trkpt>
+   <trkpt lat="53.598056" lon="11.427606"><ele>60</ele></trkpt>
+   <trkpt lat="53.600131" lon="11.426856"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

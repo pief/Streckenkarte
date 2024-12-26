@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = 0 cost=160 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck NVS-Betriebshof Weiche Nordost-Süd - Haselholz (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.59530/11.42440/osm-mapnik-german_style&amp;lonlats=11.424212,53.595241;11.425338,53.595515&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.595243" lon="11.424209"><ele>65.75</ele></trkpt>
+   <trkpt lat="53.595279" lon="11.424371"><ele>65.75</ele></trkpt>
+   <trkpt lat="53.595512" lon="11.425338"><ele>64.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
