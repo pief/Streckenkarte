@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 1 plain-ascend = 1 cost=170 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Wiesenhügel Weiche Südwest-Ost - Dreieck Wiesenhügel Weiche Nordwest-Nord</name>
+  <link href="https://bikerouter.de/#map=18/50.95350/11.07242/osm-mapnik-german_style&amp;lonlats=11.072293,50.95289;11.072035,50.953556&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.952888" lon="11.072295"><ele>246.25</ele></trkpt>
+   <trkpt lat="50.952892" lon="11.0723"><ele>246.25</ele></trkpt>
+   <trkpt lat="50.952965" lon="11.072357"><ele>245.75</ele></trkpt>
+   <trkpt lat="50.953027" lon="11.072391"><ele>245.25</ele></trkpt>
+   <trkpt lat="50.953111" lon="11.072413"><ele>245.25</ele></trkpt>
+   <trkpt lat="50.953208" lon="11.072403"><ele>245</ele></trkpt>
+   <trkpt lat="50.953259" lon="11.072379"><ele>245</ele></trkpt>
+   <trkpt lat="50.953327" lon="11.072339"><ele>245</ele></trkpt>
+   <trkpt lat="50.953398" lon="11.072261"><ele>245</ele></trkpt>
+   <trkpt lat="50.953462" lon="11.072178"><ele>245.25</ele></trkpt>
+   <trkpt lat="50.95355" lon="11.072042"><ele>244.75</ele></trkpt>
+   <trkpt lat="50.953554" lon="11.072032"><ele>247.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

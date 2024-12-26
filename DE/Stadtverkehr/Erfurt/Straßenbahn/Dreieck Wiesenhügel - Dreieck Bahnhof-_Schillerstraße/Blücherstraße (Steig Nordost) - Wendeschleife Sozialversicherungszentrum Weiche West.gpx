@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 251 filtered ascend = 0 plain-ascend = -4 cost=502 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Blücherstraße (Steig Nordost) - Wendeschleife Sozialversicherungszentrum Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/50.95671/11.05963/osm-mapnik-german_style&amp;lonlats=11.062578,50.956298;11.059206,50.957019&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.956299" lon="11.062578"><ele>231</ele></trkpt>
+   <trkpt lat="50.956328" lon="11.06248"><ele>231</ele></trkpt>
+   <trkpt lat="50.956401" lon="11.062204"><ele>230.75</ele></trkpt>
+   <trkpt lat="50.956474" lon="11.061921"><ele>230</ele></trkpt>
+   <trkpt lat="50.956582" lon="11.061469"><ele>229.5</ele></trkpt>
+   <trkpt lat="50.95663" lon="11.061241"><ele>229</ele></trkpt>
+   <trkpt lat="50.956823" lon="11.06023"><ele>227.75</ele></trkpt>
+   <trkpt lat="50.95684" lon="11.06014"><ele>227.5</ele></trkpt>
+   <trkpt lat="50.956915" lon="11.05973"><ele>227</ele></trkpt>
+   <trkpt lat="50.957003" lon="11.059283"><ele>226.25</ele></trkpt>
+   <trkpt lat="50.957017" lon="11.05921"><ele>226</ele></trkpt>
+   <trkpt lat="50.957017" lon="11.059205"><ele>226</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

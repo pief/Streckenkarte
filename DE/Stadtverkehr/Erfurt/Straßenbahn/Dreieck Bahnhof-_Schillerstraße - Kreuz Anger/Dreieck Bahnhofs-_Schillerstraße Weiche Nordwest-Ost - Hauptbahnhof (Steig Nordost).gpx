@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 3 plain-ascend = 0 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Bahnhofs-/Schillerstraße Weiche Nordwest-Ost - Hauptbahnhof (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/50.97220/11.03704/osm-mapnik-german_style&amp;lonlats=11.0377,50.971561;11.036927,50.97257&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.971561" lon="11.037701"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.971687" lon="11.037597"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.971827" lon="11.03749"><ele>199.25</ele></trkpt>
+   <trkpt lat="50.972051" lon="11.037318"><ele>198</ele></trkpt>
+   <trkpt lat="50.972207" lon="11.037198"><ele>197</ele></trkpt>
+   <trkpt lat="50.972432" lon="11.037027"><ele>196</ele></trkpt>
+   <trkpt lat="50.972569" lon="11.036923"><ele>196</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

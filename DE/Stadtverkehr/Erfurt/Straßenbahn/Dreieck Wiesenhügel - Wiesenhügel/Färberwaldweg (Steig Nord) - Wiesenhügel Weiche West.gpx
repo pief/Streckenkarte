@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 367 filtered ascend = 12 plain-ascend = 12 cost=734 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Färberwaldweg (Steig Nord) - Wiesenhügel Weiche West</name>
+  <link href="https://bikerouter.de/#map=18/50.95065/11.06479/osm-mapnik-german_style&amp;lonlats=11.066764,50.950913;11.061628,50.950369&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.950913" lon="11.066762"><ele>258.75</ele></trkpt>
+   <trkpt lat="50.95091" lon="11.066712"><ele>259</ele></trkpt>
+   <trkpt lat="50.950897" lon="11.066521"><ele>259.5</ele></trkpt>
+   <trkpt lat="50.950851" lon="11.065742"><ele>261</ele></trkpt>
+   <trkpt lat="50.950781" lon="11.06474"><ele>262.75</ele></trkpt>
+   <trkpt lat="50.950667" lon="11.063583"><ele>266</ele></trkpt>
+   <trkpt lat="50.950608" lon="11.063126"><ele>267.75</ele></trkpt>
+   <trkpt lat="50.950574" lon="11.062887"><ele>268</ele></trkpt>
+   <trkpt lat="50.950541" lon="11.062709"><ele>268.25</ele></trkpt>
+   <trkpt lat="50.950368" lon="11.061627"><ele>271</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
