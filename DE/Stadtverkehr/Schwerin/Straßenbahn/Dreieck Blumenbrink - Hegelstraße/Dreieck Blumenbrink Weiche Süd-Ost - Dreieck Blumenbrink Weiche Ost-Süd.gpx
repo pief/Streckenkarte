@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 182 filtered ascend = 0 plain-ascend = 0 cost=364 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Blumenbrink Weiche Süd-Ost - Dreieck Blumenbrink Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=18/53.60309/11.42763/osm-mapnik-german_style&amp;lonlats=11.426112,53.602186;11.42753,53.603373&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.602186" lon="11.426112"><ele>59</ele></trkpt>
+   <trkpt lat="53.602189" lon="11.426111"><ele>59</ele></trkpt>
+   <trkpt lat="53.602422" lon="11.426082"><ele>59</ele></trkpt>
+   <trkpt lat="53.602524" lon="11.426095"><ele>58.75</ele></trkpt>
+   <trkpt lat="53.602728" lon="11.42619"><ele>58</ele></trkpt>
+   <trkpt lat="53.602879" lon="11.426311"><ele>58</ele></trkpt>
+   <trkpt lat="53.602994" lon="11.426441"><ele>57.25</ele></trkpt>
+   <trkpt lat="53.603106" lon="11.426615"><ele>57.25</ele></trkpt>
+   <trkpt lat="53.6032" lon="11.426808"><ele>57.75</ele></trkpt>
+   <trkpt lat="53.603272" lon="11.426997"><ele>57.25</ele></trkpt>
+   <trkpt lat="53.603322" lon="11.427188"><ele>56</ele></trkpt>
+   <trkpt lat="53.603373" lon="11.427528"><ele>57.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
