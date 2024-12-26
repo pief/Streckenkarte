@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Domplatz Süd (Steig West) - Abzweig Wendeschleife Stunzengasse Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/50.97685/11.02478/osm-mapnik-german_style&amp;lonlats=11.02499,50.976773;11.025,50.97672&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.976773" lon="11.02499"><ele>194</ele></trkpt>
+   <trkpt lat="50.97673" lon="11.025002"><ele>194</ele></trkpt>
+   <trkpt lat="50.97672" lon="11.025005"><ele>194</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
