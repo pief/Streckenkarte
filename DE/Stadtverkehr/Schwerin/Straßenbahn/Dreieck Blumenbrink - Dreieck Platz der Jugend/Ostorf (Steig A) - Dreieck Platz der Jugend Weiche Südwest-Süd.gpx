@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1010 filtered ascend = 0 plain-ascend = -2 cost=2020 energy=0.0kwh time=1m 21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Ostorf (Steig A) - Dreieck Platz der Jugend Weiche Südwest-Süd</name>
+  <link href="https://bikerouter.de/#map=19/53.62046/11.40905/osm-mapnik-german_style&amp;lonlats=11.416103,53.613676;11.40832,53.620441&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.613676" lon="11.416103"><ele>45</ele></trkpt>
+   <trkpt lat="53.613679" lon="11.416094"><ele>45.25</ele></trkpt>
+   <trkpt lat="53.61368" lon="11.416072"><ele>45.25</ele></trkpt>
+   <trkpt lat="53.614042" lon="11.414783"><ele>42.25</ele></trkpt>
+   <trkpt lat="53.614063" lon="11.414691"><ele>42.25</ele></trkpt>
+   <trkpt lat="53.614289" lon="11.413934"><ele>42.5</ele></trkpt>
+   <trkpt lat="53.614423" lon="11.413431"><ele>42</ele></trkpt>
+   <trkpt lat="53.614708" lon="11.41263"><ele>42</ele></trkpt>
+   <trkpt lat="53.614843" lon="11.412306"><ele>42</ele></trkpt>
+   <trkpt lat="53.615107" lon="11.411785"><ele>41.5</ele></trkpt>
+   <trkpt lat="53.615398" lon="11.411304"><ele>41.5</ele></trkpt>
+   <trkpt lat="53.615624" lon="11.410989"><ele>42</ele></trkpt>
+   <trkpt lat="53.615852" lon="11.410704"><ele>42.25</ele></trkpt>
+   <trkpt lat="53.616101" lon="11.410426"><ele>44.5</ele></trkpt>
+   <trkpt lat="53.616362" lon="11.410185"><ele>43.5</ele></trkpt>
+   <trkpt lat="53.619327" lon="11.407709"><ele>42.5</ele></trkpt>
+   <trkpt lat="53.619431" lon="11.407661"><ele>42.25</ele></trkpt>
+   <trkpt lat="53.619544" lon="11.407633"><ele>42.5</ele></trkpt>
+   <trkpt lat="53.619648" lon="11.407643"><ele>42.75</ele></trkpt>
+   <trkpt lat="53.619776" lon="11.407656"><ele>42.75</ele></trkpt>
+   <trkpt lat="53.619857" lon="11.407683"><ele>42.5</ele></trkpt>
+   <trkpt lat="53.619977" lon="11.407761"><ele>42</ele></trkpt>
+   <trkpt lat="53.620094" lon="11.407861"><ele>42</ele></trkpt>
+   <trkpt lat="53.620437" lon="11.408325"><ele>42</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

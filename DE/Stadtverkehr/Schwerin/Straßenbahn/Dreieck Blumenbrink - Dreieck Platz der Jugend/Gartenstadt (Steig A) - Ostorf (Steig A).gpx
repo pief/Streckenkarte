@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1068 filtered ascend = 0 plain-ascend = -6 cost=2136 energy=0.0kwh time=1m 25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Gartenstadt (Steig A) - Ostorf (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.61374/11.41622/osm-mapnik-german_style&amp;lonlats=11.425,53.606467;11.416101,53.613673&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.606466" lon="11.424994"><ele>52</ele></trkpt>
+   <trkpt lat="53.606501" lon="11.424989"><ele>52</ele></trkpt>
+   <trkpt lat="53.607404" lon="11.424885"><ele>49.75</ele></trkpt>
+   <trkpt lat="53.608343" lon="11.424787"><ele>48</ele></trkpt>
+   <trkpt lat="53.608692" lon="11.424733"><ele>50</ele></trkpt>
+   <trkpt lat="53.609034" lon="11.424628"><ele>48.25</ele></trkpt>
+   <trkpt lat="53.609327" lon="11.424456"><ele>48.5</ele></trkpt>
+   <trkpt lat="53.609585" lon="11.424273"><ele>46.25</ele></trkpt>
+   <trkpt lat="53.609809" lon="11.424021"><ele>46</ele></trkpt>
+   <trkpt lat="53.610049" lon="11.423727"><ele>45.25</ele></trkpt>
+   <trkpt lat="53.611987" lon="11.420359"><ele>41.5</ele></trkpt>
+   <trkpt lat="53.612599" lon="11.419154"><ele>42.25</ele></trkpt>
+   <trkpt lat="53.612808" lon="11.418651"><ele>43.5</ele></trkpt>
+   <trkpt lat="53.612842" lon="11.418582"><ele>43.75</ele></trkpt>
+   <trkpt lat="53.613162" lon="11.417767"><ele>44.75</ele></trkpt>
+   <trkpt lat="53.613676" lon="11.416103"><ele>45.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

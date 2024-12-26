@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = 0 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Platz der Jugend Weiche Südwest-Süd - Dreieck Platz der Jugend Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/53.62104/11.40911/osm-mapnik-german_style&amp;lonlats=11.40832,53.620441;11.408918,53.621241&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.620437" lon="11.408325"><ele>42</ele></trkpt>
+   <trkpt lat="53.620442" lon="11.408332"><ele>42</ele></trkpt>
+   <trkpt lat="53.62058" lon="11.408532"><ele>42</ele></trkpt>
+   <trkpt lat="53.620709" lon="11.408694"><ele>42</ele></trkpt>
+   <trkpt lat="53.62087" lon="11.408835"><ele>42</ele></trkpt>
+   <trkpt lat="53.620985" lon="11.408883"><ele>42</ele></trkpt>
+   <trkpt lat="53.62113" lon="11.40891"><ele>42</ele></trkpt>
+   <trkpt lat="53.621166" lon="11.408914"><ele>42</ele></trkpt>
+   <trkpt lat="53.621239" lon="11.40892"><ele>42</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
