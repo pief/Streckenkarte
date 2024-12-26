@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Anger (Steig 4) - Kreuz Anger Weiche 9936</name>
+  <link href="https://bikerouter.de/#map=19/50.97606/11.03476/osm-mapnik-german_style&amp;lonlats=11.034155,50.976264;11.034192,50.97622&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.976264" lon="11.034155"><ele>196</ele></trkpt>
+   <trkpt lat="50.976229" lon="11.034188"><ele>196</ele></trkpt>
+   <trkpt lat="50.976221" lon="11.034195"><ele>196</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

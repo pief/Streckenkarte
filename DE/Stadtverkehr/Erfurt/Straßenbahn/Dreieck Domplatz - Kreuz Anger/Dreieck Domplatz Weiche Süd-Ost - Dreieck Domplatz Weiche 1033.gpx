@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=90 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Domplatz Weiche Süd-Ost - Dreieck Domplatz Weiche 1033</name>
+  <link href="https://bikerouter.de/#map=19/50.97711/11.02558/osm-mapnik-german_style&amp;lonlats=11.024901,50.97723;11.025016,50.977451;11.025204,50.977539&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.97723" lon="11.024902"><ele>194</ele></trkpt>
+   <trkpt lat="50.977233" lon="11.024902"><ele>194</ele></trkpt>
+   <trkpt lat="50.977331" lon="11.024921"><ele>194</ele></trkpt>
+   <trkpt lat="50.977406" lon="11.024964"><ele>194</ele></trkpt>
+   <trkpt lat="50.977451" lon="11.025013"><ele>194</ele></trkpt>
+   <trkpt lat="50.977469" lon="11.025032"><ele>194</ele></trkpt>
+   <trkpt lat="50.977498" lon="11.025082"><ele>194</ele></trkpt>
+   <trkpt lat="50.977539" lon="11.025203"><ele>194</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

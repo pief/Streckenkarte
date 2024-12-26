@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 33 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Anger Weiche 9976 - Kreuz Anger Weiche 9935</name>
+  <link href="https://bikerouter.de/#map=19/50.97635/11.03399/osm-mapnik-german_style&amp;lonlats=11.034468,50.976001;11.034232,50.976235&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.976003" lon="11.034473"><ele>196</ele></trkpt>
+   <trkpt lat="50.976005" lon="11.034472"><ele>196</ele></trkpt>
+   <trkpt lat="50.97607" lon="11.034402"><ele>196</ele></trkpt>
+   <trkpt lat="50.976105" lon="11.034365"><ele>196</ele></trkpt>
+   <trkpt lat="50.976124" lon="11.034344"><ele>196</ele></trkpt>
+   <trkpt lat="50.976137" lon="11.034331"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.976231" lon="11.034239"><ele>196</ele></trkpt>
+   <trkpt lat="50.976235" lon="11.034235"><ele>196</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
