@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 0 plain-ascend = 0 cost=222 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Tannhäuserring Nordost - Tannhäuserring (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/49.45243/8.47797/osm-mapnik-german_style&amp;lonlats=8.478272,49.452636;8.476912,49.452193&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.452633" lon="8.478272"><ele>94</ele></trkpt>
+   <trkpt lat="49.452474" lon="8.477791"><ele>94</ele></trkpt>
+   <trkpt lat="49.45227" lon="8.477146"><ele>94</ele></trkpt>
+   <trkpt lat="49.452194" lon="8.476909"><ele>94</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

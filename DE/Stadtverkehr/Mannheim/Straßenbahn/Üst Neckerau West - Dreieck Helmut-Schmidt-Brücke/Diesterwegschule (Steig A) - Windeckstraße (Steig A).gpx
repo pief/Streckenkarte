@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 1 plain-ascend = 1 cost=686 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Diesterwegschule (Steig A) - Windeckstraße (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/49.47439/8.46896/osm-mapnik-german_style&amp;lonlats=8.469866,49.471607;8.468718,49.474592&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.471607" lon="8.469867"><ele>93</ele></trkpt>
+   <trkpt lat="49.471611" lon="8.469866"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.471689" lon="8.469838"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.471746" lon="8.469818"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.471944" lon="8.469714"><ele>93</ele></trkpt>
+   <trkpt lat="49.472147" lon="8.469576"><ele>93</ele></trkpt>
+   <trkpt lat="49.472193" lon="8.469552"><ele>93</ele></trkpt>
+   <trkpt lat="49.473693" lon="8.469023"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.473719" lon="8.469016"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.473764" lon="8.469003"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.473977" lon="8.468941"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.474213" lon="8.468856"><ele>94</ele></trkpt>
+   <trkpt lat="49.474593" lon="8.468726"><ele>94</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

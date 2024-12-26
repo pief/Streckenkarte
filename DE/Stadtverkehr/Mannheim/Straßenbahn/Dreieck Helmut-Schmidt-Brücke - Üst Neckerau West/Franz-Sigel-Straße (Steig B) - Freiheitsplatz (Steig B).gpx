@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 1 plain-ascend = 1 cost=800 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Franz-Sigel-Straße (Steig B) - Freiheitsplatz (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/49.45887/8.48001/osm-mapnik-german_style&amp;lonlats=8.477253,49.46227;8.479672,49.459033&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.462272" lon="8.47726"><ele>94</ele></trkpt>
+   <trkpt lat="49.462229" lon="8.477293"><ele>94</ele></trkpt>
+   <trkpt lat="49.461219" lon="8.478044"><ele>94</ele></trkpt>
+   <trkpt lat="49.460992" lon="8.478215"><ele>94</ele></trkpt>
+   <trkpt lat="49.460445" lon="8.478626"><ele>95</ele></trkpt>
+   <trkpt lat="49.459749" lon="8.479142"><ele>95</ele></trkpt>
+   <trkpt lat="49.459616" lon="8.47924"><ele>95</ele></trkpt>
+   <trkpt lat="49.459274" lon="8.479493"><ele>95</ele></trkpt>
+   <trkpt lat="49.459033" lon="8.479673"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 463 filtered ascend = 3 plain-ascend = 2 cost=926 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Mannheim Hauptbahnhof Süd (Steig A) - Dreieck Helmut-Schmidt-Brücke Weiche Südwest-Ost</name>
+  <link href="https://bikerouter.de/#map=19/49.48089/8.46682/osm-mapnik-german_style&amp;lonlats=8.467796,49.477386;8.465982,49.480945&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.477386" lon="8.467796"><ele>94.5</ele></trkpt>
+   <trkpt lat="49.47757" lon="8.467728"><ele>95</ele></trkpt>
+   <trkpt lat="49.477729" lon="8.46761"><ele>95</ele></trkpt>
+   <trkpt lat="49.477845" lon="8.467495"><ele>95</ele></trkpt>
+   <trkpt lat="49.47792" lon="8.467397"><ele>95</ele></trkpt>
+   <trkpt lat="49.478162" lon="8.466967"><ele>95</ele></trkpt>
+   <trkpt lat="49.478264" lon="8.46682"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.478339" lon="8.466728"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.478438" lon="8.466627"><ele>95.5</ele></trkpt>
+   <trkpt lat="49.478912" lon="8.466231"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.479275" lon="8.465944"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.479628" lon="8.465659"><ele>98</ele></trkpt>
+   <trkpt lat="49.47994" lon="8.465413"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.480023" lon="8.465365"/>
+   <trkpt lat="49.480092" lon="8.465337"/>
+   <trkpt lat="49.480167" lon="8.465319"/>
+   <trkpt lat="49.480223" lon="8.465319"/>
+   <trkpt lat="49.480285" lon="8.465331"/>
+   <trkpt lat="49.48034" lon="8.46535"/>
+   <trkpt lat="49.480422" lon="8.465406"/>
+   <trkpt lat="49.480507" lon="8.465475"/>
+   <trkpt lat="49.480568" lon="8.465547"/>
+   <trkpt lat="49.480943" lon="8.465984"/>
+  </trkseg>
+ </trk>
+</gpx>

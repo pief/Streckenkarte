@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Rheingoldhalle Weiche Ost - Rheingoldhalle Weiche Nordost</name>
+  <link href="https://bikerouter.de/#map=19/49.44991/8.47051/osm-mapnik-german_style&amp;lonlats=8.470293,49.449919;8.47051,49.450026&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.44992" lon="8.47029"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.449921" lon="8.470293"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.449986" lon="8.47043"><ele>92</ele></trkpt>
+   <trkpt lat="49.450025" lon="8.470506"><ele>92</ele></trkpt>
+   <trkpt lat="49.450026" lon="8.470508"><ele>92</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 336 filtered ascend = 0 plain-ascend = 0 cost=672 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>WIndeckstraße (Steig B) - Diesterwegstraße (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/49.47112/8.47058/osm-mapnik-german_style&amp;lonlats=8.468882,49.474017;8.469992,49.471082&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.474016" lon="8.468881"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.473762" lon="8.468981"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.473719" lon="8.469005"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.473692" lon="8.469014"><ele>93.75</ele></trkpt>
+   <trkpt lat="49.472192" lon="8.469544"><ele>93</ele></trkpt>
+   <trkpt lat="49.472145" lon="8.469569"><ele>93</ele></trkpt>
+   <trkpt lat="49.471993" lon="8.46967"><ele>93</ele></trkpt>
+   <trkpt lat="49.471682" lon="8.4698"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.471208" lon="8.46996"><ele>93</ele></trkpt>
+   <trkpt lat="49.471083" lon="8.47"><ele>93</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

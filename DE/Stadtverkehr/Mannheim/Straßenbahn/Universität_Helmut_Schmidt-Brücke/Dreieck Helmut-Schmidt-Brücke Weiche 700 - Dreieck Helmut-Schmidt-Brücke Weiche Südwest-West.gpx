@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 4 plain-ascend = 2 cost=220 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Helmut-Schmidt-Brücke Weiche 700 - Dreieck Helmut-Schmidt-Brücke Weiche Südwest-West</name>
+  <link href="https://bikerouter.de/#map=19/49.48100/8.46626/osm-mapnik-german_style&amp;lonlats=8.467218,49.480891;8.46595,49.480962&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.480891" lon="8.467218"><ele>98</ele></trkpt>
+   <trkpt lat="49.480892" lon="8.467216"><ele>98</ele></trkpt>
+   <trkpt lat="49.480989" lon="8.46698"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.481019" lon="8.466912"><ele>97.75</ele></trkpt>
+   <trkpt lat="49.481122" lon="8.466657"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.481146" lon="8.466571"><ele>101.5</ele></trkpt>
+   <trkpt lat="49.481159" lon="8.46648"><ele>102</ele></trkpt>
+   <trkpt lat="49.48116" lon="8.466393"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.481152" lon="8.466323"><ele>101.75</ele></trkpt>
+   <trkpt lat="49.481131" lon="8.466233"><ele>100.75</ele></trkpt>
+   <trkpt lat="49.481113" lon="8.466183"><ele>100</ele></trkpt>
+   <trkpt lat="49.481105" lon="8.466166"/>
+   <trkpt lat="49.481047" lon="8.466063"/>
+   <trkpt lat="49.480964" lon="8.465954"/>
+   <trkpt lat="49.480961" lon="8.46595"/>
+  </trkseg>
+ </trk>
+</gpx>

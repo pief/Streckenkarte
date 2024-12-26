@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = 1 cost=198 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Rheingoldhalle Weiche Nordost - Stollenwörth (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/49.44991/8.47051/osm-mapnik-german_style&amp;lonlats=8.47051,49.450031;8.471645,49.450528&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.450028" lon="8.470512"><ele>92</ele></trkpt>
+   <trkpt lat="49.45005" lon="8.47056"><ele>92</ele></trkpt>
+   <trkpt lat="49.450209" lon="8.470896"><ele>92</ele></trkpt>
+   <trkpt lat="49.450403" lon="8.471313"><ele>92</ele></trkpt>
+   <trkpt lat="49.450469" lon="8.471474"><ele>92.25</ele></trkpt>
+   <trkpt lat="49.450527" lon="8.471644"><ele>92.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
