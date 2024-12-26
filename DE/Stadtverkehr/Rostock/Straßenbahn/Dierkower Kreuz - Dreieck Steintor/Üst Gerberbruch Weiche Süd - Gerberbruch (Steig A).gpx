@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 171 filtered ascend = 0 plain-ascend = 1 cost=342 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Gerberbruch Weiche Süd - Gerberbruch (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/54.08820/12.14928/osm-mapnik-german_style&amp;lonlats=12.15031,54.089623;12.149344,54.088202&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.089621" lon="12.15031"><ele>2.25</ele></trkpt>
+   <trkpt lat="54.089411" lon="12.150226"><ele>2.75</ele></trkpt>
+   <trkpt lat="54.088862" lon="12.149866"><ele>2</ele></trkpt>
+   <trkpt lat="54.08881" lon="12.149825"><ele>2</ele></trkpt>
+   <trkpt lat="54.088626" lon="12.149681"><ele>2</ele></trkpt>
+   <trkpt lat="54.088205" lon="12.149338"><ele>2.75</ele></trkpt>
+   <trkpt lat="54.088203" lon="12.149337"><ele>2.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
