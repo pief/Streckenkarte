@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 373 filtered ascend = 2 plain-ascend = 3 cost=746 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kinderzentrum (Steig B) - Lewenberg (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/53.64485/11.40826/osm-mapnik-german_style&amp;lonlats=11.4067,53.648296;11.40799,53.645037&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.648296" lon="11.406704"><ele>52.5</ele></trkpt>
+   <trkpt lat="53.647517" lon="11.407011"><ele>52</ele></trkpt>
+   <trkpt lat="53.646941" lon="11.407293"><ele>50.25</ele></trkpt>
+   <trkpt lat="53.646698" lon="11.407394"><ele>51.75</ele></trkpt>
+   <trkpt lat="53.646602" lon="11.407435"><ele>52</ele></trkpt>
+   <trkpt lat="53.646466" lon="11.407494"><ele>52.5</ele></trkpt>
+   <trkpt lat="53.64578" lon="11.407767"><ele>53</ele></trkpt>
+   <trkpt lat="53.645658" lon="11.407829"><ele>53.5</ele></trkpt>
+   <trkpt lat="53.64506" lon="11.407987"><ele>55</ele></trkpt>
+   <trkpt lat="53.645037" lon="11.407995"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

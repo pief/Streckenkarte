@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 342 filtered ascend = 0 plain-ascend = -1 cost=684 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Lewenberg (Steig A) - Kinderzentrum (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/53.64838/11.40686/osm-mapnik-german_style&amp;lonlats=11.407987,53.645333;11.406761,53.648308&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.645333" lon="11.407995"><ele>54.75</ele></trkpt>
+   <trkpt lat="53.645338" lon="11.407994"><ele>54.75</ele></trkpt>
+   <trkpt lat="53.645665" lon="11.407889"><ele>53.5</ele></trkpt>
+   <trkpt lat="53.64596" lon="11.407777"><ele>53</ele></trkpt>
+   <trkpt lat="53.646478" lon="11.407568"><ele>52.5</ele></trkpt>
+   <trkpt lat="53.646609" lon="11.407513"><ele>52</ele></trkpt>
+   <trkpt lat="53.646699" lon="11.407472"><ele>51.75</ele></trkpt>
+   <trkpt lat="53.646707" lon="11.407469"><ele>51.75</ele></trkpt>
+   <trkpt lat="53.64695" lon="11.407372"><ele>50.5</ele></trkpt>
+   <trkpt lat="53.647308" lon="11.407197"><ele>52</ele></trkpt>
+   <trkpt lat="53.647764" lon="11.406992"><ele>52</ele></trkpt>
+   <trkpt lat="53.648306" lon="11.406771"><ele>52.5</ele></trkpt>
+   <trkpt lat="53.648309" lon="11.406769"><ele>53</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
