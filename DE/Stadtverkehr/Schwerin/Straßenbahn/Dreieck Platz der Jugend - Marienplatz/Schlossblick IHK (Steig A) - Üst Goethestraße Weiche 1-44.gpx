@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 244 filtered ascend = 1 plain-ascend = 0 cost=488 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schlossblick IHK (Steig A) - Üst Goethestraße Weiche 1-44</name>
+  <link href="https://bikerouter.de/#map=19/53.62722/11.41072/osm-mapnik-german_style&amp;lonlats=11.409393,53.625128;11.410444,53.627229&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.625128" lon="11.409393"><ele>45</ele></trkpt>
+   <trkpt lat="53.625228" lon="11.409421"><ele>45</ele></trkpt>
+   <trkpt lat="53.625539" lon="11.409521"><ele>45.5</ele></trkpt>
+   <trkpt lat="53.625679" lon="11.409566"><ele>46.5</ele></trkpt>
+   <trkpt lat="53.626106" lon="11.409786"><ele>45.75</ele></trkpt>
+   <trkpt lat="53.626433" lon="11.409968"><ele>46.25</ele></trkpt>
+   <trkpt lat="53.626771" lon="11.410167"><ele>44.75</ele></trkpt>
+   <trkpt lat="53.627119" lon="11.410385"><ele>43.75</ele></trkpt>
+   <trkpt lat="53.627212" lon="11.410441"><ele>43.75</ele></trkpt>
+   <trkpt lat="53.627226" lon="11.41045"><ele>43.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

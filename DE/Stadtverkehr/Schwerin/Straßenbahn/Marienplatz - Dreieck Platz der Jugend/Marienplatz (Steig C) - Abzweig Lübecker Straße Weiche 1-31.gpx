@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 21 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Marienplatz (Steig C) - Abzweig Lübecker Straße Weiche 1-31</name>
+  <link href="https://bikerouter.de/#map=19/53.62832/11.41119/osm-mapnik-german_style&amp;lonlats=11.410835,53.628582;11.410833,53.628401&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.628582" lon="11.410835"><ele>43</ele></trkpt>
+   <trkpt lat="53.628562" lon="11.410836"><ele>43</ele></trkpt>
+   <trkpt lat="53.628531" lon="11.410835"><ele>43</ele></trkpt>
+   <trkpt lat="53.628434" lon="11.410834"><ele>43</ele></trkpt>
+   <trkpt lat="53.628407" lon="11.410833"><ele>43</ele></trkpt>
+   <trkpt lat="53.628406" lon="11.410833"><ele>43</ele></trkpt>
+   <trkpt lat="53.6284" lon="11.410832"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = 0 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Lübecker Straße Weiche 1-31 - Üst Goethestraße Weiche 1-42</name>
+  <link href="https://bikerouter.de/#map=19/53.62742/11.41099/osm-mapnik-german_style&amp;lonlats=11.410833,53.628401;11.410619,53.627518&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.6284" lon="11.410832"><ele>43</ele></trkpt>
+   <trkpt lat="53.628009" lon="11.410828"><ele>43</ele></trkpt>
+   <trkpt lat="53.627961" lon="11.410827"><ele>43</ele></trkpt>
+   <trkpt lat="53.627833" lon="11.410795"><ele>43</ele></trkpt>
+   <trkpt lat="53.627713" lon="11.410752"><ele>42.75</ele></trkpt>
+   <trkpt lat="53.627587" lon="11.410656"><ele>42.75</ele></trkpt>
+   <trkpt lat="53.627523" lon="11.410626"><ele>42.75</ele></trkpt>
+   <trkpt lat="53.627516" lon="11.410621"><ele>43</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
