@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 377 filtered ascend = 0 plain-ascend = -2 cost=754 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Nationaltheater (Steig Südwest) - Kammerspiele (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.13828/11.58299/osm-mapnik-german_style&amp;lonlats=11.578297,48.13943;11.58317,48.138491&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.139427" lon="11.578295"><ele>515.75</ele></trkpt>
+   <trkpt lat="48.13941" lon="11.578385"><ele>515.75</ele></trkpt>
+   <trkpt lat="48.139317" lon="11.578877"><ele>515.5</ele></trkpt>
+   <trkpt lat="48.13911" lon="11.579934"><ele>513.75</ele></trkpt>
+   <trkpt lat="48.139065" lon="11.580168"><ele>513.75</ele></trkpt>
+   <trkpt lat="48.138855" lon="11.581272"><ele>513.75</ele></trkpt>
+   <trkpt lat="48.138768" lon="11.581726"><ele>514</ele></trkpt>
+   <trkpt lat="48.138511" lon="11.583068"><ele>512.25</ele></trkpt>
+   <trkpt lat="48.138491" lon="11.58317"><ele>512.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
