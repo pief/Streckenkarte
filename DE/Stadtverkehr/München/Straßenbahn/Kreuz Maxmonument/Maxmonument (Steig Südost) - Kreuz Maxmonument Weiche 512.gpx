@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Maxmonument (Steig Südost) - Kreuz Maxmonument Weiche 512</name>
+  <link href="https://bikerouter.de/#map=19/48.13737/11.58840/osm-mapnik-german_style&amp;lonlats=11.588467,48.137289;11.588495,48.137304&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.137284" lon="11.58847"><ele>512.75</ele></trkpt>
+   <trkpt lat="48.137286" lon="11.588473"><ele>512.75</ele></trkpt>
+   <trkpt lat="48.137302" lon="11.588496"><ele>512.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 367 filtered ascend = 3 plain-ascend = 3 cost=734 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Max-Weber-Platz (Steig 4) - Flurstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/48.13550/11.60468/osm-mapnik-german_style&amp;lonlats=11.600132,48.13563;11.605053,48.135589&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.13563" lon="11.60013"><ele>525</ele></trkpt>
+   <trkpt lat="48.135632" lon="11.600179"><ele>525</ele></trkpt>
+   <trkpt lat="48.135663" lon="11.600836"><ele>525</ele></trkpt>
+   <trkpt lat="48.1357" lon="11.601382"><ele>525</ele></trkpt>
+   <trkpt lat="48.135716" lon="11.601923"><ele>525</ele></trkpt>
+   <trkpt lat="48.13572" lon="11.602299"><ele>525</ele></trkpt>
+   <trkpt lat="48.135721" lon="11.602489"><ele>525</ele></trkpt>
+   <trkpt lat="48.135718" lon="11.602614"><ele>525</ele></trkpt>
+   <trkpt lat="48.135709" lon="11.603062"><ele>525</ele></trkpt>
+   <trkpt lat="48.135663" lon="11.603855"><ele>526</ele></trkpt>
+   <trkpt lat="48.135633" lon="11.604256"><ele>526.25</ele></trkpt>
+   <trkpt lat="48.135594" lon="11.605053"><ele>528</ele></trkpt>
+   <trkpt lat="48.135593" lon="11.605053"><ele>528</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
