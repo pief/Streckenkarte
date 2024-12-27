@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 0 plain-ascend = 0 cost=146 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hauptbahnhof Süd (Steig 2) - Dreieck Bayerstraße/Bahnhofplatz Weiche 45</name>
+  <link href="https://bikerouter.de/#map=19/48.13915/11.55981/osm-mapnik-german_style&amp;lonlats=11.559695,48.139258;11.560664,48.139308&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.139261" lon="11.559693"><ele>519.75</ele></trkpt>
+   <trkpt lat="48.139262" lon="11.559697"><ele>520</ele></trkpt>
+   <trkpt lat="48.139273" lon="11.560089"><ele>520</ele></trkpt>
+   <trkpt lat="48.139306" lon="11.560663"><ele>520</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 365 filtered ascend = 0 plain-ascend = 0 cost=730 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Ostfriedhof (Steig Südost) - Sankt-Martins-Platz (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.11712/11.58814/osm-mapnik-german_style&amp;lonlats=11.584356,48.118778;11.588553,48.117179&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.118781" lon="11.584358"><ele>533</ele></trkpt>
+   <trkpt lat="48.118529" lon="11.585145"><ele>533</ele></trkpt>
+   <trkpt lat="48.118333" lon="11.585643"><ele>533</ele></trkpt>
+   <trkpt lat="48.117983" lon="11.586467"><ele>533</ele></trkpt>
+   <trkpt lat="48.11736" lon="11.587644"><ele>533</ele></trkpt>
+   <trkpt lat="48.117302" lon="11.587773"><ele>533</ele></trkpt>
+   <trkpt lat="48.117257" lon="11.587943"><ele>533</ele></trkpt>
+   <trkpt lat="48.117237" lon="11.588068"><ele>533</ele></trkpt>
+   <trkpt lat="48.117196" lon="11.588456"><ele>533</ele></trkpt>
+   <trkpt lat="48.117186" lon="11.588554"><ele>533</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

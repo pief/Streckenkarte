@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Sendlinger Tor (Gleis 2) - Sendlinger Tor Weiche 959</name>
+  <link href="https://bikerouter.de/#map=19/48.13338/11.56634/osm-mapnik-german_style&amp;lonlats=11.566238,48.133623;11.566487,48.133224&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.133623" lon="11.566238"><ele>520.5</ele></trkpt>
+   <trkpt lat="48.13353" lon="11.566297"><ele>520.75</ele></trkpt>
+   <trkpt lat="48.133403" lon="11.566379"><ele>520.25</ele></trkpt>
+   <trkpt lat="48.133362" lon="11.566405"><ele>520</ele></trkpt>
+   <trkpt lat="48.133283" lon="11.566454"><ele>520</ele></trkpt>
+   <trkpt lat="48.133228" lon="11.566488"><ele>520</ele></trkpt>
+   <trkpt lat="48.133224" lon="11.56649"><ele>520</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

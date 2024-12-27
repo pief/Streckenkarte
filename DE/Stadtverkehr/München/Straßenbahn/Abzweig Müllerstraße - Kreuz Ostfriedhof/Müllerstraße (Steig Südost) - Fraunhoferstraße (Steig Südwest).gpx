@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 441 filtered ascend = 1 plain-ascend = 1 cost=882 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Müllerstraße (Steig Südost) - Fraunhoferstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.12828/11.57584/osm-mapnik-german_style&amp;lonlats=11.571266,48.131201;11.575351,48.128494&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.1312" lon="11.571265"><ele>515</ele></trkpt>
+   <trkpt lat="48.131249" lon="11.571368"><ele>515</ele></trkpt>
+   <trkpt lat="48.131264" lon="11.571436"><ele>515</ele></trkpt>
+   <trkpt lat="48.131267" lon="11.571505"><ele>515</ele></trkpt>
+   <trkpt lat="48.131258" lon="11.57157"><ele>515</ele></trkpt>
+   <trkpt lat="48.131219" lon="11.571671"><ele>515</ele></trkpt>
+   <trkpt lat="48.130555" lon="11.572571"><ele>515</ele></trkpt>
+   <trkpt lat="48.130147" lon="11.573125"><ele>515.25</ele></trkpt>
+   <trkpt lat="48.130011" lon="11.57331"><ele>515</ele></trkpt>
+   <trkpt lat="48.1296" lon="11.573867"><ele>515</ele></trkpt>
+   <trkpt lat="48.12853" lon="11.575304"><ele>516</ele></trkpt>
+   <trkpt lat="48.128494" lon="11.575352"><ele>516</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

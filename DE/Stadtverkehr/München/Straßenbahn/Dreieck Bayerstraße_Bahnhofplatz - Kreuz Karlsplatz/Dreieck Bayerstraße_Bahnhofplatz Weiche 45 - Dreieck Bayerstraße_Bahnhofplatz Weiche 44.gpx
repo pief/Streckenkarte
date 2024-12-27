@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Bayerstraße/Bahnhofplatz Weiche 45 - Dreieck Bayerstraße/Bahnhofplatz Weiche 44</name>
+  <link href="https://bikerouter.de/#map=19/48.13894/11.56165/osm-mapnik-german_style&amp;lonlats=11.560664,48.139308;11.561386,48.139317&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.139306" lon="11.560663"><ele>520</ele></trkpt>
+   <trkpt lat="48.139307" lon="11.560673"><ele>520</ele></trkpt>
+   <trkpt lat="48.139313" lon="11.560752"><ele>520</ele></trkpt>
+   <trkpt lat="48.139318" lon="11.56099"><ele>520</ele></trkpt>
+   <trkpt lat="48.139319" lon="11.561071"><ele>520</ele></trkpt>
+   <trkpt lat="48.139316" lon="11.561223"><ele>520</ele></trkpt>
+   <trkpt lat="48.139315" lon="11.561307"><ele>520</ele></trkpt>
+   <trkpt lat="48.139315" lon="11.561387"><ele>520</ele></trkpt>
+   <trkpt lat="48.139315" lon="11.561385"><ele>520</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

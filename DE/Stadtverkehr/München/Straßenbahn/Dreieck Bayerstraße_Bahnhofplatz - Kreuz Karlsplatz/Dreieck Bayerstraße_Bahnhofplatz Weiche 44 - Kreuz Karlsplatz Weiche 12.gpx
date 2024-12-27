@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 262 filtered ascend = 1 plain-ascend = 0 cost=524 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Bayerstraße/Bahnhofplatz Weiche 44 - Kreuz Karlsplatz Weiche 12</name>
+  <link href="https://bikerouter.de/#map=19/48.13893/11.56539/osm-mapnik-german_style&amp;lonlats=11.561385,48.139315;11.564894,48.139197&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.139315" lon="11.561385"><ele>520</ele></trkpt>
+   <trkpt lat="48.139315" lon="11.561387"><ele>520</ele></trkpt>
+   <trkpt lat="48.139327" lon="11.562439"><ele>520</ele></trkpt>
+   <trkpt lat="48.139262" lon="11.563687"><ele>521</ele></trkpt>
+   <trkpt lat="48.139198" lon="11.564894"><ele>520.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
