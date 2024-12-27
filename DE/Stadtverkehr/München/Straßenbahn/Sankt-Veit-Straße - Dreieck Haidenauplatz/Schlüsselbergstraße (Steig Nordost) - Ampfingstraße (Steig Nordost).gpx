@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 550 filtered ascend = 2 plain-ascend = 1 cost=1100 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Schlüsselbergstraße (Steig Nordost) - Ampfingstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/48.13100/11.61550/osm-mapnik-german_style&amp;lonlats=11.622114,48.129875;11.61496,48.131101&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.129881" lon="11.622116"><ele>530</ele></trkpt>
+   <trkpt lat="48.130153" lon="11.620554"><ele>530.75</ele></trkpt>
+   <trkpt lat="48.130454" lon="11.618831"><ele>531</ele></trkpt>
+   <trkpt lat="48.130767" lon="11.617015"><ele>531</ele></trkpt>
+   <trkpt lat="48.130934" lon="11.615957"><ele>531.75</ele></trkpt>
+   <trkpt lat="48.130948" lon="11.61588"><ele>531.5</ele></trkpt>
+   <trkpt lat="48.131" lon="11.615557"><ele>531.75</ele></trkpt>
+   <trkpt lat="48.131016" lon="11.615461"><ele>532</ele></trkpt>
+   <trkpt lat="48.131082" lon="11.615036"><ele>531.75</ele></trkpt>
+   <trkpt lat="48.131095" lon="11.614957"><ele>531</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
