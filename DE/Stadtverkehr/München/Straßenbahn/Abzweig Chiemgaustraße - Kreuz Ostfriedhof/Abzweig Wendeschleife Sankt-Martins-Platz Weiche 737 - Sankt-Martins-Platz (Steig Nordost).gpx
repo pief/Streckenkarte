@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 88 filtered ascend = 0 plain-ascend = 0 cost=176 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Wendeschleife Sankt-Martins-Platz Weiche 737 - Sankt-Martins-Platz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/48.11716/11.58795/osm-mapnik-german_style&amp;lonlats=11.589316,48.117129;11.588154,48.117256&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.117129" lon="11.589316"><ele>533</ele></trkpt>
+   <trkpt lat="48.117189" lon="11.588767"><ele>533</ele></trkpt>
+   <trkpt lat="48.117203" lon="11.58864"><ele>533</ele></trkpt>
+   <trkpt lat="48.117239" lon="11.588286"><ele>533</ele></trkpt>
+   <trkpt lat="48.117253" lon="11.588153"><ele>533</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
