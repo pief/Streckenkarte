@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7 filtered ascend = 0 plain-ascend = 0 cost=14 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Eisenschmiede (Steig West) - Dreieck Eisenschmiede Weiche Nord-West</name>
+  <link href="https://bikerouter.de/#map=19/51.33067/9.51355/osm-mapnik-german_style&amp;lonlats=9.513332,51.330874;9.513331,51.330816&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.330872" lon="9.513332"><ele>172</ele></trkpt>
+   <trkpt lat="51.330839" lon="9.513332"><ele>172</ele></trkpt>
+   <trkpt lat="51.330816" lon="9.513332"><ele>172</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

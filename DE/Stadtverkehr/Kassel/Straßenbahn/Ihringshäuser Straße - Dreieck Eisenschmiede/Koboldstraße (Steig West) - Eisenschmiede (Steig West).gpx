@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 421 filtered ascend = 0 plain-ascend = -13 cost=842 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Koboldstraße (Steig West) - Eisenschmiede (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.33073/9.51344/osm-mapnik-german_style&amp;lonlats=9.513495,51.334664;9.513334,51.330875&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.334662" lon="9.513502"><ele>185.5</ele></trkpt>
+   <trkpt lat="51.333689" lon="9.513458"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.333619" lon="9.513455"><ele>180</ele></trkpt>
+   <trkpt lat="51.331021" lon="9.513336"><ele>172.5</ele></trkpt>
+   <trkpt lat="51.330874" lon="9.513332"><ele>172</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

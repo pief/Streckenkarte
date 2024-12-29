@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Eisenschmiede Weiche Nord-West - Dreieck Eisenschmiede Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/51.33048/9.51374/osm-mapnik-german_style&amp;lonlats=9.513331,51.330816;9.513331,51.330327&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.330816" lon="9.513332"><ele>172</ele></trkpt>
+   <trkpt lat="51.330813" lon="9.513332"><ele>172</ele></trkpt>
+   <trkpt lat="51.330681" lon="9.513335"><ele>172</ele></trkpt>
+   <trkpt lat="51.330613" lon="9.513336"><ele>172</ele></trkpt>
+   <trkpt lat="51.330576" lon="9.513336"><ele>172</ele></trkpt>
+   <trkpt lat="51.330332" lon="9.513335"><ele>171</ele></trkpt>
+   <trkpt lat="51.330327" lon="9.513335"><ele>171</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

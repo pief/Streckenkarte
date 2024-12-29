@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 129 filtered ascend = 1 plain-ascend = 2 cost=258 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Weserspitze Weiche 508 - Abzweig Ihringhäuser Straße/Mittelring Weiche 509</name>
+  <link href="https://bikerouter.de/#map=19/51.32429/9.51307/osm-mapnik-german_style&amp;lonlats=9.512938,51.323211;9.513055,51.324352&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.323209" lon="9.512938"><ele>140.25</ele></trkpt>
+   <trkpt lat="51.323213" lon="9.51294"><ele>140.5</ele></trkpt>
+   <trkpt lat="51.323327" lon="9.513004"><ele>140.75</ele></trkpt>
+   <trkpt lat="51.32346" lon="9.513026"><ele>141</ele></trkpt>
+   <trkpt lat="51.323479" lon="9.513027"><ele>141</ele></trkpt>
+   <trkpt lat="51.32353" lon="9.51303"><ele>141</ele></trkpt>
+   <trkpt lat="51.324199" lon="9.513046"><ele>142</ele></trkpt>
+   <trkpt lat="51.324201" lon="9.513046"><ele>142</ele></trkpt>
+   <trkpt lat="51.32435" lon="9.513055"><ele>142</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

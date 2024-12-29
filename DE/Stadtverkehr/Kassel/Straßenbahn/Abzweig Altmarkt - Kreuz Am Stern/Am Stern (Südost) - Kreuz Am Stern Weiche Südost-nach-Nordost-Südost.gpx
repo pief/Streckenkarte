@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Am Stern (Südost) - Kreuz Am Stern Weiche Südost-nach-Nordost-Südost</name>
+  <link href="https://bikerouter.de/#map=19/51.31788/9.50093/osm-mapnik-german_style&amp;lonlats=9.500688,51.317944;9.500607,51.31797&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.317944" lon="9.500688"><ele>155.5</ele></trkpt>
+   <trkpt lat="51.317967" lon="9.500605"><ele>155.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

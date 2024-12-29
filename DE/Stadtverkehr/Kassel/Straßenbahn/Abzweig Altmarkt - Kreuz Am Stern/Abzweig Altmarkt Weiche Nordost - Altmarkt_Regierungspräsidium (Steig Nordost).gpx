@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 3 plain-ascend = 3 cost=192 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Altmarkt Weiche Nordost - Altmarkt/Regierungspräsidium (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.31637/9.50469/osm-mapnik-german_style&amp;lonlats=9.505118,51.316015;9.504104,51.316602&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.316016" lon="9.50512"><ele>143</ele></trkpt>
+   <trkpt lat="51.316252" lon="9.504752"><ele>143.75</ele></trkpt>
+   <trkpt lat="51.316356" lon="9.504571"><ele>144.5</ele></trkpt>
+   <trkpt lat="51.316598" lon="9.5041"><ele>146.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

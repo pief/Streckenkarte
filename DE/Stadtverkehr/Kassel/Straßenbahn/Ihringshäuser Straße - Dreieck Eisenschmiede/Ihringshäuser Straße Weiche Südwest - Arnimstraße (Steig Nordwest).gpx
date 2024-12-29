@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 133 filtered ascend = 0 plain-ascend = -1 cost=266 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Ihringshäuser Straße Weiche Südwest - Arnimstraße (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.33832/9.51624/osm-mapnik-german_style&amp;lonlats=9.516596,51.339094;9.515629,51.338066&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.339091" lon="9.516601"><ele>202.5</ele></trkpt>
+   <trkpt lat="51.338648" lon="9.516202"><ele>202</ele></trkpt>
+   <trkpt lat="51.338509" lon="9.516055"><ele>201.75</ele></trkpt>
+   <trkpt lat="51.338371" lon="9.515909"><ele>201.25</ele></trkpt>
+   <trkpt lat="51.338109" lon="9.515676"><ele>201</ele></trkpt>
+   <trkpt lat="51.338063" lon="9.515635"><ele>200.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

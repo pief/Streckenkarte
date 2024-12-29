@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 559 filtered ascend = 1 plain-ascend = 2 cost=1118 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Weserspitze (Steig Nordwest) - Katzensprung (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.31837/9.50828/osm-mapnik-german_style&amp;lonlats=9.512374,51.322588;9.50809,51.318329&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.322587" lon="9.512373"><ele>140</ele></trkpt>
+   <trkpt lat="51.322564" lon="9.512352"><ele>140</ele></trkpt>
+   <trkpt lat="51.322392" lon="9.51219"><ele>140</ele></trkpt>
+   <trkpt lat="51.322256" lon="9.51206"><ele>140</ele></trkpt>
+   <trkpt lat="51.321068" lon="9.510892"><ele>138.75</ele></trkpt>
+   <trkpt lat="51.319756" lon="9.509607"><ele>139</ele></trkpt>
+   <trkpt lat="51.319104" lon="9.508937"><ele>140</ele></trkpt>
+   <trkpt lat="51.31901" lon="9.508837"><ele>140</ele></trkpt>
+   <trkpt lat="51.318888" lon="9.508708"><ele>140</ele></trkpt>
+   <trkpt lat="51.318821" lon="9.508634"><ele>140</ele></trkpt>
+   <trkpt lat="51.31859" lon="9.508378"><ele>140.75</ele></trkpt>
+   <trkpt lat="51.318327" lon="9.508092"><ele>141.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
