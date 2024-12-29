@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226 filtered ascend = 1 plain-ascend = 0 cost=452 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wilhelmstraße/Stadtmuseum (Steig Südost) - Scheidemannplatz (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/51.31592/9.49210/osm-mapnik-german_style&amp;lonlats=9.490141,51.314745;9.492478,51.316156&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.314742" lon="9.490143"><ele>180.25</ele></trkpt>
+   <trkpt lat="51.314827" lon="9.490283"><ele>180.25</ele></trkpt>
+   <trkpt lat="51.315576" lon="9.491524"><ele>182</ele></trkpt>
+   <trkpt lat="51.316072" lon="9.492345"><ele>181</ele></trkpt>
+   <trkpt lat="51.316154" lon="9.492478"><ele>180.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

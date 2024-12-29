@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Ständeplatz Weiche 831 - Dreieck Ständeplatz Weiche Südost-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/51.31373/9.48926/osm-mapnik-german_style&amp;lonlats=9.489146,51.314183;9.48902,51.313806&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.314182" lon="9.489145"><ele>180.75</ele></trkpt>
+   <trkpt lat="51.314179" lon="9.48914"><ele>181</ele></trkpt>
+   <trkpt lat="51.314138" lon="9.489081"><ele>180.75</ele></trkpt>
+   <trkpt lat="51.314101" lon="9.489034"><ele>180.75</ele></trkpt>
+   <trkpt lat="51.314078" lon="9.489004"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.31402" lon="9.488964"><ele>180.25</ele></trkpt>
+   <trkpt lat="51.313929" lon="9.488955"><ele>180</ele></trkpt>
+   <trkpt lat="51.313861" lon="9.488975"><ele>179.75</ele></trkpt>
+   <trkpt lat="51.313807" lon="9.48902"><ele>179.75</ele></trkpt>
+   <trkpt lat="51.313806" lon="9.48902"><ele>179.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 1 plain-ascend = 1 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Ständeplatz Weiche Südost-Nordost - Dreieck Ständeplatz Weiche Nordost-Südost</name>
+  <link href="https://bikerouter.de/#map=19/51.31425/9.48907/osm-mapnik-german_style&amp;lonlats=9.489036,51.31386;9.48917,51.314161&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.31386" lon="9.489036"><ele>179.75</ele></trkpt>
+   <trkpt lat="51.313879" lon="9.489016"><ele>179.75</ele></trkpt>
+   <trkpt lat="51.313978" lon="9.489005"><ele>180.25</ele></trkpt>
+   <trkpt lat="51.314052" lon="9.489036"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.314087" lon="9.489068"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.314159" lon="9.489164"><ele>180.75</ele></trkpt>
+   <trkpt lat="51.314161" lon="9.489167"><ele>180.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
