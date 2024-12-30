@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 298 filtered ascend = 1 plain-ascend = -3 cost=596 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Friedenskirche (Steig Südost) - Querallee (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.31578/9.47395/osm-mapnik-german_style&amp;lonlats=9.469149,51.31618;9.473367,51.31586&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.316181" lon="9.469147"><ele>188</ele></trkpt>
+   <trkpt lat="51.316189" lon="9.469181"><ele>188</ele></trkpt>
+   <trkpt lat="51.316193" lon="9.469203"><ele>188</ele></trkpt>
+   <trkpt lat="51.31621" lon="9.469288"><ele>188.25</ele></trkpt>
+   <trkpt lat="51.316215" lon="9.469357"><ele>188.25</ele></trkpt>
+   <trkpt lat="51.316217" lon="9.469509"><ele>188.5</ele></trkpt>
+   <trkpt lat="51.316163" lon="9.470093"><ele>189</ele></trkpt>
+   <trkpt lat="51.31588" lon="9.473149"><ele>184.75</ele></trkpt>
+   <trkpt lat="51.315859" lon="9.473366"><ele>184</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

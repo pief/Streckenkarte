@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 375 filtered ascend = 3 plain-ascend = 4 cost=750 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Rotes Kreuz Weiche 118 - Wintershall (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=17/51.31500/9.45651/osm-mapnik-german_style&amp;lonlats=9.453042,51.313152;9.455129,51.31591&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313152" lon="9.453042"><ele>186.5</ele></trkpt>
+   <trkpt lat="51.313152" lon="9.453051"><ele>186.5</ele></trkpt>
+   <trkpt lat="51.313153" lon="9.453146"><ele>186.25</ele></trkpt>
+   <trkpt lat="51.313166" lon="9.453237"><ele>185.75</ele></trkpt>
+   <trkpt lat="51.313202" lon="9.45335"><ele>185.25</ele></trkpt>
+   <trkpt lat="51.313216" lon="9.453386"><ele>185.25</ele></trkpt>
+   <trkpt lat="51.313246" lon="9.453436"><ele>185</ele></trkpt>
+   <trkpt lat="51.313303" lon="9.453488"><ele>185</ele></trkpt>
+   <trkpt lat="51.313363" lon="9.453528"><ele>184.75</ele></trkpt>
+   <trkpt lat="51.313424" lon="9.453539"><ele>184.25</ele></trkpt>
+   <trkpt lat="51.314835" lon="9.453539"><ele>183.25</ele></trkpt>
+   <trkpt lat="51.314901" lon="9.453555"><ele>183.5</ele></trkpt>
+   <trkpt lat="51.314979" lon="9.453592"><ele>183.75</ele></trkpt>
+   <trkpt lat="51.315051" lon="9.453652"><ele>184.5</ele></trkpt>
+   <trkpt lat="51.315105" lon="9.453707"><ele>185.25</ele></trkpt>
+   <trkpt lat="51.315192" lon="9.45383"><ele>185.5</ele></trkpt>
+   <trkpt lat="51.315827" lon="9.454971"><ele>189.75</ele></trkpt>
+   <trkpt lat="51.315912" lon="9.455123"><ele>190</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

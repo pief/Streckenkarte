@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 2 plain-ascend = 2 cost=706 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Annastraße (Steig Südwest) - Karthäuserstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.31465/9.48450/osm-mapnik-german_style&amp;lonlats=9.479386,51.315278;9.484387,51.314718&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.315276" lon="9.479385"><ele>181.5</ele></trkpt>
+   <trkpt lat="51.315191" lon="9.480148"><ele>180.5</ele></trkpt>
+   <trkpt lat="51.315108" lon="9.480899"><ele>181.5</ele></trkpt>
+   <trkpt lat="51.314864" lon="9.483067"><ele>182.5</ele></trkpt>
+   <trkpt lat="51.314777" lon="9.483834"><ele>183</ele></trkpt>
+   <trkpt lat="51.314752" lon="9.484052"><ele>183</ele></trkpt>
+   <trkpt lat="51.314713" lon="9.484385"><ele>183.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
