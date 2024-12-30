@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = -1 cost=94 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bahnhof Wilhelmshöhe (Steig D) - Bahnhof Wilhelmshöhe Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.31334/9.44780/osm-mapnik-german_style&amp;lonlats=9.44744,51.313073;9.448046,51.313167&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313077" lon="9.44744"><ele>193.25</ele></trkpt>
+   <trkpt lat="51.313077" lon="9.447457"><ele>193.5</ele></trkpt>
+   <trkpt lat="51.313063" lon="9.447818"><ele>192.75</ele></trkpt>
+   <trkpt lat="51.313077" lon="9.447885"><ele>192.75</ele></trkpt>
+   <trkpt lat="51.313162" lon="9.448044"><ele>192.5</ele></trkpt>
+   <trkpt lat="51.313164" lon="9.448048"><ele>191</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 0 plain-ascend = -5 cost=706 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bahnhof Wilhelmshöhe Weiche Ost-Süd - Rotes Kreuz (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.31326/9.44884/osm-mapnik-german_style&amp;lonlats=9.448046,51.313167;9.452979,51.313154&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.313164" lon="9.448048"><ele>192.25</ele></trkpt>
+   <trkpt lat="51.313306" lon="9.448317"><ele>191</ele></trkpt>
+   <trkpt lat="51.313338" lon="9.448382"><ele>190.75</ele></trkpt>
+   <trkpt lat="51.313355" lon="9.448444"><ele>190.75</ele></trkpt>
+   <trkpt lat="51.313367" lon="9.448511"><ele>190.75</ele></trkpt>
+   <trkpt lat="51.313368" lon="9.448601"><ele>190.75</ele></trkpt>
+   <trkpt lat="51.313281" lon="9.450317"><ele>190</ele></trkpt>
+   <trkpt lat="51.313277" lon="9.450404"><ele>189.5</ele></trkpt>
+   <trkpt lat="51.313203" lon="9.451947"><ele>188</ele></trkpt>
+   <trkpt lat="51.313163" lon="9.452777"><ele>187</ele></trkpt>
+   <trkpt lat="51.313154" lon="9.452979"><ele>186.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
