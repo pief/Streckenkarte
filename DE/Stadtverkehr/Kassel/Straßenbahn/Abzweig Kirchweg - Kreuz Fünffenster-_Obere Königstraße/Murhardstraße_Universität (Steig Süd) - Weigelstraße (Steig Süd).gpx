@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 564 filtered ascend = 11 plain-ascend = 11 cost=1128 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Murhardstraße/Universität (Steig Süd) - Weigelstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.31186/9.48299/osm-mapnik-german_style&amp;lonlats=9.474919,51.312064;9.482973,51.311657&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.312068" lon="9.474919"><ele>168</ele></trkpt>
+   <trkpt lat="51.312068" lon="9.474928"><ele>168</ele></trkpt>
+   <trkpt lat="51.312008" lon="9.476132"><ele>169</ele></trkpt>
+   <trkpt lat="51.311995" lon="9.476387"><ele>169</ele></trkpt>
+   <trkpt lat="51.311808" lon="9.480058"><ele>172.5</ele></trkpt>
+   <trkpt lat="51.311716" lon="9.481855"><ele>177</ele></trkpt>
+   <trkpt lat="51.311668" lon="9.482798"><ele>178</ele></trkpt>
+   <trkpt lat="51.311659" lon="9.482973"><ele>179</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

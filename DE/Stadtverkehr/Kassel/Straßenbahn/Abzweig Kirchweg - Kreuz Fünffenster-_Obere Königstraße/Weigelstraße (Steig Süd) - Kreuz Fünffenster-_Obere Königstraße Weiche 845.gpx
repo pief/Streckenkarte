@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 609 filtered ascend = 5 plain-ascend = -5 cost=1218 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Weigelstraße (Steig Süd) - Kreuz Fünffenster-/Obere Königstraße Weiche 845</name>
+  <link href="https://bikerouter.de/#map=19/51.31203/9.49125/osm-mapnik-german_style&amp;lonlats=9.482973,51.311659;9.491394,51.311816&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.311659" lon="9.482973"><ele>178.5</ele></trkpt>
+   <trkpt lat="51.311656" lon="9.483047"><ele>179</ele></trkpt>
+   <trkpt lat="51.311475" lon="9.486684"><ele>183.75</ele></trkpt>
+   <trkpt lat="51.311338" lon="9.489412"><ele>179.25</ele></trkpt>
+   <trkpt lat="51.3113" lon="9.490172"><ele>177.5</ele></trkpt>
+   <trkpt lat="51.311303" lon="9.490271"><ele>177.25</ele></trkpt>
+   <trkpt lat="51.311316" lon="9.490382"><ele>176.75</ele></trkpt>
+   <trkpt lat="51.311341" lon="9.490512"><ele>176.25</ele></trkpt>
+   <trkpt lat="51.311384" lon="9.490653"><ele>175.5</ele></trkpt>
+   <trkpt lat="51.311419" lon="9.490728"><ele>175.25</ele></trkpt>
+   <trkpt lat="51.311551" lon="9.490954"><ele>174</ele></trkpt>
+   <trkpt lat="51.311818" lon="9.491389"><ele>172.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

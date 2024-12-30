@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 460 filtered ascend = 0 plain-ascend = -11 cost=920 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Berlepschstraße (Steig Süd) - Kirchweg (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.31255/9.46503/osm-mapnik-german_style&amp;lonlats=9.459,51.312855;9.465574,51.312537&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.312859" lon="9.459"><ele>172.75</ele></trkpt>
+   <trkpt lat="51.312857" lon="9.459051"><ele>172.75</ele></trkpt>
+   <trkpt lat="51.31277" lon="9.460804"><ele>169</ele></trkpt>
+   <trkpt lat="51.312761" lon="9.460994"><ele>169</ele></trkpt>
+   <trkpt lat="51.312593" lon="9.464375"><ele>163</ele></trkpt>
+   <trkpt lat="51.312546" lon="9.465299"><ele>161.75</ele></trkpt>
+   <trkpt lat="51.312535" lon="9.465559"><ele>161</ele></trkpt>
+   <trkpt lat="51.312534" lon="9.465573"><ele>161</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 533 filtered ascend = 15 plain-ascend = 15 cost=1066 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kirchweg (Steig Nord) - Berlepschstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.31323/9.45757/osm-mapnik-german_style&amp;lonlats=9.464394,51.312616;9.456747,51.312993&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.312617" lon="9.464394"><ele>162.75</ele></trkpt>
+   <trkpt lat="51.312618" lon="9.464378"><ele>163</ele></trkpt>
+   <trkpt lat="51.312785" lon="9.460981"><ele>168.75</ele></trkpt>
+   <trkpt lat="51.312793" lon="9.460806"><ele>169</ele></trkpt>
+   <trkpt lat="51.31288" lon="9.459054"><ele>172.75</ele></trkpt>
+   <trkpt lat="51.312939" lon="9.457848"><ele>175.25</ele></trkpt>
+   <trkpt lat="51.312981" lon="9.457001"><ele>177</ele></trkpt>
+   <trkpt lat="51.312993" lon="9.456747"><ele>177.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
