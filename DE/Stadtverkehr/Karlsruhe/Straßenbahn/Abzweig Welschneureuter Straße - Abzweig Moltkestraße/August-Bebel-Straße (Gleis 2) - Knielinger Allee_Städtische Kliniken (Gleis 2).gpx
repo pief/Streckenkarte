@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 582 filtered ascend = 3 plain-ascend = 3 cost=1164 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>August-Bebel-Straße (Gleis 2) - Knielinger Allee/Städtische Kliniken (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.01854/8.37527/osm-mapnik-german_style&amp;lonlats=8.375718,49.023958;8.37531,49.01873&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.023957" lon="8.375717"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.023826" lon="8.375707"><ele>112</ele></trkpt>
+   <trkpt lat="49.023" lon="8.375643"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.022518" lon="8.375593"><ele>111.25</ele></trkpt>
+   <trkpt lat="49.021028" lon="8.375477"><ele>112.5</ele></trkpt>
+   <trkpt lat="49.020728" lon="8.375456"><ele>113.5</ele></trkpt>
+   <trkpt lat="49.01944" lon="8.375364"><ele>114</ele></trkpt>
+   <trkpt lat="49.018942" lon="8.375324"><ele>114</ele></trkpt>
+   <trkpt lat="49.018876" lon="8.37532"><ele>114</ele></trkpt>
+   <trkpt lat="49.018844" lon="8.375317"><ele>114</ele></trkpt>
+   <trkpt lat="49.018729" lon="8.375307"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

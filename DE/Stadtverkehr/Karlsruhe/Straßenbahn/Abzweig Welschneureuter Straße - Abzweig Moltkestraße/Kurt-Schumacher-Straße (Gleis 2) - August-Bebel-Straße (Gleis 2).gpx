@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 676 filtered ascend = 0 plain-ascend = 1 cost=1352 energy=0.0kwh time=54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kurt-Schumacher-Straße (Gleis 2) - August-Bebel-Straße (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.02391/8.37628/osm-mapnik-german_style&amp;lonlats=8.376249,49.03003;8.375718,49.023958&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.030029" lon="8.376245"><ele>111.25</ele></trkpt>
+   <trkpt lat="49.029992" lon="8.376241"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.029955" lon="8.376237"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.028343" lon="8.376065"><ele>110.5</ele></trkpt>
+   <trkpt lat="49.027383" lon="8.37598"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.02397" lon="8.375718"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.023957" lon="8.375717"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
