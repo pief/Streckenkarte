@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 113 filtered ascend = 0 plain-ascend = 0 cost=226 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Üst Hochstetten Weiche 25W01 - Linkenheim Schulzentrum</name>
+  <link href="https://bikerouter.de/#map=18/49.12802/8.41400/osm-mapnik-german_style&amp;lonlats=8.414393,49.128274;8.413414,49.127497&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.128273" lon="8.414392"><ele>109.5</ele></trkpt>
+   <trkpt lat="49.127995" lon="8.41411"><ele>110</ele></trkpt>
+   <trkpt lat="49.127824" lon="8.413912"><ele>109.75</ele></trkpt>
+   <trkpt lat="49.127698" lon="8.41374"><ele>109.25</ele></trkpt>
+   <trkpt lat="49.127591" lon="8.413571"><ele>109.5</ele></trkpt>
+   <trkpt lat="49.127497" lon="8.413412"><ele>109.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

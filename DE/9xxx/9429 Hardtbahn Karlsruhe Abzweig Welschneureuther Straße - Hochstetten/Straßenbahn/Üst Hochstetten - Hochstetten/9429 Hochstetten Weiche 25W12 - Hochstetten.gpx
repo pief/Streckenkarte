@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Hochstetten Weiche 25W12 - Hochstetten</name>
+  <link href="https://bikerouter.de/#map=19/49.13361/8.41532/osm-mapnik-german_style&amp;lonlats=8.416206,49.133428;8.415385,49.133659&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.133428" lon="8.416206"><ele>106.5</ele></trkpt>
+   <trkpt lat="49.133546" lon="8.415777"><ele>106.75</ele></trkpt>
+   <trkpt lat="49.133655" lon="8.415382"><ele>105.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

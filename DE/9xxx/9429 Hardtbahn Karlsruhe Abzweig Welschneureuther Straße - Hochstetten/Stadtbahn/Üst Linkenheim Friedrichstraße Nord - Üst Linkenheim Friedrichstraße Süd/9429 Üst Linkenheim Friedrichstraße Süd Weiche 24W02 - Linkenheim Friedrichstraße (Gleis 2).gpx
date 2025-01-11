@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 0 plain-ascend = 0 cost=103 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Üst Linkenheim Friedrichstraße Süd Weiche 24W02 - Linkenheim Friedrichstraße (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.11953/8.40966/osm-mapnik-german_style&amp;lonlats=8.408487,49.120464;8.409275,49.11972&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.120463" lon="8.408486"><ele>108.25</ele></trkpt>
+   <trkpt lat="49.120464" lon="8.408486"><ele>108.5</ele></trkpt>
+   <trkpt lat="49.120354" lon="8.408581"><ele>108</ele></trkpt>
+   <trkpt lat="49.120276" lon="8.408645"><ele>107.75</ele></trkpt>
+   <trkpt lat="49.120139" lon="8.408778"><ele>106.75</ele></trkpt>
+   <trkpt lat="49.119996" lon="8.408937"><ele>107.75</ele></trkpt>
+   <trkpt lat="49.119731" lon="8.409262"><ele>107.5</ele></trkpt>
+   <trkpt lat="49.11972" lon="8.409276"><ele>107</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

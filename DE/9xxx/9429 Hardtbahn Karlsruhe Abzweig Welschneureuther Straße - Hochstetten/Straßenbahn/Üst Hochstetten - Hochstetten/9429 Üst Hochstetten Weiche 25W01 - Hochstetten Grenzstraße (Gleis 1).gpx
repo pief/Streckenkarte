@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 0 plain-ascend = 1 cost=412 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Üst Hochstetten Weiche 25W01 - Hochstetten Grenzstraße (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.12960/8.41578/osm-mapnik-german_style&amp;lonlats=8.414393,49.128274;8.416004,49.129799&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.128273" lon="8.414392"><ele>109.5</ele></trkpt>
+   <trkpt lat="49.128278" lon="8.414398"><ele>109.5</ele></trkpt>
+   <trkpt lat="49.129157" lon="8.415333"><ele>109.75</ele></trkpt>
+   <trkpt lat="49.129545" lon="8.41574"><ele>110</ele></trkpt>
+   <trkpt lat="49.12976" lon="8.415969"><ele>110</ele></trkpt>
+   <trkpt lat="49.129796" lon="8.416007"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

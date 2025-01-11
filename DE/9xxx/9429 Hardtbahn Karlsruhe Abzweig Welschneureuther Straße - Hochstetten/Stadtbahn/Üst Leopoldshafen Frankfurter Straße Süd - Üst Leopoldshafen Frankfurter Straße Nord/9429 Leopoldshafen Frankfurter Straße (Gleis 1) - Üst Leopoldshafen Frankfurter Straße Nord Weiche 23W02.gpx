@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 197 filtered ascend = 0 plain-ascend = 0 cost=197 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Leopoldshafen Frankfurter Straße (Gleis 1) - Üst Leopoldshafen Frankfurter Straße Nord Weiche 23W02</name>
+  <link href="https://bikerouter.de/#map=19/49.10233/8.40648/osm-mapnik-german_style&amp;lonlats=8.40414,49.101129;8.406075,49.102354&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.101128" lon="8.404139"><ele>110.5</ele></trkpt>
+   <trkpt lat="49.101274" lon="8.404346"><ele>110.5</ele></trkpt>
+   <trkpt lat="49.101546" lon="8.404756"><ele>110.25</ele></trkpt>
+   <trkpt lat="49.101915" lon="8.405416"><ele>110.25</ele></trkpt>
+   <trkpt lat="49.102024" lon="8.405599"><ele>110</ele></trkpt>
+   <trkpt lat="49.102235" lon="8.405924"><ele>110.5</ele></trkpt>
+   <trkpt lat="49.102237" lon="8.405927"><ele>110.5</ele></trkpt>
+   <trkpt lat="49.102351" lon="8.406077"><ele>110.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
