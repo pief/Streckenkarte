@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 198 filtered ascend = 2 plain-ascend = 2 cost=198 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Üst Eggenstein Süd Weiche 22W1 - Eggenstein Süd (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/49.07136/8.39626/osm-mapnik-german_style&amp;lonlats=8.395476,49.069802;8.396239,49.071496&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.069801" lon="8.395475"><ele>109.75</ele></trkpt>
+   <trkpt lat="49.069809" lon="8.395479"><ele>110</ele></trkpt>
+   <trkpt lat="49.06996" lon="8.39555"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.07023" lon="8.395702"><ele>111.25</ele></trkpt>
+   <trkpt lat="49.070355" lon="8.39576"><ele>111.25</ele></trkpt>
+   <trkpt lat="49.070738" lon="8.395919"><ele>112</ele></trkpt>
+   <trkpt lat="49.070746" lon="8.395923"><ele>112</ele></trkpt>
+   <trkpt lat="49.071482" lon="8.39623"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.071495" lon="8.396236"><ele>111.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

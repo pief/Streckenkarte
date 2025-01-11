@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 0 plain-ascend = -1 cost=114 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Eggenstein Süd (Gleis 2) - Üst Eggenstein Süd Weiche 22W01</name>
+  <link href="https://bikerouter.de/#map=19/49.06981/8.39677/osm-mapnik-german_style&amp;lonlats=8.395888,49.070796;8.395476,49.069802&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.070794" lon="8.395888"><ele>112</ele></trkpt>
+   <trkpt lat="49.070755" lon="8.395872"><ele>112</ele></trkpt>
+   <trkpt lat="49.070745" lon="8.395868"><ele>112</ele></trkpt>
+   <trkpt lat="49.070371" lon="8.395709"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.069809" lon="8.395479"><ele>110</ele></trkpt>
+   <trkpt lat="49.069801" lon="8.395475"><ele>109.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

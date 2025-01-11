@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 322 filtered ascend = 0 plain-ascend = 0 cost=322 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Eggenstein Schweiner Straße (Gleis 1) - Üst Eggenstein Schweiner Straße Weiche 22W03</name>
+  <link href="https://bikerouter.de/#map=19/49.08894/8.40299/osm-mapnik-german_style&amp;lonlats=8.40236,49.086185;8.403141,49.088981&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.086183" lon="8.402362"><ele>111</ele></trkpt>
+   <trkpt lat="49.087171" lon="8.402775"><ele>111</ele></trkpt>
+   <trkpt lat="49.088123" lon="8.403168"><ele>111</ele></trkpt>
+   <trkpt lat="49.088155" lon="8.40318"><ele>111</ele></trkpt>
+   <trkpt lat="49.088223" lon="8.403201"><ele>111</ele></trkpt>
+   <trkpt lat="49.088422" lon="8.403242"><ele>110.75</ele></trkpt>
+   <trkpt lat="49.08867" lon="8.403227"><ele>110.5</ele></trkpt>
+   <trkpt lat="49.088791" lon="8.403201"><ele>110</ele></trkpt>
+   <trkpt lat="49.088978" lon="8.403146"/>
+   <trkpt lat="49.088981" lon="8.403144"/>
+  </trkseg>
+ </trk>
+</gpx>

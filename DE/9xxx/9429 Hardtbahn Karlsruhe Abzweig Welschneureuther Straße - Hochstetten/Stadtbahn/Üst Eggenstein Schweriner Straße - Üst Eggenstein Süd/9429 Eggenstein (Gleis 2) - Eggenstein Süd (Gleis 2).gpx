@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 518 filtered ascend = 0 plain-ascend = 1 cost=518 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Eggenstein (Gleis 2) - Eggenstein Süd (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.07076/8.39614/osm-mapnik-german_style&amp;lonlats=8.397749,49.075279;8.395888,49.070796&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.075277" lon="8.397754"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.074156" lon="8.397287"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.073458" lon="8.396991"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.07231" lon="8.39652"><ele>112</ele></trkpt>
+   <trkpt lat="49.07227" lon="8.396504"><ele>112</ele></trkpt>
+   <trkpt lat="49.072106" lon="8.396438"><ele>112</ele></trkpt>
+   <trkpt lat="49.07208" lon="8.396427"><ele>112</ele></trkpt>
+   <trkpt lat="49.07155" lon="8.396201"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.070808" lon="8.395894"><ele>112</ele></trkpt>
+   <trkpt lat="49.070794" lon="8.395888"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

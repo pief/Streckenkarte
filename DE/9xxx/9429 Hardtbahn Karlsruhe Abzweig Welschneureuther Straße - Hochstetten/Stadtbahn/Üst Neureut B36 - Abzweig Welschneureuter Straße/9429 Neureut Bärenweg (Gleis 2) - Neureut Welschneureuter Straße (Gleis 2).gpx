@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 451 filtered ascend = 0 plain-ascend = -1 cost=451 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Neureut Bärenweg (Gleis 2) - Neureut Welschneureuter Straße (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.04488/8.37430/osm-mapnik-german_style&amp;lonlats=8.378754,49.047156;8.374097,49.044513&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.047156" lon="8.378752"><ele>113</ele></trkpt>
+   <trkpt lat="49.047106" lon="8.378664"><ele>113</ele></trkpt>
+   <trkpt lat="49.047072" lon="8.378604"><ele>113</ele></trkpt>
+   <trkpt lat="49.046355" lon="8.377347"><ele>112</ele></trkpt>
+   <trkpt lat="49.046092" lon="8.376885"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.045286" lon="8.375471"><ele>112</ele></trkpt>
+   <trkpt lat="49.045012" lon="8.374976"><ele>112</ele></trkpt>
+   <trkpt lat="49.044962" lon="8.374891"><ele>112</ele></trkpt>
+   <trkpt lat="49.044593" lon="8.374237"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.044512" lon="8.374096"><ele>111</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

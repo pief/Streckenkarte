@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 490 filtered ascend = 0 plain-ascend = 1 cost=490 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Eggenstein Spöcker Weg (Gleis 2) - Eggenstein (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.07545/8.39785/osm-mapnik-german_style&amp;lonlats=8.399544,49.079529;8.397749,49.075279&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.079527" lon="8.399548"><ele>111</ele></trkpt>
+   <trkpt lat="49.079507" lon="8.39954"><ele>111</ele></trkpt>
+   <trkpt lat="49.079486" lon="8.399531"><ele>111</ele></trkpt>
+   <trkpt lat="49.079432" lon="8.399508"><ele>110.75</ele></trkpt>
+   <trkpt lat="49.079049" lon="8.399347"><ele>110.25</ele></trkpt>
+   <trkpt lat="49.077333" lon="8.398624"><ele>110.5</ele></trkpt>
+   <trkpt lat="49.076502" lon="8.398265"><ele>111</ele></trkpt>
+   <trkpt lat="49.076129" lon="8.398112"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.075794" lon="8.397969"><ele>111.75</ele></trkpt>
+   <trkpt lat="49.075623" lon="8.397898"><ele>111.5</ele></trkpt>
+   <trkpt lat="49.075277" lon="8.397754"><ele>111.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

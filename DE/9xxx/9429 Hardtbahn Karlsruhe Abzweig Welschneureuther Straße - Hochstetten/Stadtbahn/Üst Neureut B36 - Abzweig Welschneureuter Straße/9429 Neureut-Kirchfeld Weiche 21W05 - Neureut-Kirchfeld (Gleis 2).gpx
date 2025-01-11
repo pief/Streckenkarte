@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 108 filtered ascend = 0 plain-ascend = 1 cost=108 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Neureut-Kirchfeld Weiche 21W05 - Neureut-Kirchfeld (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.05297/8.38855/osm-mapnik-german_style&amp;lonlats=8.389362,49.053233;8.388254,49.052599&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.053228" lon="8.389366"><ele>112.75</ele></trkpt>
+   <trkpt lat="49.053226" lon="8.389361"><ele>112.75</ele></trkpt>
+   <trkpt lat="49.053129" lon="8.38919"><ele>112.75</ele></trkpt>
+   <trkpt lat="49.052598" lon="8.388253"><ele>113.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

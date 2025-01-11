@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 374 filtered ascend = 0 plain-ascend = 0 cost=374 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 Neureut-Kirchfeld (Gleis 2) - Neureut Adolf-Ehrmann-Bad (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/49.05047/8.38458/osm-mapnik-german_style&amp;lonlats=8.388254,49.052599;8.384392,49.050384&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.052598" lon="8.388253"><ele>113</ele></trkpt>
+   <trkpt lat="49.052582" lon="8.388224"><ele>113.25</ele></trkpt>
+   <trkpt lat="49.052429" lon="8.38796"><ele>113</ele></trkpt>
+   <trkpt lat="49.052205" lon="8.38756"><ele>113</ele></trkpt>
+   <trkpt lat="49.051923" lon="8.387064"><ele>113.25</ele></trkpt>
+   <trkpt lat="49.051782" lon="8.386814"><ele>113.25</ele></trkpt>
+   <trkpt lat="49.051664" lon="8.386605"><ele>113</ele></trkpt>
+   <trkpt lat="49.051583" lon="8.386461"><ele>113</ele></trkpt>
+   <trkpt lat="49.05092" lon="8.385306"><ele>112.75</ele></trkpt>
+   <trkpt lat="49.050859" lon="8.385203"><ele>113</ele></trkpt>
+   <trkpt lat="49.050504" lon="8.384602"><ele>113</ele></trkpt>
+   <trkpt lat="49.050382" lon="8.384392"><ele>113</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
