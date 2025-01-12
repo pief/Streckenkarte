@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 0 plain-ascend = 1 cost=246 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Badeniaplatz Weiche 100 - Badeniaplatz (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.98192/8.36843/osm-mapnik-german_style&amp;lonlats=8.367194,48.98249;8.36846,48.981791">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.98249" lon="8.367194"><ele>115</ele></trkpt>
+   <trkpt lat="48.982474" lon="8.367232"><ele>115</ele></trkpt>
+   <trkpt lat="48.982431" lon="8.367333"><ele>115</ele></trkpt>
+   <trkpt lat="48.982388" lon="8.367434"><ele>115</ele></trkpt>
+   <trkpt lat="48.982207" lon="8.367864"><ele>115</ele></trkpt>
+   <trkpt lat="48.982183" lon="8.367916"><ele>115</ele></trkpt>
+   <trkpt lat="48.982129" lon="8.36803"><ele>115</ele></trkpt>
+   <trkpt lat="48.982096" lon="8.368082"><ele>115</ele></trkpt>
+   <trkpt lat="48.982012" lon="8.368182"><ele>115.25</ele></trkpt>
+   <trkpt lat="48.981905" lon="8.368287"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.98184" lon="8.368362"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.981815" lon="8.368405"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.981794" lon="8.36846"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.981793" lon="8.368461"><ele>115.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

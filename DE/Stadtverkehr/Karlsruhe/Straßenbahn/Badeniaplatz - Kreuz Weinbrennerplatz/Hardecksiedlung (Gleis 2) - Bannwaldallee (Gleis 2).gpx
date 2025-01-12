@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 0 plain-ascend = 1 cost=728 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hardecksiedlung (Gleis 2) - Bannwaldallee (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.99502/8.37201/osm-mapnik-german_style&amp;lonlats=8.369257,48.992987;8.372754,48.995279">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.992984" lon="8.36926"><ele>114</ele></trkpt>
+   <trkpt lat="48.994123" lon="8.370686"><ele>114.75</ele></trkpt>
+   <trkpt lat="48.994252" lon="8.37085"/>
+   <trkpt lat="48.994415" lon="8.37109"/>
+   <trkpt lat="48.994645" lon="8.371469"/>
+   <trkpt lat="48.994847" lon="8.371853"/>
+   <trkpt lat="48.995278" lon="8.372753"/>
+  </trkseg>
+ </trk>
+</gpx>

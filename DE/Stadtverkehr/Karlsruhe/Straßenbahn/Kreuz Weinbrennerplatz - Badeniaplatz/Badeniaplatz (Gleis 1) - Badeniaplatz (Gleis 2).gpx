@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 0 plain-ascend = 0 cost=252 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Badeniaplatz (Gleis 1) - Badeniaplatz (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.98219/8.36840/osm-mapnik-german_style&amp;lonlats=8.368461,48.981793;8.368118,48.982247">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.981793" lon="8.368461"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.98178" lon="8.368526"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.981774" lon="8.368596"><ele>115.75</ele></trkpt>
+   <trkpt lat="48.981776" lon="8.36866"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.981785" lon="8.368721"><ele>115.5</ele></trkpt>
+   <trkpt lat="48.981817" lon="8.368809"><ele>115.25</ele></trkpt>
+   <trkpt lat="48.98187" lon="8.368888"><ele>115</ele></trkpt>
+   <trkpt lat="48.981936" lon="8.368935"><ele>115</ele></trkpt>
+   <trkpt lat="48.982011" lon="8.368948"><ele>115</ele></trkpt>
+   <trkpt lat="48.982087" lon="8.368919"><ele>115</ele></trkpt>
+   <trkpt lat="48.982119" lon="8.368892"><ele>115</ele></trkpt>
+   <trkpt lat="48.982152" lon="8.368856"><ele>115</ele></trkpt>
+   <trkpt lat="48.982183" lon="8.368807"><ele>115</ele></trkpt>
+   <trkpt lat="48.982225" lon="8.368695"><ele>115</ele></trkpt>
+   <trkpt lat="48.982238" lon="8.368622"><ele>115</ele></trkpt>
+   <trkpt lat="48.982244" lon="8.368548"><ele>115</ele></trkpt>
+   <trkpt lat="48.982245" lon="8.368167"><ele>115</ele></trkpt>
+   <trkpt lat="48.982247" lon="8.368118"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

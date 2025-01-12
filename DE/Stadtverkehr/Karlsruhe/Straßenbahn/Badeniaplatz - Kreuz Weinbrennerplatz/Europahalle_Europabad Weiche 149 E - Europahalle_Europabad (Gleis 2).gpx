@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 215 filtered ascend = 0 plain-ascend = -1 cost=430 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Europahalle/Europabad Weiche 149 E - Europahalle/Europabad (Gleis 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.99931/8.37646/osm-mapnik-german_style&amp;lonlats=8.375686,48.997239;8.376411,48.999068">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.997236" lon="8.37569"><ele>117.5</ele></trkpt>
+   <trkpt lat="48.997239" lon="8.375694"><ele>117.5</ele></trkpt>
+   <trkpt lat="48.997429" lon="8.375895"><ele>117</ele></trkpt>
+   <trkpt lat="48.997575" lon="8.376016"><ele>116.75</ele></trkpt>
+   <trkpt lat="48.997858" lon="8.376199"><ele>116</ele></trkpt>
+   <trkpt lat="48.997965" lon="8.376246"><ele>116</ele></trkpt>
+   <trkpt lat="48.998167" lon="8.376308"><ele>116</ele></trkpt>
+   <trkpt lat="48.998444" lon="8.376345"><ele>116</ele></trkpt>
+   <trkpt lat="48.999051" lon="8.37641"><ele>116</ele></trkpt>
+   <trkpt lat="48.999066" lon="8.376411"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

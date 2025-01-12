@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 308 filtered ascend = 2 plain-ascend = 1 cost=616 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bannwaldallee (Gleis 2) - Europahalle/Europabad Weiche 149 E</name>
+  <link href="https://bikerouter.de/#map=18/48.99738/8.37599/osm-mapnik-german_style&amp;lonlats=8.372753,48.995278;8.375686,48.997239">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.995278" lon="8.372751"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.995285" lon="8.372766"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.995652" lon="8.373524"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.995904" lon="8.373986"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.99605" lon="8.374232"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.99632" lon="8.374627"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.996493" lon="8.374845"><ele>116.5</ele></trkpt>
+   <trkpt lat="48.996613" lon="8.374997"><ele>119</ele></trkpt>
+   <trkpt lat="48.996849" lon="8.375259"><ele>118.75</ele></trkpt>
+   <trkpt lat="48.997236" lon="8.37569"><ele>117.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
