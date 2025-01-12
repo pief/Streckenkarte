@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 555 filtered ascend = 1 plain-ascend = 1 cost=1110 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Europaplatz Weiche WWW2 - Abzweig Kaiserallee/Stadtbahntunnel Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/49.01065/8.38530/osm-mapnik-german_style&amp;lonlats=8.392796,49.010108;8.385232,49.010541&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010106" lon="8.392795"><ele>115</ele></trkpt>
+   <trkpt lat="49.010232" lon="8.390107"><ele>115</ele></trkpt>
+   <trkpt lat="49.010471" lon="8.387239"><ele>115</ele></trkpt>
+   <trkpt lat="49.010496" lon="8.386486"><ele>115</ele></trkpt>
+   <trkpt lat="49.010528" lon="8.385569"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.010538" lon="8.385238"><ele>116</ele></trkpt>
+   <trkpt lat="49.010538" lon="8.385231"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

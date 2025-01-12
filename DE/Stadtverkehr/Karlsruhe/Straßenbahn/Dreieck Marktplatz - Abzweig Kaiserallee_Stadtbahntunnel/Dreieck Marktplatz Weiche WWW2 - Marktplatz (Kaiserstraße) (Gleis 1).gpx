@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 0 plain-ascend = 0 cost=192 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Marktplatz Weiche WWW2 - Marktplatz (Kaiserstraße) (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.00964/8.40277/osm-mapnik-german_style&amp;lonlats=8.403321,49.009631;8.402017,49.009706&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.009629" lon="8.40332"/>
+   <trkpt lat="49.009682" lon="8.402225"/>
+   <trkpt lat="49.00969" lon="8.402054"/>
+   <trkpt lat="49.009691" lon="8.402015"/>
+  </trkseg>
+ </trk>
+</gpx>

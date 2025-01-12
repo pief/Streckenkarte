@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 604 filtered ascend = 0 plain-ascend = 0 cost=1208 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Marktplatz (Kaiserstraße) (Gleis 1) - Europaplatz/Postgalerie (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.01032/8.39379/osm-mapnik-german_style&amp;lonlats=8.402017,49.009706;8.393769,49.010059&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.009691" lon="8.402015"/>
+   <trkpt lat="49.009695" lon="8.401935"/>
+   <trkpt lat="49.009696" lon="8.401913"/>
+   <trkpt lat="49.009783" lon="8.400015"/>
+   <trkpt lat="49.009888" lon="8.397785"/>
+   <trkpt lat="49.009954" lon="8.396403"/>
+   <trkpt lat="49.009986" lon="8.395379"/>
+   <trkpt lat="49.010006" lon="8.395017"/>
+   <trkpt lat="49.010049" lon="8.394003"/>
+   <trkpt lat="49.010055" lon="8.393865"/>
+   <trkpt lat="49.010059" lon="8.393769"/>
+  </trkseg>
+ </trk>
+</gpx>

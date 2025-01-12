@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 1 plain-ascend = 1 cost=350 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Mühlburger Tor Weiche 333 - Mühlburger Tor (Gleis 1)</name>
+  <link href="https://bikerouter.de/#map=18/49.01077/8.38200/osm-mapnik-german_style&amp;lonlats=8.384019,49.010562;8.381635,49.010666&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010559" lon="8.384018"><ele>116</ele></trkpt>
+   <trkpt lat="49.010564" lon="8.383909"><ele>116</ele></trkpt>
+   <trkpt lat="49.010569" lon="8.383783"><ele>116</ele></trkpt>
+   <trkpt lat="49.010592" lon="8.383242"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.010613" lon="8.382755"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.010615" lon="8.382694"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.010663" lon="8.381672"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.010665" lon="8.381634"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

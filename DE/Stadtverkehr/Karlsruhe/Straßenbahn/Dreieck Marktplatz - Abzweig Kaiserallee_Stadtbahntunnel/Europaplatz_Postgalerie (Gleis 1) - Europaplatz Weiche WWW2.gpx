@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Europaplatz/Postgalerie (Gleis 1) - Europaplatz Weiche WWW2</name>
+  <link href="https://bikerouter.de/#map=19/49.01011/8.39366/osm-mapnik-german_style&amp;lonlats=8.393769,49.010059;8.392796,49.010108&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010059" lon="8.393769"/>
+   <trkpt lat="49.010068" lon="8.393581"/>
+   <trkpt lat="49.010106" lon="8.392803"/>
+   <trkpt lat="49.010106" lon="8.392795"/>
+  </trkseg>
+ </trk>
+</gpx>
