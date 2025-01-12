@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 2 cost=122 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Ettlinger/Rüppurrer Straße Weiche 150 - Dreieck Ettlinger/Rüppurrer Straße Weiche 154</name>
+  <link href="https://bikerouter.de/#map=19/48.99581/8.40400/osm-mapnik-german_style&amp;lonlats=8.404353,48.996084;8.404351,48.995863;8.404365,48.995694;8.404355,48.995641&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.996082" lon="8.404357"><ele>114.25</ele></trkpt>
+   <trkpt lat="48.996077" lon="8.404357"><ele>114.25</ele></trkpt>
+   <trkpt lat="48.995999" lon="8.404357"><ele>114.5</ele></trkpt>
+   <trkpt lat="48.995979" lon="8.404357"><ele>114.5</ele></trkpt>
+   <trkpt lat="48.995863" lon="8.404357"><ele>114.75</ele></trkpt>
+   <trkpt lat="48.995856" lon="8.404357"><ele>114.75</ele></trkpt>
+   <trkpt lat="48.995645" lon="8.404355"><ele>115</ele></trkpt>
+   <trkpt lat="48.995694" lon="8.404365"><ele>115</ele></trkpt>
+   <trkpt lat="48.995645" lon="8.404355"><ele>115</ele></trkpt>
+   <trkpt lat="48.995641" lon="8.404355"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

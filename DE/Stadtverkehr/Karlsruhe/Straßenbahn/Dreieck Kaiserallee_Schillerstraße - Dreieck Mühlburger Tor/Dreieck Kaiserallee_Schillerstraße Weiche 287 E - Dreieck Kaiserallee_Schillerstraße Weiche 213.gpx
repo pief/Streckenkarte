@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = 1 cost=134 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Kaiserallee/Schillerstraße Weiche 287 E - Dreieck Kaiserallee/Schillerstraße Weiche 213</name>
+  <link href="https://bikerouter.de/#map=18/49.01102/8.38334/osm-mapnik-german_style&amp;lonlats=8.379394,49.010738;8.380299,49.010699&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010738" lon="8.379394"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010738" lon="8.379402"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010726" lon="8.379668"><ele>116.5</ele></trkpt>
+   <trkpt lat="49.010712" lon="8.379985"><ele>116.75</ele></trkpt>
+   <trkpt lat="49.010696" lon="8.380296"><ele>117</ele></trkpt>
+   <trkpt lat="49.010695" lon="8.380298"><ele>117</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

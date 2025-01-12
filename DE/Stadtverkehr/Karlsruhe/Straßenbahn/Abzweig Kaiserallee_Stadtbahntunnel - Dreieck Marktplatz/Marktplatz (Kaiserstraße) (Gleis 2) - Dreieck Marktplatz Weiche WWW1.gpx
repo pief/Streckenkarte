@@ -7,16 +7,15 @@
  version="1.1" 
  creator="bikerouter.de 2024.32">
  <trk>
-  <name>Marktplatz (Pyramide) (Gleis 4) - Dreieck Marktplatz Weiche SSS4</name>
-  <link href="https://bikerouter.de/#map=19/49.00909/8.40413/osm-mapnik-german_style&amp;lonlats=8.403765,49.009084;8.403766,49.009179">
+  <name>Marktplatz (Kaiserstraße) (Gleis 2) - Dreieck Marktplatz Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=19/49.00956/8.40365/osm-mapnik-german_style&amp;lonlats=8.403157,49.009602;8.403299,49.0096&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="49.009084" lon="8.403765"/>
-   <trkpt lat="49.009095" lon="8.403765"/>
-   <trkpt lat="49.00912" lon="8.403765"/>
-   <trkpt lat="49.009148" lon="8.403765"/>
-   <trkpt lat="49.009179" lon="8.403765"/>
+   <trkpt lat="49.009602" lon="8.403157"/>
+   <trkpt lat="49.009601" lon="8.403184"/>
+   <trkpt lat="49.009599" lon="8.403226"/>
+   <trkpt lat="49.009595" lon="8.403298"/>
   </trkseg>
  </trk>
 </gpx>
