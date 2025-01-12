@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 0 plain-ascend = 0 cost=91 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>9429 KIT-Campus Nord (Gleis Nord) - KIT-Campus Nord Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/49.09713/8.43047/osm-mapnik-german_style&amp;lonlats=8.430577,49.097054;8.429365,49.097215">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.097056" lon="8.430577"><ele>110</ele></trkpt>
+   <trkpt lat="49.097063" lon="8.43054"><ele>110</ele></trkpt>
+   <trkpt lat="49.097145" lon="8.430085"><ele>110</ele></trkpt>
+   <trkpt lat="49.097177" lon="8.429836"><ele>110</ele></trkpt>
+   <trkpt lat="49.097213" lon="8.429369"><ele>110</ele></trkpt>
+   <trkpt lat="49.097213" lon="8.429364"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
