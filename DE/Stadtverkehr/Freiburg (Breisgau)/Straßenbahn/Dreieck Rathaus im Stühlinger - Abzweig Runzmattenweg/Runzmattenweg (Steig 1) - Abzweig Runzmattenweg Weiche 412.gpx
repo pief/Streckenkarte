@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = 1 cost=48 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Runzmattenweg (Steig 1) - Abzweig Runzmattenweg Weiche 412</name>
+  <link href="https://bikerouter.de/#map=19/48.00256/7.82455/osm-mapnik-german_style&amp;lonlats=7.824942,48.002379;7.824701,48.002522&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.002379" lon="7.824942"><ele>256</ele></trkpt>
+   <trkpt lat="48.002407" lon="7.824894"><ele>256</ele></trkpt>
+   <trkpt lat="48.00252" lon="7.824699"><ele>256.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

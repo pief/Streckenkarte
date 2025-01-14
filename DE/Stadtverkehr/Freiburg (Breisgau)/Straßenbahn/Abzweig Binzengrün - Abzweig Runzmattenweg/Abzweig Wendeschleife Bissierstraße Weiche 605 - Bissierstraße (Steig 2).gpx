@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = 0 cost=154 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Wendeschleife Bissierstraße Weiche 605 - Bissierstraße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.00205/7.81962/osm-mapnik-german_style&amp;lonlats=7.81913,48.001931;7.820069,48.002211&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.001931" lon="7.81913"><ele>251</ele></trkpt>
+   <trkpt lat="48.002048" lon="7.819565"><ele>251</ele></trkpt>
+   <trkpt lat="48.002208" lon="7.820067"><ele>251</ele></trkpt>
+   <trkpt lat="48.002209" lon="7.820069"><ele>251</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

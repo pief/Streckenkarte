@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 0 plain-ascend = 1 cost=280 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bissierstraße (Steig 2) - Üst Bissierstraße Weiche 601</name>
+  <link href="https://bikerouter.de/#map=19/48.00276/7.82243/osm-mapnik-german_style&amp;lonlats=7.820069,48.002211;7.821606,48.0029&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.002209" lon="7.820069"><ele>251</ele></trkpt>
+   <trkpt lat="48.002261" lon="7.820218"><ele>251</ele></trkpt>
+   <trkpt lat="48.002397" lon="7.820568"><ele>251</ele></trkpt>
+   <trkpt lat="48.002425" lon="7.820637"><ele>251</ele></trkpt>
+   <trkpt lat="48.002444" lon="7.820678"><ele>251</ele></trkpt>
+   <trkpt lat="48.002495" lon="7.820802"><ele>251</ele></trkpt>
+   <trkpt lat="48.002538" lon="7.820896"><ele>251</ele></trkpt>
+   <trkpt lat="48.002607" lon="7.821048"><ele>251.25</ele></trkpt>
+   <trkpt lat="48.002729" lon="7.821289"><ele>251.25</ele></trkpt>
+   <trkpt lat="48.002901" lon="7.821604"><ele>251.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
