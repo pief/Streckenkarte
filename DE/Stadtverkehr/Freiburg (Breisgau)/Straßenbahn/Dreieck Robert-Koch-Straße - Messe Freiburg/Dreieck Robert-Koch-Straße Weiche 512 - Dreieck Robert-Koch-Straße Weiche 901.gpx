@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = -1 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Robert-Koch-Straße Weiche 512 - Dreieck Robert-Koch-Straße Weiche 901</name>
+  <link href="https://bikerouter.de/#map=19/48.00414/7.83641/osm-mapnik-german_style&amp;lonlats=7.836674,48.003749;7.836648,48.004149&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.003745" lon="7.836677"><ele>260.75</ele></trkpt>
+   <trkpt lat="48.003749" lon="7.836683"><ele>261</ele></trkpt>
+   <trkpt lat="48.003822" lon="7.836757"><ele>261</ele></trkpt>
+   <trkpt lat="48.003837" lon="7.83677"><ele>261</ele></trkpt>
+   <trkpt lat="48.003889" lon="7.836797"><ele>260.75</ele></trkpt>
+   <trkpt lat="48.003963" lon="7.836804"><ele>260.75</ele></trkpt>
+   <trkpt lat="48.004022" lon="7.836783"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.004047" lon="7.836764"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.004081" lon="7.836735"><ele>260.25</ele></trkpt>
+   <trkpt lat="48.004147" lon="7.836653"><ele>260</ele></trkpt>
+   <trkpt lat="48.004149" lon="7.836648"><ele>258.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

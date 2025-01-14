@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 1 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Robert-Koch-Straße (Steig 1) - Dreieck Robert-Koch-Straße Weiche 512</name>
+  <link href="https://bikerouter.de/#map=19/48.00380/7.83679/osm-mapnik-german_style&amp;lonlats=7.836626,48.003709;7.836674,48.003749&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.003708" lon="7.836625"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.003711" lon="7.836629"><ele>260.75</ele></trkpt>
+   <trkpt lat="48.003736" lon="7.836664"><ele>260.75</ele></trkpt>
+   <trkpt lat="48.003745" lon="7.836677"><ele>261</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

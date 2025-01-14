@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 444 filtered ascend = 0 plain-ascend = -4 cost=888 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Killianstraße (Steig 5) - Berliner Allee (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/48.00725/7.82987/osm-mapnik-german_style&amp;lonlats=7.834271,48.005539;7.829196,48.00752&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.005539" lon="7.834271"><ele>257.75</ele></trkpt>
+   <trkpt lat="48.005584" lon="7.834193"><ele>257.75</ele></trkpt>
+   <trkpt lat="48.005714" lon="7.83399"><ele>257.5</ele></trkpt>
+   <trkpt lat="48.00595" lon="7.833646"><ele>257.5</ele></trkpt>
+   <trkpt lat="48.005997" lon="7.833565"><ele>257.5</ele></trkpt>
+   <trkpt lat="48.006084" lon="7.833411"><ele>257.5</ele></trkpt>
+   <trkpt lat="48.006169" lon="7.83324"><ele>257</ele></trkpt>
+   <trkpt lat="48.006328" lon="7.832867"><ele>253.25</ele></trkpt>
+   <trkpt lat="48.006451" lon="7.832553"><ele>253</ele></trkpt>
+   <trkpt lat="48.006681" lon="7.831984"><ele>255.75</ele></trkpt>
+   <trkpt lat="48.00687" lon="7.831487"><ele>255</ele></trkpt>
+   <trkpt lat="48.006917" lon="7.831343"><ele>255</ele></trkpt>
+   <trkpt lat="48.006988" lon="7.831138"><ele>254.5</ele></trkpt>
+   <trkpt lat="48.007319" lon="7.829908"><ele>253.5</ele></trkpt>
+   <trkpt lat="48.007386" lon="7.829671"><ele>253.25</ele></trkpt>
+   <trkpt lat="48.00752" lon="7.829199"><ele>253</ele></trkpt>
+   <trkpt lat="48.00752" lon="7.829196"><ele>253</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

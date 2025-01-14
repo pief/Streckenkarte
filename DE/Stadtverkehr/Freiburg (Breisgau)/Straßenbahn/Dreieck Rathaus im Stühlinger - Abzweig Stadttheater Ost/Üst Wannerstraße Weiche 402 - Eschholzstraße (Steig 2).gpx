@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 275 filtered ascend = 3 plain-ascend = 4 cost=550 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Wannerstraße Weiche 402 - Eschholzstraße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.99781/7.83737/osm-mapnik-german_style&amp;lonlats=7.833863,47.999237;7.836937,47.99786&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.999238" lon="7.833864"><ele>263</ele></trkpt>
+   <trkpt lat="47.998923" lon="7.834677"><ele>264</ele></trkpt>
+   <trkpt lat="47.998821" lon="7.834903"><ele>264</ele></trkpt>
+   <trkpt lat="47.99864" lon="7.83526"><ele>264</ele></trkpt>
+   <trkpt lat="47.99828" lon="7.835885"><ele>265</ele></trkpt>
+   <trkpt lat="47.998252" lon="7.835941"><ele>265</ele></trkpt>
+   <trkpt lat="47.998211" lon="7.836044"><ele>265</ele></trkpt>
+   <trkpt lat="47.998174" lon="7.836136"><ele>265</ele></trkpt>
+   <trkpt lat="47.998045" lon="7.836464"><ele>265.25</ele></trkpt>
+   <trkpt lat="47.997884" lon="7.836871"><ele>266</ele></trkpt>
+   <trkpt lat="47.997858" lon="7.836935"><ele>266.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

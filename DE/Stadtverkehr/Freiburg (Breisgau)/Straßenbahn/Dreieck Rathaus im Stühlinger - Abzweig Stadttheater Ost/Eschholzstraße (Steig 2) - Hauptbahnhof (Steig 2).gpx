@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 1 plain-ascend = 1 cost=654 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Eschholzstraße (Steig 2) - Hauptbahnhof (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.99636/7.84128/osm-mapnik-german_style&amp;lonlats=7.836937,47.99786;7.840741,47.996501&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.997858" lon="7.836935"><ele>266</ele></trkpt>
+   <trkpt lat="47.997778" lon="7.837134"><ele>266.5</ele></trkpt>
+   <trkpt lat="47.997723" lon="7.837251"><ele>266.75</ele></trkpt>
+   <trkpt lat="47.997297" lon="7.838042"><ele>267</ele></trkpt>
+   <trkpt lat="47.997113" lon="7.838422"/>
+   <trkpt lat="47.997021" lon="7.838648"/>
+   <trkpt lat="47.996914" lon="7.838936"/>
+   <trkpt lat="47.996779" lon="7.839391"/>
+   <trkpt lat="47.996692" lon="7.839775"/>
+   <trkpt lat="47.996592" lon="7.840271"/>
+   <trkpt lat="47.996581" lon="7.840326"/>
+   <trkpt lat="47.996498" lon="7.840738"/>
+   <trkpt lat="47.996497" lon="7.840739"/>
+  </trkseg>
+ </trk>
+</gpx>

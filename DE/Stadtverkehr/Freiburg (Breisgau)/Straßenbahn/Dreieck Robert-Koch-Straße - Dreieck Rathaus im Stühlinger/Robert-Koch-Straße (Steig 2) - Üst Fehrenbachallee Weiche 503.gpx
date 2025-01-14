@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 389 filtered ascend = 1 plain-ascend = 1 cost=778 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Robert-Koch-Straße (Steig 2) - Üst Fehrenbachallee Weiche 503</name>
+  <link href="https://bikerouter.de/#map=19/48.00066/7.83437/osm-mapnik-german_style&amp;lonlats=7.836251,48.003469;7.833174,48.00068&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.003472" lon="7.836245"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.003442" lon="7.8362"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.002503" lon="7.834945"><ele>260.75</ele></trkpt>
+   <trkpt lat="48.002436" lon="7.834865"><ele>261</ele></trkpt>
+   <trkpt lat="48.00235" lon="7.834766"><ele>261</ele></trkpt>
+   <trkpt lat="48.002265" lon="7.834676"><ele>260.75</ele></trkpt>
+   <trkpt lat="48.002152" lon="7.834549"><ele>261</ele></trkpt>
+   <trkpt lat="48.001087" lon="7.833546"><ele>261</ele></trkpt>
+   <trkpt lat="48.000683" lon="7.833179"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.000678" lon="7.833175"><ele>261</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

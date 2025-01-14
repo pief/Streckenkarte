@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=140 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Fehrenbachallee Weiche 503 - Rathaus im Stühlinger (Steig 3)</name>
+  <link href="https://bikerouter.de/#map=19/48.00025/7.83354/osm-mapnik-german_style&amp;lonlats=7.833174,48.00068;7.832694,48.000134&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.000678" lon="7.833175"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.000527" lon="7.833047"><ele>261</ele></trkpt>
+   <trkpt lat="48.000139" lon="7.832697"><ele>260.25</ele></trkpt>
+   <trkpt lat="48.000133" lon="7.832692"><ele>260.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 2 plain-ascend = 2 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Rathaus im Stühlinger Weiche 501 - Dreieck Rathaus im Stühlinger Weiche 405</name>
+  <link href="https://bikerouter.de/#map=19/47.99961/7.83357/osm-mapnik-german_style&amp;lonlats=7.832563,48.000004;7.832724,47.999666&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.000002" lon="7.832565"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.999999" lon="7.832563"><ele>261</ele></trkpt>
+   <trkpt lat="47.99994" lon="7.832537"><ele>261</ele></trkpt>
+   <trkpt lat="47.999875" lon="7.832527"><ele>261</ele></trkpt>
+   <trkpt lat="47.999828" lon="7.832536"><ele>261</ele></trkpt>
+   <trkpt lat="47.999773" lon="7.832568"><ele>261</ele></trkpt>
+   <trkpt lat="47.999745" lon="7.832595"><ele>261.25</ele></trkpt>
+   <trkpt lat="47.999713" lon="7.832642"><ele>261.5</ele></trkpt>
+   <trkpt lat="47.999669" lon="7.832722"><ele>261.75</ele></trkpt>
+   <trkpt lat="47.999667" lon="7.832725"><ele>263</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

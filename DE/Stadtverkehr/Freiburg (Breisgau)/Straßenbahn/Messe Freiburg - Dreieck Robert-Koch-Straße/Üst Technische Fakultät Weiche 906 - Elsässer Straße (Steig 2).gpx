@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 375 filtered ascend = 4 plain-ascend = 4 cost=750 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Technische Fakultät Weiche 906 - Elsässer Straße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.00951/7.83193/osm-mapnik-german_style&amp;lonlats=7.834679,48.011706;7.831028,48.009377&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.011702" lon="7.834683"><ele>248</ele></trkpt>
+   <trkpt lat="48.011645" lon="7.834591"><ele>248</ele></trkpt>
+   <trkpt lat="48.011553" lon="7.83444"><ele>248</ele></trkpt>
+   <trkpt lat="48.01153" lon="7.834401"><ele>248</ele></trkpt>
+   <trkpt lat="48.010923" lon="7.833464"><ele>249.25</ele></trkpt>
+   <trkpt lat="48.010023" lon="7.832047"><ele>251</ele></trkpt>
+   <trkpt lat="48.009956" lon="7.831936"><ele>251</ele></trkpt>
+   <trkpt lat="48.009902" lon="7.831851"><ele>251.25</ele></trkpt>
+   <trkpt lat="48.009788" lon="7.831673"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.009459" lon="7.831157"><ele>252</ele></trkpt>
+   <trkpt lat="48.009376" lon="7.831027"><ele>252</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

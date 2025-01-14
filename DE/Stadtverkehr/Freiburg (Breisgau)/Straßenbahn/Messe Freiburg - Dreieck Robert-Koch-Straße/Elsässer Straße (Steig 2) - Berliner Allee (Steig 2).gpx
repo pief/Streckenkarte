@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 1 plain-ascend = 2 cost=654 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Elsässer Straße (Steig 2) - Berliner Allee (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/48.00752/7.82989/osm-mapnik-german_style&amp;lonlats=7.831028,48.009377;7.829564,48.007385&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.009376" lon="7.831027"><ele>252</ele></trkpt>
+   <trkpt lat="48.009355" lon="7.830993"><ele>252</ele></trkpt>
+   <trkpt lat="48.009345" lon="7.830979"><ele>252</ele></trkpt>
+   <trkpt lat="48.008508" lon="7.82966"><ele>252</ele></trkpt>
+   <trkpt lat="48.007975" lon="7.828845"><ele>252.25</ele></trkpt>
+   <trkpt lat="48.007942" lon="7.828812"><ele>252.25</ele></trkpt>
+   <trkpt lat="48.007859" lon="7.82876"><ele>252.5</ele></trkpt>
+   <trkpt lat="48.007836" lon="7.828753"><ele>252.75</ele></trkpt>
+   <trkpt lat="48.007806" lon="7.828748"><ele>252.75</ele></trkpt>
+   <trkpt lat="48.007739" lon="7.828758"><ele>253</ele></trkpt>
+   <trkpt lat="48.007674" lon="7.828796"><ele>253</ele></trkpt>
+   <trkpt lat="48.007606" lon="7.828873"><ele>252.75</ele></trkpt>
+   <trkpt lat="48.007546" lon="7.829004"><ele>253</ele></trkpt>
+   <trkpt lat="48.0074" lon="7.829505"><ele>253.25</ele></trkpt>
+   <trkpt lat="48.007383" lon="7.829563"><ele>253.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

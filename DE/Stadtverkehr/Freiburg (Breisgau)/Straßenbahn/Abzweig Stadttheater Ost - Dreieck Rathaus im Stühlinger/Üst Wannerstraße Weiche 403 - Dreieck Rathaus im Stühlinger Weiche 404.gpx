@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = 0 cost=154 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Wannerstraße Weiche 403 - Dreieck Rathaus im Stühlinger Weiche 404</name>
+  <link href="https://bikerouter.de/#map=19/47.99957/7.83269/osm-mapnik-german_style&amp;lonlats=7.833684,47.999345;7.832782,47.999673&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.999343" lon="7.833682"><ele>262.75</ele></trkpt>
+   <trkpt lat="47.999542" lon="7.83316"><ele>262</ele></trkpt>
+   <trkpt lat="47.999673" lon="7.832782"><ele>262</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

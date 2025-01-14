@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 2 plain-ascend = 2 cost=360 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Killianstraße (Steig 6) - Dreieck Robert-Koch-Straße Weiche 900</name>
+  <link href="https://bikerouter.de/#map=19/48.00379/7.83762/osm-mapnik-german_style&amp;lonlats=7.834791,48.005186;7.83661,48.004137&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.005186" lon="7.834791"><ele>258</ele></trkpt>
+   <trkpt lat="48.005143" lon="7.834865"><ele>258</ele></trkpt>
+   <trkpt lat="48.005034" lon="7.835055"><ele>258</ele></trkpt>
+   <trkpt lat="48.00484" lon="7.835418"><ele>258.75</ele></trkpt>
+   <trkpt lat="48.004471" lon="7.836051"><ele>259.75</ele></trkpt>
+   <trkpt lat="48.004135" lon="7.836608"><ele>260</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

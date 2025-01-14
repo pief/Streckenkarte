@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 344 filtered ascend = 0 plain-ascend = -3 cost=688 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Elsässer Straße (Steig 1) - Üst Technische Fakultät Weiche 905</name>
+  <link href="https://bikerouter.de/#map=19/48.01184/7.83544/osm-mapnik-german_style&amp;lonlats=7.831653,48.009724;7.834982,48.011837&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.009725" lon="7.831649"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.00975" lon="7.831689"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.009762" lon="7.831708"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.009871" lon="7.831879"><ele>251.25</ele></trkpt>
+   <trkpt lat="48.009927" lon="7.831965"><ele>251.25</ele></trkpt>
+   <trkpt lat="48.01" lon="7.83208"><ele>251</ele></trkpt>
+   <trkpt lat="48.011364" lon="7.834194"><ele>248</ele></trkpt>
+   <trkpt lat="48.011507" lon="7.834433"><ele>248</ele></trkpt>
+   <trkpt lat="48.01153" lon="7.834471"><ele>248</ele></trkpt>
+   <trkpt lat="48.011625" lon="7.834627"><ele>248.25</ele></trkpt>
+   <trkpt lat="48.011666" lon="7.834693"><ele>248</ele></trkpt>
+   <trkpt lat="48.011833" lon="7.83498"><ele>248</ele></trkpt>
+   <trkpt lat="48.011835" lon="7.834983"><ele>248.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
