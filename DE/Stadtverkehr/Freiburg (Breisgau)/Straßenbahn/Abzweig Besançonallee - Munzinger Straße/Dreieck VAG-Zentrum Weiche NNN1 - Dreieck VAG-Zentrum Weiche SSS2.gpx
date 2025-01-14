@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = 0 cost=180 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck VAG-Zentrum Weiche NNN1 - Dreieck VAG-Zentrum Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/47.99220/7.79833/osm-mapnik-german_style&amp;lonlats=7.798501,47.992894;7.79774,47.992307&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.992892" lon="7.798503"><ele>240.5</ele></trkpt>
+   <trkpt lat="47.992891" lon="7.798503"><ele>240.5</ele></trkpt>
+   <trkpt lat="47.992821" lon="7.798461"><ele>240.25</ele></trkpt>
+   <trkpt lat="47.992751" lon="7.798382"><ele>240</ele></trkpt>
+   <trkpt lat="47.992674" lon="7.79824"><ele>240</ele></trkpt>
+   <trkpt lat="47.992603" lon="7.798105"><ele>240</ele></trkpt>
+   <trkpt lat="47.992571" lon="7.798044"><ele>240</ele></trkpt>
+   <trkpt lat="47.992563" lon="7.798028"><ele>240</ele></trkpt>
+   <trkpt lat="47.992483" lon="7.79789"><ele>240</ele></trkpt>
+   <trkpt lat="47.992427" lon="7.797825"><ele>240</ele></trkpt>
+   <trkpt lat="47.992393" lon="7.797797"><ele>240</ele></trkpt>
+   <trkpt lat="47.99231" lon="7.797742"><ele>240</ele></trkpt>
+   <trkpt lat="47.992305" lon="7.79774"><ele>240</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
