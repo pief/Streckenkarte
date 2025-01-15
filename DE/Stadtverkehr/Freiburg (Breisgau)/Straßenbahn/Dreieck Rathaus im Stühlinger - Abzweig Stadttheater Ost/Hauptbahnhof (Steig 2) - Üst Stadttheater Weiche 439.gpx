@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 257 filtered ascend = 2 plain-ascend = 3 cost=514 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hauptbahnhof (Steig 2) - Üst Stadttheater Weiche 439</name>
+  <link href="https://bikerouter.de/#map=19/47.99571/7.84403/osm-mapnik-german_style&amp;lonlats=7.840739,47.996497;7.844029,47.995795&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.996497" lon="7.840739"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.996471" lon="7.840869"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.996466" lon="7.840894"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.996234" lon="7.842004"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.996089" lon="7.842695"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.995953" lon="7.843338"><ele>273</ele></trkpt>
+   <trkpt lat="47.995874" lon="7.843685"><ele>273.25</ele></trkpt>
+   <trkpt lat="47.995794" lon="7.844028"><ele>274</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 1 cost=60 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Bertoldsbrunnen Weiche 431 - Kreuz Bertoldsbrunnen Weiche 251</name>
+  <link href="https://bikerouter.de/#map=19/47.99444/7.85006/osm-mapnik-german_style&amp;lonlats=7.849638,47.994937;7.849731,47.994689&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.994935" lon="7.849636"><ele>278.5</ele></trkpt>
+   <trkpt lat="47.99493" lon="7.849648"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.994894" lon="7.849687"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.994853" lon="7.849714"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.994821" lon="7.849735"><ele>279</ele></trkpt>
+   <trkpt lat="47.994749" lon="7.84975"><ele>279</ele></trkpt>
+   <trkpt lat="47.994694" lon="7.849738"><ele>279</ele></trkpt>
+   <trkpt lat="47.994688" lon="7.849731"><ele>279</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
