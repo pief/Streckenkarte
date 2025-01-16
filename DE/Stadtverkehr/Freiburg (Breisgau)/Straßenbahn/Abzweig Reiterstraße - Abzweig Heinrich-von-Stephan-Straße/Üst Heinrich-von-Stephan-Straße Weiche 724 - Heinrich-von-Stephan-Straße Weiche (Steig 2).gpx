@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = 0 cost=202 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Üst Heinrich-von-Stephan-Straße Weiche 724 - Heinrich-von-Stephan-Straße Weiche (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.98677/7.83798/osm-mapnik-german_style&amp;lonlats=7.83783,47.986597;7.836581,47.986261&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.986594" lon="7.837831"><ele>267</ele></trkpt>
+   <trkpt lat="47.986512" lon="7.837589"><ele>267</ele></trkpt>
+   <trkpt lat="47.986388" lon="7.837093"><ele>266</ele></trkpt>
+   <trkpt lat="47.986287" lon="7.836687"><ele>266</ele></trkpt>
+   <trkpt lat="47.986261" lon="7.836579"><ele>266</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

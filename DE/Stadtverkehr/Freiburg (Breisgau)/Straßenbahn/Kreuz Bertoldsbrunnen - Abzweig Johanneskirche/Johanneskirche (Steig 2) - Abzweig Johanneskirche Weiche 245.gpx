@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12 filtered ascend = 0 plain-ascend = 0 cost=24 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Johanneskirche (Steig 2) - Abzweig Johanneskirche Weiche 245</name>
+  <link href="https://bikerouter.de/#map=19/47.98927/7.84938/osm-mapnik-german_style&amp;lonlats=7.847897,47.989002;7.847881,47.9889&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.989" lon="7.847897"><ele>274</ele></trkpt>
+   <trkpt lat="47.988932" lon="7.847885"><ele>274</ele></trkpt>
+   <trkpt lat="47.988899" lon="7.847878"><ele>274</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 0 plain-ascend = -1 cost=602 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Vauban Mitte (Steig 2) - Innsbrucker Straße Weiche 805</name>
+  <link href="https://bikerouter.de/#map=19/47.97627/7.81967/osm-mapnik-german_style&amp;lonlats=7.822282,47.975413;7.818537,47.976363&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.975413" lon="7.822282"><ele>256</ele></trkpt>
+   <trkpt lat="47.975427" lon="7.822225"><ele>256</ele></trkpt>
+   <trkpt lat="47.975437" lon="7.82218"><ele>256</ele></trkpt>
+   <trkpt lat="47.975457" lon="7.822108"><ele>256</ele></trkpt>
+   <trkpt lat="47.975563" lon="7.821685"><ele>256</ele></trkpt>
+   <trkpt lat="47.975739" lon="7.820993"><ele>255</ele></trkpt>
+   <trkpt lat="47.975754" lon="7.820928"><ele>255</ele></trkpt>
+   <trkpt lat="47.976088" lon="7.819603"><ele>254.5</ele></trkpt>
+   <trkpt lat="47.976099" lon="7.819558"><ele>254.25</ele></trkpt>
+   <trkpt lat="47.976249" lon="7.818974"><ele>254</ele></trkpt>
+   <trkpt lat="47.976266" lon="7.818905"><ele>254</ele></trkpt>
+   <trkpt lat="47.97636" lon="7.818535"><ele>254</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 2 plain-ascend = 2 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Reiterstraße Weiche 727 - Reiterstraße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/47.98749/7.84147/osm-mapnik-german_style&amp;lonlats=7.83907,47.987181;7.840344,47.987304&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.987179" lon="7.83907"><ele>267.25</ele></trkpt>
+   <trkpt lat="47.987183" lon="7.839075"><ele>267.5</ele></trkpt>
+   <trkpt lat="47.987223" lon="7.839161"><ele>267.75</ele></trkpt>
+   <trkpt lat="47.987249" lon="7.839234"><ele>268</ele></trkpt>
+   <trkpt lat="47.987278" lon="7.839325"><ele>268.5</ele></trkpt>
+   <trkpt lat="47.9873" lon="7.839441"><ele>268.75</ele></trkpt>
+   <trkpt lat="47.987309" lon="7.83953"><ele>269</ele></trkpt>
+   <trkpt lat="47.987312" lon="7.839596"><ele>269</ele></trkpt>
+   <trkpt lat="47.987312" lon="7.839685"><ele>269</ele></trkpt>
+   <trkpt lat="47.987308" lon="7.840299"><ele>269.75</ele></trkpt>
+   <trkpt lat="47.987308" lon="7.840344"><ele>269.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

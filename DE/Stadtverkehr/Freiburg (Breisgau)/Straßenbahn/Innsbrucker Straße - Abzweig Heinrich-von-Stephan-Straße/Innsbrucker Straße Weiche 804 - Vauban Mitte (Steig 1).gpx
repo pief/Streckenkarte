@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 3 plain-ascend = 3 cost=706 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Innsbrucker Straße Weiche 804 - Vauban Mitte (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/47.97536/7.82217/osm-mapnik-german_style&amp;lonlats=7.818376,47.976369;7.822791,47.975252&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.976368" lon="7.818375"><ele>254</ele></trkpt>
+   <trkpt lat="47.976253" lon="7.818835"><ele>254</ele></trkpt>
+   <trkpt lat="47.97624" lon="7.818885"><ele>254</ele></trkpt>
+   <trkpt lat="47.976089" lon="7.819477"><ele>254.25</ele></trkpt>
+   <trkpt lat="47.976073" lon="7.819539"><ele>254.5</ele></trkpt>
+   <trkpt lat="47.975738" lon="7.820863"><ele>255</ele></trkpt>
+   <trkpt lat="47.975726" lon="7.820912"><ele>255</ele></trkpt>
+   <trkpt lat="47.975546" lon="7.821631"><ele>255.75</ele></trkpt>
+   <trkpt lat="47.97544" lon="7.822041"><ele>256</ele></trkpt>
+   <trkpt lat="47.975428" lon="7.822091"><ele>256</ele></trkpt>
+   <trkpt lat="47.975411" lon="7.822164"><ele>256</ele></trkpt>
+   <trkpt lat="47.97527" lon="7.822729"><ele>256.75</ele></trkpt>
+   <trkpt lat="47.975253" lon="7.822791"><ele>257</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
