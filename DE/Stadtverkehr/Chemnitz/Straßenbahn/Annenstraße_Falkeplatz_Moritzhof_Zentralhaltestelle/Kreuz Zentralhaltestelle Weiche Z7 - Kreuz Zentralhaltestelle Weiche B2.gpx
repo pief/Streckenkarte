@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Kreuz Zentralhaltestelle Weiche Z7 - Kreuz Zentralhaltestelle Weiche B2</name>
+  <link href="https://bikerouter.de/#map=19/50.83090/12.92249/osm-mapnik-german_style&amp;lonlats=12.921523,50.831033;12.922256,50.830884&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.831032" lon="12.921522"><ele>298</ele></trkpt>
+   <trkpt lat="50.831034" lon="12.921526"><ele>298</ele></trkpt>
+   <trkpt lat="50.831075" lon="12.921647"><ele>298</ele></trkpt>
+   <trkpt lat="50.831095" lon="12.921739"><ele>298</ele></trkpt>
+   <trkpt lat="50.831099" lon="12.921846"><ele>298</ele></trkpt>
+   <trkpt lat="50.831087" lon="12.921956"><ele>298</ele></trkpt>
+   <trkpt lat="50.831066" lon="12.922031"><ele>298</ele></trkpt>
+   <trkpt lat="50.831039" lon="12.922097"><ele>298.25</ele></trkpt>
+   <trkpt lat="50.830991" lon="12.922168"><ele>298.25</ele></trkpt>
+   <trkpt lat="50.830898" lon="12.922246"><ele>298.75</ele></trkpt>
+   <trkpt lat="50.830885" lon="12.922256"><ele>298.75</ele></trkpt>
+   <trkpt lat="50.830884" lon="12.922256"><ele>298</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
