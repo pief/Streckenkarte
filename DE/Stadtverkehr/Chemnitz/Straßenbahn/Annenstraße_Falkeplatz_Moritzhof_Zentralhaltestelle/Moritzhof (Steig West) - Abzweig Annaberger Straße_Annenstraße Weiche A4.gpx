@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 0 plain-ascend = 0 cost=270 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Moritzhof (Steig West) - Abzweig Annaberger Straße/Annenstraße Weiche A4</name>
+  <link href="https://bikerouter.de/#map=18/50.82976/12.92051/osm-mapnik-german_style&amp;lonlats=12.920008,50.82955;12.920592,50.828405&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.829551" lon="12.920012"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.82936" lon="12.920146"><ele>297.5</ele></trkpt>
+   <trkpt lat="50.829287" lon="12.920184"><ele>297.25</ele></trkpt>
+   <trkpt lat="50.829206" lon="12.920228"><ele>297</ele></trkpt>
+   <trkpt lat="50.82856" lon="12.920538"><ele>297</ele></trkpt>
+   <trkpt lat="50.828404" lon="12.920591"><ele>297</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
