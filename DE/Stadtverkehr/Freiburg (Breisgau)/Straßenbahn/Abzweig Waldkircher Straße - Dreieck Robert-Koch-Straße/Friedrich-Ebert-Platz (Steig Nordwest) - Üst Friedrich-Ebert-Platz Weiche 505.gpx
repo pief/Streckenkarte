@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = 0 cost=118 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Friedrich-Ebert-Platz (Steig Nordwest) - Üst Friedrich-Ebert-Platz Weiche 505</name>
+  <link href="https://bikerouter.de/#map=19/48.00309/7.84010/osm-mapnik-german_style&amp;lonlats=7.840743,48.003262;7.840075,48.002992&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.003264" lon="7.840739"><ele>263</ele></trkpt>
+   <trkpt lat="48.003223" lon="7.840657"><ele>263</ele></trkpt>
+   <trkpt lat="48.003151" lon="7.840513"><ele>263</ele></trkpt>
+   <trkpt lat="48.003073" lon="7.840321"><ele>263</ele></trkpt>
+   <trkpt lat="48.002992" lon="7.840081"><ele>263</ele></trkpt>
+   <trkpt lat="48.00299" lon="7.840075"><ele>263</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

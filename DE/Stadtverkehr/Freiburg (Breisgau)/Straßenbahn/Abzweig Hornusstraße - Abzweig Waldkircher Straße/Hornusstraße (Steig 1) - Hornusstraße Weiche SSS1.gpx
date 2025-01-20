@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 1 plain-ascend = 1 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Hornusstraße (Steig 1) - Hornusstraße Weiche SSS1</name>
+  <link href="https://bikerouter.de/#map=19/48.01519/7.85456/osm-mapnik-german_style&amp;lonlats=7.854361,48.015544;7.854026,48.01516&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.015546" lon="7.854361"><ele>250</ele></trkpt>
+   <trkpt lat="48.015548" lon="7.854314"><ele>250</ele></trkpt>
+   <trkpt lat="48.01554" lon="7.854218"><ele>250</ele></trkpt>
+   <trkpt lat="48.015515" lon="7.854127"><ele>250</ele></trkpt>
+   <trkpt lat="48.015498" lon="7.854092"><ele>250</ele></trkpt>
+   <trkpt lat="48.015483" lon="7.854064"><ele>250.25</ele></trkpt>
+   <trkpt lat="48.015439" lon="7.854015"><ele>250.25</ele></trkpt>
+   <trkpt lat="48.015392" lon="7.853983"><ele>250.5</ele></trkpt>
+   <trkpt lat="48.015375" lon="7.853976"><ele>250.5</ele></trkpt>
+   <trkpt lat="48.015351" lon="7.853968"><ele>250.5</ele></trkpt>
+   <trkpt lat="48.015305" lon="7.85397"><ele>250.75</ele></trkpt>
+   <trkpt lat="48.015162" lon="7.854024"><ele>251</ele></trkpt>
+   <trkpt lat="48.015159" lon="7.854025"><ele>251</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

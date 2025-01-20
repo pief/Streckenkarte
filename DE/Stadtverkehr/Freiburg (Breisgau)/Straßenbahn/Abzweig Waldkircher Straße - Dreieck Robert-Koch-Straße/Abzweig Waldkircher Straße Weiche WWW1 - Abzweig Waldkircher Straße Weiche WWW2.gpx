@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Abzweig Waldkircher Straße Weiche WWW1 - Abzweig Waldkircher Straße Weiche WWW2</name>
+  <link href="https://bikerouter.de/#map=19/48.01404/7.85432/osm-mapnik-german_style&amp;lonlats=7.854589,48.014297;7.854565,48.014137&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.014297" lon="7.854592"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.014295" lon="7.854594"><ele>252</ele></trkpt>
+   <trkpt lat="48.014259" lon="7.854612"><ele>252</ele></trkpt>
+   <trkpt lat="48.014236" lon="7.854617"><ele>252</ele></trkpt>
+   <trkpt lat="48.014195" lon="7.854609"><ele>252</ele></trkpt>
+   <trkpt lat="48.014145" lon="7.85457"><ele>252</ele></trkpt>
+   <trkpt lat="48.014141" lon="7.85456"><ele>252</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

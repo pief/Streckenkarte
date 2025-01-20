@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 283 filtered ascend = 2 plain-ascend = 2 cost=566 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Robert-Koch-Straße Weiche 514 - Üst Friedrich-Ebert-Platz Weiche 504</name>
+  <link href="https://bikerouter.de/#map=19/48.00338/7.84110/osm-mapnik-german_style&amp;lonlats=7.837224,48.003801;7.840362,48.003058&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.003801" lon="7.837224"><ele>261</ele></trkpt>
+   <trkpt lat="48.003785" lon="7.837262"><ele>261</ele></trkpt>
+   <trkpt lat="48.003588" lon="7.837646"><ele>261</ele></trkpt>
+   <trkpt lat="48.003559" lon="7.837697"><ele>261</ele></trkpt>
+   <trkpt lat="48.002832" lon="7.838925"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.002788" lon="7.839014"><ele>263</ele></trkpt>
+   <trkpt lat="48.002763" lon="7.839132"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.002754" lon="7.839207"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.002754" lon="7.839358"><ele>262.75</ele></trkpt>
+   <trkpt lat="48.002786" lon="7.839518"><ele>263</ele></trkpt>
+   <trkpt lat="48.002985" lon="7.840157"><ele>263</ele></trkpt>
+   <trkpt lat="48.003056" lon="7.840361"><ele>263</ele></trkpt>
+   <trkpt lat="48.003056" lon="7.840362"><ele>263</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

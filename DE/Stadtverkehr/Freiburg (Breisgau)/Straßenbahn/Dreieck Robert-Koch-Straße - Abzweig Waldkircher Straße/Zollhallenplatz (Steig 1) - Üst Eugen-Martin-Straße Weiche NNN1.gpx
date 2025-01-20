@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 338 filtered ascend = 0 plain-ascend = 0 cost=678 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Zollhallenplatz (Steig 1) - Üst Eugen-Martin-Straße Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/48.01278/7.85241/osm-mapnik-german_style&amp;lonlats=7.848892,48.010547;7.852022,48.012727&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.010542" lon="7.848897"><ele>252.5</ele></trkpt>
+   <trkpt lat="48.010848" lon="7.849343"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.010923" lon="7.849478"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.011164" lon="7.849916"><ele>252</ele></trkpt>
+   <trkpt lat="48.011276" lon="7.850083"><ele>252</ele></trkpt>
+   <trkpt lat="48.011954" lon="7.851017"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.012025" lon="7.851124"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.012163" lon="7.851307"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.012462" lon="7.851673"><ele>252</ele></trkpt>
+   <trkpt lat="48.012723" lon="7.852026"><ele>251.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
