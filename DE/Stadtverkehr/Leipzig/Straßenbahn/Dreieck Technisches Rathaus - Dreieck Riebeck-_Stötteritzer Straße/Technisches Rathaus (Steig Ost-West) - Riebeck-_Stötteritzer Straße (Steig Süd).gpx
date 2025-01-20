@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 215 filtered ascend = 0 plain-ascend = -1 cost=430 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Technisches Rathaus (Steig Ost-West) - Riebeck-/Stötteritzer Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.32681/12.40340/osm-mapnik-german_style&amp;lonlats=12.402101,51.324895;12.403066,51.326732&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.324895" lon="12.402101"><ele>125</ele></trkpt>
+   <trkpt lat="51.324959" lon="12.402135"><ele>125</ele></trkpt>
+   <trkpt lat="51.325135" lon="12.402231"><ele>125</ele></trkpt>
+   <trkpt lat="51.325588" lon="12.402469"><ele>124</ele></trkpt>
+   <trkpt lat="51.325749" lon="12.402534"><ele>124</ele></trkpt>
+   <trkpt lat="51.325888" lon="12.402602"><ele>124</ele></trkpt>
+   <trkpt lat="51.32673" lon="12.403066"><ele>123.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

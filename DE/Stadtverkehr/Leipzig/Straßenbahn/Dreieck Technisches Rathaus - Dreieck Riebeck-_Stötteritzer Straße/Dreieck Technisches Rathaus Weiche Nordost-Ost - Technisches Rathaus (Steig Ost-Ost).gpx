@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Technisches Rathaus Weiche Nordost-Ost - Technisches Rathaus (Steig Ost-Ost)</name>
+  <link href="https://bikerouter.de/#map=19/51.32488/12.40299/osm-mapnik-german_style&amp;lonlats=12.402079,51.324858;12.402103,51.324895&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.324857" lon="12.402078"><ele>125</ele></trkpt>
+   <trkpt lat="51.324861" lon="12.402082"><ele>125</ele></trkpt>
+   <trkpt lat="51.324895" lon="12.402101"><ele>125</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

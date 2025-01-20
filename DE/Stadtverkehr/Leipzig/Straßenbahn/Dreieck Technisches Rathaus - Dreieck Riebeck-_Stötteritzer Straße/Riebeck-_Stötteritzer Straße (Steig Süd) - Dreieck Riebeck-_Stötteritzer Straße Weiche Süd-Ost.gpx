@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Riebeck-/Stötteritzer Straße (Steig Süd) - Dreieck Riebeck-/Stötteritzer Straße Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.32672/12.40320/osm-mapnik-german_style&amp;lonlats=12.403066,51.32673;12.403087,51.326775&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.326729" lon="12.403065"><ele>123.5</ele></trkpt>
+   <trkpt lat="51.326738" lon="12.40307"><ele>123.5</ele></trkpt>
+   <trkpt lat="51.326773" lon="12.403089"><ele>123.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
