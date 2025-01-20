@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 1 plain-ascend = 1 cost=706 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Brunnenstraße (Steig Süd) - Harenberger Straße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.37691/9.68957/osm-mapnik-german_style&amp;lonlats=9.684733,52.377227;9.689885,52.377024&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.377232" lon="9.684734"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.377228" lon="9.684794"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.377218" lon="9.684935"><ele>53</ele></trkpt>
+   <trkpt lat="52.377107" lon="9.686348"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.377059" lon="9.687156"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.377089" lon="9.687943"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.377135" lon="9.688749"><ele>53</ele></trkpt>
+   <trkpt lat="52.37713" lon="9.688959"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.377118" lon="9.689131"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.377049" lon="9.689707"><ele>54</ele></trkpt>
+   <trkpt lat="52.377024" lon="9.689885"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

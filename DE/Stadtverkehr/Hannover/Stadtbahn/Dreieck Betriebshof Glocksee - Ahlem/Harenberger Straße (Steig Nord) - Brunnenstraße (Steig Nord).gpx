@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 370 filtered ascend = 0 plain-ascend = 0 cost=740 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Harenberger Straße (Steig Nord) - Brunnenstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/52.37721/9.68534/osm-mapnik-german_style&amp;lonlats=9.689316,52.377134;9.683912,52.377325&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.37713" lon="9.689314"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.377153" lon="9.689136"><ele>53</ele></trkpt>
+   <trkpt lat="52.377162" lon="9.688973"><ele>53</ele></trkpt>
+   <trkpt lat="52.377164" lon="9.688738"><ele>53</ele></trkpt>
+   <trkpt lat="52.377144" lon="9.688134"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.377112" lon="9.687637"><ele>52</ele></trkpt>
+   <trkpt lat="52.377095" lon="9.687143"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.377107" lon="9.686868"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.37715" lon="9.68627"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.377243" lon="9.685017"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.377311" lon="9.684179"><ele>53</ele></trkpt>
+   <trkpt lat="52.37733" lon="9.683913"><ele>53</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
