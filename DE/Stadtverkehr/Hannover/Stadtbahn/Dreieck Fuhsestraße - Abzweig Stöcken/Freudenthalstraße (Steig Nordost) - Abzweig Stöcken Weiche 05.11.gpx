@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 1 plain-ascend = 1 cost=214 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Freudenthalstraße (Steig Nordost) - Abzweig Stöcken Weiche 05.11</name>
+  <link href="https://bikerouter.de/#map=19/52.40550/9.66012/osm-mapnik-german_style&amp;lonlats=9.660379,52.405059;9.659372,52.4058&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.405059" lon="9.660379"><ele>51</ele></trkpt>
+   <trkpt lat="52.40522" lon="9.660168"><ele>51</ele></trkpt>
+   <trkpt lat="52.405502" lon="9.659795"><ele>52</ele></trkpt>
+   <trkpt lat="52.4058" lon="9.659372"><ele>51.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

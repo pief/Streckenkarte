@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 382 filtered ascend = 0 plain-ascend = 0 cost=764 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Bahnhof Leinhausen (Steig Nordost) - Dreieck Fuhsestraße Weiche 05.15</name>
+  <link href="https://bikerouter.de/#map=17/52.39958/9.66956/osm-mapnik-german_style&amp;lonlats=9.674781,52.397371;9.67049,52.399555&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.397371" lon="9.674781"><ele>51</ele></trkpt>
+   <trkpt lat="52.397372" lon="9.674781"><ele>51</ele></trkpt>
+   <trkpt lat="52.397719" lon="9.674102"><ele>51</ele></trkpt>
+   <trkpt lat="52.398313" lon="9.672922"><ele>51</ele></trkpt>
+   <trkpt lat="52.398379" lon="9.672791"><ele>51</ele></trkpt>
+   <trkpt lat="52.398446" lon="9.67266"><ele>51</ele></trkpt>
+   <trkpt lat="52.399239" lon="9.671124"><ele>51</ele></trkpt>
+   <trkpt lat="52.399524" lon="9.670561"><ele>51</ele></trkpt>
+   <trkpt lat="52.399556" lon="9.670492"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 0 plain-ascend = 0 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Fuhsestraße Weiche 05.16 - Bahnhof Leinhausen (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=17/52.39828/9.67316/osm-mapnik-german_style&amp;lonlats=9.670469,52.399519;9.674723,52.397324&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.39952" lon="9.67047"><ele>51</ele></trkpt>
+   <trkpt lat="52.399495" lon="9.670521"><ele>51</ele></trkpt>
+   <trkpt lat="52.399215" lon="9.671089"><ele>51</ele></trkpt>
+   <trkpt lat="52.399022" lon="9.671473"><ele>51</ele></trkpt>
+   <trkpt lat="52.398423" lon="9.672626"><ele>51</ele></trkpt>
+   <trkpt lat="52.398354" lon="9.672758"><ele>51</ele></trkpt>
+   <trkpt lat="52.398287" lon="9.672885"><ele>51</ele></trkpt>
+   <trkpt lat="52.397676" lon="9.674039"><ele>51</ele></trkpt>
+   <trkpt lat="52.397325" lon="9.674722"><ele>51</ele></trkpt>
+   <trkpt lat="52.397324" lon="9.674723"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
