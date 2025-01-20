@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Naunhofer Straße (Steig West) - Abzweig Wendeschleife Naunhofer Straße Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/51.31849/12.40796/osm-mapnik-german_style&amp;lonlats=12.40722,51.31824;12.407086,51.318704&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.318238" lon="12.407221"><ele>138</ele></trkpt>
+   <trkpt lat="51.318398" lon="12.407237"><ele>138</ele></trkpt>
+   <trkpt lat="51.318475" lon="12.407242"><ele>138</ele></trkpt>
+   <trkpt lat="51.31853" lon="12.407235"><ele>138</ele></trkpt>
+   <trkpt lat="51.318594" lon="12.407202"><ele>137.75</ele></trkpt>
+   <trkpt lat="51.318645" lon="12.407157"><ele>137.5</ele></trkpt>
+   <trkpt lat="51.318706" lon="12.407091"><ele>136.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

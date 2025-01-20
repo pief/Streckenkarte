@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Wendeschleife Naunhofer Straße Weiche Nord - Naunhofer Straße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.31811/12.40815/osm-mapnik-german_style&amp;lonlats=12.407145,51.317722;12.40722,51.31824&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.31772" lon="12.407148"><ele>138</ele></trkpt>
+   <trkpt lat="51.317722" lon="12.407149"><ele>138</ele></trkpt>
+   <trkpt lat="51.31791" lon="12.407178"><ele>138</ele></trkpt>
+   <trkpt lat="51.318238" lon="12.407221"><ele>138</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

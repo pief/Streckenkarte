@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 1 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Dreieck Altes Messegelände Weiche 549 - Dreieck Altes Messegelände Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=18/51.32138/12.40421/osm-mapnik-german_style&amp;lonlats=12.403644,51.321941;12.403986,51.321454&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.321941" lon="12.403644"><ele>128</ele></trkpt>
+   <trkpt lat="51.32194" lon="12.403645"><ele>128</ele></trkpt>
+   <trkpt lat="51.321815" lon="12.403732"><ele>128</ele></trkpt>
+   <trkpt lat="51.321662" lon="12.403832"><ele>128</ele></trkpt>
+   <trkpt lat="51.321605" lon="12.403871"><ele>128</ele></trkpt>
+   <trkpt lat="51.321594" lon="12.403878"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.321559" lon="12.403902"><ele>128.25</ele></trkpt>
+   <trkpt lat="51.321455" lon="12.403986"><ele>128.75</ele></trkpt>
+   <trkpt lat="51.321454" lon="12.403986"><ele>128.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

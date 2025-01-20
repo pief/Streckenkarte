@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 8 plain-ascend = 9 cost=800 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.32">
+ <trk>
+  <name>Altes Messegelände (Steig Südwest) - Naunhofer Straße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.31766/12.40842/osm-mapnik-german_style&amp;lonlats=12.404742,51.320661;12.408138,51.317779&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.320659" lon="12.404737"><ele>130.5</ele></trkpt>
+   <trkpt lat="51.320427" lon="12.404958"><ele>131.25</ele></trkpt>
+   <trkpt lat="51.320229" lon="12.405167"><ele>132</ele></trkpt>
+   <trkpt lat="51.320034" lon="12.405388"><ele>132.25</ele></trkpt>
+   <trkpt lat="51.319966" lon="12.405469"><ele>132.5</ele></trkpt>
+   <trkpt lat="51.319909" lon="12.405534"><ele>132.75</ele></trkpt>
+   <trkpt lat="51.319727" lon="12.405745"><ele>133.5</ele></trkpt>
+   <trkpt lat="51.319584" lon="12.405932"><ele>134</ele></trkpt>
+   <trkpt lat="51.319383" lon="12.406215"><ele>135</ele></trkpt>
+   <trkpt lat="51.319108" lon="12.406522"><ele>131</ele></trkpt>
+   <trkpt lat="51.318844" lon="12.40684"><ele>132.25</ele></trkpt>
+   <trkpt lat="51.318629" lon="12.407121"><ele>137.5</ele></trkpt>
+   <trkpt lat="51.318603" lon="12.407151"><ele>137.75</ele></trkpt>
+   <trkpt lat="51.318557" lon="12.407203"><ele>137.75</ele></trkpt>
+   <trkpt lat="51.31853" lon="12.407235"><ele>138</ele></trkpt>
+   <trkpt lat="51.318296" lon="12.407521"><ele>138</ele></trkpt>
+   <trkpt lat="51.31825" lon="12.407578"><ele>138.25</ele></trkpt>
+   <trkpt lat="51.318157" lon="12.407689"><ele>138.5</ele></trkpt>
+   <trkpt lat="51.317779" lon="12.408136"><ele>139</ele></trkpt>
+   <trkpt lat="51.317778" lon="12.408136"><ele>139</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
