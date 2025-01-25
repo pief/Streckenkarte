@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 375 filtered ascend = 0 plain-ascend = 1 cost=750 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Uilenstede (Steig Ost) - Van Boshuizenstraat (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=18/52.32491/4.86979/osm-mapnik-german_style&amp;lonlats=4.869207,52.322194;4.868976,52.325559&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.322193" lon="4.869199"><ele>0.75</ele></trkpt>
+   <trkpt lat="52.322254" lon="4.869196"><ele>1</ele></trkpt>
+   <trkpt lat="52.322666" lon="4.869157"><ele>1</ele></trkpt>
+   <trkpt lat="52.322817" lon="4.869141"><ele>1</ele></trkpt>
+   <trkpt lat="52.323481" lon="4.869097"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.32433" lon="4.86905"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.324514" lon="4.869044"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.324603" lon="4.869038"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.324663" lon="4.869035"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.324747" lon="4.869033"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.324785" lon="4.869029"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.324897" lon="4.869024"><ele>0</ele></trkpt>
+   <trkpt lat="52.325559" lon="4.868987"><ele>1.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 514 filtered ascend = 0 plain-ascend = 0 cost=1028 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kronenburg (Steig West) - Zonnestein (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.31150/4.87269/osm-mapnik-german_style&amp;lonlats=4.870626,52.315711;4.872394,52.311233&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.31571" lon="4.870623"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.315324" lon="4.870806"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.314797" lon="4.87108"><ele>-3</ele></trkpt>
+   <trkpt lat="52.313207" lon="4.871838"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.312852" lon="4.871981"><ele>-2</ele></trkpt>
+   <trkpt lat="52.312427" lon="4.872099"><ele>-2.5</ele></trkpt>
+   <trkpt lat="52.311792" lon="4.872254"><ele>-2.5</ele></trkpt>
+   <trkpt lat="52.311232" lon="4.872391"><ele>-1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

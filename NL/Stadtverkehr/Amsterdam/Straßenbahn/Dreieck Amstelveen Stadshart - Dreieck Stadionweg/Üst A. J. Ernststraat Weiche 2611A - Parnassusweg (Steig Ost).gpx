@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 488 filtered ascend = 2 plain-ascend = -1 cost=976 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Üst A. J. Ernststraat Weiche 2611A - Parnassusweg (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/52.33794/4.86924/osm-mapnik-german_style&amp;lonlats=4.868867,52.333615;4.868716,52.337989&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.333615" lon="4.868867"><ele>3</ele></trkpt>
+   <trkpt lat="52.334898" lon="4.868859"><ele>5</ele></trkpt>
+   <trkpt lat="52.334994" lon="4.868858"><ele>4.25</ele></trkpt>
+   <trkpt lat="52.335075" lon="4.86886"><ele>3.75</ele></trkpt>
+   <trkpt lat="52.335174" lon="4.868855"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.335909" lon="4.868851"><ele>0</ele></trkpt>
+   <trkpt lat="52.335952" lon="4.868852"><ele>0</ele></trkpt>
+   <trkpt lat="52.336265" lon="4.868826"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.336528" lon="4.868772"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.33682" lon="4.86875"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.337423" lon="4.868745"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.337989" lon="4.868724"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

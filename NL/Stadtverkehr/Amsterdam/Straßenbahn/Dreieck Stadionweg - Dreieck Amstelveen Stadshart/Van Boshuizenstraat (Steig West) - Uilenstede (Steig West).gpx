@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 1 plain-ascend = 0 cost=706 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Van Boshuizenstraat (Steig West) - Uilenstede (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.32178/4.86958/osm-mapnik-german_style&amp;lonlats=4.868968,52.324887;4.869084,52.321721&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.324886" lon="4.868967"><ele>0</ele></trkpt>
+   <trkpt lat="52.324783" lon="4.868972"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.324747" lon="4.868975"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.324662" lon="4.868979"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.324603" lon="4.868982"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.324514" lon="4.868986"><ele>-0.75</ele></trkpt>
+   <trkpt lat="52.323889" lon="4.869017"><ele>0</ele></trkpt>
+   <trkpt lat="52.32348" lon="4.86904"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.322816" lon="4.86905"><ele>1</ele></trkpt>
+   <trkpt lat="52.322664" lon="4.869049"><ele>1</ele></trkpt>
+   <trkpt lat="52.322254" lon="4.869053"><ele>1</ele></trkpt>
+   <trkpt lat="52.32172" lon="4.869083"><ele>-0.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

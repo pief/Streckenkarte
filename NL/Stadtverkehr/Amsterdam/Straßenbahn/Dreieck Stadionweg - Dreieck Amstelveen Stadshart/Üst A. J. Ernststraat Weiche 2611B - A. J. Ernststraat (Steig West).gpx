@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = 0 cost=198 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Üst A. J. Ernststraat Weiche 2611B - A. J. Ernststraat (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.33238/4.86902/osm-mapnik-german_style&amp;lonlats=4.868813,52.333204;4.868816,52.332313&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.333202" lon="4.868813"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.333083" lon="4.868806"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.332589" lon="4.86881"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.332312" lon="4.868813"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

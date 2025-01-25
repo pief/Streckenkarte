@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 826 filtered ascend = 0 plain-ascend = -2 cost=1652 energy=0.0kwh time=1m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>A. J. Ernststraat (Steig West) - Van Boshuizenstraat (Steig West)</name>
+  <link href="https://bikerouter.de/#map=18/52.32629/4.86923/osm-mapnik-german_style&amp;lonlats=4.868816,52.332313;4.868967,52.324886&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.332312" lon="4.868813"><ele>3</ele></trkpt>
+   <trkpt lat="52.33223" lon="4.868815"><ele>3</ele></trkpt>
+   <trkpt lat="52.332196" lon="4.868814"><ele>3</ele></trkpt>
+   <trkpt lat="52.332071" lon="4.868816"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.331966" lon="4.868815"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.331922" lon="4.868816"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.329285" lon="4.868825"><ele>3.25</ele></trkpt>
+   <trkpt lat="52.328993" lon="4.868828"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.327958" lon="4.868841"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.327864" lon="4.868835"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.327792" lon="4.868837"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.327703" lon="4.86884"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.326868" lon="4.868867"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.325733" lon="4.868923"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.324893" lon="4.868967"><ele>0</ele></trkpt>
+   <trkpt lat="52.324886" lon="4.868967"><ele>-0.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

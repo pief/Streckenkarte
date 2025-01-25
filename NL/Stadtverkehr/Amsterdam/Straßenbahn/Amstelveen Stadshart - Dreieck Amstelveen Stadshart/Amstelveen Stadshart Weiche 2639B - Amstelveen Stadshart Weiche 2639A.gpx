@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 1 plain-ascend = 2 cost=72 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Amstelveen Stadshart Weiche 2639B - Amstelveen Stadshart Weiche 2639A</name>
+  <link href="https://bikerouter.de/#map=19/52.30099/4.86931/osm-mapnik-german_style&amp;lonlats=4.868325,52.301006;4.868773,52.300852&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.301004" lon="4.868323"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.301003" lon="4.868328"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.300977" lon="4.868412"><ele>-1.5</ele></trkpt>
+   <trkpt lat="52.300934" lon="4.868513"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.300853" lon="4.868772"><ele>-1</ele></trkpt>
+   <trkpt lat="52.300852" lon="4.868773"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

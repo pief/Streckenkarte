@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 555 filtered ascend = 4 plain-ascend = 3 cost=1110 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Parnassusweg (Steig West) - Üst A. J. Ernststraat Weiche 2611B</name>
+  <link href="https://bikerouter.de/#map=18/52.33275/4.86981/osm-mapnik-german_style&amp;lonlats=4.868665,52.338186;4.868813,52.333204&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.338186" lon="4.868667"><ele>1</ele></trkpt>
+   <trkpt lat="52.338095" lon="4.868673"><ele>1</ele></trkpt>
+   <trkpt lat="52.33682" lon="4.868704"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.336562" lon="4.868709"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.336058" lon="4.868761"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.33604" lon="4.868762"><ele>-0.25</ele></trkpt>
+   <trkpt lat="52.335679" lon="4.868794"><ele>0.25</ele></trkpt>
+   <trkpt lat="52.335175" lon="4.8688"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.335075" lon="4.868802"><ele>3.75</ele></trkpt>
+   <trkpt lat="52.334994" lon="4.868803"><ele>4.25</ele></trkpt>
+   <trkpt lat="52.334898" lon="4.868802"><ele>5.25</ele></trkpt>
+   <trkpt lat="52.333208" lon="4.868814"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.333202" lon="4.868813"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 695 filtered ascend = 3 plain-ascend = 3 cost=1390 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kronenburg (Steig Ost) - Uilenstede (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=18/52.32236/4.86919/osm-mapnik-german_style&amp;lonlats=4.870597,52.316042;4.869207,52.322194&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.316042" lon="4.8706"><ele>-2</ele></trkpt>
+   <trkpt lat="52.316301" lon="4.870482"><ele>-2.75</ele></trkpt>
+   <trkpt lat="52.317219" lon="4.870015"><ele>-3.5</ele></trkpt>
+   <trkpt lat="52.317863" lon="4.869757"><ele>-3.75</ele></trkpt>
+   <trkpt lat="52.318137" lon="4.869664"><ele>-3.5</ele></trkpt>
+   <trkpt lat="52.318694" lon="4.869504"><ele>-3</ele></trkpt>
+   <trkpt lat="52.319157" lon="4.869402"><ele>-2.5</ele></trkpt>
+   <trkpt lat="52.319735" lon="4.869307"><ele>-2</ele></trkpt>
+   <trkpt lat="52.320258" lon="4.86926"><ele>-3</ele></trkpt>
+   <trkpt lat="52.321277" lon="4.869255"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.32144" lon="4.869238"><ele>-1.25</ele></trkpt>
+   <trkpt lat="52.321635" lon="4.86923"><ele>-0.5</ele></trkpt>
+   <trkpt lat="52.322193" lon="4.869199"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
