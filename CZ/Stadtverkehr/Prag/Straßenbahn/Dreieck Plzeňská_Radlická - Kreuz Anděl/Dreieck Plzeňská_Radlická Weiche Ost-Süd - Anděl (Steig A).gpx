@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 164 filtered ascend = 0 plain-ascend = -1 cost=328 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Plzeňská_Radlická Weiche Ost-Süd - Anděl (Steig A)</name>
+  <link href="https://bikerouter.de/#map=18/50.07144/14.40290/osm-mapnik-german_style&amp;lonlats=14.401335,50.071819;14.403607,50.071949&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.071821" lon="14.401333"><ele>197</ele></trkpt>
+   <trkpt lat="50.071832" lon="14.401887"><ele>197</ele></trkpt>
+   <trkpt lat="50.071872" lon="14.402515"><ele>196</ele></trkpt>
+   <trkpt lat="50.071881" lon="14.402646"><ele>196</ele></trkpt>
+   <trkpt lat="50.071884" lon="14.402686"><ele>196</ele></trkpt>
+   <trkpt lat="50.071888" lon="14.402738"><ele>196</ele></trkpt>
+   <trkpt lat="50.071952" lon="14.403605"><ele>194.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

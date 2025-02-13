@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Na Knížecí Weiche Nord-West - Dreieck Na Knížecí Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.06864/14.40605/osm-mapnik-german_style&amp;lonlats=14.406072,50.068876;14.405884,50.068542&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.068877" lon="14.406075"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.068872" lon="14.40608"><ele>196</ele></trkpt>
+   <trkpt lat="50.068787" lon="14.40613"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.068734" lon="14.406144"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.068691" lon="14.406135"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.068639" lon="14.406102"><ele>196</ele></trkpt>
+   <trkpt lat="50.068606" lon="14.406065"><ele>196</ele></trkpt>
+   <trkpt lat="50.068582" lon="14.406019"><ele>196</ele></trkpt>
+   <trkpt lat="50.068545" lon="14.405893"><ele>196</ele></trkpt>
+   <trkpt lat="50.068543" lon="14.405882"><ele>196</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

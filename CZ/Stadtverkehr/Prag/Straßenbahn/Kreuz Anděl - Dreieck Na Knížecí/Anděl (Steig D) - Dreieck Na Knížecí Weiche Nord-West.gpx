@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 262 filtered ascend = 2 plain-ascend = 2 cost=524 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Anděl (Steig D) - Dreieck Na Knížecí Weiche Nord-West</name>
+  <link href="https://bikerouter.de/#map=19/50.06854/14.40680/osm-mapnik-german_style&amp;lonlats=14.404567,50.071006;14.406072,50.068876&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.071006" lon="14.404567"><ele>194</ele></trkpt>
+   <trkpt lat="50.070991" lon="14.404577"><ele>194</ele></trkpt>
+   <trkpt lat="50.070886" lon="14.40464"><ele>194</ele></trkpt>
+   <trkpt lat="50.070832" lon="14.404672"><ele>194</ele></trkpt>
+   <trkpt lat="50.070762" lon="14.404729"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.070439" lon="14.405011"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.070389" lon="14.405042"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.069709" lon="14.405473"><ele>195</ele></trkpt>
+   <trkpt lat="50.069664" lon="14.405506"><ele>195</ele></trkpt>
+   <trkpt lat="50.069397" lon="14.405695"><ele>195</ele></trkpt>
+   <trkpt lat="50.069186" lon="14.405837"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.06917" lon="14.405849"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.068877" lon="14.406075"><ele>196</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
