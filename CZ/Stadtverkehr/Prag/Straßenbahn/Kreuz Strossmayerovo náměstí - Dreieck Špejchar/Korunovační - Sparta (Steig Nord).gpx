@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 0 plain-ascend = -2 cost=598 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Korunovační - Sparta (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/50.09897/14.41639/osm-mapnik-german_style&amp;lonlats=14.420194,50.09956;14.41613,50.098945&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099559" lon="14.420193"><ele>227.75</ele></trkpt>
+   <trkpt lat="50.099161" lon="14.417583"><ele>227</ele></trkpt>
+   <trkpt lat="50.09912" lon="14.417307"><ele>227</ele></trkpt>
+   <trkpt lat="50.099083" lon="14.417078"><ele>227</ele></trkpt>
+   <trkpt lat="50.098939" lon="14.416135"><ele>226</ele></trkpt>
+   <trkpt lat="50.098938" lon="14.416131"><ele>225</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 1 plain-ascend = 0 cost=438 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Letenské náměstí (Steig B) - Korunovační</name>
+  <link href="https://bikerouter.de/#map=19/50.09949/14.41993/osm-mapnik-german_style&amp;lonlats=14.423134,50.099981;14.420194,50.09956&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099979" lon="14.423133"><ele>226.75</ele></trkpt>
+   <trkpt lat="50.099974" lon="14.423043"><ele>227</ele></trkpt>
+   <trkpt lat="50.099938" lon="14.422519"><ele>227.75</ele></trkpt>
+   <trkpt lat="50.099888" lon="14.422171"><ele>228</ele></trkpt>
+   <trkpt lat="50.099847" lon="14.42196"><ele>228</ele></trkpt>
+   <trkpt lat="50.099798" lon="14.421697"><ele>228</ele></trkpt>
+   <trkpt lat="50.09979" lon="14.421653"><ele>228</ele></trkpt>
+   <trkpt lat="50.09974" lon="14.421396"><ele>228</ele></trkpt>
+   <trkpt lat="50.099704" lon="14.421156"><ele>228</ele></trkpt>
+   <trkpt lat="50.09956" lon="14.420197"><ele>228</ele></trkpt>
+   <trkpt lat="50.099559" lon="14.420193"><ele>227</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

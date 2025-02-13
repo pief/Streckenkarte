@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 10 plain-ascend = 10 cost=770 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kamenička (Steig B) - Letenské náměstí (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.10004/14.42398/osm-mapnik-german_style&amp;lonlats=14.428469,50.099683;14.423134,50.099981&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099677" lon="14.428466"><ele>217</ele></trkpt>
+   <trkpt lat="50.099693" lon="14.428369"><ele>217</ele></trkpt>
+   <trkpt lat="50.099704" lon="14.42829"><ele>217</ele></trkpt>
+   <trkpt lat="50.099803" lon="14.427656"><ele>219.5</ele></trkpt>
+   <trkpt lat="50.09984" lon="14.427408"><ele>220</ele></trkpt>
+   <trkpt lat="50.099868" lon="14.427213"><ele>220.5</ele></trkpt>
+   <trkpt lat="50.099935" lon="14.42656"><ele>222.5</ele></trkpt>
+   <trkpt lat="50.100014" lon="14.425535"><ele>224.75</ele></trkpt>
+   <trkpt lat="50.100038" lon="14.42491"><ele>225</ele></trkpt>
+   <trkpt lat="50.100038" lon="14.424613"><ele>226</ele></trkpt>
+   <trkpt lat="50.100032" lon="14.424374"><ele>226</ele></trkpt>
+   <trkpt lat="50.100027" lon="14.424179"><ele>226</ele></trkpt>
+   <trkpt lat="50.099979" lon="14.423133"><ele>227</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

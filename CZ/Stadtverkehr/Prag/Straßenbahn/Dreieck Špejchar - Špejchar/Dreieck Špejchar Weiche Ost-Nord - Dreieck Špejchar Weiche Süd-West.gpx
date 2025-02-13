@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 1 plain-ascend = 1 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Špejchar Weiche Ost-Nord - Dreieck Špejchar Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/50.09773/14.41027/osm-mapnik-german_style&amp;lonlats=14.410624,50.098109;14.410313,50.097803&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.098109" lon="14.410622"><ele>224</ele></trkpt>
+   <trkpt lat="50.098109" lon="14.41062"><ele>224</ele></trkpt>
+   <trkpt lat="50.098103" lon="14.410579"><ele>224</ele></trkpt>
+   <trkpt lat="50.098092" lon="14.410531"><ele>224</ele></trkpt>
+   <trkpt lat="50.098073" lon="14.410461"><ele>224</ele></trkpt>
+   <trkpt lat="50.098044" lon="14.410393"><ele>224</ele></trkpt>
+   <trkpt lat="50.098036" lon="14.410382"><ele>224</ele></trkpt>
+   <trkpt lat="50.097988" lon="14.410326"><ele>224</ele></trkpt>
+   <trkpt lat="50.097945" lon="14.410302"><ele>224.25</ele></trkpt>
+   <trkpt lat="50.097889" lon="14.410295"><ele>224.5</ele></trkpt>
+   <trkpt lat="50.097809" lon="14.410315"><ele>224.75</ele></trkpt>
+   <trkpt lat="50.097803" lon="14.410315"><ele>225</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
