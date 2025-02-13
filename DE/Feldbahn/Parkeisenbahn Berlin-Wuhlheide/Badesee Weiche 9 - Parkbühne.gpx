@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 233 filtered ascend = 0 plain-ascend = 0 cost=233 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Badesee Weiche 9 - Parkbühne</name>
+  <link href="https://bikerouter.de/#map=18/52.46481/13.54801/osm-mapnik-german_style&amp;lonlats=13.5482,52.466165;13.546647,52.464343&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.466163" lon="13.5482"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.46616" lon="13.548199"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.46563" lon="13.547967"><ele>35</ele></trkpt>
+   <trkpt lat="52.465494" lon="13.547897"><ele>35</ele></trkpt>
+   <trkpt lat="52.465357" lon="13.547806"><ele>35</ele></trkpt>
+   <trkpt lat="52.465204" lon="13.547687"><ele>35</ele></trkpt>
+   <trkpt lat="52.465065" lon="13.547549"><ele>35</ele></trkpt>
+   <trkpt lat="52.464898" lon="13.54736"><ele>34.75</ele></trkpt>
+   <trkpt lat="52.464341" lon="13.546649"><ele>34.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
