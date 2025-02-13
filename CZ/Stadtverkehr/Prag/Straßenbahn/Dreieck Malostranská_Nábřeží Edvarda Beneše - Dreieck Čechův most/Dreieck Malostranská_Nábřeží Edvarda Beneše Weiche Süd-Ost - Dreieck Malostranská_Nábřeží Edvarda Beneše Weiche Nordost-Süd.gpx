@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 1 plain-ascend = 1 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Malostranská/Nábřeží Edvarda Beneše Weiche Süd-Ost - Dreieck Malostranská/Nábřeží Edvarda Beneše Weiche Nordost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.09092/14.41110/osm-mapnik-german_style&amp;lonlats=14.409927,50.090986;14.410093,50.091273;14.410224,50.091362&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.090986" lon="14.409929"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.090992" lon="14.409927"><ele>190.5</ele></trkpt>
+   <trkpt lat="50.091039" lon="14.409912"><ele>190.5</ele></trkpt>
+   <trkpt lat="50.091084" lon="14.40991"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.091131" lon="14.409924"><ele>191</ele></trkpt>
+   <trkpt lat="50.091162" lon="14.409944"><ele>191</ele></trkpt>
+   <trkpt lat="50.09119" lon="14.409974"><ele>191.25</ele></trkpt>
+   <trkpt lat="50.091271" lon="14.410093"><ele>191.25</ele></trkpt>
+   <trkpt lat="50.091274" lon="14.410096"><ele>191.25</ele></trkpt>
+   <trkpt lat="50.091295" lon="14.410127"><ele>191.25</ele></trkpt>
+   <trkpt lat="50.091363" lon="14.410228"><ele>191</ele></trkpt>
+   <trkpt lat="50.091361" lon="14.410223"><ele>191.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

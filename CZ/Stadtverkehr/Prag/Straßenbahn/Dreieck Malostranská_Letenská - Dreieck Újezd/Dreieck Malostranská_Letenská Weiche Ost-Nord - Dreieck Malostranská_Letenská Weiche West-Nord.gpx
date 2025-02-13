@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = 0 cost=114 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Malostranská_Letenská Weiche Ost-Nord - Dreieck Malostranská_Letenská Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.08997/14.41036/osm-mapnik-german_style&amp;lonlats=14.410578,50.089962;14.409817,50.090041&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.08996" lon="14.410576"><ele>189.5</ele></trkpt>
+   <trkpt lat="50.08996" lon="14.410578"><ele>189.75</ele></trkpt>
+   <trkpt lat="50.089992" lon="14.410411"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.089998" lon="14.410375"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.090003" lon="14.410347"><ele>189</ele></trkpt>
+   <trkpt lat="50.090011" lon="14.410289"><ele>189</ele></trkpt>
+   <trkpt lat="50.090024" lon="14.410163"><ele>188.5</ele></trkpt>
+   <trkpt lat="50.09003" lon="14.410072"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.090031" lon="14.41003"><ele>188</ele></trkpt>
+   <trkpt lat="50.090032" lon="14.409977"><ele>188</ele></trkpt>
+   <trkpt lat="50.090033" lon="14.40995"><ele>188</ele></trkpt>
+   <trkpt lat="50.090038" lon="14.409824"><ele>188</ele></trkpt>
+   <trkpt lat="50.090038" lon="14.409816"><ele>189.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

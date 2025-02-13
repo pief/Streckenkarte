@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 468 filtered ascend = 6 plain-ascend = 4 cost=936 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Malostranská (Steig Nordost-Süd) - Čechův most (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/50.09360/14.41647/osm-mapnik-german_style&amp;lonlats=14.410613,50.09164;14.416104,50.09376&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.091638" lon="14.410614"><ele>191</ele></trkpt>
+   <trkpt lat="50.091646" lon="14.410624"><ele>191</ele></trkpt>
+   <trkpt lat="50.092027" lon="14.411174"><ele>191.75</ele></trkpt>
+   <trkpt lat="50.092157" lon="14.411362"><ele>191.75</ele></trkpt>
+   <trkpt lat="50.092361" lon="14.411656"><ele>193</ele></trkpt>
+   <trkpt lat="50.092531" lon="14.411909"><ele>193</ele></trkpt>
+   <trkpt lat="50.092621" lon="14.412074"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.092737" lon="14.412324"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.092985" lon="14.413016"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.093147" lon="14.413535"><ele>193.75</ele></trkpt>
+   <trkpt lat="50.093202" lon="14.413782"><ele>193</ele></trkpt>
+   <trkpt lat="50.093224" lon="14.413909"><ele>193</ele></trkpt>
+   <trkpt lat="50.093324" lon="14.414631"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.093384" lon="14.414889"><ele>197.5</ele></trkpt>
+   <trkpt lat="50.093758" lon="14.416104"><ele>194.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

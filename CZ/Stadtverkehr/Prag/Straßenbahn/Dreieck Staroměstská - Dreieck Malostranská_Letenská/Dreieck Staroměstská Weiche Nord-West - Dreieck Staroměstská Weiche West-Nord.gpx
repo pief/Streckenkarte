@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 0 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Staroměstská Weiche Nord-West - Dreieck Staroměstská Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.08914/14.41601/osm-mapnik-german_style&amp;lonlats=14.415645,50.088933;14.415235,50.088816&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.088931" lon="14.41565"><ele>191</ele></trkpt>
+   <trkpt lat="50.088929" lon="14.415649"><ele>191</ele></trkpt>
+   <trkpt lat="50.088872" lon="14.415603"><ele>191</ele></trkpt>
+   <trkpt lat="50.088839" lon="14.415543"><ele>191</ele></trkpt>
+   <trkpt lat="50.08881" lon="14.415458"><ele>191.25</ele></trkpt>
+   <trkpt lat="50.088803" lon="14.415394"><ele>191.25</ele></trkpt>
+   <trkpt lat="50.088805" lon="14.415314"><ele>191.5</ele></trkpt>
+   <trkpt lat="50.088814" lon="14.415239"><ele>191.5</ele></trkpt>
+   <trkpt lat="50.088814" lon="14.415234"><ele>191.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

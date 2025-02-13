@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Čechův most (Steig West) - Dreieck Čechův most Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.09335/14.41636/osm-mapnik-german_style&amp;lonlats=14.416104,50.093758;14.41613,50.093772&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.093757" lon="14.416103"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.093759" lon="14.416107"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.093766" lon="14.416132"><ele>194.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

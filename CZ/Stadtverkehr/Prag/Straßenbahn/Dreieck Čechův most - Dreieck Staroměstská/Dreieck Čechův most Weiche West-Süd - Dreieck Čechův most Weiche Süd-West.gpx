@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Čechův most Weiche West-Süd - Dreieck Čechův most Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/50.09367/14.41680/osm-mapnik-german_style&amp;lonlats=14.41613,50.093772;14.416627,50.093646&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.093766" lon="14.416132"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.093767" lon="14.416136"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.093773" lon="14.416163"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.093789" lon="14.416232"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.093799" lon="14.416317"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.093797" lon="14.416364"><ele>194</ele></trkpt>
+   <trkpt lat="50.093782" lon="14.416447"/>
+   <trkpt lat="50.093758" lon="14.416507"/>
+   <trkpt lat="50.093745" lon="14.41653"/>
+   <trkpt lat="50.093725" lon="14.416557"/>
+   <trkpt lat="50.093651" lon="14.416623"/>
+   <trkpt lat="50.093645" lon="14.416626"/>
+  </trkseg>
+ </trk>
+</gpx>
