@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 414 filtered ascend = 0 plain-ascend = 0 cost=828 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Ostendstraße (Steig Süd) - Weiskopffstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.45751/13.53966/osm-mapnik-german_style&amp;lonlats=13.533957,52.457208;13.539998,52.457592&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.457212" lon="13.533955"><ele>35</ele></trkpt>
+   <trkpt lat="52.457213" lon="13.533963"><ele>35</ele></trkpt>
+   <trkpt lat="52.457235" lon="13.5344"><ele>35</ele></trkpt>
+   <trkpt lat="52.457251" lon="13.534816"><ele>35</ele></trkpt>
+   <trkpt lat="52.457401" lon="13.536628"><ele>35</ele></trkpt>
+   <trkpt lat="52.45752" lon="13.538033"><ele>35</ele></trkpt>
+   <trkpt lat="52.457586" lon="13.538932"><ele>35</ele></trkpt>
+   <trkpt lat="52.457597" lon="13.539139"><ele>35</ele></trkpt>
+   <trkpt lat="52.457599" lon="13.539971"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.457599" lon="13.539996"><ele>35</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

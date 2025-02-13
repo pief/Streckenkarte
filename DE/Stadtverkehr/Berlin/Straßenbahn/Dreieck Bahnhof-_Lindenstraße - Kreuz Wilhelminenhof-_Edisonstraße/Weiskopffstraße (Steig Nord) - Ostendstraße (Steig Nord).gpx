@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 385 filtered ascend = 0 plain-ascend = 0 cost=770 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Weiskopffstraße (Steig Nord) - Ostendstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/52.45737/13.53383/osm-mapnik-german_style&amp;lonlats=13.539455,52.457627;13.533844,52.457231&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.457624" lon="13.539454"><ele>35</ele></trkpt>
+   <trkpt lat="52.457627" lon="13.539231"><ele>35</ele></trkpt>
+   <trkpt lat="52.457607" lon="13.538814"><ele>35</ele></trkpt>
+   <trkpt lat="52.457558" lon="13.538171"><ele>35</ele></trkpt>
+   <trkpt lat="52.45746" lon="13.537057"><ele>35</ele></trkpt>
+   <trkpt lat="52.45742" lon="13.536619"><ele>35</ele></trkpt>
+   <trkpt lat="52.45728" lon="13.534816"><ele>35</ele></trkpt>
+   <trkpt lat="52.457266" lon="13.534397"><ele>35</ele></trkpt>
+   <trkpt lat="52.457251" lon="13.534083"><ele>35</ele></trkpt>
+   <trkpt lat="52.457232" lon="13.533847"><ele>35</ele></trkpt>
+   <trkpt lat="52.457231" lon="13.533842"><ele>35</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
