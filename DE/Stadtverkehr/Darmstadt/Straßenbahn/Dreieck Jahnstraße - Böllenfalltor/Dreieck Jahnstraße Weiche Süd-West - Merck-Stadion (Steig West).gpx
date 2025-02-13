@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 394 filtered ascend = 7 plain-ascend = 7 cost=788 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Jahnstraße Weiche Süd-West - Merck-Stadion (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.85759/8.66857/osm-mapnik-german_style&amp;lonlats=8.667583,49.860976;8.668425,49.857478&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.860976" lon="8.667586"><ele>177</ele></trkpt>
+   <trkpt lat="49.860966" lon="8.667589"><ele>177</ele></trkpt>
+   <trkpt lat="49.858895" lon="8.66809"><ele>181.75</ele></trkpt>
+   <trkpt lat="49.858092" lon="8.668289"><ele>183</ele></trkpt>
+   <trkpt lat="49.85748" lon="8.668428"><ele>184</ele></trkpt>
+   <trkpt lat="49.857478" lon="8.668428"><ele>184</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
