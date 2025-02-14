@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 391 filtered ascend = 15 plain-ascend = 16 cost=782 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Laurová (Steig B) - Škola Radlice (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.05962/14.39488/osm-mapnik-german_style&amp;lonlats=14.397548,50.061125;14.392865,50.059374">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.061123" lon="14.397547"><ele>220</ele></trkpt>
+   <trkpt lat="50.061106" lon="14.397417"><ele>220.25</ele></trkpt>
+   <trkpt lat="50.060971" lon="14.396692"><ele>222.25</ele></trkpt>
+   <trkpt lat="50.060858" lon="14.396247"><ele>222.5</ele></trkpt>
+   <trkpt lat="50.060783" lon="14.395986"><ele>223.25</ele></trkpt>
+   <trkpt lat="50.060587" lon="14.395462"><ele>224</ele></trkpt>
+   <trkpt lat="50.060393" lon="14.394988"><ele>227</ele></trkpt>
+   <trkpt lat="50.060169" lon="14.394484"><ele>227.75</ele></trkpt>
+   <trkpt lat="50.059538" lon="14.393247"><ele>233.75</ele></trkpt>
+   <trkpt lat="50.059376" lon="14.392863"><ele>235.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 2 plain-ascend = 3 cost=82 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Plzeňská/Radlická Weiche Ost-Nord - Dreieck Plzeňská/Radlická Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/50.07155/14.40261/osm-mapnik-german_style&amp;lonlats=14.401295,50.071855;14.400973,50.071634">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.071854" lon="14.401294"><ele>197</ele></trkpt>
+   <trkpt lat="50.071854" lon="14.40129"><ele>197</ele></trkpt>
+   <trkpt lat="50.071851" lon="14.401224"><ele>197</ele></trkpt>
+   <trkpt lat="50.071847" lon="14.401184"><ele>197</ele></trkpt>
+   <trkpt lat="50.071828" lon="14.401103"><ele>197</ele></trkpt>
+   <trkpt lat="50.071824" lon="14.401088"><ele>197</ele></trkpt>
+   <trkpt lat="50.071777" lon="14.401018"><ele>197</ele></trkpt>
+   <trkpt lat="50.071755" lon="14.400997"><ele>197</ele></trkpt>
+   <trkpt lat="50.071734" lon="14.400981"><ele>196.75</ele></trkpt>
+   <trkpt lat="50.071693" lon="14.400971"><ele>197</ele></trkpt>
+   <trkpt lat="50.071653" lon="14.400974"><ele>197</ele></trkpt>
+   <trkpt lat="50.071636" lon="14.400977"><ele>197</ele></trkpt>
+   <trkpt lat="50.071634" lon="14.400977"><ele>199.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

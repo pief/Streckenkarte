@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 7 plain-ascend = 7 cost=520 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Braunova (Steig B) - Laurová (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.06102/14.39823/osm-mapnik-german_style&amp;lonlats=14.401081,50.061645;14.397548,50.061125">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.061644" lon="14.40108"><ele>213</ele></trkpt>
+   <trkpt lat="50.061638" lon="14.40105"><ele>213</ele></trkpt>
+   <trkpt lat="50.061622" lon="14.400982"><ele>213.25</ele></trkpt>
+   <trkpt lat="50.061595" lon="14.400857"><ele>213.5</ele></trkpt>
+   <trkpt lat="50.061469" lon="14.400223"><ele>214.5</ele></trkpt>
+   <trkpt lat="50.061335" lon="14.399295"><ele>216.75</ele></trkpt>
+   <trkpt lat="50.061322" lon="14.399173"><ele>217.5</ele></trkpt>
+   <trkpt lat="50.061213" lon="14.39824"><ele>218.5</ele></trkpt>
+   <trkpt lat="50.061195" lon="14.398057"><ele>219.25</ele></trkpt>
+   <trkpt lat="50.061124" lon="14.397549"><ele>220</ele></trkpt>
+   <trkpt lat="50.061123" lon="14.397547"><ele>220.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
