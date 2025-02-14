@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 0 plain-ascend = -3 cost=92 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Palackého náměstí Weiche Süd-nach-West-Süd - Kreuz Palackého náměstí Weiche Süd-nach-West-West</name>
+  <link href="https://bikerouter.de/#map=18/50.07230/14.41227/osm-mapnik-german_style&amp;lonlats=14.414049,50.072798;14.413612,50.073008">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.072798" lon="14.414049"><ele>197</ele></trkpt>
+   <trkpt lat="50.072799" lon="14.414049"><ele>197.25</ele></trkpt>
+   <trkpt lat="50.072871" lon="14.414021"><ele>197.5</ele></trkpt>
+   <trkpt lat="50.072922" lon="14.413984"><ele>197.75</ele></trkpt>
+   <trkpt lat="50.07297" lon="14.413905"><ele>197.75</ele></trkpt>
+   <trkpt lat="50.072996" lon="14.413818"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.073004" lon="14.413786"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.073008" lon="14.413748"><ele>195.25</ele></trkpt>
+   <trkpt lat="50.073009" lon="14.41374"><ele>195</ele></trkpt>
+   <trkpt lat="50.073012" lon="14.413704"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.073011" lon="14.413616"><ele>193</ele></trkpt>
+   <trkpt lat="50.07301" lon="14.41361"><ele>193</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
