@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 262 filtered ascend = 0 plain-ascend = -2 cost=524 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Strossmayerovo náměstí Weiche West-nach-Nord-Nord - Veletržní palác (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.10098/14.43435/osm-mapnik-german_style&amp;lonlats=14.433302,50.099133;14.433139,50.10147&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099131" lon="14.433303"><ele>200</ele></trkpt>
+   <trkpt lat="50.099531" lon="14.433323"><ele>200</ele></trkpt>
+   <trkpt lat="50.100273" lon="14.433382"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.100416" lon="14.433378"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.100515" lon="14.433368"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.100623" lon="14.433348"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.100853" lon="14.433293"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.10147" lon="14.433143"><ele>197</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
