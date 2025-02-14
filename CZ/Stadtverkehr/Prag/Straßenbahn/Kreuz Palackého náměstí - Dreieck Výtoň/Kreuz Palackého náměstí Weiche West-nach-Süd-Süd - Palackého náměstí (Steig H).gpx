@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = -4 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Palackého náměstí Weiche West-nach-Süd-Süd - Palackého náměstí (Steig H)</name>
+  <link href="https://bikerouter.de/#map=19/50.07206/14.41556/osm-mapnik-german_style&amp;lonlats=14.413993,50.072788;14.414138,50.071904">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.072788" lon="14.413993"><ele>197.25</ele></trkpt>
+   <trkpt lat="50.072514" lon="14.414024"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.071907" lon="14.414137"><ele>193.25</ele></trkpt>
+   <trkpt lat="50.071903" lon="14.414137"><ele>192.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
