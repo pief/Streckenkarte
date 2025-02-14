@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 244 filtered ascend = 0 plain-ascend = -5 cost=488 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Braunova (Steig A) - Křížová (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.06297/14.40565/osm-mapnik-german_style&amp;lonlats=14.402589,50.061936;14.404665,50.063272&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.061936" lon="14.402587"><ele>209</ele></trkpt>
+   <trkpt lat="50.061937" lon="14.402591"><ele>209</ele></trkpt>
+   <trkpt lat="50.061946" lon="14.402617"><ele>209</ele></trkpt>
+   <trkpt lat="50.062048" lon="14.403049"><ele>208.25</ele></trkpt>
+   <trkpt lat="50.062084" lon="14.403162"><ele>208.25</ele></trkpt>
+   <trkpt lat="50.062333" lon="14.403823"><ele>207.25</ele></trkpt>
+   <trkpt lat="50.06265" lon="14.404651"><ele>203.75</ele></trkpt>
+   <trkpt lat="50.062663" lon="14.404684"><ele>203.5</ele></trkpt>
+   <trkpt lat="50.062676" lon="14.40471"><ele>203.25</ele></trkpt>
+   <trkpt lat="50.062696" lon="14.404746"><ele>203.25</ele></trkpt>
+   <trkpt lat="50.062731" lon="14.404786"><ele>203</ele></trkpt>
+   <trkpt lat="50.062774" lon="14.40482"><ele>203</ele></trkpt>
+   <trkpt lat="50.062818" lon="14.404843"><ele>203</ele></trkpt>
+   <trkpt lat="50.062859" lon="14.404849"><ele>203</ele></trkpt>
+   <trkpt lat="50.062906" lon="14.404844"><ele>203</ele></trkpt>
+   <trkpt lat="50.062996" lon="14.40481"><ele>203</ele></trkpt>
+   <trkpt lat="50.063272" lon="14.404665"><ele>202.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
