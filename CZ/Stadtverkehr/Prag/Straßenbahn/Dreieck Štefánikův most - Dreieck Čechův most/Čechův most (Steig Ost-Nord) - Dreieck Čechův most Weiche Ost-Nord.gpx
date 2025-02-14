@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 0 cost=20 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Čechův most (Steig Ost-Nord) - Dreieck Čechův most Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09418/14.41889/osm-mapnik-german_style&amp;lonlats=14.416908,50.094009;14.416782,50.093985&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.094009" lon="14.416906"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.094009" lon="14.416905"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.093986" lon="14.416798"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.093983" lon="14.416783"><ele>195.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 295 filtered ascend = 0 plain-ascend = -14 cost=590 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kamenička (Steig A) - Strossmayerovo náměstí (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.09911/14.43268/osm-mapnik-german_style&amp;lonlats=14.428842,50.099594;14.432825,50.09894&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099592" lon="14.428841"><ele>216</ele></trkpt>
+   <trkpt lat="50.099591" lon="14.428848"><ele>216</ele></trkpt>
+   <trkpt lat="50.099365" lon="14.430317"><ele>210.75</ele></trkpt>
+   <trkpt lat="50.099335" lon="14.430512"><ele>210</ele></trkpt>
+   <trkpt lat="50.09931" lon="14.430671"><ele>209.5</ele></trkpt>
+   <trkpt lat="50.099176" lon="14.431521"><ele>206.5</ele></trkpt>
+   <trkpt lat="50.099131" lon="14.431766"><ele>205.5</ele></trkpt>
+   <trkpt lat="50.099102" lon="14.431926"><ele>205.25</ele></trkpt>
+   <trkpt lat="50.099087" lon="14.432008"><ele>205</ele></trkpt>
+   <trkpt lat="50.09894" lon="14.432788"><ele>201.75</ele></trkpt>
+   <trkpt lat="50.098933" lon="14.432822"><ele>201.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

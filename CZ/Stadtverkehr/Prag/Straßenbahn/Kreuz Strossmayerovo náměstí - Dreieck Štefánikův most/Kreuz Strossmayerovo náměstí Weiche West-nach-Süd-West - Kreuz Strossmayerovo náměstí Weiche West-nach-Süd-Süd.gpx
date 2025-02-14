@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = -1 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Strossmayerovo náměstí Weiche West-nach-Süd-West - Kreuz Strossmayerovo náměstí Weiche West-nach-Süd-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.09894/14.43411/osm-mapnik-german_style&amp;lonlats=14.432951,50.098909;14.433232,50.098586&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.098909" lon="14.432951"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.098909" lon="14.432952"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.098904" lon="14.43297"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.098874" lon="14.433058"><ele>200.75</ele></trkpt>
+   <trkpt lat="50.098856" lon="14.433093"><ele>200.75</ele></trkpt>
+   <trkpt lat="50.098831" lon="14.433129"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.098775" lon="14.433172"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.098714" lon="14.433201"><ele>200</ele></trkpt>
+   <trkpt lat="50.098588" lon="14.433231"><ele>200</ele></trkpt>
+   <trkpt lat="50.098585" lon="14.433231"><ele>199.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

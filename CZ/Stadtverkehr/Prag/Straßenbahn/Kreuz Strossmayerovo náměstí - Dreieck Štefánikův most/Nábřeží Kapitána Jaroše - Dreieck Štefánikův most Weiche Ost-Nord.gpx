@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 227 filtered ascend = 5 plain-ascend = 3 cost=454 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Nábřeží Kapitána Jaroše - Dreieck Štefánikův most Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09622/14.43082/osm-mapnik-german_style&amp;lonlats=14.431422,50.096314;14.428386,50.095749&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.096314" lon="14.431422"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.096093" lon="14.430599"><ele>196.5</ele></trkpt>
+   <trkpt lat="50.095997" lon="14.430155"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.095957" lon="14.429894"><ele>201.5</ele></trkpt>
+   <trkpt lat="50.095869" lon="14.429063"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.095748" lon="14.428385"><ele>199.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

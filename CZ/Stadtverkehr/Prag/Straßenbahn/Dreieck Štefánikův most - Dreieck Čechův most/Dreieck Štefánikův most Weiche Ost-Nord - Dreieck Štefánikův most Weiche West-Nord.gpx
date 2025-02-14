@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 154 filtered ascend = 2 plain-ascend = -1 cost=308 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Štefánikův most Weiche Ost-Nord - Dreieck Štefánikův most Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=18/50.09564/14.42607/osm-mapnik-german_style&amp;lonlats=14.428386,50.095749;14.426326,50.095386&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.095748" lon="14.428385"><ele>199.25</ele></trkpt>
+   <trkpt lat="50.095748" lon="14.428383"><ele>199.5</ele></trkpt>
+   <trkpt lat="50.095712" lon="14.428123"><ele>200</ele></trkpt>
+   <trkpt lat="50.095685" lon="14.427885"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.095532" lon="14.427036"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.095518" lon="14.426954"><ele>196</ele></trkpt>
+   <trkpt lat="50.095481" lon="14.426766"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.095479" lon="14.426754"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.09545" lon="14.426621"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.095447" lon="14.426607"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.095397" lon="14.426384"><ele>196.75</ele></trkpt>
+   <trkpt lat="50.095385" lon="14.426331"><ele>197</ele></trkpt>
+   <trkpt lat="50.095384" lon="14.426325"><ele>197.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
