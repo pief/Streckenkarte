@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Ohrada Weiche Ost-Nord - Dreieck Ohrada Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.09070/14.46824/osm-mapnik-german_style&amp;lonlats=14.468367,50.090418;14.467932,50.090707&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.090416" lon="14.468366"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.090409" lon="14.468312"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.090406" lon="14.468247"><ele>249.25</ele></trkpt>
+   <trkpt lat="50.090421" lon="14.468143"><ele>249</ele></trkpt>
+   <trkpt lat="50.090438" lon="14.468086"><ele>249</ele></trkpt>
+   <trkpt lat="50.090473" lon="14.468017"><ele>249</ele></trkpt>
+   <trkpt lat="50.090481" lon="14.468006"><ele>249</ele></trkpt>
+   <trkpt lat="50.090543" lon="14.46794"><ele>249</ele></trkpt>
+   <trkpt lat="50.090602" lon="14.467916"><ele>249</ele></trkpt>
+   <trkpt lat="50.090632" lon="14.467914"><ele>249</ele></trkpt>
+   <trkpt lat="50.090706" lon="14.467933"><ele>249</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

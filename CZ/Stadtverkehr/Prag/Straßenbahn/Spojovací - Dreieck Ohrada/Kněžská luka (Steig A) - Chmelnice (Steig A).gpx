@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 5 plain-ascend = 6 cost=864 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kněžská luka (Steig A) - Chmelnice (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.09240/14.48725/osm-mapnik-german_style&amp;lonlats=14.493011,50.092159;14.487024,50.092529&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.092159" lon="14.493011"><ele>260.25</ele></trkpt>
+   <trkpt lat="50.09216" lon="14.493005"><ele>260.5</ele></trkpt>
+   <trkpt lat="50.092168" lon="14.492901"><ele>260.5</ele></trkpt>
+   <trkpt lat="50.092182" lon="14.492702"><ele>260.5</ele></trkpt>
+   <trkpt lat="50.092193" lon="14.492557"><ele>261</ele></trkpt>
+   <trkpt lat="50.092283" lon="14.491495"><ele>260.5</ele></trkpt>
+   <trkpt lat="50.092295" lon="14.491364"><ele>260.75</ele></trkpt>
+   <trkpt lat="50.092422" lon="14.490117"><ele>262</ele></trkpt>
+   <trkpt lat="50.092434" lon="14.490009"><ele>262</ele></trkpt>
+   <trkpt lat="50.092448" lon="14.489829"><ele>262</ele></trkpt>
+   <trkpt lat="50.092492" lon="14.489232"><ele>263</ele></trkpt>
+   <trkpt lat="50.092513" lon="14.488525"><ele>264.25</ele></trkpt>
+   <trkpt lat="50.092531" lon="14.487024"><ele>266</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

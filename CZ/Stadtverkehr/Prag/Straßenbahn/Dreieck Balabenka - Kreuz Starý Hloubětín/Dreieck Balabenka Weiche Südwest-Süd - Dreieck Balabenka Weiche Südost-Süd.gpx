@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 1 plain-ascend = 1 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Balabenka Weiche Südwest-Süd - Dreieck Balabenka Weiche Südost-Süd</name>
+  <link href="https://bikerouter.de/#map=17/50.10400/14.48752/osm-mapnik-german_style&amp;lonlats=14.48196,50.104406;14.482657,50.104277&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.104405" lon="14.481959"><ele>198</ele></trkpt>
+   <trkpt lat="50.104407" lon="14.481963"><ele>198</ele></trkpt>
+   <trkpt lat="50.10444" lon="14.482093"><ele>198</ele></trkpt>
+   <trkpt lat="50.104442" lon="14.482216"><ele>198</ele></trkpt>
+   <trkpt lat="50.104434" lon="14.48228"><ele>198</ele></trkpt>
+   <trkpt lat="50.104413" lon="14.482356"><ele>198.5</ele></trkpt>
+   <trkpt lat="50.104335" lon="14.482532"><ele>199</ele></trkpt>
+   <trkpt lat="50.104277" lon="14.482656"><ele>199</ele></trkpt>
+   <trkpt lat="50.104276" lon="14.482656"><ele>199</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

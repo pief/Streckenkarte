@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Sokolovská/U Balabenky Weiche Nordwest-West - Dreieck Sokolovská/U Balabenky Weiche Nordost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.10398/14.48115/osm-mapnik-german_style&amp;lonlats=14.47942,50.10383;14.47998,50.103713&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.10383" lon="14.479421"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.10383" lon="14.479422"><ele>199</ele></trkpt>
+   <trkpt lat="50.103767" lon="14.479481"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.103735" lon="14.479532"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.103719" lon="14.479564"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.1037" lon="14.479608"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.103683" lon="14.479681"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.103674" lon="14.479758"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.103681" lon="14.479872"><ele>199.25</ele></trkpt>
+   <trkpt lat="50.103709" lon="14.479979"><ele>199.5</ele></trkpt>
+   <trkpt lat="50.10371" lon="14.479981"><ele>198.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

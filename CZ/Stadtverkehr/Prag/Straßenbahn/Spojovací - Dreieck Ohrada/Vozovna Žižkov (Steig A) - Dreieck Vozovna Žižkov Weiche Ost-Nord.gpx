@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13 filtered ascend = 0 plain-ascend = 0 cost=26 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Vozovna Žižkov (Steig A) - Dreieck Vozovna Žižkov Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09144/14.47550/osm-mapnik-german_style&amp;lonlats=14.475459,50.091664;14.475289,50.091648&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.091664" lon="14.475457"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.091653" lon="14.47535"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.091648" lon="14.475293"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.091647" lon="14.475288"><ele>259</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

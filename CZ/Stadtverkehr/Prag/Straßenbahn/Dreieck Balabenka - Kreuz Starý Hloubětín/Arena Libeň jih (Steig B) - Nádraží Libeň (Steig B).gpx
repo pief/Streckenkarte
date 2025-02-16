@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 499 filtered ascend = 0 plain-ascend = 0 cost=998 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Arena Libeň jih (Steig B) - Nádraží Libeň (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.10171/14.50227/osm-mapnik-german_style&amp;lonlats=14.495725,50.102706;14.502613,50.101932&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.102714" lon="14.495727"><ele>206</ele></trkpt>
+   <trkpt lat="50.102507" lon="14.497619"><ele>206</ele></trkpt>
+   <trkpt lat="50.102283" lon="14.499609"><ele>204.75</ele></trkpt>
+   <trkpt lat="50.102257" lon="14.499801"><ele>204.75</ele></trkpt>
+   <trkpt lat="50.102055" lon="14.501569"><ele>205</ele></trkpt>
+   <trkpt lat="50.101934" lon="14.502608"><ele>205</ele></trkpt>
+   <trkpt lat="50.101933" lon="14.502613"><ele>205</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
