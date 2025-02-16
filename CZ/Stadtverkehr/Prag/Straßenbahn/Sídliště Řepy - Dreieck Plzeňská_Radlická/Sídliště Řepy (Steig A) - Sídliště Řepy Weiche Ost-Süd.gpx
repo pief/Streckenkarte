@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = -1 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Sídliště Řepy (Steig A) - Sídliště Řepy Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.06522/14.29945/osm-mapnik-german_style&amp;lonlats=14.298896,50.065212;14.29947,50.065344">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.065212" lon="14.298894"><ele>356.75</ele></trkpt>
+   <trkpt lat="50.065214" lon="14.298907"><ele>356.75</ele></trkpt>
+   <trkpt lat="50.065232" lon="14.299012"><ele>356.5</ele></trkpt>
+   <trkpt lat="50.065273" lon="14.299239"><ele>356</ele></trkpt>
+   <trkpt lat="50.06534" lon="14.29947"><ele>355.75</ele></trkpt>
+   <trkpt lat="50.06534" lon="14.299472"><ele>355</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
