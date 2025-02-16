@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 470 filtered ascend = 1 plain-ascend = 1 cost=940 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Karlínské náměstí (Steig A) - Florenc (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.09135/14.43963/osm-mapnik-german_style&amp;lonlats=14.445291,50.092701;14.439147,50.091236&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.092703" lon="14.445288"><ele>186</ele></trkpt>
+   <trkpt lat="50.092567" lon="14.444673"><ele>186</ele></trkpt>
+   <trkpt lat="50.092527" lon="14.444496"><ele>186</ele></trkpt>
+   <trkpt lat="50.092492" lon="14.444341"><ele>186</ele></trkpt>
+   <trkpt lat="50.092046" lon="14.442334"><ele>186</ele></trkpt>
+   <trkpt lat="50.092018" lon="14.442207"><ele>186</ele></trkpt>
+   <trkpt lat="50.091962" lon="14.441953"><ele>186</ele></trkpt>
+   <trkpt lat="50.091937" lon="14.441843"><ele>186</ele></trkpt>
+   <trkpt lat="50.091722" lon="14.440896"><ele>186</ele></trkpt>
+   <trkpt lat="50.091629" lon="14.440561"><ele>185.75</ele></trkpt>
+   <trkpt lat="50.091487" lon="14.440051"><ele>186.75</ele></trkpt>
+   <trkpt lat="50.091235" lon="14.43915"><ele>187</ele></trkpt>
+   <trkpt lat="50.091234" lon="14.439147"><ele>187</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

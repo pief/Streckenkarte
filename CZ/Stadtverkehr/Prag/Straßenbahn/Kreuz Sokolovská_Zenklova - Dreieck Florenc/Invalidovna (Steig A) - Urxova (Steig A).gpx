@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 628 filtered ascend = 1 plain-ascend = 1 cost=1256 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Invalidovna (Steig A) - Urxova (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.09526/14.45704/osm-mapnik-german_style&amp;lonlats=14.464402,50.097614;14.456543,50.095198&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.097607" lon="14.464406"><ele>185</ele></trkpt>
+   <trkpt lat="50.097582" lon="14.464339"><ele>185</ele></trkpt>
+   <trkpt lat="50.097465" lon="14.464017"><ele>185</ele></trkpt>
+   <trkpt lat="50.096858" lon="14.462343"><ele>185</ele></trkpt>
+   <trkpt lat="50.09682" lon="14.462237"><ele>185</ele></trkpt>
+   <trkpt lat="50.096788" lon="14.462151"><ele>185</ele></trkpt>
+   <trkpt lat="50.095999" lon="14.459963"><ele>186</ele></trkpt>
+   <trkpt lat="50.095864" lon="14.459512"><ele>186</ele></trkpt>
+   <trkpt lat="50.095803" lon="14.45927"><ele>186</ele></trkpt>
+   <trkpt lat="50.09558" lon="14.458267"><ele>185.75</ele></trkpt>
+   <trkpt lat="50.095343" lon="14.457202"><ele>186.75</ele></trkpt>
+   <trkpt lat="50.095312" lon="14.457066"><ele>186.75</ele></trkpt>
+   <trkpt lat="50.095196" lon="14.456543"><ele>186.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 366 filtered ascend = 0 plain-ascend = -4 cost=732 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Ocelářská (Steig A) - Balabenka (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/50.10408/14.48367/osm-mapnik-german_style&amp;lonlats=14.487872,50.103582;14.482888,50.104216&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.103587" lon="14.487873"><ele>203.75</ele></trkpt>
+   <trkpt lat="50.103597" lon="14.487783"><ele>204</ele></trkpt>
+   <trkpt lat="50.103616" lon="14.487625"><ele>203.25</ele></trkpt>
+   <trkpt lat="50.103631" lon="14.487478"><ele>203</ele></trkpt>
+   <trkpt lat="50.103814" lon="14.485801"><ele>202.25</ele></trkpt>
+   <trkpt lat="50.103881" lon="14.485198"><ele>202</ele></trkpt>
+   <trkpt lat="50.103929" lon="14.484759"><ele>201.75</ele></trkpt>
+   <trkpt lat="50.103983" lon="14.484264"><ele>201</ele></trkpt>
+   <trkpt lat="50.104078" lon="14.483549"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.104139" lon="14.483176"><ele>200</ele></trkpt>
+   <trkpt lat="50.104165" lon="14.483062"><ele>200</ele></trkpt>
+   <trkpt lat="50.104215" lon="14.482895"><ele>199.25</ele></trkpt>
+   <trkpt lat="50.104217" lon="14.482889"><ele>199</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

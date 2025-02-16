@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 620 filtered ascend = 1 plain-ascend = 1 cost=1240 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Nádraží Libeň (Steig A) - Arena Libeň jih (Steig A)</name>
+  <link href="https://bikerouter.de/#map=17/50.10221/14.49899/osm-mapnik-german_style&amp;lonlats=14.501816,50.102056;14.493249,50.103016&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.102056" lon="14.501816"><ele>205</ele></trkpt>
+   <trkpt lat="50.102084" lon="14.501577"><ele>205</ele></trkpt>
+   <trkpt lat="50.102287" lon="14.49981"><ele>204.75</ele></trkpt>
+   <trkpt lat="50.102309" lon="14.499615"><ele>204.75</ele></trkpt>
+   <trkpt lat="50.102533" lon="14.497628"><ele>206</ele></trkpt>
+   <trkpt lat="50.10284" lon="14.494848"><ele>205.75</ele></trkpt>
+   <trkpt lat="50.102868" lon="14.494594"><ele>206</ele></trkpt>
+   <trkpt lat="50.102881" lon="14.494477"><ele>206</ele></trkpt>
+   <trkpt lat="50.10291" lon="14.494208"><ele>206</ele></trkpt>
+   <trkpt lat="50.103016" lon="14.493256"><ele>206.5</ele></trkpt>
+   <trkpt lat="50.103016" lon="14.493249"><ele>206</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
