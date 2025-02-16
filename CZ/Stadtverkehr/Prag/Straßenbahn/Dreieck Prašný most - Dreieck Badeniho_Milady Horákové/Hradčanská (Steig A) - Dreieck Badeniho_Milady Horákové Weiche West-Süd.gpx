@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=204 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Hradčanská (Steig A) - Dreieck Badeniho/Milady Horákové Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.09776/14.40720/osm-mapnik-german_style&amp;lonlats=14.404807,50.097306;14.406174,50.097564">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.097306" lon="14.404805"><ele>229</ele></trkpt>
+   <trkpt lat="50.097307" lon="14.404811"><ele>229</ele></trkpt>
+   <trkpt lat="50.097325" lon="14.404909"><ele>229</ele></trkpt>
+   <trkpt lat="50.097338" lon="14.404977"><ele>229</ele></trkpt>
+   <trkpt lat="50.097378" lon="14.405192"><ele>228.5</ele></trkpt>
+   <trkpt lat="50.097562" lon="14.406173"><ele>227.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

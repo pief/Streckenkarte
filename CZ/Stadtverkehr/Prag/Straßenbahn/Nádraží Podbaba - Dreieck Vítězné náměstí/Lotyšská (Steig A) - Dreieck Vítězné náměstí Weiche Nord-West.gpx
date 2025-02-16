@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 309 filtered ascend = 5 plain-ascend = 5 cost=618 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Lotyšská (Steig A) - Dreieck Vítězné náměstí Weiche Nord-West</name>
+  <link href="https://bikerouter.de/#map=19/50.10080/14.39567/osm-mapnik-german_style&amp;lonlats=14.39502,50.1036;14.395357,50.100833">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.1036" lon="14.39502"><ele>213</ele></trkpt>
+   <trkpt lat="50.103556" lon="14.395026"><ele>213</ele></trkpt>
+   <trkpt lat="50.103072" lon="14.395086"><ele>214</ele></trkpt>
+   <trkpt lat="50.102663" lon="14.395138"><ele>215</ele></trkpt>
+   <trkpt lat="50.102581" lon="14.395145"><ele>215.25</ele></trkpt>
+   <trkpt lat="50.101572" lon="14.395271"><ele>218</ele></trkpt>
+   <trkpt lat="50.101505" lon="14.39528"><ele>218</ele></trkpt>
+   <trkpt lat="50.101123" lon="14.395327"><ele>218</ele></trkpt>
+   <trkpt lat="50.100989" lon="14.395341"><ele>218</ele></trkpt>
+   <trkpt lat="50.100833" lon="14.395357"><ele>218.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
