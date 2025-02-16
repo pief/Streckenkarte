@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = -1 cost=84 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Anděl Weiche Süd-nach-Ost-Süd - Kreuz Anděl Weiche Süd-nach-Ost-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.07171/14.40511/osm-mapnik-german_style&amp;lonlats=14.40412,50.071839;14.404388,50.072099">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.071839" lon="14.40412"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.071839" lon="14.404121"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.071906" lon="14.40411"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.071961" lon="14.404117"><ele>194</ele></trkpt>
+   <trkpt lat="50.071984" lon="14.404129"><ele>194</ele></trkpt>
+   <trkpt lat="50.072019" lon="14.404162"><ele>194</ele></trkpt>
+   <trkpt lat="50.072057" lon="14.404232"><ele>194</ele></trkpt>
+   <trkpt lat="50.072062" lon="14.404243"><ele>194</ele></trkpt>
+   <trkpt lat="50.072082" lon="14.404306"><ele>194</ele></trkpt>
+   <trkpt lat="50.072097" lon="14.404384"><ele>194</ele></trkpt>
+   <trkpt lat="50.072097" lon="14.404387"><ele>192</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

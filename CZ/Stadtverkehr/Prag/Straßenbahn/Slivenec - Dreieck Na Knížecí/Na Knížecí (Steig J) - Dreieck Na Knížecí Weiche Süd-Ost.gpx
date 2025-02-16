@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12 filtered ascend = 0 plain-ascend = 0 cost=24 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Na Knížecí (Steig J) - Dreieck Na Knížecí Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.06845/14.40664/osm-mapnik-german_style&amp;lonlats=14.406497,50.068361;14.406432,50.068465">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.068361" lon="14.406497"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.068444" lon="14.406446"><ele>195</ele></trkpt>
+   <trkpt lat="50.068464" lon="14.406431"><ele>195</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
