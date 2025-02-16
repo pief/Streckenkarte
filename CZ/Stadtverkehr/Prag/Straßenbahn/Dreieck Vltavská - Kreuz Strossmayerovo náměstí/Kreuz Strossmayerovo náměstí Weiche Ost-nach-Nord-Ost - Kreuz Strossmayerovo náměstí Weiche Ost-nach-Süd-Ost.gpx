@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Strossmayerovo náměstí Weiche Ost-nach-Nord-Ost - Kreuz Strossmayerovo náměstí Weiche Ost-nach-Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.09884/14.43287/osm-mapnik-german_style&amp;lonlats=14.433659,50.098859;14.433624,50.098863">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.098859" lon="14.433659"><ele>199.75</ele></trkpt>
+   <trkpt lat="50.098862" lon="14.433626"><ele>199.75</ele></trkpt>
+   <trkpt lat="50.098862" lon="14.433623"><ele>199.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
