@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = -1 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Na Zátorách/Partyzánská Weiche Ost-Nord - Dreieck Na Zátorách/Partyzánská Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.10829/14.43716/osm-mapnik-german_style&amp;lonlats=14.437427,50.107946;14.437044,50.108041;14.437009,50.108186">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.107946" lon="14.437426"><ele>187.75</ele></trkpt>
+   <trkpt lat="50.107941" lon="14.437304"><ele>187.5</ele></trkpt>
+   <trkpt lat="50.107944" lon="14.437241"><ele>187.25</ele></trkpt>
+   <trkpt lat="50.107966" lon="14.437155"><ele>187</ele></trkpt>
+   <trkpt lat="50.107997" lon="14.437092"><ele>186.5</ele></trkpt>
+   <trkpt lat="50.108042" lon="14.437049"><ele>186</ele></trkpt>
+   <trkpt lat="50.108067" lon="14.437026"><ele>186</ele></trkpt>
+   <trkpt lat="50.108102" lon="14.437013"><ele>185.75</ele></trkpt>
+   <trkpt lat="50.108164" lon="14.437013"><ele>185.5</ele></trkpt>
+   <trkpt lat="50.108185" lon="14.43701"><ele>185.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

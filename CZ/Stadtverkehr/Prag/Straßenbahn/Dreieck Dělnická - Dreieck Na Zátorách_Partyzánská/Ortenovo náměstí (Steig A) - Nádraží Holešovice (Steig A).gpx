@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 503 filtered ascend = 1 plain-ascend = 1 cost=1006 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Ortenovo náměstí (Steig A) - Nádraží Holešovice (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.10807/14.44098/osm-mapnik-german_style&amp;lonlats=14.447035,50.107805;14.440008,50.108156">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.107808" lon="14.447035"><ele>189</ele></trkpt>
+   <trkpt lat="50.107811" lon="14.446996"><ele>189</ele></trkpt>
+   <trkpt lat="50.107831" lon="14.446761"><ele>189</ele></trkpt>
+   <trkpt lat="50.107845" lon="14.446569"><ele>189</ele></trkpt>
+   <trkpt lat="50.10788" lon="14.446112"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.107961" lon="14.445079"><ele>190</ele></trkpt>
+   <trkpt lat="50.107977" lon="14.444878"><ele>190</ele></trkpt>
+   <trkpt lat="50.108039" lon="14.444052"><ele>190</ele></trkpt>
+   <trkpt lat="50.108049" lon="14.443826"><ele>190</ele></trkpt>
+   <trkpt lat="50.108058" lon="14.44365"><ele>190</ele></trkpt>
+   <trkpt lat="50.108067" lon="14.443436"><ele>190</ele></trkpt>
+   <trkpt lat="50.108072" lon="14.443264"><ele>190</ele></trkpt>
+   <trkpt lat="50.108107" lon="14.441981"><ele>190</ele></trkpt>
+   <trkpt lat="50.108132" lon="14.441049"><ele>190</ele></trkpt>
+   <trkpt lat="50.108135" lon="14.440931"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.108158" lon="14.440016"><ele>190</ele></trkpt>
+   <trkpt lat="50.108158" lon="14.440008"><ele>190</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
