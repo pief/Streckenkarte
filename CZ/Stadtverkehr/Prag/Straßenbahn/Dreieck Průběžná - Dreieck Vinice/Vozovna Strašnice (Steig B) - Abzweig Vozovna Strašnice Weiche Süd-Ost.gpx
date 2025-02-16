@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 1 cost=128 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Vozovna Strašnice (Steig B) - Abzweig Vozovna Strašnice Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.07621/14.48968/osm-mapnik-german_style&amp;lonlats=14.489825,50.075395;14.489516,50.075933&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.075395" lon="14.489825"><ele>230.75</ele></trkpt>
+   <trkpt lat="50.075479" lon="14.489774"><ele>230.75</ele></trkpt>
+   <trkpt lat="50.07555" lon="14.489727"><ele>230.75</ele></trkpt>
+   <trkpt lat="50.075763" lon="14.489602"><ele>231</ele></trkpt>
+   <trkpt lat="50.075933" lon="14.489516"><ele>231.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

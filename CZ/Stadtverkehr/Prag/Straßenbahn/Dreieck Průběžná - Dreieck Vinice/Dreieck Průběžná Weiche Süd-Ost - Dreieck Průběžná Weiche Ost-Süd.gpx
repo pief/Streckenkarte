@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 2 plain-ascend = 2 cost=118 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Průběžná Weiche Süd-Ost - Dreieck Průběžná Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.07189/14.48802/osm-mapnik-german_style&amp;lonlats=14.487453,50.071414;14.487633,50.071819&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.071415" lon="14.487455"><ele>216.75</ele></trkpt>
+   <trkpt lat="50.071417" lon="14.487454"><ele>217</ele></trkpt>
+   <trkpt lat="50.071487" lon="14.487378"><ele>217.25</ele></trkpt>
+   <trkpt lat="50.071527" lon="14.487354"><ele>217.25</ele></trkpt>
+   <trkpt lat="50.071567" lon="14.487346"><ele>217.5</ele></trkpt>
+   <trkpt lat="50.071592" lon="14.487343"><ele>217.5</ele></trkpt>
+   <trkpt lat="50.071658" lon="14.487358"><ele>217.75</ele></trkpt>
+   <trkpt lat="50.071713" lon="14.487398"><ele>218</ele></trkpt>
+   <trkpt lat="50.071748" lon="14.48744"><ele>218</ele></trkpt>
+   <trkpt lat="50.071778" lon="14.487495"><ele>218</ele></trkpt>
+   <trkpt lat="50.071818" lon="14.487629"><ele>217.75</ele></trkpt>
+   <trkpt lat="50.071818" lon="14.487632"><ele>218.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 368 filtered ascend = 9 plain-ascend = 9 cost=736 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Krematorium Strašnice (Steig A) - Vinohradské hřbitovy (Steig A)</name>
+  <link href="https://bikerouter.de/#map=18/50.07776/14.47722/osm-mapnik-german_style&amp;lonlats=14.484717,50.077285;14.479651,50.077793&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.077291" lon="14.484718"><ele>241</ele></trkpt>
+   <trkpt lat="50.077292" lon="14.484716"><ele>241.25</ele></trkpt>
+   <trkpt lat="50.077296" lon="14.484671"><ele>241.25</ele></trkpt>
+   <trkpt lat="50.077448" lon="14.483153"><ele>244.75</ele></trkpt>
+   <trkpt lat="50.077675" lon="14.480838"><ele>248</ele></trkpt>
+   <trkpt lat="50.077692" lon="14.48068"><ele>248</ele></trkpt>
+   <trkpt lat="50.077792" lon="14.479655"><ele>250</ele></trkpt>
+   <trkpt lat="50.077792" lon="14.47965"><ele>250</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 392 filtered ascend = 14 plain-ascend = 15 cost=784 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Vinohradské hřbitovy (Steig A) - Želivského (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.07802/14.47503/osm-mapnik-german_style&amp;lonlats=14.479651,50.077793;14.474259,50.078341&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.077792" lon="14.47965"><ele>250</ele></trkpt>
+   <trkpt lat="50.077803" lon="14.479547"><ele>250</ele></trkpt>
+   <trkpt lat="50.07802" lon="14.477327"><ele>255.25</ele></trkpt>
+   <trkpt lat="50.078112" lon="14.476426"><ele>258</ele></trkpt>
+   <trkpt lat="50.078179" lon="14.475912"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.078248" lon="14.475308"><ele>261.75</ele></trkpt>
+   <trkpt lat="50.078344" lon="14.474263"><ele>264.5</ele></trkpt>
+   <trkpt lat="50.078344" lon="14.474259"><ele>264.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 1 plain-ascend = 2 cost=92 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Vinice Weiche Süd-Ost - Dreieck Vinice Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.07673/14.48874/osm-mapnik-german_style&amp;lonlats=14.489264,50.07657;14.488923,50.07688&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.076571" lon="14.489271"><ele>232.25</ele></trkpt>
+   <trkpt lat="50.076574" lon="14.489271"><ele>232.5</ele></trkpt>
+   <trkpt lat="50.076673" lon="14.489236"><ele>233</ele></trkpt>
+   <trkpt lat="50.076691" lon="14.48923"><ele>233</ele></trkpt>
+   <trkpt lat="50.07676" lon="14.489187"><ele>233</ele></trkpt>
+   <trkpt lat="50.076797" lon="14.489145"><ele>233</ele></trkpt>
+   <trkpt lat="50.076828" lon="14.489094"><ele>233</ele></trkpt>
+   <trkpt lat="50.076861" lon="14.489022"><ele>233.25</ele></trkpt>
+   <trkpt lat="50.076878" lon="14.488928"><ele>233.5</ele></trkpt>
+   <trkpt lat="50.076878" lon="14.488922"><ele>233.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

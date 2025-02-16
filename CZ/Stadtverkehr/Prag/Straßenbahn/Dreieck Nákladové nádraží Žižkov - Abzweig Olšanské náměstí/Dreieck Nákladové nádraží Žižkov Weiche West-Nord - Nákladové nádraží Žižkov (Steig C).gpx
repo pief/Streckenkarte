@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 87 filtered ascend = 0 plain-ascend = -3 cost=174 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Nákladové nádraží Žižkov Weiche West-Nord - Nákladové nádraží Žižkov (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/50.08427/14.47051/osm-mapnik-german_style&amp;lonlats=14.470322,50.084332;14.469134,50.084132&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.084328" lon="14.470322"><ele>256.75</ele></trkpt>
+   <trkpt lat="50.084273" lon="14.470009"><ele>256.25</ele></trkpt>
+   <trkpt lat="50.084133" lon="14.469153"><ele>254.75</ele></trkpt>
+   <trkpt lat="50.084129" lon="14.469134"><ele>252.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

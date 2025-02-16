@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 211 filtered ascend = 6 plain-ascend = 7 cost=422 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Vinice (Steig A) - Krematorium Strašnice (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.07710/14.48519/osm-mapnik-german_style&amp;lonlats=14.487606,50.07701;14.484717,50.077285&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.077008" lon="14.487605"><ele>234.75</ele></trkpt>
+   <trkpt lat="50.077009" lon="14.487605"><ele>235</ele></trkpt>
+   <trkpt lat="50.077013" lon="14.487569"><ele>235</ele></trkpt>
+   <trkpt lat="50.077144" lon="14.486209"><ele>238</ele></trkpt>
+   <trkpt lat="50.077171" lon="14.485937"><ele>238.5</ele></trkpt>
+   <trkpt lat="50.077196" lon="14.485679"><ele>239</ele></trkpt>
+   <trkpt lat="50.077291" lon="14.484718"><ele>241.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
