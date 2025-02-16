@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 0 plain-ascend = 0 cost=248 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Senovážné náměstí/Dlážděná Weiche Ost-Süd - Abzweig Hlavní nádraží Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.08601/14.43407/osm-mapnik-german_style&amp;lonlats=14.432259,50.085725;14.433884,50.086103">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.085725" lon="14.432259"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.085736" lon="14.432303"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.086072" lon="14.433771"><ele>195</ele></trkpt>
+   <trkpt lat="50.086103" lon="14.433882"><ele>195</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

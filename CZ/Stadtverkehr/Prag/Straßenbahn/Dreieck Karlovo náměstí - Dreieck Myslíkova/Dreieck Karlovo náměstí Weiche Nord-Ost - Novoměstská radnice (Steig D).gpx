@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 147 filtered ascend = 0 plain-ascend = -3 cost=294 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Karlovo náměstí Weiche Nord-Ost - Novoměstská radnice (Steig D)</name>
+  <link href="https://bikerouter.de/#map=19/50.07745/14.41954/osm-mapnik-german_style&amp;lonlats=14.419285,50.076165;14.419556,50.077469">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.076164" lon="14.419284"><ele>205.75</ele></trkpt>
+   <trkpt lat="50.07642" lon="14.419336"><ele>205.5</ele></trkpt>
+   <trkpt lat="50.076906" lon="14.419438"><ele>204</ele></trkpt>
+   <trkpt lat="50.077468" lon="14.419552"><ele>202</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
