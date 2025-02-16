@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 58 filtered ascend = 0 plain-ascend = 1 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Florenc Weiche Nordost-Nord - Dreieck Florenc Weiche Südwest-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09052/14.43709/osm-mapnik-german_style&amp;lonlats=14.437374,50.090733;14.436655,50.090523&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.090729" lon="14.437376"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.090729" lon="14.437373"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.090701" lon="14.437275"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.090658" lon="14.437122"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.090608" lon="14.436944"><ele>189</ele></trkpt>
+   <trkpt lat="50.090577" lon="14.436837"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.090544" lon="14.436724"><ele>189.75</ele></trkpt>
+   <trkpt lat="50.090526" lon="14.436659"><ele>190</ele></trkpt>
+   <trkpt lat="50.090524" lon="14.436652"><ele>190</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

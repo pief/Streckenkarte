@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 93 filtered ascend = 1 plain-ascend = 1 cost=188 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Abzweig Wendeschleife Florenc Weiche Ost-Ost - Dreieck Florenc Weiche Nordost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09086/14.43778/osm-mapnik-german_style&amp;lonlats=14.438565,50.09107;14.437374,50.090733&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.09107" lon="14.438565"><ele>188</ele></trkpt>
+   <trkpt lat="50.091054" lon="14.438509"><ele>188</ele></trkpt>
+   <trkpt lat="50.091005" lon="14.438329"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.090997" lon="14.438296"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.090951" lon="14.438139"><ele>188.5</ele></trkpt>
+   <trkpt lat="50.090891" lon="14.437938"><ele>188.75</ele></trkpt>
+   <trkpt lat="50.090873" lon="14.437864"><ele>188.75</ele></trkpt>
+   <trkpt lat="50.090779" lon="14.437541"><ele>189</ele></trkpt>
+   <trkpt lat="50.090741" lon="14.437411"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.090729" lon="14.437376"><ele>189.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
