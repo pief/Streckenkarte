@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 1 plain-ascend = 2 cost=154 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Vozovna Žižkov Weiche Ost-Süd - Abzweig Loudova</name>
+  <link href="https://bikerouter.de/#map=19/50.09132/14.47616/osm-mapnik-german_style&amp;lonlats=14.475304,50.091618;14.476351,50.091726&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.091617" lon="14.475303"><ele>259.5</ele></trkpt>
+   <trkpt lat="50.091619" lon="14.475306"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.091625" lon="14.475356"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.091723" lon="14.47635"><ele>261</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

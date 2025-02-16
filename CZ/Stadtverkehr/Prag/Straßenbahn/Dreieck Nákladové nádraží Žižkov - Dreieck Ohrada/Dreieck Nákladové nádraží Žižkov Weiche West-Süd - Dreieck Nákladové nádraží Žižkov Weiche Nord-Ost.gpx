@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 1 plain-ascend = 1 cost=92 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Nákladové nádraží Žižkov Weiche West-Süd - Dreieck Nákladové nádraží Žižkov Weiche Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/50.08467/14.47116/osm-mapnik-german_style&amp;lonlats=14.470354,50.084307;14.470649,50.084596&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.084301" lon="14.470355"><ele>256.75</ele></trkpt>
+   <trkpt lat="50.084302" lon="14.470361"><ele>257</ele></trkpt>
+   <trkpt lat="50.084313" lon="14.470408"><ele>257</ele></trkpt>
+   <trkpt lat="50.084327" lon="14.470467"><ele>257.25</ele></trkpt>
+   <trkpt lat="50.084341" lon="14.470508"><ele>257.5</ele></trkpt>
+   <trkpt lat="50.084365" lon="14.470552"><ele>257.5</ele></trkpt>
+   <trkpt lat="50.084411" lon="14.470611"><ele>257.75</ele></trkpt>
+   <trkpt lat="50.08445" lon="14.470643"><ele>258</ele></trkpt>
+   <trkpt lat="50.084473" lon="14.470652"><ele>258</ele></trkpt>
+   <trkpt lat="50.084537" lon="14.470663"><ele>258</ele></trkpt>
+   <trkpt lat="50.084592" lon="14.470658"><ele>258</ele></trkpt>
+   <trkpt lat="50.084597" lon="14.470655"><ele>258</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

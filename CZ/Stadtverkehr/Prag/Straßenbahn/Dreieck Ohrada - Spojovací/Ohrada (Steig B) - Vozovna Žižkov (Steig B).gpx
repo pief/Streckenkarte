@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 323 filtered ascend = 6 plain-ascend = 6 cost=648 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Ohrada (Steig B) - Vozovna Žižkov (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.09143/14.47414/osm-mapnik-german_style&amp;lonlats=14.470102,50.090691;14.474436,50.091495&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.090695" lon="14.470099"><ele>252</ele></trkpt>
+   <trkpt lat="50.090715" lon="14.470204"><ele>252.25</ele></trkpt>
+   <trkpt lat="50.090807" lon="14.470652"><ele>252.75</ele></trkpt>
+   <trkpt lat="50.090853" lon="14.470904"><ele>253.25</ele></trkpt>
+   <trkpt lat="50.091084" lon="14.472173"><ele>255</ele></trkpt>
+   <trkpt lat="50.091125" lon="14.472403"><ele>255.5</ele></trkpt>
+   <trkpt lat="50.091327" lon="14.473519"><ele>257</ele></trkpt>
+   <trkpt lat="50.091493" lon="14.474435"><ele>258.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

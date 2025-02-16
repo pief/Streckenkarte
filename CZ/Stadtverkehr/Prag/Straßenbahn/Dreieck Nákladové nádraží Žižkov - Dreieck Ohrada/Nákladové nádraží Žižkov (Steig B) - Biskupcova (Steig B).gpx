@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 416 filtered ascend = 1 plain-ascend = -6 cost=832 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Nákladové nádraží Žižkov (Steig B) - Biskupcova (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.08907/14.46854/osm-mapnik-german_style&amp;lonlats=14.470284,50.085523;14.468578,50.089091&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.085523" lon="14.470286"><ele>258.5</ele></trkpt>
+   <trkpt lat="50.085525" lon="14.470286"><ele>258.75</ele></trkpt>
+   <trkpt lat="50.085591" lon="14.47026"><ele>258.75</ele></trkpt>
+   <trkpt lat="50.085706" lon="14.470213"><ele>258.75</ele></trkpt>
+   <trkpt lat="50.086676" lon="14.469823"><ele>260</ele></trkpt>
+   <trkpt lat="50.086831" lon="14.469749"><ele>260</ele></trkpt>
+   <trkpt lat="50.086972" lon="14.469675"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.087056" lon="14.469632"><ele>259.75</ele></trkpt>
+   <trkpt lat="50.087286" lon="14.469515"><ele>259</ele></trkpt>
+   <trkpt lat="50.087413" lon="14.46945"><ele>259</ele></trkpt>
+   <trkpt lat="50.088297" lon="14.469001"><ele>255</ele></trkpt>
+   <trkpt lat="50.088409" lon="14.468944"><ele>254.5</ele></trkpt>
+   <trkpt lat="50.088438" lon="14.46893"><ele>254.5</ele></trkpt>
+   <trkpt lat="50.088489" lon="14.468904"><ele>254.25</ele></trkpt>
+   <trkpt lat="50.089093" lon="14.46859"><ele>252</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

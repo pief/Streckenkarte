@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 19 filtered ascend = 0 plain-ascend = 1 cost=40 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Vozovna Žižkov (Steig B) - Dreieck Vozovna Žižkov Weiche West-Süd</name>
+  <link href="https://bikerouter.de/#map=18/50.09195/14.47416/osm-mapnik-german_style&amp;lonlats=14.474435,50.091493;14.474688,50.091538&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.091493" lon="14.474435"><ele>258.25</ele></trkpt>
+   <trkpt lat="50.091525" lon="14.47461"><ele>258.75</ele></trkpt>
+   <trkpt lat="50.091534" lon="14.474688"><ele>258.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
