@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 8 plain-ascend = 9 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Vltavská Weiche Süd-Ost - Dreieck Vltavská Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=18/50.09872/14.43576/osm-mapnik-german_style&amp;lonlats=14.437489,50.099088;14.437041,50.099388&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099087" lon="14.437487"><ele>188</ele></trkpt>
+   <trkpt lat="50.099092" lon="14.437489"><ele>188</ele></trkpt>
+   <trkpt lat="50.099183" lon="14.43751"><ele>188</ele></trkpt>
+   <trkpt lat="50.099256" lon="14.437509"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.099282" lon="14.437499"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.099318" lon="14.437465"><ele>188.5</ele></trkpt>
+   <trkpt lat="50.099361" lon="14.437384"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.099376" lon="14.437345"><ele>189.5</ele></trkpt>
+   <trkpt lat="50.099392" lon="14.437257"><ele>190</ele></trkpt>
+   <trkpt lat="50.099396" lon="14.437157"><ele>191</ele></trkpt>
+   <trkpt lat="50.099389" lon="14.437046"><ele>192</ele></trkpt>
+   <trkpt lat="50.099387" lon="14.43704"><ele>196.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

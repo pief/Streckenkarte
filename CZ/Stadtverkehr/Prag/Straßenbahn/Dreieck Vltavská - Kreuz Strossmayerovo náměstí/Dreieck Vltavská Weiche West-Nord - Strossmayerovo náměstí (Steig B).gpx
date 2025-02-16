@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 245 filtered ascend = 7 plain-ascend = 8 cost=490 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Vltavská Weiche West-Nord - Strossmayerovo náměstí (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.09876/14.43456/osm-mapnik-german_style&amp;lonlats=14.437041,50.099388;14.43375,50.098853&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099387" lon="14.43704"><ele>192</ele></trkpt>
+   <trkpt lat="50.099098" lon="14.435408"><ele>196.75</ele></trkpt>
+   <trkpt lat="50.09901" lon="14.434911"><ele>197.5</ele></trkpt>
+   <trkpt lat="50.098976" lon="14.434788"><ele>197.75</ele></trkpt>
+   <trkpt lat="50.098923" lon="14.434622"><ele>198.25</ele></trkpt>
+   <trkpt lat="50.098904" lon="14.43457"><ele>198.5</ele></trkpt>
+   <trkpt lat="50.098882" lon="14.434507"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.098849" lon="14.434377"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.098835" lon="14.434274"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.098831" lon="14.43416"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.098853" lon="14.43375"><ele>199.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
