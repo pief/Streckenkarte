@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 1 plain-ascend = 0 cost=620 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Újezd Weiche Nord-Ost - Hellichova (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.08423/14.40455/osm-mapnik-german_style&amp;lonlats=14.404511,50.081386;14.404393,50.084173">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.081386" lon="14.404512"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.081811" lon="14.40451"><ele>193</ele></trkpt>
+   <trkpt lat="50.081962" lon="14.4045"><ele>193</ele></trkpt>
+   <trkpt lat="50.082476" lon="14.404472"><ele>193.75</ele></trkpt>
+   <trkpt lat="50.083029" lon="14.404474"><ele>194</ele></trkpt>
+   <trkpt lat="50.083105" lon="14.404474"><ele>194</ele></trkpt>
+   <trkpt lat="50.083376" lon="14.404474"><ele>193.75</ele></trkpt>
+   <trkpt lat="50.084172" lon="14.404392"><ele>192.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
