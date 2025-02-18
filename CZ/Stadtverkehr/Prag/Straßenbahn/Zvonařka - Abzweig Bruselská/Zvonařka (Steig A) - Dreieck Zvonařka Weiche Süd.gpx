@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Zvonařka (Steig A) - Dreieck Zvonařka Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=18/50.07140/14.43506/osm-mapnik-german_style&amp;lonlats=14.434139,50.070672;14.434099,50.070806">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.070672" lon="14.434139"><ele>238.5</ele></trkpt>
+   <trkpt lat="50.070673" lon="14.434139"><ele>238.75</ele></trkpt>
+   <trkpt lat="50.070769" lon="14.434109"><ele>238.75</ele></trkpt>
+   <trkpt lat="50.070806" lon="14.434104"><ele>238.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
