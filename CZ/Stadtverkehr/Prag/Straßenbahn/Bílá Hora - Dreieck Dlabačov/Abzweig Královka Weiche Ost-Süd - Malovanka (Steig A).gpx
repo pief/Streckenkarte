@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Abzweig Královka Weiche Ost-Süd - Malovanka (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.08569/14.38276/osm-mapnik-german_style&amp;lonlats=14.381624,50.08548;14.382431,50.085602">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.085477" lon="14.381623"><ele>297.25</ele></trkpt>
+   <trkpt lat="50.085478" lon="14.381625"><ele>297.25</ele></trkpt>
+   <trkpt lat="50.085602" lon="14.382429"><ele>296.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

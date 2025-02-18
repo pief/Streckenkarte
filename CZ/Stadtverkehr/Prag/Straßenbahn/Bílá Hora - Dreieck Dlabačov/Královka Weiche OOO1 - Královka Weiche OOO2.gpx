@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 14 filtered ascend = 0 plain-ascend = 0 cost=28 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Královka Weiche OOO1 - Královka Weiche OOO2</name>
+  <link href="https://bikerouter.de/#map=19/50.08530/14.38152/osm-mapnik-german_style&amp;lonlats=14.380867,50.084942;14.380956,50.085031">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.084939" lon="14.380871"><ele>300</ele></trkpt>
+   <trkpt lat="50.08494" lon="14.380873"><ele>300</ele></trkpt>
+   <trkpt lat="50.08503" lon="14.38096"><ele>299.75</ele></trkpt>
+   <trkpt lat="50.085029" lon="14.380958"><ele>300</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
