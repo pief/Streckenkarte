@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 443 filtered ascend = 13 plain-ascend = 13 cost=886 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Královský letohrádek (Steig B) - Pražský hrad (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.09362/14.39869/osm-mapnik-german_style&amp;lonlats=14.404581,50.094255;14.398562,50.093346">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.094252" lon="14.40458"><ele>244.5</ele></trkpt>
+   <trkpt lat="50.094242" lon="14.404508"><ele>244.5</ele></trkpt>
+   <trkpt lat="50.094139" lon="14.403793"><ele>246</ele></trkpt>
+   <trkpt lat="50.093722" lon="14.400886"><ele>252</ele></trkpt>
+   <trkpt lat="50.093564" lon="14.399789"><ele>254.25</ele></trkpt>
+   <trkpt lat="50.093459" lon="14.399345"><ele>256.25</ele></trkpt>
+   <trkpt lat="50.093348" lon="14.39857"><ele>257.75</ele></trkpt>
+   <trkpt lat="50.093346" lon="14.39856"><ele>257.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

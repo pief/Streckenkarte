@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 3 plain-ascend = 3 cost=114 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Brusnice Weiche Ost-Nord - Dreieck Brusnice Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09258/14.39256/osm-mapnik-german_style&amp;lonlats=14.392578,50.093128;14.391814,50.09304">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.093128" lon="14.392577"><ele>264.5</ele></trkpt>
+   <trkpt lat="50.093114" lon="14.392459"><ele>265</ele></trkpt>
+   <trkpt lat="50.093103" lon="14.392361"><ele>265.25</ele></trkpt>
+   <trkpt lat="50.093099" lon="14.39232"><ele>265.5</ele></trkpt>
+   <trkpt lat="50.093091" lon="14.39225"><ele>265.75</ele></trkpt>
+   <trkpt lat="50.093077" lon="14.392126"><ele>266.25</ele></trkpt>
+   <trkpt lat="50.093076" lon="14.392114"><ele>266.25</ele></trkpt>
+   <trkpt lat="50.09307" lon="14.392063"><ele>266.5</ele></trkpt>
+   <trkpt lat="50.093062" lon="14.391992"><ele>266.75</ele></trkpt>
+   <trkpt lat="50.093059" lon="14.39196"><ele>266.75</ele></trkpt>
+   <trkpt lat="50.093042" lon="14.39182"><ele>267.25</ele></trkpt>
+   <trkpt lat="50.093041" lon="14.391812"><ele>267.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

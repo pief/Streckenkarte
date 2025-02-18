@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 3 plain-ascend = 3 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Dlabačov Weiche Ost-Nord - Dreieck Dlabačov Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.08582/14.38445/osm-mapnik-german_style&amp;lonlats=14.384864,50.086214;14.384073,50.086029">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.086216" lon="14.384861"><ele>293</ele></trkpt>
+   <trkpt lat="50.08618" lon="14.384683"><ele>293.5</ele></trkpt>
+   <trkpt lat="50.086158" lon="14.384584"><ele>293.5</ele></trkpt>
+   <trkpt lat="50.086146" lon="14.384535"><ele>293.75</ele></trkpt>
+   <trkpt lat="50.086117" lon="14.384421"><ele>294</ele></trkpt>
+   <trkpt lat="50.086112" lon="14.384399"><ele>294</ele></trkpt>
+   <trkpt lat="50.086097" lon="14.384344"><ele>294.25</ele></trkpt>
+   <trkpt lat="50.08608" lon="14.384281"><ele>294.75</ele></trkpt>
+   <trkpt lat="50.086026" lon="14.384079"><ele>295.5</ele></trkpt>
+   <trkpt lat="50.086024" lon="14.384075"><ele>296</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

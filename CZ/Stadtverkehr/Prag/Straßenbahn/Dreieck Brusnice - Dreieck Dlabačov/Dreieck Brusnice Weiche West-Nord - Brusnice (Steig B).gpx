@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 4 plain-ascend = 4 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Brusnice Weiche West-Nord - Brusnice (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.09258/14.39256/osm-mapnik-german_style&amp;lonlats=14.391814,50.09304;14.391159,50.092969">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.093041" lon="14.391812"><ele>267.25</ele></trkpt>
+   <trkpt lat="50.09304" lon="14.391797"><ele>267.5</ele></trkpt>
+   <trkpt lat="50.092968" lon="14.391167"><ele>269</ele></trkpt>
+   <trkpt lat="50.092967" lon="14.391158"><ele>271.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

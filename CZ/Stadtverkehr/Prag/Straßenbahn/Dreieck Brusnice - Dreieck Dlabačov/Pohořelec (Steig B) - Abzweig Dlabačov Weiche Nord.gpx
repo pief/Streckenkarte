@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 325 filtered ascend = 11 plain-ascend = 12 cost=650 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Pohořelec (Steig B) - Abzweig Dlabačov Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.08606/14.38566/osm-mapnik-german_style&amp;lonlats=14.388153,50.087936;14.385138,50.086281">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.087936" lon="14.388153"><ele>281.25</ele></trkpt>
+   <trkpt lat="50.0879" lon="14.388161"><ele>281.5</ele></trkpt>
+   <trkpt lat="50.087876" lon="14.388166"><ele>281.5</ele></trkpt>
+   <trkpt lat="50.087745" lon="14.388183"><ele>282</ele></trkpt>
+   <trkpt lat="50.087429" lon="14.38821"><ele>283.25</ele></trkpt>
+   <trkpt lat="50.087341" lon="14.388208"><ele>283.5</ele></trkpt>
+   <trkpt lat="50.087283" lon="14.388191"><ele>283.75</ele></trkpt>
+   <trkpt lat="50.087213" lon="14.388154"><ele>284</ele></trkpt>
+   <trkpt lat="50.087152" lon="14.388097"><ele>284.75</ele></trkpt>
+   <trkpt lat="50.087069" lon="14.387966"><ele>285.25</ele></trkpt>
+   <trkpt lat="50.086921" lon="14.387674"><ele>286.25</ele></trkpt>
+   <trkpt lat="50.086856" lon="14.387517"><ele>287.5</ele></trkpt>
+   <trkpt lat="50.0868" lon="14.387351"><ele>288</ele></trkpt>
+   <trkpt lat="50.086601" lon="14.386518"><ele>288.75</ele></trkpt>
+   <trkpt lat="50.086579" lon="14.386423"><ele>289</ele></trkpt>
+   <trkpt lat="50.086279" lon="14.385139"><ele>292.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
