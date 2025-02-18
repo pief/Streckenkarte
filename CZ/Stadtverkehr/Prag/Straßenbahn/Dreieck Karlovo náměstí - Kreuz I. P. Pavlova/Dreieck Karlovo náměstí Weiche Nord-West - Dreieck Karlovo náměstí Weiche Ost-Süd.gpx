@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 2 plain-ascend = 3 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Karlovo náměstí Weiche Nord-West - Dreieck Karlovo náměstí Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/50.07614/14.42005/osm-mapnik-german_style&amp;lonlats=14.419226,50.076138;14.41958,50.075842">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.076136" lon="14.419229"><ele>205.75</ele></trkpt>
+   <trkpt lat="50.076131" lon="14.419228"><ele>206</ele></trkpt>
+   <trkpt lat="50.076061" lon="14.419225"><ele>206.25</ele></trkpt>
+   <trkpt lat="50.075989" lon="14.419243"><ele>206.5</ele></trkpt>
+   <trkpt lat="50.075941" lon="14.419278"><ele>206.75</ele></trkpt>
+   <trkpt lat="50.075918" lon="14.419309"><ele>206.75</ele></trkpt>
+   <trkpt lat="50.07588" lon="14.419379"><ele>206.75</ele></trkpt>
+   <trkpt lat="50.075863" lon="14.419432"><ele>206.75</ele></trkpt>
+   <trkpt lat="50.075847" lon="14.419523"><ele>207</ele></trkpt>
+   <trkpt lat="50.075841" lon="14.419576"><ele>207</ele></trkpt>
+   <trkpt lat="50.07584" lon="14.419579"><ele>208.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
