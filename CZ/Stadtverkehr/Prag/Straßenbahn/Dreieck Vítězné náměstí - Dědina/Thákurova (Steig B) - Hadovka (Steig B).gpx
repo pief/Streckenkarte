@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 730 filtered ascend = 21 plain-ascend = 22 cost=1460 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Thákurova (Steig B) - Hadovka (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.09961/14.37728/osm-mapnik-german_style&amp;lonlats=14.385913,50.100102;14.375764,50.09954">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.1001" lon="14.385912"><ele>231.75</ele></trkpt>
+   <trkpt lat="50.100098" lon="14.385858"><ele>231.75</ele></trkpt>
+   <trkpt lat="50.100094" lon="14.385777"><ele>232</ele></trkpt>
+   <trkpt lat="50.100091" lon="14.385711"><ele>232</ele></trkpt>
+   <trkpt lat="50.100083" lon="14.385551"><ele>232</ele></trkpt>
+   <trkpt lat="50.100072" lon="14.385362"><ele>232.5</ele></trkpt>
+   <trkpt lat="50.099739" lon="14.378893"><ele>244</ele></trkpt>
+   <trkpt lat="50.099729" lon="14.378694"><ele>244</ele></trkpt>
+   <trkpt lat="50.099655" lon="14.377212"><ele>248.25</ele></trkpt>
+   <trkpt lat="50.099633" lon="14.376862"><ele>249</ele></trkpt>
+   <trkpt lat="50.099576" lon="14.376168"><ele>252.25</ele></trkpt>
+   <trkpt lat="50.099537" lon="14.375767"><ele>253.25</ele></trkpt>
+   <trkpt lat="50.099536" lon="14.375763"><ele>253.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 336 filtered ascend = 8 plain-ascend = 8 cost=674 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dejvická (Steig B) - Thákurova (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.09996/14.38645/osm-mapnik-german_style&amp;lonlats=14.390583,50.100341;14.385913,50.100102">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.100342" lon="14.390581"><ele>223.5</ele></trkpt>
+   <trkpt lat="50.100337" lon="14.39048"><ele>224</ele></trkpt>
+   <trkpt lat="50.100335" lon="14.390411"><ele>224</ele></trkpt>
+   <trkpt lat="50.10018" lon="14.387439"><ele>229</ele></trkpt>
+   <trkpt lat="50.100172" lon="14.387276"><ele>229.75</ele></trkpt>
+   <trkpt lat="50.100163" lon="14.387113"><ele>230</ele></trkpt>
+   <trkpt lat="50.100101" lon="14.385915"><ele>231.75</ele></trkpt>
+   <trkpt lat="50.1001" lon="14.385912"><ele>231.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

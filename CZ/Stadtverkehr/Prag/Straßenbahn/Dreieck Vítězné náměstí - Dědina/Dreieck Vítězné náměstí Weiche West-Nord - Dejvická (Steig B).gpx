@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 5 plain-ascend = 6 cost=628 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Vítězné náměstí Weiche West-Nord - Dejvická (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.10038/14.39178/osm-mapnik-german_style&amp;lonlats=14.394962,50.100573;14.390583,50.100341">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.100571" lon="14.394961"><ele>218</ele></trkpt>
+   <trkpt lat="50.10056" lon="14.394763"><ele>218</ele></trkpt>
+   <trkpt lat="50.100342" lon="14.390581"><ele>223.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 523 filtered ascend = 0 plain-ascend = -4 cost=1046 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Sídliště Červený Vrch (Steig B) - Červený Vrch (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.09674/14.35318/osm-mapnik-german_style&amp;lonlats=14.359321,50.098059;14.35231,50.096801">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.098052" lon="14.359321"><ele>305.25</ele></trkpt>
+   <trkpt lat="50.098049" lon="14.359293"><ele>305.5</ele></trkpt>
+   <trkpt lat="50.097792" lon="14.357817"><ele>306</ele></trkpt>
+   <trkpt lat="50.097284" lon="14.355022"><ele>302.75</ele></trkpt>
+   <trkpt lat="50.09724" lon="14.35477"><ele>302</ele></trkpt>
+   <trkpt lat="50.097201" lon="14.354555"><ele>302</ele></trkpt>
+   <trkpt lat="50.096802" lon="14.35231"><ele>300</ele></trkpt>
+   <trkpt lat="50.096801" lon="14.352308"><ele>300</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

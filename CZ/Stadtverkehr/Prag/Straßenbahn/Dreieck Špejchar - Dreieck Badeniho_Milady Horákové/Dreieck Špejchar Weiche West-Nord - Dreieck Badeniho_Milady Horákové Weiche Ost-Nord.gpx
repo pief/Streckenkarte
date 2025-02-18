@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 146 filtered ascend = 2 plain-ascend = 2 cost=292 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Špejchar Weiche West-Nord - Dreieck Badeniho/Milady Horákové Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/50.09783/14.40793/osm-mapnik-german_style&amp;lonlats=14.409904,50.098005;14.40791,50.097782">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.098004" lon="14.409903"><ele>225</ele></trkpt>
+   <trkpt lat="50.097848" lon="14.408698"><ele>226.5</ele></trkpt>
+   <trkpt lat="50.097783" lon="14.407951"><ele>226.75</ele></trkpt>
+   <trkpt lat="50.097779" lon="14.407916"><ele>226.75</ele></trkpt>
+   <trkpt lat="50.097778" lon="14.407909"><ele>227</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
