@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8 filtered ascend = 0 plain-ascend = 0 cost=16 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Národní divadlo Weiche Nord-nach-Ost-Ost - Kreuz Národní divadlo Weiche Süd-nach-Ost-Ost</name>
+  <link href="https://bikerouter.de/#map=17/50.08047/14.41840/osm-mapnik-german_style&amp;lonlats=14.413269,50.081386;14.413365,50.081391">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.081388" lon="14.413268"><ele>193</ele></trkpt>
+   <trkpt lat="50.08139" lon="14.413338"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.08139" lon="14.41336"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.08139" lon="14.413364"><ele>192.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

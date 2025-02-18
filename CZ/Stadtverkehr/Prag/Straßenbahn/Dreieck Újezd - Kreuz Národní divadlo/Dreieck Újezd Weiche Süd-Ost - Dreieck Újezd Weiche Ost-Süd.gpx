@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 0 plain-ascend = 0 cost=72 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Újezd Weiche Süd-Ost - Dreieck Újezd Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=18/50.08112/14.40757/osm-mapnik-german_style&amp;lonlats=14.40456,50.080937;14.404814,50.081155">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.080937" lon="14.40456"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.080941" lon="14.40456"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.080997" lon="14.404564"><ele>192.5</ele></trkpt>
+   <trkpt lat="50.081046" lon="14.404584"><ele>192.5</ele></trkpt>
+   <trkpt lat="50.081087" lon="14.404626"><ele>192.25</ele></trkpt>
+   <trkpt lat="50.081116" lon="14.404674"><ele>192</ele></trkpt>
+   <trkpt lat="50.081139" lon="14.404729"><ele>192</ele></trkpt>
+   <trkpt lat="50.081154" lon="14.404818"><ele>192</ele></trkpt>
+   <trkpt lat="50.081154" lon="14.404813"><ele>192</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
