@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 0 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Kreuz Palmovka Weiche Ost-nach-Süd-Ost - Kreuz Palmovka Weiche Süd-nach-West-West</name>
+  <link href="https://bikerouter.de/#map=19/50.10315/14.47498/osm-mapnik-german_style&amp;lonlats=14.473741,50.103638;14.472902,50.103517">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.103637" lon="14.47374"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.103635" lon="14.47373"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.10359" lon="14.47359"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.103563" lon="14.473502"><ele>190.5</ele></trkpt>
+   <trkpt lat="50.103531" lon="14.473333"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.103528" lon="14.473308"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.103525" lon="14.473284"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.10352" lon="14.473091"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.103519" lon="14.472924"><ele>191</ele></trkpt>
+   <trkpt lat="50.103518" lon="14.4729"><ele>191</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 501 filtered ascend = 2 plain-ascend = 2 cost=501 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Palmovka (Steig B) - Libeňský most (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/50.10328/14.46452/osm-mapnik-german_style&amp;lonlats=14.471819,50.103515;14.464821,50.103434">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.103514" lon="14.471819"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.103514" lon="14.47178"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.103513" lon="14.47167"><ele>189.25</ele></trkpt>
+   <trkpt lat="50.103506" lon="14.470835"><ele>188.5</ele></trkpt>
+   <trkpt lat="50.103495" lon="14.469562"><ele>188</ele></trkpt>
+   <trkpt lat="50.103492" lon="14.469281"><ele>187.25</ele></trkpt>
+   <trkpt lat="50.103489" lon="14.468968"><ele>186.25</ele></trkpt>
+   <trkpt lat="50.103443" lon="14.465748"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.103438" lon="14.465453"><ele>191</ele></trkpt>
+   <trkpt lat="50.103429" lon="14.464897"><ele>191.5</ele></trkpt>
+   <trkpt lat="50.103428" lon="14.46482"><ele>191.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
