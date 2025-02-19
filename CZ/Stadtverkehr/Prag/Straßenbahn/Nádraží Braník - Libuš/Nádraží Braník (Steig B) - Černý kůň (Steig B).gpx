@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 720 filtered ascend = 2 plain-ascend = 1 cost=1440 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Nádraží Braník (Steig B) - Černý kůň (Steig B)</name>
+  <link href="https://bikerouter.de/#map=17/50.02553/14.41344/osm-mapnik-german_style&amp;lonlats=14.404815,50.028823;14.403571,50.022528&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.028818" lon="14.404823"><ele>195</ele></trkpt>
+   <trkpt lat="50.028436" lon="14.404414"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.028256" lon="14.404264"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.028022" lon="14.404085"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.027866" lon="14.403994"><ele>194</ele></trkpt>
+   <trkpt lat="50.027637" lon="14.403896"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.027367" lon="14.40382"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.027199" lon="14.403788"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.02649" lon="14.40375"><ele>193.75</ele></trkpt>
+   <trkpt lat="50.025679" lon="14.403741"><ele>192.25</ele></trkpt>
+   <trkpt lat="50.024721" lon="14.403777"><ele>192.25</ele></trkpt>
+   <trkpt lat="50.024463" lon="14.403778"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.024071" lon="14.403764"><ele>193.75</ele></trkpt>
+   <trkpt lat="50.023542" lon="14.403704"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.023171" lon="14.403658"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.023111" lon="14.403649"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.022547" lon="14.40357"><ele>197.25</ele></trkpt>
+   <trkpt lat="50.022527" lon="14.403567"><ele>196</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

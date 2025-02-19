@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 270 filtered ascend = 1 plain-ascend = 0 cost=540 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Pobřežní cesta (Steig B) - Abzweig Wendeschleife Nádraží Braník Weiche West</name>
+  <link href="https://bikerouter.de/#map=17/50.03095/14.41447/osm-mapnik-german_style&amp;lonlats=14.407915,50.033671;14.407883,50.031475&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.033671" lon="14.407915"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.033412" lon="14.40819"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.033256" lon="14.408321"><ele>195.25</ele></trkpt>
+   <trkpt lat="50.033172" lon="14.408379"><ele>195</ele></trkpt>
+   <trkpt lat="50.03307" lon="14.408441"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.032881" lon="14.408525"><ele>195.25</ele></trkpt>
+   <trkpt lat="50.03276" lon="14.40856"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.032583" lon="14.40859"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.032486" lon="14.408591"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.03236" lon="14.408578"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.032282" lon="14.408559"><ele>195.25</ele></trkpt>
+   <trkpt lat="50.032165" lon="14.40852"><ele>195</ele></trkpt>
+   <trkpt lat="50.031982" lon="14.408419"><ele>194.5</ele></trkpt>
+   <trkpt lat="50.031891" lon="14.408348"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.031791" lon="14.408255"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.031552" lon="14.407975"><ele>195</ele></trkpt>
+   <trkpt lat="50.031475" lon="14.407881"><ele>195</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

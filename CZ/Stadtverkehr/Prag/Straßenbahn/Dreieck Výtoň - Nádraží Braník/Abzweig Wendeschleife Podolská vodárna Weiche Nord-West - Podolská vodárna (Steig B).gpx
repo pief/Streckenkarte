@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 101 filtered ascend = 0 plain-ascend = 0 cost=202 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Abzweig Wendeschleife Podolská vodárna Weiche Nord-West - Podolská vodárna (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/50.05868/14.42061/osm-mapnik-german_style&amp;lonlats=14.419384,50.059355;14.41939,50.058454">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.059354" lon="14.419382"><ele>193</ele></trkpt>
+   <trkpt lat="50.059354" lon="14.419383"><ele>193</ele></trkpt>
+   <trkpt lat="50.059206" lon="14.419395"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.059056" lon="14.419403"><ele>193</ele></trkpt>
+   <trkpt lat="50.058453" lon="14.419389"><ele>193</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

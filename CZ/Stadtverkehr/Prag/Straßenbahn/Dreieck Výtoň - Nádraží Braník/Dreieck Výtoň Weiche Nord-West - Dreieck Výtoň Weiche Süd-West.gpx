@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=84 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.2">
+ <trk>
+  <name>Dreieck Výtoň Weiche Nord-West - Dreieck Výtoň Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=18/50.06714/14.41930/osm-mapnik-german_style&amp;lonlats=14.415012,50.067646;14.415082,50.067287">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.067646" lon="14.415012"><ele>191.75</ele></trkpt>
+   <trkpt lat="50.067644" lon="14.415013"><ele>191.75</ele></trkpt>
+   <trkpt lat="50.067515" lon="14.415044"><ele>191.75</ele></trkpt>
+   <trkpt lat="50.067394" lon="14.415067"><ele>192</ele></trkpt>
+   <trkpt lat="50.067293" lon="14.415079"><ele>192</ele></trkpt>
+   <trkpt lat="50.067286" lon="14.41508"><ele>191.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
