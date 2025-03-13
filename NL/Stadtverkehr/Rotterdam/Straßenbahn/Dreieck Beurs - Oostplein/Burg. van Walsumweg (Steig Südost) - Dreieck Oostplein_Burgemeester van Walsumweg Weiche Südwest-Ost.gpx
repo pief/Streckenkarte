@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 192 filtered ascend = 2 plain-ascend = 2 cost=384 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Burg. van Walsumweg (Steig Südost) - Dreieck Oostplein/Burgemeester van Walsumweg Weiche Südwest-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.92252/4.49691/osm-mapnik-german_style&amp;lonlats=4.494536,51.921706;4.496772,51.922653&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.921706" lon="4.494534"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.92173" lon="4.494605"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.922363" lon="4.496446"><ele>8.5</ele></trkpt>
+   <trkpt lat="51.92242" lon="4.496557"><ele>8.5</ele></trkpt>
+   <trkpt lat="51.92248" lon="4.496635"><ele>8.5</ele></trkpt>
+   <trkpt lat="51.922517" lon="4.496671"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.922631" lon="4.496757"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.922652" lon="4.496772"><ele>8.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

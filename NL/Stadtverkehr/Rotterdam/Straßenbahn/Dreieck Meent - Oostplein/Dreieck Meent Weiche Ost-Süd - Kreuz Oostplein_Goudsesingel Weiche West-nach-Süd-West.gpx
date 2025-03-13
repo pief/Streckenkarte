@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 606 filtered ascend = 4 plain-ascend = 4 cost=1212 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Meent Weiche Ost-Süd - Kreuz Oostplein/Goudsesingel Weiche West-nach-Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/51.92392/4.49549/osm-mapnik-german_style&amp;lonlats=4.48668,51.924733;4.495347,51.923871&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.924733" lon="4.48668"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.924497" lon="4.48771"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.924472" lon="4.487872"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.924416" lon="4.488468"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.9244" lon="4.488661"><ele>7</ele></trkpt>
+   <trkpt lat="51.924383" lon="4.488874"><ele>7</ele></trkpt>
+   <trkpt lat="51.92437" lon="4.48903"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.924122" lon="4.49187"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.923888" lon="4.494705"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.923871" lon="4.495105"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.923868" lon="4.495346"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

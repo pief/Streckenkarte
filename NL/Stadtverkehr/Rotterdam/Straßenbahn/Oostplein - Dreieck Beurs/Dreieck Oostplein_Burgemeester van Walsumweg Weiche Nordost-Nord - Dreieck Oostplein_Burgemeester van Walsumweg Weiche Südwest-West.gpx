@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 1 cost=132 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Oostplein/Burgemeester van Walsumweg Weiche Nordost-Nord - Dreieck Oostplein/Burgemeester van Walsumweg Weiche Südwest-West</name>
+  <link href="https://bikerouter.de/#map=19/51.92254/4.49654/osm-mapnik-german_style&amp;lonlats=4.497389,51.922951;4.496675,51.922599&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.922948" lon="4.49739"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.922947" lon="4.497388"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.922897" lon="4.497244"><ele>8</ele></trkpt>
+   <trkpt lat="51.922876" lon="4.497183"><ele>8</ele></trkpt>
+   <trkpt lat="51.922868" lon="4.497159"><ele>8</ele></trkpt>
+   <trkpt lat="51.922822" lon="4.497025"><ele>8</ele></trkpt>
+   <trkpt lat="51.922761" lon="4.496863"><ele>8</ele></trkpt>
+   <trkpt lat="51.922735" lon="4.496816"><ele>8</ele></trkpt>
+   <trkpt lat="51.922663" lon="4.496731"><ele>8</ele></trkpt>
+   <trkpt lat="51.922598" lon="4.496677"><ele>8.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

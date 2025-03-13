@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 87 filtered ascend = 0 plain-ascend = 0 cost=174 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Oostplein/Goudsesingel Weiche Süd-nach-Ost-Ost - Dreieck Oostplein/Oostzeedijk Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.92305/4.49774/osm-mapnik-german_style&amp;lonlats=4.496714,51.923784;4.49767,51.923381&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.923784" lon="4.496714"><ele>8</ele></trkpt>
+   <trkpt lat="51.923764" lon="4.497015"><ele>8</ele></trkpt>
+   <trkpt lat="51.923747" lon="4.497137"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.923707" lon="4.497275"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.923655" lon="4.497392"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.923604" lon="4.497476"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.923531" lon="4.497554"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.923381" lon="4.497673"><ele>7.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

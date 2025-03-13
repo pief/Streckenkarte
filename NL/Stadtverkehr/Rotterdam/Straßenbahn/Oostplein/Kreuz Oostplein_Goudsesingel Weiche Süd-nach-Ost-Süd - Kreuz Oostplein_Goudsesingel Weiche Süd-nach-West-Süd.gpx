@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 23 filtered ascend = 0 plain-ascend = 1 cost=46 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Oostplein/Goudsesingel Weiche Süd-nach-Ost-Süd - Kreuz Oostplein/Goudsesingel Weiche Süd-nach-West-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.92347/4.49621/osm-mapnik-german_style&amp;lonlats=4.496306,51.923447;4.496155,51.923623&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.923447" lon="4.496306"><ele>8</ele></trkpt>
+   <trkpt lat="51.923451" lon="4.496303"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.923624" lon="4.496159"><ele>8.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
