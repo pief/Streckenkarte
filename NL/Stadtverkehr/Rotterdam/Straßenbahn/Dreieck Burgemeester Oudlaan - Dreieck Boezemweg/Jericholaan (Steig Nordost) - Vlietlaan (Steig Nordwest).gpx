@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 2 plain-ascend = 3 cost=780 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Jericholaan (Steig Nordost) - Vlietlaan (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.92977/4.50235/osm-mapnik-german_style&amp;lonlats=4.506084,51.928965;4.50208,51.929415&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.928967" lon="4.506086"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.929056" lon="4.505874"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.929149" lon="4.505653"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.92933" lon="4.505249"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.929475" lon="4.504965"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.92986" lon="4.50425"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.93019" lon="4.503634"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.930292" lon="4.503442"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.930333" lon="4.503314"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.930346" lon="4.503234"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.930352" lon="4.503076"><ele>2</ele></trkpt>
+   <trkpt lat="51.930341" lon="4.502983"><ele>2</ele></trkpt>
+   <trkpt lat="51.930323" lon="4.502896"><ele>2</ele></trkpt>
+   <trkpt lat="51.930311" lon="4.502866"><ele>2</ele></trkpt>
+   <trkpt lat="51.930258" lon="4.502758"><ele>2</ele></trkpt>
+   <trkpt lat="51.930191" lon="4.502671"><ele>2</ele></trkpt>
+   <trkpt lat="51.929886" lon="4.502438"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.929413" lon="4.502083"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

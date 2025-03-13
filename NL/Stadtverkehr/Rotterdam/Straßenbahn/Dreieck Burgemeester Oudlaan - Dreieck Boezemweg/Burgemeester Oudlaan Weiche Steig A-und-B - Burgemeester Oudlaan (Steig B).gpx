@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Burgemeester Oudlaan Weiche Steig A-und-B - Burgemeester Oudlaan (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/51.91675/4.52237/osm-mapnik-german_style&amp;lonlats=4.52244,51.916276;4.522963,51.916635&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.916278" lon="4.52244"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.916278" lon="4.522443"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.916279" lon="4.522587"><ele>4</ele></trkpt>
+   <trkpt lat="51.916294" lon="4.522667"><ele>4</ele></trkpt>
+   <trkpt lat="51.916322" lon="4.522742"><ele>4</ele></trkpt>
+   <trkpt lat="51.916363" lon="4.5228"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.916427" lon="4.52285"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.916604" lon="4.522957"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.916633" lon="4.522963"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

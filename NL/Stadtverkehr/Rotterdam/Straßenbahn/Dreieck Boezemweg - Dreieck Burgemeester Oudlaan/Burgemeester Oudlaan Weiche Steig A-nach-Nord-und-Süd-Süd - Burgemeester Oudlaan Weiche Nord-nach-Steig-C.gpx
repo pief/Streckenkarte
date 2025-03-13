@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8 filtered ascend = 0 plain-ascend = 1 cost=16 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Burgemeester Oudlaan Weiche Steig A-nach-Nord-und-Süd-Süd - Burgemeester Oudlaan Weiche Nord-nach-Steig C</name>
+  <link href="https://bikerouter.de/#map=19/51.91689/4.52198/osm-mapnik-german_style&amp;lonlats=4.52217,51.916762;4.522132,51.916703&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.916761" lon="4.522169"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.916755" lon="4.522165"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.916706" lon="4.522133"><ele>0.75</ele></trkpt>
+   <trkpt lat="51.916702" lon="4.522131"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

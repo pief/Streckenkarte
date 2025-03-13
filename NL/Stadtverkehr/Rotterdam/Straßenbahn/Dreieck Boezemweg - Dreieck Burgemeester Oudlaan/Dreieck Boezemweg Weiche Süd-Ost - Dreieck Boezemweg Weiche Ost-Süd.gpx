@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=106 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Boezemweg Weiche Süd-Ost - Dreieck Boezemweg Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.92895/4.49716/osm-mapnik-german_style&amp;lonlats=4.49656,51.928567;4.497249,51.928707&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.928565" lon="4.496561"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.928572" lon="4.496569"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.928623" lon="4.496644"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.928652" lon="4.496709"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.928669" lon="4.496768"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.928674" lon="4.496788"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.928692" lon="4.496903"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.928706" lon="4.497248"><ele>1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

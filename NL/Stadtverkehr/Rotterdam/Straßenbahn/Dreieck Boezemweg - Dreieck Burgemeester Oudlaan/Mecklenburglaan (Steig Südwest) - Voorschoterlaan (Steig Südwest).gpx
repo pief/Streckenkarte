@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 288 filtered ascend = 2 plain-ascend = 3 cost=576 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Mecklenburglaan (Steig Südwest) - Voorschoterlaan (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.92527/4.51363/osm-mapnik-german_style&amp;lonlats=4.510208,51.927085;4.513381,51.925432&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.927085" lon="4.510208"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.927085" lon="4.510209"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.926974" lon="4.510458"><ele>2</ele></trkpt>
+   <trkpt lat="51.926838" lon="4.510768"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.926797" lon="4.510864"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.92675" lon="4.510988"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.926715" lon="4.511074"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.926484" lon="4.511646"><ele>3</ele></trkpt>
+   <trkpt lat="51.926402" lon="4.511841"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.926261" lon="4.512101"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.926233" lon="4.512141"><ele>4</ele></trkpt>
+   <trkpt lat="51.926115" lon="4.512316"><ele>4</ele></trkpt>
+   <trkpt lat="51.925885" lon="4.512616"><ele>4</ele></trkpt>
+   <trkpt lat="51.925744" lon="4.512807"><ele>4</ele></trkpt>
+   <trkpt lat="51.925666" lon="4.512929"><ele>4</ele></trkpt>
+   <trkpt lat="51.925457" lon="4.513322"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.92543" lon="4.513379"><ele>4.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
