@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 261 filtered ascend = 0 plain-ascend = 0 cost=522 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>'s-Gravendijkwal (Steig Nord) - Claes de Vrieselaan (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.91322/4.46071/osm-mapnik-german_style&amp;lonlats=4.464062,51.913877;4.460414,51.91325&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.913872" lon="4.464063"><ele>4</ele></trkpt>
+   <trkpt lat="51.913846" lon="4.463919"><ele>4</ele></trkpt>
+   <trkpt lat="51.913835" lon="4.463851"><ele>4</ele></trkpt>
+   <trkpt lat="51.913773" lon="4.463509"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.913746" lon="4.463353"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.913291" lon="4.460659"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.91325" lon="4.460421"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.913248" lon="4.460413"><ele>2.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

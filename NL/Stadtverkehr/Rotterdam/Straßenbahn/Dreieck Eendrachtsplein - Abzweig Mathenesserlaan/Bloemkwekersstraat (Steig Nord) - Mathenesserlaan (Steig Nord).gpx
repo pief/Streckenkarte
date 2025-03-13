@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 261 filtered ascend = 2 plain-ascend = 2 cost=522 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bloemkwekersstraat (Steig Nord) - Mathenesserlaan (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/51.91502/4.46626/osm-mapnik-german_style&amp;lonlats=4.469115,51.916193;4.465988,51.915032&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.916191" lon="4.469114"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.916048" lon="4.468448"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.915909" lon="4.467893"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.915764" lon="4.46726"><ele>2</ele></trkpt>
+   <trkpt lat="51.915629" lon="4.46669"><ele>3</ele></trkpt>
+   <trkpt lat="51.915598" lon="4.466594"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.91553" lon="4.466455"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.915408" lon="4.466286"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.915222" lon="4.466099"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.915099" lon="4.466015"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.915031" lon="4.465987"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = 0 cost=124 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Mathenesserlaan (Steig Süd) - Abzweig Mathenesserlaan Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.91493/4.46633/osm-mapnik-german_style&amp;lonlats=4.465711,51.914456;4.465999,51.914979&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.914456" lon="4.465708"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.914508" lon="4.465754"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.91466" lon="4.465857"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.914767" lon="4.465908"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.914864" lon="4.465955"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.914975" lon="4.465999"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.914977" lon="4.466"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

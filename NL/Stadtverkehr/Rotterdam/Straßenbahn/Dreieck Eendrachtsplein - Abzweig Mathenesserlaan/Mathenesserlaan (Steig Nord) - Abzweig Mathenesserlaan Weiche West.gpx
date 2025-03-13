@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Mathenesserlaan (Steig Nord) - Abzweig Mathenesserlaan Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.91526/4.46649/osm-mapnik-german_style&amp;lonlats=4.465987,51.915031;4.465972,51.915009&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.91503" lon="4.465986"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.915027" lon="4.465985"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.915007" lon="4.465974"><ele>3.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

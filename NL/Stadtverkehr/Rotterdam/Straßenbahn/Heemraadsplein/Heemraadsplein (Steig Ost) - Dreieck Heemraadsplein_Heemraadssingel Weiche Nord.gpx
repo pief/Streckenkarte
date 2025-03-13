@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Heemraadsplein (Steig Ost) - Dreieck Heemraadsplein/Heemraadssingel Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/51.91243/4.45558/osm-mapnik-german_style&amp;lonlats=4.455343,51.91264;4.455356,51.912598&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.91264" lon="4.455343"><ele>4</ele></trkpt>
+   <trkpt lat="51.912599" lon="4.455358"><ele>4</ele></trkpt>
+   <trkpt lat="51.912598" lon="4.455358"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
