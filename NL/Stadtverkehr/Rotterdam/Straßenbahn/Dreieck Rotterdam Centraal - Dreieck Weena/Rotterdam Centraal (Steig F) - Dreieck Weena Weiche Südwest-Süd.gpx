@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 138 filtered ascend = 2 plain-ascend = 3 cost=276 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Rotterdam Centraal (Steig F) - Dreieck Weena Weiche Südwest-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.92401/4.47379/osm-mapnik-german_style&amp;lonlats=4.472493,51.923367;4.474426,51.923735&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.923366" lon="4.472492"><ele>14</ele></trkpt>
+   <trkpt lat="51.92337" lon="4.472507"><ele>14.25</ele></trkpt>
+   <trkpt lat="51.923468" lon="4.472996"><ele>15</ele></trkpt>
+   <trkpt lat="51.923499" lon="4.473184"><ele>15.25</ele></trkpt>
+   <trkpt lat="51.923519" lon="4.47335"><ele>15.5</ele></trkpt>
+   <trkpt lat="51.923552" lon="4.473538"><ele>15.75</ele></trkpt>
+   <trkpt lat="51.923731" lon="4.474426"><ele>16.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

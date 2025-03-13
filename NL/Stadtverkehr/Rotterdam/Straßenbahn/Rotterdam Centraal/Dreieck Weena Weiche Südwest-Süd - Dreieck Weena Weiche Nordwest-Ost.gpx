@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Weena Weiche Südwest-Süd - Dreieck Weena Weiche Nordwest-Ost</name>
+  <link href="https://bikerouter.de/#map=19/51.92401/4.47379/osm-mapnik-german_style&amp;lonlats=4.474426,51.923735;4.474663,51.924109&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.923731" lon="4.474426"><ele>16.5</ele></trkpt>
+   <trkpt lat="51.923733" lon="4.474434"><ele>16.75</ele></trkpt>
+   <trkpt lat="51.923767" lon="4.474535"><ele>16.75</ele></trkpt>
+   <trkpt lat="51.923804" lon="4.474602"><ele>16.75</ele></trkpt>
+   <trkpt lat="51.923844" lon="4.47464"><ele>16.5</ele></trkpt>
+   <trkpt lat="51.923939" lon="4.474703"><ele>16.25</ele></trkpt>
+   <trkpt lat="51.923966" lon="4.474707"><ele>16</ele></trkpt>
+   <trkpt lat="51.924063" lon="4.474689"><ele>15.75</ele></trkpt>
+   <trkpt lat="51.924105" lon="4.474666"><ele>15.75</ele></trkpt>
+   <trkpt lat="51.924109" lon="4.474663"><ele>15.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
