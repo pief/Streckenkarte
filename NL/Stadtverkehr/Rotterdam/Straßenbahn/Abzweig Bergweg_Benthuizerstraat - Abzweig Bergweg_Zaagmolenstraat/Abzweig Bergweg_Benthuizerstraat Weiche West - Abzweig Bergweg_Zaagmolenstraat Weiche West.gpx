@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 0 plain-ascend = -1 cost=780 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abzweig Bergweg/Benthuizerstraat Weiche West - Abzweig Bergweg/Zaagmolenstraat Weiche West</name>
+  <link href="https://bikerouter.de/#map=18/51.93738/4.47782/osm-mapnik-german_style&amp;lonlats=4.479633,51.938339;4.476226,51.93558&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.938339" lon="4.479633"><ele>4</ele></trkpt>
+   <trkpt lat="51.938336" lon="4.479634"><ele>4</ele></trkpt>
+   <trkpt lat="51.938261" lon="4.479631"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.938186" lon="4.479615"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.938133" lon="4.479585"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.938054" lon="4.479521"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.937949" lon="4.479375"><ele>3</ele></trkpt>
+   <trkpt lat="51.936904" lon="4.477769"><ele>3</ele></trkpt>
+   <trkpt lat="51.936534" lon="4.477216"><ele>3</ele></trkpt>
+   <trkpt lat="51.936448" lon="4.477107"><ele>3</ele></trkpt>
+   <trkpt lat="51.936367" lon="4.477019"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.935998" lon="4.47668"><ele>2</ele></trkpt>
+   <trkpt lat="51.935909" lon="4.476596"><ele>2</ele></trkpt>
+   <trkpt lat="51.935697" lon="4.476372"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.935582" lon="4.476232"><ele>2</ele></trkpt>
+   <trkpt lat="51.935578" lon="4.476227"><ele>1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

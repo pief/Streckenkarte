@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Wendeschleife Diergaarde Blijdorp Nord Weiche Ost - Wendeschleife Diergaarde Blijdorp Nord Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/51.92617/4.45495/osm-mapnik-german_style&amp;lonlats=4.454857,51.926181;4.45439,51.926137&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.926183" lon="4.454863"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.926187" lon="4.45486"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.926216" lon="4.454818"><ele>-0.5</ele></trkpt>
+   <trkpt lat="51.926242" lon="4.454763"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.926259" lon="4.454683"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.926256" lon="4.454571"><ele>-1</ele></trkpt>
+   <trkpt lat="51.926242" lon="4.454523"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.926205" lon="4.454449"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.926139" lon="4.454394"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.926135" lon="4.454393"><ele>-0.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
