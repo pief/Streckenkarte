@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Kootsekade Weiche Südwest-nach-Nordwest-Südwest - Kreuz Kootsekade Weiche Südost-nach-Nordost-Nordost</name>
+  <link href="https://bikerouter.de/#map=19/51.94493/4.48314/osm-mapnik-german_style&amp;lonlats=4.482658,51.944625;4.482678,51.944696;4.482923,51.945024&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.944624" lon="4.482657"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.944631" lon="4.482661"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.944696" lon="4.482678"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.944735" lon="4.482731"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.944827" lon="4.482792"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.945022" lon="4.482929"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

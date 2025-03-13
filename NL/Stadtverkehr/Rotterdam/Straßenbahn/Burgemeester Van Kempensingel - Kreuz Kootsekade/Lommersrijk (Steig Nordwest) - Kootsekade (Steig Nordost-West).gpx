@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 334 filtered ascend = 1 plain-ascend = 1 cost=668 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Lommersrijk (Steig Nordwest) - Kootsekade (Steig Nordost-West)</name>
+  <link href="https://bikerouter.de/#map=19/51.94502/4.48267/osm-mapnik-german_style&amp;lonlats=4.485362,51.947663;4.482924,51.945079&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.94766" lon="4.485366"><ele>0</ele></trkpt>
+   <trkpt lat="51.947655" lon="4.485361"><ele>0</ele></trkpt>
+   <trkpt lat="51.94758" lon="4.485264"><ele>0</ele></trkpt>
+   <trkpt lat="51.946864" lon="4.484508"><ele>-0.5</ele></trkpt>
+   <trkpt lat="51.94679" lon="4.48443"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.946055" lon="4.483715"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.946007" lon="4.483668"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.945905" lon="4.483568"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.945766" lon="4.483432"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.945643" lon="4.483326"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.945423" lon="4.483174"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.945285" lon="4.483073"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.945078" lon="4.482926"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

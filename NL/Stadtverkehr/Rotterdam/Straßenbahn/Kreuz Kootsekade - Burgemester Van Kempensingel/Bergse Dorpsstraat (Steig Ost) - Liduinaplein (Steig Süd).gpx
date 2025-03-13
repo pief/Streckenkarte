@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 313 filtered ascend = 0 plain-ascend = -1 cost=626 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bergse Dorpsstraat (Steig Ost) - Liduinaplein (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/51.95842/4.49633/osm-mapnik-german_style&amp;lonlats=4.494416,51.957265;4.49687,51.958591&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.957263" lon="4.494416"><ele>1</ele></trkpt>
+   <trkpt lat="51.957268" lon="4.494417"><ele>1</ele></trkpt>
+   <trkpt lat="51.957433" lon="4.494447"><ele>1</ele></trkpt>
+   <trkpt lat="51.957919" lon="4.494537"><ele>1</ele></trkpt>
+   <trkpt lat="51.958335" lon="4.494627"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.958604" lon="4.494685"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.958689" lon="4.494745"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.958725" lon="4.494789"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.958759" lon="4.494868"><ele>1.25</ele></trkpt>
+   <trkpt lat="51.958772" lon="4.494909"><ele>1</ele></trkpt>
+   <trkpt lat="51.958785" lon="4.495009"><ele>0.75</ele></trkpt>
+   <trkpt lat="51.958786" lon="4.495102"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.958766" lon="4.495255"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.958696" lon="4.495836"><ele>0</ele></trkpt>
+   <trkpt lat="51.958613" lon="4.496416"><ele>0</ele></trkpt>
+   <trkpt lat="51.958595" lon="4.496615"><ele>0</ele></trkpt>
+   <trkpt lat="51.958591" lon="4.496862"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.958591" lon="4.496868"><ele>-0.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 515 filtered ascend = 0 plain-ascend = 0 cost=1030 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bergse Plaslaan (Steig Nordwest) - Lommersrijk (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.94727/4.48493/osm-mapnik-german_style&amp;lonlats=4.489457,51.951546;4.485362,51.947663&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.951544" lon="4.489461"><ele>0</ele></trkpt>
+   <trkpt lat="51.95154" lon="4.489459"><ele>0</ele></trkpt>
+   <trkpt lat="51.951331" lon="4.489279"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.951146" lon="4.489096"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.950588" lon="4.488509"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.949573" lon="4.487395"><ele>0</ele></trkpt>
+   <trkpt lat="51.948238" lon="4.485984"><ele>0</ele></trkpt>
+   <trkpt lat="51.948139" lon="4.485878"><ele>0</ele></trkpt>
+   <trkpt lat="51.948078" lon="4.485813"><ele>0</ele></trkpt>
+   <trkpt lat="51.94766" lon="4.485366"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

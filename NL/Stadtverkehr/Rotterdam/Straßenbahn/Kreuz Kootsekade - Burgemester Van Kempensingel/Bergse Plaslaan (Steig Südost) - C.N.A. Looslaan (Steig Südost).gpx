@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 356 filtered ascend = 1 plain-ascend = 0 cost=712 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bergse Plaslaan (Steig Südost) - C.N.A. Looslaan (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/51.95389/4.49198/osm-mapnik-german_style&amp;lonlats=4.489213,51.951226;4.492206,51.95377&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.951223" lon="4.489217"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.951224" lon="4.489219"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.95136" lon="4.48935"><ele>0</ele></trkpt>
+   <trkpt lat="51.951533" lon="4.489492"><ele>0</ele></trkpt>
+   <trkpt lat="51.951713" lon="4.489621"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.952003" lon="4.489788"><ele>1</ele></trkpt>
+   <trkpt lat="51.952193" lon="4.489935"><ele>1</ele></trkpt>
+   <trkpt lat="51.952278" lon="4.490017"><ele>1</ele></trkpt>
+   <trkpt lat="51.952652" lon="4.490471"><ele>0.5</ele></trkpt>
+   <trkpt lat="51.952786" lon="4.490644"><ele>0</ele></trkpt>
+   <trkpt lat="51.952902" lon="4.490823"><ele>-0.25</ele></trkpt>
+   <trkpt lat="51.953" lon="4.491"><ele>-0.75</ele></trkpt>
+   <trkpt lat="51.953212" lon="4.491412"><ele>-1.25</ele></trkpt>
+   <trkpt lat="51.953274" lon="4.491513"><ele>-1.25</ele></trkpt>
+   <trkpt lat="51.953336" lon="4.491611"><ele>-1.25</ele></trkpt>
+   <trkpt lat="51.953769" lon="4.492205"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
