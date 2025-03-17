@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 358 filtered ascend = 1 plain-ascend = -2 cost=716 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Préfecture (Steig Nordwest) - Leclerc-Fleurus (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.99801/0.19505/osm-mapnik-german_style&amp;lonlats=0.197241,48.00084;0.194814,47.998062&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.000838" lon="0.197242"><ele>62.75</ele></trkpt>
+   <trkpt lat="48.000618" lon="0.197055"><ele>63.5</ele></trkpt>
+   <trkpt lat="47.999778" lon="0.196333"><ele>64</ele></trkpt>
+   <trkpt lat="47.999239" lon="0.195865"><ele>64</ele></trkpt>
+   <trkpt lat="47.998637" lon="0.19533"><ele>62.25</ele></trkpt>
+   <trkpt lat="47.998218" lon="0.19495"><ele>60.75</ele></trkpt>
+   <trkpt lat="47.998062" lon="0.194811"><ele>59.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

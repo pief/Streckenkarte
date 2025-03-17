@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 630 filtered ascend = 10 plain-ascend = 11 cost=1260 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Croix de Pierre (Steig Südost) - Maillets-Banjan (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.01503/0.21227/osm-mapnik-german_style&amp;lonlats=0.205602,48.01223;0.212607,48.015321&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.012228" lon="0.205601"><ele>86</ele></trkpt>
+   <trkpt lat="48.012253" lon="0.205667"><ele>86</ele></trkpt>
+   <trkpt lat="48.012344" lon="0.205908"><ele>86.25</ele></trkpt>
+   <trkpt lat="48.012416" lon="0.206083"><ele>86.5</ele></trkpt>
+   <trkpt lat="48.012483" lon="0.206196"><ele>86.75</ele></trkpt>
+   <trkpt lat="48.013071" lon="0.207194"><ele>88.75</ele></trkpt>
+   <trkpt lat="48.013291" lon="0.207534"><ele>89</ele></trkpt>
+   <trkpt lat="48.013542" lon="0.207958"><ele>90</ele></trkpt>
+   <trkpt lat="48.013807" lon="0.208402"><ele>91</ele></trkpt>
+   <trkpt lat="48.01406" lon="0.208853"><ele>91.75</ele></trkpt>
+   <trkpt lat="48.014135" lon="0.209018"><ele>92</ele></trkpt>
+   <trkpt lat="48.014248" lon="0.209264"><ele>92.25</ele></trkpt>
+   <trkpt lat="48.014334" lon="0.209509"><ele>93</ele></trkpt>
+   <trkpt lat="48.014754" lon="0.210806"><ele>93.5</ele></trkpt>
+   <trkpt lat="48.014785" lon="0.210902"><ele>93.5</ele></trkpt>
+   <trkpt lat="48.014944" lon="0.211364"><ele>94.75</ele></trkpt>
+   <trkpt lat="48.015089" lon="0.211948"><ele>95.25</ele></trkpt>
+   <trkpt lat="48.015227" lon="0.212355"><ele>96</ele></trkpt>
+   <trkpt lat="48.01532" lon="0.212606"><ele>96.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

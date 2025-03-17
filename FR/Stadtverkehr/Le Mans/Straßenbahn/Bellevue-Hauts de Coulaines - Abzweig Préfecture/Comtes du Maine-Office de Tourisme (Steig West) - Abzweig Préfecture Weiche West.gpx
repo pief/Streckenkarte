@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 333 filtered ascend = 1 plain-ascend = -3 cost=666 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Comtes du Maine-Office de Tourisme (Steig West) - Abzweig Préfecture Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/48.00177/0.19796/osm-mapnik-german_style&amp;lonlats=0.199921,48.004341;0.198073,48.001709&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.00434" lon="0.199919"><ele>66</ele></trkpt>
+   <trkpt lat="48.004201" lon="0.199919"><ele>66</ele></trkpt>
+   <trkpt lat="48.00406" lon="0.199887"><ele>66</ele></trkpt>
+   <trkpt lat="48.003961" lon="0.199845"><ele>66</ele></trkpt>
+   <trkpt lat="48.003931" lon="0.199832"><ele>66</ele></trkpt>
+   <trkpt lat="48.003906" lon="0.199821"><ele>66</ele></trkpt>
+   <trkpt lat="48.003824" lon="0.199784"><ele>66</ele></trkpt>
+   <trkpt lat="48.003746" lon="0.199747"><ele>66</ele></trkpt>
+   <trkpt lat="48.003374" lon="0.199567"><ele>66.75</ele></trkpt>
+   <trkpt lat="48.003227" lon="0.199473"><ele>67</ele></trkpt>
+   <trkpt lat="48.003072" lon="0.199341"><ele>67</ele></trkpt>
+   <trkpt lat="48.003008" lon="0.199297"><ele>67</ele></trkpt>
+   <trkpt lat="48.002979" lon="0.199278"><ele>67</ele></trkpt>
+   <trkpt lat="48.00245" lon="0.199006"><ele>66</ele></trkpt>
+   <trkpt lat="48.002348" lon="0.198935"><ele>66</ele></trkpt>
+   <trkpt lat="48.002265" lon="0.198858"><ele>65.75</ele></trkpt>
+   <trkpt lat="48.002027" lon="0.198553"><ele>64.75</ele></trkpt>
+   <trkpt lat="48.001795" lon="0.198222"><ele>63.25</ele></trkpt>
+   <trkpt lat="48.001707" lon="0.198078"><ele>63</ele></trkpt>
+   <trkpt lat="48.001706" lon="0.198076"><ele>62.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
