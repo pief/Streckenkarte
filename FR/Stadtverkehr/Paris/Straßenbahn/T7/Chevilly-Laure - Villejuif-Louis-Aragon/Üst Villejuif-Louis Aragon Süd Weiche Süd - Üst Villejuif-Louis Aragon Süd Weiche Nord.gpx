@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 0 cost=56 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Villejuif-Louis Aragon Süd Weiche Süd - Üst Villejuif-Louis Aragon Süd Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/48.78703/2.36656/osm-mapnik-german_style&amp;lonlats=2.36702,48.786773;2.366958,48.786999&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.786772" lon="2.367018"><ele>97.5</ele></trkpt>
+   <trkpt lat="48.786768" lon="2.367019"><ele>97.5</ele></trkpt>
+   <trkpt lat="48.786995" lon="2.366961"><ele>97.75</ele></trkpt>
+   <trkpt lat="48.786999" lon="2.36696"><ele>97.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
