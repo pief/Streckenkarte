@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 95 filtered ascend = 2 plain-ascend = -9 cost=97 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Ausweiche Bahn B Ost - (Südliches Gleis) - Ausweiche Bahn B West</name>
+  <link href="https://bikerouter.de/#map=19/49.61902/6.13431/osm-mapnik-german_style&amp;lonlats=6.135005,49.618849;6.134525,49.618839;6.134143,49.618846;6.133717,49.618884">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.618849" lon="6.135005"><ele>297.75</ele></trkpt>
+   <trkpt lat="49.61885" lon="6.135003"><ele>297.75</ele></trkpt>
+   <trkpt lat="49.618851" lon="6.134859"><ele>300.25</ele></trkpt>
+   <trkpt lat="49.618839" lon="6.134525"><ele>300.25</ele></trkpt>
+   <trkpt lat="49.618846" lon="6.134143"><ele>283</ele></trkpt>
+   <trkpt lat="49.618884" lon="6.133723"><ele>283</ele></trkpt>
+   <trkpt lat="49.618884" lon="6.133717"><ele>270</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
