@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = -1 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Lycée Bouneweg (Steig B) - Lycée Bouneweg Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/49.59114/6.13832/osm-mapnik-german_style&amp;lonlats=6.138525,49.590596;6.138284,49.591134&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.590594" lon="6.138515"><ele>287.25</ele></trkpt>
+   <trkpt lat="49.59063" lon="6.138501"><ele>287.25</ele></trkpt>
+   <trkpt lat="49.591134" lon="6.138289"><ele>285.75</ele></trkpt>
+   <trkpt lat="49.591134" lon="6.138288"><ele>285.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

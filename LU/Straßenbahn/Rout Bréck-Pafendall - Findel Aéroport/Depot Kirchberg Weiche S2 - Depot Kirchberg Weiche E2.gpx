@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Depot Kirchberg Weiche S2 - Depot Kirchberg Weiche E2</name>
+  <link href="https://bikerouter.de/#map=19/49.63701/6.18003/osm-mapnik-german_style&amp;lonlats=6.180341,49.636918;6.180488,49.63691&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.636918" lon="6.180341"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636911" lon="6.180488"><ele>364.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

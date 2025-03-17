@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 0 plain-ascend = -4 cost=728 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Place de Paris (Steig Südwest) - Üst Gare Centrale Weiche 5</name>
+  <link href="https://bikerouter.de/#map=18/49.60072/6.13357/osm-mapnik-german_style&amp;lonlats=6.130842,49.603897;6.133195,49.601007&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.603897" lon="6.130842"><ele>290</ele></trkpt>
+   <trkpt lat="49.603842" lon="6.130891"><ele>290</ele></trkpt>
+   <trkpt lat="49.603598" lon="6.131091"><ele>289.75</ele></trkpt>
+   <trkpt lat="49.603275" lon="6.131311"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.603232" lon="6.131339"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.60322" lon="6.131349"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.603166" lon="6.131389"><ele>289.25</ele></trkpt>
+   <trkpt lat="49.603093" lon="6.131444"><ele>289</ele></trkpt>
+   <trkpt lat="49.602594" lon="6.131865"><ele>288.25</ele></trkpt>
+   <trkpt lat="49.601652" lon="6.13266"><ele>286.75</ele></trkpt>
+   <trkpt lat="49.60121" lon="6.133033"><ele>285.25</ele></trkpt>
+   <trkpt lat="49.601008" lon="6.133201"><ele>285</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

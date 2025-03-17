@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 0 plain-ascend = -1 cost=150 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Nationalbibliothéik (Steig Nordwest) - Üst Nationalbibliothéik Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/49.62881/6.16517/osm-mapnik-german_style&amp;lonlats=6.165771,49.629112;6.16502,49.628657&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.62911" lon="6.165772"><ele>339.5</ele></trkpt>
+   <trkpt lat="49.629038" lon="6.165651"><ele>339.5</ele></trkpt>
+   <trkpt lat="49.628971" lon="6.165539"><ele>339.25</ele></trkpt>
+   <trkpt lat="49.628945" lon="6.165496"><ele>339</ele></trkpt>
+   <trkpt lat="49.628656" lon="6.16503"><ele>339.25</ele></trkpt>
+   <trkpt lat="49.628652" lon="6.165025"><ele>338</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

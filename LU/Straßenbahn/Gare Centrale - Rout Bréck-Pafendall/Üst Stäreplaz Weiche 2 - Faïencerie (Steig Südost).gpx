@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 168 filtered ascend = 4 plain-ascend = 5 cost=336 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Stäreplaz Weiche 2 - Faïencerie (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.61590/6.12134/osm-mapnik-german_style&amp;lonlats=6.119943,49.615084;6.121517,49.61619&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.615084" lon="6.119941"><ele>302.5</ele></trkpt>
+   <trkpt lat="49.615086" lon="6.119944"><ele>302.75</ele></trkpt>
+   <trkpt lat="49.615567" lon="6.120589"><ele>304</ele></trkpt>
+   <trkpt lat="49.615702" lon="6.120779"><ele>304.75</ele></trkpt>
+   <trkpt lat="49.615754" lon="6.120855"><ele>305</ele></trkpt>
+   <trkpt lat="49.615875" lon="6.12104"><ele>305.75</ele></trkpt>
+   <trkpt lat="49.616188" lon="6.121518"><ele>307</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

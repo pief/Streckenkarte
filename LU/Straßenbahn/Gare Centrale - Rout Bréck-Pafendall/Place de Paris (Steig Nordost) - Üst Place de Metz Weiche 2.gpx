@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 284 filtered ascend = 2 plain-ascend = 3 cost=568 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Place de Paris (Steig Nordost) - Üst Place de Metz Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/49.60658/6.12849/osm-mapnik-german_style&amp;lonlats=6.13058,49.604262;6.128703,49.606493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.604263" lon="6.130583"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.604297" lon="6.130557"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.604342" lon="6.130517"><ele>290.5</ele></trkpt>
+   <trkpt lat="49.604433" lon="6.130441"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.604541" lon="6.13035"><ele>291</ele></trkpt>
+   <trkpt lat="49.604999" lon="6.129965"><ele>291</ele></trkpt>
+   <trkpt lat="49.605056" lon="6.129917"><ele>291</ele></trkpt>
+   <trkpt lat="49.605841" lon="6.129257"><ele>291.75</ele></trkpt>
+   <trkpt lat="49.60596" lon="6.129156"><ele>292</ele></trkpt>
+   <trkpt lat="49.606493" lon="6.128708"><ele>292.75</ele></trkpt>
+   <trkpt lat="49.606494" lon="6.128706"><ele>292.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 0 plain-ascend = -2 cost=612 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Place de Metz Weiche 1 - Place de Paris (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.60372/6.13089/osm-mapnik-german_style&amp;lonlats=6.128818,49.606306;6.130845,49.603898&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.606305" lon="6.128815"><ele>292.5</ele></trkpt>
+   <trkpt lat="49.605953" lon="6.129113"><ele>292</ele></trkpt>
+   <trkpt lat="49.605827" lon="6.129219"><ele>291.75</ele></trkpt>
+   <trkpt lat="49.605051" lon="6.129872"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.604986" lon="6.129928"><ele>291</ele></trkpt>
+   <trkpt lat="49.60442" lon="6.130403"><ele>290.75</ele></trkpt>
+   <trkpt lat="49.604329" lon="6.13048"><ele>290.5</ele></trkpt>
+   <trkpt lat="49.604283" lon="6.13052"><ele>290.25</ele></trkpt>
+   <trkpt lat="49.603946" lon="6.1308"><ele>290</ele></trkpt>
+   <trkpt lat="49.603916" lon="6.130826"><ele>290</ele></trkpt>
+   <trkpt lat="49.603897" lon="6.130842"><ele>290</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

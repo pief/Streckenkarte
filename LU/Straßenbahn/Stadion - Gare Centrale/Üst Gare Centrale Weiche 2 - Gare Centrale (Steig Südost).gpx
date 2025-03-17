@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 1 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Gare Centrale Weiche 2 - Gare Centrale (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/49.59943/6.13323/osm-mapnik-german_style&amp;lonlats=6.133201,49.599365;6.133535,49.599976&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.599364" lon="6.133197"><ele>283</ele></trkpt>
+   <trkpt lat="49.599383" lon="6.133206"><ele>283</ele></trkpt>
+   <trkpt lat="49.59944" lon="6.133238"><ele>283</ele></trkpt>
+   <trkpt lat="49.599521" lon="6.13328"><ele>283</ele></trkpt>
+   <trkpt lat="49.599945" lon="6.133519"><ele>283.5</ele></trkpt>
+   <trkpt lat="49.599974" lon="6.133535"><ele>283.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

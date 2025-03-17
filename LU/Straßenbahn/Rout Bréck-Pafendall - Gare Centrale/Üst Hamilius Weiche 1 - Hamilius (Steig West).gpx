@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 192 filtered ascend = 0 plain-ascend = -4 cost=384 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Hamilius Weiche 1 - Hamilius (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/49.61139/6.12560/osm-mapnik-german_style&amp;lonlats=6.125283,49.61229;6.126189,49.610899&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.61229" lon="6.125283"><ele>304</ele></trkpt>
+   <trkpt lat="49.612273" lon="6.125549"><ele>304</ele></trkpt>
+   <trkpt lat="49.61227" lon="6.12559"><ele>304</ele></trkpt>
+   <trkpt lat="49.612248" lon="6.125718"><ele>304</ele></trkpt>
+   <trkpt lat="49.612228" lon="6.125777"><ele>304</ele></trkpt>
+   <trkpt lat="49.612202" lon="6.125829"><ele>303.75</ele></trkpt>
+   <trkpt lat="49.61213" lon="6.125912"><ele>303.5</ele></trkpt>
+   <trkpt lat="49.612089" lon="6.125938"><ele>303.25</ele></trkpt>
+   <trkpt lat="49.612046" lon="6.125953"><ele>303</ele></trkpt>
+   <trkpt lat="49.611741" lon="6.126002"><ele>302</ele></trkpt>
+   <trkpt lat="49.611445" lon="6.126092"><ele>301</ele></trkpt>
+   <trkpt lat="49.611419" lon="6.126099"><ele>301</ele></trkpt>
+   <trkpt lat="49.611325" lon="6.126115"><ele>300.75</ele></trkpt>
+   <trkpt lat="49.610939" lon="6.126178"><ele>299.25</ele></trkpt>
+   <trkpt lat="49.610898" lon="6.126185"><ele>299.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

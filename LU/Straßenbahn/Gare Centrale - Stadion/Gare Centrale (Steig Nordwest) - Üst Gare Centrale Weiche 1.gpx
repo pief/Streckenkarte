@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Gare Centrale (Steig Nordwest) - Üst Gare Centrale Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/49.59916/6.13349/osm-mapnik-german_style&amp;lonlats=6.133293,49.599626;6.133032,49.599165&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.599625" lon="6.133292"><ele>283</ele></trkpt>
+   <trkpt lat="49.59953" lon="6.133239"><ele>283</ele></trkpt>
+   <trkpt lat="49.59945" lon="6.133194"><ele>283</ele></trkpt>
+   <trkpt lat="49.599392" lon="6.133162"><ele>283</ele></trkpt>
+   <trkpt lat="49.599312" lon="6.133116"><ele>283</ele></trkpt>
+   <trkpt lat="49.599165" lon="6.133036"><ele>283</ele></trkpt>
+   <trkpt lat="49.599163" lon="6.133035"><ele>283</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

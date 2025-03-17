@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 1 plain-ascend = 2 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Luxexpo (Steig Südost) - Üst Rond-Point Serra Weiche 2LUXJC</name>
+  <link href="https://bikerouter.de/#map=19/49.63622/6.17701/osm-mapnik-german_style&amp;lonlats=6.176099,49.63561;6.176669,49.636021&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.635609" lon="6.176098"><ele>358</ele></trkpt>
+   <trkpt lat="49.63569" lon="6.176167"><ele>358.5</ele></trkpt>
+   <trkpt lat="49.635804" lon="6.176274"><ele>358.75</ele></trkpt>
+   <trkpt lat="49.635896" lon="6.176401"><ele>359</ele></trkpt>
+   <trkpt lat="49.63595" lon="6.176511"><ele>359.25</ele></trkpt>
+   <trkpt lat="49.636021" lon="6.176667"><ele>359.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

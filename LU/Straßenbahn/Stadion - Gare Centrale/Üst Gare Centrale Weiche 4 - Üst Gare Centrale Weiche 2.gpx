@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Gare Centrale Weiche 4 - Üst Gare Centrale Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/49.59945/6.13320/osm-mapnik-german_style&amp;lonlats=6.132871,49.598782;6.133077,49.599159;6.133201,49.599365&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.598781" lon="6.132871"><ele>283</ele></trkpt>
+   <trkpt lat="49.598789" lon="6.132876"><ele>283</ele></trkpt>
+   <trkpt lat="49.599157" lon="6.133082"><ele>283</ele></trkpt>
+   <trkpt lat="49.5993" lon="6.133163"><ele>283</ele></trkpt>
+   <trkpt lat="49.599364" lon="6.133197"><ele>283</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

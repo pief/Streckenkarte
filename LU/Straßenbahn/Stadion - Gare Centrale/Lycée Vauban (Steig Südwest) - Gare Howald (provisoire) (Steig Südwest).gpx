@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 469 filtered ascend = 3 plain-ascend = 1 cost=938 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Lycée Vauban (Steig Südwest) - Gare Howald (provisoire) (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/49.58129/6.13137/osm-mapnik-german_style&amp;lonlats=6.125524,49.583588;6.131089,49.581576&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.583585" lon="6.12552"><ele>294.5</ele></trkpt>
+   <trkpt lat="49.583433" lon="6.125778"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.583316" lon="6.125976"><ele>295</ele></trkpt>
+   <trkpt lat="49.582555" lon="6.127268"><ele>297</ele></trkpt>
+   <trkpt lat="49.582417" lon="6.127521"><ele>297.5</ele></trkpt>
+   <trkpt lat="49.58231" lon="6.127767"><ele>296.25</ele></trkpt>
+   <trkpt lat="49.582261" lon="6.127906"><ele>296.5</ele></trkpt>
+   <trkpt lat="49.582183" lon="6.128183"><ele>297.25</ele></trkpt>
+   <trkpt lat="49.582155" lon="6.128318"><ele>297.25</ele></trkpt>
+   <trkpt lat="49.582083" lon="6.128767"><ele>295</ele></trkpt>
+   <trkpt lat="49.581941" lon="6.129725"><ele>293.75</ele></trkpt>
+   <trkpt lat="49.581908" lon="6.129925"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.581866" lon="6.130123"><ele>294.75</ele></trkpt>
+   <trkpt lat="49.581769" lon="6.130464"><ele>294</ele></trkpt>
+   <trkpt lat="49.581583" lon="6.131068"><ele>294.5</ele></trkpt>
+   <trkpt lat="49.581576" lon="6.131089"><ele>295.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

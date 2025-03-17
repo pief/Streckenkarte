@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 151 filtered ascend = 4 plain-ascend = 5 cost=302 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Stäreplaz (Steig Nordost) - Üst Stäreplaz Weiche 2</name>
+  <link href="https://bikerouter.de/#map=19/49.61514/6.12062/osm-mapnik-german_style&amp;lonlats=6.119492,49.613909;6.119943,49.615084&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.613908" lon="6.11949"><ele>298</ele></trkpt>
+   <trkpt lat="49.613913" lon="6.119487"><ele>298</ele></trkpt>
+   <trkpt lat="49.613973" lon="6.119441"><ele>298.25</ele></trkpt>
+   <trkpt lat="49.613987" lon="6.11943"><ele>298</ele></trkpt>
+   <trkpt lat="49.614064" lon="6.119368"><ele>297.75</ele></trkpt>
+   <trkpt lat="49.614152" lon="6.119311"><ele>297.5</ele></trkpt>
+   <trkpt lat="49.614268" lon="6.11927"><ele>297.75</ele></trkpt>
+   <trkpt lat="49.614342" lon="6.119261"><ele>298.25</ele></trkpt>
+   <trkpt lat="49.614437" lon="6.119272"><ele>299</ele></trkpt>
+   <trkpt lat="49.614503" lon="6.119292"><ele>299.5</ele></trkpt>
+   <trkpt lat="49.614601" lon="6.119345"><ele>300.5</ele></trkpt>
+   <trkpt lat="49.614676" lon="6.119408"><ele>300.75</ele></trkpt>
+   <trkpt lat="49.614796" lon="6.119556"><ele>301.5</ele></trkpt>
+   <trkpt lat="49.614832" lon="6.119608"><ele>301.75</ele></trkpt>
+   <trkpt lat="49.614906" lon="6.119703"><ele>302</ele></trkpt>
+   <trkpt lat="49.615084" lon="6.119941"><ele>302.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

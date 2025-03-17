@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 0 plain-ascend = -1 cost=394 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Depot Kirchberg Weiche E1 - Depot Kirchberg Weiche S1</name>
+  <link href="https://bikerouter.de/#map=19/49.63702/6.17967/osm-mapnik-german_style&amp;lonlats=6.181695,49.636957;6.179016,49.636905&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.636958" lon="6.181693"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636919" lon="6.181376"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636916" lon="6.18128"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636921" lon="6.181029"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636936" lon="6.180757"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636973" lon="6.180091"><ele>365</ele></trkpt>
+   <trkpt lat="49.636988" lon="6.179842"><ele>365</ele></trkpt>
+   <trkpt lat="49.636992" lon="6.179568"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636973" lon="6.179413"><ele>364.5</ele></trkpt>
+   <trkpt lat="49.636906" lon="6.179017"><ele>363.5</ele></trkpt>
+   <trkpt lat="49.636905" lon="6.179014"><ele>362.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

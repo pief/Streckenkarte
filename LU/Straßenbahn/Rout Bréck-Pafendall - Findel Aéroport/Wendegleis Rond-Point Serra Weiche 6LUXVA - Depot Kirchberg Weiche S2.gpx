@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 250 filtered ascend = 4 plain-ascend = 5 cost=500 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Wendegleis Rond-Point Serra Weiche 6LUXVA - Depot Kirchberg Weiche S2</name>
+  <link href="https://bikerouter.de/#map=19/49.63768/6.18139/osm-mapnik-german_style&amp;lonlats=6.177162,49.636247;6.180341,49.636912&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.636245" lon="6.177162"><ele>360</ele></trkpt>
+   <trkpt lat="49.636247" lon="6.177167"><ele>360.25</ele></trkpt>
+   <trkpt lat="49.63636" lon="6.177416"><ele>360.75</ele></trkpt>
+   <trkpt lat="49.636673" lon="6.178114"><ele>362</ele></trkpt>
+   <trkpt lat="49.636707" lon="6.178195"><ele>362.5</ele></trkpt>
+   <trkpt lat="49.636753" lon="6.17835"><ele>362.75</ele></trkpt>
+   <trkpt lat="49.636771" lon="6.178425"><ele>362.75</ele></trkpt>
+   <trkpt lat="49.63685" lon="6.17887"><ele>363.25</ele></trkpt>
+   <trkpt lat="49.636897" lon="6.179163"><ele>363.5</ele></trkpt>
+   <trkpt lat="49.636928" lon="6.179439"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636941" lon="6.179751"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.63694" lon="6.179936"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636919" lon="6.180338"><ele>364.75</ele></trkpt>
+   <trkpt lat="49.636918" lon="6.180341"><ele>364.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

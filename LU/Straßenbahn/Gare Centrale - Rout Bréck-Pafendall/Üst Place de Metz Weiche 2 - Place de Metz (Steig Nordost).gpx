@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=140 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Place de Metz Weiche 2 - Place de Metz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/49.60694/6.12792/osm-mapnik-german_style&amp;lonlats=6.128703,49.606493;6.128244,49.607053&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.606494" lon="6.128706"><ele>292.75</ele></trkpt>
+   <trkpt lat="49.606556" lon="6.128655"><ele>292.75</ele></trkpt>
+   <trkpt lat="49.606634" lon="6.12859"><ele>293</ele></trkpt>
+   <trkpt lat="49.606708" lon="6.128527"><ele>293</ele></trkpt>
+   <trkpt lat="49.607009" lon="6.128274"><ele>293</ele></trkpt>
+   <trkpt lat="49.607051" lon="6.128238"><ele>293</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst Findel Aéroport Weiche 4 - Üst Findel Aéroport Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/49.63565/6.21781/osm-mapnik-german_style&amp;lonlats=6.218511,49.635877;6.217918,49.635571&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.635879" lon="6.218508"><ele>384</ele></trkpt>
+   <trkpt lat="49.635878" lon="6.218506"><ele>384</ele></trkpt>
+   <trkpt lat="49.635723" lon="6.218213"><ele>384</ele></trkpt>
+   <trkpt lat="49.635632" lon="6.218041"><ele>384</ele></trkpt>
+   <trkpt lat="49.635569" lon="6.217924"><ele>384</ele></trkpt>
+   <trkpt lat="49.635567" lon="6.217919"><ele>383.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
