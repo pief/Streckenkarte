@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 0 plain-ascend = -1 cost=864 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Gambetta-Mûriers (Steig Südwest) - Lafayette (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.00663/0.19017/osm-mapnik-german_style&amp;lonlats=0.185445,48.009009;0.190214,48.006798&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.009011" lon="0.185447"><ele>48</ele></trkpt>
+   <trkpt lat="48.008604" lon="0.18633"><ele>48</ele></trkpt>
+   <trkpt lat="48.008029" lon="0.187563"><ele>47</ele></trkpt>
+   <trkpt lat="48.008006" lon="0.187618"><ele>47</ele></trkpt>
+   <trkpt lat="48.007325" lon="0.189082"><ele>46</ele></trkpt>
+   <trkpt lat="48.007282" lon="0.189172"><ele>46</ele></trkpt>
+   <trkpt lat="48.007183" lon="0.189383"><ele>46</ele></trkpt>
+   <trkpt lat="48.006941" lon="0.1899"><ele>46.25</ele></trkpt>
+   <trkpt lat="48.006855" lon="0.190088"><ele>46.25</ele></trkpt>
+   <trkpt lat="48.006797" lon="0.190213"><ele>46.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

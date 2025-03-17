@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 119 filtered ascend = 7 plain-ascend = 8 cost=238 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Hôpital (Steig Nordost) - Üst Hôpital Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/48.01459/0.17534/osm-mapnik-german_style&amp;lonlats=0.175304,48.013685;0.174904,48.014654&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.013687" lon="0.175307"><ele>57.75</ele></trkpt>
+   <trkpt lat="48.013716" lon="0.175264"><ele>58</ele></trkpt>
+   <trkpt lat="48.013789" lon="0.175156"><ele>58.25</ele></trkpt>
+   <trkpt lat="48.013854" lon="0.175065"><ele>58.5</ele></trkpt>
+   <trkpt lat="48.013909" lon="0.175005"><ele>59</ele></trkpt>
+   <trkpt lat="48.013943" lon="0.174983"><ele>59.25</ele></trkpt>
+   <trkpt lat="48.014016" lon="0.174952"><ele>59.75</ele></trkpt>
+   <trkpt lat="48.014061" lon="0.174942"><ele>60</ele></trkpt>
+   <trkpt lat="48.014237" lon="0.174929"><ele>61</ele></trkpt>
+   <trkpt lat="48.014288" lon="0.174925"><ele>61.25</ele></trkpt>
+   <trkpt lat="48.014331" lon="0.174923"><ele>61.5</ele></trkpt>
+   <trkpt lat="48.014651" lon="0.174903"><ele>64.5</ele></trkpt>
+   <trkpt lat="48.014653" lon="0.174902"><ele>65.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
