@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 194 filtered ascend = 0 plain-ascend = 1 cost=194 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Canning Town (Steig 1) - Canning Town Weiche 1504a/c</name>
+  <link href="https://bikerouter.de/#map=19/51.51181/0.01149/osm-mapnik-german_style&amp;lonlats=0.008851,51.513667;0.009895,51.512061&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.513669" lon="0.008856"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.513616" lon="0.008908"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.513234" lon="0.009219"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.512964" lon="0.009407"><ele>3</ele></trkpt>
+   <trkpt lat="51.512791" lon="0.009507"><ele>3</ele></trkpt>
+   <trkpt lat="51.512067" lon="0.009888"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.51206" lon="0.009891"><ele>4.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

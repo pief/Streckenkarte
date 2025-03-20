@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 2 plain-ascend = 2 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Stratford Weiche 1508 - Stratford High Street (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.53737/0.00166/osm-mapnik-german_style&amp;lonlats=-0.001684,51.539087;0.000349,51.537264&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.539086" lon="-0.001687"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.538866" lon="-0.001536"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.538716" lon="-0.001411"><ele>3</ele></trkpt>
+   <trkpt lat="51.5385" lon="-0.00121"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.538401" lon="-0.001104"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.53826" lon="-0.000916"><ele>3</ele></trkpt>
+   <trkpt lat="51.538037" lon="-0.000556"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.537897" lon="-0.000378"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.537649" lon="-0.000086"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.537462" lon="0.000124"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.537273" lon="0.000331"><ele>5.25</ele></trkpt>
+   <trkpt lat="51.537261" lon="0.000342"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

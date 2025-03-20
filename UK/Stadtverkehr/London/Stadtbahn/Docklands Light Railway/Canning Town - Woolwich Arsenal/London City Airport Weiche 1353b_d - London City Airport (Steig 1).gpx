@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 176 filtered ascend = 0 plain-ascend = 0 cost=176 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>London City Airport Weiche 1353b/d - London City Airport (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.50309/0.05011/osm-mapnik-german_style&amp;lonlats=0.046705,51.504068;0.048991,51.50344&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.504065" lon="0.046704"/>
+   <trkpt lat="51.504056" lon="0.047048"/>
+   <trkpt lat="51.504048" lon="0.047165"/>
+   <trkpt lat="51.50403" lon="0.047276"/>
+   <trkpt lat="51.503984" lon="0.047457"/>
+   <trkpt lat="51.503772" lon="0.048088"/>
+   <trkpt lat="51.503497" lon="0.048874"/>
+   <trkpt lat="51.503451" lon="0.048979"/>
+  </trkseg>
+ </trk>
+</gpx>

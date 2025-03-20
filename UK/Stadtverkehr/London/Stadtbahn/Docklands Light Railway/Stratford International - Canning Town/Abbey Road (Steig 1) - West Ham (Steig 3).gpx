@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 594 filtered ascend = 2 plain-ascend = 2 cost=594 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abbey Road (Steig 1) - West Ham (Steig 3)</name>
+  <link href="https://bikerouter.de/#map=19/51.52705/0.00567/osm-mapnik-german_style&amp;lonlats=0.0039,51.532248;0.004705,51.526982&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.532251" lon="0.003909"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.532142" lon="0.004007"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.532045" lon="0.004087"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.531953" lon="0.004148"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.531715" lon="0.004269"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.531575" lon="0.00431"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.531292" lon="0.004358"><ele>3</ele></trkpt>
+   <trkpt lat="51.531089" lon="0.004388"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.530408" lon="0.004505"><ele>4</ele></trkpt>
+   <trkpt lat="51.529692" lon="0.004615"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.529204" lon="0.004648"><ele>3</ele></trkpt>
+   <trkpt lat="51.52865" lon="0.004656"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.527935" lon="0.004671"><ele>3</ele></trkpt>
+   <trkpt lat="51.527872" lon="0.004674"><ele>3</ele></trkpt>
+   <trkpt lat="51.527019" lon="0.004703"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.526981" lon="0.004704"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

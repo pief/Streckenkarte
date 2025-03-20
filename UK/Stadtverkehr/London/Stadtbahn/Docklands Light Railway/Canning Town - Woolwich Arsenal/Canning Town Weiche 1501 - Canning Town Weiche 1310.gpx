@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 0 plain-ascend = 1 cost=125 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Canning Town Weiche 1501 - Canning Town Weiche 1310</name>
+  <link href="https://bikerouter.de/#map=19/51.50984/0.01199/osm-mapnik-german_style&amp;lonlats=0.010648,51.510761;0.010654,51.509654&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.510762" lon="0.010653"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.51076" lon="0.010655"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.510671" lon="0.010701"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.510584" lon="0.010727"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.51045" lon="0.010736"><ele>7</ele></trkpt>
+   <trkpt lat="51.510127" lon="0.010673"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.509857" lon="0.010624"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.509801" lon="0.010624"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.509661" lon="0.010656"><ele>6</ele></trkpt>
+   <trkpt lat="51.509654" lon="0.010658"><ele>7</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

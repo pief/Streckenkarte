@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 612 filtered ascend = 1 plain-ascend = 0 cost=612 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Stratford High Street (Steig 1) - Abbey Road (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/51.53277/0.00461/osm-mapnik-german_style&amp;lonlats=0.000349,51.537264;0.0039,51.532248&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.537261" lon="0.000342"><ele>5</ele></trkpt>
+   <trkpt lat="51.537002" lon="0.000599"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.536858" lon="0.000721"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.536611" lon="0.000923"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.535962" lon="0.001402"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.535553" lon="0.001693"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.535299" lon="0.001859"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.535009" lon="0.002027"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.534743" lon="0.002167"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.534169" lon="0.002427"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.533846" lon="0.002586"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.533551" lon="0.002764"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.533381" lon="0.002885"><ele>3</ele></trkpt>
+   <trkpt lat="51.533225" lon="0.003015"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.533046" lon="0.003179"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.532617" lon="0.003586"><ele>3</ele></trkpt>
+   <trkpt lat="51.532317" lon="0.003851"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.532251" lon="0.003909"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

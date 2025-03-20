@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 180 filtered ascend = 0 plain-ascend = 0 cost=180 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Stratford Weiche 1511b - Stratford Weiche 1508</name>
+  <link href="https://bikerouter.de/#map=19/51.53940/-0.00106/osm-mapnik-german_style&amp;lonlats=-0.002612,51.54059;-0.001856,51.539484;-0.001684,51.539087&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.540589" lon="-0.002614"><ele>4</ele></trkpt>
+   <trkpt lat="51.540296" lon="-0.002355"><ele>4</ele></trkpt>
+   <trkpt lat="51.540128" lon="-0.00223"><ele>4</ele></trkpt>
+   <trkpt lat="51.540008" lon="-0.002152"><ele>4</ele></trkpt>
+   <trkpt lat="51.539663" lon="-0.001949"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.539567" lon="-0.001901"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.539482" lon="-0.001866"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.539239" lon="-0.001765"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.53909" lon="-0.001689"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.539086" lon="-0.001687"><ele>3.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
