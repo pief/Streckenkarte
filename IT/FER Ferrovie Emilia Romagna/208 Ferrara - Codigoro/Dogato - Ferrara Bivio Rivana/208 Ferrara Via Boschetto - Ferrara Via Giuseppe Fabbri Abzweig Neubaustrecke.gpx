@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 654 filtered ascend = 3 plain-ascend = 3 cost=654 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>208 Ferrara Via Boschetto - Ferrara Via Giuseppe Fabbri Abzweig Neubaustrecke</name>
+  <link href="https://bikerouter.de/#map=19/44.81852/11.62508/osm-mapnik-german_style&amp;lonlats=11.633017,44.819051;11.624817,44.818295">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.819051" lon="11.633015"><ele>6.25</ele></trkpt>
+   <trkpt lat="44.819006" lon="11.632412"><ele>6</ele></trkpt>
+   <trkpt lat="44.818478" lon="11.626767"><ele>5.5</ele></trkpt>
+   <trkpt lat="44.818457" lon="11.626544"><ele>5.25</ele></trkpt>
+   <trkpt lat="44.818334" lon="11.62532"><ele>9.5</ele></trkpt>
+   <trkpt lat="44.818312" lon="11.625072"><ele>9</ele></trkpt>
+   <trkpt lat="44.818294" lon="11.624816"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 265 filtered ascend = 0 plain-ascend = 0 cost=265 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>208 Massafiscaglia (Gleis 2) - Massafiscaglia Weiche 1</name>
+  <link href="https://bikerouter.de/#map=19/44.80231/12.01188/osm-mapnik-german_style&amp;lonlats=12.013472,44.804099;12.011742,44.80206&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.804095" lon="12.013477"><ele>1</ele></trkpt>
+   <trkpt lat="44.804073" lon="12.013458"><ele>1</ele></trkpt>
+   <trkpt lat="44.802063" lon="12.011747"><ele>1</ele></trkpt>
+   <trkpt lat="44.802058" lon="12.011743"><ele>1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

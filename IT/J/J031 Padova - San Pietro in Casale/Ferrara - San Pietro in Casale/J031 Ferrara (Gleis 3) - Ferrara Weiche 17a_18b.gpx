@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 344 filtered ascend = 0 plain-ascend = 0 cost=344 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>J031 Ferrara (Gleis 3) - Ferrara Weiche 17a/18b</name>
+  <link href="https://bikerouter.de/#map=19/44.84283/11.60317/osm-mapnik-german_style&amp;lonlats=11.603662,44.842957;11.601423,44.840298&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.842954" lon="11.603667"><ele>9</ele></trkpt>
+   <trkpt lat="44.841994" lon="11.602868"><ele>9</ele></trkpt>
+   <trkpt lat="44.841522" lon="11.602456"><ele>9</ele></trkpt>
+   <trkpt lat="44.840456" lon="11.601549"><ele>9</ele></trkpt>
+   <trkpt lat="44.840297" lon="11.601422"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

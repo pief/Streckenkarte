@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 88 filtered ascend = 0 plain-ascend = 0 cost=88 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>208 Codigoro (Gleis 2) - Codigoro Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/44.83579/12.10226/osm-mapnik-german_style&amp;lonlats=12.101807,44.83633;12.101411,44.835591&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.83633" lon="12.101804"/>
+   <trkpt lat="44.835596" lon="12.101407"/>
+   <trkpt lat="44.835592" lon="12.101404"/>
+  </trkseg>
+ </trk>
+</gpx>

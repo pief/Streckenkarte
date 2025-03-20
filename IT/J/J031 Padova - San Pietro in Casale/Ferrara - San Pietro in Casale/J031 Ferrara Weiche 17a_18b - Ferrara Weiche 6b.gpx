@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 392 filtered ascend = 0 plain-ascend = 0 cost=392 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>J031 Ferrara Weiche 17a/18b - Ferrara Weiche 6b</name>
+  <link href="https://bikerouter.de/#map=19/44.84056/11.60159/osm-mapnik-german_style&amp;lonlats=11.601423,44.840298;11.598993,44.83723&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.840297" lon="11.601422"><ele>8.75</ele></trkpt>
+   <trkpt lat="44.840295" lon="11.601421"><ele>8.75</ele></trkpt>
+   <trkpt lat="44.839722" lon="11.600938"><ele>9</ele></trkpt>
+   <trkpt lat="44.838836" lon="11.600269"><ele>9</ele></trkpt>
+   <trkpt lat="44.838159" lon="11.599758"><ele>9.5</ele></trkpt>
+   <trkpt lat="44.837493" lon="11.599218"><ele>8.75</ele></trkpt>
+   <trkpt lat="44.837234" lon="11.598999"><ele>8.75</ele></trkpt>
+   <trkpt lat="44.837228" lon="11.598994"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
