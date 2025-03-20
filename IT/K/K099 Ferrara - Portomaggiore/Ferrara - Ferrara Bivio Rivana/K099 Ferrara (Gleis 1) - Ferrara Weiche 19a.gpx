@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 266 filtered ascend = 0 plain-ascend = 0 cost=266 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>K099 Ferrara (Gleis 1) - Ferrara Weiche 19a</name>
+  <link href="https://bikerouter.de/#map=19/44.84159/11.60288/osm-mapnik-german_style&amp;lonlats=11.603762,44.842937;11.602045,44.840876&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.842933" lon="11.603768"><ele>9</ele></trkpt>
+   <trkpt lat="44.841951" lon="11.602964"><ele>9</ele></trkpt>
+   <trkpt lat="44.841625" lon="11.6027"><ele>9</ele></trkpt>
+   <trkpt lat="44.840877" lon="11.60204"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

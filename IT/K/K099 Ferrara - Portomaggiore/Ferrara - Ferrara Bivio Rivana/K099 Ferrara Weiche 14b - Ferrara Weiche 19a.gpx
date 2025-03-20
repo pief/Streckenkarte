@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 258 filtered ascend = 0 plain-ascend = 0 cost=258 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>K099 Ferrara Weiche 14b - Ferrara Weiche 19a</name>
+  <link href="https://bikerouter.de/#map=18/44.83932/11.60306/osm-mapnik-german_style&amp;lonlats=11.600412,44.838881;11.602045,44.840876&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="44.838878" lon="11.600415"><ele>9</ele></trkpt>
+   <trkpt lat="44.838885" lon="11.60042"><ele>9</ele></trkpt>
+   <trkpt lat="44.840305" lon="11.601564"><ele>9</ele></trkpt>
+   <trkpt lat="44.840876" lon="11.60204"><ele>8.75</ele></trkpt>
+   <trkpt lat="44.840877" lon="11.60204"><ele>9</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
