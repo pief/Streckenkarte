@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 544 filtered ascend = 0 plain-ascend = -3 cost=1088 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bretagne (Steig West) - Auguste Perret (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/48.76315/2.36816/osm-mapnik-german_style&amp;lonlats=2.368026,48.768072;2.36769,48.763298">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.768072" lon="2.368026"><ele>94</ele></trkpt>
+   <trkpt lat="48.76806" lon="2.368027"><ele>94</ele></trkpt>
+   <trkpt lat="48.767414" lon="2.368066"><ele>94</ele></trkpt>
+   <trkpt lat="48.765525" lon="2.368176"><ele>93</ele></trkpt>
+   <trkpt lat="48.763974" lon="2.368266"><ele>91</ele></trkpt>
+   <trkpt lat="48.763894" lon="2.368251"><ele>91</ele></trkpt>
+   <trkpt lat="48.763792" lon="2.368197"><ele>91</ele></trkpt>
+   <trkpt lat="48.763689" lon="2.368099"><ele>91</ele></trkpt>
+   <trkpt lat="48.763636" lon="2.368044"><ele>91</ele></trkpt>
+   <trkpt lat="48.763296" lon="2.367691"><ele>90.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
