@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kleinhüningen (Steig A) - Dreieck Kleinhüningen Weiche 200</name>
+  <link href="https://bikerouter.de/#map=19/47.58065/7.59286/osm-mapnik-german_style&amp;lonlats=7.592801,47.580379;7.592856,47.580528&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.580378" lon="7.5928"><ele>250</ele></trkpt>
+   <trkpt lat="47.580451" lon="7.592828"><ele>250</ele></trkpt>
+   <trkpt lat="47.580527" lon="7.592855"><ele>250</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

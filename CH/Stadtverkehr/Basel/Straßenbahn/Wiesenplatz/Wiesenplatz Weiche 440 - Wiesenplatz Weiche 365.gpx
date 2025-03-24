@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Wiesenplatz Weiche 440 - Wiesenplatz Weiche 365</name>
+  <link href="https://bikerouter.de/#map=19/47.57742/7.59181/osm-mapnik-german_style&amp;lonlats=7.591445,47.57683;7.59159,47.577201&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.576828" lon="7.591448"><ele>250</ele></trkpt>
+   <trkpt lat="47.576835" lon="7.591451"><ele>250</ele></trkpt>
+   <trkpt lat="47.576927" lon="7.591487"><ele>250</ele></trkpt>
+   <trkpt lat="47.576998" lon="7.591513"><ele>250</ele></trkpt>
+   <trkpt lat="47.577037" lon="7.591527"><ele>250</ele></trkpt>
+   <trkpt lat="47.577158" lon="7.591574"><ele>250</ele></trkpt>
+   <trkpt lat="47.5772" lon="7.591589"><ele>250</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 267 filtered ascend = 0 plain-ascend = 0 cost=538 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Brombacherstrasse (Steig Nord) - Dreirosenbrücke (Steig E)</name>
+  <link href="https://bikerouter.de/#map=19/47.57092/7.59104/osm-mapnik-german_style&amp;lonlats=7.594202,47.57071;7.593176,47.570745;7.591767,47.570762;7.590657,47.570741&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.57071" lon="7.594202"><ele>254.75</ele></trkpt>
+   <trkpt lat="47.570721" lon="7.593659"><ele>254.5</ele></trkpt>
+   <trkpt lat="47.570745" lon="7.593176"><ele>254</ele></trkpt>
+   <trkpt lat="47.570756" lon="7.592398"><ele>253.5</ele></trkpt>
+   <trkpt lat="47.570757" lon="7.592278"><ele>253.25</ele></trkpt>
+   <trkpt lat="47.570759" lon="7.592159"><ele>253</ele></trkpt>
+   <trkpt lat="47.570762" lon="7.591767"><ele>253</ele></trkpt>
+   <trkpt lat="47.570757" lon="7.591376"><ele>253</ele></trkpt>
+   <trkpt lat="47.57074" lon="7.590656"><ele>253</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

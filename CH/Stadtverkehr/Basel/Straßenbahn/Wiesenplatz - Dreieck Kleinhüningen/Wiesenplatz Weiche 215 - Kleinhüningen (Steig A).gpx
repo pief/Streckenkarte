@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 331 filtered ascend = 0 plain-ascend = 0 cost=662 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Wiesenplatz Weiche 215 - Kleinhüningen (Steig A)</name>
+  <link href="https://bikerouter.de/#map=18/47.57916/7.59263/osm-mapnik-german_style&amp;lonlats=7.591695,47.577497;7.592795,47.580382&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.577495" lon="7.591698"><ele>249.75</ele></trkpt>
+   <trkpt lat="47.577501" lon="7.5917"><ele>250</ele></trkpt>
+   <trkpt lat="47.579537" lon="7.59246"><ele>250</ele></trkpt>
+   <trkpt lat="47.579799" lon="7.592579"><ele>250</ele></trkpt>
+   <trkpt lat="47.580374" lon="7.592799"><ele>250</ele></trkpt>
+   <trkpt lat="47.580379" lon="7.592801"><ele>250</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

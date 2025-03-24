@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 18 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Kleinhüningen Weiche 200 - Dreieck Kleinhüningen Weiche 201</name>
+  <link href="https://bikerouter.de/#map=19/47.58065/7.59286/osm-mapnik-german_style&amp;lonlats=7.592855,47.580527;7.59291,47.580676&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.580525" lon="7.592855"><ele>250</ele></trkpt>
+   <trkpt lat="47.580533" lon="7.592858"><ele>250</ele></trkpt>
+   <trkpt lat="47.580616" lon="7.592891"><ele>249.75</ele></trkpt>
+   <trkpt lat="47.580674" lon="7.59291"><ele>249.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

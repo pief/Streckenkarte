@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 19 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreirosenbrücke (Steig E) - Kreuz Dreirosenbrücke Weiche Ost-nach-Nord-Ost</name>
+  <link href="https://bikerouter.de/#map=19/47.57081/7.58976/osm-mapnik-german_style&amp;lonlats=7.590657,47.570741;7.590407,47.570735&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.57074" lon="7.590656"><ele>253</ele></trkpt>
+   <trkpt lat="47.570735" lon="7.590428"><ele>253</ele></trkpt>
+   <trkpt lat="47.570735" lon="7.590407"><ele>253</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
