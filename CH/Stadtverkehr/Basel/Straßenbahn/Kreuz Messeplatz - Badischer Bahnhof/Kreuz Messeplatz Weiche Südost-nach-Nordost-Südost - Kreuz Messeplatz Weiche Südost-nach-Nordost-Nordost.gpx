@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 1 plain-ascend = 1 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Messeplatz Weiche Südost-nach-Nordost-Südost - Kreuz Messeplatz Weiche Südost-nach-Nordost-Nordost</name>
+  <link href="https://bikerouter.de/#map=19/47.56363/7.60034/osm-mapnik-german_style&amp;lonlats=7.59965,47.56317;7.599927,47.563502&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.56317" lon="7.599653"><ele>256</ele></trkpt>
+   <trkpt lat="47.563174" lon="7.599651"><ele>256.25</ele></trkpt>
+   <trkpt lat="47.563219" lon="7.599631"><ele>256.5</ele></trkpt>
+   <trkpt lat="47.563292" lon="7.599619"><ele>256.5</ele></trkpt>
+   <trkpt lat="47.563343" lon="7.599632"><ele>256.5</ele></trkpt>
+   <trkpt lat="47.563371" lon="7.599649"><ele>256.75</ele></trkpt>
+   <trkpt lat="47.563401" lon="7.599681"><ele>256.75</ele></trkpt>
+   <trkpt lat="47.563445" lon="7.599756"><ele>257</ele></trkpt>
+   <trkpt lat="47.563504" lon="7.599924"><ele>257</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

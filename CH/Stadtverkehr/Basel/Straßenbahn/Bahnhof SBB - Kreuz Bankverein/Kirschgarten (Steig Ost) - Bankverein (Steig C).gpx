@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 220 filtered ascend = 0 plain-ascend = -1 cost=440 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kirschgarten (Steig Ost) - Bankverein (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/47.55351/7.59222/osm-mapnik-german_style&amp;lonlats=7.591071,47.551573;7.591909,47.553443&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551572" lon="7.591064"><ele>270.25</ele></trkpt>
+   <trkpt lat="47.551575" lon="7.591064"><ele>270.25</ele></trkpt>
+   <trkpt lat="47.551642" lon="7.591064"><ele>270</ele></trkpt>
+   <trkpt lat="47.551739" lon="7.591067"><ele>269.5</ele></trkpt>
+   <trkpt lat="47.551869" lon="7.591086"><ele>269</ele></trkpt>
+   <trkpt lat="47.552045" lon="7.591135"><ele>269</ele></trkpt>
+   <trkpt lat="47.552137" lon="7.591173"><ele>269</ele></trkpt>
+   <trkpt lat="47.552378" lon="7.591285"><ele>269.5</ele></trkpt>
+   <trkpt lat="47.552616" lon="7.591423"><ele>270</ele></trkpt>
+   <trkpt lat="47.55271" lon="7.591468"><ele>270</ele></trkpt>
+   <trkpt lat="47.553027" lon="7.591645"><ele>270</ele></trkpt>
+   <trkpt lat="47.55344" lon="7.591914"><ele>268.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

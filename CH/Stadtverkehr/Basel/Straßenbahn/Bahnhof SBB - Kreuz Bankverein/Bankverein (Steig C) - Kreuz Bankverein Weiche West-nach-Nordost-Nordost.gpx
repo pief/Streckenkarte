@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bankverein (Steig C) - Kreuz Bankverein Weiche West-nach-Nordost-Nordost</name>
+  <link href="https://bikerouter.de/#map=19/47.55401/7.59232/osm-mapnik-german_style&amp;lonlats=7.591909,47.553443;7.592258,47.553869&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.55344" lon="7.591914"><ele>268.75</ele></trkpt>
+   <trkpt lat="47.553443" lon="7.591916"><ele>268.75</ele></trkpt>
+   <trkpt lat="47.55357" lon="7.592001"><ele>269</ele></trkpt>
+   <trkpt lat="47.553653" lon="7.592058"><ele>268.75</ele></trkpt>
+   <trkpt lat="47.553694" lon="7.592084"><ele>268.5</ele></trkpt>
+   <trkpt lat="47.553722" lon="7.592103"><ele>268.5</ele></trkpt>
+   <trkpt lat="47.553751" lon="7.592124"><ele>268.25</ele></trkpt>
+   <trkpt lat="47.553773" lon="7.592141"><ele>268.25</ele></trkpt>
+   <trkpt lat="47.553831" lon="7.592198"><ele>268</ele></trkpt>
+   <trkpt lat="47.553858" lon="7.592237"><ele>268</ele></trkpt>
+   <trkpt lat="47.553865" lon="7.592259"><ele>268</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

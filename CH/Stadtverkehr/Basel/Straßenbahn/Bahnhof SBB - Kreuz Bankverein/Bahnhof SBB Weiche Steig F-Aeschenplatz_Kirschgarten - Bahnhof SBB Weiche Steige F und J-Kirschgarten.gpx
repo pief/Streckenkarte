@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 1 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bahnhof SBB Weiche Steig F-Aeschenplatz/Kirschgarten - Bahnhof SBB Weiche Steige F und J-Kirschgarten</name>
+  <link href="https://bikerouter.de/#map=19/47.54885/7.59055/osm-mapnik-german_style&amp;lonlats=7.590413,47.548541;7.590587,47.54891&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.54854" lon="7.590412"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.548548" lon="7.590419"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.548592" lon="7.590454"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.548648" lon="7.590506"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.548683" lon="7.590533"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.548695" lon="7.590541"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.548803" lon="7.590584"><ele>278.5</ele></trkpt>
+   <trkpt lat="47.54887" lon="7.590589"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.548906" lon="7.590591"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.548908" lon="7.590591"><ele>278.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
