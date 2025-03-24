@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=230 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kunstmuseum (Steig Nordwest) - Bankverein (Steig D)</name>
+  <link href="https://bikerouter.de/#map=19/47.55418/7.59223/osm-mapnik-german_style&amp;lonlats=7.593706,47.55434;7.592326,47.553912&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.554339" lon="7.593705"><ele>269</ele></trkpt>
+   <trkpt lat="47.554277" lon="7.593516"><ele>269</ele></trkpt>
+   <trkpt lat="47.554236" lon="7.593339"><ele>269</ele></trkpt>
+   <trkpt lat="47.554162" lon="7.593089"><ele>268</ele></trkpt>
+   <trkpt lat="47.553917" lon="7.592327"><ele>268</ele></trkpt>
+   <trkpt lat="47.553915" lon="7.592322"><ele>268</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

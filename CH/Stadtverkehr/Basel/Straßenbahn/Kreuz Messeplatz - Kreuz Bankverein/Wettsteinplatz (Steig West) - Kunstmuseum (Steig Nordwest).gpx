@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 620 filtered ascend = 12 plain-ascend = 12 cost=1240 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Wettsteinplatz (Steig West) - Kunstmuseum (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.55416/7.59398/osm-mapnik-german_style&amp;lonlats=7.598122,47.558928;7.593706,47.55434&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.558929" lon="7.598115"><ele>256.75</ele></trkpt>
+   <trkpt lat="47.558865" lon="7.598065"><ele>256.75</ele></trkpt>
+   <trkpt lat="47.558346" lon="7.597635"><ele>257</ele></trkpt>
+   <trkpt lat="47.558149" lon="7.597469"><ele>256.75</ele></trkpt>
+   <trkpt lat="47.555415" lon="7.595212"><ele>265.25</ele></trkpt>
+   <trkpt lat="47.55485" lon="7.59481"><ele>268.75</ele></trkpt>
+   <trkpt lat="47.554816" lon="7.594776"><ele>268.75</ele></trkpt>
+   <trkpt lat="47.554746" lon="7.594696"><ele>269</ele></trkpt>
+   <trkpt lat="47.554683" lon="7.594617"><ele>269</ele></trkpt>
+   <trkpt lat="47.554615" lon="7.594506"><ele>269</ele></trkpt>
+   <trkpt lat="47.554576" lon="7.59443"><ele>269</ele></trkpt>
+   <trkpt lat="47.554537" lon="7.594325"><ele>269</ele></trkpt>
+   <trkpt lat="47.554389" lon="7.593858"><ele>269</ele></trkpt>
+   <trkpt lat="47.554339" lon="7.593705"><ele>269</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

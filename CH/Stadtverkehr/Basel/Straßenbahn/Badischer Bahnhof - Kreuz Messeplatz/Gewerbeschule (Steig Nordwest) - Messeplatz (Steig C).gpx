@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 0 plain-ascend = 1 cost=436 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Gewerbeschule (Steig Nordwest) - Messeplatz (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/47.56347/7.59973/osm-mapnik-german_style&amp;lonlats=7.602668,47.564413;7.600075,47.563573&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.564409" lon="7.60267"><ele>256.25</ele></trkpt>
+   <trkpt lat="47.56417" lon="7.602109"><ele>257</ele></trkpt>
+   <trkpt lat="47.564105" lon="7.601922"><ele>257</ele></trkpt>
+   <trkpt lat="47.563807" lon="7.600889"><ele>256.25</ele></trkpt>
+   <trkpt lat="47.563757" lon="7.600712"><ele>256.5</ele></trkpt>
+   <trkpt lat="47.563728" lon="7.600611"><ele>256.75</ele></trkpt>
+   <trkpt lat="47.563573" lon="7.60008"><ele>257</ele></trkpt>
+   <trkpt lat="47.563571" lon="7.600074"><ele>257</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 0 plain-ascend = 0 cost=132 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Badischer Bahnhof (Steig C) - Badischer Bahnhof Weiche Steige C und D-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/47.56624/7.60740/osm-mapnik-german_style&amp;lonlats=7.607489,47.566438;7.606906,47.566482&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.566436" lon="7.607484"><ele>257.75</ele></trkpt>
+   <trkpt lat="47.566441" lon="7.607481"><ele>258</ele></trkpt>
+   <trkpt lat="47.566454" lon="7.607469"><ele>258</ele></trkpt>
+   <trkpt lat="47.566571" lon="7.607378"><ele>258</ele></trkpt>
+   <trkpt lat="47.566601" lon="7.607343"><ele>258</ele></trkpt>
+   <trkpt lat="47.566624" lon="7.607298"><ele>258</ele></trkpt>
+   <trkpt lat="47.566637" lon="7.607252"><ele>258</ele></trkpt>
+   <trkpt lat="47.566642" lon="7.607199"><ele>257.75</ele></trkpt>
+   <trkpt lat="47.566637" lon="7.607139"><ele>257.75</ele></trkpt>
+   <trkpt lat="47.566607" lon="7.607063"><ele>257.75</ele></trkpt>
+   <trkpt lat="47.566575" lon="7.607024"><ele>257.75</ele></trkpt>
+   <trkpt lat="47.56648" lon="7.606912"><ele>257.25</ele></trkpt>
+   <trkpt lat="47.566479" lon="7.60691"><ele>257</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
