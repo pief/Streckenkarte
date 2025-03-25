@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = 0 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Aeschenplatz Weiche Südwest-nach-Nordwest-Südwest - Kreuz Aeschenplatz Weiche Südwest-nach-Nordwest-Nordwest</name>
+  <link href="https://bikerouter.de/#map=19/47.55122/7.59461/osm-mapnik-german_style&amp;lonlats=7.594696,47.551142;7.59468,47.551519&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551139" lon="7.594699"><ele>270.75</ele></trkpt>
+   <trkpt lat="47.551143" lon="7.594703"><ele>270.75</ele></trkpt>
+   <trkpt lat="47.551182" lon="7.594746"><ele>270.5</ele></trkpt>
+   <trkpt lat="47.551223" lon="7.594776"><ele>270.5</ele></trkpt>
+   <trkpt lat="47.551296" lon="7.594805"><ele>270.25</ele></trkpt>
+   <trkpt lat="47.551354" lon="7.594805"><ele>270</ele></trkpt>
+   <trkpt lat="47.551427" lon="7.59478"><ele>270</ele></trkpt>
+   <trkpt lat="47.551463" lon="7.594753"><ele>270</ele></trkpt>
+   <trkpt lat="47.551492" lon="7.594724"><ele>270</ele></trkpt>
+   <trkpt lat="47.551522" lon="7.594686"><ele>270</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 105 filtered ascend = 0 plain-ascend = -5 cost=210 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Bankverein Weiche 93 - Dreieck Theaterplatz Weiche 20</name>
+  <link href="https://bikerouter.de/#map=19/47.55415/7.59046/osm-mapnik-german_style&amp;lonlats=7.591791,47.553781;7.590426,47.553957&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.553781" lon="7.591791"><ele>267.5</ele></trkpt>
+   <trkpt lat="47.553896" lon="7.590894"><ele>264</ele></trkpt>
+   <trkpt lat="47.553954" lon="7.590425"><ele>262</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = -2 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Theaterplatz Weiche 20 - Dreieck Theaterplatz Weiche 21</name>
+  <link href="https://bikerouter.de/#map=19/47.55392/7.58978/osm-mapnik-german_style&amp;lonlats=7.590426,47.553957;7.589911,47.553727&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.553954" lon="7.590425"><ele>262</ele></trkpt>
+   <trkpt lat="47.553955" lon="7.590422"><ele>262</ele></trkpt>
+   <trkpt lat="47.55397" lon="7.590255"><ele>261.5</ele></trkpt>
+   <trkpt lat="47.553967" lon="7.590148"><ele>261.25</ele></trkpt>
+   <trkpt lat="47.553949" lon="7.59008"><ele>261</ele></trkpt>
+   <trkpt lat="47.553925" lon="7.590033"><ele>261</ele></trkpt>
+   <trkpt lat="47.553885" lon="7.589987"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.553863" lon="7.589969"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.553731" lon="7.589915"><ele>260</ele></trkpt>
+   <trkpt lat="47.553726" lon="7.589912"><ele>259.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

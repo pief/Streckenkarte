@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 0 plain-ascend = 0 cost=220 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bahnhof SBB Weiche Aeschenplatz-Steige D/E und G - Bahnhof SBB (Steig G)</name>
+  <link href="https://bikerouter.de/#map=19/47.54844/7.59082/osm-mapnik-german_style&amp;lonlats=7.591191,47.548807;7.590261,47.548089&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.548807" lon="7.591189"><ele>278</ele></trkpt>
+   <trkpt lat="47.548805" lon="7.591187"><ele>278</ele></trkpt>
+   <trkpt lat="47.548754" lon="7.591115"><ele>278</ele></trkpt>
+   <trkpt lat="47.548711" lon="7.591037"><ele>278</ele></trkpt>
+   <trkpt lat="47.548643" lon="7.590903"><ele>278.5</ele></trkpt>
+   <trkpt lat="47.548566" lon="7.590735"><ele>278.5</ele></trkpt>
+   <trkpt lat="47.548515" lon="7.590643"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.548497" lon="7.590617"><ele>278</ele></trkpt>
+   <trkpt lat="47.548444" lon="7.590562"><ele>278</ele></trkpt>
+   <trkpt lat="47.548096" lon="7.590268"><ele>278</ele></trkpt>
+   <trkpt lat="47.548088" lon="7.59026"><ele>278</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

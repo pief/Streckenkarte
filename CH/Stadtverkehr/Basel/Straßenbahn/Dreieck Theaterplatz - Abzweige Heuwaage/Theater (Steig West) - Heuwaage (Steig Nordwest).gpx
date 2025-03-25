@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 253 filtered ascend = 3 plain-ascend = 3 cost=506 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Theater (Steig West) - Heuwaage (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=18/47.55151/7.58901/osm-mapnik-german_style&amp;lonlats=7.589745,47.552916;7.58783,47.551214&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.552914" lon="7.589746"><ele>259</ele></trkpt>
+   <trkpt lat="47.552623" lon="7.589727"><ele>259</ele></trkpt>
+   <trkpt lat="47.55253" lon="7.589711"><ele>259</ele></trkpt>
+   <trkpt lat="47.55246" lon="7.589685"><ele>259</ele></trkpt>
+   <trkpt lat="47.552337" lon="7.589617"><ele>259</ele></trkpt>
+   <trkpt lat="47.552209" lon="7.589507"><ele>259</ele></trkpt>
+   <trkpt lat="47.551987" lon="7.589298"><ele>259.75</ele></trkpt>
+   <trkpt lat="47.551902" lon="7.589209"><ele>260</ele></trkpt>
+   <trkpt lat="47.551815" lon="7.589103"><ele>260.25</ele></trkpt>
+   <trkpt lat="47.551692" lon="7.588925"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.55167" lon="7.588889"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.551608" lon="7.588772"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.551445" lon="7.58841"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.551216" lon="7.587835"><ele>262</ele></trkpt>
+   <trkpt lat="47.551213" lon="7.587829"><ele>262</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

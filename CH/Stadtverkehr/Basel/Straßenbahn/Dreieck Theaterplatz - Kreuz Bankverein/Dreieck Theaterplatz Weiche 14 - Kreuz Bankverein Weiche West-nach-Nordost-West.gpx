@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 105 filtered ascend = 5 plain-ascend = 6 cost=210 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Theaterplatz Weiche 14 - Kreuz Bankverein Weiche West-nach-Nordost-West</name>
+  <link href="https://bikerouter.de/#map=19/47.55379/7.59221/osm-mapnik-german_style&amp;lonlats=7.59041,47.55393;7.591794,47.553758&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.55393" lon="7.59041"><ele>262</ele></trkpt>
+   <trkpt lat="47.553869" lon="7.590886"><ele>264</ele></trkpt>
+   <trkpt lat="47.553757" lon="7.591793"><ele>267.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

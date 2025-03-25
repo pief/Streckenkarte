@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 4 plain-ascend = 4 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Theaterplatz Weiche 13 - Dreieck Theaterplatz Weiche 14</name>
+  <link href="https://bikerouter.de/#map=19/47.55370/7.59080/osm-mapnik-german_style&amp;lonlats=7.589957,47.553727;7.59041,47.55393&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.553726" lon="7.589956"><ele>260</ele></trkpt>
+   <trkpt lat="47.553731" lon="7.589958"><ele>260.25</ele></trkpt>
+   <trkpt lat="47.553857" lon="7.590018"><ele>260.75</ele></trkpt>
+   <trkpt lat="47.553884" lon="7.590044"><ele>261</ele></trkpt>
+   <trkpt lat="47.553917" lon="7.5901"><ele>261.25</ele></trkpt>
+   <trkpt lat="47.553938" lon="7.590164"><ele>261.25</ele></trkpt>
+   <trkpt lat="47.553945" lon="7.590245"><ele>261.5</ele></trkpt>
+   <trkpt lat="47.553931" lon="7.590405"><ele>262</ele></trkpt>
+   <trkpt lat="47.55393" lon="7.59041"><ele>264</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 2 plain-ascend = 3 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Aeschenplatz Weiche Nordwest-nach-Südwest-Südwest - Aeschenplatz (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/47.55101/7.59439/osm-mapnik-german_style&amp;lonlats=7.594627,47.551126;7.594026,47.550722&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551124" lon="7.594628"><ele>270.75</ele></trkpt>
+   <trkpt lat="47.551101" lon="7.594596"><ele>271</ele></trkpt>
+   <trkpt lat="47.55102" lon="7.594473"><ele>271.25</ele></trkpt>
+   <trkpt lat="47.550721" lon="7.594034"><ele>272</ele></trkpt>
+   <trkpt lat="47.550718" lon="7.594029"><ele>273.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Aeschenplatz (Steig A) - Kreuz Aeschenplatz Weiche Südwest-nach-Südost-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/47.55122/7.59461/osm-mapnik-german_style&amp;lonlats=7.594608,47.551076;7.594656,47.551108&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551075" lon="7.594607"><ele>271</ele></trkpt>
+   <trkpt lat="47.551077" lon="7.59461"><ele>271</ele></trkpt>
+   <trkpt lat="47.55109" lon="7.59463"><ele>271</ele></trkpt>
+   <trkpt lat="47.551106" lon="7.594656"><ele>271</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

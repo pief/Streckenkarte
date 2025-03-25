@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 280 filtered ascend = 0 plain-ascend = 0 cost=560 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Kreuz Aeschenplatz Weiche Nordost-nach-Nordwest-Nordwest - Bankverein (Steig A)</name>
+  <link href="https://bikerouter.de/#map=19/47.55329/7.59261/osm-mapnik-german_style&amp;lonlats=7.594635,47.551564;7.592347,47.553541&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551561" lon="7.594631"><ele>270</ele></trkpt>
+   <trkpt lat="47.551574" lon="7.594613"><ele>270</ele></trkpt>
+   <trkpt lat="47.552019" lon="7.593968"><ele>270</ele></trkpt>
+   <trkpt lat="47.552412" lon="7.593488"><ele>270</ele></trkpt>
+   <trkpt lat="47.552477" lon="7.593417"><ele>270</ele></trkpt>
+   <trkpt lat="47.552535" lon="7.593355"><ele>270</ele></trkpt>
+   <trkpt lat="47.553216" lon="7.592674"><ele>269.75</ele></trkpt>
+   <trkpt lat="47.553541" lon="7.592347"><ele>269</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

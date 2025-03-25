@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 0 cost=20 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bankverein (Steig A) - Kreuz Bankverein Weiche Südost-nach-Nordost-Südost</name>
+  <link href="https://bikerouter.de/#map=19/47.55353/7.59229/osm-mapnik-german_style&amp;lonlats=7.592347,47.553541;7.592266,47.553621&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.553541" lon="7.592347"><ele>269</ele></trkpt>
+   <trkpt lat="47.553565" lon="7.592324"><ele>269</ele></trkpt>
+   <trkpt lat="47.553589" lon="7.5923"><ele>269</ele></trkpt>
+   <trkpt lat="47.55362" lon="7.592265"><ele>268.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
