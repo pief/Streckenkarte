@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=80 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Ettingen Dorf Weiche 663 - Ettingen Dorf (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/47.48390/7.54727/osm-mapnik-german_style&amp;lonlats=7.545758,47.483709;7.546277,47.48369&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.483708" lon="7.545757"><ele>326</ele></trkpt>
+   <trkpt lat="47.483709" lon="7.545763"><ele>326</ele></trkpt>
+   <trkpt lat="47.483687" lon="7.546276"><ele>326</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

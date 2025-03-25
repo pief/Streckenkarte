@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 4 plain-ascend = 4 cost=182 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Hüslimatt Weiche 640 - Dreieck Hüslimatt Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/47.50841/7.55657/osm-mapnik-german_style&amp;lonlats=7.555997,47.508941;7.555855,47.508572;7.555743,47.508153&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.50894" lon="7.555993"><ele>296.5</ele></trkpt>
+   <trkpt lat="47.508942" lon="7.555994"><ele>296.5</ele></trkpt>
+   <trkpt lat="47.508785" lon="7.555943"><ele>297</ele></trkpt>
+   <trkpt lat="47.508568" lon="7.555874"><ele>298.5</ele></trkpt>
+   <trkpt lat="47.50816" lon="7.555745"><ele>298.5</ele></trkpt>
+   <trkpt lat="47.508152" lon="7.555742"><ele>299.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

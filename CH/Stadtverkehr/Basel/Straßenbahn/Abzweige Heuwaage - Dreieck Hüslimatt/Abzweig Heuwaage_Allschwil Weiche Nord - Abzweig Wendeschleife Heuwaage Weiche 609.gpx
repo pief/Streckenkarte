@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 84 filtered ascend = 1 plain-ascend = 1 cost=168 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abzweig Heuwaage/Allschwil Weiche Nord - Abzweig Wendeschleife Heuwaage Weiche 609</name>
+  <link href="https://bikerouter.de/#map=19/47.55076/7.58660/osm-mapnik-german_style&amp;lonlats=7.587355,47.551101;7.586357,47.550827&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551097" lon="7.587354"><ele>263.5</ele></trkpt>
+   <trkpt lat="47.551098" lon="7.587351"><ele>263.5</ele></trkpt>
+   <trkpt lat="47.5511" lon="7.587299"><ele>263.75</ele></trkpt>
+   <trkpt lat="47.551103" lon="7.587167"><ele>264</ele></trkpt>
+   <trkpt lat="47.551096" lon="7.587055"><ele>264.5</ele></trkpt>
+   <trkpt lat="47.551064" lon="7.586929"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.551028" lon="7.586845"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.550895" lon="7.586529"><ele>264.5</ele></trkpt>
+   <trkpt lat="47.550825" lon="7.586363"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.550823" lon="7.586358"><ele>264.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

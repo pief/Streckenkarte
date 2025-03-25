@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 92 filtered ascend = 0 plain-ascend = 0 cost=184 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Leymen Station Weiche 691 - Leymen Station (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/47.49283/7.48638/osm-mapnik-german_style&amp;lonlats=7.486474,47.492789;7.485283,47.492769&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.49279" lon="7.486472"><ele>383</ele></trkpt>
+   <trkpt lat="47.492791" lon="7.486475"><ele>383</ele></trkpt>
+   <trkpt lat="47.492784" lon="7.486066"><ele>382.75</ele></trkpt>
+   <trkpt lat="47.492768" lon="7.48529"><ele>383</ele></trkpt>
+   <trkpt lat="47.492767" lon="7.485282"><ele>383</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

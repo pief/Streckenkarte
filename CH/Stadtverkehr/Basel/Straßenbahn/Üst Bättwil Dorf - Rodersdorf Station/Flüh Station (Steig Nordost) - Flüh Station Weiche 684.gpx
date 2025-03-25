@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 18 filtered ascend = 0 plain-ascend = 0 cost=36 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Flüh Station (Steig Nordost) - Flüh Station Weiche 684</name>
+  <link href="https://bikerouter.de/#map=19/47.48984/7.49924/osm-mapnik-german_style&amp;lonlats=7.498852,47.489298;7.49874,47.489447&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.489298" lon="7.498852"><ele>378.25</ele></trkpt>
+   <trkpt lat="47.489384" lon="7.498775"><ele>378</ele></trkpt>
+   <trkpt lat="47.489446" lon="7.49874"><ele>378</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

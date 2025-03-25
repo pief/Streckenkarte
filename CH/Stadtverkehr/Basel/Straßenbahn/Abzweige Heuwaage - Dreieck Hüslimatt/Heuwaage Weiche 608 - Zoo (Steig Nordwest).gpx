@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 303 filtered ascend = 3 plain-ascend = 3 cost=606 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Heuwaage Weiche 608 - Zoo (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.54868/7.58330/osm-mapnik-german_style&amp;lonlats=7.585773,47.550529;7.582841,47.548691&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.550526" lon="7.585775"><ele>265</ele></trkpt>
+   <trkpt lat="47.550467" lon="7.585695"><ele>265</ele></trkpt>
+   <trkpt lat="47.550405" lon="7.585618"><ele>265</ele></trkpt>
+   <trkpt lat="47.550347" lon="7.58553"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.549793" lon="7.584607"><ele>265.5</ele></trkpt>
+   <trkpt lat="47.54952" lon="7.584175"><ele>266</ele></trkpt>
+   <trkpt lat="47.549371" lon="7.583925"><ele>266.5</ele></trkpt>
+   <trkpt lat="47.549337" lon="7.583868"><ele>266.25</ele></trkpt>
+   <trkpt lat="47.549279" lon="7.583773"><ele>266.75</ele></trkpt>
+   <trkpt lat="47.549038" lon="7.583312"><ele>267.25</ele></trkpt>
+   <trkpt lat="47.549008" lon="7.58327"><ele>267.5</ele></trkpt>
+   <trkpt lat="47.548862" lon="7.583059"><ele>268</ele></trkpt>
+   <trkpt lat="47.548694" lon="7.582844"><ele>267.75</ele></trkpt>
+   <trkpt lat="47.54869" lon="7.58284"><ele>267.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

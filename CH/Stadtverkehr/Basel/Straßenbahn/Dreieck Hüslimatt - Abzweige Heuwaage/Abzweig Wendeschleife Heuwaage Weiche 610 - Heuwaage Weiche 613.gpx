@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 0 plain-ascend = 0 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abzweig Wendeschleife Heuwaage Weiche 610 - Heuwaage Weiche 613</name>
+  <link href="https://bikerouter.de/#map=19/47.55098/7.58706/osm-mapnik-german_style&amp;lonlats=7.586392,47.550809;7.587205,47.551075&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.550807" lon="7.586392"><ele>264.5</ele></trkpt>
+   <trkpt lat="47.55081" lon="7.586397"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.551008" lon="7.586863"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.551034" lon="7.586927"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.55106" lon="7.587007"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.551071" lon="7.587065"><ele>264.5</ele></trkpt>
+   <trkpt lat="47.551074" lon="7.587197"><ele>264</ele></trkpt>
+   <trkpt lat="47.551073" lon="7.587204"><ele>264</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

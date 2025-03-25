@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 541 filtered ascend = 3 plain-ascend = 4 cost=1082 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Therwil Zentrum (Steig West) - Känelmatt (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.49517/7.55552/osm-mapnik-german_style&amp;lonlats=7.557075,47.499155;7.554345,47.494665&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.499155" lon="7.557067"><ele>306</ele></trkpt>
+   <trkpt lat="47.499091" lon="7.557041"><ele>306</ele></trkpt>
+   <trkpt lat="47.498998" lon="7.557005"><ele>306</ele></trkpt>
+   <trkpt lat="47.49877" lon="7.5569"><ele>306</ele></trkpt>
+   <trkpt lat="47.498388" lon="7.556668"><ele>306</ele></trkpt>
+   <trkpt lat="47.497004" lon="7.555803"><ele>307</ele></trkpt>
+   <trkpt lat="47.495249" lon="7.554707"><ele>308</ele></trkpt>
+   <trkpt lat="47.495133" lon="7.554635"><ele>308</ele></trkpt>
+   <trkpt lat="47.494754" lon="7.5544"><ele>309</ele></trkpt>
+   <trkpt lat="47.494711" lon="7.554374"><ele>309.25</ele></trkpt>
+   <trkpt lat="47.494663" lon="7.554345"><ele>309.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

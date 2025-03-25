@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abzweig Heuwaage/Allschwil Weiche 616 - Abzweig Heuwaage/Markthalle Weiche 104</name>
+  <link href="https://bikerouter.de/#map=19/47.55094/7.58768/osm-mapnik-german_style&amp;lonlats=7.587352,47.551066;7.587596,47.5511&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551069" lon="7.58735"><ele>263.5</ele></trkpt>
+   <trkpt lat="47.55107" lon="7.587402"><ele>263.5</ele></trkpt>
+   <trkpt lat="47.55107" lon="7.587415"><ele>263.25</ele></trkpt>
+   <trkpt lat="47.551082" lon="7.587523"><ele>263</ele></trkpt>
+   <trkpt lat="47.551102" lon="7.587601"><ele>262.5</ele></trkpt>
+   <trkpt lat="47.5511" lon="7.587594"><ele>263</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

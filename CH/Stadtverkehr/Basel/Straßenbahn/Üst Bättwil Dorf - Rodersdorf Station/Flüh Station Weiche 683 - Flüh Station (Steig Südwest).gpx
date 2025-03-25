@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Flüh Station Weiche 683 - Flüh Station (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.48978/7.49887/osm-mapnik-german_style&amp;lonlats=7.498944,47.489162;7.499094,47.489068&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.489162" lon="7.498945"><ele>378.5</ele></trkpt>
+   <trkpt lat="47.48911" lon="7.499019"><ele>378.5</ele></trkpt>
+   <trkpt lat="47.489069" lon="7.499091"><ele>378.5</ele></trkpt>
+   <trkpt lat="47.489067" lon="7.499093"><ele>378.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 260 filtered ascend = 0 plain-ascend = -2 cost=520 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Zoo (Steig Südost) - Heuwaage Weiche 606</name>
+  <link href="https://bikerouter.de/#map=19/47.55062/7.58587/osm-mapnik-german_style&amp;lonlats=7.583252,47.548959;7.585805,47.55051&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.548958" lon="7.583251"><ele>267.5</ele></trkpt>
+   <trkpt lat="47.548965" lon="7.58326"><ele>267.5</ele></trkpt>
+   <trkpt lat="47.548991" lon="7.583297"><ele>267.5</ele></trkpt>
+   <trkpt lat="47.549019" lon="7.583341"><ele>267.5</ele></trkpt>
+   <trkpt lat="47.549279" lon="7.583773"><ele>266.75</ele></trkpt>
+   <trkpt lat="47.549337" lon="7.583868"><ele>266.25</ele></trkpt>
+   <trkpt lat="47.549371" lon="7.583925"><ele>266.5</ele></trkpt>
+   <trkpt lat="47.54952" lon="7.584175"><ele>266</ele></trkpt>
+   <trkpt lat="47.549773" lon="7.584626"><ele>265.75</ele></trkpt>
+   <trkpt lat="47.550321" lon="7.585543"><ele>264.75</ele></trkpt>
+   <trkpt lat="47.550449" lon="7.585721"><ele>265</ele></trkpt>
+   <trkpt lat="47.55051" lon="7.585802"><ele>265</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

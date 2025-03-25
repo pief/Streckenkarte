@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 1 plain-ascend = 1 cost=68 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Flüh Station Weiche 684 - Flüh Station Weiche 685</name>
+  <link href="https://bikerouter.de/#map=19/47.49000/7.49978/osm-mapnik-german_style&amp;lonlats=7.49874,47.489447;7.498664,47.489747&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.489446" lon="7.49874"><ele>378</ele></trkpt>
+   <trkpt lat="47.489452" lon="7.498737"><ele>378</ele></trkpt>
+   <trkpt lat="47.489577" lon="7.498689"><ele>378</ele></trkpt>
+   <trkpt lat="47.489623" lon="7.498677"><ele>378.25</ele></trkpt>
+   <trkpt lat="47.489744" lon="7.498664"><ele>378.5</ele></trkpt>
+   <trkpt lat="47.489745" lon="7.498664"><ele>379.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

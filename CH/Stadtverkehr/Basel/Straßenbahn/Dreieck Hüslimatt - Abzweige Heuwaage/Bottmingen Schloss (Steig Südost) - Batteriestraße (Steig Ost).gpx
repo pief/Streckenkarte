@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 375 filtered ascend = 0 plain-ascend = -1 cost=750 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bottmingen Schloss (Steig Südost) - Batteriestraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/47.52756/7.57321/osm-mapnik-german_style&amp;lonlats=7.57163,47.524386;7.573272,47.527492&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.524385" lon="7.571627"><ele>292</ele></trkpt>
+   <trkpt lat="47.524436" lon="7.571653"><ele>292</ele></trkpt>
+   <trkpt lat="47.52479" lon="7.571838"><ele>291.25</ele></trkpt>
+   <trkpt lat="47.524957" lon="7.571951"><ele>291</ele></trkpt>
+   <trkpt lat="47.525084" lon="7.572077"><ele>290.75</ele></trkpt>
+   <trkpt lat="47.525381" lon="7.572432"><ele>291</ele></trkpt>
+   <trkpt lat="47.52556" lon="7.572615"><ele>290.75</ele></trkpt>
+   <trkpt lat="47.525696" lon="7.572731"><ele>290.75</ele></trkpt>
+   <trkpt lat="47.525827" lon="7.572828"><ele>291</ele></trkpt>
+   <trkpt lat="47.526039" lon="7.572959"><ele>290.5</ele></trkpt>
+   <trkpt lat="47.526167" lon="7.573024"><ele>290.5</ele></trkpt>
+   <trkpt lat="47.526252" lon="7.573067"><ele>290.5</ele></trkpt>
+   <trkpt lat="47.526529" lon="7.573166"><ele>290</ele></trkpt>
+   <trkpt lat="47.526956" lon="7.573271"><ele>289.75</ele></trkpt>
+   <trkpt lat="47.527485" lon="7.573277"><ele>290</ele></trkpt>
+   <trkpt lat="47.527492" lon="7.573276"><ele>290</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

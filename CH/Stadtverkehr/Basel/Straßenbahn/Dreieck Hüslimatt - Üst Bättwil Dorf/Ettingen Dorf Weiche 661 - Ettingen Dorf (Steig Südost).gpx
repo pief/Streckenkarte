@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 1 plain-ascend = 1 cost=198 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Ettingen Dorf Weiche 661 - Ettingen Dorf (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/47.48341/7.54568/osm-mapnik-german_style&amp;lonlats=7.546872,47.483743;7.545654,47.483451&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.483741" lon="7.546871"><ele>325.5</ele></trkpt>
+   <trkpt lat="47.483741" lon="7.54687"><ele>325.5</ele></trkpt>
+   <trkpt lat="47.48372" lon="7.546777"><ele>325.75</ele></trkpt>
+   <trkpt lat="47.483703" lon="7.546681"><ele>325.75</ele></trkpt>
+   <trkpt lat="47.483686" lon="7.546593"><ele>325.75</ele></trkpt>
+   <trkpt lat="47.483653" lon="7.546426"><ele>326</ele></trkpt>
+   <trkpt lat="47.483635" lon="7.546329"><ele>326</ele></trkpt>
+   <trkpt lat="47.483583" lon="7.546119"><ele>326</ele></trkpt>
+   <trkpt lat="47.483459" lon="7.545705"><ele>326.5</ele></trkpt>
+   <trkpt lat="47.48345" lon="7.54566"><ele>326.5</ele></trkpt>
+   <trkpt lat="47.483449" lon="7.545653"><ele>326.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

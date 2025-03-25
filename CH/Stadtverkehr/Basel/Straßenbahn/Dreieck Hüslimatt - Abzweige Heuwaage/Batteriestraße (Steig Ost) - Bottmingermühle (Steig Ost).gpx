@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 496 filtered ascend = 0 plain-ascend = 0 cost=994 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Batteriestraße (Steig Ost) - Bottmingermühle (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=19/47.53187/7.57330/osm-mapnik-german_style&amp;lonlats=7.573272,47.527492;7.573342,47.531954&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.527492" lon="7.573276"><ele>290</ele></trkpt>
+   <trkpt lat="47.527549" lon="7.573276"><ele>290</ele></trkpt>
+   <trkpt lat="47.530145" lon="7.57326"><ele>289</ele></trkpt>
+   <trkpt lat="47.530263" lon="7.573259"><ele>289</ele></trkpt>
+   <trkpt lat="47.530952" lon="7.573257"><ele>289</ele></trkpt>
+   <trkpt lat="47.531231" lon="7.573272"><ele>289</ele></trkpt>
+   <trkpt lat="47.531306" lon="7.573279"><ele>289</ele></trkpt>
+   <trkpt lat="47.531953" lon="7.573346"><ele>289</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
