@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 353 filtered ascend = 0 plain-ascend = 0 cost=706 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Münchensteinerstrasse Weiche Nord-nach-Bahnhof SBB - Peter Merian (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=17/47.54450/7.59828/osm-mapnik-german_style&amp;lonlats=7.599044,47.54364;7.595914,47.545406&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.543638" lon="7.599044"><ele>280</ele></trkpt>
+   <trkpt lat="47.544201" lon="7.599176"><ele>280</ele></trkpt>
+   <trkpt lat="47.544275" lon="7.599179"><ele>280</ele></trkpt>
+   <trkpt lat="47.544327" lon="7.599165"><ele>280</ele></trkpt>
+   <trkpt lat="47.544387" lon="7.599127"><ele>280</ele></trkpt>
+   <trkpt lat="47.544421" lon="7.599092"><ele>280.5</ele></trkpt>
+   <trkpt lat="47.544482" lon="7.598994"><ele>280</ele></trkpt>
+   <trkpt lat="47.544519" lon="7.598892"><ele>279.25</ele></trkpt>
+   <trkpt lat="47.545016" lon="7.597353"/>
+   <trkpt lat="47.54521" lon="7.596697"/>
+   <trkpt lat="47.545328" lon="7.596248"/>
+   <trkpt lat="47.545407" lon="7.595914"/>
+  </trkseg>
+ </trk>
+</gpx>

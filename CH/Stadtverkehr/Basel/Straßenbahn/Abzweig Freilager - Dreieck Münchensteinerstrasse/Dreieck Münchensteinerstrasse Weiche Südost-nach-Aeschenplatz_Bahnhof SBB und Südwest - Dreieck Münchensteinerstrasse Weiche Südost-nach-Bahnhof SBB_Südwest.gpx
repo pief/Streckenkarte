@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Münchensteinerstrasse Weiche Südost-nach-Aeschenplatz/Bahnhof SBB und Südwest - Dreieck Münchensteinerstrasse Weiche Südost-nach-Bahnhof SBB/Südwest</name>
+  <link href="https://bikerouter.de/#map=19/47.54339/7.59908/osm-mapnik-german_style&amp;lonlats=7.599293,47.543375;7.599253,47.54339&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.543375" lon="7.599293"><ele>280</ele></trkpt>
+   <trkpt lat="47.543377" lon="7.599289"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.543378" lon="7.599286"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.543389" lon="7.59926"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.543391" lon="7.599254"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.543391" lon="7.599253"><ele>280</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
