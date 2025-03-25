@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bahnhof SBB (Steig G) - Bahnhof SBB Weiche 189</name>
+  <link href="https://bikerouter.de/#map=19/47.54774/7.59085/osm-mapnik-german_style&amp;lonlats=7.59026,47.548088;7.590236,47.547681&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.548087" lon="7.590259"><ele>278</ele></trkpt>
+   <trkpt lat="47.548066" lon="7.590241"><ele>278</ele></trkpt>
+   <trkpt lat="47.547977" lon="7.590167"><ele>278</ele></trkpt>
+   <trkpt lat="47.547949" lon="7.590149"><ele>278</ele></trkpt>
+   <trkpt lat="47.547931" lon="7.590142"><ele>278</ele></trkpt>
+   <trkpt lat="47.547889" lon="7.590131"><ele>278</ele></trkpt>
+   <trkpt lat="47.547828" lon="7.590133"><ele>278</ele></trkpt>
+   <trkpt lat="47.547766" lon="7.59016"><ele>278</ele></trkpt>
+   <trkpt lat="47.547685" lon="7.590236"><ele>278</ele></trkpt>
+   <trkpt lat="47.547682" lon="7.590239"><ele>278</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

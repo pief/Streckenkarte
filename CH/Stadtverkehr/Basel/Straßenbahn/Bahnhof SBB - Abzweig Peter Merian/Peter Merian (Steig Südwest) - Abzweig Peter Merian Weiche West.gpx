@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 237 filtered ascend = 0 plain-ascend = 1 cost=474 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Peter Merian (Steig Südwest) - Abzweig Peter Merian Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/47.54403/7.59865/osm-mapnik-german_style&amp;lonlats=7.596565,47.545225;7.599129,47.544173&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.54522" lon="7.596562"><ele>279</ele></trkpt>
+   <trkpt lat="47.545187" lon="7.596685"><ele>279</ele></trkpt>
+   <trkpt lat="47.544994" lon="7.59734"><ele>279</ele></trkpt>
+   <trkpt lat="47.544497" lon="7.598875"><ele>279</ele></trkpt>
+   <trkpt lat="47.544455" lon="7.598976"><ele>279.75</ele></trkpt>
+   <trkpt lat="47.544393" lon="7.59907"><ele>279.75</ele></trkpt>
+   <trkpt lat="47.544372" lon="7.59909"/>
+   <trkpt lat="47.544296" lon="7.599129"/>
+   <trkpt lat="47.544251" lon="7.599136"/>
+   <trkpt lat="47.544176" lon="7.59913"/>
+   <trkpt lat="47.544171" lon="7.599129"/>
+  </trkseg>
+ </trk>
+</gpx>

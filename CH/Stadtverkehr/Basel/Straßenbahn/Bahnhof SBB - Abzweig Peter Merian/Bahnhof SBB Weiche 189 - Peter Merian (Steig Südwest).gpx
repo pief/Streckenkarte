@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 556 filtered ascend = 0 plain-ascend = 0 cost=1112 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Bahnhof SBB Weiche 189 - Peter Merian (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.54514/7.59631/osm-mapnik-german_style&amp;lonlats=7.590236,47.547681;7.596565,47.545225&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.547682" lon="7.590239"><ele>278</ele></trkpt>
+   <trkpt lat="47.54761" lon="7.59034"><ele>278</ele></trkpt>
+   <trkpt lat="47.547498" lon="7.590511"><ele>277.75</ele></trkpt>
+   <trkpt lat="47.547438" lon="7.590642"><ele>278</ele></trkpt>
+   <trkpt lat="47.5472" lon="7.591252"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.547094" lon="7.591525"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.547007" lon="7.591699"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.546943" lon="7.591788"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.546776" lon="7.591979"><ele>277.25</ele></trkpt>
+   <trkpt lat="47.546728" lon="7.592044"><ele>277</ele></trkpt>
+   <trkpt lat="47.546639" lon="7.592207"><ele>277.5</ele></trkpt>
+   <trkpt lat="47.546433" lon="7.592801"><ele>276.75</ele></trkpt>
+   <trkpt lat="47.54628" lon="7.593201"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.546053" lon="7.593753"><ele>278</ele></trkpt>
+   <trkpt lat="47.545738" lon="7.594611"/>
+   <trkpt lat="47.545598" lon="7.595057"/>
+   <trkpt lat="47.545526" lon="7.595327"/>
+   <trkpt lat="47.545411" lon="7.595796"/>
+   <trkpt lat="47.545256" lon="7.59643"/>
+   <trkpt lat="47.54522" lon="7.596562"/>
+  </trkseg>
+ </trk>
+</gpx>

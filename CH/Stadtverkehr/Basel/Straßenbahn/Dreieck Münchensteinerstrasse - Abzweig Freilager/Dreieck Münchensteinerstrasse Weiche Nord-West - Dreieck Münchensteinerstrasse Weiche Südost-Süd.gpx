@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 3 plain-ascend = 4 cost=82 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreieck Münchensteinerstrasse Weiche Nord-West - Dreieck Münchensteinerstrasse Weiche Südost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/47.54349/7.59967/osm-mapnik-german_style&amp;lonlats=7.599008,47.543652;7.599251,47.543348&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.54365" lon="7.599008"><ele>277.5</ele></trkpt>
+   <trkpt lat="47.543624" lon="7.599002"><ele>277.5</ele></trkpt>
+   <trkpt lat="47.543539" lon="7.599012"><ele>277.5</ele></trkpt>
+   <trkpt lat="47.543526" lon="7.599017"><ele>277.75</ele></trkpt>
+   <trkpt lat="47.543486" lon="7.599038"><ele>278.5</ele></trkpt>
+   <trkpt lat="47.543455" lon="7.599064"><ele>279.25</ele></trkpt>
+   <trkpt lat="47.543418" lon="7.599108"><ele>280</ele></trkpt>
+   <trkpt lat="47.543387" lon="7.599158"><ele>280.75</ele></trkpt>
+   <trkpt lat="47.543351" lon="7.599244"><ele>281</ele></trkpt>
+   <trkpt lat="47.543348" lon="7.599251"><ele>281</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
