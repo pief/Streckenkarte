@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 715 filtered ascend = 4 plain-ascend = 4 cost=1430 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abzweig Wendeschleife Reinach Süd Weiche 757 - Arlesheimerstrasse (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.47924/7.59482/osm-mapnik-german_style&amp;lonlats=7.591923,47.485216;7.594801,47.479086&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.485216" lon="7.591924"><ele>306.75</ele></trkpt>
+   <trkpt lat="47.485213" lon="7.591926"><ele>306.75</ele></trkpt>
+   <trkpt lat="47.484729" lon="7.592153"><ele>306.75</ele></trkpt>
+   <trkpt lat="47.479619" lon="7.594546"><ele>310</ele></trkpt>
+   <trkpt lat="47.479084" lon="7.594793"><ele>311</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

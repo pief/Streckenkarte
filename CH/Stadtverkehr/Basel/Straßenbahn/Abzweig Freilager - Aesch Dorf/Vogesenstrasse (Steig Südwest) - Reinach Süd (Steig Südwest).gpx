@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 324 filtered ascend = 1 plain-ascend = 1 cost=648 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Vogesenstrasse (Steig Südwest) - Reinach Süd (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.48540/7.59190/osm-mapnik-german_style&amp;lonlats=7.590486,47.488224;7.591813,47.485458&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.488224" lon="7.590486"><ele>306</ele></trkpt>
+   <trkpt lat="47.488162" lon="7.590519"><ele>306</ele></trkpt>
+   <trkpt lat="47.487558" lon="7.590832"><ele>306.75</ele></trkpt>
+   <trkpt lat="47.485975" lon="7.591569"><ele>307</ele></trkpt>
+   <trkpt lat="47.48589" lon="7.591613"><ele>307</ele></trkpt>
+   <trkpt lat="47.485465" lon="7.591812"><ele>306.75</ele></trkpt>
+   <trkpt lat="47.485458" lon="7.591815"><ele>306.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

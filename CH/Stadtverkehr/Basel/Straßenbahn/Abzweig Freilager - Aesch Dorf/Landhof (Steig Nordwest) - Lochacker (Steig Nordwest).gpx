@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 494 filtered ascend = 0 plain-ascend = 0 cost=988 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Landhof (Steig Nordwest) - Lochacker (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.49759/7.59597/osm-mapnik-german_style&amp;lonlats=7.599551,47.501294;7.595769,47.497672&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.501289" lon="7.599558"><ele>299</ele></trkpt>
+   <trkpt lat="47.501249" lon="7.599515"><ele>299</ele></trkpt>
+   <trkpt lat="47.500676" lon="7.598923"><ele>298.5</ele></trkpt>
+   <trkpt lat="47.499432" lon="7.597606"><ele>299</ele></trkpt>
+   <trkpt lat="47.498723" lon="7.596865"><ele>298.75</ele></trkpt>
+   <trkpt lat="47.498038" lon="7.596151"><ele>299</ele></trkpt>
+   <trkpt lat="47.497671" lon="7.595767"><ele>298.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

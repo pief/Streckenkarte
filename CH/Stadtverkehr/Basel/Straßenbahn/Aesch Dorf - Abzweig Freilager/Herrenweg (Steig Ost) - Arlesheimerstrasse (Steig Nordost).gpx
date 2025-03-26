@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 595 filtered ascend = 0 plain-ascend = -2 cost=1190 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Herrenweg (Steig Ost) - Arlesheimerstrasse (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.47856/7.59495/osm-mapnik-german_style&amp;lonlats=7.596969,47.473511;7.595032,47.47869&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.47351" lon="7.596963"><ele>314</ele></trkpt>
+   <trkpt lat="47.473566" lon="7.596958"><ele>314</ele></trkpt>
+   <trkpt lat="47.47368" lon="7.596944"><ele>313.75</ele></trkpt>
+   <trkpt lat="47.47465" lon="7.596806"><ele>313</ele></trkpt>
+   <trkpt lat="47.475062" lon="7.5967"><ele>312.5</ele></trkpt>
+   <trkpt lat="47.475503" lon="7.596553"><ele>312.25</ele></trkpt>
+   <trkpt lat="47.476481" lon="7.596083"><ele>312</ele></trkpt>
+   <trkpt lat="47.478672" lon="7.595043"><ele>311</ele></trkpt>
+   <trkpt lat="47.47869" lon="7.595034"><ele>311</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

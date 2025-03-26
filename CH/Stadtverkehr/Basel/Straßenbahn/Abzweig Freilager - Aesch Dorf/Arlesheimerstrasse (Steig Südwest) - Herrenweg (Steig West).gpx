@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 611 filtered ascend = 3 plain-ascend = 3 cost=1222 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Arlesheimerstrasse (Steig Südwest) - Herrenweg (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.47374/7.59734/osm-mapnik-german_style&amp;lonlats=7.594801,47.479086;7.596896,47.473794&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.479084" lon="7.594793"><ele>310.75</ele></trkpt>
+   <trkpt lat="47.479075" lon="7.594798"><ele>311</ele></trkpt>
+   <trkpt lat="47.478881" lon="7.594889"><ele>311</ele></trkpt>
+   <trkpt lat="47.478767" lon="7.594942"><ele>311</ele></trkpt>
+   <trkpt lat="47.476469" lon="7.59603"><ele>312</ele></trkpt>
+   <trkpt lat="47.475491" lon="7.596491"><ele>312.25</ele></trkpt>
+   <trkpt lat="47.475057" lon="7.596656"><ele>312.75</ele></trkpt>
+   <trkpt lat="47.474648" lon="7.596762"><ele>313</ele></trkpt>
+   <trkpt lat="47.473836" lon="7.596889"><ele>313.5</ele></trkpt>
+   <trkpt lat="47.473793" lon="7.596893"><ele>313.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

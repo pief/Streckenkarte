@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Surbaum (Steig West) - Abzweig Wendeschleife Surbaum Weiche 753</name>
+  <link href="https://bikerouter.de/#map=19/47.50630/7.60224/osm-mapnik-german_style&amp;lonlats=7.602072,47.506453;7.602067,47.506423&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.506451" lon="7.602072"><ele>296.25</ele></trkpt>
+   <trkpt lat="47.506426" lon="7.602071"><ele>296.25</ele></trkpt>
+   <trkpt lat="47.506422" lon="7.602069"><ele>296.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

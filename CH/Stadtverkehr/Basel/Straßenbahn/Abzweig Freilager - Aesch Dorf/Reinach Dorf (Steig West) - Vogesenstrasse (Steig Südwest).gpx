@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 465 filtered ascend = 2 plain-ascend = 2 cost=930 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Reinach Dorf (Steig West) - Vogesenstrasse (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.48826/7.59073/osm-mapnik-german_style&amp;lonlats=7.589308,47.492277;7.590486,47.488224&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.492276" lon="7.589306"><ele>304</ele></trkpt>
+   <trkpt lat="47.492049" lon="7.589315"><ele>304</ele></trkpt>
+   <trkpt lat="47.491963" lon="7.589319"><ele>304</ele></trkpt>
+   <trkpt lat="47.491892" lon="7.589323"><ele>304</ele></trkpt>
+   <trkpt lat="47.491464" lon="7.589335"><ele>304.25</ele></trkpt>
+   <trkpt lat="47.491197" lon="7.589331"><ele>304.25</ele></trkpt>
+   <trkpt lat="47.490859" lon="7.589353"><ele>304.75</ele></trkpt>
+   <trkpt lat="47.490808" lon="7.589365"><ele>305</ele></trkpt>
+   <trkpt lat="47.490623" lon="7.589426"><ele>305</ele></trkpt>
+   <trkpt lat="47.490521" lon="7.589471"><ele>305</ele></trkpt>
+   <trkpt lat="47.490164" lon="7.589656"><ele>305</ele></trkpt>
+   <trkpt lat="47.48917" lon="7.59013"><ele>305.75</ele></trkpt>
+   <trkpt lat="47.489023" lon="7.590175"><ele>306</ele></trkpt>
+   <trkpt lat="47.488693" lon="7.590252"><ele>306</ele></trkpt>
+   <trkpt lat="47.488656" lon="7.590269"><ele>306</ele></trkpt>
+   <trkpt lat="47.488543" lon="7.590319"><ele>306</ele></trkpt>
+   <trkpt lat="47.488226" lon="7.590486"><ele>306</ele></trkpt>
+   <trkpt lat="47.488224" lon="7.590486"><ele>306</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
