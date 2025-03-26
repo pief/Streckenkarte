@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 232 filtered ascend = 0 plain-ascend = 1 cost=464 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreispitz (Steig Südwest) - Abzweig Tramdepot Ruchfeld Weiche 701</name>
+  <link href="https://bikerouter.de/#map=19/47.53511/7.61152/osm-mapnik-german_style&amp;lonlats=7.608494,47.537198;7.61025,47.535493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.537198" lon="7.608494"><ele>284</ele></trkpt>
+   <trkpt lat="47.537176" lon="7.608524"><ele>284</ele></trkpt>
+   <trkpt lat="47.537089" lon="7.608636"><ele>284</ele></trkpt>
+   <trkpt lat="47.536773" lon="7.609058"><ele>284</ele></trkpt>
+   <trkpt lat="47.536698" lon="7.609143"><ele>284</ele></trkpt>
+   <trkpt lat="47.536574" lon="7.609277"><ele>284.25</ele></trkpt>
+   <trkpt lat="47.536015" lon="7.609821"><ele>284.5</ele></trkpt>
+   <trkpt lat="47.535638" lon="7.610151"><ele>284.75</ele></trkpt>
+   <trkpt lat="47.535494" lon="7.610253"><ele>284.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

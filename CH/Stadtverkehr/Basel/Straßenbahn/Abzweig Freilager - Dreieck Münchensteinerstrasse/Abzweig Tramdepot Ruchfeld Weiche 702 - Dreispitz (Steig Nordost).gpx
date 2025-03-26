@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 281 filtered ascend = 0 plain-ascend = 0 cost=562 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abzweig Tramdepot Ruchfeld Weiche 702 - Dreispitz (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.53736/7.60921/osm-mapnik-german_style&amp;lonlats=7.610296,47.535486;7.608134,47.537514&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.535488" lon="7.610302"><ele>284.75</ele></trkpt>
+   <trkpt lat="47.535645" lon="7.610187"><ele>284.75</ele></trkpt>
+   <trkpt lat="47.536028" lon="7.609845"><ele>284.5</ele></trkpt>
+   <trkpt lat="47.536591" lon="7.609305"><ele>284.25</ele></trkpt>
+   <trkpt lat="47.536705" lon="7.60918"><ele>284</ele></trkpt>
+   <trkpt lat="47.537102" lon="7.608667"><ele>284</ele></trkpt>
+   <trkpt lat="47.537176" lon="7.60857"><ele>284</ele></trkpt>
+   <trkpt lat="47.537515" lon="7.608136"><ele>284</ele></trkpt>
+   <trkpt lat="47.537515" lon="7.608135"><ele>284</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 212 filtered ascend = 0 plain-ascend = 0 cost=424 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Dreispitz (Steig Nordost) - MParc (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.53910/7.60731/osm-mapnik-german_style&amp;lonlats=7.608134,47.537514;7.606441,47.539024&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.537515" lon="7.608135"><ele>284</ele></trkpt>
+   <trkpt lat="47.537612" lon="7.608017"><ele>284</ele></trkpt>
+   <trkpt lat="47.538068" lon="7.607495"><ele>284</ele></trkpt>
+   <trkpt lat="47.538682" lon="7.606824"><ele>283.5</ele></trkpt>
+   <trkpt lat="47.538759" lon="7.60674"><ele>283.25</ele></trkpt>
+   <trkpt lat="47.539024" lon="7.60645"><ele>283</ele></trkpt>
+   <trkpt lat="47.539026" lon="7.606447"><ele>283</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

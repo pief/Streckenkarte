@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 634 filtered ascend = 0 plain-ascend = -2 cost=1268 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Üst MParc Weiche Nord - Münchensteinerstrasse (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.54268/7.60163/osm-mapnik-german_style&amp;lonlats=7.605967,47.539524;7.599681,47.543222&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.539524" lon="7.605967"><ele>282</ele></trkpt>
+   <trkpt lat="47.540269" lon="7.605262"><ele>282</ele></trkpt>
+   <trkpt lat="47.540485" lon="7.605045"><ele>280.5</ele></trkpt>
+   <trkpt lat="47.54067" lon="7.604793"><ele>279.5</ele></trkpt>
+   <trkpt lat="47.540822" lon="7.604557"><ele>280</ele></trkpt>
+   <trkpt lat="47.541094" lon="7.603987"><ele>279.5</ele></trkpt>
+   <trkpt lat="47.541453" lon="7.603178"><ele>279.5</ele></trkpt>
+   <trkpt lat="47.541801" lon="7.602478"><ele>278.75</ele></trkpt>
+   <trkpt lat="47.543221" lon="7.599684"><ele>278.25</ele></trkpt>
+   <trkpt lat="47.543222" lon="7.599681"><ele>279</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

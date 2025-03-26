@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 108 filtered ascend = 0 plain-ascend = 0 cost=216 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Abzweig Tramdepot Ruchfeld Weiche 710 - Abzweig Tramdepot Ruchfeld Weiche 702</name>
+  <link href="https://bikerouter.de/#map=19/47.53539/7.61077/osm-mapnik-german_style&amp;lonlats=7.610857,47.534608;7.610296,47.535486&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.534608" lon="7.61086"><ele>285.25</ele></trkpt>
+   <trkpt lat="47.534609" lon="7.61086"><ele>285.25</ele></trkpt>
+   <trkpt lat="47.534866" lon="7.6107"><ele>285</ele></trkpt>
+   <trkpt lat="47.535187" lon="7.610498"><ele>284.25</ele></trkpt>
+   <trkpt lat="47.535487" lon="7.610303"><ele>284.75</ele></trkpt>
+   <trkpt lat="47.535488" lon="7.610302"><ele>284.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

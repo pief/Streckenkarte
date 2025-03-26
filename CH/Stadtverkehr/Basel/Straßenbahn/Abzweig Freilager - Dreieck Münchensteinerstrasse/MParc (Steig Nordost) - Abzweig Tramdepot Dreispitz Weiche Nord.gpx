@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>MParc (Steig Nordost) - Abzweig Tramdepot Dreispitz Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=19/47.53985/7.60595/osm-mapnik-german_style&amp;lonlats=7.606441,47.539024;7.60612,47.539361&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.539026" lon="7.606447"><ele>283</ele></trkpt>
+   <trkpt lat="47.539094" lon="7.606378"><ele>283</ele></trkpt>
+   <trkpt lat="47.539314" lon="7.606164"><ele>283</ele></trkpt>
+   <trkpt lat="47.539356" lon="7.606126"><ele>283</ele></trkpt>
+   <trkpt lat="47.539361" lon="7.60612"><ele>282.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
