@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 155 filtered ascend = 2 plain-ascend = 2 cost=310 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Birseckstraße (Steig Südwest) - Zollweiden (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/47.52352/7.61738/osm-mapnik-german_style&amp;lonlats=7.61642,47.524751;7.617069,47.523432&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.524751" lon="7.61642"><ele>274</ele></trkpt>
+   <trkpt lat="47.524696" lon="7.616449"><ele>274</ele></trkpt>
+   <trkpt lat="47.524399" lon="7.616632"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.524162" lon="7.616761"><ele>275.25</ele></trkpt>
+   <trkpt lat="47.523957" lon="7.616854"><ele>275.75</ele></trkpt>
+   <trkpt lat="47.523584" lon="7.617005"><ele>276</ele></trkpt>
+   <trkpt lat="47.523431" lon="7.617067"><ele>276</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

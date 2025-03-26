@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 140 filtered ascend = 3 plain-ascend = 1 cost=280 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Stollenrain (Steig Südost) - Üst Stollenrain Weiche 744</name>
+  <link href="https://bikerouter.de/#map=19/47.49433/7.61178/osm-mapnik-german_style&amp;lonlats=7.611662,47.49327;7.612376,47.494417&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.493271" lon="7.611652"><ele>304</ele></trkpt>
+   <trkpt lat="47.493336" lon="7.611694"><ele>304</ele></trkpt>
+   <trkpt lat="47.493619" lon="7.611865"><ele>305.25</ele></trkpt>
+   <trkpt lat="47.494224" lon="7.612275"><ele>307</ele></trkpt>
+   <trkpt lat="47.494419" lon="7.612378"><ele>307.5</ele></trkpt>
+   <trkpt lat="47.494416" lon="7.612375"><ele>305</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

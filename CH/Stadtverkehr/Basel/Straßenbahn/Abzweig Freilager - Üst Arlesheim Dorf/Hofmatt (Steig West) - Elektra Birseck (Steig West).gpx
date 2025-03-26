@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 409 filtered ascend = 0 plain-ascend = -2 cost=818 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Hofmatt (Steig West) - Elektra Birseck (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.51577/7.61950/osm-mapnik-german_style&amp;lonlats=7.618306,47.519556;7.619057,47.515914&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.519555" lon="7.6183"><ele>275.5</ele></trkpt>
+   <trkpt lat="47.519429" lon="7.618333"><ele>275</ele></trkpt>
+   <trkpt lat="47.519308" lon="7.618367"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.518821" lon="7.618498"><ele>272.5</ele></trkpt>
+   <trkpt lat="47.518812" lon="7.6185"><ele>272.25</ele></trkpt>
+   <trkpt lat="47.517744" lon="7.618735"><ele>271</ele></trkpt>
+   <trkpt lat="47.516494" lon="7.619004"><ele>274.25</ele></trkpt>
+   <trkpt lat="47.51637" lon="7.619021"><ele>274.25</ele></trkpt>
+   <trkpt lat="47.516026" lon="7.619042"><ele>274</ele></trkpt>
+   <trkpt lat="47.515914" lon="7.619063"><ele>273</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

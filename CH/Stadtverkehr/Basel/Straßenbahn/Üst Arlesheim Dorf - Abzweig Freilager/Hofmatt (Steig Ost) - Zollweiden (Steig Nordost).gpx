@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 464 filtered ascend = 2 plain-ascend = 2 cost=930 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Hofmatt (Steig Ost) - Zollweiden (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/47.52311/7.61710/osm-mapnik-german_style&amp;lonlats=7.618432,47.519211;7.617163,47.52329&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.519211" lon="7.618432"><ele>274.5</ele></trkpt>
+   <trkpt lat="47.519313" lon="7.618405"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.519433" lon="7.618371"><ele>274.75</ele></trkpt>
+   <trkpt lat="47.520151" lon="7.618193"><ele>276.5</ele></trkpt>
+   <trkpt lat="47.520318" lon="7.618155"><ele>276.5</ele></trkpt>
+   <trkpt lat="47.521238" lon="7.617953"><ele>277</ele></trkpt>
+   <trkpt lat="47.521488" lon="7.617887"><ele>277</ele></trkpt>
+   <trkpt lat="47.521708" lon="7.617807"><ele>277</ele></trkpt>
+   <trkpt lat="47.522413" lon="7.617518"><ele>276.75</ele></trkpt>
+   <trkpt lat="47.523145" lon="7.617221"><ele>276</ele></trkpt>
+   <trkpt lat="47.52329" lon="7.617163"><ele>276</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

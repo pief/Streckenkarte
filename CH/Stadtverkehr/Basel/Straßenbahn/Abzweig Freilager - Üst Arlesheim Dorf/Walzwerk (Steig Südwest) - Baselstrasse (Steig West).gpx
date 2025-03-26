@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 635 filtered ascend = 22 plain-ascend = 23 cost=1270 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.11">
+ <trk>
+  <name>Walzwerk (Steig Südwest) - Baselstrasse (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/47.50163/7.61937/osm-mapnik-german_style&amp;lonlats=7.61771,47.507396;7.618965,47.501797&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.507393" lon="7.617703"><ele>288.5</ele></trkpt>
+   <trkpt lat="47.507329" lon="7.617763"><ele>289.25</ele></trkpt>
+   <trkpt lat="47.507158" lon="7.617897"><ele>291.25</ele></trkpt>
+   <trkpt lat="47.507052" lon="7.617956"><ele>291.75</ele></trkpt>
+   <trkpt lat="47.506931" lon="7.618006"><ele>291.5</ele></trkpt>
+   <trkpt lat="47.50561" lon="7.618404"><ele>297</ele></trkpt>
+   <trkpt lat="47.505314" lon="7.618483"><ele>297.25</ele></trkpt>
+   <trkpt lat="47.505041" lon="7.618531"><ele>297.5</ele></trkpt>
+   <trkpt lat="47.504864" lon="7.618545"><ele>298.25</ele></trkpt>
+   <trkpt lat="47.504145" lon="7.618533"><ele>301.75</ele></trkpt>
+   <trkpt lat="47.50399" lon="7.61854"><ele>302.25</ele></trkpt>
+   <trkpt lat="47.503732" lon="7.618579"><ele>302.75</ele></trkpt>
+   <trkpt lat="47.50222" lon="7.618886"><ele>308.75</ele></trkpt>
+   <trkpt lat="47.501812" lon="7.618965"><ele>310.75</ele></trkpt>
+   <trkpt lat="47.501797" lon="7.618967"><ele>311</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
