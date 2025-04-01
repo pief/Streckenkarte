@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 620 filtered ascend = 0 plain-ascend = 0 cost=1240 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Borgo - Giuffrida</name>
+  <link href="https://bikerouter.de/#map=19/37.52156/15.08540/osm-mapnik-german_style&amp;lonlats=15.084684,37.52176;15.090816,37.520093&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="37.521766" lon="15.084682"/>
+   <trkpt lat="37.521836" lon="15.087073"/>
+   <trkpt lat="37.521843" lon="15.087517"/>
+   <trkpt lat="37.521829" lon="15.087919"/>
+   <trkpt lat="37.521803" lon="15.088402"/>
+   <trkpt lat="37.521725" lon="15.0887"/>
+   <trkpt lat="37.521641" lon="15.088914"/>
+   <trkpt lat="37.521556" lon="15.089088"/>
+   <trkpt lat="37.521472" lon="15.089229"/>
+   <trkpt lat="37.520109" lon="15.09081"/>
+   <trkpt lat="37.520098" lon="15.090822"/>
+  </trkseg>
+ </trk>
+</gpx>
