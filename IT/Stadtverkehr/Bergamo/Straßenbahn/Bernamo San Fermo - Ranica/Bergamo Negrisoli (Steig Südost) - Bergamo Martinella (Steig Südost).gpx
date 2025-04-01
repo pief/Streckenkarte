@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 424 filtered ascend = 4 plain-ascend = 4 cost=424 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Bergamo Negrisoli (Steig Südost) - Bergamo Martinella (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/45.71213/9.70232/osm-mapnik-german_style&amp;lonlats=9.697753,45.710252;9.702237,45.712395&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.710251" lon="9.697752"><ele>270</ele></trkpt>
+   <trkpt lat="45.710318" lon="9.697878"><ele>270</ele></trkpt>
+   <trkpt lat="45.710726" lon="9.698643"><ele>270.5</ele></trkpt>
+   <trkpt lat="45.711124" lon="9.699335"><ele>271</ele></trkpt>
+   <trkpt lat="45.711337" lon="9.69974"><ele>271.75</ele></trkpt>
+   <trkpt lat="45.711366" lon="9.699795"><ele>271.75</ele></trkpt>
+   <trkpt lat="45.711399" lon="9.699849"><ele>271.75</ele></trkpt>
+   <trkpt lat="45.711816" lon="9.700597"><ele>273</ele></trkpt>
+   <trkpt lat="45.711917" lon="9.70081"><ele>273</ele></trkpt>
+   <trkpt lat="45.712004" lon="9.701023"><ele>273.5</ele></trkpt>
+   <trkpt lat="45.712152" lon="9.701458"><ele>272.5</ele></trkpt>
+   <trkpt lat="45.712383" lon="9.70218"><ele>273.75</ele></trkpt>
+   <trkpt lat="45.7124" lon="9.702232"><ele>274.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

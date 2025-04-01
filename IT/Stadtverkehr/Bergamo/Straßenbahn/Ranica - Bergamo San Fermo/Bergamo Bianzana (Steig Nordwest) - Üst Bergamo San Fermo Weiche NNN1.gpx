@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 438 filtered ascend = 0 plain-ascend = -3 cost=438 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Bergamo Bianzana (Steig Nordwest) - Üst Bergamo San Fermo Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=18/45.70111/9.68772/osm-mapnik-german_style&amp;lonlats=9.68995,45.705178;9.687774,45.701545&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.705178" lon="9.68995"><ele>262</ele></trkpt>
+   <trkpt lat="45.703726" lon="9.689115"><ele>260.75</ele></trkpt>
+   <trkpt lat="45.703229" lon="9.688801"><ele>259.5</ele></trkpt>
+   <trkpt lat="45.702073" lon="9.68804"><ele>258.25</ele></trkpt>
+   <trkpt lat="45.701799" lon="9.687888"><ele>258.5</ele></trkpt>
+   <trkpt lat="45.701544" lon="9.687773"><ele>258.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

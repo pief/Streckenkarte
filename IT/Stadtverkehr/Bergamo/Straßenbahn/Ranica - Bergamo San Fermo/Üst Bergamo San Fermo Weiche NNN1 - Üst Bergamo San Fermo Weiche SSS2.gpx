@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 39 filtered ascend = 0 plain-ascend = 0 cost=39 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Üst Bergamo San Fermo Weiche NNN1 - Üst Bergamo San Fermo Weiche SSS2</name>
+  <link href="https://bikerouter.de/#map=19/45.70121/9.68804/osm-mapnik-german_style&amp;lonlats=9.687774,45.701545;9.687694,45.701378;9.687624,45.701212&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.701544" lon="9.687773"><ele>258.5</ele></trkpt>
+   <trkpt lat="45.701542" lon="9.687772"><ele>258.5</ele></trkpt>
+   <trkpt lat="45.701375" lon="9.6877"><ele>258</ele></trkpt>
+   <trkpt lat="45.701216" lon="9.687632"><ele>258</ele></trkpt>
+   <trkpt lat="45.701209" lon="9.687629"><ele>258</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

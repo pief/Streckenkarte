@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1002 filtered ascend = 0 plain-ascend = -8 cost=1002 energy=0.0kwh time=1m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Üst Pradalunga Weiche West - Nembro Saletti (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/45.74452/9.76859/osm-mapnik-german_style&amp;lonlats=9.778916,45.749573;9.768406,45.744414&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.749567" lon="9.778919"><ele>312</ele></trkpt>
+   <trkpt lat="45.749563" lon="9.778909"><ele>312</ele></trkpt>
+   <trkpt lat="45.749505" lon="9.778769"><ele>311.5</ele></trkpt>
+   <trkpt lat="45.747931" lon="9.77495"><ele>309</ele></trkpt>
+   <trkpt lat="45.747588" lon="9.774105"><ele>308</ele></trkpt>
+   <trkpt lat="45.747369" lon="9.773608"><ele>307</ele></trkpt>
+   <trkpt lat="45.747217" lon="9.773284"><ele>306.75</ele></trkpt>
+   <trkpt lat="45.747016" lon="9.772888"><ele>306.25</ele></trkpt>
+   <trkpt lat="45.746802" lon="9.772502"><ele>306.5</ele></trkpt>
+   <trkpt lat="45.744717" lon="9.768932"><ele>303.75</ele></trkpt>
+   <trkpt lat="45.744687" lon="9.768879"><ele>303.75</ele></trkpt>
+   <trkpt lat="45.744421" lon="9.768423"><ele>303.25</ele></trkpt>
+   <trkpt lat="45.744412" lon="9.768407"><ele>303.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

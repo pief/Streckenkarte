@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 360 filtered ascend = 1 plain-ascend = -3 cost=360 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Bergamo Redona (Steig Nordwest) - Bergamo Bianzana (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/45.70523/9.69078/osm-mapnik-german_style&amp;lonlats=9.692822,45.707617;9.689942,45.705181&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.707616" lon="9.692821"><ele>265.75</ele></trkpt>
+   <trkpt lat="45.707612" lon="9.692814"><ele>265.75</ele></trkpt>
+   <trkpt lat="45.707548" lon="9.692697"><ele>266.25</ele></trkpt>
+   <trkpt lat="45.707522" lon="9.692651"><ele>266.75</ele></trkpt>
+   <trkpt lat="45.707507" lon="9.692623"><ele>267</ele></trkpt>
+   <trkpt lat="45.707386" lon="9.692408"><ele>267</ele></trkpt>
+   <trkpt lat="45.706826" lon="9.691365"><ele>264</ele></trkpt>
+   <trkpt lat="45.706658" lon="9.691093"><ele>264</ele></trkpt>
+   <trkpt lat="45.70657" lon="9.690976"><ele>264</ele></trkpt>
+   <trkpt lat="45.706385" lon="9.690759"><ele>263.75</ele></trkpt>
+   <trkpt lat="45.706189" lon="9.690575"><ele>263.25</ele></trkpt>
+   <trkpt lat="45.706088" lon="9.69049"><ele>263</ele></trkpt>
+   <trkpt lat="45.705777" lon="9.69029"><ele>263</ele></trkpt>
+   <trkpt lat="45.705735" lon="9.690266"><ele>262.75</ele></trkpt>
+   <trkpt lat="45.705689" lon="9.69024"><ele>262.75</ele></trkpt>
+   <trkpt lat="45.705178" lon="9.68995"><ele>262</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

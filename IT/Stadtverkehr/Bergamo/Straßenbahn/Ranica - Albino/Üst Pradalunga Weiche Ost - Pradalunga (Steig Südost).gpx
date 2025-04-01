@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 190 filtered ascend = 2 plain-ascend = 3 cost=190 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Üst Pradalunga Weiche Ost - Pradalunga (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=18/45.75066/9.78109/osm-mapnik-german_style&amp;lonlats=9.779259,45.749674;9.781302,45.750609&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.749673" lon="9.779258"><ele>311.75</ele></trkpt>
+   <trkpt lat="45.749835" lon="9.779639"><ele>311.5</ele></trkpt>
+   <trkpt lat="45.750085" lon="9.780202"><ele>313</ele></trkpt>
+   <trkpt lat="45.750231" lon="9.780515"><ele>313.5</ele></trkpt>
+   <trkpt lat="45.750265" lon="9.780585"><ele>313.75</ele></trkpt>
+   <trkpt lat="45.750588" lon="9.781258"><ele>313.5</ele></trkpt>
+   <trkpt lat="45.750608" lon="9.781301"><ele>314.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

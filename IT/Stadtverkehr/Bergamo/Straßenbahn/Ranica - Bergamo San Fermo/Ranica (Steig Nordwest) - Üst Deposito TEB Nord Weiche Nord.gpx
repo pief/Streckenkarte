@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 525 filtered ascend = 4 plain-ascend = 1 cost=525 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Ranica (Steig Nordwest) - Üst Deposito TEB Nord Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/45.71924/9.71697/osm-mapnik-german_style&amp;lonlats=9.72075,45.72248;9.716222,45.718962&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.722479" lon="9.720749"><ele>282.75</ele></trkpt>
+   <trkpt lat="45.722452" lon="9.720713"><ele>283</ele></trkpt>
+   <trkpt lat="45.722403" lon="9.720649"><ele>283.25</ele></trkpt>
+   <trkpt lat="45.722353" lon="9.720583"><ele>283.5</ele></trkpt>
+   <trkpt lat="45.722305" lon="9.720522"><ele>283.5</ele></trkpt>
+   <trkpt lat="45.722238" lon="9.720434"><ele>283.75</ele></trkpt>
+   <trkpt lat="45.721933" lon="9.720044"><ele>285</ele></trkpt>
+   <trkpt lat="45.721453" lon="9.719396"><ele>287</ele></trkpt>
+   <trkpt lat="45.721135" lon="9.719023"><ele>286</ele></trkpt>
+   <trkpt lat="45.720205" lon="9.71784"><ele>286</ele></trkpt>
+   <trkpt lat="45.720176" lon="9.717802"><ele>286</ele></trkpt>
+   <trkpt lat="45.719981" lon="9.717551"><ele>285.75</ele></trkpt>
+   <trkpt lat="45.71897" lon="9.716235"><ele>284</ele></trkpt>
+   <trkpt lat="45.71896" lon="9.716222"><ele>284</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
