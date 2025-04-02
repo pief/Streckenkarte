@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 104 filtered ascend = 0 plain-ascend = 0 cost=208 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Traberweg (Steig Südost) - Dreieck Treskowallee/Ehrlichstraße Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/52.47826/13.52404/osm-mapnik-german_style&amp;lonlats=13.52389,52.477357;13.524484,52.478219&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.477356" lon="13.523889"><ele>35</ele></trkpt>
+   <trkpt lat="52.477427" lon="13.523965"><ele>35</ele></trkpt>
+   <trkpt lat="52.477587" lon="13.524119"><ele>35</ele></trkpt>
+   <trkpt lat="52.477753" lon="13.524247"><ele>35</ele></trkpt>
+   <trkpt lat="52.477945" lon="13.524365"><ele>35</ele></trkpt>
+   <trkpt lat="52.478217" lon="13.524484"><ele>35</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
