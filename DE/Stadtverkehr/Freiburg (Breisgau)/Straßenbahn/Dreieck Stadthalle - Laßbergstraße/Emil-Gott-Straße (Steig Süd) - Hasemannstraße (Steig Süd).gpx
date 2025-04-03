@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 383 filtered ascend = 5 plain-ascend = 6 cost=766 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Emil-Gott-Straße (Steig Süd) - Hasemannstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=17/47.98662/7.88549/osm-mapnik-german_style&amp;lonlats=7.879581,47.98709;7.88464,47.986654&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.987096" lon="7.879581"><ele>299</ele></trkpt>
+   <trkpt lat="47.987096" lon="7.879588"><ele>299</ele></trkpt>
+   <trkpt lat="47.987086" lon="7.879832"><ele>299.5</ele></trkpt>
+   <trkpt lat="47.987073" lon="7.880116"><ele>300</ele></trkpt>
+   <trkpt lat="47.987024" lon="7.880696"><ele>300</ele></trkpt>
+   <trkpt lat="47.986915" lon="7.881802"><ele>301</ele></trkpt>
+   <trkpt lat="47.986827" lon="7.882875"><ele>302.25</ele></trkpt>
+   <trkpt lat="47.986712" lon="7.884091"><ele>303.75</ele></trkpt>
+   <trkpt lat="47.986666" lon="7.884476"><ele>304</ele></trkpt>
+   <trkpt lat="47.98665" lon="7.884637"><ele>304</ele></trkpt>
+   <trkpt lat="47.986649" lon="7.884638"><ele>304.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 0 plain-ascend = -2 cost=700 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Emil-Gott-Straße (Steig Nord) - Dreieck Stadthalle Weiche 310</name>
+  <link href="https://bikerouter.de/#map=19/47.98815/7.87421/osm-mapnik-german_style&amp;lonlats=7.878104,47.987099;7.873724,47.98794&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.9871" lon="7.878102"><ele>298</ele></trkpt>
+   <trkpt lat="47.987063" lon="7.877591"><ele>298</ele></trkpt>
+   <trkpt lat="47.987076" lon="7.877335"><ele>298</ele></trkpt>
+   <trkpt lat="47.98723" lon="7.876416"><ele>297</ele></trkpt>
+   <trkpt lat="47.987357" lon="7.875994"><ele>297.25</ele></trkpt>
+   <trkpt lat="47.987507" lon="7.87552"><ele>296</ele></trkpt>
+   <trkpt lat="47.987543" lon="7.87543"><ele>296.5</ele></trkpt>
+   <trkpt lat="47.98761" lon="7.87528"><ele>296.75</ele></trkpt>
+   <trkpt lat="47.987732" lon="7.875082"><ele>296.25</ele></trkpt>
+   <trkpt lat="47.987823" lon="7.874913"><ele>295.75</ele></trkpt>
+   <trkpt lat="47.987858" lon="7.874807"><ele>295.75</ele></trkpt>
+   <trkpt lat="47.987869" lon="7.874746"><ele>295.5</ele></trkpt>
+   <trkpt lat="47.987885" lon="7.874248"><ele>295.5</ele></trkpt>
+   <trkpt lat="47.98791" lon="7.874012"><ele>294.75</ele></trkpt>
+   <trkpt lat="47.987922" lon="7.873866"><ele>294.25</ele></trkpt>
+   <trkpt lat="47.987935" lon="7.873731"><ele>294.5</ele></trkpt>
+   <trkpt lat="47.987935" lon="7.873722"><ele>294.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

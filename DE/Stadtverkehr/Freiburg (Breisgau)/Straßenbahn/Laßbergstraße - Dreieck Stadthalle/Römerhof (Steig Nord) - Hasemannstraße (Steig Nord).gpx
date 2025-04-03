@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 389 filtered ascend = 0 plain-ascend = -5 cost=778 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Römerhof (Steig Nord) - Hasemannstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/47.98669/7.88488/osm-mapnik-german_style&amp;lonlats=7.888387,47.986207;7.88327,47.986816&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.986203" lon="7.888385"><ele>308</ele></trkpt>
+   <trkpt lat="47.986207" lon="7.888367"><ele>308</ele></trkpt>
+   <trkpt lat="47.986258" lon="7.88806"><ele>308</ele></trkpt>
+   <trkpt lat="47.98627" lon="7.887994"><ele>308</ele></trkpt>
+   <trkpt lat="47.986348" lon="7.887509"><ele>307</ele></trkpt>
+   <trkpt lat="47.986411" lon="7.886997"><ele>307</ele></trkpt>
+   <trkpt lat="47.986481" lon="7.886416"><ele>306</ele></trkpt>
+   <trkpt lat="47.986529" lon="7.886004"><ele>306</ele></trkpt>
+   <trkpt lat="47.986647" lon="7.884984"><ele>304.75</ele></trkpt>
+   <trkpt lat="47.98674" lon="7.884103"><ele>303.75</ele></trkpt>
+   <trkpt lat="47.986754" lon="7.883988"><ele>303.75</ele></trkpt>
+   <trkpt lat="47.986818" lon="7.883275"><ele>303</ele></trkpt>
+   <trkpt lat="47.986818" lon="7.88327"><ele>302.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

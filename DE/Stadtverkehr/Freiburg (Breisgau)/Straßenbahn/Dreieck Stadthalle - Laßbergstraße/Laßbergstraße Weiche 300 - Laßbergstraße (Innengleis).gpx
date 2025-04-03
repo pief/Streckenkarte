@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 0 plain-ascend = 0 cost=146 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Laßbergstraße Weiche 300 - Laßbergstraße (Innengleis)</name>
+  <link href="https://bikerouter.de/#map=19/47.98460/7.89528/osm-mapnik-german_style&amp;lonlats=7.894141,47.984109;7.893674,47.984586&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.984108" lon="7.89414"><ele>314</ele></trkpt>
+   <trkpt lat="47.984112" lon="7.894063"><ele>314</ele></trkpt>
+   <trkpt lat="47.98413" lon="7.893975"><ele>314</ele></trkpt>
+   <trkpt lat="47.98416" lon="7.893895"><ele>314</ele></trkpt>
+   <trkpt lat="47.984219" lon="7.893792"><ele>313.5</ele></trkpt>
+   <trkpt lat="47.984278" lon="7.893729"><ele>313.25</ele></trkpt>
+   <trkpt lat="47.984357" lon="7.893682"><ele>313</ele></trkpt>
+   <trkpt lat="47.984441" lon="7.893666"><ele>313</ele></trkpt>
+   <trkpt lat="47.984583" lon="7.893674"><ele>313</ele></trkpt>
+   <trkpt lat="47.984584" lon="7.893674"><ele>313</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
