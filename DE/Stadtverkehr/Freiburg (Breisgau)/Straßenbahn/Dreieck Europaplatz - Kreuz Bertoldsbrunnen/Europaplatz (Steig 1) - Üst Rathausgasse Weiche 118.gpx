@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 1 plain-ascend = 2 cost=496 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Europaplatz (Steig 1) - Üst Rathausgasse Weiche 118</name>
+  <link href="https://bikerouter.de/#map=19/47.99543/7.85065/osm-mapnik-german_style&amp;lonlats=7.852403,47.997335;7.850493,47.995513&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.997332" lon="7.852405"><ele>276.5</ele></trkpt>
+   <trkpt lat="47.99731" lon="7.852384"><ele>276.5</ele></trkpt>
+   <trkpt lat="47.997105" lon="7.852145"><ele>277</ele></trkpt>
+   <trkpt lat="47.996688" lon="7.851754"><ele>276.75</ele></trkpt>
+   <trkpt lat="47.99643" lon="7.8515"><ele>277</ele></trkpt>
+   <trkpt lat="47.996141" lon="7.851187"><ele>277</ele></trkpt>
+   <trkpt lat="47.995515" lon="7.8505"><ele>278</ele></trkpt>
+   <trkpt lat="47.995511" lon="7.850495"><ele>278</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

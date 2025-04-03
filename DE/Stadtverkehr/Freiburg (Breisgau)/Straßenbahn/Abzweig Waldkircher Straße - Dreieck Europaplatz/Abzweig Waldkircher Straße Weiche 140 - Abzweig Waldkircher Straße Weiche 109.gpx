@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 1 plain-ascend = 2 cost=84 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Abzweig Waldkircher Straße Weiche 140 - Abzweig Waldkircher Straße Weiche 109</name>
+  <link href="https://bikerouter.de/#map=19/48.01410/7.85534/osm-mapnik-german_style&amp;lonlats=7.854967,48.014331;7.854913,48.013956&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.014329" lon="7.854973"><ele>251.75</ele></trkpt>
+   <trkpt lat="48.014323" lon="7.854972"><ele>252</ele></trkpt>
+   <trkpt lat="48.014277" lon="7.854964"><ele>252</ele></trkpt>
+   <trkpt lat="48.014252" lon="7.854961"><ele>252</ele></trkpt>
+   <trkpt lat="48.014224" lon="7.854957"><ele>252</ele></trkpt>
+   <trkpt lat="48.014119" lon="7.85494"><ele>252</ele></trkpt>
+   <trkpt lat="48.013965" lon="7.854915"><ele>252</ele></trkpt>
+   <trkpt lat="48.013955" lon="7.854912"><ele>253.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

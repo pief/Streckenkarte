@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 2 plain-ascend = 2 cost=246 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Üst Rheinstraße Weiche 112 - Dreieck Europaplatz Weiche 122</name>
+  <link href="https://bikerouter.de/#map=19/47.99809/7.85296/osm-mapnik-german_style&amp;lonlats=7.853252,47.999221;7.85291,47.998152&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.999221" lon="7.853252"><ele>273</ele></trkpt>
+   <trkpt lat="47.998995" lon="7.853189"><ele>273.75</ele></trkpt>
+   <trkpt lat="47.998581" lon="7.853032"><ele>275</ele></trkpt>
+   <trkpt lat="47.998389" lon="7.852956"><ele>275</ele></trkpt>
+   <trkpt lat="47.998307" lon="7.852932"><ele>275</ele></trkpt>
+   <trkpt lat="47.998168" lon="7.852913"><ele>275</ele></trkpt>
+   <trkpt lat="47.99815" lon="7.85291"><ele>275</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
