@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 282 filtered ascend = 0 plain-ascend = 0 cost=564 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Eisvogelstraße (Steig Süd) - Rennetal (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.14082/11.59338/osm-mapnik-german_style&amp;lonlats=11.590304,52.140113;11.594352,52.140659&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.140113" lon="11.590303"><ele>57</ele></trkpt>
+   <trkpt lat="52.140127" lon="11.590409"><ele>57</ele></trkpt>
+   <trkpt lat="52.140136" lon="11.590473"><ele>57</ele></trkpt>
+   <trkpt lat="52.140152" lon="11.590584"><ele>57</ele></trkpt>
+   <trkpt lat="52.140166" lon="11.590672"><ele>57</ele></trkpt>
+   <trkpt lat="52.140558" lon="11.59359"><ele>57</ele></trkpt>
+   <trkpt lat="52.140649" lon="11.594252"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.140662" lon="11.594349"><ele>56.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

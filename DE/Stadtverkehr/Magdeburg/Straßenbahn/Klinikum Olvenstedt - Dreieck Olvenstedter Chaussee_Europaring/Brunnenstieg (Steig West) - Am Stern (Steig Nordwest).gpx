@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 702 filtered ascend = 7 plain-ascend = 7 cost=1404 energy=0.0kwh time=56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Brunnenstieg (Steig West) - Am Stern (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.14788/11.58382/osm-mapnik-german_style&amp;lonlats=11.585812,52.153198;11.582511,52.147606&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.153197" lon="11.585809"><ele>60</ele></trkpt>
+   <trkpt lat="52.153144" lon="11.585819"><ele>60</ele></trkpt>
+   <trkpt lat="52.151435" lon="11.586058"><ele>61</ele></trkpt>
+   <trkpt lat="52.15114" lon="11.58607"><ele>61</ele></trkpt>
+   <trkpt lat="52.150864" lon="11.586035"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.150561" lon="11.585943"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.150395" lon="11.585865"><ele>61.5</ele></trkpt>
+   <trkpt lat="52.150277" lon="11.585797"><ele>62</ele></trkpt>
+   <trkpt lat="52.15022" lon="11.585762"><ele>61.75</ele></trkpt>
+   <trkpt lat="52.150102" lon="11.585682"><ele>62</ele></trkpt>
+   <trkpt lat="52.149996" lon="11.585597"><ele>62</ele></trkpt>
+   <trkpt lat="52.149842" lon="11.58546"><ele>62.5</ele></trkpt>
+   <trkpt lat="52.149755" lon="11.585371"><ele>62.75</ele></trkpt>
+   <trkpt lat="52.149669" lon="11.585278"><ele>63</ele></trkpt>
+   <trkpt lat="52.149464" lon="11.58503"><ele>63</ele></trkpt>
+   <trkpt lat="52.148053" lon="11.583114"><ele>66.75</ele></trkpt>
+   <trkpt lat="52.14761" lon="11.582514"><ele>67</ele></trkpt>
+   <trkpt lat="52.147606" lon="11.582508"><ele>67</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
