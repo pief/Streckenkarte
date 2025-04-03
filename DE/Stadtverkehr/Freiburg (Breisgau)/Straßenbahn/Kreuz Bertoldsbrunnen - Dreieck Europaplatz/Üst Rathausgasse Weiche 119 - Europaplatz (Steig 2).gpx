@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 229 filtered ascend = 0 plain-ascend = 0 cost=458 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Üst Rathausgasse Weiche 119 - Europaplatz (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/47.99634/7.85144/osm-mapnik-german_style&amp;lonlats=7.850831,47.995761;7.852592,47.997441&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.995758" lon="7.850833"><ele>277</ele></trkpt>
+   <trkpt lat="47.995925" lon="7.85102"><ele>277</ele></trkpt>
+   <trkpt lat="47.996438" lon="7.85157"><ele>277</ele></trkpt>
+   <trkpt lat="47.996734" lon="7.851864"><ele>277</ele></trkpt>
+   <trkpt lat="47.997085" lon="7.852187"><ele>277</ele></trkpt>
+   <trkpt lat="47.99725" lon="7.852376"><ele>276.75</ele></trkpt>
+   <trkpt lat="47.99744" lon="7.852591"><ele>276</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
