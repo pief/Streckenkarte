@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 79 filtered ascend = 0 plain-ascend = 0 cost=158 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.19">
+ <trk>
+  <name>Abzweig Hornusstraße Weiche NNN1 - Hornusstraße (Steig 4)</name>
+  <link href="https://bikerouter.de/#map=19/48.01584/7.85575/osm-mapnik-german_style&amp;lonlats=7.855181,48.015162;7.855437,48.015845&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.015161" lon="7.85518"><ele>251</ele></trkpt>
+   <trkpt lat="48.015167" lon="7.855182"><ele>251</ele></trkpt>
+   <trkpt lat="48.015305" lon="7.855218"><ele>250.75</ele></trkpt>
+   <trkpt lat="48.015373" lon="7.855239"><ele>250.5</ele></trkpt>
+   <trkpt lat="48.015422" lon="7.855258"><ele>250.25</ele></trkpt>
+   <trkpt lat="48.01553" lon="7.855297"><ele>250</ele></trkpt>
+   <trkpt lat="48.015678" lon="7.85536"><ele>250</ele></trkpt>
+   <trkpt lat="48.015799" lon="7.855414"><ele>250</ele></trkpt>
+   <trkpt lat="48.015844" lon="7.855434"><ele>250</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

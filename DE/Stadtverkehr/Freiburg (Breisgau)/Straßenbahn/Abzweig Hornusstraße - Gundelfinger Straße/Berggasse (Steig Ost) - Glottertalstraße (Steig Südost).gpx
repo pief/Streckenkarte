@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 495 filtered ascend = 0 plain-ascend = -5 cost=990 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.18">
+ <trk>
+  <name>Berggasse (Steig Ost) - Glottertalstraße (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.03048/7.86192/osm-mapnik-german_style&amp;lonlats=7.860298,48.02625;7.86225,48.030383&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.026248" lon="7.860298"><ele>242</ele></trkpt>
+   <trkpt lat="48.02633" lon="7.860305"><ele>242</ele></trkpt>
+   <trkpt lat="48.026637" lon="7.860337"><ele>241.75</ele></trkpt>
+   <trkpt lat="48.02679" lon="7.860354"><ele>241.5</ele></trkpt>
+   <trkpt lat="48.027058" lon="7.860378"><ele>240.75</ele></trkpt>
+   <trkpt lat="48.027111" lon="7.860382"><ele>240.5</ele></trkpt>
+   <trkpt lat="48.027655" lon="7.860432"><ele>238.75</ele></trkpt>
+   <trkpt lat="48.02817" lon="7.860494"><ele>237.75</ele></trkpt>
+   <trkpt lat="48.028234" lon="7.860509"><ele>237.75</ele></trkpt>
+   <trkpt lat="48.02847" lon="7.860638"><ele>237.5</ele></trkpt>
+   <trkpt lat="48.028557" lon="7.860695"><ele>237.5</ele></trkpt>
+   <trkpt lat="48.028742" lon="7.860843"><ele>237.75</ele></trkpt>
+   <trkpt lat="48.028944" lon="7.860981"><ele>237.25</ele></trkpt>
+   <trkpt lat="48.02944" lon="7.861362"><ele>237</ele></trkpt>
+   <trkpt lat="48.030053" lon="7.861941"><ele>236.75</ele></trkpt>
+   <trkpt lat="48.030338" lon="7.862211"><ele>236.75</ele></trkpt>
+   <trkpt lat="48.030381" lon="7.862251"><ele>236.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
