@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 460 filtered ascend = 0 plain-ascend = 0 cost=920 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Südfriedhof (Steig Nordost) - Völkerschlachtdenkmal (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.31435/12.41343/osm-mapnik-german_style&amp;lonlats=12.416836,51.311401;12.412225,51.314357&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.311397" lon="12.41683"><ele>143.75</ele></trkpt>
+   <trkpt lat="51.311402" lon="12.416823"><ele>143.75</ele></trkpt>
+   <trkpt lat="51.311521" lon="12.416641"><ele>144</ele></trkpt>
+   <trkpt lat="51.311573" lon="12.416561"><ele>144</ele></trkpt>
+   <trkpt lat="51.312075" lon="12.415796"><ele>143</ele></trkpt>
+   <trkpt lat="51.313293" lon="12.413864"><ele>143.25</ele></trkpt>
+   <trkpt lat="51.314356" lon="12.412237"><ele>143</ele></trkpt>
+   <trkpt lat="51.31436" lon="12.41223"><ele>143</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

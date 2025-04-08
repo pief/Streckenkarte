@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 627 filtered ascend = 2 plain-ascend = 2 cost=1254 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Südfriedhof (Steig Südwest) - Prager-/Russenstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/51.30641/12.42361/osm-mapnik-german_style&amp;lonlats=12.417129,51.311158;12.422432,51.306787&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.311161" lon="12.417134"><ele>144</ele></trkpt>
+   <trkpt lat="51.311097" lon="12.417236"><ele>144</ele></trkpt>
+   <trkpt lat="51.311035" lon="12.417334"><ele>144</ele></trkpt>
+   <trkpt lat="51.309146" lon="12.420237"><ele>144.75</ele></trkpt>
+   <trkpt lat="51.308369" lon="12.421488"><ele>145</ele></trkpt>
+   <trkpt lat="51.308265" lon="12.42164"><ele>145</ele></trkpt>
+   <trkpt lat="51.308149" lon="12.42177"><ele>145</ele></trkpt>
+   <trkpt lat="51.308033" lon="12.421865"><ele>145</ele></trkpt>
+   <trkpt lat="51.307902" lon="12.421945"><ele>145</ele></trkpt>
+   <trkpt lat="51.307418" lon="12.422159"><ele>145.25</ele></trkpt>
+   <trkpt lat="51.306787" lon="12.422435"><ele>146</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

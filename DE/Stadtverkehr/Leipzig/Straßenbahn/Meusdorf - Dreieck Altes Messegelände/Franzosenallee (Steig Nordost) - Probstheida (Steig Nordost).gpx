@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 1 plain-ascend = 1 cost=1024 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Franzosenallee (Steig Nordost) - Probstheida (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/51.30402/12.42656/osm-mapnik-german_style&amp;lonlats=12.430781,51.300805;12.42573,51.304114&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.300805" lon="12.430781"><ele>146.5</ele></trkpt>
+   <trkpt lat="51.300807" lon="12.430779"><ele>146.5</ele></trkpt>
+   <trkpt lat="51.300858" lon="12.430705"><ele>146.5</ele></trkpt>
+   <trkpt lat="51.301114" lon="12.430328"><ele>147</ele></trkpt>
+   <trkpt lat="51.301271" lon="12.430072"><ele>146.5</ele></trkpt>
+   <trkpt lat="51.301405" lon="12.429872"><ele>147</ele></trkpt>
+   <trkpt lat="51.303011" lon="12.427576"><ele>147</ele></trkpt>
+   <trkpt lat="51.303223" lon="12.427258"><ele>147</ele></trkpt>
+   <trkpt lat="51.303457" lon="12.426875"><ele>147.25</ele></trkpt>
+   <trkpt lat="51.303565" lon="12.426689"><ele>147.75</ele></trkpt>
+   <trkpt lat="51.303704" lon="12.42645"><ele>147.25</ele></trkpt>
+   <trkpt lat="51.304114" lon="12.425734"><ele>147.75</ele></trkpt>
+   <trkpt lat="51.304115" lon="12.425731"><ele>147.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

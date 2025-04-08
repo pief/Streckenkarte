@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 415 filtered ascend = 5 plain-ascend = 5 cost=830 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Roseggerstraße (Steig Südwest) - Üst Meusdorf Weiche Nord</name>
+  <link href="https://bikerouter.de/#map=18/51.29462/12.44073/osm-mapnik-german_style&amp;lonlats=12.435488,51.297494;12.439452,51.294723&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.297494" lon="12.435488"><ele>146.75</ele></trkpt>
+   <trkpt lat="51.297105" lon="12.436031"><ele>147.25</ele></trkpt>
+   <trkpt lat="51.296007" lon="12.437604"><ele>149</ele></trkpt>
+   <trkpt lat="51.29488" lon="12.439219"><ele>151</ele></trkpt>
+   <trkpt lat="51.294722" lon="12.439451"><ele>151.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
