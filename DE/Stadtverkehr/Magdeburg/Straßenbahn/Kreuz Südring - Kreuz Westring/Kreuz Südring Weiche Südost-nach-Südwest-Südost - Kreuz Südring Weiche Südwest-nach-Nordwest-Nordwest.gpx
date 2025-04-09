@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Kreuz Südring Weiche Südost-nach-Südwest-Südost - Kreuz Südring Weiche Südwest-nach-Nordwest-Nordwest</name>
+  <link href="https://bikerouter.de/#map=19/52.11302/11.60893/osm-mapnik-german_style&amp;lonlats=11.608311,52.113028;11.607946,52.113328;11.607889,52.113383&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.113027" lon="11.60831"><ele>54</ele></trkpt>
+   <trkpt lat="52.113031" lon="11.608305"><ele>54</ele></trkpt>
+   <trkpt lat="52.113087" lon="11.608222"><ele>54</ele></trkpt>
+   <trkpt lat="52.113104" lon="11.608201"><ele>54</ele></trkpt>
+   <trkpt lat="52.113133" lon="11.608165"><ele>54</ele></trkpt>
+   <trkpt lat="52.113181" lon="11.608112"><ele>54</ele></trkpt>
+   <trkpt lat="52.113201" lon="11.608087"><ele>54</ele></trkpt>
+   <trkpt lat="52.113232" lon="11.608052"><ele>54</ele></trkpt>
+   <trkpt lat="52.113271" lon="11.608006"><ele>54</ele></trkpt>
+   <trkpt lat="52.113302" lon="11.607971"><ele>54</ele></trkpt>
+   <trkpt lat="52.113327" lon="11.607945"><ele>54</ele></trkpt>
+   <trkpt lat="52.113378" lon="11.607894"><ele>54</ele></trkpt>
+   <trkpt lat="52.113383" lon="11.607889"><ele>54.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

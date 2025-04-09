@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 352 filtered ascend = 0 plain-ascend = 0 cost=704 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Raiffeisenstraße (Steig Nord) - Hertzstraße (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=18/52.11040/11.61506/osm-mapnik-german_style&amp;lonlats=11.618655,52.109934;11.613584,52.110493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.10993" lon="11.618654"><ele>56</ele></trkpt>
+   <trkpt lat="52.109971" lon="11.618269"><ele>56</ele></trkpt>
+   <trkpt lat="52.109999" lon="11.617893"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.110087" lon="11.617084"><ele>56</ele></trkpt>
+   <trkpt lat="52.110095" lon="11.617014"><ele>56</ele></trkpt>
+   <trkpt lat="52.110122" lon="11.616786"><ele>56</ele></trkpt>
+   <trkpt lat="52.110356" lon="11.614741"><ele>55</ele></trkpt>
+   <trkpt lat="52.110365" lon="11.614659"><ele>55</ele></trkpt>
+   <trkpt lat="52.110382" lon="11.614511"><ele>55</ele></trkpt>
+   <trkpt lat="52.110406" lon="11.614319"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.110487" lon="11.613601"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.110489" lon="11.613582"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
