@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 0 cost=20 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Südring (Steig Nordwest) - Kreuz Südring Weiche Nordwest-nach-Nordost-Nordwest</name>
+  <link href="https://bikerouter.de/#map=19/52.11348/11.60807/osm-mapnik-german_style&amp;lonlats=11.607747,52.113492;11.607799,52.113424&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.113492" lon="11.607747"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.113454" lon="11.607774"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.113442" lon="11.607784"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.113433" lon="11.60779"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.113424" lon="11.607798"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.113423" lon="11.607798"><ele>54.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 0 plain-ascend = 0 cost=278 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Abzweig Museumsdepot Weiche 117 - Eiskellerplatz (Steig Südost)</name>
+  <link href="https://bikerouter.de/#map=19/52.11078/11.60244/osm-mapnik-german_style&amp;lonlats=11.599795,52.109813;11.601488,52.110498&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.109811" lon="11.599795"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.110027" lon="11.600333"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.110184" lon="11.600719"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.110497" lon="11.601487"><ele>56</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

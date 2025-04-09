@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 632 filtered ascend = 5 plain-ascend = 4 cost=1264 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Liebknechtstraße (Steig West) - Westringbrücke (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.11797/11.60694/osm-mapnik-german_style&amp;lonlats=11.606219,52.123713;11.606761,52.11807&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.123713" lon="11.606221"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.123697" lon="11.606224"><ele>57</ele></trkpt>
+   <trkpt lat="52.123663" lon="11.606231"><ele>57</ele></trkpt>
+   <trkpt lat="52.123389" lon="11.606274"><ele>57</ele></trkpt>
+   <trkpt lat="52.12332" lon="11.606284"><ele>57</ele></trkpt>
+   <trkpt lat="52.123197" lon="11.606303"><ele>57</ele></trkpt>
+   <trkpt lat="52.121008" lon="11.606626"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.120484" lon="11.606696"><ele>61.75</ele></trkpt>
+   <trkpt lat="52.120201" lon="11.606723"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.119929" lon="11.606734"><ele>61</ele></trkpt>
+   <trkpt lat="52.118912" lon="11.606755"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.118696" lon="11.606757"><ele>61.75</ele></trkpt>
+   <trkpt lat="52.118168" lon="11.606761"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.11807" lon="11.606761"><ele>61</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

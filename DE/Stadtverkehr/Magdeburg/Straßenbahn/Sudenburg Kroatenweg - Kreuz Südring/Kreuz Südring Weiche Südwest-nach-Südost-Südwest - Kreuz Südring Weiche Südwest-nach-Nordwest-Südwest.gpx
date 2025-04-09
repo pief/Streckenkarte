@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Kreuz Südring Weiche Südwest-nach-Südost-Südwest - Kreuz Südring Weiche Südwest-nach-Nordwest-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/52.11313/11.60767/osm-mapnik-german_style&amp;lonlats=11.60762,52.112981;11.607691,52.113009&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.11298" lon="11.607619"><ele>54</ele></trkpt>
+   <trkpt lat="52.112984" lon="11.607628"><ele>54</ele></trkpt>
+   <trkpt lat="52.113" lon="11.607669"><ele>54</ele></trkpt>
+   <trkpt lat="52.113008" lon="11.60769"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

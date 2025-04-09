@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 419 filtered ascend = 1 plain-ascend = 1 cost=838 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Spielhagenstraße (Steig West) - Liebknechtstraße (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.12383/11.60638/osm-mapnik-german_style&amp;lonlats=11.605645,52.127456;11.606219,52.123713&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.127455" lon="11.605643"><ele>56</ele></trkpt>
+   <trkpt lat="52.127437" lon="11.605646"><ele>56</ele></trkpt>
+   <trkpt lat="52.127404" lon="11.605652"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.127181" lon="11.605688"><ele>57</ele></trkpt>
+   <trkpt lat="52.127022" lon="11.605712"><ele>57</ele></trkpt>
+   <trkpt lat="52.123848" lon="11.606203"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.123713" lon="11.606221"><ele>57</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

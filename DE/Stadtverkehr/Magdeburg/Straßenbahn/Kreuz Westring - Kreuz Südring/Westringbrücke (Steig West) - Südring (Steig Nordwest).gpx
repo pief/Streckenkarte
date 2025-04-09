@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 519 filtered ascend = 0 plain-ascend = -6 cost=1038 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Westringbrücke (Steig West) - Südring (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.11334/11.60835/osm-mapnik-german_style&amp;lonlats=11.606761,52.11807;11.607751,52.113493&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.11807" lon="11.606761"><ele>61</ele></trkpt>
+   <trkpt lat="52.118069" lon="11.606762"><ele>61</ele></trkpt>
+   <trkpt lat="52.118026" lon="11.606763"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.117997" lon="11.606762"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.117829" lon="11.606769"><ele>60</ele></trkpt>
+   <trkpt lat="52.117092" lon="11.606812"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.115463" lon="11.606938"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.115314" lon="11.606956"><ele>56</ele></trkpt>
+   <trkpt lat="52.115161" lon="11.606989"><ele>56</ele></trkpt>
+   <trkpt lat="52.114915" lon="11.607056"><ele>56</ele></trkpt>
+   <trkpt lat="52.11485" lon="11.607083"><ele>56</ele></trkpt>
+   <trkpt lat="52.114694" lon="11.607143"><ele>56</ele></trkpt>
+   <trkpt lat="52.113663" lon="11.607637"><ele>55</ele></trkpt>
+   <trkpt lat="52.113565" lon="11.607698"><ele>54.75</ele></trkpt>
+   <trkpt lat="52.113492" lon="11.607747"><ele>54.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
