@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 1 plain-ascend = 1 cost=142 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Dreieck Schönebecker/Warschauer Straße Weiche Nordwest-West - Dreieck Schönebecker/Warschauer Straße Weiche Südwest-West</name>
+  <link href="https://bikerouter.de/#map=19/52.11067/11.63353/osm-mapnik-german_style&amp;lonlats=11.633872,52.110902;11.63387,52.110395&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.110902" lon="11.633872"><ele>51</ele></trkpt>
+   <trkpt lat="52.110899" lon="11.63388"><ele>51</ele></trkpt>
+   <trkpt lat="52.110849" lon="11.633987"><ele>51</ele></trkpt>
+   <trkpt lat="52.110791" lon="11.634063"><ele>51</ele></trkpt>
+   <trkpt lat="52.110754" lon="11.634095"><ele>51</ele></trkpt>
+   <trkpt lat="52.1107" lon="11.634121"><ele>51</ele></trkpt>
+   <trkpt lat="52.110648" lon="11.634128"><ele>51</ele></trkpt>
+   <trkpt lat="52.11058" lon="11.634114"><ele>51.25</ele></trkpt>
+   <trkpt lat="52.110506" lon="11.634061"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.11044" lon="11.633969"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.110395" lon="11.633874"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.110393" lon="11.63387"><ele>52</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 192 filtered ascend = 1 plain-ascend = 1 cost=384 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Dreieck Schönebecker/Warschauer Straße Weiche Südwest-West - S-Bahnhof Buckau/Puppentheater (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.10966/11.63182/osm-mapnik-german_style&amp;lonlats=11.63387,52.110395;11.631523,52.109438&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.110393" lon="11.63387"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.109989" lon="11.632878"><ele>52</ele></trkpt>
+   <trkpt lat="52.109894" lon="11.632645"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.109854" lon="11.632546"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.109731" lon="11.632245"><ele>53</ele></trkpt>
+   <trkpt lat="52.109694" lon="11.632154"><ele>53</ele></trkpt>
+   <trkpt lat="52.109436" lon="11.631525"><ele>52.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

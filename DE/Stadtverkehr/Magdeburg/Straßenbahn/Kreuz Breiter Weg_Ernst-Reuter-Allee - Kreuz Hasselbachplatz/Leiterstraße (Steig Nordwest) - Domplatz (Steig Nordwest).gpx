@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 323 filtered ascend = 0 plain-ascend = -1 cost=646 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Leiterstraße (Steig Nordwest) - Domplatz (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.12519/11.63178/osm-mapnik-german_style&amp;lonlats=11.634111,52.127748;11.631927,52.125174&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.127746" lon="11.634114"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.127695" lon="11.634075"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.127635" lon="11.634024"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.127127" lon="11.63359"><ele>55</ele></trkpt>
+   <trkpt lat="52.126727" lon="11.633246"><ele>55</ele></trkpt>
+   <trkpt lat="52.126627" lon="11.633161"><ele>55</ele></trkpt>
+   <trkpt lat="52.126141" lon="11.632746"><ele>55</ele></trkpt>
+   <trkpt lat="52.125759" lon="11.632417"><ele>54</ele></trkpt>
+   <trkpt lat="52.125662" lon="11.632334"><ele>54</ele></trkpt>
+   <trkpt lat="52.125252" lon="11.631987"><ele>54</ele></trkpt>
+   <trkpt lat="52.125174" lon="11.631923"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
