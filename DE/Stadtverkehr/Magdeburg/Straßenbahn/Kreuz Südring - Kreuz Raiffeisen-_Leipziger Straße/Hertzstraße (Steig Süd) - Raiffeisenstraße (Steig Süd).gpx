@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 266 filtered ascend = 1 plain-ascend = 0 cost=532 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Hertzstraße (Steig Süd) - Raiffeisenstraße (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.10959/11.61939/osm-mapnik-german_style&amp;lonlats=11.615417,52.110238;11.619244,52.109829&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.110244" lon="11.615418"><ele>55</ele></trkpt>
+   <trkpt lat="52.110239" lon="11.615464"><ele>55</ele></trkpt>
+   <trkpt lat="52.110097" lon="11.61669"><ele>56</ele></trkpt>
+   <trkpt lat="52.110089" lon="11.616765"><ele>56</ele></trkpt>
+   <trkpt lat="52.110063" lon="11.617004"><ele>56</ele></trkpt>
+   <trkpt lat="52.110053" lon="11.61708"><ele>56</ele></trkpt>
+   <trkpt lat="52.11001" lon="11.617483"><ele>56</ele></trkpt>
+   <trkpt lat="52.109975" lon="11.617884"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.109941" lon="11.618267"><ele>56</ele></trkpt>
+   <trkpt lat="52.109829" lon="11.619239"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.109828" lon="11.619243"><ele>54.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
