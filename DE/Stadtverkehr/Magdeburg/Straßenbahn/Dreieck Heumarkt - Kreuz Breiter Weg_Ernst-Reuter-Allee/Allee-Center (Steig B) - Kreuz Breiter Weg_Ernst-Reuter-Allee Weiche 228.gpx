@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = 0 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Allee-Center (Steig B) - Kreuz Breiter Weg/Ernst-Reuter-Allee Weiche 228</name>
+  <link href="https://bikerouter.de/#map=19/52.13071/11.63759/osm-mapnik-german_style&amp;lonlats=11.636925,52.130883;11.636904,52.130888&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.130883" lon="11.636925"><ele>56</ele></trkpt>
+   <trkpt lat="52.130884" lon="11.636921"><ele>56</ele></trkpt>
+   <trkpt lat="52.130888" lon="11.636904"><ele>56</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
