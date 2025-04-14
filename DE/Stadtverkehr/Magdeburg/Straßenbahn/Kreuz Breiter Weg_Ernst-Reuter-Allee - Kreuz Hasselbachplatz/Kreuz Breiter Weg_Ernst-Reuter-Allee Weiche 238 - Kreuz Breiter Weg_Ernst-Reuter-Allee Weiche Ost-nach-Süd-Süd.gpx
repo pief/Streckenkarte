@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 63 filtered ascend = 0 plain-ascend = 1 cost=128 energy=0.0kwh time=5s -->
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 1 cost=140 energy=0.0kwh time=6s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.21">
+ creator="bikerouter.de 2025.23">
  <trk>
   <name>Kreuz Breiter Weg/Ernst-Reuter-Allee Weiche 238 - Kreuz Breiter Weg/Ernst-Reuter-Allee Weiche Ost-nach-Süd-Süd</name>
-  <link href="https://bikerouter.de/#map=19/52.13082/11.63613/osm-mapnik-german_style&amp;lonlats=11.636525,52.131308;11.636463,52.131211;11.636249,52.130903;11.636174,52.13079&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/52.13091/11.63641/osm-mapnik-german_style&amp;lonlats=11.636525,52.131308;11.636453,52.131211;11.636265,52.130905;11.636201,52.130827;11.636166,52.130768&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="52.131307" lon="11.636525"><ele>55.5</ele></trkpt>
-   <trkpt lat="52.131241" lon="11.636481"><ele>55.5</ele></trkpt>
-   <trkpt lat="52.131237" lon="11.636478"><ele>55.5</ele></trkpt>
-   <trkpt lat="52.13121" lon="11.636461"><ele>55.5</ele></trkpt>
-   <trkpt lat="52.131204" lon="11.636457"><ele>55.5</ele></trkpt>
-   <trkpt lat="52.131175" lon="11.636435"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.131307" lon="11.636524"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.131326" lon="11.636533"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.131243" lon="11.636476"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.131238" lon="11.636474"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.131209" lon="11.636455"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.131205" lon="11.636452"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.131173" lon="11.63643"><ele>55.75</ele></trkpt>
    <trkpt lat="52.131113" lon="11.636391"><ele>55.75</ele></trkpt>
-   <trkpt lat="52.13103" lon="11.636338"><ele>56</ele></trkpt>
+   <trkpt lat="52.131028" lon="11.636337"><ele>56</ele></trkpt>
    <trkpt lat="52.131016" lon="11.636329"><ele>56</ele></trkpt>
    <trkpt lat="52.131004" lon="11.636321"><ele>56</ele></trkpt>
-   <trkpt lat="52.130938" lon="11.636277"><ele>56</ele></trkpt>
-   <trkpt lat="52.130901" lon="11.636252"><ele>56</ele></trkpt>
+   <trkpt lat="52.130937" lon="11.636277"><ele>56</ele></trkpt>
+   <trkpt lat="52.130906" lon="11.636256"><ele>56</ele></trkpt>
    <trkpt lat="52.130857" lon="11.636224"><ele>56</ele></trkpt>
    <trkpt lat="52.130847" lon="11.636218"><ele>56</ele></trkpt>
+   <trkpt lat="52.130825" lon="11.636204"><ele>56</ele></trkpt>
    <trkpt lat="52.130822" lon="11.636202"><ele>56</ele></trkpt>
-   <trkpt lat="52.130788" lon="11.63618"><ele>56</ele></trkpt>
+   <trkpt lat="52.130772" lon="11.636171"><ele>56</ele></trkpt>
+   <trkpt lat="52.130766" lon="11.636167"><ele>56</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
