@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=106 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Wendeschleife Fasanenkrug Weiche Süd - Fasanenkrug (Steig Süd)</name>
+  <link href="https://bikerouter.de/#map=19/52.43133/9.80207/osm-mapnik-german_style&amp;lonlats=9.800287,52.43146;9.801019,52.431533&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.431462" lon="9.800283"><ele>53</ele></trkpt>
+   <trkpt lat="52.431465" lon="9.800293"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.431507" lon="9.800399"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.431539" lon="9.800503"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.431549" lon="9.800563"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.431552" lon="9.800633"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.431533" lon="9.801019"><ele>53.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

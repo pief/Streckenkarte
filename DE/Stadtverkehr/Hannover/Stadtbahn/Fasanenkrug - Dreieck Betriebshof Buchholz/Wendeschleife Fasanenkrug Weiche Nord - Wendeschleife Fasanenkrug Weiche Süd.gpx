@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 1 plain-ascend = 1 cost=252 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Wendeschleife Fasanenkrug Weiche Nord - Wendeschleife Fasanenkrug Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=19/52.43122/9.80211/osm-mapnik-german_style&amp;lonlats=9.800376,52.431705;9.799662,52.431549;9.800287,52.43146&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.431705" lon="9.800376"><ele>52</ele></trkpt>
+   <trkpt lat="52.431797" lon="9.800185"><ele>52</ele></trkpt>
+   <trkpt lat="52.431828" lon="9.800067"><ele>52</ele></trkpt>
+   <trkpt lat="52.431836" lon="9.799929"><ele>52</ele></trkpt>
+   <trkpt lat="52.43181" lon="9.799798"><ele>52</ele></trkpt>
+   <trkpt lat="52.43175" lon="9.799681"><ele>52</ele></trkpt>
+   <trkpt lat="52.431676" lon="9.799639"><ele>52</ele></trkpt>
+   <trkpt lat="52.4316" lon="9.799641"><ele>52</ele></trkpt>
+   <trkpt lat="52.431548" lon="9.799662"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.431529" lon="9.79967"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.431469" lon="9.799744"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.431424" lon="9.799841"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.431402" lon="9.79995"><ele>52.75</ele></trkpt>
+   <trkpt lat="52.431409" lon="9.800074"><ele>53</ele></trkpt>
+   <trkpt lat="52.431462" lon="9.800283"><ele>53.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
