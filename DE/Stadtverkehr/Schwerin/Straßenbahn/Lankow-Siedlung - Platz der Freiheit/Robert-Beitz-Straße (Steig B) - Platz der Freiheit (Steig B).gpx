@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 660 filtered ascend = 1 plain-ascend = -2 cost=1320 energy=0.0kwh time=53s -->
+<!-- track-length = 786 filtered ascend = 1 plain-ascend = -2 cost=1572 energy=0.0kwh time=1m 3s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="bikerouter.de 2025.23">
  <trk>
-  <name>Robert-Beitz-Straße (Steig B) - Platz der Freiheit Weiche 2-36</name>
-  <link href="https://bikerouter.de/#map=19/53.63447/11.40183/osm-mapnik-german_style&amp;lonlats=11.394766,53.638587;11.401706,53.634324&amp;profile=rail">
+  <name>Robert-Beitz-Straße (Steig B) - Platz der Freiheit (Steig B)</name>
+  <link href="https://bikerouter.de/#map=18/53.63418/11.40527/osm-mapnik-german_style&amp;lonlats=11.394765,53.638586;11.402245,53.633321&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
@@ -23,7 +23,15 @@
    <trkpt lat="53.635154" lon="11.40037"><ele>57</ele></trkpt>
    <trkpt lat="53.634862" lon="11.400844"><ele>57</ele></trkpt>
    <trkpt lat="53.634328" lon="11.401703"><ele>56.75</ele></trkpt>
-   <trkpt lat="53.634325" lon="11.401707"><ele>56.5</ele></trkpt>
+   <trkpt lat="53.634275" lon="11.401788"><ele>56.5</ele></trkpt>
+   <trkpt lat="53.633998" lon="11.402223"><ele>56</ele></trkpt>
+   <trkpt lat="53.63397" lon="11.402255"><ele>56</ele></trkpt>
+   <trkpt lat="53.633933" lon="11.402279"><ele>56</ele></trkpt>
+   <trkpt lat="53.633879" lon="11.402303"><ele>56</ele></trkpt>
+   <trkpt lat="53.633752" lon="11.402305"><ele>56</ele></trkpt>
+   <trkpt lat="53.63362" lon="11.402294"><ele>56</ele></trkpt>
+   <trkpt lat="53.633327" lon="11.402246"><ele>56.75</ele></trkpt>
+   <trkpt lat="53.633319" lon="11.402245"><ele>57</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
