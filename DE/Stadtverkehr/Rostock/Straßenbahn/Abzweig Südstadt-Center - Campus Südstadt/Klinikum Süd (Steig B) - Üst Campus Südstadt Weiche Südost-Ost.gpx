@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 134 filtered ascend = 0 plain-ascend = 0 cost=268 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Klinikum Süd (Steig B) - Üst Campus Südstadt Weiche Südost-Ost</name>
+  <link href="https://bikerouter.de/#map=19/54.07383/12.10572/osm-mapnik-german_style&amp;lonlats=12.107529,54.072984;12.105866,54.073677&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.072984" lon="12.107529"><ele>33</ele></trkpt>
+   <trkpt lat="54.073019" lon="12.107426"><ele>33</ele></trkpt>
+   <trkpt lat="54.073073" lon="12.10726"><ele>33</ele></trkpt>
+   <trkpt lat="54.073184" lon="12.106949"><ele>33.5</ele></trkpt>
+   <trkpt lat="54.073298" lon="12.106665"><ele>33</ele></trkpt>
+   <trkpt lat="54.073675" lon="12.105863"><ele>33</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

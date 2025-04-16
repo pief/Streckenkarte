@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 315 filtered ascend = 3 plain-ascend = 4 cost=630 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Robert-Koch-Straße (Steig B) - Klinikum Süd (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.07278/12.10902/osm-mapnik-german_style&amp;lonlats=12.112051,54.072133;12.107526,54.072981&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.072136" lon="12.112051"><ele>29.5</ele></trkpt>
+   <trkpt lat="54.07214" lon="12.111906"><ele>30</ele></trkpt>
+   <trkpt lat="54.072152" lon="12.111723"><ele>30</ele></trkpt>
+   <trkpt lat="54.072173" lon="12.111506"><ele>30.5</ele></trkpt>
+   <trkpt lat="54.07228" lon="12.110588"><ele>31.75</ele></trkpt>
+   <trkpt lat="54.072338" lon="12.110179"><ele>32.5</ele></trkpt>
+   <trkpt lat="54.07239" lon="12.109858"><ele>33</ele></trkpt>
+   <trkpt lat="54.072453" lon="12.109519"><ele>33</ele></trkpt>
+   <trkpt lat="54.072542" lon="12.109091"><ele>33</ele></trkpt>
+   <trkpt lat="54.072618" lon="12.108766"><ele>33</ele></trkpt>
+   <trkpt lat="54.072697" lon="12.108464"><ele>33</ele></trkpt>
+   <trkpt lat="54.072983" lon="12.107535"><ele>33.25</ele></trkpt>
+   <trkpt lat="54.072984" lon="12.107529"><ele>33</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 283 filtered ascend = 0 plain-ascend = -3 cost=566 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Robert-Koch-Straße (Steig A) - Abzweig Südstadt-Center Weiche Süd</name>
+  <link href="https://bikerouter.de/#map=18/54.07185/12.11843/osm-mapnik-german_style&amp;lonlats=12.112655,54.072073;12.116941,54.071996&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.072074" lon="12.112655"><ele>28.75</ele></trkpt>
+   <trkpt lat="54.072029" lon="12.114094"><ele>27.25</ele></trkpt>
+   <trkpt lat="54.071943" lon="12.116193"><ele>25.5</ele></trkpt>
+   <trkpt lat="54.071942" lon="12.116216"><ele>25.5</ele></trkpt>
+   <trkpt lat="54.071941" lon="12.116268"><ele>25.25</ele></trkpt>
+   <trkpt lat="54.071942" lon="12.116486"><ele>25</ele></trkpt>
+   <trkpt lat="54.071962" lon="12.116728"><ele>24.75</ele></trkpt>
+   <trkpt lat="54.071987" lon="12.116899"><ele>25</ele></trkpt>
+   <trkpt lat="54.071993" lon="12.116939"><ele>25</ele></trkpt>
+   <trkpt lat="54.071993" lon="12.116942"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
