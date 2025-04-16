@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Wendeschleife Dierkower Allee Weiche Süd-West - Wendeschleife Dierkower Allee Weiche Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=19/54.10443/12.17946/osm-mapnik-german_style&amp;lonlats=12.178718,54.104519;12.179589,54.104417&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.104519" lon="12.178716"><ele>18</ele></trkpt>
+   <trkpt lat="54.10452" lon="12.178718"><ele>18</ele></trkpt>
+   <trkpt lat="54.104521" lon="12.179085"><ele>18</ele></trkpt>
+   <trkpt lat="54.104514" lon="12.179172"><ele>18</ele></trkpt>
+   <trkpt lat="54.104507" lon="12.179262"><ele>18</ele></trkpt>
+   <trkpt lat="54.104486" lon="12.179378"><ele>18</ele></trkpt>
+   <trkpt lat="54.104457" lon="12.179476"><ele>17.75</ele></trkpt>
+   <trkpt lat="54.104416" lon="12.179584"><ele>18</ele></trkpt>
+   <trkpt lat="54.104415" lon="12.179585"><ele>18</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

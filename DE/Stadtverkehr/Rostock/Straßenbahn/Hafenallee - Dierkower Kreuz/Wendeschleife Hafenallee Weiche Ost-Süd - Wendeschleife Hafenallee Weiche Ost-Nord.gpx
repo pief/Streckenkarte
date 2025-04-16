@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Wendeschleife Hafenallee Weiche Ost-Süd - Wendeschleife Hafenallee Weiche Ost-Nord</name>
+  <link href="https://bikerouter.de/#map=19/54.10806/12.13666/osm-mapnik-german_style&amp;lonlats=12.137334,54.107792;12.136532,54.108097&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.107792" lon="12.137334"><ele>3</ele></trkpt>
+   <trkpt lat="54.107816" lon="12.137122"><ele>3</ele></trkpt>
+   <trkpt lat="54.107853" lon="12.136954"><ele>3</ele></trkpt>
+   <trkpt lat="54.107901" lon="12.136825"><ele>3</ele></trkpt>
+   <trkpt lat="54.107952" lon="12.136732"><ele>3</ele></trkpt>
+   <trkpt lat="54.108094" lon="12.136536"><ele>3</ele></trkpt>
+   <trkpt lat="54.108097" lon="12.136533"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
