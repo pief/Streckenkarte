@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 135 filtered ascend = 0 plain-ascend = 1 cost=270 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.23">
+ <trk>
+  <name>Üst Südblick Weiche Süd-Ost - Südblick (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.05777/12.11815/osm-mapnik-german_style&amp;lonlats=12.117088,54.058897;12.117089,54.057685&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.058895" lon="12.117088"><ele>32</ele></trkpt>
+   <trkpt lat="54.05858" lon="12.117074"><ele>32.25</ele></trkpt>
+   <trkpt lat="54.058113" lon="12.117081"><ele>32.25</ele></trkpt>
+   <trkpt lat="54.057684" lon="12.117088"><ele>32.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
