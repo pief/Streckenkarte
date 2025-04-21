@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=146 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Abzweig Eudokaplein Weiche West - Eudokaplein (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/51.93219/4.47196/osm-mapnik-german_style&amp;lonlats=4.472535,51.932973;4.473019,51.932508&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.932973" lon="4.472535"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.932931" lon="4.472493"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.932864" lon="4.472457"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.932843" lon="4.472455"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.932823" lon="4.472453"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.932756" lon="4.472482"><ele>4</ele></trkpt>
+   <trkpt lat="51.932693" lon="4.472561"><ele>4</ele></trkpt>
+   <trkpt lat="51.932512" lon="4.473018"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.93251" lon="4.473021"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 4 plain-ascend = 4 cost=240 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Kreuz Hofplein Weiche Nordwest-nach-Südwest-Nordwest - Kreuz Hofplein Weiche Nordwest-nach-Südwest-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/51.92432/4.47671/osm-mapnik-german_style&amp;lonlats=4.477082,51.925612;4.477342,51.924597&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.925611" lon="4.477081"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.925613" lon="4.47708"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.924985" lon="4.477413"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.924896" lon="4.477442"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.924792" lon="4.477447"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924702" lon="4.47742"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924601" lon="4.47735"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.924594" lon="4.477345"><ele>7.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 4 plain-ascend = 5 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Kreuz Hofplein Weiche Südost-nach-Südwest-Südwest - Weena (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/51.92429/4.47545/osm-mapnik-german_style&amp;lonlats=4.476835,51.924284;4.475899,51.924094&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.924284" lon="4.476833"><ele>9</ele></trkpt>
+   <trkpt lat="51.924271" lon="4.476748"><ele>9.25</ele></trkpt>
+   <trkpt lat="51.924099" lon="4.475894"><ele>13.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

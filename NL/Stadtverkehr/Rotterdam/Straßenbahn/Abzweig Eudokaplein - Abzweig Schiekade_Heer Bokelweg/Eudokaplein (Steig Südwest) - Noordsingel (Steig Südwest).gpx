@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 593 filtered ascend = 1 plain-ascend = 0 cost=1186 energy=0.0kwh time=47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Eudokaplein (Steig Südwest) - Noordsingel (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/51.92950/4.48047/osm-mapnik-german_style&amp;lonlats=4.473019,51.932508;4.48036,51.929708&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.93251" lon="4.473021"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.931729" lon="4.475025"><ele>4</ele></trkpt>
+   <trkpt lat="51.93156" lon="4.475452"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.931237" lon="4.476433"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.930688" lon="4.477868"><ele>3</ele></trkpt>
+   <trkpt lat="51.929832" lon="4.480055"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.929713" lon="4.480354"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.929709" lon="4.480361"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
