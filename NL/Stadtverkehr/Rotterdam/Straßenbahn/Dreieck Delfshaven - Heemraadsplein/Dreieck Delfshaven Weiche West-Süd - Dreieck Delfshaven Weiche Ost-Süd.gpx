@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 0 plain-ascend = 0 cost=146 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Dreieck Delfshaven Weiche West-Süd - Dreieck Delfshaven Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=18/51.91061/4.44523/osm-mapnik-german_style&amp;lonlats=4.445441,51.910019;4.446467,51.909909&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.910019" lon="4.445441"><ele>7</ele></trkpt>
+   <trkpt lat="51.910018" lon="4.44545"><ele>7</ele></trkpt>
+   <trkpt lat="51.910007" lon="4.445538"><ele>7</ele></trkpt>
+   <trkpt lat="51.909978" lon="4.445763"><ele>7</ele></trkpt>
+   <trkpt lat="51.909957" lon="4.445962"><ele>7</ele></trkpt>
+   <trkpt lat="51.909931" lon="4.446195"><ele>7</ele></trkpt>
+   <trkpt lat="51.909907" lon="4.446462"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.909906" lon="4.446466"><ele>6.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
