@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 1 plain-ascend = 1 cost=160 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Willemsplein Weiche Südwest - Willemsplein (Äußeres Gleis)</name>
+  <link href="https://bikerouter.de/#map=19/51.90970/4.48196/osm-mapnik-german_style&amp;lonlats=4.482314,51.90918;4.482636,51.909793&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.909179" lon="4.482313"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.909185" lon="4.482321"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.90938" lon="4.482551"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.90952" lon="4.482711"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.90959" lon="4.48275"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.909636" lon="4.482755"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.909678" lon="4.482748"><ele>5</ele></trkpt>
+   <trkpt lat="51.909746" lon="4.482705"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.909795" lon="4.482641"><ele>6</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
