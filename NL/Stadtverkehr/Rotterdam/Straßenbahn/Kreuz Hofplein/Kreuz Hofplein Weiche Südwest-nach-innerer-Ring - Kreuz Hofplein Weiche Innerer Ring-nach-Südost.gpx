@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8 filtered ascend = 0 plain-ascend = 0 cost=16 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Kreuz Hofplein Weiche Südwest-nach-innerer-Ring - Kreuz Hofplein Weiche Innerer Ring-nach-Südost</name>
+  <link href="https://bikerouter.de/#map=19/51.92382/4.47816/osm-mapnik-german_style&amp;lonlats=4.477473,51.924198;4.477567,51.924165&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.924198" lon="4.477473"><ele>8.5</ele></trkpt>
+   <trkpt lat="51.924167" lon="4.477568"><ele>8.5</ele></trkpt>
+   <trkpt lat="51.924166" lon="4.477568"><ele>8.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
