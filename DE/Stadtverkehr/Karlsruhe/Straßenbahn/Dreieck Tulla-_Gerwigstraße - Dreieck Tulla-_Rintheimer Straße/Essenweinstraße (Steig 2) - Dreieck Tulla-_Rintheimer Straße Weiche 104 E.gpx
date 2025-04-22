@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = 0 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Essenweinstraße (Steig 2) - Dreieck Tulla-/Rintheimer Straße Weiche 104 E</name>
+  <link href="https://bikerouter.de/#map=19/49.01081/8.43265/osm-mapnik-german_style&amp;lonlats=8.431782,49.010963;8.431906,49.010061&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010963" lon="8.431782"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.010941" lon="8.431785"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.010868" lon="8.431798"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.01081" lon="8.431807"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.010354" lon="8.431883"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.010291" lon="8.431893"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.010197" lon="8.431903"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.010179" lon="8.431903"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.010062" lon="8.431906"><ele>114</ele></trkpt>
+   <trkpt lat="49.010061" lon="8.431906"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Rüppurrer Tor (Gleis 2) - Kreuz Rüppurrer Tor Weiche 142 E</name>
+  <link href="https://bikerouter.de/#map=19/49.00585/8.40982/osm-mapnik-german_style&amp;lonlats=8.409657,49.005905;8.409854,49.005931&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005905" lon="8.409655"><ele>114</ele></trkpt>
+   <trkpt lat="49.005911" lon="8.409709"><ele>114</ele></trkpt>
+   <trkpt lat="49.005926" lon="8.409844"><ele>114</ele></trkpt>
+   <trkpt lat="49.005927" lon="8.409854"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

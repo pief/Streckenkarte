@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 1 plain-ascend = 1 cost=128 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Kreuz Rüppurrer Tor Weiche 143 E - Kreuz Rüppurrer Tor Weiche Nord-nach-Ost-Ost</name>
+  <link href="https://bikerouter.de/#map=19/49.00603/8.41074/osm-mapnik-german_style&amp;lonlats=8.409905,49.005938;8.410026,49.005951;8.410667,49.006003;8.410758,49.006011&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.005933" lon="8.409905"><ele>114</ele></trkpt>
+   <trkpt lat="49.005934" lon="8.40991"><ele>114</ele></trkpt>
+   <trkpt lat="49.005938" lon="8.409949"><ele>113.75</ele></trkpt>
+   <trkpt lat="49.005946" lon="8.410026"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.005954" lon="8.410092"><ele>114.25</ele></trkpt>
+   <trkpt lat="49.005967" lon="8.410192"><ele>114.5</ele></trkpt>
+   <trkpt lat="49.005983" lon="8.41033"><ele>115</ele></trkpt>
+   <trkpt lat="49.005986" lon="8.410375"><ele>115</ele></trkpt>
+   <trkpt lat="49.005996" lon="8.410489"><ele>115</ele></trkpt>
+   <trkpt lat="49.006003" lon="8.410565"><ele>115</ele></trkpt>
+   <trkpt lat="49.006006" lon="8.410665"><ele>115</ele></trkpt>
+   <trkpt lat="49.006007" lon="8.410691"><ele>115</ele></trkpt>
+   <trkpt lat="49.006009" lon="8.410761"><ele>115</ele></trkpt>
+   <trkpt lat="49.006009" lon="8.410757"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

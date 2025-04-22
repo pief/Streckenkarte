@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Dreieck Karlstor Weiche Nord-West - Dreieck Karlstor Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/49.00594/8.39476/osm-mapnik-german_style&amp;lonlats=8.394637,49.00579;8.395159,49.005462&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.00579" lon="8.394637"><ele>115</ele></trkpt>
+   <trkpt lat="49.005789" lon="8.394637"><ele>115</ele></trkpt>
+   <trkpt lat="49.005683" lon="8.394651"><ele>115.5</ele></trkpt>
+   <trkpt lat="49.005625" lon="8.39468"><ele>115.5</ele></trkpt>
+   <trkpt lat="49.005606" lon="8.394699"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.005558" lon="8.39474"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.005529" lon="8.394781"><ele>115.75</ele></trkpt>
+   <trkpt lat="49.005481" lon="8.394913"><ele>115.25</ele></trkpt>
+   <trkpt lat="49.005474" lon="8.394936"><ele>115</ele></trkpt>
+   <trkpt lat="49.005467" lon="8.394982"><ele>115</ele></trkpt>
+   <trkpt lat="49.005463" lon="8.395159"><ele>113.25</ele></trkpt>
+   <trkpt lat="49.005462" lon="8.395157"><ele>114.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
