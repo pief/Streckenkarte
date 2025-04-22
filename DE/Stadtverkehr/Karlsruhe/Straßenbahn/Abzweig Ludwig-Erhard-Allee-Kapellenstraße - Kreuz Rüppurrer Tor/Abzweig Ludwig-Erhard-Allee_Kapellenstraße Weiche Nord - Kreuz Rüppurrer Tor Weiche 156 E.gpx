@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 77 filtered ascend = 0 plain-ascend = 0 cost=154 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Abzweig Ludwig-Erhard-Allee/Kapellenstraße Weiche Nord - Kreuz Rüppurrer Tor Weiche 156 E</name>
+  <link href="https://bikerouter.de/#map=19/49.00639/8.41043/osm-mapnik-german_style&amp;lonlats=8.411914,49.006002;8.410858,49.006049&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.006002" lon="8.411914"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.006031" lon="8.411532"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.006048" lon="8.411188"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.006048" lon="8.410875"><ele>115</ele></trkpt>
+   <trkpt lat="49.006048" lon="8.410858"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=114 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Kreuz Tullastraße Weiche 17 E - Kreuz Tullastraße Weiche 62</name>
+  <link href="https://bikerouter.de/#map=19/49.00643/8.43055/osm-mapnik-german_style&amp;lonlats=8.431261,49.006639;8.430829,49.006248&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.006637" lon="8.431261"><ele>115</ele></trkpt>
+   <trkpt lat="49.006581" lon="8.431227"><ele>115</ele></trkpt>
+   <trkpt lat="49.006495" lon="8.431166"><ele>115</ele></trkpt>
+   <trkpt lat="49.00645" lon="8.431107"><ele>115</ele></trkpt>
+   <trkpt lat="49.006403" lon="8.431028"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.006381" lon="8.430993"><ele>115</ele></trkpt>
+   <trkpt lat="49.006318" lon="8.4309"><ele>115</ele></trkpt>
+   <trkpt lat="49.006254" lon="8.430837"><ele>115</ele></trkpt>
+   <trkpt lat="49.006246" lon="8.430831"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

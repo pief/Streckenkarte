@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=204 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Üst Ostendstraße Weiche 67 - Ostendstraße (Steig 1)</name>
+  <link href="https://bikerouter.de/#map=19/49.00518/8.41552/osm-mapnik-german_style&amp;lonlats=8.417405,49.004811;8.416075,49.0051&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.004807" lon="8.417403"><ele>114</ele></trkpt>
+   <trkpt lat="49.004812" lon="8.417385"><ele>114</ele></trkpt>
+   <trkpt lat="49.004845" lon="8.417236"><ele>114</ele></trkpt>
+   <trkpt lat="49.004853" lon="8.417202"><ele>114</ele></trkpt>
+   <trkpt lat="49.00486" lon="8.417169"><ele>114</ele></trkpt>
+   <trkpt lat="49.005098" lon="8.416094"><ele>114</ele></trkpt>
+   <trkpt lat="49.005101" lon="8.416075"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

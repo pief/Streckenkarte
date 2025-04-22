@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Tullastraße/Alter Schlachthof (Steig 3) - Kreuz Tullastraße Weiche 16 E</name>
+  <link href="https://bikerouter.de/#map=19/49.00677/8.43059/osm-mapnik-german_style&amp;lonlats=8.431305,49.006742;8.431267,49.006653&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.006741" lon="8.431304"><ele>115</ele></trkpt>
+   <trkpt lat="49.006721" lon="8.431298"><ele>115</ele></trkpt>
+   <trkpt lat="49.006717" lon="8.431296"><ele>115</ele></trkpt>
+   <trkpt lat="49.006682" lon="8.431281"><ele>115</ele></trkpt>
+   <trkpt lat="49.006652" lon="8.431266"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
