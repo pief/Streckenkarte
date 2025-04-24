@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = 0 cost=114 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Dreieck Hauptfriedhof Weiche 41 E - Dreieck Hauptfriedhof Weiche 40</name>
+  <link href="https://bikerouter.de/#map=19/49.01401/8.42955/osm-mapnik-german_style&amp;lonlats=8.430939,49.014079;8.430245,49.013892&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.014074" lon="8.430941"><ele>115</ele></trkpt>
+   <trkpt lat="49.014073" lon="8.430938"><ele>115</ele></trkpt>
+   <trkpt lat="49.014073" lon="8.430937"><ele>115</ele></trkpt>
+   <trkpt lat="49.013991" lon="8.430632"><ele>115</ele></trkpt>
+   <trkpt lat="49.013965" lon="8.430537"><ele>115</ele></trkpt>
+   <trkpt lat="49.013888" lon="8.430254"><ele>114.75</ele></trkpt>
+   <trkpt lat="49.013886" lon="8.430247"><ele>114.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

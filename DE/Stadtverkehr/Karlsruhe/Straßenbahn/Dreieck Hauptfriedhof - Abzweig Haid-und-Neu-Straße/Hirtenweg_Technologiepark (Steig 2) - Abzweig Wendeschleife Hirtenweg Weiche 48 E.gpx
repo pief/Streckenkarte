@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Hirtenweg/Technologiepark (Steig 2) - Abzweig Wendeschleife Hirtenweg Weiche 48 E</name>
+  <link href="https://bikerouter.de/#map=19/49.01781/8.44074/osm-mapnik-german_style&amp;lonlats=8.439466,49.017501;8.439831,49.017697&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.0175" lon="8.439465"><ele>115</ele></trkpt>
+   <trkpt lat="49.017518" lon="8.439497"><ele>115</ele></trkpt>
+   <trkpt lat="49.017535" lon="8.439527"><ele>115</ele></trkpt>
+   <trkpt lat="49.017543" lon="8.43954"><ele>115</ele></trkpt>
+   <trkpt lat="49.017691" lon="8.439808"><ele>115</ele></trkpt>
+   <trkpt lat="49.0177" lon="8.439825"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
