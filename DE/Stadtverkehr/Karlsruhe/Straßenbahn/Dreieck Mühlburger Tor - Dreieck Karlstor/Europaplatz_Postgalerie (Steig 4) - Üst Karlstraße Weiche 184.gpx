@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>Europaplatz/Postgalerie (Steig 4) - Üst Karlstraße Weiche 184</name>
+  <link href="https://bikerouter.de/#map=19/49.00914/8.39446/osm-mapnik-german_style&amp;lonlats=8.394902,49.009145;8.394839,49.008537&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.009143" lon="8.394903"><ele>115</ele></trkpt>
+   <trkpt lat="49.009098" lon="8.394899"><ele>115</ele></trkpt>
+   <trkpt lat="49.008893" lon="8.394878"><ele>115</ele></trkpt>
+   <trkpt lat="49.008811" lon="8.394869"><ele>115</ele></trkpt>
+   <trkpt lat="49.008546" lon="8.39484"><ele>115</ele></trkpt>
+   <trkpt lat="49.008535" lon="8.394839"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
