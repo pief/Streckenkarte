@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 553 filtered ascend = 0 plain-ascend = -1 cost=554 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>008 Misi (Gleis 1) - Misi Weiche 822</name>
+  <link href="https://bikerouter.de/#map=16/66.6190/26.7009/osm-mapnik-german_style&amp;lonlats=26.686329,66.617832;26.698457,66.619035&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.617837" lon="26.686324"><ele>168.75</ele></trkpt>
+   <trkpt lat="66.61796" lon="26.687583"><ele>169</ele></trkpt>
+   <trkpt lat="66.618468" lon="26.692727"><ele>168.5</ele></trkpt>
+   <trkpt lat="66.618886" lon="26.696968"><ele>168</ele></trkpt>
+   <trkpt lat="66.619036" lon="26.698455"><ele>166.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

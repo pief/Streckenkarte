@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 430 filtered ascend = 3 plain-ascend = 2 cost=430 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>008 Vaarala Weiche 711 - Vaarala Weiche 721</name>
+  <link href="https://bikerouter.de/#map=16/66.5180/25.8774/osm-mapnik-german_style&amp;lonlats=25.87575,66.518803;25.884251,66.517044&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.518803" lon="25.87575"><ele>90.25</ele></trkpt>
+   <trkpt lat="66.518803" lon="25.875752"><ele>90.5</ele></trkpt>
+   <trkpt lat="66.51846" lon="25.878134"><ele>92.5</ele></trkpt>
+   <trkpt lat="66.518206" lon="25.879639"><ele>93.75</ele></trkpt>
+   <trkpt lat="66.518047" lon="25.880392"><ele>93.5</ele></trkpt>
+   <trkpt lat="66.517826" lon="25.881373"><ele>93.25</ele></trkpt>
+   <trkpt lat="66.517576" lon="25.882354"><ele>92.5</ele></trkpt>
+   <trkpt lat="66.517298" lon="25.883362"><ele>92.25</ele></trkpt>
+   <trkpt lat="66.517045" lon="25.884248"><ele>90.25</ele></trkpt>
+   <trkpt lat="66.517044" lon="25.884251"><ele>92</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = 0 cost=85 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>008 Rovaniemi Weiche 608 - Rovaniemi Weiche 612</name>
+  <link href="https://bikerouter.de/#map=19/66.49760/25.70886/osm-mapnik-german_style&amp;lonlats=25.710518,66.497616;25.708696,66.497799&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.497614" lon="25.710516"><ele>81.25</ele></trkpt>
+   <trkpt lat="66.497682" lon="25.709851"><ele>81.25</ele></trkpt>
+   <trkpt lat="66.497717" lon="25.709512"><ele>81</ele></trkpt>
+   <trkpt lat="66.497799" lon="25.708696"><ele>81</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

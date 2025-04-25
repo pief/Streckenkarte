@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 36 filtered ascend = 1 plain-ascend = 1 cost=36 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.24">
+ <trk>
+  <name>008 Rovaniemi Weiche 602 - Rovaniemi Weiche 620</name>
+  <link href="https://bikerouter.de/#map=19/66.49704/25.71356/osm-mapnik-german_style&amp;lonlats=25.713968,66.497119;25.714705,66.49702&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.497119" lon="25.713968"><ele>83.25</ele></trkpt>
+   <trkpt lat="66.497021" lon="25.714702"><ele>84.5</ele></trkpt>
+   <trkpt lat="66.49702" lon="25.714705"><ele>84.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
