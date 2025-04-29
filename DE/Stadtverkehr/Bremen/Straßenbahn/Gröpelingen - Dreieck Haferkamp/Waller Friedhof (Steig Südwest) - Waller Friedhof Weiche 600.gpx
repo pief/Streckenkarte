@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Waller Friedhof (Steig Südwest) - Waller Friedhof Weiche 600</name>
+  <link href="https://bikerouter.de/#map=19/53.10774/8.77474/osm-mapnik-german_style&amp;lonlats=8.773852,53.10829;8.77456,53.107969&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.108291" lon="8.773854"><ele>4</ele></trkpt>
+   <trkpt lat="53.108285" lon="8.773867"><ele>4</ele></trkpt>
+   <trkpt lat="53.10827" lon="8.773895"><ele>4</ele></trkpt>
+   <trkpt lat="53.108172" lon="8.774087"><ele>4</ele></trkpt>
+   <trkpt lat="53.107966" lon="8.774554"><ele>3.75</ele></trkpt>
+   <trkpt lat="53.107965" lon="8.774555"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

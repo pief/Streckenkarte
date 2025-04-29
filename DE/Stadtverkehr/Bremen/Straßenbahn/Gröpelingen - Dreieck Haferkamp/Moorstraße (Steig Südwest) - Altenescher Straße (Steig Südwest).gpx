@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 438 filtered ascend = 0 plain-ascend = 0 cost=876 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Moorstraße (Steig Südwest) - Altenescher Straße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=18/53.10967/8.77092/osm-mapnik-german_style&amp;lonlats=8.765479,53.112673;8.77044,53.110103&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.112676" lon="8.765483"><ele>4</ele></trkpt>
+   <trkpt lat="53.111776" lon="8.767234"><ele>4</ele></trkpt>
+   <trkpt lat="53.110767" lon="8.769197"><ele>4</ele></trkpt>
+   <trkpt lat="53.110555" lon="8.769594"><ele>4</ele></trkpt>
+   <trkpt lat="53.110314" lon="8.770044"><ele>4</ele></trkpt>
+   <trkpt lat="53.110105" lon="8.770443"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

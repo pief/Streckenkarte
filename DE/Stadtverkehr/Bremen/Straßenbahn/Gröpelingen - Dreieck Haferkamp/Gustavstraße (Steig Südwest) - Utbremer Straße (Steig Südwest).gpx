@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 289 filtered ascend = 0 plain-ascend = 0 cost=578 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Gustavstraße (Steig Südwest) - Utbremer Straße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/53.09525/8.79111/osm-mapnik-german_style&amp;lonlats=8.789055,53.097731;8.791053,53.095417&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.09773" lon="8.789051"><ele>4</ele></trkpt>
+   <trkpt lat="53.097708" lon="8.789071"><ele>4</ele></trkpt>
+   <trkpt lat="53.09745" lon="8.789259"><ele>4</ele></trkpt>
+   <trkpt lat="53.097289" lon="8.789372"><ele>4</ele></trkpt>
+   <trkpt lat="53.097149" lon="8.789485"><ele>4</ele></trkpt>
+   <trkpt lat="53.096128" lon="8.790428"><ele>4</ele></trkpt>
+   <trkpt lat="53.095798" lon="8.790731"><ele>4</ele></trkpt>
+   <trkpt lat="53.095421" lon="8.791055"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

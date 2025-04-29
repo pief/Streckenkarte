@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 526 filtered ascend = 0 plain-ascend = -1 cost=1052 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Waller Straße (Steig Südwest) - Bahnhof Walle (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/53.10232/8.78453/osm-mapnik-german_style&amp;lonlats=8.779549,53.105822;8.784977,53.102492&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.105825" lon="8.779552"><ele>6</ele></trkpt>
+   <trkpt lat="53.105755" lon="8.779768"><ele>6</ele></trkpt>
+   <trkpt lat="53.105566" lon="8.780238"><ele>5</ele></trkpt>
+   <trkpt lat="53.104791" lon="8.781739"><ele>4</ele></trkpt>
+   <trkpt lat="53.104565" lon="8.782164"><ele>4</ele></trkpt>
+   <trkpt lat="53.104186" lon="8.782908"><ele>4</ele></trkpt>
+   <trkpt lat="53.103812" lon="8.783619"><ele>4</ele></trkpt>
+   <trkpt lat="53.103675" lon="8.783852"><ele>4</ele></trkpt>
+   <trkpt lat="53.103563" lon="8.784009"><ele>4</ele></trkpt>
+   <trkpt lat="53.103435" lon="8.784156"><ele>4</ele></trkpt>
+   <trkpt lat="53.103337" lon="8.784248"><ele>4</ele></trkpt>
+   <trkpt lat="53.102509" lon="8.784971"><ele>4</ele></trkpt>
+   <trkpt lat="53.102493" lon="8.784982"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

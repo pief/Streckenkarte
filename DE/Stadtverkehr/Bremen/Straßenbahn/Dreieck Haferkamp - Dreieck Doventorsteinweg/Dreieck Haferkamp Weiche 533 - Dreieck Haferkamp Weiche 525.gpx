@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = 0 cost=118 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Dreieck Haferkamp Weiche 533 - Dreieck Haferkamp Weiche 525</name>
+  <link href="https://bikerouter.de/#map=19/53.08842/8.79343/osm-mapnik-german_style&amp;lonlats=8.792941,53.088923;8.79345,53.088525&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.088923" lon="8.792942"><ele>4</ele></trkpt>
+   <trkpt lat="53.088922" lon="8.792943"><ele>4</ele></trkpt>
+   <trkpt lat="53.088845" lon="8.793002"><ele>4</ele></trkpt>
+   <trkpt lat="53.088809" lon="8.793034"><ele>4</ele></trkpt>
+   <trkpt lat="53.088717" lon="8.793143"><ele>4</ele></trkpt>
+   <trkpt lat="53.088634" lon="8.793271"><ele>4</ele></trkpt>
+   <trkpt lat="53.088528" lon="8.793446"><ele>4</ele></trkpt>
+   <trkpt lat="53.088525" lon="8.79345"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
