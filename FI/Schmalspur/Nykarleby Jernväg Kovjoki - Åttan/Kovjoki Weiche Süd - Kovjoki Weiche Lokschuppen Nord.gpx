@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = 0 cost=24 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Kovjoki Weiche Süd - Kovjoki Weiche Lokschuppen Nord</name>
+  <link href="https://bikerouter.de/#map=19/63.51980/22.68958/osm-mapnik-german_style&amp;lonlats=22.690233,63.519995;22.689954,63.519823&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.519994" lon="22.690231"><ele>19.25</ele></trkpt>
+   <trkpt lat="63.519823" lon="22.689952"><ele>19.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = 0 cost=2 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Mjokan - Mjokan Weiche West</name>
+  <link href="https://bikerouter.de/#map=19/63.51676/22.67846/osm-mapnik-german_style&amp;lonlats=22.677726,63.516931;22.677745,63.516924&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.516926" lon="22.677725"><ele>20</ele></trkpt>
+   <trkpt lat="63.516926" lon="22.677745"><ele>20</ele></trkpt>
+   <trkpt lat="63.516925" lon="22.677745"><ele>20</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
