@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 559 filtered ascend = 0 plain-ascend = 0 cost=559 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Rovaniemi (Gleis 1) - Rovaniemi Weiche 605</name>
+  <link href="https://bikerouter.de/#map=18/66.49822/25.69513/osm-mapnik-german_style&amp;lonlats=25.70526,66.498017;25.692848,66.498438&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.498017" lon="25.70526"><ele>81</ele></trkpt>
+   <trkpt lat="66.498473" lon="25.696533"><ele>81</ele></trkpt>
+   <trkpt lat="66.498516" lon="25.695608"><ele>81</ele></trkpt>
+   <trkpt lat="66.498528" lon="25.694898"><ele>81</ele></trkpt>
+   <trkpt lat="66.498518" lon="25.694283"><ele>81</ele></trkpt>
+   <trkpt lat="66.49851" lon="25.693959"><ele>81</ele></trkpt>
+   <trkpt lat="66.498481" lon="25.693457"><ele>80.5</ele></trkpt>
+   <trkpt lat="66.498435" lon="25.692859"><ele>80.75</ele></trkpt>
+   <trkpt lat="66.498434" lon="25.692848"><ele>81</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

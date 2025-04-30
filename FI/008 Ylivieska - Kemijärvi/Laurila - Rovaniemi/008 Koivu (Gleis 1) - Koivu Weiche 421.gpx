@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 0 plain-ascend = 0 cost=359 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Koivu (Gleis 1) - Koivu Weiche 421</name>
+  <link href="https://bikerouter.de/#map=16/66.1691/25.2096/osm-mapnik-german_style&amp;lonlats=25.206832,66.169778;25.214245,66.170896&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.169779" lon="25.206829"><ele>52.75</ele></trkpt>
+   <trkpt lat="66.169969" lon="25.208087"><ele>53</ele></trkpt>
+   <trkpt lat="66.170509" lon="25.211759"><ele>53</ele></trkpt>
+   <trkpt lat="66.170703" lon="25.21299"><ele>53</ele></trkpt>
+   <trkpt lat="66.170894" lon="25.214248"><ele>53</ele></trkpt>
+   <trkpt lat="66.170893" lon="25.214245"><ele>53</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

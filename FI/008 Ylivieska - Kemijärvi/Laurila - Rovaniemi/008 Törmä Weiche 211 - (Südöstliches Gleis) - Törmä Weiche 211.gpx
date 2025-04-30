@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1034 filtered ascend = 0 plain-ascend = 0 cost=1035 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Törmä Weiche 211 - (Südöstliches Gleis) - Törmä Weiche 211</name>
+  <link href="https://bikerouter.de/#map=17/65.89279/24.61761/osm-mapnik-german_style&amp;lonlats=24.616056,65.892276;24.635511,65.897023&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="65.892275" lon="24.616055"><ele>24.75</ele></trkpt>
+   <trkpt lat="65.892277" lon="24.616063"><ele>25</ele></trkpt>
+   <trkpt lat="65.892617" lon="24.61742"><ele>25</ele></trkpt>
+   <trkpt lat="65.894315" lon="24.624365"><ele>25</ele></trkpt>
+   <trkpt lat="65.896702" lon="24.63418"><ele>25.5</ele></trkpt>
+   <trkpt lat="65.897025" lon="24.635506"><ele>24.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 650 filtered ascend = 0 plain-ascend = 0 cost=650 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Muurola (Gleis 1) - Muurola Weiche 521</name>
+  <link href="https://bikerouter.de/#map=18/66.37067/25.37582/osm-mapnik-german_style&amp;lonlats=25.375034,66.370806;25.3786,66.376306&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.370804" lon="25.375036"><ele>74</ele></trkpt>
+   <trkpt lat="66.37144" lon="25.375767"><ele>74.5</ele></trkpt>
+   <trkpt lat="66.373379" lon="25.378048"><ele>74.75</ele></trkpt>
+   <trkpt lat="66.373584" lon="25.378257"><ele>74</ele></trkpt>
+   <trkpt lat="66.373777" lon="25.378427"><ele>74.5</ele></trkpt>
+   <trkpt lat="66.37405" lon="25.378611"><ele>74.25</ele></trkpt>
+   <trkpt lat="66.374385" lon="25.378811"><ele>74.25</ele></trkpt>
+   <trkpt lat="66.374596" lon="25.378884"><ele>74</ele></trkpt>
+   <trkpt lat="66.374799" lon="25.378932"><ele>73.75</ele></trkpt>
+   <trkpt lat="66.375026" lon="25.378963"><ele>74</ele></trkpt>
+   <trkpt lat="66.375361" lon="25.378951"><ele>74</ele></trkpt>
+   <trkpt lat="66.375702" lon="25.378867"><ele>74</ele></trkpt>
+   <trkpt lat="66.376064" lon="25.378726"><ele>74</ele></trkpt>
+   <trkpt lat="66.376305" lon="25.3786"><ele>73.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

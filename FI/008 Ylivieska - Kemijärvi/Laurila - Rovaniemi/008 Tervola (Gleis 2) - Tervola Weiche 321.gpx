@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 648 filtered ascend = 3 plain-ascend = 3 cost=648 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Tervola (Gleis 2) - Tervola Weiche 321</name>
+  <link href="https://bikerouter.de/#map=18/66.08263/24.77253/osm-mapnik-german_style&amp;lonlats=24.771944,66.081629;24.777757,66.08694&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.081627" lon="24.771949"><ele>33.75</ele></trkpt>
+   <trkpt lat="66.083874" lon="24.774347"><ele>33.25</ele></trkpt>
+   <trkpt lat="66.084253" lon="24.774752"><ele>31</ele></trkpt>
+   <trkpt lat="66.086365" lon="24.777006"><ele>36</ele></trkpt>
+   <trkpt lat="66.08641" lon="24.777054"><ele>36</ele></trkpt>
+   <trkpt lat="66.086939" lon="24.777756"><ele>37</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
