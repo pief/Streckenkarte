@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 246 filtered ascend = 0 plain-ascend = 0 cost=246 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>521 Pello - Pello Weiche 411</name>
+  <link href="https://bikerouter.de/#map=17/66.78447/23.99488/osm-mapnik-german_style&amp;lonlats=23.993224,66.784471;23.991271,66.782414&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="66.78447" lon="23.993224"><ele>85</ele></trkpt>
+   <trkpt lat="66.784469" lon="23.993224"><ele>85</ele></trkpt>
+   <trkpt lat="66.783891" lon="23.992715"><ele>84.75</ele></trkpt>
+   <trkpt lat="66.783563" lon="23.992387"><ele>85</ele></trkpt>
+   <trkpt lat="66.782852" lon="23.991711"><ele>84</ele></trkpt>
+   <trkpt lat="66.782418" lon="23.991281"><ele>84</ele></trkpt>
+   <trkpt lat="66.782413" lon="23.991275"><ele>83.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
