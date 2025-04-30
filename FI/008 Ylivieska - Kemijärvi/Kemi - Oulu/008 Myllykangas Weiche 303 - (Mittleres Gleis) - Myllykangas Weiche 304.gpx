@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 974 filtered ascend = 3 plain-ascend = 3 cost=974 energy=0.0kwh time=1m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Myllykangas Weiche 303 - (Mittleres Gleis) - Myllykangas Weiche 304</name>
+  <link href="https://bikerouter.de/#map=17/65.53281/25.27639/osm-mapnik-german_style&amp;lonlats=25.277814,65.531868;25.267246,65.539417&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="65.531867" lon="25.277814"><ele>16.5</ele></trkpt>
+   <trkpt lat="65.531872" lon="25.277808"><ele>16.75</ele></trkpt>
+   <trkpt lat="65.53243" lon="25.277021"><ele>17.25</ele></trkpt>
+   <trkpt lat="65.53431" lon="25.274369"><ele>18.25</ele></trkpt>
+   <trkpt lat="65.538027" lon="25.269183"><ele>19.75</ele></trkpt>
+   <trkpt lat="65.539011" lon="25.267809"><ele>19.5</ele></trkpt>
+   <trkpt lat="65.539408" lon="25.267254"><ele>19.75</ele></trkpt>
+   <trkpt lat="65.539416" lon="25.267242"><ele>19.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

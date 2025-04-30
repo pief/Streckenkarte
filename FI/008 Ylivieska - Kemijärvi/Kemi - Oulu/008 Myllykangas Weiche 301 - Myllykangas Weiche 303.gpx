@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 33 filtered ascend = 0 plain-ascend = 1 cost=33 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Myllykangas Weiche 301 - Myllykangas Weiche 303</name>
+  <link href="https://bikerouter.de/#map=19/65.53178/25.27786/osm-mapnik-german_style&amp;lonlats=25.278173,65.531613;25.277814,65.531868&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="65.531612" lon="25.278168"><ele>16</ele></trkpt>
+   <trkpt lat="65.531867" lon="25.277814"><ele>16.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

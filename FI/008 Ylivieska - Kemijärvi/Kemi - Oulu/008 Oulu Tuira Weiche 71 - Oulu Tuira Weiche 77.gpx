@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=55 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Oulu Tuira Weiche 71 - Oulu Tuira Weiche 77</name>
+  <link href="https://bikerouter.de/#map=19/65.02771/25.48519/osm-mapnik-german_style&amp;lonlats=25.486227,65.027803;25.4851,65.027895&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="65.027801" lon="25.486225"><ele>14.5</ele></trkpt>
+   <trkpt lat="65.027801" lon="25.486227"><ele>14.75</ele></trkpt>
+   <trkpt lat="65.027816" lon="25.486035"><ele>14.5</ele></trkpt>
+   <trkpt lat="65.027891" lon="25.485098"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

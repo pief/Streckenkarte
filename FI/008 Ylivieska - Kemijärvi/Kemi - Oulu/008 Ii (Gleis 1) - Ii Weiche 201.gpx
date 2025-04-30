@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 713 filtered ascend = 0 plain-ascend = -2 cost=713 energy=0.0kwh time=57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>008 Ii (Gleis 1) - Ii Weiche 201</name>
+  <link href="https://bikerouter.de/#map=19/65.31282/25.43695/osm-mapnik-german_style&amp;lonlats=25.441726,65.318745;25.437298,65.312695&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="65.318744" lon="25.441721"><ele>20.5</ele></trkpt>
+   <trkpt lat="65.317911" lon="25.441596"><ele>20.5</ele></trkpt>
+   <trkpt lat="65.317374" lon="25.441479"><ele>20.25</ele></trkpt>
+   <trkpt lat="65.317249" lon="25.441439"><ele>20</ele></trkpt>
+   <trkpt lat="65.316614" lon="25.441163"><ele>21</ele></trkpt>
+   <trkpt lat="65.316089" lon="25.44083"><ele>20</ele></trkpt>
+   <trkpt lat="65.315513" lon="25.440388"><ele>18.75</ele></trkpt>
+   <trkpt lat="65.313141" lon="25.437786"><ele>18.25</ele></trkpt>
+   <trkpt lat="65.312699" lon="25.437302"><ele>17.25</ele></trkpt>
+   <trkpt lat="65.312694" lon="25.437297"><ele>17.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
