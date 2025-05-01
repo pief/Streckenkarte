@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 244 filtered ascend = 3 plain-ascend = 3 cost=244 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>6645 Zwönitz Weiche 12 - 6674 Zwönitz Weiche 13</name>
+  <link href="https://bikerouter.de/#map=19/50.62902/12.79335/osm-mapnik-german_style&amp;lonlats=12.795151,50.630418;12.792879,50.628782&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.630417" lon="12.79515"><ele>548.25</ele></trkpt>
+   <trkpt lat="50.630415" lon="12.795146"><ele>548.5</ele></trkpt>
+   <trkpt lat="50.630352" lon="12.795043"><ele>548</ele></trkpt>
+   <trkpt lat="50.630218" lon="12.794857"><ele>548</ele></trkpt>
+   <trkpt lat="50.629723" lon="12.794221"><ele>548</ele></trkpt>
+   <trkpt lat="50.629504" lon="12.793923"><ele>548</ele></trkpt>
+   <trkpt lat="50.62896" lon="12.793156"><ele>549</ele></trkpt>
+   <trkpt lat="50.628842" lon="12.792985"><ele>549.75</ele></trkpt>
+   <trkpt lat="50.628783" lon="12.792886"><ele>550.5</ele></trkpt>
+   <trkpt lat="50.62878" lon="12.79288"><ele>551.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
