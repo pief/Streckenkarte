@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 79 filtered ascend = 2 plain-ascend = 2 cost=158 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Dreieck Schröderplatz Weiche Süd-Ost - Dreieck Schröderplatz Weiche Nordost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/54.08758/12.12665/osm-mapnik-german_style&amp;lonlats=12.126444,54.087428;12.127175,54.087962&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.087427" lon="12.126442"><ele>11</ele></trkpt>
+   <trkpt lat="54.087432" lon="12.126444"><ele>11</ele></trkpt>
+   <trkpt lat="54.087542" lon="12.126512"><ele>11.25</ele></trkpt>
+   <trkpt lat="54.087653" lon="12.126614"><ele>11.75</ele></trkpt>
+   <trkpt lat="54.087738" lon="12.126728"><ele>12</ele></trkpt>
+   <trkpt lat="54.087812" lon="12.126863"><ele>12.5</ele></trkpt>
+   <trkpt lat="54.08796" lon="12.127171"><ele>12.75</ele></trkpt>
+   <trkpt lat="54.087961" lon="12.127174"><ele>13</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

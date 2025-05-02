@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 493 filtered ascend = 0 plain-ascend = 1 cost=986 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Schröderplatz (Steig B) - Goetheplatz (Steig B)</name>
+  <link href="https://bikerouter.de/#map=19/54.08257/12.12755/osm-mapnik-german_style&amp;lonlats=12.126141,54.08684;12.127351,54.082528&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.086839" lon="12.126141"><ele>10.5</ele></trkpt>
+   <trkpt lat="54.086638" lon="12.12606"><ele>10.5</ele></trkpt>
+   <trkpt lat="54.08643" lon="12.126006"><ele>10</ele></trkpt>
+   <trkpt lat="54.086099" lon="12.125969"><ele>9.75</ele></trkpt>
+   <trkpt lat="54.085797" lon="12.125981"><ele>9.25</ele></trkpt>
+   <trkpt lat="54.08566" lon="12.125981"><ele>9</ele></trkpt>
+   <trkpt lat="54.085547" lon="12.126007"><ele>9</ele></trkpt>
+   <trkpt lat="54.085404" lon="12.126039"><ele>9</ele></trkpt>
+   <trkpt lat="54.08522" lon="12.126101"><ele>9</ele></trkpt>
+   <trkpt lat="54.084987" lon="12.126196"><ele>9</ele></trkpt>
+   <trkpt lat="54.08457" lon="12.126381"><ele>10</ele></trkpt>
+   <trkpt lat="54.083043" lon="12.127112"><ele>11</ele></trkpt>
+   <trkpt lat="54.082565" lon="12.127333"><ele>11</ele></trkpt>
+   <trkpt lat="54.082527" lon="12.127349"><ele>11</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
