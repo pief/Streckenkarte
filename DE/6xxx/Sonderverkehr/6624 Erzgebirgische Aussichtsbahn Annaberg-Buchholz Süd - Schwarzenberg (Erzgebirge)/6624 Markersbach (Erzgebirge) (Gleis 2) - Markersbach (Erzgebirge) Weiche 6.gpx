@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 149 filtered ascend = 0 plain-ascend = 0 cost=149 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>6624 Markersbach (Erzgebirge) (Gleis 2) - Markersbach (Erzgebirge) Weiche 6</name>
+  <link href="https://bikerouter.de/#map=19/50.53458/12.85951/osm-mapnik-german_style&amp;lonlats=12.860838,50.534496;12.858781,50.534662">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.534493" lon="12.860837"><ele>484.25</ele></trkpt>
+   <trkpt lat="50.534506" lon="12.860686"><ele>484.25</ele></trkpt>
+   <trkpt lat="50.534521" lon="12.860493"><ele>484.25</ele></trkpt>
+   <trkpt lat="50.534526" lon="12.860428"><ele>484.25</ele></trkpt>
+   <trkpt lat="50.53466" lon="12.858781"><ele>484</ele></trkpt>
+   <trkpt lat="50.53466" lon="12.85878"><ele>484.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
