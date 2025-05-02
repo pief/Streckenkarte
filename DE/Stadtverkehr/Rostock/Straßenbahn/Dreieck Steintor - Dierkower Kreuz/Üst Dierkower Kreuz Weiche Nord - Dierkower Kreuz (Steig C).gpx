@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 2 plain-ascend = 3 cost=248 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>Üst Dierkower Kreuz Weiche Nord - Dierkower Kreuz (Steig C)</name>
+  <link href="https://bikerouter.de/#map=19/54.10365/12.15425/osm-mapnik-german_style&amp;lonlats=12.153711,54.102934;12.154382,54.103976&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="54.102933" lon="12.153713"><ele>10.25</ele></trkpt>
+   <trkpt lat="54.103059" lon="12.153796"><ele>11</ele></trkpt>
+   <trkpt lat="54.103673" lon="12.154181"><ele>12</ele></trkpt>
+   <trkpt lat="54.103975" lon="12.15438"><ele>13</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
