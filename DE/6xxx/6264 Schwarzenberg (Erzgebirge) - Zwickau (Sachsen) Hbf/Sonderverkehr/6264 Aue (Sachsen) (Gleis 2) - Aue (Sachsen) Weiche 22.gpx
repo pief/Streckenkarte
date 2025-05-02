@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 128 filtered ascend = 0 plain-ascend = 0 cost=128 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>6264 Aue (Sachsen) (Gleis 2) - Aue (Sachsen) Weiche 22</name>
+  <link href="https://bikerouter.de/#map=19/50.59191/12.69835/osm-mapnik-german_style&amp;lonlats=12.698619,50.591733;12.699466,50.590719&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.591733" lon="12.69862"><ele>347</ele></trkpt>
+   <trkpt lat="50.591324" lon="12.69892"><ele>347</ele></trkpt>
+   <trkpt lat="50.591241" lon="12.698986"><ele>347</ele></trkpt>
+   <trkpt lat="50.590939" lon="12.699238"><ele>347.25</ele></trkpt>
+   <trkpt lat="50.590724" lon="12.699463"><ele>347.5</ele></trkpt>
+   <trkpt lat="50.59072" lon="12.699468"><ele>347.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

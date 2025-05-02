@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 126 filtered ascend = 0 plain-ascend = 0 cost=126 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.26">
+ <trk>
+  <name>6264 Aue (Sachsen) Weiche 43 - 6645 Aue (Sachsen) Weiche 42</name>
+  <link href="https://bikerouter.de/#map=18/50.59374/12.69626/osm-mapnik-german_style&amp;lonlats=12.697226,50.593684;12.696466,50.594701&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.593683" lon="12.697224"><ele>346.25</ele></trkpt>
+   <trkpt lat="50.593685" lon="12.697223"><ele>346.5</ele></trkpt>
+   <trkpt lat="50.594105" lon="12.696923"><ele>346</ele></trkpt>
+   <trkpt lat="50.594535" lon="12.696613"><ele>345.5</ele></trkpt>
+   <trkpt lat="50.594701" lon="12.696466"><ele>345</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
