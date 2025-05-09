@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=106 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>Dreieck Stigbergstorget Weiche Nordost-Nord - Dreieck Stigbergstorget Weiche Südwest-Nord</name>
+  <link href="https://bikerouter.de/#map=19/57.69928/11.93561/osm-mapnik-german_style&amp;lonlats=11.934811,57.699239;11.934191,57.699117;11.934006,57.699071&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.699234" lon="11.934812"><ele>18.75</ele></trkpt>
+   <trkpt lat="57.699179" lon="11.934477"><ele>18.75</ele></trkpt>
+   <trkpt lat="57.699135" lon="11.934269"><ele>19</ele></trkpt>
+   <trkpt lat="57.699115" lon="11.934191"><ele>18.25</ele></trkpt>
+   <trkpt lat="57.699069" lon="11.934008"><ele>18.25</ele></trkpt>
+   <trkpt lat="57.699068" lon="11.934006"><ele>17.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
