@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 38 filtered ascend = 0 plain-ascend = 1 cost=76 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>Dreieck Grönsakstorget Weiche Nord-West - Dreieck Grönsakstorget Weiche West-Nord</name>
+  <link href="https://bikerouter.de/#map=19/57.70264/11.96472/osm-mapnik-german_style&amp;lonlats=11.964361,57.702963;11.964122,57.702688&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.702963" lon="11.964365"><ele>4</ele></trkpt>
+   <trkpt lat="57.702962" lon="11.964366"><ele>4</ele></trkpt>
+   <trkpt lat="57.702924" lon="11.964376"><ele>4</ele></trkpt>
+   <trkpt lat="57.702854" lon="11.964372"><ele>4</ele></trkpt>
+   <trkpt lat="57.702792" lon="11.964336"><ele>4</ele></trkpt>
+   <trkpt lat="57.702752" lon="11.964286"><ele>4</ele></trkpt>
+   <trkpt lat="57.70272" lon="11.964229"><ele>4</ele></trkpt>
+   <trkpt lat="57.702687" lon="11.964134"><ele>4.25</ele></trkpt>
+   <trkpt lat="57.702684" lon="11.964124"><ele>4.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

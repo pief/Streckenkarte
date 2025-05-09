@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 505 filtered ascend = 0 plain-ascend = -2 cost=1010 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>Hagakyrkan (Steig B) - Kreuz Järntorget Weiche Ost-nach-Süd-Ost</name>
+  <link href="https://bikerouter.de/#map=18/57.69983/11.95423/osm-mapnik-german_style&amp;lonlats=11.96246,57.699643;11.954074,57.700018&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.699643" lon="11.96246"><ele>5.25</ele></trkpt>
+   <trkpt lat="57.699644" lon="11.962455"><ele>5.25</ele></trkpt>
+   <trkpt lat="57.699685" lon="11.961574"><ele>4</ele></trkpt>
+   <trkpt lat="57.699694" lon="11.961097"><ele>4</ele></trkpt>
+   <trkpt lat="57.699676" lon="11.960727"><ele>3.75</ele></trkpt>
+   <trkpt lat="57.699684" lon="11.960027"><ele>3</ele></trkpt>
+   <trkpt lat="57.699685" lon="11.959851"><ele>3</ele></trkpt>
+   <trkpt lat="57.699723" lon="11.958976"><ele>2.25</ele></trkpt>
+   <trkpt lat="57.699734" lon="11.958191"><ele>2</ele></trkpt>
+   <trkpt lat="57.69978" lon="11.956824"><ele>2</ele></trkpt>
+   <trkpt lat="57.699835" lon="11.955918"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.699949" lon="11.954664"><ele>2</ele></trkpt>
+   <trkpt lat="57.700018" lon="11.954075"><ele>2</ele></trkpt>
+   <trkpt lat="57.700018" lon="11.954074"><ele>2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

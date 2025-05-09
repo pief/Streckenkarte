@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 2 plain-ascend = 2 cost=94 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>Dreieck Kämpebron Weiche Ost-Nord - Dreieck Kämpebron Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/57.70569/11.96308/osm-mapnik-german_style&amp;lonlats=11.963331,57.705731;11.963017,57.705414&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.705731" lon="11.96333"><ele>1.5</ele></trkpt>
+   <trkpt lat="57.705717" lon="11.963262"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.705707" lon="11.96321"><ele>1.75</ele></trkpt>
+   <trkpt lat="57.705693" lon="11.963176"><ele>2</ele></trkpt>
+   <trkpt lat="57.70567" lon="11.963116"><ele>2</ele></trkpt>
+   <trkpt lat="57.705668" lon="11.963112"><ele>2</ele></trkpt>
+   <trkpt lat="57.705645" lon="11.963073"><ele>2.25</ele></trkpt>
+   <trkpt lat="57.705628" lon="11.963053"><ele>2.25</ele></trkpt>
+   <trkpt lat="57.705606" lon="11.963029"><ele>2.5</ele></trkpt>
+   <trkpt lat="57.705588" lon="11.963014"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.705561" lon="11.963001"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.705537" lon="11.962994"><ele>3</ele></trkpt>
+   <trkpt lat="57.705514" lon="11.962991"><ele>3</ele></trkpt>
+   <trkpt lat="57.705492" lon="11.962994"><ele>3</ele></trkpt>
+   <trkpt lat="57.705478" lon="11.962997"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.705454" lon="11.963003"><ele>3.25</ele></trkpt>
+   <trkpt lat="57.705416" lon="11.963017"><ele>3.5</ele></trkpt>
+   <trkpt lat="57.705414" lon="11.963018"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

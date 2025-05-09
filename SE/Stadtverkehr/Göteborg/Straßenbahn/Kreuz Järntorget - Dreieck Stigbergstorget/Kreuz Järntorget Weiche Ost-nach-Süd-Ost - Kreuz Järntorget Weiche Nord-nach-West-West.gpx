@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 1 plain-ascend = 0 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>Kreuz Järntorget Weiche Ost-nach-Süd-Ost - Kreuz Järntorget Weiche Nord-nach-West-West</name>
+  <link href="https://bikerouter.de/#map=19/57.70005/11.95316/osm-mapnik-german_style&amp;lonlats=11.954074,57.700018;11.95324,57.700152&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.700018" lon="11.954074"><ele>2</ele></trkpt>
+   <trkpt lat="57.700018" lon="11.954075"><ele>2</ele></trkpt>
+   <trkpt lat="57.700065" lon="11.953822"><ele>2</ele></trkpt>
+   <trkpt lat="57.7001" lon="11.953628"><ele>2.75</ele></trkpt>
+   <trkpt lat="57.70011" lon="11.953565"><ele>3</ele></trkpt>
+   <trkpt lat="57.700125" lon="11.953452"><ele>3</ele></trkpt>
+   <trkpt lat="57.700147" lon="11.953244"><ele>3</ele></trkpt>
+   <trkpt lat="57.700147" lon="11.953238"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
