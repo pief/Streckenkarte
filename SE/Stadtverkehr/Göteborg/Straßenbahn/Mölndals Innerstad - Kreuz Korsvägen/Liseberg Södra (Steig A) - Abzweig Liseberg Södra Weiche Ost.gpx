@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 1 plain-ascend = 1 cost=350 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>Liseberg Södra (Steig A) - Abzweig Liseberg Södra Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/57.69284/11.98945/osm-mapnik-german_style&amp;lonlats=11.991899,57.691918;11.990266,57.69322&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="57.691918" lon="11.991899"><ele>9.75</ele></trkpt>
+   <trkpt lat="57.691921" lon="11.991896"><ele>10</ele></trkpt>
+   <trkpt lat="57.691954" lon="11.991853"><ele>10</ele></trkpt>
+   <trkpt lat="57.692157" lon="11.991568"><ele>9.75</ele></trkpt>
+   <trkpt lat="57.692356" lon="11.991288"><ele>9.75</ele></trkpt>
+   <trkpt lat="57.692561" lon="11.991"><ele>10.25</ele></trkpt>
+   <trkpt lat="57.692715" lon="11.990814"><ele>10</ele></trkpt>
+   <trkpt lat="57.692877" lon="11.990637"><ele>10</ele></trkpt>
+   <trkpt lat="57.693212" lon="11.990279"><ele>10.25</ele></trkpt>
+   <trkpt lat="57.693221" lon="11.99027"><ele>10.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
