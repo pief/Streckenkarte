@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = -1 cost=67 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>443 Wasen i.E. (Gleis 2) - Wasen i.E. Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/47.04324/7.79134/osm-mapnik-german_style&amp;lonlats=7.7913,47.043381;7.790463,47.043538&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.043385" lon="7.791301"><ele>745.75</ele></trkpt>
+   <trkpt lat="47.043536" lon="7.790467"><ele>744.25</ele></trkpt>
+   <trkpt lat="47.043536" lon="7.790462"><ele>744</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
