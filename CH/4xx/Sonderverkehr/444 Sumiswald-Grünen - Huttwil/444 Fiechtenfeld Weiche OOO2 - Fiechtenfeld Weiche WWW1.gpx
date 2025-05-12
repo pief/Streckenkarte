@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 342 filtered ascend = 1 plain-ascend = 1 cost=342 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>444 Fiechtenfeld Weiche OOO2 - Fiechtenfeld Weiche WWW1</name>
+  <link href="https://bikerouter.de/#map=18/47.11265/7.83457/osm-mapnik-german_style&amp;lonlats=7.834738,47.112693;7.830784,47.111243&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.11269" lon="7.834738"><ele>631.25</ele></trkpt>
+   <trkpt lat="47.112689" lon="7.834733"><ele>631.25</ele></trkpt>
+   <trkpt lat="47.112429" lon="7.833875"><ele>630.75</ele></trkpt>
+   <trkpt lat="47.112243" lon="7.83333"><ele>631.75</ele></trkpt>
+   <trkpt lat="47.111245" lon="7.830786"><ele>632.5</ele></trkpt>
+   <trkpt lat="47.111243" lon="7.830782"><ele>632</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 1 plain-ascend = 1 cost=130 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>444 Sumiswald-Grünen Weiche 7 - Sumiswald-Grünen Weiche 10</name>
+  <link href="https://bikerouter.de/#map=19/47.02661/7.73881/osm-mapnik-german_style&amp;lonlats=7.737304,47.025625;7.738216,47.026583&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.025624" lon="7.737303"><ele>662.5</ele></trkpt>
+   <trkpt lat="47.025628" lon="7.737309"><ele>662.5</ele></trkpt>
+   <trkpt lat="47.025753" lon="7.737498"><ele>662.25</ele></trkpt>
+   <trkpt lat="47.025932" lon="7.737739"><ele>662.5</ele></trkpt>
+   <trkpt lat="47.026077" lon="7.737891"><ele>662.25</ele></trkpt>
+   <trkpt lat="47.026197" lon="7.73799"><ele>662.5</ele></trkpt>
+   <trkpt lat="47.026271" lon="7.73804"><ele>662.25</ele></trkpt>
+   <trkpt lat="47.02651" lon="7.738179"><ele>663</ele></trkpt>
+   <trkpt lat="47.026581" lon="7.738215"><ele>663.25</ele></trkpt>
+   <trkpt lat="47.026582" lon="7.738215"><ele>663.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

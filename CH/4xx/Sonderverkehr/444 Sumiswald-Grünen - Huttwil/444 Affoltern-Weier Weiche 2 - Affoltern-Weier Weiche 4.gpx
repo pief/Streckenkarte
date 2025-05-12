@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=63 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>444 Affoltern-Weier Weiche 2 - Affoltern-Weier Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/47.06273/7.75052/osm-mapnik-german_style&amp;lonlats=7.749892,47.062394;7.749798,47.062947&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.062394" lon="7.749892"><ele>734.5</ele></trkpt>
+   <trkpt lat="47.062398" lon="7.749892"><ele>734.5</ele></trkpt>
+   <trkpt lat="47.062719" lon="7.749843"><ele>734.5</ele></trkpt>
+   <trkpt lat="47.062946" lon="7.749797"><ele>734.25</ele></trkpt>
+   <trkpt lat="47.062946" lon="7.749796"><ele>733.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
