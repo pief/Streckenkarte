@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 0 plain-ascend = 0 cost=256 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>003 Seinäjoki (Gleis 3) - Seinäjoki Weiche 005</name>
+  <link href="https://bikerouter.de/#map=18/62.79153/22.84558/osm-mapnik-german_style&amp;lonlats=22.843953,62.79233;22.84748,62.790717&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.792327" lon="22.843946"><ele>44.75</ele></trkpt>
+   <trkpt lat="62.792037" lon="22.844579"><ele>45</ele></trkpt>
+   <trkpt lat="62.792008" lon="22.844644"><ele>45</ele></trkpt>
+   <trkpt lat="62.791061" lon="22.846735"><ele>45</ele></trkpt>
+   <trkpt lat="62.79072" lon="22.847477"><ele>45</ele></trkpt>
+   <trkpt lat="62.790717" lon="22.847481"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

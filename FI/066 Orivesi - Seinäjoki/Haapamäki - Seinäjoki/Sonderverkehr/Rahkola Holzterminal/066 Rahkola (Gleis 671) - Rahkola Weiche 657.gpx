@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 984 filtered ascend = 0 plain-ascend = -4 cost=984 energy=0.0kwh time=1m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>066 Rahkola (Gleis 671) - Rahkola Weiche 657</name>
+  <link href="https://bikerouter.de/#map=16/62.7440/22.9403/osm-mapnik-german_style&amp;lonlats=22.941561,62.742606;22.940381,62.751413&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.742607" lon="22.941602"><ele>74.5</ele></trkpt>
+   <trkpt lat="62.749129" lon="22.940695"><ele>71</ele></trkpt>
+   <trkpt lat="62.75141" lon="22.940389"><ele>70</ele></trkpt>
+   <trkpt lat="62.751413" lon="22.940388"><ele>70</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
