@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 70 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>008 Seinäjoen ratapiha Weiche 830 - Seinäjoen ratapiha Weiche 835</name>
+  <link href="https://bikerouter.de/#map=19/62.78955/22.85394/osm-mapnik-german_style&amp;lonlats=22.854239,62.789548;22.853016,62.78982&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.789545" lon="22.854236"><ele>46</ele></trkpt>
+   <trkpt lat="62.789547" lon="22.85423"><ele>46</ele></trkpt>
+   <trkpt lat="62.789819" lon="22.853015"><ele>46</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1120 filtered ascend = 0 plain-ascend = -8 cost=1120 energy=0.0kwh time=1m 30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>008 Seinäjoki Weiche 604 - Seinäjoki tavara Weiche 801</name>
+  <link href="https://bikerouter.de/#map=16/62.7793/22.8782/osm-mapnik-german_style&amp;lonlats=22.891337,62.77281;22.875995,62.779965&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.77281" lon="22.891337"><ele>65.5</ele></trkpt>
+   <trkpt lat="62.772813" lon="22.89133"><ele>65.75</ele></trkpt>
+   <trkpt lat="62.7733" lon="22.890003"><ele>65</ele></trkpt>
+   <trkpt lat="62.773622" lon="22.889183"><ele>64.75</ele></trkpt>
+   <trkpt lat="62.774084" lon="22.888193"><ele>64.5</ele></trkpt>
+   <trkpt lat="62.774531" lon="22.887269"><ele>64</ele></trkpt>
+   <trkpt lat="62.775194" lon="22.885877"><ele>64</ele></trkpt>
+   <trkpt lat="62.777867" lon="22.880335"><ele>58.5</ele></trkpt>
+   <trkpt lat="62.777889" lon="22.880287"><ele>58.5</ele></trkpt>
+   <trkpt lat="62.77841" lon="22.879188"><ele>58</ele></trkpt>
+   <trkpt lat="62.779321" lon="22.87731"><ele>55.25</ele></trkpt>
+   <trkpt lat="62.779551" lon="22.876845"><ele>55.25</ele></trkpt>
+   <trkpt lat="62.779926" lon="22.876083"><ele>57</ele></trkpt>
+   <trkpt lat="62.779966" lon="22.876"><ele>57</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
