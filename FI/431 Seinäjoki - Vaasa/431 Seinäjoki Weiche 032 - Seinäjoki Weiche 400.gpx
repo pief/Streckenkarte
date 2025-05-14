@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=89 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>431 Seinäjoki Weiche 032 - Seinäjoki Weiche 400</name>
+  <link href="https://bikerouter.de/#map=19/62.79620/22.83559/osm-mapnik-german_style&amp;lonlats=22.834227,62.796495;22.835448,62.795947&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.796495" lon="22.834229"><ele>41.75</ele></trkpt>
+   <trkpt lat="62.796479" lon="22.834266"><ele>41.75</ele></trkpt>
+   <trkpt lat="62.795947" lon="22.835444"><ele>41.25</ele></trkpt>
+   <trkpt lat="62.795946" lon="22.835445"><ele>41</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

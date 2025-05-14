@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1031 filtered ascend = 4 plain-ascend = 3 cost=1031 energy=0.0kwh time=1m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>431 Vaasa Weiche 813 - Vaasa Weiche 816</name>
+  <link href="https://bikerouter.de/#map=17/63.09107/21.64740/osm-mapnik-german_style&amp;lonlats=21.643383,63.090986;21.642565,63.091175;21.626506,63.096119&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.090984" lon="21.643381"><ele>3</ele></trkpt>
+   <trkpt lat="63.090985" lon="21.64338"><ele>3</ele></trkpt>
+   <trkpt lat="63.091184" lon="21.642576"><ele>4.5</ele></trkpt>
+   <trkpt lat="63.091607" lon="21.640877"><ele>4.5</ele></trkpt>
+   <trkpt lat="63.092123" lon="21.639104"><ele>4.25</ele></trkpt>
+   <trkpt lat="63.093014" lon="21.636175"><ele>5.25</ele></trkpt>
+   <trkpt lat="63.094189" lon="21.632271"><ele>6.5</ele></trkpt>
+   <trkpt lat="63.094699" lon="21.630701"><ele>5</ele></trkpt>
+   <trkpt lat="63.095095" lon="21.629481"><ele>5.5</ele></trkpt>
+   <trkpt lat="63.096119" lon="21.626513"><ele>4.75</ele></trkpt>
+   <trkpt lat="63.09612" lon="21.626508"><ele>4.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

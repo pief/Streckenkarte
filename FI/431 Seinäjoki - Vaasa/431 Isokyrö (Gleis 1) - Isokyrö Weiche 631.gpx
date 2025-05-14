@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 338 filtered ascend = 0 plain-ascend = 0 cost=338 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>431 Isokyrö (Gleis 1) - Isokyrö Weiche 631</name>
+  <link href="https://bikerouter.de/#map=18/62.95038/22.39938/osm-mapnik-german_style&amp;lonlats=22.393949,62.951288;22.399739,62.949808&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.951294" lon="22.393957"><ele>25.75</ele></trkpt>
+   <trkpt lat="62.951123" lon="22.394622"><ele>25.75</ele></trkpt>
+   <trkpt lat="62.951067" lon="22.394837"><ele>26</ele></trkpt>
+   <trkpt lat="62.951015" lon="22.395037"><ele>26</ele></trkpt>
+   <trkpt lat="62.950232" lon="22.398033"><ele>25.75</ele></trkpt>
+   <trkpt lat="62.949805" lon="22.399726"><ele>24.25</ele></trkpt>
+   <trkpt lat="62.949803" lon="22.399733"><ele>25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

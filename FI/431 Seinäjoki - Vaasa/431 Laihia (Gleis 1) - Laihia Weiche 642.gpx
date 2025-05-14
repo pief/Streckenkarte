@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 508 filtered ascend = 0 plain-ascend = -1 cost=508 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>431 Laihia (Gleis 1) - Laihia Weiche 642</name>
+  <link href="https://bikerouter.de/#map=18/62.98980/22.00642/osm-mapnik-german_style&amp;lonlats=22.00314,62.990183;21.993765,62.991743&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.990191" lon="22.003145"><ele>14.5</ele></trkpt>
+   <trkpt lat="62.990244" lon="22.002732"><ele>14.75</ele></trkpt>
+   <trkpt lat="62.990405" lon="22.001531"><ele>14.25</ele></trkpt>
+   <trkpt lat="62.990598" lon="22.000118"><ele>14.5</ele></trkpt>
+   <trkpt lat="62.990757" lon="21.9991"><ele>14.5</ele></trkpt>
+   <trkpt lat="62.991008" lon="21.997594"><ele>13.75</ele></trkpt>
+   <trkpt lat="62.991403" lon="21.995486"><ele>14</ele></trkpt>
+   <trkpt lat="62.991482" lon="21.995081"><ele>14</ele></trkpt>
+   <trkpt lat="62.991739" lon="21.99378"><ele>13.25</ele></trkpt>
+   <trkpt lat="62.991742" lon="21.993764"><ele>13</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
