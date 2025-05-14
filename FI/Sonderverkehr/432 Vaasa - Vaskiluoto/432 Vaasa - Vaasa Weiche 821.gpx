@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 92 filtered ascend = 1 plain-ascend = 1 cost=92 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>432 Vaasa - Vaasa Weiche 821</name>
+  <link href="https://bikerouter.de/#map=19/63.09814/21.62092/osm-mapnik-german_style&amp;lonlats=21.621913,63.097752;21.620509,63.098257&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.097752" lon="21.621913"><ele>4</ele></trkpt>
+   <trkpt lat="63.097901" lon="21.621502"><ele>4.5</ele></trkpt>
+   <trkpt lat="63.098255" lon="21.620515"><ele>4.75</ele></trkpt>
+   <trkpt lat="63.098257" lon="21.620509"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

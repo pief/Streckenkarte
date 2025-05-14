@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 0 plain-ascend = 0 cost=123 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>432 Vaskiluoto Weiche 457 - Vaskiluoto Laivanvarustajankatu</name>
+  <link href="https://bikerouter.de/#map=18/63.08794/21.56297/osm-mapnik-german_style&amp;lonlats=21.564638,63.087882;21.562233,63.087753&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.087879" lon="21.564637"><ele>4</ele></trkpt>
+   <trkpt lat="63.08789" lon="21.564282"><ele>4</ele></trkpt>
+   <trkpt lat="63.087891" lon="21.564003"><ele>4</ele></trkpt>
+   <trkpt lat="63.087877" lon="21.563464"><ele>3.75</ele></trkpt>
+   <trkpt lat="63.087841" lon="21.562958"><ele>4</ele></trkpt>
+   <trkpt lat="63.087779" lon="21.562406"><ele>4</ele></trkpt>
+   <trkpt lat="63.087752" lon="21.562232"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
