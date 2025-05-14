@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 122 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>008 Seinäjoki Weiche 301 - Seinäjoki Weiche 303</name>
+  <link href="https://bikerouter.de/#map=19/62.79351/22.84177/osm-mapnik-german_style&amp;lonlats=22.841509,62.793612;22.843363,62.792935&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.793611" lon="22.841507"><ele>45</ele></trkpt>
+   <trkpt lat="62.793609" lon="22.841513"><ele>45</ele></trkpt>
+   <trkpt lat="62.793159" lon="22.842753"><ele>45</ele></trkpt>
+   <trkpt lat="62.792933" lon="22.843359"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

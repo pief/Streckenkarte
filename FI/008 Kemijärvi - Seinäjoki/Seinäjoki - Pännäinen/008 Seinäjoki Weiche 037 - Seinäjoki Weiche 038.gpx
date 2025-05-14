@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 1 plain-ascend = 0 cost=44 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>008 Seinäjoki Weiche 037 - Seinäjoki Weiche 038</name>
+  <link href="https://bikerouter.de/#map=19/62.79547/22.83699/osm-mapnik-german_style&amp;lonlats=22.836137,62.7957;22.836708,62.795432&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="62.795697" lon="22.836132"><ele>43.75</ele></trkpt>
+   <trkpt lat="62.795697" lon="22.836134"><ele>44</ele></trkpt>
+   <trkpt lat="62.795431" lon="22.836711"><ele>45</ele></trkpt>
+   <trkpt lat="62.795432" lon="22.836708"><ele>43.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
