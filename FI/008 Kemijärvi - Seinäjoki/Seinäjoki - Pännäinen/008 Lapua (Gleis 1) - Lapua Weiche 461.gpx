@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 421 filtered ascend = 0 plain-ascend = -2 cost=421 energy=0.0kwh time=34s -->
+<!-- track-length = 422 filtered ascend = 0 plain-ascend = -2 cost=422 energy=0.0kwh time=34s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.27">
+ creator="bikerouter.de 2025.28">
  <trk>
   <name>008 Lapua (Gleis 1) - Lapua Weiche 461</name>
-  <link href="https://bikerouter.de/#map=17/62.96850/23.01483/osm-mapnik-german_style&amp;lonlats=23.01432,62.970977;23.014783,62.967244&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=18/62.96990/23.01429/osm-mapnik-german_style&amp;lonlats=23.014359,62.971041;23.014802,62.967258&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="62.970977" lon="23.014328"><ele>32.25</ele></trkpt>
-   <trkpt lat="62.970975" lon="23.014329"><ele>32.5</ele></trkpt>
-   <trkpt lat="62.970457" lon="23.014522"><ele>32.75</ele></trkpt>
-   <trkpt lat="62.969908" lon="23.014695"><ele>32.75</ele></trkpt>
-   <trkpt lat="62.969007" lon="23.014864"><ele>31.75</ele></trkpt>
-   <trkpt lat="62.968649" lon="23.014862"><ele>31.5</ele></trkpt>
-   <trkpt lat="62.968366" lon="23.014857"><ele>31</ele></trkpt>
-   <trkpt lat="62.967246" lon="23.014785"><ele>29.25</ele></trkpt>
-   <trkpt lat="62.967242" lon="23.014784"><ele>29.25</ele></trkpt>
+   <trkpt lat="62.971041" lon="23.014363"><ele>32.25</ele></trkpt>
+   <trkpt lat="62.970986" lon="23.014383"><ele>32.5</ele></trkpt>
+   <trkpt lat="62.970462" lon="23.014581"><ele>32.5</ele></trkpt>
+   <trkpt lat="62.970182" lon="23.014665"><ele>32.75</ele></trkpt>
+   <trkpt lat="62.969641" lon="23.014792"><ele>32.75</ele></trkpt>
+   <trkpt lat="62.969379" lon="23.014835"><ele>32.25</ele></trkpt>
+   <trkpt lat="62.969018" lon="23.01487"><ele>31.75</ele></trkpt>
+   <trkpt lat="62.968648" lon="23.014883"><ele>31.5</ele></trkpt>
+   <trkpt lat="62.968408" lon="23.014886"><ele>30.5</ele></trkpt>
+   <trkpt lat="62.967994" lon="23.014853"><ele>30.75</ele></trkpt>
+   <trkpt lat="62.967802" lon="23.014839"><ele>30.25</ele></trkpt>
+   <trkpt lat="62.967264" lon="23.014802"><ele>29</ele></trkpt>
+   <trkpt lat="62.967257" lon="23.014801"><ele>29</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
