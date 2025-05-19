@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=50 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>Kreuz Albertplatz Weiche 396 - Kreuz Albertplatz Weiche 398</name>
+  <link href="https://bikerouter.de/#map=19/51.06354/13.74579/osm-mapnik-german_style&amp;lonlats=13.746737,51.063539;13.746635,51.063328&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.063538" lon="13.746735"><ele>113</ele></trkpt>
+   <trkpt lat="51.063451" lon="13.746711"><ele>113</ele></trkpt>
+   <trkpt lat="51.063402" lon="13.746679"><ele>113</ele></trkpt>
+   <trkpt lat="51.063337" lon="13.746637"><ele>113</ele></trkpt>
+   <trkpt lat="51.063329" lon="13.746629"><ele>113</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
