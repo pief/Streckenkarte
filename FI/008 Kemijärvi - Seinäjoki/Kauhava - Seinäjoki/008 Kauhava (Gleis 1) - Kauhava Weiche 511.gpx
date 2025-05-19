@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 215 filtered ascend = 0 plain-ascend = -2 cost=215 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>008 Kauhava (Gleis 1) - Kauhava Weiche 511</name>
+  <link href="https://bikerouter.de/#map=18/63.09792/23.03895/osm-mapnik-german_style&amp;lonlats=23.035415,63.099482;23.037048,63.097708&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.099483" lon="23.03542"><ele>36.75</ele></trkpt>
+   <trkpt lat="63.099475" lon="23.035428"><ele>36.75</ele></trkpt>
+   <trkpt lat="63.098642" lon="23.036194"><ele>36.5</ele></trkpt>
+   <trkpt lat="63.097711" lon="23.037051"><ele>35</ele></trkpt>
+   <trkpt lat="63.097708" lon="23.037053"><ele>34</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

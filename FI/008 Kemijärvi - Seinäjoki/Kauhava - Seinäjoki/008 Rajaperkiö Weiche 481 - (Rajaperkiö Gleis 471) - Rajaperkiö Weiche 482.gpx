@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1030 filtered ascend = 0 plain-ascend = -4 cost=1030 energy=0.0kwh time=1m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>008 Rajaperkiö Weiche 481 - (Rajaperkiö Gleis 471) - Rajaperkiö Weiche 482</name>
+  <link href="https://bikerouter.de/#map=19/63.03199/23.01391/osm-mapnik-german_style&amp;lonlats=23.012922,63.031676;23.014635,63.040859&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.031675" lon="23.012921"><ele>44.75</ele></trkpt>
+   <trkpt lat="63.031679" lon="23.012922"><ele>45</ele></trkpt>
+   <trkpt lat="63.032717" lon="23.013011"><ele>44.75</ele></trkpt>
+   <trkpt lat="63.032749" lon="23.013013"><ele>44.75</ele></trkpt>
+   <trkpt lat="63.035968" lon="23.013297"><ele>44.75</ele></trkpt>
+   <trkpt lat="63.036718" lon="23.013376"><ele>44.75</ele></trkpt>
+   <trkpt lat="63.037523" lon="23.013575"><ele>44</ele></trkpt>
+   <trkpt lat="63.038331" lon="23.013807"><ele>42.25</ele></trkpt>
+   <trkpt lat="63.039827" lon="23.014306"><ele>41.5</ele></trkpt>
+   <trkpt lat="63.040847" lon="23.014635"><ele>40.5</ele></trkpt>
+   <trkpt lat="63.040857" lon="23.014638"><ele>40</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
