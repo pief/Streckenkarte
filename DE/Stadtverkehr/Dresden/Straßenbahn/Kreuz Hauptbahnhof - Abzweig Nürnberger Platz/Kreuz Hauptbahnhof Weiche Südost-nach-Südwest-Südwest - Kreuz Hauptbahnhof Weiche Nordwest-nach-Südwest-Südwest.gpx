@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 0 plain-ascend = 0 cost=52 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>Kreuz Hauptbahnhof Weiche Südost-nach-Südwest-Südwest - Kreuz Hauptbahnhof Weiche Nordwest-nach-Südwest-Südwest</name>
+  <link href="https://bikerouter.de/#map=19/51.04025/13.73389/osm-mapnik-german_style&amp;lonlats=13.734023,51.040417;13.733827,51.040208">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.040415" lon="13.734025"><ele>114</ele></trkpt>
+   <trkpt lat="51.040351" lon="13.733967"><ele>114</ele></trkpt>
+   <trkpt lat="51.040304" lon="13.733919"><ele>114</ele></trkpt>
+   <trkpt lat="51.040272" lon="13.733884"><ele>114</ele></trkpt>
+   <trkpt lat="51.040216" lon="13.733838"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.040206" lon="13.733829"><ele>114</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
