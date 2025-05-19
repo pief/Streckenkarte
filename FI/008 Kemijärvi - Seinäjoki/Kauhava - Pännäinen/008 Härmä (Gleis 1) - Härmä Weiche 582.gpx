@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 467 filtered ascend = 0 plain-ascend = -2 cost=467 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>008 Härmä (Gleis 1) - Härmä Weiche 582</name>
+  <link href="https://bikerouter.de/#map=17/63.23407/22.87828/osm-mapnik-german_style&amp;lonlats=22.876546,63.234443;22.874093,63.238449&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.23444" lon="22.876531"><ele>38</ele></trkpt>
+   <trkpt lat="63.234938" lon="22.876074"><ele>38</ele></trkpt>
+   <trkpt lat="63.235549" lon="22.875582"><ele>37.75</ele></trkpt>
+   <trkpt lat="63.236015" lon="22.875242"><ele>37.75</ele></trkpt>
+   <trkpt lat="63.23662" lon="22.874904"><ele>37.5</ele></trkpt>
+   <trkpt lat="63.237426" lon="22.874495"><ele>37</ele></trkpt>
+   <trkpt lat="63.237952" lon="22.874272"><ele>33.25</ele></trkpt>
+   <trkpt lat="63.238295" lon="22.874149"><ele>35.25</ele></trkpt>
+   <trkpt lat="63.238455" lon="22.874087"><ele>35.5</ele></trkpt>
+   <trkpt lat="63.238448" lon="22.87409"><ele>35.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

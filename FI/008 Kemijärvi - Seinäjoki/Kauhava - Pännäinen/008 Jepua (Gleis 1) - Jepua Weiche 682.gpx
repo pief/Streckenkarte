@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 0 plain-ascend = 0 cost=327 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.27">
+ <trk>
+  <name>008 Jepua (Gleis 1) - Jepua Weiche 682</name>
+  <link href="https://bikerouter.de/#map=18/63.40804/22.65536/osm-mapnik-german_style&amp;lonlats=22.655103,63.408483;22.65092,63.410732&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.408482" lon="22.6551"><ele>21.75</ele></trkpt>
+   <trkpt lat="63.409878" lon="22.652495"><ele>21.5</ele></trkpt>
+   <trkpt lat="63.409891" lon="22.65247"><ele>21.5</ele></trkpt>
+   <trkpt lat="63.410455" lon="22.651418"><ele>17.75</ele></trkpt>
+   <trkpt lat="63.410666" lon="22.651034"><ele>18.25</ele></trkpt>
+   <trkpt lat="63.41073" lon="22.650919"><ele>20</ele></trkpt>
+   <trkpt lat="63.41073" lon="22.650918"><ele>21</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
