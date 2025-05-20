@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 1 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.21">
+ <trk>
+  <name>Kreuz Westring Weiche 326 - Kreuz Westring Weiche 327</name>
+  <link href="https://bikerouter.de/#map=19/52.12988/11.60535/osm-mapnik-german_style&amp;lonlats=11.605246,52.130002;11.605233,52.130038;11.605229,52.130044&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.130002" lon="11.605246"><ele>56</ele></trkpt>
+   <trkpt lat="52.130038" lon="11.605233"><ele>56</ele></trkpt>
+   <trkpt lat="52.130044" lon="11.60523"><ele>56.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

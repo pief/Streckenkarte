@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 0 plain-ascend = -1 cost=400 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Kreuz Breiter Weg/Ernst-Reuter-Allee Weiche 290 - City Carré (Steig Nord)</name>
+  <link href="https://bikerouter.de/#map=19/52.13127/11.63466/standard&amp;lonlats=11.635495,52.131227;11.632585,52.131288&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.131224" lon="11.635494"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.131235" lon="11.635402"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.131246" lon="11.63519"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.131253" lon="11.634788"><ele>59.5</ele></trkpt>
+   <trkpt lat="52.131256" lon="11.634635"><ele>59.25</ele></trkpt>
+   <trkpt lat="52.131264" lon="11.634186"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.131289" lon="11.632589"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.131289" lon="11.632585"><ele>57.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

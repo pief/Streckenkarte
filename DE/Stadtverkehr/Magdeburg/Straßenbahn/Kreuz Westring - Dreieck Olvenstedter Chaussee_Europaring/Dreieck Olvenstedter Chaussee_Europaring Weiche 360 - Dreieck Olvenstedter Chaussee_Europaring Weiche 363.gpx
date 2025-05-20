@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 105 filtered ascend = 0 plain-ascend = 1 cost=210 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.19">
+ <trk>
+  <name>Dreieck Olvenstedter Chaussee/Europaring Weiche 360 - Dreieck Olvenstedter Chaussee/Europaring Weiche 363</name>
+  <link href="https://bikerouter.de/#map=19/52.13862/11.60310/osm-mapnik-german_style&amp;lonlats=11.60318,52.137382;11.602676,52.138195&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.137382" lon="11.603185"><ele>56</ele></trkpt>
+   <trkpt lat="52.137385" lon="11.603185"><ele>56</ele></trkpt>
+   <trkpt lat="52.137594" lon="11.603164"><ele>56</ele></trkpt>
+   <trkpt lat="52.137781" lon="11.603151"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.137874" lon="11.603121"><ele>56.25</ele></trkpt>
+   <trkpt lat="52.137929" lon="11.603088"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.137966" lon="11.603054"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.138032" lon="11.602982"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.138113" lon="11.602837"><ele>56.75</ele></trkpt>
+   <trkpt lat="52.138163" lon="11.602733"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.138192" lon="11.602678"><ele>56.5</ele></trkpt>
+   <trkpt lat="52.138193" lon="11.602674"><ele>56.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
