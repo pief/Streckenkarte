@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>Kreuz Westring Weiche 331 - Kreuz Westring Weiche 330</name>
+  <link href="https://bikerouter.de/#map=19/52.12988/11.60476/osm-mapnik-german_style&amp;lonlats=11.604966,52.129727;11.604883,52.129723&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.129725" lon="11.604965"><ele>56</ele></trkpt>
+   <trkpt lat="52.129725" lon="11.604949"><ele>56</ele></trkpt>
+   <trkpt lat="52.129721" lon="11.604907"><ele>56</ele></trkpt>
+   <trkpt lat="52.129719" lon="11.60489"><ele>56</ele></trkpt>
+   <trkpt lat="52.129718" lon="11.604883"><ele>56</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
