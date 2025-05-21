@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>Kreuz Hasselbachplatz Weiche 40 - Kreuz Hasselbachplatz Weiche 46</name>
+  <link href="https://bikerouter.de/#map=19/52.12090/11.62747/osm-mapnik-german_style&amp;lonlats=11.627341,52.120489;11.627908,52.120729">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.120487" lon="11.62734"><ele>52</ele></trkpt>
+   <trkpt lat="52.120489" lon="11.627348"><ele>52</ele></trkpt>
+   <trkpt lat="52.120523" lon="11.627514"><ele>52</ele></trkpt>
+   <trkpt lat="52.120549" lon="11.627602"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.120565" lon="11.627644"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.120592" lon="11.627696"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.120688" lon="11.627848"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.12072" lon="11.627895"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.120727" lon="11.627906"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.120728" lon="11.627907"><ele>52.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
