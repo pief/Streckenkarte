@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 108 filtered ascend = 0 plain-ascend = 0 cost=216 energy=0.0kwh time=9s -->
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = 0 cost=198 energy=0.0kwh time=8s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.21">
+ creator="bikerouter.de 2025.29">
  <trk>
   <name>Abzweig Hartstraße - Allee-Center (Steig B)</name>
-  <link href="https://bikerouter.de/#map=19/52.13071/11.63759/osm-mapnik-german_style&amp;lonlats=11.638384,52.130541;11.636906,52.130891&amp;profile=rail">
+  <link href="https://bikerouter.de/#map=19/52.13081/11.63749/osm-mapnik-german_style&amp;lonlats=11.638392,52.130541;11.637037,52.13086&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
-   <trkpt lat="52.130541" lon="11.638384"><ele>56</ele></trkpt>
+   <trkpt lat="52.13054" lon="11.638391"><ele>56</ele></trkpt>
    <trkpt lat="52.13055" lon="11.638351"><ele>56</ele></trkpt>
    <trkpt lat="52.130683" lon="11.637749"><ele>56</ele></trkpt>
    <trkpt lat="52.130841" lon="11.637093"><ele>56</ele></trkpt>
-   <trkpt lat="52.130884" lon="11.636921"><ele>56</ele></trkpt>
-   <trkpt lat="52.130888" lon="11.636904"><ele>56</ele></trkpt>
+   <trkpt lat="52.130855" lon="11.637034"><ele>56</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
