@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 75 filtered ascend = 0 plain-ascend = 0 cost=150 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>Verkehrsbetriebe (Steig Südost) - Dreieck Otto-von-Guericke-/Hasselbachstraße Weiche 202</name>
+  <link href="https://bikerouter.de/#map=19/52.12834/11.63013/osm-mapnik-german_style&amp;lonlats=11.630241,52.127808;11.630549,52.128443&amp;nogos=11.627679,52.120576,7">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.127807" lon="11.63024"><ele>54</ele></trkpt>
+   <trkpt lat="52.127873" lon="11.630273"><ele>54</ele></trkpt>
+   <trkpt lat="52.127896" lon="11.630284"><ele>54</ele></trkpt>
+   <trkpt lat="52.128428" lon="11.630546"><ele>54</ele></trkpt>
+   <trkpt lat="52.128438" lon="11.630551"><ele>54</ele></trkpt>
+   <trkpt lat="52.128441" lon="11.630552"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

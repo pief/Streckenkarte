@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>Kreuz Hasselbachplatz Weiche 39 - Kreuz Hasselbachplatz Weiche 42</name>
+  <link href="https://bikerouter.de/#map=19/52.12063/11.62714/osm-mapnik-german_style&amp;lonlats=11.627298,52.120509;11.627025,52.12046&amp;nogos=11.619866,52.10965,7&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.120507" lon="11.627297"><ele>52</ele></trkpt>
+   <trkpt lat="52.120491" lon="11.627219"><ele>52</ele></trkpt>
+   <trkpt lat="52.12048" lon="11.627159"><ele>52</ele></trkpt>
+   <trkpt lat="52.120458" lon="11.627033"><ele>52</ele></trkpt>
+   <trkpt lat="52.120456" lon="11.627025"><ele>52</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
