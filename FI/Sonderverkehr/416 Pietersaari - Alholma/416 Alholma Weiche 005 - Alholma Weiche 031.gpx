@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 535 filtered ascend = 1 plain-ascend = 1 cost=536 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>416 Alholma Weiche 005 - Alholma Weiche 031</name>
+  <link href="https://bikerouter.de/#map=19/63.70933/22.69727/osm-mapnik-german_style&amp;lonlats=22.697762,63.709307;22.698559,63.704535&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.709306" lon="22.697764"><ele>2.75</ele></trkpt>
+   <trkpt lat="63.708587" lon="22.697704"><ele>2.75</ele></trkpt>
+   <trkpt lat="63.708404" lon="22.697685"><ele>2.5</ele></trkpt>
+   <trkpt lat="63.708177" lon="22.69768"><ele>2.5</ele></trkpt>
+   <trkpt lat="63.707957" lon="22.697692"><ele>2.75</ele></trkpt>
+   <trkpt lat="63.707731" lon="22.697723"><ele>2.25</ele></trkpt>
+   <trkpt lat="63.707018" lon="22.697899"><ele>2.25</ele></trkpt>
+   <trkpt lat="63.704537" lon="22.698563"><ele>4</ele></trkpt>
+   <trkpt lat="63.704535" lon="22.698563"><ele>4</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
