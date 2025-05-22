@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 0 plain-ascend = 0 cost=241 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.29">
+ <trk>
+  <name>008 Pännäinen (Gleis 1) - Pännäinen Weiche 815</name>
+  <link href="https://bikerouter.de/#map=17/63.59579/22.79298/osm-mapnik-german_style&amp;lonlats=22.790702,63.59561;22.787122,63.594158&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="63.595609" lon="22.790701"><ele>7.75</ele></trkpt>
+   <trkpt lat="63.594404" lon="22.787739"><ele>8</ele></trkpt>
+   <trkpt lat="63.594156" lon="22.787126"><ele>8</ele></trkpt>
+   <trkpt lat="63.594155" lon="22.787124"><ele>7.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
