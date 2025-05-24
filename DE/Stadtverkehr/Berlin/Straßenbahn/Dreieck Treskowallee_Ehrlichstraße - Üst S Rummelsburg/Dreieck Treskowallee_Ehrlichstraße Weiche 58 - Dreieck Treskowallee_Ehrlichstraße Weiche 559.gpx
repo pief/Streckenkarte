@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.31">
+ <trk>
+  <name>Dreieck Treskowallee/Ehrlichstraße Weiche 58 - Dreieck Treskowallee/Ehrlichstraße Weiche 559</name>
+  <link href="https://bikerouter.de/#map=19/52.47854/13.52496/osm-mapnik-german_style&amp;lonlats=13.524677,52.478829;13.524119,52.47868&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.478828" lon="13.524676"><ele>35.5</ele></trkpt>
+   <trkpt lat="52.478825" lon="13.524676"><ele>35.5</ele></trkpt>
+   <trkpt lat="52.478807" lon="13.524665"><ele>35.5</ele></trkpt>
+   <trkpt lat="52.478738" lon="13.524609"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.478681" lon="13.524515"><ele>35</ele></trkpt>
+   <trkpt lat="52.47865" lon="13.524426"><ele>35</ele></trkpt>
+   <trkpt lat="52.478641" lon="13.524364"><ele>35</ele></trkpt>
+   <trkpt lat="52.478648" lon="13.524248"><ele>34.75</ele></trkpt>
+   <trkpt lat="52.478678" lon="13.524121"><ele>35</ele></trkpt>
+   <trkpt lat="52.478679" lon="13.524118"><ele>35</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
