@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 79 filtered ascend = 0 plain-ascend = -1 cost=158 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.31">
+ <trk>
+  <name>Kurpfalzkreisel Weiche 8 - Kurpfalzkreisel Weiche West-nach-Nord-Nord</name>
+  <link href="https://bikerouter.de/#map=19/49.49344/8.47143/osm-mapnik-german_style&amp;lonlats=8.47051,49.493351;8.471466,49.493433&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.493351" lon="8.47051"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.493351" lon="8.470512"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.493314" lon="8.470603"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.493288" lon="8.470701"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.493272" lon="8.470794"><ele>96.75</ele></trkpt>
+   <trkpt lat="49.493263" lon="8.470938"><ele>97</ele></trkpt>
+   <trkpt lat="49.493279" lon="8.471116"><ele>97</ele></trkpt>
+   <trkpt lat="49.493304" lon="8.471258"><ele>97.25</ele></trkpt>
+   <trkpt lat="49.493324" lon="8.471317"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.493348" lon="8.471365"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.493433" lon="8.471466"><ele>94.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
