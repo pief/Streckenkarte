@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.31">
+ <trk>
+  <name>Dreieck Rheinstraße Weiche 112 - Dreieck Rheinstraße Weiche 113</name>
+  <link href="https://bikerouter.de/#map=19/51.33375/6.56596/osm-mapnik-german_style&amp;lonlats=6.565434,51.333811;6.565648,51.333412&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.333811" lon="6.565434"><ele>39</ele></trkpt>
+   <trkpt lat="51.333804" lon="6.565438"><ele>39</ele></trkpt>
+   <trkpt lat="51.333627" lon="6.565542"><ele>39</ele></trkpt>
+   <trkpt lat="51.333537" lon="6.565589"><ele>39</ele></trkpt>
+   <trkpt lat="51.333412" lon="6.565648"><ele>39</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
