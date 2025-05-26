@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 354 filtered ascend = 1 plain-ascend = 2 cost=708 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Simonstraße (Steig Nordost) - Mehringstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.12108/11.65810/osm-mapnik-german_style&amp;lonlats=11.661885,52.118703;11.658189,52.12091&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.118704" lon="11.661887"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.118772" lon="11.661777"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.118806" lon="11.661722"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.11888" lon="11.661604"><ele>45</ele></trkpt>
+   <trkpt lat="52.119402" lon="11.660688"><ele>46</ele></trkpt>
+   <trkpt lat="52.119803" lon="11.660025"><ele>46</ele></trkpt>
+   <trkpt lat="52.119838" lon="11.659969"><ele>46</ele></trkpt>
+   <trkpt lat="52.119856" lon="11.659939"><ele>46</ele></trkpt>
+   <trkpt lat="52.119912" lon="11.659851"><ele>46</ele></trkpt>
+   <trkpt lat="52.120001" lon="11.659709"><ele>46</ele></trkpt>
+   <trkpt lat="52.120081" lon="11.659574"><ele>46</ele></trkpt>
+   <trkpt lat="52.120576" lon="11.658751"><ele>46</ele></trkpt>
+   <trkpt lat="52.120908" lon="11.658192"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.120909" lon="11.658189"><ele>47</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

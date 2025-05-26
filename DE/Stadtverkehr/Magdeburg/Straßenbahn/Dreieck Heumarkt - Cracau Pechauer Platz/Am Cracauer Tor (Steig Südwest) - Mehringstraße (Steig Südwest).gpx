@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 0 plain-ascend = 0 cost=456 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Am Cracauer Tor (Steig Südwest) - Mehringstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.12136/11.65756/osm-mapnik-german_style&amp;lonlats=11.655064,52.122934;11.657258,52.121428&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.122933" lon="11.655061"><ele>47</ele></trkpt>
+   <trkpt lat="52.122933" lon="11.655062"><ele>47</ele></trkpt>
+   <trkpt lat="52.122801" lon="11.655185"><ele>47</ele></trkpt>
+   <trkpt lat="52.122592" lon="11.655388"><ele>47</ele></trkpt>
+   <trkpt lat="52.122461" lon="11.655544"><ele>47</ele></trkpt>
+   <trkpt lat="52.12241" lon="11.655615"><ele>47</ele></trkpt>
+   <trkpt lat="52.122306" lon="11.655769"><ele>47</ele></trkpt>
+   <trkpt lat="52.12182" lon="11.656588"><ele>47</ele></trkpt>
+   <trkpt lat="52.121767" lon="11.656678"><ele>47</ele></trkpt>
+   <trkpt lat="52.121426" lon="11.657255"><ele>46.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 1 plain-ascend = 0 cost=106 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Dreieck Heumarkt Weiche Nordwest-Süd - Dreieck Heumarkt Weiche Süd-West</name>
+  <link href="https://bikerouter.de/#map=19/52.12560/11.65535/osm-mapnik-german_style&amp;lonlats=11.65466,52.126051;11.655086,52.125705&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.126048" lon="11.654658"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.126046" lon="11.654669"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.12602" lon="11.654782"><ele>46.75</ele></trkpt>
+   <trkpt lat="52.125995" lon="11.654858"><ele>47</ele></trkpt>
+   <trkpt lat="52.125963" lon="11.654925"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.125883" lon="11.655022"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.125868" lon="11.655032"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.125798" lon="11.655068"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.125712" lon="11.655087"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.125705" lon="11.655088"><ele>46</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

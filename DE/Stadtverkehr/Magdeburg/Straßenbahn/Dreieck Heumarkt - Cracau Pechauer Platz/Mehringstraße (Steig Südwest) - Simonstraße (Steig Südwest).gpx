@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 371 filtered ascend = 0 plain-ascend = -1 cost=742 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Mehringstraße (Steig Südwest) - Simonstraße (Steig Südwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.11902/11.66147/osm-mapnik-german_style&amp;lonlats=11.657258,52.121428;11.661142,52.119108&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.121426" lon="11.657255"><ele>46.75</ele></trkpt>
+   <trkpt lat="52.121426" lon="11.657256"><ele>46.75</ele></trkpt>
+   <trkpt lat="52.121187" lon="11.65766"><ele>47</ele></trkpt>
+   <trkpt lat="52.120622" lon="11.658603"><ele>46</ele></trkpt>
+   <trkpt lat="52.120106" lon="11.659471"><ele>46</ele></trkpt>
+   <trkpt lat="52.120061" lon="11.659546"><ele>46</ele></trkpt>
+   <trkpt lat="52.119981" lon="11.659679"><ele>46</ele></trkpt>
+   <trkpt lat="52.119895" lon="11.659816"><ele>46</ele></trkpt>
+   <trkpt lat="52.119819" lon="11.65994"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.119375" lon="11.660669"><ele>46</ele></trkpt>
+   <trkpt lat="52.119229" lon="11.660933"><ele>46</ele></trkpt>
+   <trkpt lat="52.119117" lon="11.661133"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.11911" lon="11.661145"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
