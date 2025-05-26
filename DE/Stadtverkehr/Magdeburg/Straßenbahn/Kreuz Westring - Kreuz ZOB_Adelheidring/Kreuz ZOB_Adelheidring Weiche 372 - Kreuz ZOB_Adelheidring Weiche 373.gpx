@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Kreuz ZOB/Adelheidring Weiche 372 - Kreuz ZOB/Adelheidring Weiche 373</name>
+  <link href="https://bikerouter.de/#map=19/52.13207/11.62303/osm-mapnik-german_style&amp;lonlats=11.622442,52.132006;11.622462,52.132038&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.132006" lon="11.622442"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.132012" lon="11.622447"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.132036" lon="11.622465"><ele>53.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

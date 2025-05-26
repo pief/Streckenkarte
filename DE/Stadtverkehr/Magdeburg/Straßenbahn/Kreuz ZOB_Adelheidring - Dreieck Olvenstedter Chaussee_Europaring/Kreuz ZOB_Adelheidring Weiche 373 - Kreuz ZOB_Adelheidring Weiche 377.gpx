@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 1 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Kreuz ZOB/Adelheidring Weiche 373 - Kreuz ZOB/Adelheidring Weiche 377</name>
+  <link href="https://bikerouter.de/#map=19/52.13220/11.62244/osm-mapnik-german_style&amp;lonlats=11.622462,52.132038;11.622032,52.132484&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.132036" lon="11.622465"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.13204" lon="11.622469"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.132062" lon="11.622481"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.132101" lon="11.622495"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.132121" lon="11.622501"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.132163" lon="11.622509"><ele>53</ele></trkpt>
+   <trkpt lat="52.13223" lon="11.622496"><ele>53</ele></trkpt>
+   <trkpt lat="52.132309" lon="11.622441"><ele>53</ele></trkpt>
+   <trkpt lat="52.132376" lon="11.622349"><ele>53.5</ele></trkpt>
+   <trkpt lat="52.132429" lon="11.622214"><ele>54</ele></trkpt>
+   <trkpt lat="52.132446" lon="11.622157"><ele>54</ele></trkpt>
+   <trkpt lat="52.132484" lon="11.622036"><ele>54</ele></trkpt>
+   <trkpt lat="52.132484" lon="11.622032"><ele>54</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
