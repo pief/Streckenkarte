@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 359 filtered ascend = 0 plain-ascend = 0 cost=718 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Turmschanzenstraße/Friedensbrücke (Steig Nordost) - Gartenstraße (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.13529/11.65795/osm-mapnik-german_style&amp;lonlats=11.662057,52.13358;11.657704,52.135384&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.13358" lon="11.662057"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.133619" lon="11.661967"><ele>50</ele></trkpt>
+   <trkpt lat="52.13364" lon="11.661917"><ele>50</ele></trkpt>
+   <trkpt lat="52.133664" lon="11.66186"><ele>50</ele></trkpt>
+   <trkpt lat="52.133836" lon="11.661443"><ele>47.5</ele></trkpt>
+   <trkpt lat="52.135005" lon="11.658625"><ele>47.75</ele></trkpt>
+   <trkpt lat="52.135083" lon="11.65844"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.13536" lon="11.65777"><ele>50</ele></trkpt>
+   <trkpt lat="52.135386" lon="11.657706"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

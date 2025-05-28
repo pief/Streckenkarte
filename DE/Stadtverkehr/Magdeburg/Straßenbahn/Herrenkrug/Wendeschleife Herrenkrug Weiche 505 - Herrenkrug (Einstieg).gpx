@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 108 filtered ascend = 0 plain-ascend = 0 cost=216 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Wendeschleife Herrenkrug Weiche 505 - Herrenkrug (Einstieg)</name>
+  <link href="https://bikerouter.de/#map=19/52.15132/11.67939/osm-mapnik-german_style&amp;lonlats=11.680191,52.151879;11.679215,52.151297&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.15188" lon="11.680192"><ele>45</ele></trkpt>
+   <trkpt lat="52.151905" lon="11.680116"><ele>45</ele></trkpt>
+   <trkpt lat="52.151922" lon="11.680028"><ele>45</ele></trkpt>
+   <trkpt lat="52.151926" lon="11.679921"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.151923" lon="11.679871"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.151904" lon="11.679777"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.15186" lon="11.67966"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.151819" lon="11.679601"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.151776" lon="11.679557"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.151361" lon="11.679269"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.151294" lon="11.679222"><ele>45.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

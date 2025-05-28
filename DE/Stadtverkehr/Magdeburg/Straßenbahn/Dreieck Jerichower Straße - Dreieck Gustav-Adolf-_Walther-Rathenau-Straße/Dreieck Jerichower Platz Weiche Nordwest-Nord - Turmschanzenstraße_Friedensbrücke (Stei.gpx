@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 144 filtered ascend = 2 plain-ascend = 2 cost=288 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Dreieck Jerichower Platz Weiche Nordwest-Nord - Turmschanzenstraße/Friedensbrücke (Steig Nordost)</name>
+  <link href="https://bikerouter.de/#map=19/52.13344/11.66262/osm-mapnik-german_style&amp;lonlats=11.663854,52.132905;11.662057,52.13358&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.132904" lon="11.663853"><ele>48</ele></trkpt>
+   <trkpt lat="52.133027" lon="11.663535"><ele>48</ele></trkpt>
+   <trkpt lat="52.133144" lon="11.663166"><ele>48.5</ele></trkpt>
+   <trkpt lat="52.133247" lon="11.662869"><ele>49</ele></trkpt>
+   <trkpt lat="52.133575" lon="11.66207"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.13358" lon="11.662057"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

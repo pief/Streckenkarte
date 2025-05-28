@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 121 filtered ascend = 0 plain-ascend = 0 cost=242 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Abzweig Wendeschleife Elbauenpark Weiche Nord - Messegelände/Elbauenpark (Steig Nordwest)</name>
+  <link href="https://bikerouter.de/#map=19/52.13541/11.66750/osm-mapnik-german_style&amp;lonlats=11.668459,52.13603;11.667346,52.135181&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.13603" lon="11.668456"><ele>46</ele></trkpt>
+   <trkpt lat="52.135848" lon="11.668243"><ele>46</ele></trkpt>
+   <trkpt lat="52.135586" lon="11.6679"><ele>46</ele></trkpt>
+   <trkpt lat="52.135253" lon="11.667443"><ele>46</ele></trkpt>
+   <trkpt lat="52.13518" lon="11.667345"><ele>46</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
