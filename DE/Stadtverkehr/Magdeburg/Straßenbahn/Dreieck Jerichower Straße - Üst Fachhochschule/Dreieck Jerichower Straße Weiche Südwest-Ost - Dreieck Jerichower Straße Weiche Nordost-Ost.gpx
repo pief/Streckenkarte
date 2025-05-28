@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 0 plain-ascend = 0 cost=152 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Dreieck Jerichower Straße Weiche Südwest-Ost - Dreieck Jerichower Straße Weiche Nordost-Ost</name>
+  <link href="https://bikerouter.de/#map=19/52.13266/11.66408/osm-mapnik-german_style&amp;lonlats=11.664133,52.132352;11.664584,52.132958&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.132349" lon="11.66414"><ele>47</ele></trkpt>
+   <trkpt lat="52.132353" lon="11.664142"><ele>47</ele></trkpt>
+   <trkpt lat="52.132448" lon="11.664203"><ele>47</ele></trkpt>
+   <trkpt lat="52.1326" lon="11.664307"><ele>47</ele></trkpt>
+   <trkpt lat="52.132769" lon="11.664438"><ele>47</ele></trkpt>
+   <trkpt lat="52.132926" lon="11.664568"><ele>47</ele></trkpt>
+   <trkpt lat="52.132958" lon="11.664593"><ele>47</ele></trkpt>
+   <trkpt lat="52.132955" lon="11.664589"><ele>47</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
