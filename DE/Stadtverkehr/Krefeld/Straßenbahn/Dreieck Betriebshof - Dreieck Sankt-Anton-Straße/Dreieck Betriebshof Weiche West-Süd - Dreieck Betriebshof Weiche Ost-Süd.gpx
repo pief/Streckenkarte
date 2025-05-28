@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Dreieck Betriebshof Weiche West-Süd - Dreieck Betriebshof Weiche Ost-Süd</name>
+  <link href="https://bikerouter.de/#map=19/51.32858/6.53400/osm-mapnik-german_style&amp;lonlats=6.53256,51.328081;6.533435,51.328245&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.328078" lon="6.53256"><ele>39</ele></trkpt>
+   <trkpt lat="51.328079" lon="6.532565"><ele>39</ele></trkpt>
+   <trkpt lat="51.328124" lon="6.532806"><ele>39</ele></trkpt>
+   <trkpt lat="51.328203" lon="6.533216"><ele>39</ele></trkpt>
+   <trkpt lat="51.328244" lon="6.533428"><ele>39</ele></trkpt>
+   <trkpt lat="51.328245" lon="6.533433"><ele>39</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

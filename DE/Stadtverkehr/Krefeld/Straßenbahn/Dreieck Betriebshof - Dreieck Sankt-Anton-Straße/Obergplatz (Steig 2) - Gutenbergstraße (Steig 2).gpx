@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 607 filtered ascend = 0 plain-ascend = 0 cost=1214 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.32">
+ <trk>
+  <name>Obergplatz (Steig 2) - Gutenbergstraße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.33054/6.54459/osm-mapnik-german_style&amp;lonlats=6.537091,51.328907;6.545384,51.330598&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.328907" lon="6.537089"><ele>39</ele></trkpt>
+   <trkpt lat="51.32892" lon="6.537159"><ele>39</ele></trkpt>
+   <trkpt lat="51.328959" lon="6.537338"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.329044" lon="6.537617"><ele>39</ele></trkpt>
+   <trkpt lat="51.329084" lon="6.537793"><ele>39</ele></trkpt>
+   <trkpt lat="51.329438" lon="6.539626"><ele>38</ele></trkpt>
+   <trkpt lat="51.329603" lon="6.540466"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.329725" lon="6.541043"><ele>38</ele></trkpt>
+   <trkpt lat="51.330297" lon="6.543978"><ele>38.75</ele></trkpt>
+   <trkpt lat="51.330417" lon="6.544586"><ele>39</ele></trkpt>
+   <trkpt lat="51.330505" lon="6.54492"><ele>39</ele></trkpt>
+   <trkpt lat="51.330576" lon="6.545291"><ele>39</ele></trkpt>
+   <trkpt lat="51.330593" lon="6.545384"><ele>39</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
