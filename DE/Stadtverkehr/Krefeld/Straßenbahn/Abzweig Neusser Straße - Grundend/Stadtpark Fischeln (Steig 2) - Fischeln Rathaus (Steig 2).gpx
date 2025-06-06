@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 430 filtered ascend = 0 plain-ascend = 0 cost=860 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.36">
+ <trk>
+  <name>Stadtpark Fischeln (Steig 2) - Fischeln Rathaus (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.30587/6.58747/osm-mapnik-german_style&amp;lonlats=6.583667,51.309039;6.586942,51.305758&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.309038" lon="6.583665"><ele>40</ele></trkpt>
+   <trkpt lat="51.309006" lon="6.583697"><ele>40</ele></trkpt>
+   <trkpt lat="51.308931" lon="6.583774"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.3087" lon="6.584008"><ele>40</ele></trkpt>
+   <trkpt lat="51.308642" lon="6.584068"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.307893" lon="6.584808"><ele>40</ele></trkpt>
+   <trkpt lat="51.305756" lon="6.586939"><ele>40</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

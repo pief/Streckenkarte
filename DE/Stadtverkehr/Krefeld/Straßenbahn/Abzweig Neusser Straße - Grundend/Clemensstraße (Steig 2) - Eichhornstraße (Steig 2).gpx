@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 432 filtered ascend = 0 plain-ascend = 0 cost=864 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.36">
+ <trk>
+  <name>Clemensstraße (Steig 2) - Eichhornstraße (Steig 2)</name>
+  <link href="https://bikerouter.de/#map=19/51.30095/6.59329/osm-mapnik-german_style&amp;lonlats=6.589139,51.303574;6.592827,51.300707&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.303576" lon="6.589145"><ele>40</ele></trkpt>
+   <trkpt lat="51.303434" lon="6.589301"><ele>40</ele></trkpt>
+   <trkpt lat="51.302758" lon="6.590042"><ele>40</ele></trkpt>
+   <trkpt lat="51.302525" lon="6.590289"><ele>40</ele></trkpt>
+   <trkpt lat="51.302417" lon="6.590388"><ele>39.75</ele></trkpt>
+   <trkpt lat="51.301833" lon="6.590923"><ele>39.25</ele></trkpt>
+   <trkpt lat="51.300796" lon="6.591856"><ele>39</ele></trkpt>
+   <trkpt lat="51.300764" lon="6.591913"><ele>39</ele></trkpt>
+   <trkpt lat="51.300738" lon="6.591957"><ele>39</ele></trkpt>
+   <trkpt lat="51.300717" lon="6.592015"><ele>39</ele></trkpt>
+   <trkpt lat="51.300699" lon="6.592114"><ele>39</ele></trkpt>
+   <trkpt lat="51.300694" lon="6.592232"><ele>39</ele></trkpt>
+   <trkpt lat="51.300701" lon="6.592826"><ele>39</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
