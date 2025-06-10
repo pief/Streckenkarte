@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 0 cost=35 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>450 Burgdorf Weiche 136a/b - Burgdorf Weiche 151a/b</name>
+  <link href="https://bikerouter.de/#map=19/47.06142/7.61698/osm-mapnik-german_style&amp;lonlats=7.617495,47.06108;7.617055,47.061056&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.061077" lon="7.617494"><ele>533</ele></trkpt>
+   <trkpt lat="47.061077" lon="7.617493"><ele>533</ele></trkpt>
+   <trkpt lat="47.061068" lon="7.61727"><ele>533</ele></trkpt>
+   <trkpt lat="47.061061" lon="7.617059"><ele>533</ele></trkpt>
+   <trkpt lat="47.06106" lon="7.617053"><ele>533</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

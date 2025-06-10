@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 31 filtered ascend = 1 plain-ascend = 1 cost=31 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>440 Hasle-Rüegsau Weiche 23 - Hasle-Rüegsau Weiche 25</name>
+  <link href="https://bikerouter.de/#map=19/47.01374/7.66018/osm-mapnik-german_style&amp;lonlats=7.659678,47.013847;7.659991,47.013683&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.013851" lon="7.659682"><ele>571.25</ele></trkpt>
+   <trkpt lat="47.013686" lon="7.659988"><ele>570.75</ele></trkpt>
+   <trkpt lat="47.013683" lon="7.659991"><ele>572.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

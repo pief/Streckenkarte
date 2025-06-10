@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 140 filtered ascend = 0 plain-ascend = 1 cost=140 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>440 Lützelflüh-Goldbach Weiche 1 - Lützelflüh-Goldbach Weiche 4</name>
+  <link href="https://bikerouter.de/#map=19/47.00603/7.68005/osm-mapnik-german_style&amp;lonlats=7.679784,47.005924;7.681388,47.00535&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.005922" lon="7.679783"><ele>581</ele></trkpt>
+   <trkpt lat="47.005923" lon="7.679782"><ele>581</ele></trkpt>
+   <trkpt lat="47.00569" lon="7.680474"><ele>581.5</ele></trkpt>
+   <trkpt lat="47.005455" lon="7.681085"><ele>581.75</ele></trkpt>
+   <trkpt lat="47.005349" lon="7.681386"><ele>581.5</ele></trkpt>
+   <trkpt lat="47.005348" lon="7.681387"><ele>581.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

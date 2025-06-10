@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = -1 cost=240 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>440 Oberburg Weiche 31 - Oberburg Weiche 19</name>
+  <link href="https://bikerouter.de/#map=19/47.03830/7.63039/osm-mapnik-german_style&amp;lonlats=7.631483,47.03668;7.630316,47.038133;7.630026,47.038575&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.03668" lon="7.631483"><ele>549</ele></trkpt>
+   <trkpt lat="47.036682" lon="7.631482"><ele>549</ele></trkpt>
+   <trkpt lat="47.037702" lon="7.630643"><ele>548</ele></trkpt>
+   <trkpt lat="47.037975" lon="7.630432"><ele>548</ele></trkpt>
+   <trkpt lat="47.038133" lon="7.630318"><ele>547.5</ele></trkpt>
+   <trkpt lat="47.038178" lon="7.630286"><ele>547.5</ele></trkpt>
+   <trkpt lat="47.038573" lon="7.63003"><ele>547</ele></trkpt>
+   <trkpt lat="47.038575" lon="7.630028"><ele>547</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

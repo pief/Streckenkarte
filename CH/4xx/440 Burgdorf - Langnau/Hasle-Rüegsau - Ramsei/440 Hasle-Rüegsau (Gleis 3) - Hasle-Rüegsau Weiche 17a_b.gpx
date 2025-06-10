@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 129 filtered ascend = 0 plain-ascend = 0 cost=129 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>440 Hasle-Rüegsau (Gleis 3) - Hasle-Rüegsau Weiche 17a/b</name>
+  <link href="https://bikerouter.de/#map=19/47.01626/7.65487/osm-mapnik-german_style&amp;lonlats=7.655413,47.016115;7.656789,47.015436&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.016111" lon="7.65541"><ele>571</ele></trkpt>
+   <trkpt lat="47.016088" lon="7.655484"><ele>571.25</ele></trkpt>
+   <trkpt lat="47.015995" lon="7.655742"><ele>571.25</ele></trkpt>
+   <trkpt lat="47.015879" lon="7.656019"><ele>571</ele></trkpt>
+   <trkpt lat="47.015717" lon="7.656337"><ele>571.25</ele></trkpt>
+   <trkpt lat="47.015438" lon="7.656792"><ele>571.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

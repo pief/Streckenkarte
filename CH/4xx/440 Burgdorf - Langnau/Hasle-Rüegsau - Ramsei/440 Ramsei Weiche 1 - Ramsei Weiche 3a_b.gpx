@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 227 filtered ascend = 4 plain-ascend = 3 cost=227 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>440 Ramsei Weiche 1 - Ramsei Weiche 3a/b</name>
+  <link href="https://bikerouter.de/#map=19/46.99721/7.70657/osm-mapnik-german_style&amp;lonlats=7.705528,46.99712;7.706354,46.996999;7.708446,46.996803&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.997115" lon="7.705526"><ele>596.5</ele></trkpt>
+   <trkpt lat="46.997115" lon="7.70553"><ele>596.5</ele></trkpt>
+   <trkpt lat="46.997089" lon="7.705724"><ele>596.75</ele></trkpt>
+   <trkpt lat="46.997071" lon="7.705858"><ele>597</ele></trkpt>
+   <trkpt lat="46.997002" lon="7.706354"><ele>598.75</ele></trkpt>
+   <trkpt lat="46.996967" lon="7.706611"><ele>598.75</ele></trkpt>
+   <trkpt lat="46.996926" lon="7.706963"><ele>599.75</ele></trkpt>
+   <trkpt lat="46.996879" lon="7.707461"><ele>599.5</ele></trkpt>
+   <trkpt lat="46.996801" lon="7.70845"><ele>600</ele></trkpt>
+   <trkpt lat="46.996801" lon="7.708445"><ele>598.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

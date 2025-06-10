@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 285 filtered ascend = 0 plain-ascend = 1 cost=285 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>421 Burgdorf (Gleis 4) - Burgdorf Weiche NNN1</name>
+  <link href="https://bikerouter.de/#map=19/47.06094/7.62127/osm-mapnik-german_style&amp;lonlats=7.621657,47.06093;7.617946,47.061098&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.060925" lon="7.621656"><ele>532.25</ele></trkpt>
+   <trkpt lat="47.060978" lon="7.62065"><ele>532.25</ele></trkpt>
+   <trkpt lat="47.061041" lon="7.618946"><ele>533</ele></trkpt>
+   <trkpt lat="47.061092" lon="7.61794"><ele>533</ele></trkpt>
+   <trkpt lat="47.061092" lon="7.617945"><ele>533</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
