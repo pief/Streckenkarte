@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 1 plain-ascend = 2 cost=46 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>413 Langenthal Gaswerk - Langenthal Gaswerk Weiche 45</name>
+  <link href="https://bikerouter.de/#map=19/47.22456/7.78211/osm-mapnik-german_style&amp;lonlats=7.782252,47.224687;7.782615,47.224363&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.224688" lon="7.782256"><ele>463.75</ele></trkpt>
+   <trkpt lat="47.224517" lon="7.782445"><ele>464</ele></trkpt>
+   <trkpt lat="47.224366" lon="7.782609"><ele>464.25</ele></trkpt>
+   <trkpt lat="47.224362" lon="7.782613"><ele>465.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
