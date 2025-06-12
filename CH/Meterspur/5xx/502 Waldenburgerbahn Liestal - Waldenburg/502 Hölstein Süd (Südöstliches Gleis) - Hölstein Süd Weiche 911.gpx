@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = -2 cost=110 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>502 Hölstein Süd (Südöstliches Gleis) - Hölstein Süd Weiche 911</name>
+  <link href="https://bikerouter.de/#map=19/47.42258/7.76833/osm-mapnik-german_style&amp;lonlats=7.767063,47.422244;7.767897,47.423052&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.422246" lon="7.767056"><ele>435</ele></trkpt>
+   <trkpt lat="47.422353" lon="7.767173"><ele>435</ele></trkpt>
+   <trkpt lat="47.42258" lon="7.767422"><ele>434</ele></trkpt>
+   <trkpt lat="47.422896" lon="7.767734"><ele>432.75</ele></trkpt>
+   <trkpt lat="47.423051" lon="7.767898"><ele>432.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

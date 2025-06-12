@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 362 filtered ascend = 6 plain-ascend = 7 cost=362 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>502 Bad Bubendorf Weiche 906 - Talhaus Weiche 907</name>
+  <link href="https://bikerouter.de/#map=17/47.45535/7.74704/osm-mapnik-german_style&amp;lonlats=7.745662,47.456711;7.748135,47.453977&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.456715" lon="7.745668"><ele>365.25</ele></trkpt>
+   <trkpt lat="47.456038" lon="7.746597"><ele>366.75</ele></trkpt>
+   <trkpt lat="47.455832" lon="7.746844"><ele>368</ele></trkpt>
+   <trkpt lat="47.455617" lon="7.747058"><ele>368.25</ele></trkpt>
+   <trkpt lat="47.455468" lon="7.747182"><ele>368</ele></trkpt>
+   <trkpt lat="47.455243" lon="7.747341"><ele>367.75</ele></trkpt>
+   <trkpt lat="47.453981" lon="7.748133"><ele>370</ele></trkpt>
+   <trkpt lat="47.453977" lon="7.748135"><ele>372</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

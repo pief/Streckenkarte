@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 122 filtered ascend = 5 plain-ascend = 5 cost=122 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>502 Oberdorf BL Winkelweg (östliches Gleis) - Oberdorf BL Winkelweg Weiche 916</name>
+  <link href="https://bikerouter.de/#map=19/47.39724/7.74953/osm-mapnik-german_style&amp;lonlats=7.749189,47.397368;7.749028,47.396272&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.397367" lon="7.749181"><ele>489</ele></trkpt>
+   <trkpt lat="47.396972" lon="7.749099"><ele>490.75</ele></trkpt>
+   <trkpt lat="47.396808" lon="7.749076"><ele>491.75</ele></trkpt>
+   <trkpt lat="47.396278" lon="7.749032"><ele>494.5</ele></trkpt>
+   <trkpt lat="47.39627" lon="7.749031"><ele>494</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

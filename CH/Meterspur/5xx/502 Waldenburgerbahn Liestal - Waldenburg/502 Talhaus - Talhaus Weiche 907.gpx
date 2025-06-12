@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 323 filtered ascend = 0 plain-ascend = -3 cost=323 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>502 Talhaus - Talhaus Weiche 907</name>
+  <link href="https://bikerouter.de/#map=18/47.45297/7.74786/osm-mapnik-german_style&amp;lonlats=7.749902,47.451341;7.748135,47.453978&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.451341" lon="7.749902"><ele>374.25</ele></trkpt>
+   <trkpt lat="47.451596" lon="7.749705"><ele>373.75</ele></trkpt>
+   <trkpt lat="47.451713" lon="7.749618"><ele>373.75</ele></trkpt>
+   <trkpt lat="47.451784" lon="7.749566"><ele>373.75</ele></trkpt>
+   <trkpt lat="47.452324" lon="7.749182"><ele>373.75</ele></trkpt>
+   <trkpt lat="47.452556" lon="7.749029"><ele>372</ele></trkpt>
+   <trkpt lat="47.453977" lon="7.748135"><ele>370</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

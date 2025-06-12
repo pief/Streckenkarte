@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 1 plain-ascend = -3 cost=447 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>502 Hölstein - Hölstein Weiche 910</name>
+  <link href="https://bikerouter.de/#map=18/47.43043/7.77450/osm-mapnik-german_style&amp;lonlats=7.771147,47.42742;7.772682,47.430758&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.427418" lon="7.771147"><ele>420.75</ele></trkpt>
+   <trkpt lat="47.427557" lon="7.771201"><ele>420.75</ele></trkpt>
+   <trkpt lat="47.427918" lon="7.771297"><ele>421.75</ele></trkpt>
+   <trkpt lat="47.428483" lon="7.771511"><ele>420.5</ele></trkpt>
+   <trkpt lat="47.428715" lon="7.771615"><ele>420.75</ele></trkpt>
+   <trkpt lat="47.430307" lon="7.772452"><ele>418.5</ele></trkpt>
+   <trkpt lat="47.430756" lon="7.772684"><ele>417</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

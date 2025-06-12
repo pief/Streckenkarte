@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = -1 cost=100 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>502 Lampenberg-Ramlingsburg (Nordöstliches Gleis) - Lampenberg-Ramlingsburg Weiche 909</name>
+  <link href="https://bikerouter.de/#map=19/47.44283/7.76057/osm-mapnik-german_style&amp;lonlats=7.761243,47.442524;7.760114,47.442992&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.442524" lon="7.761243"><ele>394.5</ele></trkpt>
+   <trkpt lat="47.442606" lon="7.761039"><ele>394.5</ele></trkpt>
+   <trkpt lat="47.44268" lon="7.760852"><ele>393.5</ele></trkpt>
+   <trkpt lat="47.442879" lon="7.760361"><ele>394.75</ele></trkpt>
+   <trkpt lat="47.442989" lon="7.760116"><ele>393.25</ele></trkpt>
+   <trkpt lat="47.44299" lon="7.760112"><ele>392.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
