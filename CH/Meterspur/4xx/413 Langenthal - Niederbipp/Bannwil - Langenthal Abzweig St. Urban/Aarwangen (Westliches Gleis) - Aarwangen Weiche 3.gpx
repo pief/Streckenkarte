@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = -1 cost=67 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>Aarwangen (Westliches Gleis) - Aarwangen Weiche 3</name>
+  <link href="https://bikerouter.de/#map=19/47.24169/7.76940/osm-mapnik-german_style&amp;lonlats=7.769568,47.240907;7.769381,47.241477&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.240907" lon="7.769575"><ele>434.5</ele></trkpt>
+   <trkpt lat="47.240912" lon="7.769575"><ele>434.5</ele></trkpt>
+   <trkpt lat="47.241069" lon="7.769555"><ele>434.25</ele></trkpt>
+   <trkpt lat="47.241232" lon="7.769511"><ele>433.75</ele></trkpt>
+   <trkpt lat="47.241393" lon="7.769436"><ele>432.75</ele></trkpt>
+   <trkpt lat="47.241477" lon="7.769383"><ele>432.5</ele></trkpt>
+   <trkpt lat="47.241477" lon="7.769382"><ele>432.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 719 filtered ascend = 0 plain-ascend = 0 cost=719 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>Niederbipp Industrie - Oensingen Weiche 1</name>
+  <link href="https://bikerouter.de/#map=18/47.28454/7.70905/osm-mapnik-german_style&amp;lonlats=7.70328,47.27873;7.708618,47.284071&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.278729" lon="7.703279"><ele>462</ele></trkpt>
+   <trkpt lat="47.278866" lon="7.70342"><ele>462</ele></trkpt>
+   <trkpt lat="47.278959" lon="7.703514"><ele>461</ele></trkpt>
+   <trkpt lat="47.279105" lon="7.703664"><ele>460.25</ele></trkpt>
+   <trkpt lat="47.279483" lon="7.704037"><ele>461.75</ele></trkpt>
+   <trkpt lat="47.280208" lon="7.704696"><ele>461.75</ele></trkpt>
+   <trkpt lat="47.281624" lon="7.706157"><ele>462</ele></trkpt>
+   <trkpt lat="47.282332" lon="7.706847"><ele>461.25</ele></trkpt>
+   <trkpt lat="47.284069" lon="7.708619"><ele>461.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.42">
+ <trk>
+  <name>Niederbipp Weiche 42 - Niederbipp Weiche 43</name>
+  <link href="https://bikerouter.de/#map=19/47.26971/7.69537/osm-mapnik-german_style&amp;lonlats=7.693593,47.269149;7.693831,47.269407&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.269148" lon="7.693592"><ele>467.5</ele></trkpt>
+   <trkpt lat="47.269156" lon="7.693601"><ele>467.75</ele></trkpt>
+   <trkpt lat="47.269294" lon="7.693743"><ele>467.5</ele></trkpt>
+   <trkpt lat="47.269404" lon="7.693835"><ele>467.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
