@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 1 plain-ascend = 1 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.45">
+ <trk>
+  <name>Kreuz Raiffeisen-/Leipziger Straße Weiche 171 - Kreuz Raiffeisen-/Leipziger Straße Weiche 170</name>
+  <link href="https://bikerouter.de/#map=19/52.10954/11.62009/osm-mapnik-german_style&amp;lonlats=11.619552,52.109826;11.619504,52.109831&amp;nogos=11.619742,52.109763,4&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.109827" lon="11.619552"><ele>55</ele></trkpt>
+   <trkpt lat="52.109828" lon="11.619546"><ele>55</ele></trkpt>
+   <trkpt lat="52.109832" lon="11.61951"><ele>55</ele></trkpt>
+   <trkpt lat="52.109832" lon="11.619504"><ele>56</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

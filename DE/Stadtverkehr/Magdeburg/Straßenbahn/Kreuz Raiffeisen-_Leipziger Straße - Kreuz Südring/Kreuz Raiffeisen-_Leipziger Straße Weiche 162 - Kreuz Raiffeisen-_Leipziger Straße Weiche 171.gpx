@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 63 filtered ascend = 1 plain-ascend = 1 cost=126 energy=0.0kwh time=5s -->
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.21">
+ creator="bikerouter.de 2025.45">
  <trk>
-  <name>Kreuz Raiffeisen-/Leipziger Straße Weiche 162 - Kreuz Raiffeisen-/Leipziger Straße Weiche Nord-nach-West-West</name>
-  <link href="https://bikerouter.de/#map=19/52.10987/11.61954/osm-mapnik-german_style&amp;lonlats=11.620346,52.109714;11.619501,52.109839&amp;profile=rail">
+  <name>Kreuz Raiffeisen-/Leipziger Straße Weiche 162 - Kreuz Raiffeisen-/Leipziger Straße Weiche 171</name>
+  <link href="https://bikerouter.de/#map=19/52.10954/11.62009/osm-mapnik-german_style&amp;lonlats=11.620347,52.109717;11.619552,52.109826&amp;nogos=11.619742,52.109763,4&amp;profile=rail">
    <text>bikerouter.de</text>
   </link>
   <trkseg>
@@ -17,15 +17,14 @@
    <trkpt lat="52.109729" lon="11.620263"><ele>55</ele></trkpt>
    <trkpt lat="52.109759" lon="11.620081"><ele>55</ele></trkpt>
    <trkpt lat="52.109764" lon="11.620045"><ele>55</ele></trkpt>
-   <trkpt lat="52.109772" lon="11.619986"><ele>55</ele></trkpt>
+   <trkpt lat="52.109772" lon="11.619992"><ele>55</ele></trkpt>
+   <trkpt lat="52.109773" lon="11.619981"><ele>55</ele></trkpt>
    <trkpt lat="52.109778" lon="11.619938"><ele>55</ele></trkpt>
    <trkpt lat="52.109785" lon="11.619886"><ele>54.75</ele></trkpt>
    <trkpt lat="52.109793" lon="11.619833"><ele>55</ele></trkpt>
    <trkpt lat="52.1098" lon="11.619782"><ele>55</ele></trkpt>
    <trkpt lat="52.109827" lon="11.619553"><ele>55</ele></trkpt>
-   <trkpt lat="52.109828" lon="11.619546"><ele>55</ele></trkpt>
-   <trkpt lat="52.109832" lon="11.61951"><ele>55</ele></trkpt>
-   <trkpt lat="52.109833" lon="11.619499"><ele>56</ele></trkpt>
+   <trkpt lat="52.109827" lon="11.619552"><ele>55</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
