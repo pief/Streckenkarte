@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 419 filtered ascend = 0 plain-ascend = -7 cost=838 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.45">
+ <trk>
+  <name>Freibad Süd (Steig Ost) - Brenneckestraße (Steig Ost)</name>
+  <link href="https://bikerouter.de/#map=18/52.09439/11.62314/osm-mapnik-german_style&amp;lonlats=11.620778,52.095391;11.62059,52.099162&amp;nogos=11.619742,52.109763,4&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.095391" lon="11.620778"><ele>71</ele></trkpt>
+   <trkpt lat="52.095469" lon="11.620775"><ele>71</ele></trkpt>
+   <trkpt lat="52.096128" lon="11.620737"><ele>69.75</ele></trkpt>
+   <trkpt lat="52.098095" lon="11.620651"><ele>66.75</ele></trkpt>
+   <trkpt lat="52.098218" lon="11.620643"><ele>66.25</ele></trkpt>
+   <trkpt lat="52.098253" lon="11.620642"><ele>66.25</ele></trkpt>
+   <trkpt lat="52.098274" lon="11.620642"><ele>66</ele></trkpt>
+   <trkpt lat="52.098357" lon="11.620635"><ele>65.75</ele></trkpt>
+   <trkpt lat="52.098395" lon="11.620632"><ele>65.75</ele></trkpt>
+   <trkpt lat="52.098459" lon="11.620629"><ele>65.5</ele></trkpt>
+   <trkpt lat="52.098642" lon="11.620619"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.099162" lon="11.62059"><ele>63</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 424 filtered ascend = 7 plain-ascend = 7 cost=848 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2025.45">
+ <trk>
+  <name>Brenneckestraße (Steig West) - Freibad Süd (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/52.09480/11.62103/osm-mapnik-german_style&amp;lonlats=11.620569,52.098711;11.620759,52.094895&amp;nogos=11.619742,52.109763,4&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.098711" lon="11.620569"><ele>64.25</ele></trkpt>
+   <trkpt lat="52.098684" lon="11.620571"><ele>64.5</ele></trkpt>
+   <trkpt lat="52.098642" lon="11.620576"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.098471" lon="11.620586"><ele>65.5</ele></trkpt>
+   <trkpt lat="52.098406" lon="11.62059"><ele>65.5</ele></trkpt>
+   <trkpt lat="52.098366" lon="11.620592"><ele>65.75</ele></trkpt>
+   <trkpt lat="52.098273" lon="11.620597"><ele>66</ele></trkpt>
+   <trkpt lat="52.095468" lon="11.620732"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.094898" lon="11.620758"><ele>71</ele></trkpt>
+   <trkpt lat="52.094894" lon="11.620758"><ele>71</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
