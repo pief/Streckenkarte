@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 1 cost=60 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Breeplein (Steig Nordost) - Dreieck Breeplein Weiche 617</name>
+  <trkseg>
+   <trkpt lat="51.890208" lon="4.514907"><ele>0</ele></trkpt>
+   <trkpt lat="51.890226" lon="4.514835"><ele>0</ele></trkpt>
+   <trkpt lat="51.890271" lon="4.514708"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.890352" lon="4.514531"><ele>0.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
