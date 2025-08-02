@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 526 filtered ascend = 0 plain-ascend = -3 cost=1052 energy=0.0kwh time=42s -->
+<!-- track-length = 524 filtered ascend = 0 plain-ascend = -4 cost=1048 energy=0.0kwh time=42s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -9,15 +9,18 @@
  <trk>
   <name>Brielselaan (Steig Nordwest) - Pleinweg (Steig Nordwest)</name>
   <trkseg>
-   <trkpt lat="51.894368" lon="4.483945"><ele>5.75</ele></trkpt>
-   <trkpt lat="51.893244" lon="4.481924"><ele>3</ele></trkpt>
-   <trkpt lat="51.892226" lon="4.480072"><ele>2.25</ele></trkpt>
-   <trkpt lat="51.891719" lon="4.479141"><ele>0.25</ele></trkpt>
-   <trkpt lat="51.891666" lon="4.479044"><ele>0</ele></trkpt>
-   <trkpt lat="51.891558" lon="4.478808"><ele>0</ele></trkpt>
-   <trkpt lat="51.891514" lon="4.478724"><ele>0.25</ele></trkpt>
-   <trkpt lat="51.891327" lon="4.478237"><ele>0.5</ele></trkpt>
-   <trkpt lat="51.891295" lon="4.478149"><ele>1.5</ele></trkpt>
+   <trkpt lat="51.894373" lon="4.483952"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.894257" lon="4.483743"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.893249" lon="4.481921"><ele>3</ele></trkpt>
+   <trkpt lat="51.892225" lon="4.480073"><ele>2.25</ele></trkpt>
+   <trkpt lat="51.891841" lon="4.479381"><ele>0.75</ele></trkpt>
+   <trkpt lat="51.891718" lon="4.479143"><ele>0</ele></trkpt>
+   <trkpt lat="51.891667" lon="4.47904"><ele>0</ele></trkpt>
+   <trkpt lat="51.891559" lon="4.478809"><ele>0</ele></trkpt>
+   <trkpt lat="51.891517" lon="4.478716"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.891496" lon="4.478665"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.891418" lon="4.478477"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.891305" lon="4.478175"><ele>0.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

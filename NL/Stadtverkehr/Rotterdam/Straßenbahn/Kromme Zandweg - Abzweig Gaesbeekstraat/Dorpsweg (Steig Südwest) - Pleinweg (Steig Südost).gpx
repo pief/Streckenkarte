@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 410 filtered ascend = 1 plain-ascend = -1 cost=820 energy=0.0kwh time=33s -->
+<!-- track-length = 403 filtered ascend = 1 plain-ascend = -1 cost=806 energy=0.0kwh time=32s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -9,22 +9,26 @@
  <trk>
   <name>Dorpsweg (Steig Südwest) - Pleinweg (Steig Südost)</name>
   <trkseg>
-   <trkpt lat="51.891243" lon="4.472962"><ele>2</ele></trkpt>
-   <trkpt lat="51.891142" lon="4.473173"><ele>2</ele></trkpt>
-   <trkpt lat="51.891098" lon="4.473302"><ele>2</ele></trkpt>
-   <trkpt lat="51.891024" lon="4.473509"><ele>2</ele></trkpt>
-   <trkpt lat="51.890977" lon="4.473672"><ele>2</ele></trkpt>
-   <trkpt lat="51.890828" lon="4.474325"><ele>1.75</ele></trkpt>
-   <trkpt lat="51.890776" lon="4.474649"><ele>1.75</ele></trkpt>
-   <trkpt lat="51.890732" lon="4.475166"><ele>2</ele></trkpt>
-   <trkpt lat="51.890731" lon="4.475508"><ele>2.5</ele></trkpt>
-   <trkpt lat="51.89074" lon="4.475764"><ele>2.75</ele></trkpt>
-   <trkpt lat="51.890774" lon="4.47615"><ele>3.25</ele></trkpt>
-   <trkpt lat="51.890816" lon="4.476427"><ele>3.5</ele></trkpt>
-   <trkpt lat="51.89089" lon="4.476809"><ele>3.5</ele></trkpt>
-   <trkpt lat="51.89103" lon="4.477398"><ele>2.5</ele></trkpt>
-   <trkpt lat="51.891147" lon="4.477815"><ele>1.5</ele></trkpt>
-   <trkpt lat="51.891396" lon="4.478504"><ele>0.25</ele></trkpt>
+   <trkpt lat="51.891243" lon="4.472985"><ele>2</ele></trkpt>
+   <trkpt lat="51.891181" lon="4.473129"><ele>2</ele></trkpt>
+   <trkpt lat="51.891159" lon="4.47318"><ele>2</ele></trkpt>
+   <trkpt lat="51.891104" lon="4.473309"><ele>2</ele></trkpt>
+   <trkpt lat="51.891029" lon="4.473515"><ele>2</ele></trkpt>
+   <trkpt lat="51.890982" lon="4.473677"><ele>2</ele></trkpt>
+   <trkpt lat="51.89085" lon="4.474226"><ele>2</ele></trkpt>
+   <trkpt lat="51.890805" lon="4.474478"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.890769" lon="4.474738"><ele>1.75</ele></trkpt>
+   <trkpt lat="51.890735" lon="4.475176"><ele>2</ele></trkpt>
+   <trkpt lat="51.890732" lon="4.475502"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.890741" lon="4.475767"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.890764" lon="4.476054"><ele>3</ele></trkpt>
+   <trkpt lat="51.890799" lon="4.476331"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.890823" lon="4.476476"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.890908" lon="4.476893"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.891031" lon="4.477408"><ele>2.5</ele></trkpt>
+   <trkpt lat="51.891095" lon="4.477632"><ele>2</ele></trkpt>
+   <trkpt lat="51.891233" lon="4.478066"><ele>1</ele></trkpt>
+   <trkpt lat="51.891387" lon="4.478483"><ele>0.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
