@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 257 filtered ascend = 1 plain-ascend = 2 cost=514 energy=0.0kwh time=21s -->
+<!-- track-length = 258 filtered ascend = 0 plain-ascend = 1 cost=516 energy=0.0kwh time=21s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Dreieck Leuvehaven Weiche West-Nord - Vasteland (Steig Nordost-Nordwest)</name>
-  <link href="https://bikerouter.de/#map=18/51.91208/4.47959/osm-mapnik-german_style&amp;lonlats=4.481639,51.91233;4.478098,51.911696&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.912327" lon="4.481638"><ele>8</ele></trkpt>
-   <trkpt lat="51.912234" lon="4.480143"><ele>6</ele></trkpt>
-   <trkpt lat="51.912196" lon="4.479858"><ele>6.5</ele></trkpt>
-   <trkpt lat="51.912166" lon="4.479697"><ele>6.75</ele></trkpt>
-   <trkpt lat="51.912131" lon="4.479532"><ele>7</ele></trkpt>
-   <trkpt lat="51.912089" lon="4.47937"><ele>7</ele></trkpt>
-   <trkpt lat="51.9117" lon="4.478114"><ele>9</ele></trkpt>
-   <trkpt lat="51.911695" lon="4.478097"><ele>9.5</ele></trkpt>
+   <trkpt lat="51.912326" lon="4.481628"><ele>8</ele></trkpt>
+   <trkpt lat="51.912326" lon="4.481626"><ele>8.25</ele></trkpt>
+   <trkpt lat="51.912234" lon="4.480143"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.912196" lon="4.479858"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.912166" lon="4.479697"><ele>5.75</ele></trkpt>
+   <trkpt lat="51.912131" lon="4.479532"><ele>6</ele></trkpt>
+   <trkpt lat="51.912089" lon="4.47937"><ele>6</ele></trkpt>
+   <trkpt lat="51.9117" lon="4.478114"><ele>8</ele></trkpt>
+   <trkpt lat="51.911694" lon="4.478094"><ele>8.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

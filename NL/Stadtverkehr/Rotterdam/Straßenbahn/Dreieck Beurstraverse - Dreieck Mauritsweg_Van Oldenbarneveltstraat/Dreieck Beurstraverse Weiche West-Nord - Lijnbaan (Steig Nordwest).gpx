@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 243 filtered ascend = 0 plain-ascend = -1 cost=486 energy=0.0kwh time=19s -->
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = -2 cost=482 energy=0.0kwh time=19s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Dreieck Beurstraverse Weiche West-Nord - Lijnbaan (Steig Nordwest)</name>
-  <link href="https://bikerouter.de/#map=19/51.91945/4.47645/osm-mapnik-german_style&amp;lonlats=4.479485,51.919939;4.476103,51.91955&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.919933" lon="4.479486"><ele>7</ele></trkpt>
-   <trkpt lat="51.919694" lon="4.478069"><ele>6</ele></trkpt>
-   <trkpt lat="51.919684" lon="4.47797"><ele>5.75</ele></trkpt>
-   <trkpt lat="51.919682" lon="4.477919"><ele>5.75</ele></trkpt>
-   <trkpt lat="51.91969" lon="4.477818"><ele>5.75</ele></trkpt>
-   <trkpt lat="51.919703" lon="4.477749"><ele>5.75</ele></trkpt>
-   <trkpt lat="51.919759" lon="4.477542"><ele>5.5</ele></trkpt>
-   <trkpt lat="51.919769" lon="4.477461"><ele>5.5</ele></trkpt>
-   <trkpt lat="51.919768" lon="4.477324"><ele>5.25</ele></trkpt>
-   <trkpt lat="51.919754" lon="4.477213"><ele>5.25</ele></trkpt>
-   <trkpt lat="51.919706" lon="4.476952"><ele>5.25</ele></trkpt>
-   <trkpt lat="51.919641" lon="4.476606"><ele>5.25</ele></trkpt>
-   <trkpt lat="51.919551" lon="4.476112"><ele>4.75</ele></trkpt>
-   <trkpt lat="51.919549" lon="4.476102"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.919927" lon="4.479457"><ele>7.25</ele></trkpt>
+   <trkpt lat="51.919693" lon="4.47807"><ele>6.75</ele></trkpt>
+   <trkpt lat="51.919682" lon="4.477971"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.919682" lon="4.477873"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.919693" lon="4.477784"><ele>6</ele></trkpt>
+   <trkpt lat="51.919752" lon="4.477571"><ele>5.5</ele></trkpt>
+   <trkpt lat="51.919768" lon="4.477454"><ele>5</ele></trkpt>
+   <trkpt lat="51.919769" lon="4.477356"><ele>5</ele></trkpt>
+   <trkpt lat="51.919763" lon="4.477277"><ele>4.75</ele></trkpt>
+   <trkpt lat="51.919703" lon="4.476955"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.919639" lon="4.47661"><ele>4.25</ele></trkpt>
+   <trkpt lat="51.919548" lon="4.476112"><ele>4.5</ele></trkpt>
+   <trkpt lat="51.919546" lon="4.4761"><ele>4.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

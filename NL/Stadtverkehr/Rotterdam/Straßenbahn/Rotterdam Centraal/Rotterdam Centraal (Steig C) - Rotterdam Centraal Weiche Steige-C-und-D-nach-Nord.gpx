@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 58 filtered ascend = 7 plain-ascend = 8 cost=116 energy=0.0kwh time=5s -->
+<!-- track-length = 61 filtered ascend = 4 plain-ascend = 4 cost=122 energy=0.0kwh time=5s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.11">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Rotterdam Centraal (Steig C) - Rotterdam Centraal Weiche Steige-C-und-D-nach-Nord</name>
-  <link href="https://bikerouter.de/#map=19/51.92435/4.47108/osm-mapnik-german_style&amp;lonlats=4.47092,51.923984;4.471254,51.924384&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.923984" lon="4.470922"><ele>7.5</ele></trkpt>
-   <trkpt lat="51.924065" lon="4.470905"><ele>7.25</ele></trkpt>
-   <trkpt lat="51.924124" lon="4.470894"><ele>6.75</ele></trkpt>
-   <trkpt lat="51.924181" lon="4.470897"><ele>6.5</ele></trkpt>
-   <trkpt lat="51.924244" lon="4.470929"><ele>6.25</ele></trkpt>
-   <trkpt lat="51.924281" lon="4.470965"><ele>6.25</ele></trkpt>
-   <trkpt lat="51.924335" lon="4.471055"><ele>6.5</ele></trkpt>
-   <trkpt lat="51.924377" lon="4.471218"><ele>7.5</ele></trkpt>
-   <trkpt lat="51.924383" lon="4.47125"><ele>7.5</ele></trkpt>
-   <trkpt lat="51.924383" lon="4.471253"><ele>15.25</ele></trkpt>
+   <trkpt lat="51.923984" lon="4.470922"><ele>8</ele></trkpt>
+   <trkpt lat="51.924065" lon="4.470905"><ele>8</ele></trkpt>
+   <trkpt lat="51.92407" lon="4.470904"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.924168" lon="4.470894"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.924221" lon="4.470911"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.924249" lon="4.470931"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.924295" lon="4.470985"><ele>7.75</ele></trkpt>
+   <trkpt lat="51.924329" lon="4.471045"><ele>8</ele></trkpt>
+   <trkpt lat="51.924366" lon="4.471165"><ele>8.75</ele></trkpt>
+   <trkpt lat="51.924377" lon="4.471218"><ele>9</ele></trkpt>
+   <trkpt lat="51.924382" lon="4.471247"><ele>9.25</ele></trkpt>
+   <trkpt lat="51.924386" lon="4.471267"><ele>9.25</ele></trkpt>
+   <trkpt lat="51.92439" lon="4.47129"><ele>9.5</ele></trkpt>
+   <trkpt lat="51.924391" lon="4.471296"><ele>12.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

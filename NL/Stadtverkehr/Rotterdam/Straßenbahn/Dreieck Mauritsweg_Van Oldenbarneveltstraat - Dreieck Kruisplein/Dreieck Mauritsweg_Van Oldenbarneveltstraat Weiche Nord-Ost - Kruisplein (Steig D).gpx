@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 186 filtered ascend = 0 plain-ascend = -1 cost=372 energy=0.0kwh time=15s -->
+<!-- track-length = 186 filtered ascend = 0 plain-ascend = 0 cost=372 energy=0.0kwh time=15s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Dreieck Mauritsweg/Van Oldenbarneveltstraat Weiche Nord-Ost - Kruisplein (Steig D)</name>
-  <link href="https://bikerouter.de/#map=19/51.92045/4.47159/osm-mapnik-german_style&amp;lonlats=4.472251,51.919039;4.47191,51.920703&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.919039" lon="4.472252"><ele>4.75</ele></trkpt>
-   <trkpt lat="51.919343" lon="4.472158"><ele>3.75</ele></trkpt>
-   <trkpt lat="51.919456" lon="4.472132"><ele>3.5</ele></trkpt>
-   <trkpt lat="51.9198" lon="4.472078"><ele>2.75</ele></trkpt>
-   <trkpt lat="51.920111" lon="4.472028"><ele>2.75</ele></trkpt>
-   <trkpt lat="51.920419" lon="4.471974"><ele>2.75</ele></trkpt>
-   <trkpt lat="51.920702" lon="4.471908"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.919041" lon="4.472251"><ele>3.75</ele></trkpt>
+   <trkpt lat="51.919422" lon="4.472137"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.9198" lon="4.472076"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.920111" lon="4.472028"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.920642" lon="4.471927"><ele>3</ele></trkpt>
+   <trkpt lat="51.920702" lon="4.471911"><ele>3</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

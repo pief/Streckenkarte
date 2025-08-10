@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 182 filtered ascend = 11 plain-ascend = 11 cost=364 energy=0.0kwh time=15s -->
+<!-- track-length = 179 filtered ascend = 5 plain-ascend = 5 cost=358 energy=0.0kwh time=14s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.11">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Dreieck Beurs Weiche Nordost-Süd - Keizerstraat (Steig Südost)</name>
-  <link href="https://bikerouter.de/#map=19/51.91855/4.48452/osm-mapnik-german_style&amp;lonlats=4.481462,51.918149;4.483996,51.918621&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.918149" lon="4.48146"><ele>13.5</ele></trkpt>
-   <trkpt lat="51.91815" lon="4.481463"><ele>13.5</ele></trkpt>
+   <trkpt lat="51.918156" lon="4.481498"><ele>13.5</ele></trkpt>
    <trkpt lat="51.91816" lon="4.48152"><ele>13.5</ele></trkpt>
-   <trkpt lat="51.918285" lon="4.482252"><ele>13.75</ele></trkpt>
-   <trkpt lat="51.918617" lon="4.483996"><ele>24.5</ele></trkpt>
+   <trkpt lat="51.918291" lon="4.482236"><ele>19</ele></trkpt>
+   <trkpt lat="51.918616" lon="4.483995"><ele>18.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

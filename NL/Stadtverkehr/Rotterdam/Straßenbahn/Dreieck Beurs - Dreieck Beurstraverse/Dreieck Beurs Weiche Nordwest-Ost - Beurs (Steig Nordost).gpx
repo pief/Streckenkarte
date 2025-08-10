@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 73 filtered ascend = 0 plain-ascend = -2 cost=146 energy=0.0kwh time=6s -->
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = -4 cost=144 energy=0.0kwh time=6s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Dreieck Beurs Weiche Nordwest-Ost - Beurs (Steig Nordost)</name>
-  <link href="https://bikerouter.de/#map=19/51.91866/4.48045/osm-mapnik-german_style&amp;lonlats=4.48081,51.918293;4.480413,51.918895&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.918293" lon="4.480813"><ele>13.25</ele></trkpt>
-   <trkpt lat="51.918702" lon="4.480527"><ele>12.25</ele></trkpt>
-   <trkpt lat="51.918846" lon="4.480439"><ele>11.25</ele></trkpt>
-   <trkpt lat="51.918894" lon="4.48041"><ele>10.75</ele></trkpt>
+   <trkpt lat="51.9183" lon="4.480806"><ele>12.75</ele></trkpt>
+   <trkpt lat="51.918702" lon="4.480527"><ele>10.5</ele></trkpt>
+   <trkpt lat="51.918846" lon="4.480439"><ele>9.25</ele></trkpt>
+   <trkpt lat="51.918894" lon="4.480413"><ele>8</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

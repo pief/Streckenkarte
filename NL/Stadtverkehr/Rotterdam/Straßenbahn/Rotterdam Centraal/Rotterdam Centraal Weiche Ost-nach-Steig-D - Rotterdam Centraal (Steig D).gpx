@@ -5,17 +5,15 @@
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Rotterdam Centraal Weiche Ost-nach-Steig-D - Rotterdam Centraal (Steig D)</name>
-  <link href="https://bikerouter.de/#map=19/51.92355/4.47141/osm-mapnik-german_style&amp;lonlats=4.47113,51.923414;4.471001,51.92403&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.923414" lon="4.471131"><ele>9.5</ele></trkpt>
-   <trkpt lat="51.92348" lon="4.471116"><ele>9.5</ele></trkpt>
-   <trkpt lat="51.923985" lon="4.471007"><ele>8</ele></trkpt>
-   <trkpt lat="51.924029" lon="4.470997"><ele>7.5</ele></trkpt>
+   <trkpt lat="51.92342" lon="4.471129"><ele>10.75</ele></trkpt>
+   <trkpt lat="51.923471" lon="4.471118"><ele>10.75</ele></trkpt>
+   <trkpt lat="51.92348" lon="4.471116"><ele>10.75</ele></trkpt>
+   <trkpt lat="51.923985" lon="4.471007"><ele>9</ele></trkpt>
+   <trkpt lat="51.924029" lon="4.470997"><ele>8.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

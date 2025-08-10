@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=6s -->
+<!-- track-length = 69 filtered ascend = 0 plain-ascend = 0 cost=138 energy=0.0kwh time=6s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Dreieck Kruisplein Weiche Süd-West - Kruisplein (Steig C)</name>
-  <link href="https://bikerouter.de/#map=19/51.92042/4.47225/osm-mapnik-german_style&amp;lonlats=4.471838,51.920781;4.471972,51.920152&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.920781" lon="4.47184"><ele>2.75</ele></trkpt>
-   <trkpt lat="51.920429" lon="4.471924"><ele>2.75</ele></trkpt>
-   <trkpt lat="51.920154" lon="4.471972"><ele>2.75</ele></trkpt>
-   <trkpt lat="51.920152" lon="4.471972"><ele>2.75</ele></trkpt>
+   <trkpt lat="51.920765" lon="4.471845"><ele>3</ele></trkpt>
+   <trkpt lat="51.92076" lon="4.471847"><ele>3</ele></trkpt>
+   <trkpt lat="51.920752" lon="4.471849"><ele>3</ele></trkpt>
+   <trkpt lat="51.920545" lon="4.4719"><ele>3</ele></trkpt>
+   <trkpt lat="51.920184" lon="4.471967"><ele>3.25</ele></trkpt>
+   <trkpt lat="51.920151" lon="4.471971"><ele>3.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
