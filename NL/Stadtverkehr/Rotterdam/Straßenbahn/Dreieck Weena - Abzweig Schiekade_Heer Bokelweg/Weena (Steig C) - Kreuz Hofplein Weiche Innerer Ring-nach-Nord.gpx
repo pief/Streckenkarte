@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 106 filtered ascend = 0 plain-ascend = -4 cost=212 energy=0.0kwh time=8s -->
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = -1 cost=218 energy=0.0kwh time=9s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.24">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Weena (Steig C) - Kreuz Hofplein Weiche Innerer Ring-nach-Nord</name>
-  <link href="https://bikerouter.de/#map=19/51.92463/4.47737/osm-mapnik-german_style&amp;lonlats=4.47676,51.924249;4.477382,51.924511;4.477543,51.92485;4.477519,51.924947&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="51.924248" lon="4.476759"><ele>9.5</ele></trkpt>
-   <trkpt lat="51.92425" lon="4.476767"><ele>9.5</ele></trkpt>
-   <trkpt lat="51.924267" lon="4.476851"><ele>9</ele></trkpt>
-   <trkpt lat="51.924281" lon="4.476918"><ele>8.75</ele></trkpt>
-   <trkpt lat="51.924305" lon="4.477038"><ele>8.25</ele></trkpt>
-   <trkpt lat="51.92433" lon="4.477122"><ele>8</ele></trkpt>
-   <trkpt lat="51.924372" lon="4.477223"><ele>7.75</ele></trkpt>
-   <trkpt lat="51.924403" lon="4.477275"><ele>7.75</ele></trkpt>
-   <trkpt lat="51.924451" lon="4.477332"><ele>7.5</ele></trkpt>
-   <trkpt lat="51.92451" lon="4.477379"><ele>6.75</ele></trkpt>
-   <trkpt lat="51.924666" lon="4.477502"><ele>6.75</ele></trkpt>
-   <trkpt lat="51.924709" lon="4.477524"><ele>6.5</ele></trkpt>
-   <trkpt lat="51.924815" lon="4.477546"><ele>6.25</ele></trkpt>
-   <trkpt lat="51.924849" lon="4.477539"><ele>6</ele></trkpt>
-   <trkpt lat="51.924914" lon="4.477528"><ele>6</ele></trkpt>
-   <trkpt lat="51.924945" lon="4.477518"><ele>5.75</ele></trkpt>
-   <trkpt lat="51.924946" lon="4.477517"><ele>3.5</ele></trkpt>
+   <trkpt lat="51.924246" lon="4.476758"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924265" lon="4.476852"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924279" lon="4.47692"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924305" lon="4.477043"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924329" lon="4.477124"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924355" lon="4.477191"><ele>6.5</ele></trkpt>
+   <trkpt lat="51.924403" lon="4.477275"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924451" lon="4.477332"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924484" lon="4.477358"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924666" lon="4.477502"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924707" lon="4.477521"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924784" lon="4.477537"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924801" lon="4.477536"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924856" lon="4.477534"><ele>6.25</ele></trkpt>
+   <trkpt lat="51.924909" lon="4.477517"><ele>6</ele></trkpt>
+   <trkpt lat="51.924958" lon="4.477494"><ele>6</ele></trkpt>
+   <trkpt lat="51.924958" lon="4.477493"><ele>4.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
