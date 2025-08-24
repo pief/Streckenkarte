@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 2 plain-ascend = 3 cost=81 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>516 Blerick Weiche 251 - Blerick Weiche 253b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.37034/6.15925/osm-mapnik-german_style&amp;lonlats=6.160051,51.369921;6.15911,51.370329&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.369921" lon="6.160051"><ele>17.25</ele></trkpt>
+   <trkpt lat="51.369923" lon="6.160047"><ele>17.5</ele></trkpt>
+   <trkpt lat="51.370327" lon="6.159108"><ele>19.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

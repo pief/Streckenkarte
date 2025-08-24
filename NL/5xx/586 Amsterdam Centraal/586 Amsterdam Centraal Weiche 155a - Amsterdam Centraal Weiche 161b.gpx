@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 0 plain-ascend = 0 cost=139 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>586 Amsterdam Centraal Weiche 155a - Amsterdam Centraal Weiche 161b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.37851/4.90108/osm-mapnik-german_style&amp;lonlats=4.899536,52.379;4.900679,52.378586;4.901182,52.378402&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.379" lon="4.899536"><ele>6.75</ele></trkpt>
+   <trkpt lat="52.379001" lon="4.899536"><ele>6.75</ele></trkpt>
+   <trkpt lat="52.378859" lon="4.899928"><ele>7.5</ele></trkpt>
+   <trkpt lat="52.378727" lon="4.900297"><ele>7.25</ele></trkpt>
+   <trkpt lat="52.378686" lon="4.900411"><ele>7</ele></trkpt>
+   <trkpt lat="52.378658" lon="4.900489"><ele>7</ele></trkpt>
+   <trkpt lat="52.378658" lon="4.900491"><ele>7</ele></trkpt>
+   <trkpt lat="52.378587" lon="4.90068"><ele>7</ele></trkpt>
+   <trkpt lat="52.378503" lon="4.900908"><ele>7</ele></trkpt>
+   <trkpt lat="52.378403" lon="4.90118"><ele>7.25</ele></trkpt>
+   <trkpt lat="52.378402" lon="4.901182"><ele>7.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

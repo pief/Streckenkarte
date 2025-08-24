@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 131 filtered ascend = 0 plain-ascend = 0 cost=131 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>524 Zaandam (Gleis 4) - Zaandam Weiche 293a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.43717/4.81542/osm-mapnik-german_style&amp;lonlats=4.813841,52.438261;4.814289,52.437142&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.438261" lon="4.813841"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.43804" lon="4.813948"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.437591" lon="4.814134"><ele>3</ele></trkpt>
+   <trkpt lat="52.437436" lon="4.81419"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.437388" lon="4.814206"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.437376" lon="4.814209"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.437141" lon="4.814288"><ele>2.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

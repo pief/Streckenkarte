@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 259 filtered ascend = 0 plain-ascend = 0 cost=259 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>620 Alkmaar Weiche 79b - Alkmaar Weiche 91b</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.63535/4.73368/osm-mapnik-german_style&amp;lonlats=4.73555,52.636883;4.733168,52.63516&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.636882" lon="4.73555"><ele>2</ele></trkpt>
+   <trkpt lat="52.636773" lon="4.735305"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.636623" lon="4.734989"><ele>1</ele></trkpt>
+   <trkpt lat="52.636542" lon="4.734837"><ele>1</ele></trkpt>
+   <trkpt lat="52.63631" lon="4.734446"><ele>1</ele></trkpt>
+   <trkpt lat="52.636051" lon="4.734079"><ele>1</ele></trkpt>
+   <trkpt lat="52.635906" lon="4.733899"><ele>1</ele></trkpt>
+   <trkpt lat="52.635755" lon="4.733731"><ele>1</ele></trkpt>
+   <trkpt lat="52.635543" lon="4.73352"><ele>1.25</ele></trkpt>
+   <trkpt lat="52.63516" lon="4.733168"><ele>2</ele></trkpt>
+   <trkpt lat="52.63516" lon="4.733168"><ele>2</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

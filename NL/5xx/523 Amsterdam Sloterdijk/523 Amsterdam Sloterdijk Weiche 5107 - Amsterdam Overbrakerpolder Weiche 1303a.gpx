@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1174 filtered ascend = 0 plain-ascend = -7 cost=1174 energy=0.0kwh time=1m 34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>523 Amsterdam Sloterdijk Weiche 5107 - Amsterdam Overbrakerpolder Weiche 1303a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.38950/4.86272/osm-mapnik-german_style&amp;lonlats=4.846462,52.389064;4.863601,52.389126&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.389064" lon="4.846462"><ele>9.75</ele></trkpt>
+   <trkpt lat="52.389054" lon="4.848062"><ele>5.75</ele></trkpt>
+   <trkpt lat="52.38904" lon="4.849891"><ele>1</ele></trkpt>
+   <trkpt lat="52.389039" lon="4.850155"><ele>0.75</ele></trkpt>
+   <trkpt lat="52.389039" lon="4.85089"><ele>0.75</ele></trkpt>
+   <trkpt lat="52.389042" lon="4.851482"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.389042" lon="4.8515"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.389088" lon="4.857943"><ele>4</ele></trkpt>
+   <trkpt lat="52.389106" lon="4.860667"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.389109" lon="4.861032"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.389126" lon="4.863574"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.389126" lon="4.863601"><ele>1.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

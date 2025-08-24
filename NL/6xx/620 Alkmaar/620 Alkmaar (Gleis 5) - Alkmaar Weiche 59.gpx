@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 238 filtered ascend = 1 plain-ascend = 2 cost=238 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>620 Alkmaar (Gleis 5) - Alkmaar Weiche 59</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.63768/4.73802/osm-mapnik-german_style&amp;lonlats=4.740674,52.638186;4.737355,52.637616&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.638186" lon="4.740673"><ele>3</ele></trkpt>
+   <trkpt lat="52.637984" lon="4.738948"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.637916" lon="4.738518"><ele>3.75</ele></trkpt>
+   <trkpt lat="52.637845" lon="4.73819"><ele>4</ele></trkpt>
+   <trkpt lat="52.637821" lon="4.738092"><ele>4</ele></trkpt>
+   <trkpt lat="52.637616" lon="4.737357"><ele>4.5</ele></trkpt>
+   <trkpt lat="52.637615" lon="4.737354"><ele>4.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

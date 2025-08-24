@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 196 filtered ascend = 0 plain-ascend = 1 cost=196 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>057 Oud Heeze Weiche 45 - Oud Heeze Weiche 43</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.37777/5.57503/osm-mapnik-german_style&amp;lonlats=5.575964,51.375627;5.57488,51.377248&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.375627" lon="5.575964"><ele>21.25</ele></trkpt>
+   <trkpt lat="51.376869" lon="5.57513"><ele>22</ele></trkpt>
+   <trkpt lat="51.377247" lon="5.574878"><ele>22</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

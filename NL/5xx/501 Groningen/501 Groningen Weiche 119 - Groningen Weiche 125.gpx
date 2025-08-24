@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 160 filtered ascend = 2 plain-ascend = 2 cost=160 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>501 Groningen Weiche 119 - Groningen Weiche 125</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.21098/6.56986/osm-mapnik-german_style&amp;lonlats=6.568872,53.21091;6.570248,53.210919;6.571164,53.210799&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.210906" lon="6.568871"><ele>6.5</ele></trkpt>
+   <trkpt lat="53.210907" lon="6.568878"><ele>6.5</ele></trkpt>
+   <trkpt lat="53.210934" lon="6.56969"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.210934" lon="6.569854"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.210923" lon="6.57018"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.210917" lon="6.570247"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.210909" lon="6.570357"><ele>5</ele></trkpt>
+   <trkpt lat="53.21089" lon="6.570536"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.210821" lon="6.571011"><ele>6.5</ele></trkpt>
+   <trkpt lat="53.210798" lon="6.571163"><ele>7.25</ele></trkpt>
+   <trkpt lat="53.210797" lon="6.571163"><ele>7.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

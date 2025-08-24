@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 233 filtered ascend = 0 plain-ascend = 0 cost=233 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>517 Venlo (Gleis 3) - Venlo Weiche 201b</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.36497/6.17186/osm-mapnik-german_style&amp;lonlats=6.171645,51.36451;6.169262,51.365901&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.364512" lon="6.171649"><ele>21.5</ele></trkpt>
+   <trkpt lat="51.364695" lon="6.171414"><ele>21.5</ele></trkpt>
+   <trkpt lat="51.364702" lon="6.171406"><ele>21.75</ele></trkpt>
+   <trkpt lat="51.364714" lon="6.17139"><ele>21.75</ele></trkpt>
+   <trkpt lat="51.364749" lon="6.171345"><ele>21.75</ele></trkpt>
+   <trkpt lat="51.364938" lon="6.171065"><ele>21.75</ele></trkpt>
+   <trkpt lat="51.365137" lon="6.170739"><ele>22</ele></trkpt>
+   <trkpt lat="51.365199" lon="6.17064"><ele>22</ele></trkpt>
+   <trkpt lat="51.365329" lon="6.170421"><ele>22</ele></trkpt>
+   <trkpt lat="51.365479" lon="6.170141"><ele>22</ele></trkpt>
+   <trkpt lat="51.365583" lon="6.169923"><ele>21.75</ele></trkpt>
+   <trkpt lat="51.365899" lon="6.169265"><ele>22</ele></trkpt>
+   <trkpt lat="51.3659" lon="6.169261"><ele>21.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

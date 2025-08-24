@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 266 filtered ascend = 0 plain-ascend = -2 cost=266 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>057 Maarheeze Weiche 87 - Maarheeze Weiche 81</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.30854/5.62729/osm-mapnik-german_style&amp;lonlats=5.628769,51.306355;5.627118,51.308489&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.306354" lon="5.628768"><ele>28.5</ele></trkpt>
+   <trkpt lat="51.306357" lon="5.628766"><ele>28.75</ele></trkpt>
+   <trkpt lat="51.308488" lon="5.627119"><ele>25.75</ele></trkpt>
+   <trkpt lat="51.308489" lon="5.627118"><ele>25.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 0 plain-ascend = 0 cost=256 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>200 Baflo (Gleis 2) - Baflo Weiche 171</name>
+  <trkseg>
+   <trkpt lat="53.361047" lon="6.5188"><ele>1</ele></trkpt>
+   <trkpt lat="53.361898" lon="6.518954"><ele>1.25</ele></trkpt>
+   <trkpt lat="53.362596" lon="6.519078"><ele>1.75</ele></trkpt>
+   <trkpt lat="53.3628" lon="6.519113"><ele>1.5</ele></trkpt>
+   <trkpt lat="53.363322" lon="6.519204"><ele>1</ele></trkpt>
+   <trkpt lat="53.363339" lon="6.519207"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

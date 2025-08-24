@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 387 filtered ascend = 0 plain-ascend = 0 cost=387 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>519 Roermond (Gleis 3b) - Roermond Weiche 87a</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.19432/5.99535/osm-mapnik-german_style&amp;lonlats=5.995062,51.194216;5.997081,51.197389&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.194215" lon="5.995059"><ele>28</ele></trkpt>
+   <trkpt lat="51.194816" lon="5.995326"><ele>28</ele></trkpt>
+   <trkpt lat="51.195349" lon="5.995577"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.195791" lon="5.995822"><ele>27</ele></trkpt>
+   <trkpt lat="51.196178" lon="5.996073"><ele>26.25</ele></trkpt>
+   <trkpt lat="51.196423" lon="5.99625"><ele>25.75</ele></trkpt>
+   <trkpt lat="51.196652" lon="5.996429"><ele>25.25</ele></trkpt>
+   <trkpt lat="51.197097" lon="5.996813"><ele>26.5</ele></trkpt>
+   <trkpt lat="51.197386" lon="5.997083"><ele>27.5</ele></trkpt>
+   <trkpt lat="51.197387" lon="5.997083"><ele>27.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

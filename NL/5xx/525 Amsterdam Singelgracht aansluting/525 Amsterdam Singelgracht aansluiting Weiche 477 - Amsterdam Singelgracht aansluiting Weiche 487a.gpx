@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 140 filtered ascend = 1 plain-ascend = 1 cost=140 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.61.0">
+ <trk>
+  <name>525 Amsterdam Singelgracht aansluiting Weiche 477 - Amsterdam Singelgracht aansluiting Weiche 487a</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.38721/4.87983/osm-mapnik-german_style&amp;lonlats=4.877289,52.387734;4.879129,52.387235&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.387734" lon="4.877289"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.387734" lon="4.87729"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.387601" lon="4.877861"><ele>3.25</ele></trkpt>
+   <trkpt lat="52.387511" lon="4.878204"><ele>3.75</ele></trkpt>
+   <trkpt lat="52.38732" lon="4.87886"><ele>3.75</ele></trkpt>
+   <trkpt lat="52.387259" lon="4.87905"><ele>3.75</ele></trkpt>
+   <trkpt lat="52.387233" lon="4.879127"><ele>3.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
