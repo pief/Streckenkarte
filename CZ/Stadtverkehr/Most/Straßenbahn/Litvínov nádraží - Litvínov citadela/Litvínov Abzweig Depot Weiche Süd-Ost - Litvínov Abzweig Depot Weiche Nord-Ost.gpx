@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 1 plain-ascend = 3 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Litvínov Abzweig Depot Weiche Süd-Ost - Litvínov Abzweig Depot Weiche Nord-Ost</name>
+  <trkseg>
+   <trkpt lat="50.595129" lon="13.612539"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.595127" lon="13.612541"><ele>307.25</ele></trkpt>
+   <trkpt lat="50.595379" lon="13.612516"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.595543" lon="13.612501"><ele>308.75</ele></trkpt>
+   <trkpt lat="50.595541" lon="13.6125"><ele>308.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
