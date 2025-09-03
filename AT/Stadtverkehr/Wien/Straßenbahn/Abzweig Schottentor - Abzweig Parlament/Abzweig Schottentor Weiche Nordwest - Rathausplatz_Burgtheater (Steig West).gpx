@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 0 plain-ascend = -2 cost=620 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Schottentor Weiche Nordwest - Rathausplatz/Burgtheater (Steig West)</name>
+  <link href="https://bikerouter.de/#map=19/48.21062/16.36097/standard&amp;lonlats=16.36147,48.21348;16.360663,48.210752&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.21348" lon="16.36147"><ele>182.5</ele></trkpt>
+   <trkpt lat="48.212219" lon="16.3611"><ele>182.5</ele></trkpt>
+   <trkpt lat="48.212129" lon="16.361073"><ele>182.25</ele></trkpt>
+   <trkpt lat="48.210755" lon="16.360665"><ele>178</ele></trkpt>
+   <trkpt lat="48.210751" lon="16.360663"><ele>180</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

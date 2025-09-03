@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 0 cost=56 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Wendeschleife Quartier Belvedere Weiche Ost - Quartier Belvedere (Steig Südost-Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.18772/16.38182/standard&amp;lonlats=16.381533,48.187454;16.381434,48.187691&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.187454" lon="16.381537"><ele>197</ele></trkpt>
+   <trkpt lat="48.187456" lon="16.381537"><ele>197.25</ele></trkpt>
+   <trkpt lat="48.187691" lon="16.381438"><ele>196.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

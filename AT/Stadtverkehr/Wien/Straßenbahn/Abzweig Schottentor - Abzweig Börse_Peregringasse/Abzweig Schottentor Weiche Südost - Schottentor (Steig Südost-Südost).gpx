@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13 filtered ascend = 0 plain-ascend = 1 cost=26 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Schottentor Weiche Südost - Schottentor (Steig Südost-Südost)</name>
+  <link href="https://bikerouter.de/#map=19/48.21351/16.36228/standard&amp;lonlats=16.361989,48.213661;16.362127,48.21373&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.213661" lon="16.361987"><ele>181.75</ele></trkpt>
+   <trkpt lat="48.213663" lon="16.361992"><ele>182</ele></trkpt>
+   <trkpt lat="48.213727" lon="16.362128"><ele>182.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 241 filtered ascend = 4 plain-ascend = -7 cost=482 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Fasangasse Weiche Nord - Kreuz Quartier Belvedere Weiche 03-05/27</name>
+  <link href="https://bikerouter.de/#map=19/48.18815/16.38217/standard&amp;lonlats=16.384754,48.188294;16.381535,48.188244&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.188294" lon="16.384754"><ele>199.75</ele></trkpt>
+   <trkpt lat="48.188315" lon="16.384306"><ele>204.25</ele></trkpt>
+   <trkpt lat="48.188312" lon="16.38368"><ele>202.25</ele></trkpt>
+   <trkpt lat="48.188297" lon="16.381983"><ele>192.5</ele></trkpt>
+   <trkpt lat="48.188284" lon="16.381762"><ele>191</ele></trkpt>
+   <trkpt lat="48.188242" lon="16.381538"><ele>191.75</ele></trkpt>
+   <trkpt lat="48.188241" lon="16.381535"><ele>192</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

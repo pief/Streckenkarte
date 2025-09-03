@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13 filtered ascend = 0 plain-ascend = 0 cost=26 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Börse (Steig Südost-Südost) - Abzweig Börse/Börsengasse Weiche 01-07_08</name>
+  <link href="https://bikerouter.de/#map=19/48.21591/16.36646/standard&amp;lonlats=16.36642,48.215697;16.366558,48.215762&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.215696" lon="16.366419"><ele>179.5</ele></trkpt>
+   <trkpt lat="48.215697" lon="16.366421"><ele>179.5</ele></trkpt>
+   <trkpt lat="48.215761" lon="16.366557"><ele>178.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

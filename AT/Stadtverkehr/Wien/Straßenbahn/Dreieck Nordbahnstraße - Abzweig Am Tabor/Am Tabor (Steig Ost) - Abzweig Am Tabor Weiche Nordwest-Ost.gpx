@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = -2 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Am Tabor (Steig Ost) - Abzewig Am Tabor Weiche Nordwest-Ost</name>
+  <link href="https://bikerouter.de/#map=19/48.22512/16.38358/standard&amp;lonlats=16.384055,48.225067;16.383292,48.2253&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.225072" lon="16.384056"><ele>169</ele></trkpt>
+   <trkpt lat="48.225108" lon="16.383763"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.225138" lon="16.383564"><ele>168</ele></trkpt>
+   <trkpt lat="48.225143" lon="16.383544"><ele>168</ele></trkpt>
+   <trkpt lat="48.225148" lon="16.383526"><ele>168</ele></trkpt>
+   <trkpt lat="48.225154" lon="16.383506"><ele>167.75</ele></trkpt>
+   <trkpt lat="48.225162" lon="16.383486"><ele>167.75</ele></trkpt>
+   <trkpt lat="48.225183" lon="16.383438"><ele>167.5</ele></trkpt>
+   <trkpt lat="48.225214" lon="16.38339"><ele>167.25</ele></trkpt>
+   <trkpt lat="48.225297" lon="16.3833"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.225301" lon="16.383296"><ele>166.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

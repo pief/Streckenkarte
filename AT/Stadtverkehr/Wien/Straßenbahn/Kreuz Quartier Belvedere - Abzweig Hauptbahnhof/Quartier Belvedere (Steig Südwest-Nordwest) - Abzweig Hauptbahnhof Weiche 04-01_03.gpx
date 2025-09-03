@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 259 filtered ascend = 4 plain-ascend = 4 cost=518 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Quartier Belvedere (Steig Südwest-Nordwest) - Abzweig Hauptbahnhof Weiche 04-01/03</name>
+  <link href="https://bikerouter.de/#map=19/48.18619/16.37540/standard&amp;lonlats=16.379898,48.187724;16.376705,48.186828&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.187724" lon="16.379896"><ele>198.5</ele></trkpt>
+   <trkpt lat="48.187628" lon="16.379517"><ele>197.25</ele></trkpt>
+   <trkpt lat="48.187589" lon="16.379358"><ele>196.75</ele></trkpt>
+   <trkpt lat="48.187548" lon="16.379214"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.187293" lon="16.378404"><ele>197.5</ele></trkpt>
+   <trkpt lat="48.187088" lon="16.377746"><ele>197.5</ele></trkpt>
+   <trkpt lat="48.187063" lon="16.377657"><ele>197.25</ele></trkpt>
+   <trkpt lat="48.187016" lon="16.377486"><ele>197.25</ele></trkpt>
+   <trkpt lat="48.186984" lon="16.377364"><ele>198</ele></trkpt>
+   <trkpt lat="48.186948" lon="16.377213"><ele>199</ele></trkpt>
+   <trkpt lat="48.186826" lon="16.376704"><ele>202.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

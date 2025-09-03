@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 1 plain-ascend = -4 cost=260 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Schwedenplatz (Steig B) - Abzweig Marienbrücke Weiche Nordwest</name>
+  <link href="https://bikerouter.de/#map=19/48.21207/16.37631/standard&amp;lonlats=16.377765,48.211707;16.376139,48.212141&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.211707" lon="16.377765"><ele>171.25</ele></trkpt>
+   <trkpt lat="48.211749" lon="16.377568"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.211863" lon="16.377022"><ele>171</ele></trkpt>
+   <trkpt lat="48.211897" lon="16.376881"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.211923" lon="16.376778"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.211941" lon="16.37671"><ele>169</ele></trkpt>
+   <trkpt lat="48.211949" lon="16.376687"><ele>169</ele></trkpt>
+   <trkpt lat="48.21198" lon="16.376582"><ele>168.75</ele></trkpt>
+   <trkpt lat="48.212016" lon="16.376473"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.212038" lon="16.376404"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.212078" lon="16.376299"><ele>168</ele></trkpt>
+   <trkpt lat="48.212139" lon="16.376142"><ele>167.5</ele></trkpt>
+   <trkpt lat="48.21214" lon="16.376138"><ele>166</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

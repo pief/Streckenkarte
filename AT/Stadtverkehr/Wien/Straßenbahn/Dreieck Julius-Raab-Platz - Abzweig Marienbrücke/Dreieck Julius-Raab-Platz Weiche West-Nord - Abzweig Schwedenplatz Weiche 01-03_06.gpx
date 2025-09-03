@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 228 filtered ascend = 2 plain-ascend = 0 cost=456 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Dreieck Julius-Raab-Platz Weiche West-Nord - Abzweig Schwedenplatz Weiche 01-03/06</name>
+  <link href="https://bikerouter.de/#map=19/48.21171/16.37868/standard&amp;lonlats=16.382056,48.211291;16.379003,48.211464&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.211291" lon="16.382056"><ele>169.75</ele></trkpt>
+   <trkpt lat="48.211292" lon="16.382054"><ele>170</ele></trkpt>
+   <trkpt lat="48.211327" lon="16.381083"><ele>172.25</ele></trkpt>
+   <trkpt lat="48.211385" lon="16.380117"><ele>170.5</ele></trkpt>
+   <trkpt lat="48.211392" lon="16.379993"><ele>170.25</ele></trkpt>
+   <trkpt lat="48.211398" lon="16.379894"><ele>170</ele></trkpt>
+   <trkpt lat="48.211432" lon="16.379359"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.211445" lon="16.379159"><ele>169</ele></trkpt>
+   <trkpt lat="48.211463" lon="16.379007"><ele>169.25</ele></trkpt>
+   <trkpt lat="48.211464" lon="16.379002"><ele>169</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

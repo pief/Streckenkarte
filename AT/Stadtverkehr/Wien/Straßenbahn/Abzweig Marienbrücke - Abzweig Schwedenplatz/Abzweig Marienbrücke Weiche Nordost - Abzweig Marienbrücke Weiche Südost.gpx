@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 6 plain-ascend = 6 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Marienbrücke Weiche Nordost - Abzweig Marienbrücke Weiche Südost</name>
+  <link href="https://bikerouter.de/#map=19/48.21185/16.37730/standard&amp;lonlats=16.376691,48.212313;16.376927,48.211809&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.212313" lon="16.37669"><ele>165</ele></trkpt>
+   <trkpt lat="48.212246" lon="16.376647"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.212195" lon="16.376626"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.212127" lon="16.376619"><ele>167</ele></trkpt>
+   <trkpt lat="48.21206" lon="16.376626"><ele>167.75</ele></trkpt>
+   <trkpt lat="48.211976" lon="16.376664"><ele>168.5</ele></trkpt>
+   <trkpt lat="48.211949" lon="16.376687"><ele>169</ele></trkpt>
+   <trkpt lat="48.21191" lon="16.376721"><ele>169.5</ele></trkpt>
+   <trkpt lat="48.21187" lon="16.376776"><ele>170</ele></trkpt>
+   <trkpt lat="48.211837" lon="16.376839"><ele>170.5</ele></trkpt>
+   <trkpt lat="48.211808" lon="16.376923"><ele>171</ele></trkpt>
+   <trkpt lat="48.211807" lon="16.376925"><ele>171.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 1 plain-ascend = -5 cost=800 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Hauptbahnhof Ost (Steig Ost) - Abzweig Wendeschleife Quartier Belvedere Weiche Ost</name>
+  <link href="https://bikerouter.de/#map=19/48.18747/16.38162/standard&amp;lonlats=16.380565,48.184499;16.381533,48.187454&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.184496" lon="16.380572"><ele>203.5</ele></trkpt>
+   <trkpt lat="48.184499" lon="16.380573"><ele>203.5</ele></trkpt>
+   <trkpt lat="48.1846" lon="16.380607"><ele>203.5</ele></trkpt>
+   <trkpt lat="48.185057" lon="16.380756"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.185117" lon="16.380782"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.185204" lon="16.380828"><ele>205.25</ele></trkpt>
+   <trkpt lat="48.18526" lon="16.380872"><ele>205</ele></trkpt>
+   <trkpt lat="48.18535" lon="16.380974"><ele>204.5</ele></trkpt>
+   <trkpt lat="48.186087" lon="16.382255"><ele>197</ele></trkpt>
+   <trkpt lat="48.186153" lon="16.382351"><ele>196.75</ele></trkpt>
+   <trkpt lat="48.186193" lon="16.382383"><ele>196.75</ele></trkpt>
+   <trkpt lat="48.186226" lon="16.382401"><ele>196.5</ele></trkpt>
+   <trkpt lat="48.186276" lon="16.382414"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.186315" lon="16.382418"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.186381" lon="16.3824"><ele>196</ele></trkpt>
+   <trkpt lat="48.186435" lon="16.382363"><ele>195.75</ele></trkpt>
+   <trkpt lat="48.186815" lon="16.38195"><ele>196</ele></trkpt>
+   <trkpt lat="48.186936" lon="16.381834"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.187034" lon="16.381754"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.187123" lon="16.381694"><ele>196.5</ele></trkpt>
+   <trkpt lat="48.187257" lon="16.381626"><ele>196.75</ele></trkpt>
+   <trkpt lat="48.187311" lon="16.381602"><ele>197</ele></trkpt>
+   <trkpt lat="48.187328" lon="16.381595"><ele>197</ele></trkpt>
+   <trkpt lat="48.187364" lon="16.381579"><ele>197</ele></trkpt>
+   <trkpt lat="48.187454" lon="16.381537"><ele>197.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

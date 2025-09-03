@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 69 filtered ascend = 1 plain-ascend = 1 cost=138 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2023.20">
+ <trk>
+  <name>Abzweig Lothringerstraße Weiche 01-14/47 - Abzweig Schwarzenbergplatz Weiche 03-02/05</name>
+  <link href="https://bikerouter.de/#map=19/48.19989/16.37543/standard&amp;lonlats=16.374824,48.200445;16.375152,48.19987&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.200445" lon="16.374824"><ele>178</ele></trkpt>
+   <trkpt lat="48.200441" lon="16.374827"><ele>178</ele></trkpt>
+   <trkpt lat="48.200343" lon="16.374881"><ele>177.75</ele></trkpt>
+   <trkpt lat="48.200258" lon="16.37493"><ele>177.75</ele></trkpt>
+   <trkpt lat="48.200212" lon="16.374956"><ele>177.75</ele></trkpt>
+   <trkpt lat="48.199989" lon="16.375084"><ele>178.25</ele></trkpt>
+   <trkpt lat="48.199906" lon="16.375132"><ele>178.75</ele></trkpt>
+   <trkpt lat="48.199869" lon="16.375152"><ele>179</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
