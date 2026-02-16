@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=3s -->
+<!-- track-length = 46 filtered ascend = 0 plain-ascend = 0 cost=46 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,10 +7,11 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>410 01 Klagenfurt Hbf Weiche 307 - Klagenfurt Hbf Weiche 3XX</name>
+  <name>401 01 Klagenfurt Hbf Weiche 310 - Klagenfurt Hbf Weiche 308/309</name>
   <trkseg>
-   <trkpt lat="46.615886" lon="14.318677"><ele>438</ele></trkpt>
+   <trkpt lat="46.615781" lon="14.317562"><ele>438.5</ele></trkpt>
    <trkpt lat="46.615836" lon="14.318141"><ele>438</ele></trkpt>
+   <trkpt lat="46.615836" lon="14.318142"><ele>438</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
