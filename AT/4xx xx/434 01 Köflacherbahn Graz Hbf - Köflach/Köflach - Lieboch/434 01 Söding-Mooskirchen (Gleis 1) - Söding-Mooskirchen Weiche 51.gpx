@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 631 filtered ascend = 1 plain-ascend = 1 cost=631 energy=0.0kwh time=50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>434 01 Söding-Mooskirchen (Gleis 1) - Söding-Mooskirchen Weiche 51</name>
+  <link href="https://bikerouter.de/#map=19/46.99676/15.28215/standard&amp;lonlats=15.282876,46.996637;15.275615,46.99915&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.996634" lon="15.282873"><ele>341.5</ele></trkpt>
+   <trkpt lat="46.997014" lon="15.282101"><ele>342</ele></trkpt>
+   <trkpt lat="46.998095" lon="15.279901"><ele>343.25</ele></trkpt>
+   <trkpt lat="46.998407" lon="15.279236"><ele>343.25</ele></trkpt>
+   <trkpt lat="46.998553" lon="15.278876"><ele>343.25</ele></trkpt>
+   <trkpt lat="46.998689" lon="15.278492"><ele>343.25</ele></trkpt>
+   <trkpt lat="46.998799" lon="15.278144"><ele>343</ele></trkpt>
+   <trkpt lat="46.998848" lon="15.277969"><ele>342.75</ele></trkpt>
+   <trkpt lat="46.998942" lon="15.277591"><ele>342.25</ele></trkpt>
+   <trkpt lat="46.998993" lon="15.277337"><ele>342.25</ele></trkpt>
+   <trkpt lat="46.999031" lon="15.277132"><ele>342.25</ele></trkpt>
+   <trkpt lat="46.999061" lon="15.276921"><ele>342.25</ele></trkpt>
+   <trkpt lat="46.99909" lon="15.276658"><ele>342.5</ele></trkpt>
+   <trkpt lat="46.999128" lon="15.276141"><ele>342</ele></trkpt>
+   <trkpt lat="46.99915" lon="15.275618"><ele>342</ele></trkpt>
+   <trkpt lat="46.99915" lon="15.275615"><ele>342.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
