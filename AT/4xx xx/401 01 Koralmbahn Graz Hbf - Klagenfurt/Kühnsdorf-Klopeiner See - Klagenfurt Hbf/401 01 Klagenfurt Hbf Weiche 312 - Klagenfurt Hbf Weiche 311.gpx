@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 2 plain-ascend = 2 cost=123 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>401 01 Klagenfurt Hbf Weiche 312 - Klagenfurt Hbf Weiche 311</name>
+  <trkseg>
+   <trkpt lat="46.615906" lon="14.31833"><ele>438</ele></trkpt>
+   <trkpt lat="46.615906" lon="14.318328"><ele>438</ele></trkpt>
+   <trkpt lat="46.61582" lon="14.3175"><ele>439</ele></trkpt>
+   <trkpt lat="46.615769" lon="14.31676"><ele>439.75</ele></trkpt>
+   <trkpt lat="46.615768" lon="14.316757"><ele>440</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
