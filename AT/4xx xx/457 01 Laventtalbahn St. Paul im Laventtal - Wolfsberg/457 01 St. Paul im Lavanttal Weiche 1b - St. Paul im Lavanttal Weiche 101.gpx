@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 1196 filtered ascend = 30 plain-ascend = 9 cost=1196 energy=0.0kwh time=1m 36s -->
+<!-- track-length = 1205 filtered ascend = 30 plain-ascend = 9 cost=1205 energy=0.0kwh time=1m 36s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,13 +7,12 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>457 01 Lavanttal Abzweig St. Paul - Mühldorf Abzweig Koralmbahn (Lavanttalbahn)</name>
+  <name>457 01 St. Paul im Lavanttal Weiche 1b - St. Paul im Lavanttal Weiche 101</name>
   <trkseg>
-   <trkpt lat="46.724698" lon="14.858147"><ele>380.5</ele></trkpt>
-   <trkpt lat="46.7247" lon="14.858149"><ele>380.5</ele></trkpt>
-   <trkpt lat="46.724981" lon="14.858353"><ele>381</ele></trkpt>
-   <trkpt lat="46.725448" lon="14.858685"><ele>387</ele></trkpt>
-   <trkpt lat="46.726739" lon="14.8596"><ele>410</ele></trkpt>
+   <trkpt lat="46.724478" lon="14.858002"><ele>380.5</ele></trkpt>
+   <trkpt lat="46.725032" lon="14.858394"><ele>381.25</ele></trkpt>
+   <trkpt lat="46.725407" lon="14.858661"><ele>386.5</ele></trkpt>
+   <trkpt lat="46.726803" lon="14.859649"><ele>410</ele></trkpt>
    <trkpt lat="46.726973" lon="14.859776"><ele>410.25</ele></trkpt>
    <trkpt lat="46.727224" lon="14.859979"><ele>411.25</ele></trkpt>
    <trkpt lat="46.727667" lon="14.860367"><ele>409</ele></trkpt>
@@ -36,10 +35,10 @@
    <trkpt lat="46.731878" lon="14.860754"><ele>393.5</ele></trkpt>
    <trkpt lat="46.732205" lon="14.860414"><ele>391.75</ele></trkpt>
    <trkpt lat="46.732846" lon="14.859733"><ele>388.5</ele></trkpt>
-   <trkpt lat="46.73321" lon="14.859371"><ele>388.25</ele></trkpt>
+   <trkpt lat="46.733037" lon="14.85954"><ele>388.5</ele></trkpt>
    <trkpt lat="46.733581" lon="14.859027"><ele>388.5</ele></trkpt>
-   <trkpt lat="46.734152" lon="14.858543"><ele>389.25</ele></trkpt>
-   <trkpt lat="46.734149" lon="14.858545"><ele>389</ele></trkpt>
+   <trkpt lat="46.734147" lon="14.858546"><ele>389.25</ele></trkpt>
+   <trkpt lat="46.734148" lon="14.858544"><ele>389.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
