@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 4524 filtered ascend = 9 plain-ascend = -19 cost=4524 energy=0.1kwh time=6m 2s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,9 +6,8 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>457 01 St. Paul - Lavanttal Abzweig St. Paul (Lavanttalbahn bis 2023)</name>
+  <name>410 01 Granitztal - St. Paul Bad</name>
   <trkseg>
-   <trkpt lat="46.696091" lon="14.868039"><ele>400.25</ele></trkpt>
    <trkpt lat="46.696127" lon="14.868098"><ele>400.25</ele></trkpt>
    <trkpt lat="46.697214" lon="14.869836"><ele>400</ele></trkpt>
    <trkpt lat="46.697483" lon="14.870291"><ele>401</ele></trkpt>
@@ -71,64 +69,6 @@
    <trkpt lat="46.704169" lon="14.871879"><ele>375.5</ele></trkpt>
    <trkpt lat="46.704237" lon="14.871408"><ele>376</ele></trkpt>
    <trkpt lat="46.704278" lon="14.871183"><ele>376</ele></trkpt>
-   <trkpt lat="46.704332" lon="14.870956"><ele>376</ele></trkpt>
-   <trkpt lat="46.70439" lon="14.870761"><ele>376.25</ele></trkpt>
-   <trkpt lat="46.70441" lon="14.870695"><ele>376.25</ele></trkpt>
-   <trkpt lat="46.704462" lon="14.870522"><ele>376.5</ele></trkpt>
-   <trkpt lat="46.704535" lon="14.870295"><ele>376.75</ele></trkpt>
-   <trkpt lat="46.704669" lon="14.869966"><ele>376.75</ele></trkpt>
-   <trkpt lat="46.704722" lon="14.869849"><ele>376.75</ele></trkpt>
-   <trkpt lat="46.704833" lon="14.869633"><ele>376.5</ele></trkpt>
-   <trkpt lat="46.70489" lon="14.86952"><ele>376.5</ele></trkpt>
-   <trkpt lat="46.705088" lon="14.869189"><ele>376</ele></trkpt>
-   <trkpt lat="46.705219" lon="14.868996"><ele>376.25</ele></trkpt>
-   <trkpt lat="46.705318" lon="14.868863"><ele>376.25</ele></trkpt>
-   <trkpt lat="46.705443" lon="14.868706"><ele>376.5</ele></trkpt>
-   <trkpt lat="46.705658" lon="14.868465"><ele>376.75</ele></trkpt>
-   <trkpt lat="46.705877" lon="14.868254"><ele>377</ele></trkpt>
-   <trkpt lat="46.706016" lon="14.868128"><ele>377.25</ele></trkpt>
-   <trkpt lat="46.706018" lon="14.868127"><ele>377.5</ele></trkpt>
-   <trkpt lat="46.706116" lon="14.868047"><ele>377.75</ele></trkpt>
-   <trkpt lat="46.706244" lon="14.867944"><ele>377.75</ele></trkpt>
-   <trkpt lat="46.706537" lon="14.867742"><ele>378</ele></trkpt>
-   <trkpt lat="46.70684" lon="14.867577"><ele>377.75</ele></trkpt>
-   <trkpt lat="46.707526" lon="14.867286"><ele>377.75</ele></trkpt>
-   <trkpt lat="46.708398" lon="14.866953"><ele>377.25</ele></trkpt>
-   <trkpt lat="46.708852" lon="14.86677"><ele>378.25</ele></trkpt>
-   <trkpt lat="46.708994" lon="14.866703"><ele>378.5</ele></trkpt>
-   <trkpt lat="46.709288" lon="14.866544"><ele>378.75</ele></trkpt>
-   <trkpt lat="46.70957" lon="14.866346"><ele>378.5</ele></trkpt>
-   <trkpt lat="46.709679" lon="14.866257"><ele>378.5</ele></trkpt>
-   <trkpt lat="46.709909" lon="14.866047"><ele>378.25</ele></trkpt>
-   <trkpt lat="46.710721" lon="14.865214"><ele>378.5</ele></trkpt>
-   <trkpt lat="46.712151" lon="14.863745"><ele>377.5</ele></trkpt>
-   <trkpt lat="46.712379" lon="14.86352"><ele>377.75</ele></trkpt>
-   <trkpt lat="46.712602" lon="14.863314"><ele>378</ele></trkpt>
-   <trkpt lat="46.712987" lon="14.862989"><ele>378</ele></trkpt>
-   <trkpt lat="46.716045" lon="14.860625"><ele>379</ele></trkpt>
-   <trkpt lat="46.717759" lon="14.8593"><ele>380.75</ele></trkpt>
-   <trkpt lat="46.718114" lon="14.859041"><ele>381</ele></trkpt>
-   <trkpt lat="46.718434" lon="14.85884"><ele>381</ele></trkpt>
-   <trkpt lat="46.718751" lon="14.85867"><ele>380.5</ele></trkpt>
-   <trkpt lat="46.71903" lon="14.858543"><ele>380</ele></trkpt>
-   <trkpt lat="46.719211" lon="14.858472"><ele>379.75</ele></trkpt>
-   <trkpt lat="46.719571" lon="14.858355"><ele>380.25</ele></trkpt>
-   <trkpt lat="46.719991" lon="14.858236"><ele>380.75</ele></trkpt>
-   <trkpt lat="46.720147" lon="14.858192"><ele>380.5</ele></trkpt>
-   <trkpt lat="46.72136" lon="14.857846"><ele>379.75</ele></trkpt>
-   <trkpt lat="46.722044" lon="14.857627"><ele>380</ele></trkpt>
-   <trkpt lat="46.722403" lon="14.857533"><ele>380</ele></trkpt>
-   <trkpt lat="46.722564" lon="14.857505"><ele>380</ele></trkpt>
-   <trkpt lat="46.722748" lon="14.857486"><ele>380</ele></trkpt>
-   <trkpt lat="46.722932" lon="14.857481"><ele>380</ele></trkpt>
-   <trkpt lat="46.723115" lon="14.857489"><ele>380</ele></trkpt>
-   <trkpt lat="46.723299" lon="14.857511"><ele>380</ele></trkpt>
-   <trkpt lat="46.723481" lon="14.857547"><ele>380.25</ele></trkpt>
-   <trkpt lat="46.723661" lon="14.857596"><ele>380.5</ele></trkpt>
-   <trkpt lat="46.723899" lon="14.857683"><ele>380.75</ele></trkpt>
-   <trkpt lat="46.724075" lon="14.857763"><ele>380.75</ele></trkpt>
-   <trkpt lat="46.724265" lon="14.857866"><ele>380.75</ele></trkpt>
-   <trkpt lat="46.724698" lon="14.858147"><ele>380.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
