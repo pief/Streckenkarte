@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 64 filtered ascend = 0 plain-ascend = 0 cost=64 energy=0.0kwh time=5s -->
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=61 energy=0.0kwh time=5s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,13 +7,11 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>410 01 Bleiburg Weiche 4 - 423 01 Bleiburg Weiche 5</name>
+  <name>410 01 Bleiburg Weiche 4 - Bleiburg Weiche 6</name>
   <trkseg>
    <trkpt lat="46.573439" lon="14.790928"><ele>483.75</ele></trkpt>
    <trkpt lat="46.57344" lon="14.790927"><ele>483.75</ele></trkpt>
-   <trkpt lat="46.573518" lon="14.790266"><ele>483.75</ele></trkpt>
-   <trkpt lat="46.573543" lon="14.790123"><ele>483.75</ele></trkpt>
-   <trkpt lat="46.573543" lon="14.790119"><ele>483.75</ele></trkpt>
+   <trkpt lat="46.573579" lon="14.79017"><ele>483.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
