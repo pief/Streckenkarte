@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 1 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Pittlerstraße (Steig Südwest) - Üst Pittlerstraße Weiche West</name>
+  <trkseg>
+   <trkpt lat="51.376684" lon="12.312697"><ele>113</ele></trkpt>
+   <trkpt lat="51.376721" lon="12.312505"><ele>113</ele></trkpt>
+   <trkpt lat="51.37674" lon="12.312435"><ele>113</ele></trkpt>
+   <trkpt lat="51.376835" lon="12.312165"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.376856" lon="12.312082"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.376856" lon="12.312078"><ele>113.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
