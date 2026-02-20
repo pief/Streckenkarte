@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 538 filtered ascend = 0 plain-ascend = 0 cost=538 energy=0.0kwh time=43s -->
+<!-- track-length = 361 filtered ascend = 0 plain-ascend = 0 cost=361 energy=0.0kwh time=29s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Düsseldorf Oststraße (Gleis 4) - Düsseldorf Hauptbahnhof (Gleis 4)</name>
-  <link href="https://brouter.damsy.net/latest/#map=19/51.21954/6.79389/standard&amp;lonlats=6.787563,51.222292;6.793822,51.219566&amp;profile=rail">
-   <text>BRouter-Web</text>
-  </link>
+  <name>Düsseldorf Üst Hauptbahnhof Nordwest-Unten Weiche Südost-Südwest - Düsseldorf Hauptbahnhof (Steig 4)</name>
   <trkseg>
-   <trkpt lat="51.222292" lon="6.787563"/>
-   <trkpt lat="51.222063" lon="6.788139"/>
-   <trkpt lat="51.221489" lon="6.789702"/>
+   <trkpt lat="51.221487" lon="6.789704"/>
    <trkpt lat="51.220978" lon="6.791047"/>
    <trkpt lat="51.220801" lon="6.791491"/>
    <trkpt lat="51.220636" lon="6.791854"/>
