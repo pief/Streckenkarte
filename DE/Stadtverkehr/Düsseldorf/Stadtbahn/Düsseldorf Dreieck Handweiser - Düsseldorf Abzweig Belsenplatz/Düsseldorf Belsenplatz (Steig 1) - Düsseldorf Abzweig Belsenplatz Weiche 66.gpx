@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 2 plain-ascend = 3 cost=60 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name> Düsseldorf Belsenplatz (Steig 1) - Düsseldorf Abzweig Belsenplatz Weiche 66</name>
+  <trkseg>
+   <trkpt lat="51.231384" lon="6.747689"><ele>40.25</ele></trkpt>
+   <trkpt lat="51.231403" lon="6.747725"><ele>40.5</ele></trkpt>
+   <trkpt lat="51.231443" lon="6.747827"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.231465" lon="6.747912"><ele>41</ele></trkpt>
+   <trkpt lat="51.231485" lon="6.748074"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.231489" lon="6.748445"><ele>42.75</ele></trkpt>
+   <trkpt lat="51.23149" lon="6.748521"><ele>42.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
