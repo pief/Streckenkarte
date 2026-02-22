@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 679 filtered ascend = 4 plain-ascend = 5 cost=679 energy=0.0kwh time=54s -->
+<!-- track-length = 673 filtered ascend = 5 plain-ascend = 5 cost=673 energy=0.0kwh time=54s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Meerbusch Haus Meer Überleitgleis Süd - Meerbusch Forsthaus</name>
-  <link href="https://brouter.damsy.net/latest/#map=18/51.26210/6.67776/standard&amp;lonlats=6.669476,51.26581;6.676746,51.262378&amp;profile=rail">
-   <text>BRouter-Web</text>
-  </link>
+  <name>Meerbusch Üst Haus Meer Weiche Hsm W22 - Meerbusch Forsthaus (Steig 1)</name>
   <trkseg>
-   <trkpt lat="51.265811" lon="6.669476"><ele>36.5</ele></trkpt>
-   <trkpt lat="51.265811" lon="6.669478"><ele>36.5</ele></trkpt>
-   <trkpt lat="51.265765" lon="6.67043"><ele>36.5</ele></trkpt>
-   <trkpt lat="51.265737" lon="6.670795"><ele>37</ele></trkpt>
+   <trkpt lat="51.265816" lon="6.669408"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.265816" lon="6.669413"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.265761" lon="6.670547"><ele>36.5</ele></trkpt>
+   <trkpt lat="51.265738" lon="6.670803"><ele>37</ele></trkpt>
    <trkpt lat="51.2657" lon="6.671125"><ele>37.75</ele></trkpt>
    <trkpt lat="51.265651" lon="6.671432"><ele>38.25</ele></trkpt>
    <trkpt lat="51.265593" lon="6.671716"><ele>39</ele></trkpt>
@@ -29,12 +26,12 @@
    <trkpt lat="51.264903" lon="6.6735"><ele>37.75</ele></trkpt>
    <trkpt lat="51.264752" lon="6.673719"><ele>37.75</ele></trkpt>
    <trkpt lat="51.264618" lon="6.673892"><ele>37.75</ele></trkpt>
-   <trkpt lat="51.264317" lon="6.674252"><ele>37.5</ele></trkpt>
+   <trkpt lat="51.263317" lon="6.67543"><ele>40</ele></trkpt>
    <trkpt lat="51.263123" lon="6.675662"><ele>40.25</ele></trkpt>
    <trkpt lat="51.262938" lon="6.675908"><ele>40.25</ele></trkpt>
-   <trkpt lat="51.262642" lon="6.676333"><ele>40.75</ele></trkpt>
+   <trkpt lat="51.262613" lon="6.676379"><ele>40.75</ele></trkpt>
    <trkpt lat="51.262419" lon="6.676692"><ele>41</ele></trkpt>
-   <trkpt lat="51.262383" lon="6.676753"><ele>41</ele></trkpt>
+   <trkpt lat="51.262383" lon="6.676753"><ele>41.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
