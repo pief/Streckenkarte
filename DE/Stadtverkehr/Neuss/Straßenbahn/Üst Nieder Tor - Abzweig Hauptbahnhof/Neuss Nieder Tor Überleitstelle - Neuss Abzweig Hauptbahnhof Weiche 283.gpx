@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 514 filtered ascend = 0 plain-ascend = -2 cost=1028 energy=0.0kwh time=41s -->
+<!-- track-length = 499 filtered ascend = 0 plain-ascend = -1 cost=1001 energy=0.0kwh time=41s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,7 +7,7 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Neuss Nieder Tor Überleitstelle - Neuss Abzweig Hbf</name>
+  <name> Neuss Nieder Tor Überleitstelle - Neuss Abzweig Hauptbahnhof Weiche 283</name>
   <trkseg>
    <trkpt lat="51.200116" lon="6.688905"><ele>44.5</ele></trkpt>
    <trkpt lat="51.200118" lon="6.688903"><ele>44.5</ele></trkpt>
@@ -23,17 +23,14 @@
    <trkpt lat="51.202635" lon="6.684616"><ele>42.25</ele></trkpt>
    <trkpt lat="51.202835" lon="6.684263"><ele>42</ele></trkpt>
    <trkpt lat="51.202908" lon="6.684153"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.202949" lon="6.684111"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.202994" lon="6.684078"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.203031" lon="6.684061"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.203035" lon="6.68406"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.203072" lon="6.684052"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.203111" lon="6.684059"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.203157" lon="6.684081"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.203202" lon="6.684119"><ele>41.75</ele></trkpt>
-   <trkpt lat="51.20324" lon="6.684181"><ele>42</ele></trkpt>
-   <trkpt lat="51.203255" lon="6.684205"><ele>42</ele></trkpt>
-   <trkpt lat="51.203252" lon="6.6842"><ele>42</ele></trkpt>
+   <trkpt lat="51.202966" lon="6.684095"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.203019" lon="6.684065"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.203046" lon="6.684057"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.203112" lon="6.684061"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.203184" lon="6.684101"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.20322" lon="6.684138"><ele>41.75</ele></trkpt>
+   <trkpt lat="51.203241" lon="6.684173"><ele>42</ele></trkpt>
+   <trkpt lat="51.203265" lon="6.684228"><ele>42</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
