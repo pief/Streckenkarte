@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 1 plain-ascend = 1 cost=222 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Bonn Konrad-Adenauer-Platz B (Steig Südwest) - Bonn Beuel Rathaus (Steig Südost)</name>
+  <trkseg>
+   <trkpt lat="50.739027" lon="7.118533"><ele>57</ele></trkpt>
+   <trkpt lat="50.739" lon="7.118748"><ele>57.25</ele></trkpt>
+   <trkpt lat="50.739005" lon="7.118877"><ele>57.5</ele></trkpt>
+   <trkpt lat="50.739034" lon="7.119025"><ele>57.5</ele></trkpt>
+   <trkpt lat="50.739265" lon="7.120018"><ele>58.75</ele></trkpt>
+   <trkpt lat="50.739265" lon="7.120019"><ele>58.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
