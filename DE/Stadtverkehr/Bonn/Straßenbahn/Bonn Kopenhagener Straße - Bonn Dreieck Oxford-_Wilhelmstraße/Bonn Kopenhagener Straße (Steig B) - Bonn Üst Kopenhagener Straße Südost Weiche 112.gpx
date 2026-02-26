@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 0 plain-ascend = 1 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Bonn Kopenhagener Straße (Steig B) - Bonn Üst Kopenhagener Straße Südost Weiche 112</name>
+  <trkseg>
+   <trkpt lat="50.757488" lon="7.071484"><ele>61.5</ele></trkpt>
+   <trkpt lat="50.757454" lon="7.071557"><ele>61.75</ele></trkpt>
+   <trkpt lat="50.757382" lon="7.071726"><ele>62</ele></trkpt>
+   <trkpt lat="50.757303" lon="7.071926"><ele>62</ele></trkpt>
+   <trkpt lat="50.757244" lon="7.07209"><ele>62</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
