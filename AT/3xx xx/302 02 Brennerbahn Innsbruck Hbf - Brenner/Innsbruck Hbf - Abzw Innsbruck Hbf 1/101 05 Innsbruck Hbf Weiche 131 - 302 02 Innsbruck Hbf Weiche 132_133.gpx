@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=48 energy=0.0kwh time=4s -->
+<!-- track-length = 71 filtered ascend = 0 plain-ascend = 1 cost=71 energy=0.0kwh time=6s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -9,10 +9,11 @@
  <trk>
   <name>101 05 Innsbruck Hbf Weiche 131 - 302 02 Innsbruck Hbf Weiche 132/133</name>
   <trkseg>
-   <trkpt lat="47.259396" lon="11.400185"><ele>582.25</ele></trkpt>
-   <trkpt lat="47.259399" lon="11.400184"><ele>582.25</ele></trkpt>
+   <trkpt lat="47.259601" lon="11.400114"><ele>582</ele></trkpt>
+   <trkpt lat="47.259602" lon="11.400114"><ele>582</ele></trkpt>
+   <trkpt lat="47.259299" lon="11.400245"><ele>582.25</ele></trkpt>
    <trkpt lat="47.259021" lon="11.400417"><ele>582.25</ele></trkpt>
-   <trkpt lat="47.259023" lon="11.400416"><ele>582</ele></trkpt>
+   <trkpt lat="47.259019" lon="11.400418"><ele>582.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

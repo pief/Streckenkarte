@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 764 filtered ascend = 39 plain-ascend = 39 cost=764 energy=0.0kwh time=1m 1s -->
+<!-- track-length = 769 filtered ascend = 42 plain-ascend = 42 cost=769 energy=0.0kwh time=1m 2s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,10 +7,10 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>302 02 Innsbruck Hbf Weiche 176a - Innsbruck Hbf Weiche 194</name>
+  <name>302 02 Innsbruck Hbf Weiche 176a - Abzww Innsbruck Hbf Süd Weiche 194</name>
   <trkseg>
-   <trkpt lat="47.257514" lon="11.401141"><ele>584.5</ele></trkpt>
-   <trkpt lat="47.257512" lon="11.401143"><ele>584.75</ele></trkpt>
+   <trkpt lat="47.257538" lon="11.401131"><ele>584.5</ele></trkpt>
+   <trkpt lat="47.257532" lon="11.401134"><ele>584.75</ele></trkpt>
    <trkpt lat="47.257296" lon="11.401241"><ele>584.75</ele></trkpt>
    <trkpt lat="47.256994" lon="11.401348"><ele>584.25</ele></trkpt>
    <trkpt lat="47.255991" lon="11.401685"><ele>584.5</ele></trkpt>
@@ -27,8 +27,7 @@
    <trkpt lat="47.252124" lon="11.402031"><ele>594.5</ele></trkpt>
    <trkpt lat="47.251962" lon="11.402023"><ele>596.25</ele></trkpt>
    <trkpt lat="47.251151" lon="11.401982"><ele>614.25</ele></trkpt>
-   <trkpt lat="47.250821" lon="11.401971"><ele>623.75</ele></trkpt>
-   <trkpt lat="47.250819" lon="11.40197"><ele>623.75</ele></trkpt>
+   <trkpt lat="47.250703" lon="11.401971"><ele>626.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

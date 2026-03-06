@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 91 filtered ascend = 0 plain-ascend = -4 cost=91 energy=0.0kwh time=7s -->
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = -2 cost=50 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -9,12 +9,10 @@
  <trk>
   <name>302 02 Matrei Weiche 2 - Matrei Weiche 3</name>
   <trkseg>
-   <trkpt lat="47.132636" lon="11.45459"><ele>995.5</ele></trkpt>
-   <trkpt lat="47.132635" lon="11.45459"><ele>995.5</ele></trkpt>
+   <trkpt lat="47.132458" lon="11.454603"><ele>995.5</ele></trkpt>
    <trkpt lat="47.132208" lon="11.45462"><ele>993.75</ele></trkpt>
-   <trkpt lat="47.132025" lon="11.454622"><ele>992.5</ele></trkpt>
-   <trkpt lat="47.131849" lon="11.454618"><ele>991</ele></trkpt>
-   <trkpt lat="47.131845" lon="11.454618"><ele>990.75</ele></trkpt>
+   <trkpt lat="47.132044" lon="11.45462"><ele>992.5</ele></trkpt>
+   <trkpt lat="47.13203" lon="11.45462"><ele>992.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
