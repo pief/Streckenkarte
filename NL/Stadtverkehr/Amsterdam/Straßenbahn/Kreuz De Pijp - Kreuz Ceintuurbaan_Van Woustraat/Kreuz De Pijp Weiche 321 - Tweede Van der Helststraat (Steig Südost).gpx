@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<!-- track-length = 192 filtered ascend = 1 plain-ascend = 2 cost=384 energy=0.0kwh time=15s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,10 +7,11 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Kreuz De Pijp Weiche Nordwest-nach-Nordost-Nordost - Kreuz De Pijp Weiche Südost-nach-Nordost-Nordost</name>
+  <name>Kreuz De Pijp Weiche 321 - Tweede Van der Helststraat (Steig Südost)</name>
   <trkseg>
-   <trkpt lat="52.352817" lon="4.891425"><ele>4.5</ele></trkpt>
    <trkpt lat="52.352824" lon="4.891481"><ele>4.5</ele></trkpt>
+   <trkpt lat="52.35319" lon="4.894215"><ele>6</ele></trkpt>
+   <trkpt lat="52.353191" lon="4.894222"><ele>6.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
