@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 3 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=1s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,11 +7,11 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Kreuz Overtoom/1e C. Huygensstraat Weiche 630-V - Kreuz Overtoom/1e C. Huygensstraat Weiche 629-V</name>
+  <name>Overtoom/1e C. Huygensstraat (Steig Südwest) - Kreuz Overtoom/1e C. Huygensstraat Weiche 629-V</name>
   <trkseg>
+   <trkpt lat="52.36301" lon="4.87509"><ele>5.5</ele></trkpt>
+   <trkpt lat="52.362924" lon="4.875146"><ele>5.5</ele></trkpt>
    <trkpt lat="52.362917" lon="4.875151"><ele>5.5</ele></trkpt>
-   <trkpt lat="52.362913" lon="4.875154"><ele>5.5</ele></trkpt>
-   <trkpt lat="52.362895" lon="4.875165"><ele>5.5</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
