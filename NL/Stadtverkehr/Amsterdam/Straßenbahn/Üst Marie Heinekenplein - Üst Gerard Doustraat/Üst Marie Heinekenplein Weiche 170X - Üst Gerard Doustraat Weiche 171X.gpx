@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 46 filtered ascend = 0 plain-ascend = 0 cost=92 energy=0.0kwh time=4s -->
+<!-- track-length = 120 filtered ascend = 0 plain-ascend = 0 cost=240 energy=0.0kwh time=10s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,12 +7,12 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Üst Gerard Doustraat Weiche Nord - Abzweig Albert Cuypstraat Weiche 332-V</name>
+  <name>Üst Marie Heinekenplein Weiche 170X - Üst Gerard Doustraat Weiche 171X</name>
   <trkseg>
+   <trkpt lat="52.356629" lon="4.890623"><ele>7.5</ele></trkpt>
+   <trkpt lat="52.356615" lon="4.890621"><ele>7.5</ele></trkpt>
+   <trkpt lat="52.356177" lon="4.890549"><ele>7.25</ele></trkpt>
    <trkpt lat="52.355562" lon="4.89045"><ele>7</ele></trkpt>
-   <trkpt lat="52.355517" lon="4.890438"><ele>7</ele></trkpt>
-   <trkpt lat="52.355423" lon="4.890406"><ele>7</ele></trkpt>
-   <trkpt lat="52.355155" lon="4.890359"><ele>7</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
