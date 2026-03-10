@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=3s -->
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=3s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,10 +7,10 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Dreieck Postjesweg Weiche Ost-Süd - Hoofdweg (Steig Süd)</name>
+  <name>Dreieck Postjesweg Weiche 526 - Postjesweg (Steig Nord)</name>
   <trkseg>
-   <trkpt lat="52.364242" lon="4.853508"><ele>3</ele></trkpt>
-   <trkpt lat="52.364248" lon="4.853975"><ele>3</ele></trkpt>
+   <trkpt lat="52.364454" lon="4.853177"><ele>3.5</ele></trkpt>
+   <trkpt lat="52.364767" lon="4.853178"><ele>3.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
