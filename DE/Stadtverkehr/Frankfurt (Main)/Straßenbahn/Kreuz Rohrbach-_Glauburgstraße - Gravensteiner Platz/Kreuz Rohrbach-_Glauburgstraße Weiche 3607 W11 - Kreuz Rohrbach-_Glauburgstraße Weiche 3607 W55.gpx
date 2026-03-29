@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 41 filtered ascend = 1 plain-ascend = 1 cost=86 energy=0.0kwh time=3s -->
+<!-- track-length = 42 filtered ascend = 1 plain-ascend = 1 cost=84 energy=0.0kwh time=3s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -9,14 +9,16 @@
  <trk>
   <name>Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W11 - Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W55</name>
   <trkseg>
-   <trkpt lat="50.12753" lon="8.692479"><ele>132</ele></trkpt>
-   <trkpt lat="50.12752" lon="8.692395"><ele>132</ele></trkpt>
-   <trkpt lat="50.127518" lon="8.692276"><ele>132</ele></trkpt>
-   <trkpt lat="50.127528" lon="8.692235"><ele>132</ele></trkpt>
-   <trkpt lat="50.127554" lon="8.692184"><ele>132.25</ele></trkpt>
-   <trkpt lat="50.127573" lon="8.692163"><ele>132.25</ele></trkpt>
-   <trkpt lat="50.127613" lon="8.692145"><ele>132.5</ele></trkpt>
-   <trkpt lat="50.1277" lon="8.692151"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.127539" lon="8.692527"><ele>132</ele></trkpt>
+   <trkpt lat="50.127535" lon="8.692455"><ele>132</ele></trkpt>
+   <trkpt lat="50.127538" lon="8.692398"><ele>132</ele></trkpt>
+   <trkpt lat="50.127544" lon="8.692348"><ele>132.25</ele></trkpt>
+   <trkpt lat="50.127564" lon="8.692277"><ele>132.25</ele></trkpt>
+   <trkpt lat="50.127582" lon="8.692249"><ele>132.5</ele></trkpt>
+   <trkpt lat="50.127628" lon="8.692205"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.127669" lon="8.692183"><ele>133</ele></trkpt>
+   <trkpt lat="50.127741" lon="8.692176"><ele>133.5</ele></trkpt>
+   <trkpt lat="50.127738" lon="8.692175"><ele>132.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

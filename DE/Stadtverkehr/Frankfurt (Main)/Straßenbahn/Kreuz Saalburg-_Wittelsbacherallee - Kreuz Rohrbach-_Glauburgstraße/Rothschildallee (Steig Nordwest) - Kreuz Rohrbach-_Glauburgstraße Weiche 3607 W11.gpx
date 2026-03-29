@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 235 filtered ascend = 1 plain-ascend = 0 cost=470 energy=0.0kwh time=19s -->
+<!-- track-length = 232 filtered ascend = 1 plain-ascend = 0 cost=464 energy=0.0kwh time=19s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,7 +7,7 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Rothschildallee (Steig Nordwest) - Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W11</name>
+  <name> Rothschildallee (Steig Nordwest) - Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W11</name>
   <trkseg>
    <trkpt lat="50.128081" lon="8.695653"><ele>132</ele></trkpt>
    <trkpt lat="50.128063" lon="8.695544"><ele>132</ele></trkpt>
@@ -15,7 +15,8 @@
    <trkpt lat="50.12795" lon="8.69491"><ele>132.25</ele></trkpt>
    <trkpt lat="50.127918" lon="8.694722"><ele>132.5</ele></trkpt>
    <trkpt lat="50.127805" lon="8.694063"><ele>133</ele></trkpt>
-   <trkpt lat="50.12753" lon="8.692479"><ele>132</ele></trkpt>
+   <trkpt lat="50.12754" lon="8.69253"><ele>132</ele></trkpt>
+   <trkpt lat="50.127539" lon="8.692527"><ele>132</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

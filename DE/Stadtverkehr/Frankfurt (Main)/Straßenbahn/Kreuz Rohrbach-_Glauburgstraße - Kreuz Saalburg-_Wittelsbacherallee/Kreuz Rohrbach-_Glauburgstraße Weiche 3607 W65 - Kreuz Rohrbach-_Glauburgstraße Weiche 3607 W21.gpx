@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 41 filtered ascend = 0 plain-ascend = 0 cost=82 energy=0.0kwh time=3s -->
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=94 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,19 +7,21 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W65 - Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W21</name>
+  <name> Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W65 - Kreuz Rohrbach-/Glauburgstraße Weiche 3607 W21</name>
   <trkseg>
-   <trkpt lat="50.127668" lon="8.692111"><ele>133</ele></trkpt>
-   <trkpt lat="50.127667" lon="8.692111"><ele>133</ele></trkpt>
-   <trkpt lat="50.127614" lon="8.692109"><ele>132.5</ele></trkpt>
-   <trkpt lat="50.127583" lon="8.692116"><ele>132.5</ele></trkpt>
-   <trkpt lat="50.127557" lon="8.692131"><ele>132.25</ele></trkpt>
-   <trkpt lat="50.127518" lon="8.692172"><ele>132</ele></trkpt>
-   <trkpt lat="50.127488" lon="8.692252"><ele>131.75</ele></trkpt>
-   <trkpt lat="50.127485" lon="8.692273"><ele>131.75</ele></trkpt>
-   <trkpt lat="50.127485" lon="8.692327"><ele>131.75</ele></trkpt>
-   <trkpt lat="50.127493" lon="8.692451"><ele>131.75</ele></trkpt>
-   <trkpt lat="50.127493" lon="8.692455"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.127734" lon="8.692131"><ele>133.25</ele></trkpt>
+   <trkpt lat="50.127737" lon="8.692132"><ele>133.5</ele></trkpt>
+   <trkpt lat="50.127665" lon="8.692128"><ele>133</ele></trkpt>
+   <trkpt lat="50.127628" lon="8.692137"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.127623" lon="8.692141"><ele>132.75</ele></trkpt>
+   <trkpt lat="50.127604" lon="8.692157"><ele>132.5</ele></trkpt>
+   <trkpt lat="50.127567" lon="8.692194"><ele>132.25</ele></trkpt>
+   <trkpt lat="50.127522" lon="8.692268"><ele>132</ele></trkpt>
+   <trkpt lat="50.127512" lon="8.692307"><ele>132</ele></trkpt>
+   <trkpt lat="50.127505" lon="8.692359"><ele>132</ele></trkpt>
+   <trkpt lat="50.127504" lon="8.692424"><ele>132</ele></trkpt>
+   <trkpt lat="50.127512" lon="8.692506"><ele>132</ele></trkpt>
+   <trkpt lat="50.127512" lon="8.692509"><ele>132.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
