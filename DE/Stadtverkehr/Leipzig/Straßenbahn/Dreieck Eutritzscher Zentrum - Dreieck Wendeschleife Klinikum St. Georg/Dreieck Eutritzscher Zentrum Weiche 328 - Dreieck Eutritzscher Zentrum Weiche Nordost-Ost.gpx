@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 37 filtered ascend = 0 plain-ascend = -1 cost=74 energy=0.0kwh time=3s -->
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=94 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,16 +7,17 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Dreieck Euritzscher Zentrum Weiche Südost-Ost - Dreieck Euritzscher Zentrum Weiche Nordost-Ost</name>
+  <name>Dreieck Eutritzscher Zentrum Weiche 328 - Dreieck Eutritzscher Zentrum Weiche Nordost-Ost</name>
   <trkseg>
-   <trkpt lat="51.365464" lon="12.385413"><ele>114</ele></trkpt>
-   <trkpt lat="51.365466" lon="12.385412"><ele>114</ele></trkpt>
+   <trkpt lat="51.365423" lon="12.385447"><ele>114</ele></trkpt>
+   <trkpt lat="51.365426" lon="12.385445"><ele>114</ele></trkpt>
    <trkpt lat="51.365549" lon="12.385346"><ele>113.5</ele></trkpt>
    <trkpt lat="51.365597" lon="12.385316"><ele>113.25</ele></trkpt>
    <trkpt lat="51.365633" lon="12.385305"><ele>113</ele></trkpt>
    <trkpt lat="51.365702" lon="12.385309"><ele>112.75</ele></trkpt>
-   <trkpt lat="51.365764" lon="12.38534"><ele>112.5</ele></trkpt>
-   <trkpt lat="51.365764" lon="12.385341"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.365721" lon="12.385316"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.3658" lon="12.38538"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.365796" lon="12.385375"><ele>112.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
