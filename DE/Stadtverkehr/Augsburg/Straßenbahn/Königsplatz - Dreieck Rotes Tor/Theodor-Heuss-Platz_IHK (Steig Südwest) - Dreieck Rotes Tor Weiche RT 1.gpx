@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 361 filtered ascend = 0 plain-ascend = -7 cost=722 energy=0.0kwh time=29s -->
+<!-- track-length = 350 filtered ascend = 0 plain-ascend = -7 cost=700 energy=0.0kwh time=28s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,27 +7,29 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Theodor-Heuss-Platz/IHK (Steig Südwest) - Dreieck Rotes Tor Weiche RT 1</name>
+  <name> Theodor-Heuss-Platz/IHK (Steig Südwest) - Dreieck Rotes Tor Weiche RT 1</name>
   <trkseg>
-   <trkpt lat="48.360074" lon="10.897703"><ele>496</ele></trkpt>
-   <trkpt lat="48.359984" lon="10.897762"><ele>496</ele></trkpt>
-   <trkpt lat="48.359924" lon="10.897823"><ele>496</ele></trkpt>
-   <trkpt lat="48.359887" lon="10.897891"><ele>496</ele></trkpt>
-   <trkpt lat="48.35986" lon="10.897965"><ele>495.75</ele></trkpt>
-   <trkpt lat="48.359849" lon="10.898002"><ele>495.75</ele></trkpt>
-   <trkpt lat="48.359839" lon="10.898093"><ele>495.75</ele></trkpt>
-   <trkpt lat="48.35983" lon="10.898171"><ele>495.75</ele></trkpt>
-   <trkpt lat="48.35979" lon="10.898589"><ele>495.75</ele></trkpt>
-   <trkpt lat="48.359664" lon="10.899874"><ele>496.5</ele></trkpt>
-   <trkpt lat="48.359639" lon="10.900145"><ele>496.5</ele></trkpt>
-   <trkpt lat="48.359623" lon="10.900396"><ele>495.75</ele></trkpt>
-   <trkpt lat="48.359623" lon="10.900636"><ele>495.25</ele></trkpt>
-   <trkpt lat="48.359668" lon="10.901585"><ele>489.5</ele></trkpt>
-   <trkpt lat="48.359658" lon="10.901689"><ele>489</ele></trkpt>
-   <trkpt lat="48.359638" lon="10.901771"><ele>489</ele></trkpt>
-   <trkpt lat="48.359593" lon="10.901872"><ele>489</ele></trkpt>
-   <trkpt lat="48.359501" lon="10.901976"><ele>488.75</ele></trkpt>
-   <trkpt lat="48.359308" lon="10.902054"><ele>488.5</ele></trkpt>
+   <trkpt lat="48.360075" lon="10.897702"><ele>496.25</ele></trkpt>
+   <trkpt lat="48.360075" lon="10.897703"><ele>496.25</ele></trkpt>
+   <trkpt lat="48.359983" lon="10.89776"><ele>496</ele></trkpt>
+   <trkpt lat="48.359923" lon="10.897826"><ele>496</ele></trkpt>
+   <trkpt lat="48.359892" lon="10.897881"><ele>496</ele></trkpt>
+   <trkpt lat="48.359862" lon="10.897965"><ele>495.75</ele></trkpt>
+   <trkpt lat="48.359841" lon="10.898092"><ele>495.75</ele></trkpt>
+   <trkpt lat="48.359833" lon="10.898171"><ele>495.75</ele></trkpt>
+   <trkpt lat="48.359792" lon="10.898589"><ele>495.75</ele></trkpt>
+   <trkpt lat="48.359667" lon="10.899873"><ele>496.5</ele></trkpt>
+   <trkpt lat="48.359641" lon="10.900145"><ele>496.5</ele></trkpt>
+   <trkpt lat="48.359626" lon="10.900379"><ele>495.75</ele></trkpt>
+   <trkpt lat="48.359624" lon="10.900558"><ele>495.5</ele></trkpt>
+   <trkpt lat="48.359664" lon="10.901453"><ele>490.5</ele></trkpt>
+   <trkpt lat="48.359663" lon="10.901608"><ele>489.5</ele></trkpt>
+   <trkpt lat="48.359643" lon="10.901746"><ele>489</ele></trkpt>
+   <trkpt lat="48.359624" lon="10.901806"><ele>489</ele></trkpt>
+   <trkpt lat="48.359593" lon="10.901874"><ele>489</ele></trkpt>
+   <trkpt lat="48.359536" lon="10.90195"><ele>489</ele></trkpt>
+   <trkpt lat="48.359509" lon="10.901972"><ele>488.75</ele></trkpt>
+   <trkpt lat="48.359376" lon="10.902035"><ele>488.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

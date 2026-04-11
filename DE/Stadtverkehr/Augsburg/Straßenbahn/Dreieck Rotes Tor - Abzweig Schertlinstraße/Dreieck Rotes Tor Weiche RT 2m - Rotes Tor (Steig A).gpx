@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<!-- track-length = 49 filtered ascend = 2 plain-ascend = 2 cost=98 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,10 +7,12 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Dreieck Rotes Tor Weiche RT 2m - Rotes Tor (Steig A)</name>
+  <name> Dreieck Rotes Tor Weiche RT 2m - Rotes Tor (Steig A)</name>
   <trkseg>
-   <trkpt lat="48.358431" lon="10.902233"><ele>487.25</ele></trkpt>
-   <trkpt lat="48.357939" lon="10.902152"><ele>487</ele></trkpt>
+   <trkpt lat="48.358365" lon="10.902225"><ele>487</ele></trkpt>
+   <trkpt lat="48.358145" lon="10.902185"><ele>487</ele></trkpt>
+   <trkpt lat="48.357938" lon="10.902159"><ele>487</ele></trkpt>
+   <trkpt lat="48.357935" lon="10.902158"><ele>489.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
