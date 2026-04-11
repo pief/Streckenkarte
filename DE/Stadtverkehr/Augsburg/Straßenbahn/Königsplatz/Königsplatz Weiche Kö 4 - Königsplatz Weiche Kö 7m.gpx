@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 31 filtered ascend = 0 plain-ascend = 1 cost=62 energy=0.0kwh time=2s -->
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 1 cost=84 energy=0.0kwh time=3s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -7,13 +7,15 @@
  version="1.1" 
  creator="BRouter-Web 0.18.1">
  <trk>
-  <name>Königsplatz Weiche Kö 4 - Königsplatz Weiche Kö 7m</name>
+  <name> Königsplatz Weiche Kö 4 - Königsplatz Weiche Kö 7m</name>
   <trkseg>
-   <trkpt lat="48.366172" lon="10.894314"><ele>494.75</ele></trkpt>
-   <trkpt lat="48.366167" lon="10.894317"><ele>495</ele></trkpt>
-   <trkpt lat="48.366043" lon="10.894337"><ele>495.25</ele></trkpt>
-   <trkpt lat="48.365985" lon="10.894327"><ele>495.25</ele></trkpt>
-   <trkpt lat="48.365899" lon="10.894292"><ele>495.25</ele></trkpt>
+   <trkpt lat="48.366221" lon="10.894293"><ele>494.75</ele></trkpt>
+   <trkpt lat="48.366218" lon="10.894295"><ele>494.75</ele></trkpt>
+   <trkpt lat="48.366117" lon="10.894332"><ele>495.25</ele></trkpt>
+   <trkpt lat="48.366032" lon="10.89434"><ele>495.25</ele></trkpt>
+   <trkpt lat="48.365945" lon="10.894315"><ele>495.25</ele></trkpt>
+   <trkpt lat="48.365868" lon="10.894274"><ele>495.25</ele></trkpt>
+   <trkpt lat="48.365866" lon="10.894272"><ele>495.25</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>

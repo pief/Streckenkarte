@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 22 filtered ascend = 0 plain-ascend = 0 cost=44 energy=0.0kwh time=2s -->
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=1s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -9,10 +9,9 @@
  <trk>
   <name>Hauptbahnhof (Steig Bahnhofstraße) - Abzweig Hauptbahnhof Weiche HBF 2</name>
   <trkseg>
-   <trkpt lat="48.365879" lon="10.888232"><ele>496.5</ele></trkpt>
-   <trkpt lat="48.365835" lon="10.887965"><ele>496</ele></trkpt>
-   <trkpt lat="48.365835" lon="10.887964"><ele>496</ele></trkpt>
-   <trkpt lat="48.365834" lon="10.887961"><ele>495.75</ele></trkpt>
+   <trkpt lat="48.365879" lon="10.88823"><ele>496.5</ele></trkpt>
+   <trkpt lat="48.365862" lon="10.888104"><ele>496.25</ele></trkpt>
+   <trkpt lat="48.365861" lon="10.888099"><ele>496</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
