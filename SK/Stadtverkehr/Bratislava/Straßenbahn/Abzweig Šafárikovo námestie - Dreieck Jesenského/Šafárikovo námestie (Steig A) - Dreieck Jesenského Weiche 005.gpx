@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 5 plain-ascend = 5 cost=512 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Šafárikovo námestie (Steig A) - Dreieck Jesenského Weiche 005</name>
+  <trkseg>
+   <trkpt lat="48.141716" lon="17.115721"><ele>143.25</ele></trkpt>
+   <trkpt lat="48.14182" lon="17.115557"><ele>143.75</ele></trkpt>
+   <trkpt lat="48.141968" lon="17.115328"><ele>144</ele></trkpt>
+   <trkpt lat="48.142141" lon="17.115068"><ele>144.5</ele></trkpt>
+   <trkpt lat="48.143146" lon="17.113569"><ele>149</ele></trkpt>
+   <trkpt lat="48.14321" lon="17.113469"><ele>149</ele></trkpt>
+   <trkpt lat="48.143328" lon="17.113285"><ele>148.75</ele></trkpt>
+   <trkpt lat="48.143328" lon="17.113284"><ele>148.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
