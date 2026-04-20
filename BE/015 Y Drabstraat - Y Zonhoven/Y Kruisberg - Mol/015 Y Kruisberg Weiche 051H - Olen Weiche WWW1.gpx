@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 4345 filtered ascend = 9 plain-ascend = 4 cost=4345 energy=0.1kwh time=5m 48s -->
+<!-- track-length = 4313 filtered ascend = 9 plain-ascend = 5 cost=4313 energy=0.1kwh time=5m 45s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 99.61.0">
+ creator="BRouter-Web 0.18.1">
  <trk>
-  <name>015 Y Kruisberg Weiche NNN1 - Olen Weiche WWW1</name>
-  <link href="https://brouter.damsy.net/latest/#map=17/51.17539/4.89025/osm-mapnik-german_style&amp;lonlats=4.836398,51.186941;4.890448,51.175144&amp;profile=rail">
-   <text>BRouter-Web</text>
-  </link>
+  <name>015 Y Kruisberg Weiche 051H - Olen Weiche WWW1</name>
   <trkseg>
-   <trkpt lat="51.18694" lon="4.836397"><ele>12.25</ele></trkpt>
+   <trkpt lat="51.186938" lon="4.836396"><ele>12.25</ele></trkpt>
    <trkpt lat="51.186942" lon="4.836399"><ele>12.25</ele></trkpt>
    <trkpt lat="51.187205" lon="4.836659"><ele>12.25</ele></trkpt>
    <trkpt lat="51.18737" lon="4.836841"><ele>12</ele></trkpt>
@@ -25,8 +22,8 @@
    <trkpt lat="51.188562" lon="4.838885"><ele>12</ele></trkpt>
    <trkpt lat="51.188707" lon="4.83929"><ele>12.5</ele></trkpt>
    <trkpt lat="51.188754" lon="4.839437"><ele>12.75</ele></trkpt>
-   <trkpt lat="51.188786" lon="4.839543"><ele>12.75</ele></trkpt>
-   <trkpt lat="51.188834" lon="4.83971"><ele>13</ele></trkpt>
+   <trkpt lat="51.188789" lon="4.839555"><ele>12.75</ele></trkpt>
+   <trkpt lat="51.188834" lon="4.839715"><ele>13</ele></trkpt>
    <trkpt lat="51.188969" lon="4.84025"><ele>13</ele></trkpt>
    <trkpt lat="51.189062" lon="4.840727"><ele>13</ele></trkpt>
    <trkpt lat="51.189136" lon="4.841215"><ele>13</ele></trkpt>
@@ -45,15 +42,15 @@
    <trkpt lat="51.18747" lon="4.848882"><ele>13</ele></trkpt>
    <trkpt lat="51.186705" lon="4.850568"><ele>12</ele></trkpt>
    <trkpt lat="51.186293" lon="4.851475"><ele>11.75</ele></trkpt>
-   <trkpt lat="51.185363" lon="4.853476"><ele>11.5</ele></trkpt>
+   <trkpt lat="51.185351" lon="4.853499"><ele>11.5</ele></trkpt>
    <trkpt lat="51.185168" lon="4.853891"><ele>11.75</ele></trkpt>
    <trkpt lat="51.183382" lon="4.857704"><ele>13</ele></trkpt>
-   <trkpt lat="51.18238" lon="4.859927"><ele>14.75</ele></trkpt>
-   <trkpt lat="51.182322" lon="4.860057"><ele>15</ele></trkpt>
+   <trkpt lat="51.182435" lon="4.859803"><ele>14.75</ele></trkpt>
+   <trkpt lat="51.182271" lon="4.860171"><ele>15</ele></trkpt>
    <trkpt lat="51.181396" lon="4.86213"><ele>15</ele></trkpt>
    <trkpt lat="51.180903" lon="4.863212"><ele>14.75</ele></trkpt>
-   <trkpt lat="51.180179" lon="4.864761"><ele>16.75</ele></trkpt>
-   <trkpt lat="51.179759" lon="4.865651"><ele>20</ele></trkpt>
+   <trkpt lat="51.180227" lon="4.86466"><ele>16.75</ele></trkpt>
+   <trkpt lat="51.179699" lon="4.865777"><ele>20.5</ele></trkpt>
    <trkpt lat="51.178811" lon="4.867678"><ele>21.5</ele></trkpt>
    <trkpt lat="51.178568" lon="4.86824"><ele>19.75</ele></trkpt>
    <trkpt lat="51.178328" lon="4.868828"><ele>18.75</ele></trkpt>
@@ -75,7 +72,7 @@
    <trkpt lat="51.175368" lon="4.887927"><ele>15.75</ele></trkpt>
    <trkpt lat="51.175319" lon="4.888462"><ele>16</ele></trkpt>
    <trkpt lat="51.17514" lon="4.890443"><ele>16.5</ele></trkpt>
-   <trkpt lat="51.175139" lon="4.890446"><ele>16.5</ele></trkpt>
+   <trkpt lat="51.175139" lon="4.890446"><ele>16.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
