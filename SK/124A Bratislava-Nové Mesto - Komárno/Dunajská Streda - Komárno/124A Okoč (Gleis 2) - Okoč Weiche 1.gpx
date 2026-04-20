@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 375 filtered ascend = 0 plain-ascend = -1 cost=375 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>124A Okoč (Gleis 2) - Okoč Weiche 1</name>
+  <trkseg>
+   <trkpt lat="47.896007" lon="17.794818"><ele>110.75</ele></trkpt>
+   <trkpt lat="47.895565" lon="17.795024"><ele>111.25</ele></trkpt>
+   <trkpt lat="47.893286" lon="17.796082"><ele>109</ele></trkpt>
+   <trkpt lat="47.892798" lon="17.796307"><ele>109</ele></trkpt>
+   <trkpt lat="47.892797" lon="17.796307"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
