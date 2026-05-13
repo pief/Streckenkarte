@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=64 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Anschluss Depot Weiche Nordost-Südost - Anschluss Depot Weiche Südwest-Südost</name>
+  <trkseg>
+   <trkpt lat="48.830711" lon="2.353301"><ele>55</ele></trkpt>
+   <trkpt lat="48.830711" lon="2.353299"><ele>55</ele></trkpt>
+   <trkpt lat="48.830595" lon="2.352933"><ele>55</ele></trkpt>
+   <trkpt lat="48.830593" lon="2.352927"><ele>55</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
