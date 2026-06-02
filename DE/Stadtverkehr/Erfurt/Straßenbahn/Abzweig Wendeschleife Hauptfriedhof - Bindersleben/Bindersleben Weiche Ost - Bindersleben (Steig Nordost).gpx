@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 1 plain-ascend = 2 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Bindersleben Weiche Ost - Bindersleben (Steig Nordost)</name>
+  <trkseg>
+   <trkpt lat="50.971138" lon="10.956813"><ele>300.75</ele></trkpt>
+   <trkpt lat="50.971139" lon="10.956808"><ele>300.75</ele></trkpt>
+   <trkpt lat="50.971157" lon="10.956653"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.971188" lon="10.956527"><ele>300</ele></trkpt>
+   <trkpt lat="50.971264" lon="10.956356"><ele>300</ele></trkpt>
+   <trkpt lat="50.971405" lon="10.956138"><ele>301</ele></trkpt>
+   <trkpt lat="50.971795" lon="10.95554"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.971836" lon="10.955475"><ele>302.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
