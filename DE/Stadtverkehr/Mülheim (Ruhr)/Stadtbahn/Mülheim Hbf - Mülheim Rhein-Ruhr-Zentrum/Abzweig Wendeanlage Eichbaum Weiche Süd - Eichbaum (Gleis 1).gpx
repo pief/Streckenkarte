@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 3 plain-ascend = 4 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Abzweig Wendeanlage Eichbaum Weiche Süd - Eichbaum (Gleis 1)</name>
+  <trkseg>
+   <trkpt lat="51.434353" lon="6.935965"><ele>95.5</ele></trkpt>
+   <trkpt lat="51.434454" lon="6.936479"><ele>94.5</ele></trkpt>
+   <trkpt lat="51.434503" lon="6.936693"><ele>96.5</ele></trkpt>
+   <trkpt lat="51.434589" lon="6.937011"><ele>99</ele></trkpt>
+   <trkpt lat="51.434718" lon="6.937406"/>
+   <trkpt lat="51.434793" lon="6.93762"/>
+  </trkseg>
+ </trk>
+</gpx>
