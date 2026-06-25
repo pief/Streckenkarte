@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 1 plain-ascend = 1 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Abzweig Schleife Platz der Einheit Nordwest Weiche Ost - Abzweig Schleife Platz der Einheit Nordwest Weiche Süd</name>
+  <trkseg>
+   <trkpt lat="52.399148" lon="13.058379"><ele>31</ele></trkpt>
+   <trkpt lat="52.399148" lon="13.058376"><ele>31</ele></trkpt>
+   <trkpt lat="52.399122" lon="13.05819"><ele>31.5</ele></trkpt>
+   <trkpt lat="52.3991" lon="13.058101"><ele>31.75</ele></trkpt>
+   <trkpt lat="52.399064" lon="13.058022"><ele>32</ele></trkpt>
+   <trkpt lat="52.39902" lon="13.057966"><ele>32</ele></trkpt>
+   <trkpt lat="52.398974" lon="13.057935"><ele>32</ele></trkpt>
+   <trkpt lat="52.398923" lon="13.05792"><ele>32</ele></trkpt>
+   <trkpt lat="52.398885" lon="13.05792"><ele>32</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
