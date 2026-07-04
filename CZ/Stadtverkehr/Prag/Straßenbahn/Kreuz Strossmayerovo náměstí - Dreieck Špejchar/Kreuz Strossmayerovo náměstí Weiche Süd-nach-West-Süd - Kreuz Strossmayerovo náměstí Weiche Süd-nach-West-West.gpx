@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 40 filtered ascend = 1 plain-ascend = 1 cost=80 energy=0.0kwh time=3s -->
+<!-- track-length = 43 filtered ascend = 1 plain-ascend = 2 cost=86 energy=0.0kwh time=3s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.2">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Kreuz Strossmayerovo náměstí Weiche Süd-nach-West-Süd - Kreuz Strossmayerovo náměstí Weiche Süd-nach-West-West</name>
-  <link href="https://bikerouter.de/#map=19/50.09823/14.43426/osm-mapnik-german_style&amp;lonlats=14.433281,50.098658;14.433007,50.098928&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="50.098658" lon="14.433282"><ele>200</ele></trkpt>
-   <trkpt lat="50.098661" lon="14.433282"><ele>200</ele></trkpt>
-   <trkpt lat="50.098716" lon="14.433269"><ele>200</ele></trkpt>
-   <trkpt lat="50.098739" lon="14.43326"><ele>200</ele></trkpt>
-   <trkpt lat="50.098796" lon="14.433233"><ele>200</ele></trkpt>
-   <trkpt lat="50.098839" lon="14.433203"><ele>200.25</ele></trkpt>
-   <trkpt lat="50.098865" lon="14.433174"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.098658" lon="14.433285"><ele>200</ele></trkpt>
+   <trkpt lat="50.098716" lon="14.43328"><ele>200</ele></trkpt>
+   <trkpt lat="50.098753" lon="14.433268"><ele>200</ele></trkpt>
+   <trkpt lat="50.098797" lon="14.433245"><ele>200</ele></trkpt>
+   <trkpt lat="50.098865" lon="14.433177"><ele>200.5</ele></trkpt>
    <trkpt lat="50.098891" lon="14.433128"><ele>200.5</ele></trkpt>
    <trkpt lat="50.098916" lon="14.433067"><ele>200.75</ele></trkpt>
-   <trkpt lat="50.09893" lon="14.433008"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.098936" lon="14.432983"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.098943" lon="14.432954"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.098943" lon="14.432952"><ele>201.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
