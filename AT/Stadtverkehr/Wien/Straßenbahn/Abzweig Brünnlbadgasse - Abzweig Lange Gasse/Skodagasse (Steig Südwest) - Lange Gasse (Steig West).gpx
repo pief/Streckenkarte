@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 127 filtered ascend = 0 plain-ascend = -1 cost=254 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Skodagasse (Steig Südwest) - Lange Gasse (Steig West)</name>
+  <trkseg>
+   <trkpt lat="48.215166" lon="16.348886"><ele>185</ele></trkpt>
+   <trkpt lat="48.215142" lon="16.349145"><ele>185</ele></trkpt>
+   <trkpt lat="48.215063" lon="16.349765"><ele>184.75</ele></trkpt>
+   <trkpt lat="48.215025" lon="16.350207"><ele>184</ele></trkpt>
+   <trkpt lat="48.215011" lon="16.35046"><ele>184</ele></trkpt>
+   <trkpt lat="48.215002" lon="16.350581"><ele>183.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
