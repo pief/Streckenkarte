@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 200 filtered ascend = 2 plain-ascend = 2 cost=200 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>84000 Milotice nad Opavou (Gleis 3) - Milotice nad Opavou Weiche 20</name>
+  <trkseg>
+   <trkpt lat="50.014135" lon="17.557246"><ele>446.25</ele></trkpt>
+   <trkpt lat="50.013378" lon="17.555475"><ele>446.25</ele></trkpt>
+   <trkpt lat="50.013321" lon="17.555342"><ele>447</ele></trkpt>
+   <trkpt lat="50.013143" lon="17.554925"><ele>447</ele></trkpt>
+   <trkpt lat="50.013141" lon="17.554921"><ele>448.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
