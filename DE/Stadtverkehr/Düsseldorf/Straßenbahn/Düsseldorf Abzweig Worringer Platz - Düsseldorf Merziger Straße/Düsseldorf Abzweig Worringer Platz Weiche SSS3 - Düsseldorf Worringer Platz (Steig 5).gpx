@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = 0 cost=134 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Düsseldorf Abzweig Worringer Platz Weiche SSS3 - Düsseldorf Worringer Platz (Steig 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.22412/6.79615/standard&amp;lonlats=6.795479,51.223446;6.795647,51.224043&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.223444" lon="6.795483"><ele>38</ele></trkpt>
+   <trkpt lat="51.223591" lon="6.795568"><ele>38</ele></trkpt>
+   <trkpt lat="51.223619" lon="6.79558"><ele>38</ele></trkpt>
+   <trkpt lat="51.223655" lon="6.795593"><ele>38</ele></trkpt>
+   <trkpt lat="51.223739" lon="6.795612"><ele>38</ele></trkpt>
+   <trkpt lat="51.22397" lon="6.795643"><ele>38</ele></trkpt>
+   <trkpt lat="51.224041" lon="6.795652"><ele>38</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
