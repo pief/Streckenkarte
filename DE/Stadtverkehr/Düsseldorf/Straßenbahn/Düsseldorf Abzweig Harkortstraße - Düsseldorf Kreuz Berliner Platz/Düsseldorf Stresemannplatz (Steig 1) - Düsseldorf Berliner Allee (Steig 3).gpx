@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 453 filtered ascend = 1 plain-ascend = 1 cost=906 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Düsseldorf Stresemannplatz (Steig 1) - Düsseldorf Berliner Allee (Steig 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.21889/6.78216/standard&amp;lonlats=6.788958,51.219457;6.782622,51.218844&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.219457" lon="6.788956"><ele>37</ele></trkpt>
+   <trkpt lat="51.219357" lon="6.788347"><ele>37</ele></trkpt>
+   <trkpt lat="51.219331" lon="6.788179"><ele>37</ele></trkpt>
+   <trkpt lat="51.219278" lon="6.787789"><ele>37</ele></trkpt>
+   <trkpt lat="51.219257" lon="6.787635"><ele>37</ele></trkpt>
+   <trkpt lat="51.218942" lon="6.785677"><ele>37</ele></trkpt>
+   <trkpt lat="51.21891" lon="6.785413"><ele>37</ele></trkpt>
+   <trkpt lat="51.218895" lon="6.785217"><ele>37</ele></trkpt>
+   <trkpt lat="51.218823" lon="6.783964"><ele>38</ele></trkpt>
+   <trkpt lat="51.218817" lon="6.783727"><ele>38</ele></trkpt>
+   <trkpt lat="51.218818" lon="6.783447"><ele>38</ele></trkpt>
+   <trkpt lat="51.218841" lon="6.782622"><ele>38</ele></trkpt>
+   <trkpt lat="51.218841" lon="6.782621"><ele>38</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

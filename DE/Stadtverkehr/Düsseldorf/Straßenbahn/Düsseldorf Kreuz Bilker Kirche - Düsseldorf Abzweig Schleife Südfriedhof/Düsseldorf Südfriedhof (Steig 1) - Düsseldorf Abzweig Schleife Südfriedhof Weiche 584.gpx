@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Düsseldorf Südfriedhof (Steig 1) - Düsseldorf Abzweig Schleife Südfriedhof Weiche 584</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.20096/6.75466/standard&amp;lonlats=6.754408,51.20097;6.754359,51.200974&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.20097" lon="6.754406"><ele>38</ele></trkpt>
+   <trkpt lat="51.200969" lon="6.754362"><ele>38</ele></trkpt>
+   <trkpt lat="51.200968" lon="6.754358"><ele>37.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

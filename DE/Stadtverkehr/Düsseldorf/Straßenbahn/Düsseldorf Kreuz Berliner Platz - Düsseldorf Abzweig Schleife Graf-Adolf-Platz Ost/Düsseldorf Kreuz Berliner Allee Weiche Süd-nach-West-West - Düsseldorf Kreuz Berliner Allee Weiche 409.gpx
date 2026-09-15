@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Düsseldorf Kreuz Berliner Allee Weiche Süd-nach-West-West - Düsseldorf Kreuz Berliner Allee Weiche 409</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.21875/6.78085/standard&amp;lonlats=6.781606,51.218921;6.781382,51.218927&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.218919" lon="6.781605"><ele>38</ele></trkpt>
+   <trkpt lat="51.218921" lon="6.781549"><ele>38</ele></trkpt>
+   <trkpt lat="51.218926" lon="6.781382"><ele>38</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
