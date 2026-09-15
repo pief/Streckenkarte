@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 336 filtered ascend = 0 plain-ascend = 0 cost=672 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Piazza Cordusio Weiche Nord-Ost - Dreieck Via Cusani Weiche Süd-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/45.46870/9.18549/standard&amp;lonlats=9.186415,45.465796;9.18542,45.468733&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.465796" lon="9.186415"><ele>120.75</ele></trkpt>
+   <trkpt lat="45.466069" lon="9.186302"><ele>120.75</ele></trkpt>
+   <trkpt lat="45.467337" lon="9.185791"><ele>119.25</ele></trkpt>
+   <trkpt lat="45.46753" lon="9.185731"><ele>119.75</ele></trkpt>
+   <trkpt lat="45.468377" lon="9.185496"><ele>120</ele></trkpt>
+   <trkpt lat="45.468649" lon="9.185438"><ele>120</ele></trkpt>
+   <trkpt lat="45.468733" lon="9.18542"><ele>119.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

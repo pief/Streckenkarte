@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 116 filtered ascend = 2 plain-ascend = 3 cost=232 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Via Cusani (Steig West-Nord) - Dreieck Largo Cairoli Weiche Ost-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/45.46892/9.18412/standard&amp;lonlats=9.184631,45.468869;9.18321,45.468627&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="45.468869" lon="9.184629"><ele>118.5</ele></trkpt>
+   <trkpt lat="45.468846" lon="9.184458"><ele>116.75</ele></trkpt>
+   <trkpt lat="45.468819" lon="9.184349"><ele>117.75</ele></trkpt>
+   <trkpt lat="45.468786" lon="9.184274"><ele>118.5</ele></trkpt>
+   <trkpt lat="45.468733" lon="9.18415"><ele>119.5</ele></trkpt>
+   <trkpt lat="45.468717" lon="9.184097"><ele>120</ele></trkpt>
+   <trkpt lat="45.4687" lon="9.184006"><ele>120.25</ele></trkpt>
+   <trkpt lat="45.468673" lon="9.183723"><ele>120.25</ele></trkpt>
+   <trkpt lat="45.468626" lon="9.183214"><ele>120.75</ele></trkpt>
+   <trkpt lat="45.468626" lon="9.183209"><ele>121</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
