@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 480 filtered ascend = 0 plain-ascend = -5 cost=480 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Frechen Kirche (Steig Süd) - Frechen Bahnhof (Steig 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.91170/6.82163/standard&amp;lonlats=6.816077,50.910093;6.822518,50.911488&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.910094" lon="6.816075"><ele>72</ele></trkpt>
+   <trkpt lat="50.910095" lon="6.816083"><ele>72</ele></trkpt>
+   <trkpt lat="50.910128" lon="6.816345"><ele>71.5</ele></trkpt>
+   <trkpt lat="50.910292" lon="6.817199"><ele>71</ele></trkpt>
+   <trkpt lat="50.910454" lon="6.817927"><ele>70.25</ele></trkpt>
+   <trkpt lat="50.91051" lon="6.818179"><ele>70</ele></trkpt>
+   <trkpt lat="50.910555" lon="6.818417"><ele>70</ele></trkpt>
+   <trkpt lat="50.910716" lon="6.81924"><ele>69.5</ele></trkpt>
+   <trkpt lat="50.910845" lon="6.819837"><ele>69</ele></trkpt>
+   <trkpt lat="50.911037" lon="6.820484"><ele>67.75</ele></trkpt>
+   <trkpt lat="50.911292" lon="6.821312"><ele>67</ele></trkpt>
+   <trkpt lat="50.911363" lon="6.821636"><ele>67</ele></trkpt>
+   <trkpt lat="50.911412" lon="6.821913"><ele>66.75</ele></trkpt>
+   <trkpt lat="50.911456" lon="6.822253"><ele>66.75</ele></trkpt>
+   <trkpt lat="50.911479" lon="6.822467"><ele>66.5</ele></trkpt>
+   <trkpt lat="50.911482" lon="6.822517"><ele>66.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

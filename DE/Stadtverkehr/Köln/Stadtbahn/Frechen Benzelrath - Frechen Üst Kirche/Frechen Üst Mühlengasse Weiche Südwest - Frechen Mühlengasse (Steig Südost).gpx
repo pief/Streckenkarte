@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 143 filtered ascend = 0 plain-ascend = -3 cost=143 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Frechen Üst Mühlengasse Weiche Südwest - Frechen Mühlengasse (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.90774/6.80151/standard&amp;lonlats=6.800225,50.907333;6.801746,50.908146&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.90733" lon="6.80023"><ele>84</ele></trkpt>
+   <trkpt lat="50.907332" lon="6.800231"><ele>84</ele></trkpt>
+   <trkpt lat="50.90752" lon="6.800409"><ele>83.75</ele></trkpt>
+   <trkpt lat="50.907611" lon="6.800521"><ele>83.5</ele></trkpt>
+   <trkpt lat="50.907681" lon="6.800624"><ele>83</ele></trkpt>
+   <trkpt lat="50.907742" lon="6.800732"><ele>82.25</ele></trkpt>
+   <trkpt lat="50.907809" lon="6.800869"><ele>82</ele></trkpt>
+   <trkpt lat="50.908009" lon="6.801357"><ele>81</ele></trkpt>
+   <trkpt lat="50.908121" lon="6.801666"><ele>80</ele></trkpt>
+   <trkpt lat="50.908148" lon="6.801743"><ele>80</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

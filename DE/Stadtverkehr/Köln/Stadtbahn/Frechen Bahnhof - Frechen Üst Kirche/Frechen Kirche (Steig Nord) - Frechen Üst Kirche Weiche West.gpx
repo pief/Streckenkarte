@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 1 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Frechen Kirche (Steig Nord) - Frechen Üst Kirche Weiche West</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.90999/6.81621/standard&amp;lonlats=6.81553,50.910052;6.814614,50.909978&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.910052" lon="6.815528"><ele>72</ele></trkpt>
+   <trkpt lat="50.910037" lon="6.815341"><ele>72</ele></trkpt>
+   <trkpt lat="50.910009" lon="6.81497"><ele>72</ele></trkpt>
+   <trkpt lat="50.909972" lon="6.814617"><ele>72</ele></trkpt>
+   <trkpt lat="50.909971" lon="6.814614"><ele>72.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
