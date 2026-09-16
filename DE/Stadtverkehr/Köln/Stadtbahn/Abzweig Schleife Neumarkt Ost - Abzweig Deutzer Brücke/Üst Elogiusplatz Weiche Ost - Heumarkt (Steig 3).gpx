@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 118 filtered ascend = 0 plain-ascend = -1 cost=118 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Elogiusplatz Weiche Ost - Heumarkt (Steig 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.93582/6.96038/standard&amp;lonlats=6.958821,50.935554;6.960472,50.935755&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.935555" lon="6.958819"><ele>49</ele></trkpt>
+   <trkpt lat="50.935556" lon="6.958823"><ele>49</ele></trkpt>
+   <trkpt lat="50.935596" lon="6.958979"><ele>49</ele></trkpt>
+   <trkpt lat="50.935636" lon="6.959196"><ele>49</ele></trkpt>
+   <trkpt lat="50.935662" lon="6.959437"><ele>49</ele></trkpt>
+   <trkpt lat="50.935698" lon="6.959924"><ele>48</ele></trkpt>
+   <trkpt lat="50.935731" lon="6.960283"><ele>47</ele></trkpt>
+   <trkpt lat="50.935758" lon="6.960469"><ele>47</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 73 filtered ascend = 2 plain-ascend = 2 cost=73 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Heumarkt Südwest Weiche Südwest - Heumarkt (Steig 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.93588/6.96084/standard&amp;lonlats=6.960821,50.935848;6.959796,50.935719&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.935845" lon="6.960821"><ele>47</ele></trkpt>
+   <trkpt lat="50.935822" lon="6.960709"><ele>47</ele></trkpt>
+   <trkpt lat="50.935759" lon="6.960276"><ele>47</ele></trkpt>
+   <trkpt lat="50.935729" lon="6.95991"><ele>48</ele></trkpt>
+   <trkpt lat="50.93572" lon="6.959794"><ele>49</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

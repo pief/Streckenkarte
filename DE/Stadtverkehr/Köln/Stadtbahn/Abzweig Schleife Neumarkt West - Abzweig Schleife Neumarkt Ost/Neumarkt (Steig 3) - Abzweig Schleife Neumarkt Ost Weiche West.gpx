@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Neumarkt (Steig 3) - Abzweig Schleife Neumarkt Ost Weiche West</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.93550/6.94938/standard&amp;lonlats=6.94807,50.935758;6.948503,50.935739&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.935758" lon="6.94807"><ele>52.5</ele></trkpt>
+   <trkpt lat="50.935744" lon="6.948385"><ele>52.5</ele></trkpt>
+   <trkpt lat="50.935732" lon="6.948501"><ele>52</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

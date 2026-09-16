@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 1 plain-ascend = 2 cost=73 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Heumarkt (Steig 3) - Üst Heumarkt Südwest Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.93608/6.96164/standard&amp;lonlats=6.960472,50.935755;6.96144,50.935974&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.935758" lon="6.960469"><ele>47</ele></trkpt>
+   <trkpt lat="50.935791" lon="6.960697"><ele>47</ele></trkpt>
+   <trkpt lat="50.935873" lon="6.961077"><ele>47.75</ele></trkpt>
+   <trkpt lat="50.935972" lon="6.961441"><ele>48.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
