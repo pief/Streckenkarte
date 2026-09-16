@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 351 filtered ascend = 0 plain-ascend = 0 cost=351 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Lindenthal Wüllnerstraße (Steig West) - Lindenthal Dürener Straße/Gürtel (Steig 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.92824/6.90882/standard&amp;lonlats=6.907959,50.931363;6.908658,50.928244&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.931362" lon="6.907955"><ele>50</ele></trkpt>
+   <trkpt lat="50.931281" lon="6.907964"><ele>50</ele></trkpt>
+   <trkpt lat="50.931157" lon="6.907977"><ele>50</ele></trkpt>
+   <trkpt lat="50.930578" lon="6.908058"><ele>50</ele></trkpt>
+   <trkpt lat="50.930188" lon="6.908131"><ele>50</ele></trkpt>
+   <trkpt lat="50.929682" lon="6.908244"><ele>50</ele></trkpt>
+   <trkpt lat="50.929005" lon="6.908423"><ele>50</ele></trkpt>
+   <trkpt lat="50.928405" lon="6.908605"><ele>49.75</ele></trkpt>
+   <trkpt lat="50.928243" lon="6.908657"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
