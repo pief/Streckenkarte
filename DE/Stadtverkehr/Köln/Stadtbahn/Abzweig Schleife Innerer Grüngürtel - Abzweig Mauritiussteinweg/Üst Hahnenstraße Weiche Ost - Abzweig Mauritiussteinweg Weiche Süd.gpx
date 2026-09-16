@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 262 filtered ascend = 1 plain-ascend = 1 cost=262 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Hahnenstraße Weiche Ost - Abzweig Mauritiussteinweg Weiche Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.93554/6.94291/standard&amp;lonlats=6.941773,50.935901;6.945491,50.93586&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.935901" lon="6.941773"><ele>51</ele></trkpt>
+   <trkpt lat="50.935876" lon="6.942084"><ele>51</ele></trkpt>
+   <trkpt lat="50.935864" lon="6.942217"><ele>51</ele></trkpt>
+   <trkpt lat="50.935845" lon="6.942505"><ele>51</ele></trkpt>
+   <trkpt lat="50.935835" lon="6.942907"><ele>50.75</ele></trkpt>
+   <trkpt lat="50.935862" lon="6.944163"><ele>52</ele></trkpt>
+   <trkpt lat="50.935871" lon="6.944585"><ele>52</ele></trkpt>
+   <trkpt lat="50.935876" lon="6.944819"><ele>52</ele></trkpt>
+   <trkpt lat="50.935871" lon="6.945199"><ele>52</ele></trkpt>
+   <trkpt lat="50.935861" lon="6.945491"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.93586" lon="6.945491"><ele>51.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

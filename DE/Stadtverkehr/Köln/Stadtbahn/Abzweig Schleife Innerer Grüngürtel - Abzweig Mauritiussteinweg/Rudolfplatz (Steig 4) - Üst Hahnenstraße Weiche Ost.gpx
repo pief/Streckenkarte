@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 100 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rudolfplatz (Steig 4) - Üst Hahnenstraße Weiche Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.93554/6.94291/standard&amp;lonlats=6.940415,50.935832;6.941773,50.935901&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.93583" lon="6.940415"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.93587" lon="6.940509"><ele>52</ele></trkpt>
+   <trkpt lat="50.935894" lon="6.940582"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.935928" lon="6.940684"><ele>51.5</ele></trkpt>
+   <trkpt lat="50.935948" lon="6.940773"><ele>51.5</ele></trkpt>
+   <trkpt lat="50.935963" lon="6.940959"><ele>51.25</ele></trkpt>
+   <trkpt lat="50.935902" lon="6.941771"><ele>51</ele></trkpt>
+   <trkpt lat="50.935901" lon="6.941773"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

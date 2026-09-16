@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 26 filtered ascend = 0 plain-ascend = 0 cost=26 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Braunsfeld Kreuz Aachener Straße/Gürtel Weiche West-nach-Süd-West - Braunsfeld Kreuz Aachener Straße/Gürtel Weiche West-nach-Nord-West</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.93711/6.90818/standard&amp;lonlats=6.907901,50.937021;6.908245,50.937007&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.937021" lon="6.907901"><ele>49</ele></trkpt>
+   <trkpt lat="50.937021" lon="6.907903"><ele>49</ele></trkpt>
+   <trkpt lat="50.937018" lon="6.907977"><ele>49</ele></trkpt>
+   <trkpt lat="50.937009" lon="6.908129"><ele>49</ele></trkpt>
+   <trkpt lat="50.937005" lon="6.908191"><ele>49</ele></trkpt>
+   <trkpt lat="50.937002" lon="6.908242"><ele>49</ele></trkpt>
+   <trkpt lat="50.937002" lon="6.908244"><ele>49</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

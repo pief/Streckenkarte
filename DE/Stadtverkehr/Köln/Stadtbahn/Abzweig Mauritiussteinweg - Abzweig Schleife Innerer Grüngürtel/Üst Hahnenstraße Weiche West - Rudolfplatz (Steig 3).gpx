@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 103 filtered ascend = 1 plain-ascend = 1 cost=103 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Hahnenstraße Weiche West - Rudolfplatz (Steig 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.93606/6.94021/standard&amp;lonlats=6.94137,50.935977;6.93995,50.936181&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.935973" lon="6.941368"><ele>51</ele></trkpt>
+   <trkpt lat="50.935989" lon="6.941287"><ele>51</ele></trkpt>
+   <trkpt lat="50.936017" lon="6.941141"><ele>51</ele></trkpt>
+   <trkpt lat="50.936104" lon="6.940587"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.936179" lon="6.939949"><ele>52</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

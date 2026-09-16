@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 24 filtered ascend = 0 plain-ascend = 0 cost=24 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Aachener Straße/Gürtel Weiche Süd-nach-Ost-Ost - Kreuz Aachener Straße/Gürtel Weiche Nord-nach-Ost-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.93703/6.90951/standard&amp;lonlats=6.908884,50.936973;6.909216,50.936966&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.936969" lon="6.908883"><ele>48.75</ele></trkpt>
+   <trkpt lat="50.936966" lon="6.909103"><ele>48.75</ele></trkpt>
+   <trkpt lat="50.936962" lon="6.909213"><ele>48.75</ele></trkpt>
+   <trkpt lat="50.936961" lon="6.909215"><ele>47.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
