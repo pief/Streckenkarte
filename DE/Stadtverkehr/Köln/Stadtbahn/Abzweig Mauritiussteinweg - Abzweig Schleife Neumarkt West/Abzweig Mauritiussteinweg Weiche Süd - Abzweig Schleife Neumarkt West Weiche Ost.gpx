@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 1 cost=78 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Mauritiussteinweg Weiche Süd - Abzweig Schleife Neumarkt West Weiche Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.93588/6.94751/standard&amp;lonlats=6.945492,50.935863;6.946592,50.93582&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.93586" lon="6.945491"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.935846" lon="6.945872"><ele>51.75</ele></trkpt>
+   <trkpt lat="50.935841" lon="6.946005"><ele>52</ele></trkpt>
+   <trkpt lat="50.935832" lon="6.946237"><ele>52</ele></trkpt>
+   <trkpt lat="50.93582" lon="6.94659"><ele>52</ele></trkpt>
+   <trkpt lat="50.935819" lon="6.946591"><ele>52.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

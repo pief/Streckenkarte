@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 501 filtered ascend = 1 plain-ascend = 0 cost=1002 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sülz Uniklinik Köln (Steig Nordwest) - Sülz Zülpicher Straße/Gürtel (Steig 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.92049/6.91581/standard&amp;lonlats=6.922027,50.92238;6.915652,50.920423&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.922381" lon="6.922024"><ele>49.75</ele></trkpt>
+   <trkpt lat="50.922361" lon="6.921968"><ele>50</ele></trkpt>
+   <trkpt lat="50.922277" lon="6.921686"><ele>50</ele></trkpt>
+   <trkpt lat="50.922233" lon="6.921534"><ele>50</ele></trkpt>
+   <trkpt lat="50.921596" lon="6.919815"><ele>50</ele></trkpt>
+   <trkpt lat="50.921392" lon="6.919248"><ele>51</ele></trkpt>
+   <trkpt lat="50.921302" lon="6.918921"><ele>50.75</ele></trkpt>
+   <trkpt lat="50.921226" lon="6.918605"><ele>50.75</ele></trkpt>
+   <trkpt lat="50.920856" lon="6.917276"><ele>50</ele></trkpt>
+   <trkpt lat="50.92063" lon="6.916477"><ele>50</ele></trkpt>
+   <trkpt lat="50.92058" lon="6.916309"><ele>50</ele></trkpt>
+   <trkpt lat="50.920464" lon="6.915817"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.920428" lon="6.915647"><ele>49.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

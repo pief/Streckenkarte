@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13 filtered ascend = 0 plain-ascend = 0 cost=13 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Zülpicher Platz (Steig 3) - Abzweig Zülpicher Platz Weiche Nordost-Nordwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.93128/6.94075/standard&amp;lonlats=6.941069,50.931355;6.940923,50.931279&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.931355" lon="6.941069"><ele>51</ele></trkpt>
+   <trkpt lat="50.931276" lon="6.940925"><ele>51</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

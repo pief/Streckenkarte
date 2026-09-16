@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 0 plain-ascend = 0 cost=108 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sülz Hermeskeiler Platz (Gleis 1) - Sülz Üst Hermeskeiler Platz Südwest Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.91718/6.90752/standard&amp;lonlats=6.907058,50.917019;6.908108,50.917719&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.917017" lon="6.907058"><ele>50</ele></trkpt>
+   <trkpt lat="50.917144" lon="6.907249"><ele>50</ele></trkpt>
+   <trkpt lat="50.917354" lon="6.907573"><ele>50</ele></trkpt>
+   <trkpt lat="50.917717" lon="6.90811"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

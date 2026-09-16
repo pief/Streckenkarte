@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 1 plain-ascend = 1 cost=1024 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sülz Abzweig Zülpicher Straße/Gürtel Weiche Südwest-Süd - Sülz Uniklinik Köln (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/50.92268/6.92262/standard&amp;lonlats=6.914849,50.920272;6.921445,50.922153&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.920268" lon="6.914849"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.920269" lon="6.914854"><ele>49.75</ele></trkpt>
+   <trkpt lat="50.920299" lon="6.915071"><ele>50</ele></trkpt>
+   <trkpt lat="50.920332" lon="6.915279"><ele>50</ele></trkpt>
+   <trkpt lat="50.920338" lon="6.915322"><ele>50</ele></trkpt>
+   <trkpt lat="50.920351" lon="6.915405"><ele>50</ele></trkpt>
+   <trkpt lat="50.920405" lon="6.915716"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.920505" lon="6.916163"><ele>49.5</ele></trkpt>
+   <trkpt lat="50.920601" lon="6.916503"><ele>50</ele></trkpt>
+   <trkpt lat="50.920829" lon="6.917298"><ele>50</ele></trkpt>
+   <trkpt lat="50.921202" lon="6.918639"><ele>51</ele></trkpt>
+   <trkpt lat="50.921276" lon="6.918949"><ele>50.75</ele></trkpt>
+   <trkpt lat="50.921368" lon="6.91927"><ele>50.75</ele></trkpt>
+   <trkpt lat="50.921573" lon="6.919847"><ele>50</ele></trkpt>
+   <trkpt lat="50.921921" lon="6.920805"><ele>50</ele></trkpt>
+   <trkpt lat="50.922074" lon="6.921224"><ele>50</ele></trkpt>
+   <trkpt lat="50.922155" lon="6.921442"><ele>50</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
