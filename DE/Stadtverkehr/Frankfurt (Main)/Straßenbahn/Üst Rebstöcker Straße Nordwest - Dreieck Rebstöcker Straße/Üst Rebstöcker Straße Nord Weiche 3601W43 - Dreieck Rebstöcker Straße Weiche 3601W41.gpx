@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 0 plain-ascend = 0 cost=44 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Rebstöcker Straße Nord Weiche 3601W43 - Dreieck Rebstöcker Straße Weiche 3601W41</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.10132/8.62964/standard&amp;lonlats=8.629332,50.101208;8.629113,50.101329&amp;nogos=6.781752,51.218852,6&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.101206" lon="8.629329"><ele>96</ele></trkpt>
+   <trkpt lat="50.101208" lon="8.629326"><ele>96</ele></trkpt>
+   <trkpt lat="50.101327" lon="8.62911"><ele>96</ele></trkpt>
+   <trkpt lat="50.101327" lon="8.629109"><ele>96</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
