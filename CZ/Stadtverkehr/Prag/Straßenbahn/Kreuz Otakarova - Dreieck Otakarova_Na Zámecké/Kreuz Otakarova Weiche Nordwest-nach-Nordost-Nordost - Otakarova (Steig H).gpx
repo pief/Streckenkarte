@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Otakarova Weiche Nordwest-nach-Nordost-Nordost - Otakarova (Steig H)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.06538/14.44136/standard&amp;lonlats=14.440002,50.065401;14.440778,50.065663&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.065399" lon="14.440001"><ele>197</ele></trkpt>
+   <trkpt lat="50.065405" lon="14.440021"><ele>197</ele></trkpt>
+   <trkpt lat="50.065418" lon="14.440061"><ele>197</ele></trkpt>
+   <trkpt lat="50.065661" lon="14.440778"><ele>197</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

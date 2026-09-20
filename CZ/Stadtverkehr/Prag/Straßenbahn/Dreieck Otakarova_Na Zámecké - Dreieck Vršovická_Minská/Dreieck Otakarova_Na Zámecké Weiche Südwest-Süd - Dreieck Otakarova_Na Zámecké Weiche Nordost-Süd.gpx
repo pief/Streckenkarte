@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Otakarova/Na Zámecké Weiche Südwest-Süd - Dreieck Otakarova/Na Zámecké Weiche Nordost-Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.06599/14.44247/standard&amp;lonlats=14.440894,50.065707;14.441565,50.065937&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.065702" lon="14.440896"><ele>197</ele></trkpt>
+   <trkpt lat="50.065775" lon="14.441107"><ele>197</ele></trkpt>
+   <trkpt lat="50.065794" lon="14.441163"><ele>197</ele></trkpt>
+   <trkpt lat="50.065869" lon="14.44138"><ele>197</ele></trkpt>
+   <trkpt lat="50.065933" lon="14.441563"><ele>196.75</ele></trkpt>
+   <trkpt lat="50.065934" lon="14.441566"><ele>196.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
