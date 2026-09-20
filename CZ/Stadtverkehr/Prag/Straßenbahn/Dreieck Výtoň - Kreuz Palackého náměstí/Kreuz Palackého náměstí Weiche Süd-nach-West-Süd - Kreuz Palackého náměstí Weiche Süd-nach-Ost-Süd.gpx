@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 0 plain-ascend = 1 cost=46 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Palackého náměstí Weiche Süd-nach-West-Süd - Kreuz Palackého náměstí Weiche Süd-nach-Ost-Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/50.07294/14.41411/standard&amp;lonlats=14.414049,50.072798;14.414029,50.07299&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.072798" lon="14.414049"><ele>197</ele></trkpt>
+   <trkpt lat="50.072799" lon="14.414049"><ele>197.25</ele></trkpt>
+   <trkpt lat="50.072989" lon="14.414027"><ele>197.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
