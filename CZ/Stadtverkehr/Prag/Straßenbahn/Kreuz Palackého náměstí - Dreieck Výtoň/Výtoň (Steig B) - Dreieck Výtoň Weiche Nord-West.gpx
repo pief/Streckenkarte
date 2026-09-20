@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 8 filtered ascend = 0 plain-ascend = 0 cost=16 energy=0.0kwh time=1s -->
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2025.2">
+ creator="BRouter-Web 99.71.0">
  <trk>
   <name>Výtoň (Steig B) - Dreieck Výtoň Weiche Nord-West</name>
-  <link href="https://bikerouter.de/#map=19/50.06770/14.41640/osm-mapnik-german_style&amp;lonlats=14.414994,50.067716;14.415012,50.067646">
-   <text>bikerouter.de</text>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.06765/14.41519/standard&amp;lonlats=14.414994,50.067716;14.415005,50.067672&amp;profile=rail">
+   <text>BRouter-Web</text>
   </link>
   <trkseg>
    <trkpt lat="50.067716" lon="14.414994"><ele>191.75</ele></trkpt>
    <trkpt lat="50.067695" lon="14.414999"><ele>191.75</ele></trkpt>
-   <trkpt lat="50.067646" lon="14.415012"><ele>191.75</ele></trkpt>
+   <trkpt lat="50.067672" lon="14.415005"><ele>191.75</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
