@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 3 plain-ascend = 4 cost=192 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Náměstí Bratří Synků Weiche Nord-West - Dreieck Náměstí Bratří Synků Weiche Südost-Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.06347/14.44238/standard&amp;lonlats=14.441319,50.06479;14.441532,50.06399&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.06479" lon="14.44132"><ele>198</ele></trkpt>
+   <trkpt lat="50.064789" lon="14.44132"><ele>198</ele></trkpt>
+   <trkpt lat="50.064675" lon="14.441324"><ele>198.5</ele></trkpt>
+   <trkpt lat="50.064271" lon="14.441335"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.064177" lon="14.441345"><ele>200.75</ele></trkpt>
+   <trkpt lat="50.064139" lon="14.441356"><ele>201</ele></trkpt>
+   <trkpt lat="50.064093" lon="14.441386"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.064068" lon="14.441405"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.064028" lon="14.441454"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.063987" lon="14.441528"><ele>201.5</ele></trkpt>
+   <trkpt lat="50.063986" lon="14.441528"><ele>201.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

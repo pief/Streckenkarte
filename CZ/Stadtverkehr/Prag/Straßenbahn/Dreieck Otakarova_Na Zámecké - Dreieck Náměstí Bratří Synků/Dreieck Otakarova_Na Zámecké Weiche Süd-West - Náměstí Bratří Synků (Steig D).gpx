@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 81 filtered ascend = 1 plain-ascend = 1 cost=162 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Otakarova/Na Zámecké Weiche Süd-West - Náměstí Bratří Synků (Steig D)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.06487/14.44150/standard&amp;lonlats=14.441306,50.065565;14.441315,50.064842&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.065564" lon="14.441303"><ele>197</ele></trkpt>
+   <trkpt lat="50.065564" lon="14.441304"><ele>197</ele></trkpt>
+   <trkpt lat="50.065293" lon="14.441316"><ele>197.5</ele></trkpt>
+   <trkpt lat="50.064842" lon="14.441319"><ele>198</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

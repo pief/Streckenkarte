@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = -1 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Nuselská radnice (Steig A) - Dreieck Táborská Weiche Südwest-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.06318/14.44265/standard&amp;lonlats=14.442306,50.062888;14.442798,50.063102&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.062892" lon="14.442304"><ele>208.75</ele></trkpt>
+   <trkpt lat="50.062897" lon="14.442369"><ele>208.75</ele></trkpt>
+   <trkpt lat="50.06291" lon="14.442502"><ele>208.5</ele></trkpt>
+   <trkpt lat="50.06294" lon="14.442612"><ele>208.25</ele></trkpt>
+   <trkpt lat="50.062974" lon="14.44268"><ele>208</ele></trkpt>
+   <trkpt lat="50.063012" lon="14.442732"><ele>207.5</ele></trkpt>
+   <trkpt lat="50.063062" lon="14.442776"><ele>206.75</ele></trkpt>
+   <trkpt lat="50.0631" lon="14.442798"><ele>206.75</ele></trkpt>
+   <trkpt lat="50.063101" lon="14.442798"><ele>206.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

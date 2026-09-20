@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 111 filtered ascend = 0 plain-ascend = -1 cost=222 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Náměstí Bratří Synků (Steig F) - Dreieck Otakarova/Na Zámecké Weiche Süd-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.06517/14.44202/standard&amp;lonlats=14.441378,50.064611;14.441355,50.065612&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.064611" lon="14.441378"><ele>198.5</ele></trkpt>
+   <trkpt lat="50.065486" lon="14.44136"><ele>197</ele></trkpt>
+   <trkpt lat="50.065612" lon="14.441355"><ele>197</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
