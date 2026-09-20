@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 546 filtered ascend = 3 plain-ascend = 1 cost=1092 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Přístaviště (Steig A) - Abzweig Wendeschleife Dvorce Weiche Süd-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.04488/14.41470/standard&amp;lonlats=14.4096,50.040323;14.412722,50.044789&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.040322" lon="14.409599"><ele>193.5</ele></trkpt>
+   <trkpt lat="50.040406" lon="14.409639"><ele>193.5</ele></trkpt>
+   <trkpt lat="50.040801" lon="14.409827"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.040896" lon="14.409887"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.041001" lon="14.409977"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.041177" lon="14.410176"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.041465" lon="14.410498"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.041591" lon="14.410608"><ele>196.75</ele></trkpt>
+   <trkpt lat="50.044188" lon="14.412364"><ele>194</ele></trkpt>
+   <trkpt lat="50.044511" lon="14.412564"><ele>194</ele></trkpt>
+   <trkpt lat="50.044787" lon="14.412723"><ele>194</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

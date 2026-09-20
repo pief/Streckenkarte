@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 502 filtered ascend = 2 plain-ascend = -2 cost=1004 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Modřanská škola (Steig A) - Belárie (Steig A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/50.01288/14.40482/standard&amp;lonlats=14.403034,50.009159;14.401849,50.013596&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.009158" lon="14.403031"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.009214" lon="14.403018"><ele>196.5</ele></trkpt>
+   <trkpt lat="50.009573" lon="14.402936"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.009849" lon="14.402858"><ele>197.5</ele></trkpt>
+   <trkpt lat="50.010263" lon="14.402704"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.010586" lon="14.402558"><ele>198.75</ele></trkpt>
+   <trkpt lat="50.010932" lon="14.402391"><ele>197</ele></trkpt>
+   <trkpt lat="50.011301" lon="14.40223"><ele>198.25</ele></trkpt>
+   <trkpt lat="50.01167" lon="14.402099"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.011835" lon="14.402052"><ele>196</ele></trkpt>
+   <trkpt lat="50.012059" lon="14.402"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.012478" lon="14.401933"><ele>194.75</ele></trkpt>
+   <trkpt lat="50.012968" lon="14.401895"><ele>193.75</ele></trkpt>
+   <trkpt lat="50.013596" lon="14.401852"><ele>193.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

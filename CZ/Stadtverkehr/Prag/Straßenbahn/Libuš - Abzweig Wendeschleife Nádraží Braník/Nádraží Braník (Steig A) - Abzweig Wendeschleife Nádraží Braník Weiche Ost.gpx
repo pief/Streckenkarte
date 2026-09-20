@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 306 filtered ascend = 0 plain-ascend = -1 cost=612 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Nádraží Braník (Steig A) - Abzweig Wendeschleife Nádraží Braník Weiche Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.03147/14.40967/standard&amp;lonlats=14.405344,50.02924;14.407917,50.031441&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.029239" lon="14.405342"><ele>196.5</ele></trkpt>
+   <trkpt lat="50.029257" lon="14.40536"><ele>196.75</ele></trkpt>
+   <trkpt lat="50.030069" lon="14.406244"><ele>197</ele></trkpt>
+   <trkpt lat="50.030226" lon="14.406425"><ele>195</ele></trkpt>
+   <trkpt lat="50.03054" lon="14.406796"><ele>196.5</ele></trkpt>
+   <trkpt lat="50.031171" lon="14.407578"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.031256" lon="14.407684"><ele>195</ele></trkpt>
+   <trkpt lat="50.031312" lon="14.407754"><ele>195</ele></trkpt>
+   <trkpt lat="50.031362" lon="14.407816"><ele>195</ele></trkpt>
+   <trkpt lat="50.031382" lon="14.407841"><ele>195</ele></trkpt>
+   <trkpt lat="50.03144" lon="14.407916"><ele>195</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
