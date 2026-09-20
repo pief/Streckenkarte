@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 364 filtered ascend = 3 plain-ascend = 3 cost=728 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sídliště Libuš (Steig D) - Libuš (Behelfsausstieg)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.00811/14.45690/standard&amp;lonlats=14.454135,50.005931;14.455886,50.008191&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.005934" lon="14.454135"><ele>297.25</ele></trkpt>
+   <trkpt lat="50.005934" lon="14.454137"><ele>297.25</ele></trkpt>
+   <trkpt lat="50.005885" lon="14.455217"><ele>296</ele></trkpt>
+   <trkpt lat="50.005886" lon="14.455365"><ele>296.25</ele></trkpt>
+   <trkpt lat="50.005901" lon="14.455475"><ele>296.5</ele></trkpt>
+   <trkpt lat="50.005931" lon="14.455569"><ele>296.5</ele></trkpt>
+   <trkpt lat="50.005972" lon="14.455644"><ele>296.25</ele></trkpt>
+   <trkpt lat="50.006029" lon="14.455709"><ele>296</ele></trkpt>
+   <trkpt lat="50.006109" lon="14.455762"><ele>296</ele></trkpt>
+   <trkpt lat="50.006195" lon="14.455784"><ele>296</ele></trkpt>
+   <trkpt lat="50.007205" lon="14.455912"><ele>297.25</ele></trkpt>
+   <trkpt lat="50.007709" lon="14.455924"><ele>298.75</ele></trkpt>
+   <trkpt lat="50.008189" lon="14.45589"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.008191" lon="14.455889"><ele>300.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 492 filtered ascend = 3 plain-ascend = 2 cost=984 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sídliště Libuš (Steig C) - Observatoř Libuš (Steig C)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.00657/14.44713/standard&amp;lonlats=14.453665,50.005996;14.446866,50.006514&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.005992" lon="14.453664"><ele>297.75</ele></trkpt>
+   <trkpt lat="50.005993" lon="14.45366"><ele>298</ele></trkpt>
+   <trkpt lat="50.005997" lon="14.453587"><ele>298</ele></trkpt>
+   <trkpt lat="50.006005" lon="14.453424"><ele>298</ele></trkpt>
+   <trkpt lat="50.006038" lon="14.452704"><ele>298</ele></trkpt>
+   <trkpt lat="50.006185" lon="14.449527"><ele>300.25</ele></trkpt>
+   <trkpt lat="50.006234" lon="14.448834"><ele>300.75</ele></trkpt>
+   <trkpt lat="50.006279" lon="14.448403"><ele>301.5</ele></trkpt>
+   <trkpt lat="50.006345" lon="14.447915"><ele>301</ele></trkpt>
+   <trkpt lat="50.006515" lon="14.446866"><ele>300</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

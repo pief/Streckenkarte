@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 651 filtered ascend = 8 plain-ascend = 8 cost=1302 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Nádraží Modřany (Steig B) - Čechova čtvrť (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.00153/14.41189/standard&amp;lonlats=14.403422,50.004023;14.410559,50.00222&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.004022" lon="14.403421"><ele>195.25</ele></trkpt>
+   <trkpt lat="50.003986" lon="14.403435"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.003957" lon="14.403445"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.003904" lon="14.403465"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.003459" lon="14.403631"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.00324" lon="14.40373"><ele>196.5</ele></trkpt>
+   <trkpt lat="50.002744" lon="14.403989"><ele>198.5</ele></trkpt>
+   <trkpt lat="50.002529" lon="14.404154"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.002444" lon="14.404239"><ele>199.75</ele></trkpt>
+   <trkpt lat="50.002362" lon="14.404352"><ele>199.5</ele></trkpt>
+   <trkpt lat="50.002284" lon="14.404479"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.002219" lon="14.40462"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.002166" lon="14.404767"><ele>200.75</ele></trkpt>
+   <trkpt lat="50.002122" lon="14.404918"><ele>200.75</ele></trkpt>
+   <trkpt lat="50.002087" lon="14.405094"><ele>201</ele></trkpt>
+   <trkpt lat="50.002066" lon="14.405256"><ele>201</ele></trkpt>
+   <trkpt lat="50.002055" lon="14.405413"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.002054" lon="14.405613"><ele>201.5</ele></trkpt>
+   <trkpt lat="50.002102" lon="14.407097"><ele>202.75</ele></trkpt>
+   <trkpt lat="50.002219" lon="14.410555"><ele>202.75</ele></trkpt>
+   <trkpt lat="50.002219" lon="14.410558"><ele>203.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

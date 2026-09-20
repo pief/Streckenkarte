@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 366 filtered ascend = 5 plain-ascend = 5 cost=732 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeschleife Levského Weiche West - Hasičská stanice Modřany (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.00571/14.44006/standard&amp;lonlats=14.435283,50.005035;14.440117,50.005992&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.005028" lon="14.435282"><ele>285.75</ele></trkpt>
+   <trkpt lat="50.005029" lon="14.435288"><ele>286</ele></trkpt>
+   <trkpt lat="50.005032" lon="14.435423"><ele>286</ele></trkpt>
+   <trkpt lat="50.005053" lon="14.436012"><ele>286</ele></trkpt>
+   <trkpt lat="50.005069" lon="14.436184"><ele>286.25</ele></trkpt>
+   <trkpt lat="50.005111" lon="14.436472"><ele>286.75</ele></trkpt>
+   <trkpt lat="50.005139" lon="14.436637"><ele>287.25</ele></trkpt>
+   <trkpt lat="50.005273" lon="14.437432"><ele>287</ele></trkpt>
+   <trkpt lat="50.00528" lon="14.437472"><ele>287</ele></trkpt>
+   <trkpt lat="50.005295" lon="14.437553"><ele>287.25</ele></trkpt>
+   <trkpt lat="50.005357" lon="14.437881"><ele>289.25</ele></trkpt>
+   <trkpt lat="50.005411" lon="14.438096"><ele>289.5</ele></trkpt>
+   <trkpt lat="50.005458" lon="14.438252"><ele>289.75</ele></trkpt>
+   <trkpt lat="50.005662" lon="14.438851"><ele>290</ele></trkpt>
+   <trkpt lat="50.005768" lon="14.439218"><ele>290</ele></trkpt>
+   <trkpt lat="50.005875" lon="14.439635"><ele>290.75</ele></trkpt>
+   <trkpt lat="50.005992" lon="14.440116"><ele>291</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

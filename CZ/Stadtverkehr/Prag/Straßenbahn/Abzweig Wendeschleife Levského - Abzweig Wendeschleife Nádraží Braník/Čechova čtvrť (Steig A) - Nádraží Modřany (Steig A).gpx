@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 640 filtered ascend = 0 plain-ascend = -8 cost=1280 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Čechova čtvrť (Steig A) - Nádraží Modřany (Steig A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/50.0008/14.4115/standard&amp;lonlats=14.409654,50.002217;14.403272,50.004573&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.002216" lon="14.409653"><ele>202.5</ele></trkpt>
+   <trkpt lat="50.002216" lon="14.409626"><ele>202.5</ele></trkpt>
+   <trkpt lat="50.002134" lon="14.40711"><ele>201.25</ele></trkpt>
+   <trkpt lat="50.002087" lon="14.405615"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.002087" lon="14.405428"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.002097" lon="14.405257"><ele>200.5</ele></trkpt>
+   <trkpt lat="50.002117" lon="14.405115"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.002154" lon="14.404941"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.002192" lon="14.404808"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.00225" lon="14.404645"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.00231" lon="14.404515"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.00247" lon="14.404283"><ele>200</ele></trkpt>
+   <trkpt lat="50.002541" lon="14.404208"><ele>200.25</ele></trkpt>
+   <trkpt lat="50.002763" lon="14.404031"><ele>198.5</ele></trkpt>
+   <trkpt lat="50.003477" lon="14.403676"><ele>195.25</ele></trkpt>
+   <trkpt lat="50.003918" lon="14.403509"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.003965" lon="14.403492"><ele>195.5</ele></trkpt>
+   <trkpt lat="50.004573" lon="14.403272"><ele>193.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

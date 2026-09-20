@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 283 filtered ascend = 16 plain-ascend = 17 cost=566 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Modřanská rokle (Steig B) - Sídliště Modřany (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.00497/14.43330/standard&amp;lonlats=14.429714,50.00609;14.433297,50.005086&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.006089" lon="14.429713"><ele>264.5</ele></trkpt>
+   <trkpt lat="50.006081" lon="14.429735"><ele>264.75</ele></trkpt>
+   <trkpt lat="50.005423" lon="14.431489"><ele>275.5</ele></trkpt>
+   <trkpt lat="50.005273" lon="14.431939"><ele>276.75</ele></trkpt>
+   <trkpt lat="50.005211" lon="14.432218"><ele>276.5</ele></trkpt>
+   <trkpt lat="50.00507" lon="14.433292"><ele>281</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

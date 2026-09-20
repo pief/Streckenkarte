@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 29 filtered ascend = 0 plain-ascend = 0 cost=58 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Libuš - Üst Libuš Weiche Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.00858/14.45616/standard&amp;lonlats=14.455764,50.008811;14.455817,50.008543&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.00881" lon="14.455757"><ele>302</ele></trkpt>
+   <trkpt lat="50.008666" lon="14.455793"><ele>302</ele></trkpt>
+   <trkpt lat="50.00861" lon="14.455807"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.00858" lon="14.455814"><ele>301.75</ele></trkpt>
+   <trkpt lat="50.008543" lon="14.455822"><ele>301.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
