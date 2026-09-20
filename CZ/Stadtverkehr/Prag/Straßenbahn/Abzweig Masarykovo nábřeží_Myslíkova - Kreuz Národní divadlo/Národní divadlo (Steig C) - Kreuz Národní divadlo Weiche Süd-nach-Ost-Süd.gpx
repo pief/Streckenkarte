@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 107 filtered ascend = 2 plain-ascend = 3 cost=214 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Národní divadlo (Steig C) - Kreuz Národní divadlo Weiche Süd-nach-Ost-Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.08124/14.41347/standard&amp;lonlats=14.413595,50.080277;14.41308,50.081183&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.080277" lon="14.413595"><ele>190.5</ele></trkpt>
+   <trkpt lat="50.080302" lon="14.413577"><ele>190.5</ele></trkpt>
+   <trkpt lat="50.080391" lon="14.413511"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.080442" lon="14.413478"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.080715" lon="14.413294"><ele>191</ele></trkpt>
+   <trkpt lat="50.081014" lon="14.413135"><ele>192</ele></trkpt>
+   <trkpt lat="50.081182" lon="14.413079"><ele>193</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 324 filtered ascend = 1 plain-ascend = 0 cost=648 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Staroměstská Weiche Nord-Ost - Právnická fakulta (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.09080/14.41837/standard&amp;lonlats=14.415676,50.088887;14.417714,50.091393&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.088886" lon="14.415677"><ele>191</ele></trkpt>
+   <trkpt lat="50.088888" lon="14.415679"><ele>191</ele></trkpt>
+   <trkpt lat="50.089195" lon="14.415805"><ele>192</ele></trkpt>
+   <trkpt lat="50.089324" lon="14.415858"><ele>191.75</ele></trkpt>
+   <trkpt lat="50.09027" lon="14.41627"><ele>191</ele></trkpt>
+   <trkpt lat="50.090424" lon="14.41639"><ele>190.75</ele></trkpt>
+   <trkpt lat="50.090889" lon="14.416838"><ele>190</ele></trkpt>
+   <trkpt lat="50.090993" lon="14.41696"><ele>190.5</ele></trkpt>
+   <trkpt lat="50.091043" lon="14.417044"><ele>190.25</ele></trkpt>
+   <trkpt lat="50.091391" lon="14.417714"><ele>191</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

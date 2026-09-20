@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=100 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Národní divadlo Weiche Süd-nach-Ost-Süd - Kreuz Národní divadlo Weiche Ost-nach-Nord-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.08156/14.41315/standard&amp;lonlats=14.41308,50.081183;14.413023,50.081611&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.081182" lon="14.413079"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.081185" lon="14.413079"><ele>193</ele></trkpt>
+   <trkpt lat="50.081259" lon="14.413063"><ele>193</ele></trkpt>
+   <trkpt lat="50.081295" lon="14.413056"><ele>193</ele></trkpt>
+   <trkpt lat="50.081303" lon="14.413054"><ele>192.75</ele></trkpt>
+   <trkpt lat="50.081382" lon="14.413041"><ele>192.5</ele></trkpt>
+   <trkpt lat="50.081396" lon="14.413039"><ele>192.5</ele></trkpt>
+   <trkpt lat="50.081411" lon="14.413037"><ele>192.5</ele></trkpt>
+   <trkpt lat="50.08147" lon="14.41303"><ele>192.25</ele></trkpt>
+   <trkpt lat="50.081546" lon="14.413027"><ele>192.25</ele></trkpt>
+   <trkpt lat="50.081577" lon="14.413026"><ele>192.25</ele></trkpt>
+   <trkpt lat="50.081611" lon="14.413024"><ele>192</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
