@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 281 filtered ascend = 9 plain-ascend = 8 cost=562 energy=0.0kwh time=22s -->
+<!-- track-length = 299 filtered ascend = 6 plain-ascend = 7 cost=557 energy=0.0kwh time=24s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2024.32">
+ creator="BRouter-Web 0.18.1">
  <trk>
   <name>Abzweig Franz-Mehring-Straße Weiche 1-21 - Stadthaus (Steig A)</name>
-  <link href="https://bikerouter.de/#map=18/53.63144/11.40784/osm-mapnik-german_style&amp;lonlats=11.410045,53.630465;11.40674,53.631977&amp;profile=rail">
-   <text>bikerouter.de</text>
-  </link>
   <trkseg>
-   <trkpt lat="53.630465" lon="11.410045"><ele>47</ele></trkpt>
-   <trkpt lat="53.630471" lon="11.410043"><ele>47.25</ele></trkpt>
-   <trkpt lat="53.630551" lon="11.409957"><ele>47.75</ele></trkpt>
-   <trkpt lat="53.630562" lon="11.409944"><ele>47.75</ele></trkpt>
-   <trkpt lat="53.630593" lon="11.409905"><ele>47.75</ele></trkpt>
-   <trkpt lat="53.630652" lon="11.409831"><ele>47.75</ele></trkpt>
-   <trkpt lat="53.630719" lon="11.409652"><ele>48.75</ele></trkpt>
-   <trkpt lat="53.630936" lon="11.409174"><ele>50.75</ele></trkpt>
-   <trkpt lat="53.631112" lon="11.408783"><ele>52</ele></trkpt>
-   <trkpt lat="53.631194" lon="11.408574"><ele>52.25</ele></trkpt>
-   <trkpt lat="53.631243" lon="11.408403"><ele>53.5</ele></trkpt>
-   <trkpt lat="53.631314" lon="11.408029"><ele>54.5</ele></trkpt>
-   <trkpt lat="53.631343" lon="11.407936"><ele>55</ele></trkpt>
-   <trkpt lat="53.631516" lon="11.407531"><ele>56.25</ele></trkpt>
-   <trkpt lat="53.631601" lon="11.407418"><ele>55.25</ele></trkpt>
-   <trkpt lat="53.631766" lon="11.407139"><ele>53.25</ele></trkpt>
-   <trkpt lat="53.631978" lon="11.406742"><ele>56</ele></trkpt>
-   <trkpt lat="53.631978" lon="11.406741"><ele>54.75</ele></trkpt>
+   <trkpt lat="53.630301" lon="11.410124"><ele>46.5</ele></trkpt>
+   <trkpt lat="53.630302" lon="11.410124"><ele>46.5</ele></trkpt>
+   <trkpt lat="53.630433" lon="11.410056"><ele>46.75</ele></trkpt>
+   <trkpt lat="53.63052" lon="11.409997"><ele>47</ele></trkpt>
+   <trkpt lat="53.6306" lon="11.409917"><ele>47</ele></trkpt>
+   <trkpt lat="53.6307" lon="11.409751"><ele>47</ele></trkpt>
+   <trkpt lat="53.631115" lon="11.408834"><ele>50</ele></trkpt>
+   <trkpt lat="53.631199" lon="11.408576"><ele>50.25</ele></trkpt>
+   <trkpt lat="53.63131" lon="11.408118"><ele>51</ele></trkpt>
+   <trkpt lat="53.631382" lon="11.407884"><ele>51</ele></trkpt>
+   <trkpt lat="53.631453" lon="11.407703"><ele>51.25</ele></trkpt>
+   <trkpt lat="53.631501" lon="11.407603"><ele>51.5</ele></trkpt>
+   <trkpt lat="53.631629" lon="11.407385"><ele>52</ele></trkpt>
+   <trkpt lat="53.631749" lon="11.407205"><ele>52</ele></trkpt>
+   <trkpt lat="53.631814" lon="11.407102"><ele>52</ele></trkpt>
+   <trkpt lat="53.63199" lon="11.406762"><ele>52.5</ele></trkpt>
+   <trkpt lat="53.63199" lon="11.40676"><ele>53</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
