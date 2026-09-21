@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = 0 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Výstaviště Weiche Nordost-Ost - Výstaviště (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.10459/14.43248/standard&amp;lonlats=14.431823,50.104282;14.432563,50.10475&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.104281" lon="14.431823"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.104308" lon="14.431866"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.10475" lon="14.432561"><ele>193</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

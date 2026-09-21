@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 43 filtered ascend = 0 plain-ascend = 0 cost=86 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Výstaviště Weiche 786 - Dreieck Výstaviště Weiche Nordost-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.10413/14.43173/standard&amp;lonlats=14.431739,50.103937;14.431823,50.104282&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.103937" lon="14.431739"><ele>194</ele></trkpt>
+   <trkpt lat="50.103939" lon="14.431738"><ele>194</ele></trkpt>
+   <trkpt lat="50.10404" lon="14.431686"><ele>194</ele></trkpt>
+   <trkpt lat="50.104085" lon="14.431678"><ele>194</ele></trkpt>
+   <trkpt lat="50.104131" lon="14.431682"><ele>194</ele></trkpt>
+   <trkpt lat="50.104191" lon="14.431715"><ele>194</ele></trkpt>
+   <trkpt lat="50.104238" lon="14.431764"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.10428" lon="14.431822"><ele>194.25</ele></trkpt>
+   <trkpt lat="50.104281" lon="14.431823"><ele>194.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
