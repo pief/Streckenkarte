@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 279 filtered ascend = 5 plain-ascend = 3 cost=560 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Mainz Münsterplatz (Steig C) - Mainz Abzweig Alicenplatz Weiche 110</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.99985/8.26086/standard&amp;lonlats=8.262809,50.000195;8.259143,49.99968&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.000195" lon="8.262809"><ele>89.75</ele></trkpt>
+   <trkpt lat="50.000226" lon="8.262165"><ele>91.25</ele></trkpt>
+   <trkpt lat="50.000227" lon="8.262127"><ele>91.25</ele></trkpt>
+   <trkpt lat="50.000232" lon="8.261931"><ele>92</ele></trkpt>
+   <trkpt lat="50.000222" lon="8.261678"><ele>92.75</ele></trkpt>
+   <trkpt lat="50.000247" lon="8.261166"><ele>94.75</ele></trkpt>
+   <trkpt lat="50.000252" lon="8.261051"><ele>95</ele></trkpt>
+   <trkpt lat="50.000248" lon="8.26087"><ele>95</ele></trkpt>
+   <trkpt lat="50.000233" lon="8.260749"><ele>95.25</ele></trkpt>
+   <trkpt lat="50.000202" lon="8.260591"><ele>95.25</ele></trkpt>
+   <trkpt lat="50.000126" lon="8.260372"><ele>94.75</ele></trkpt>
+   <trkpt lat="50.000117" lon="8.260348"><ele>94.75</ele></trkpt>
+   <trkpt lat="50.000051" lon="8.260169"><ele>94.25</ele></trkpt>
+   <trkpt lat="50.000016" lon="8.260071"><ele>94</ele></trkpt>
+   <trkpt lat="49.999707" lon="8.259217"><ele>92.5</ele></trkpt>
+   <trkpt lat="49.999698" lon="8.259192"><ele>92.5</ele></trkpt>
+   <trkpt lat="49.99968" lon="8.259143"><ele>92.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
