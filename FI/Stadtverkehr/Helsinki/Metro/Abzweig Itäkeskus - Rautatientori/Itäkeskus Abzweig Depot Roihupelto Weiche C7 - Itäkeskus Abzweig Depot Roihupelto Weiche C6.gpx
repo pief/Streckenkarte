@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 443 filtered ascend = 5 plain-ascend = 5 cost=886 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Itäkeskus Abzweig Depot Roihupelto Weiche C7 - Itäkeskus Abzweig Depot Roihupelto Weiche C6</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/60.20860/25.06134/standard&amp;lonlats=25.068842,60.208785;25.060889,60.208505&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.208778" lon="25.068842"><ele>4.25</ele></trkpt>
+   <trkpt lat="60.208715" lon="25.067905"><ele>5.25</ele></trkpt>
+   <trkpt lat="60.208522" lon="25.065276"><ele>4.25</ele></trkpt>
+   <trkpt lat="60.208495" lon="25.06484"><ele>5.25</ele></trkpt>
+   <trkpt lat="60.208456" lon="25.063849"><ele>5</ele></trkpt>
+   <trkpt lat="60.208446" lon="25.063215"><ele>5.75</ele></trkpt>
+   <trkpt lat="60.208453" lon="25.06237"><ele>6.75</ele></trkpt>
+   <trkpt lat="60.208504" lon="25.060893"><ele>8.75</ele></trkpt>
+   <trkpt lat="60.208504" lon="25.060888"><ele>9.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

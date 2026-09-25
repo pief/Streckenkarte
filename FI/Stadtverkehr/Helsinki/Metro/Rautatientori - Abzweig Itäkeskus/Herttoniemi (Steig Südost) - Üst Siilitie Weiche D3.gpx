@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1080 filtered ascend = 7 plain-ascend = 7 cost=2160 energy=0.0kwh time=1m 26.200000000000003s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Herttoniemi (Steig Südost) - Üst Siilitie Weiche D3</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/60.20372/25.04196/standard&amp;lonlats=25.031321,60.194997;25.032154,60.195396;25.041518,60.203212&amp;straight=0&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.194997" lon="25.031321"/>
+   <trkpt lat="60.195396" lon="25.03215"><ele>7</ele></trkpt>
+   <trkpt lat="60.195697" lon="25.032675"><ele>7</ele></trkpt>
+   <trkpt lat="60.19593" lon="25.032998"><ele>7</ele></trkpt>
+   <trkpt lat="60.196319" lon="25.033475"><ele>8</ele></trkpt>
+   <trkpt lat="60.201543" lon="25.039524"><ele>13</ele></trkpt>
+   <trkpt lat="60.202422" lon="25.040558"><ele>13.75</ele></trkpt>
+   <trkpt lat="60.20321" lon="25.041521"><ele>14</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

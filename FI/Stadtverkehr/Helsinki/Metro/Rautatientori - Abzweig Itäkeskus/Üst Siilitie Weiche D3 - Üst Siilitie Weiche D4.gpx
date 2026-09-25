@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 181 filtered ascend = 0 plain-ascend = 0 cost=362 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Siilitie Weiche D3 - Üst Siilitie Weiche D4</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/60.20416/25.04369/standard&amp;lonlats=25.041518,60.203212;25.042645,60.204107;25.043201,60.204573&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.20321" lon="25.041521"><ele>13.75</ele></trkpt>
+   <trkpt lat="60.203213" lon="25.041525"><ele>14</ele></trkpt>
+   <trkpt lat="60.203638" lon="25.042032"><ele>13.25</ele></trkpt>
+   <trkpt lat="60.203902" lon="25.042362"><ele>13</ele></trkpt>
+   <trkpt lat="60.20411" lon="25.042631"><ele>12.5</ele></trkpt>
+   <trkpt lat="60.20457" lon="25.043222"><ele>12.5</ele></trkpt>
+   <trkpt lat="60.204567" lon="25.043217"><ele>13</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

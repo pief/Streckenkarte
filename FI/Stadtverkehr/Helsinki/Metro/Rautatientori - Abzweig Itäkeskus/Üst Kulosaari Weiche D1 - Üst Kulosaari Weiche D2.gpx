@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 93 filtered ascend = 0 plain-ascend = 0 cost=186 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Kulosaari Weiche D1 - Üst Kulosaari Weiche D2</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/60.18916/25.01155/standard&amp;lonlats=25.010066,60.188978;25.010904,60.189058;25.011659,60.189136&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.188974" lon="25.010066"><ele>11.75</ele></trkpt>
+   <trkpt lat="60.188975" lon="25.010074"><ele>11.75</ele></trkpt>
+   <trkpt lat="60.189057" lon="25.010903"><ele>11.75</ele></trkpt>
+   <trkpt lat="60.189134" lon="25.011671"><ele>11.75</ele></trkpt>
+   <trkpt lat="60.189133" lon="25.011658"><ele>12</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
