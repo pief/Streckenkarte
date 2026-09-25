@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 476 filtered ascend = 3 plain-ascend = 4 cost=476 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Bahnhof Lübeck Hafen (Gleis 81) - Bahnhof Lübeck Hafen Weiche 140a</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/53.87613/10.68433/standard&amp;lonlats=10.683904,53.876088;10.678165,53.873514&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.876089" lon="10.6839"><ele>1</ele></trkpt>
+   <trkpt lat="53.874811" lon="10.680682"><ele>2</ele></trkpt>
+   <trkpt lat="53.874689" lon="10.680408"><ele>2</ele></trkpt>
+   <trkpt lat="53.874499" lon="10.680011"><ele>2</ele></trkpt>
+   <trkpt lat="53.874166" lon="10.679317"><ele>2.25</ele></trkpt>
+   <trkpt lat="53.874018" lon="10.679027"><ele>3.25</ele></trkpt>
+   <trkpt lat="53.873756" lon="10.678558"><ele>4.5</ele></trkpt>
+   <trkpt lat="53.873517" lon="10.678163"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.873515" lon="10.67816"><ele>4.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
