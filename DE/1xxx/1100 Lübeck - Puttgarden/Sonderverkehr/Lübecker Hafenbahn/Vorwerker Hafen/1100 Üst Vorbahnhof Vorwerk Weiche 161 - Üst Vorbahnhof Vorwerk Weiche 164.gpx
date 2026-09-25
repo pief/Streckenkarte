@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 122 filtered ascend = 1 plain-ascend = 2 cost=122 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Üst Vorbahnhof Vorwerk Weiche 161 - Üst Vorbahnhof Vorwerk Weiche 164</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.87824/10.68217/standard&amp;lonlats=10.681887,53.877198;10.682054,53.877961;10.682122,53.878281&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.877197" lon="10.681888"><ele>6</ele></trkpt>
+   <trkpt lat="53.877959" lon="10.682056"><ele>7</ele></trkpt>
+   <trkpt lat="53.878279" lon="10.682126"><ele>7</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
