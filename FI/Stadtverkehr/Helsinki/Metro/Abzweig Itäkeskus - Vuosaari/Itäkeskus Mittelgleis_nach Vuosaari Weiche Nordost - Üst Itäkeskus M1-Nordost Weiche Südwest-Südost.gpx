@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 203 filtered ascend = 0 plain-ascend = 0 cost=408 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Itäkeskus Mittelgleis/nach Vuosaari Weiche Nordost - Üst Itäkeskus M1-Nordost Weiche Südwest-Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/60.21236/25.08404/standard&amp;lonlats=25.080588,60.210836;25.083193,60.212089&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.210836" lon="25.080586"/>
+   <trkpt lat="60.210837" lon="25.08059"/>
+   <trkpt lat="60.211167" lon="25.081538"/>
+   <trkpt lat="60.211957" lon="25.082973"/>
+   <trkpt lat="60.212087" lon="25.083197"/>
+  </trkseg>
+ </trk>
+</gpx>

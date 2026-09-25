@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 112 filtered ascend = 1 plain-ascend = 2 cost=224 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Vuosaari Weiche L4 - Üst Vuosaari Weiche L3</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/60.20680/25.13636/standard&amp;lonlats=25.140463,60.207117;25.138503,60.206958&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.207116" lon="25.140462"><ele>8</ele></trkpt>
+   <trkpt lat="60.207116" lon="25.140461"><ele>8</ele></trkpt>
+   <trkpt lat="60.20708" lon="25.139889"><ele>8</ele></trkpt>
+   <trkpt lat="60.207033" lon="25.139303"><ele>8</ele></trkpt>
+   <trkpt lat="60.206956" lon="25.138506"><ele>8</ele></trkpt>
+   <trkpt lat="60.206955" lon="25.138502"><ele>9.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

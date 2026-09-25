@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 56 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Itäkeskus Weiche D18 - Itäkeskus Mittelgleis/nach Vuosaari Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/60.21077/25.08061/standard&amp;lonlats=25.079753,60.210586;25.080589,60.210837&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.210585" lon="25.079752"/>
+   <trkpt lat="60.210587" lon="25.079758"/>
+   <trkpt lat="60.210837" lon="25.08059"/>
+   <trkpt lat="60.210836" lon="25.080588"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 293 filtered ascend = 3 plain-ascend = 4 cost=586 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Rastila Weiche H2 - Rastila (Gleis Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/60.20535/25.12128/standard&amp;lonlats=25.117386,60.206055;25.122351,60.205167&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="60.206051" lon="25.117384"><ele>6.25</ele></trkpt>
+   <trkpt lat="60.206052" lon="25.117384"><ele>6.25</ele></trkpt>
+   <trkpt lat="60.205706" lon="25.119317"><ele>7.5</ele></trkpt>
+   <trkpt lat="60.205172" lon="25.122326"><ele>9.5</ele></trkpt>
+   <trkpt lat="60.205167" lon="25.122351"><ele>9.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
