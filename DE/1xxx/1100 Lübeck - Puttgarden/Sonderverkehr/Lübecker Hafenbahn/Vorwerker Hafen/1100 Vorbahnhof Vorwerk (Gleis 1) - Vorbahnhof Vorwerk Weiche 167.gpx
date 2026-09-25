@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 515 filtered ascend = 0 plain-ascend = 0 cost=515 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Vorbahnhof Vorwerk (Gleis 1) - Vorbahnhof Vorwerk Weiche 167</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/53.88298/10.68953/standard&amp;lonlats=10.687435,53.88351;10.683149,53.879645&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.883507" lon="10.687439"><ele>7.75</ele></trkpt>
+   <trkpt lat="53.880235" lon="10.683881"><ele>7</ele></trkpt>
+   <trkpt lat="53.879998" lon="10.683607"><ele>7</ele></trkpt>
+   <trkpt lat="53.879887" lon="10.683472"><ele>7</ele></trkpt>
+   <trkpt lat="53.879645" lon="10.683152"><ele>7</ele></trkpt>
+   <trkpt lat="53.879644" lon="10.68315"><ele>7</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 255 filtered ascend = 1 plain-ascend = 2 cost=256 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Bahnhof Lübeck Hafen (Gleis 101) - Üst Vorbahnhof Vorwerk Weiche 162</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/53.87550/10.68087/standard&amp;lonlats=10.680628,53.875618;10.68207,53.87769&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.875617" lon="10.680626"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.876394" lon="10.681515"><ele>6</ele></trkpt>
+   <trkpt lat="53.876514" lon="10.681631"><ele>6</ele></trkpt>
+   <trkpt lat="53.876634" lon="10.681728"><ele>6</ele></trkpt>
+   <trkpt lat="53.876761" lon="10.681811"><ele>6</ele></trkpt>
+   <trkpt lat="53.876905" lon="10.681883"><ele>6</ele></trkpt>
+   <trkpt lat="53.877025" lon="10.681926"><ele>6</ele></trkpt>
+   <trkpt lat="53.877689" lon="10.682074"><ele>7</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
