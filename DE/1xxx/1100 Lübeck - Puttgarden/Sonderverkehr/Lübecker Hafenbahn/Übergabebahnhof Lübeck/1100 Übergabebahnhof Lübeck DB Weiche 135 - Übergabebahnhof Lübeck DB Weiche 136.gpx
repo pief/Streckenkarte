@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = -1 cost=59 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Übergabebahnhof Lübeck DB Weiche 135 - Übergabebahnhof Lübeck DB Weiche 136</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.87196/10.67624/standard&amp;lonlats=10.675972,53.871782;10.676487,53.872203&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.87178" lon="10.675973"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.871782" lon="10.675976"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.871898" lon="10.676111"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.872102" lon="10.676377"><ele>3.5</ele></trkpt>
+   <trkpt lat="53.872201" lon="10.67649"><ele>3</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

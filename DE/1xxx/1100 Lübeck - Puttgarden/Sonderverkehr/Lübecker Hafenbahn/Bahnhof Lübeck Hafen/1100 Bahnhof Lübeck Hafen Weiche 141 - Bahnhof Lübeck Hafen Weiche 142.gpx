@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 50 filtered ascend = 1 plain-ascend = 2 cost=50 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Bahnhof Lübeck Hafen Weiche 141 - Bahnhof Lübeck Hafen Weiche 142</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.87336/10.67822/standard&amp;lonlats=10.67757,53.87322;10.678023,53.873568&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.873218" lon="10.677571"><ele>4</ele></trkpt>
+   <trkpt lat="53.87322" lon="10.677574"><ele>4</ele></trkpt>
+   <trkpt lat="53.873566" lon="10.678025"><ele>5.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

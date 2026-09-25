@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 513 filtered ascend = 0 plain-ascend = 0 cost=513 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Lübeck Hbf (Gleis 1) - Lübeck Hbf Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.86714/10.66989/standard&amp;lonlats=10.669907,53.86718;10.674764,53.870682&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.867179" lon="10.669906"><ele>6</ele></trkpt>
+   <trkpt lat="53.867232" lon="10.670042"><ele>6</ele></trkpt>
+   <trkpt lat="53.867557" lon="10.670869"><ele>6</ele></trkpt>
+   <trkpt lat="53.867617" lon="10.671006"><ele>6</ele></trkpt>
+   <trkpt lat="53.86776" lon="10.671285"><ele>5.75</ele></trkpt>
+   <trkpt lat="53.868199" lon="10.67201"><ele>5.5</ele></trkpt>
+   <trkpt lat="53.868757" lon="10.672858"><ele>5.25</ele></trkpt>
+   <trkpt lat="53.86891" lon="10.673067"><ele>5</ele></trkpt>
+   <trkpt lat="53.869066" lon="10.673258"><ele>5</ele></trkpt>
+   <trkpt lat="53.869344" lon="10.673563"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.869619" lon="10.673831"><ele>4.75</ele></trkpt>
+   <trkpt lat="53.869801" lon="10.673986"><ele>5</ele></trkpt>
+   <trkpt lat="53.870059" lon="10.674186"><ele>6</ele></trkpt>
+   <trkpt lat="53.870281" lon="10.67437"><ele>6.25</ele></trkpt>
+   <trkpt lat="53.870682" lon="10.674768"><ele>5.5</ele></trkpt>
+   <trkpt lat="53.87068" lon="10.674765"><ele>5.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

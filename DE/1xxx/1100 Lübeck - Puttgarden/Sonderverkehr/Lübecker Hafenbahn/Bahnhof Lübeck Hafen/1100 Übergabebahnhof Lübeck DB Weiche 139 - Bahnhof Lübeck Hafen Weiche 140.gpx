@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=5 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Übergabebahnhof Lübeck DB Weiche 139 - Bahnhof Lübeck Hafen Weiche 140</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.87272/10.67721/standard&amp;lonlats=10.676966,53.872672;10.677008,53.872706&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.87267" lon="10.67697"/>
+   <trkpt lat="53.872672" lon="10.676973"/>
+   <trkpt lat="53.872705" lon="10.677007"/>
+  </trkseg>
+ </trk>
+</gpx>
