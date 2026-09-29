@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 2 plain-ascend = 2 cost=145 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>30400 Měchenice (Gleis 2) - Měchenice Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.91160/14.38218/standard&amp;lonlats=14.383314,49.911124;14.381654,49.911868&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.911125" lon="14.383315"><ele>206</ele></trkpt>
+   <trkpt lat="49.911454" lon="14.382564"><ele>206</ele></trkpt>
+   <trkpt lat="49.911505" lon="14.382443"><ele>206.5</ele></trkpt>
+   <trkpt lat="49.911745" lon="14.381898"><ele>207</ele></trkpt>
+   <trkpt lat="49.911864" lon="14.381655"><ele>208.5</ele></trkpt>
+   <trkpt lat="49.911866" lon="14.381651"><ele>208.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

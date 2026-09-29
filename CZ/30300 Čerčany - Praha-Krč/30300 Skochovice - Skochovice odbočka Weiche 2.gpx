@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 424 filtered ascend = 0 plain-ascend = -5 cost=424 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>30300 Skochovice - Skochovice odbočka Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/49.92495/14.37908/standard&amp;lonlats=14.376236,49.924705;14.377718,49.921014&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.924704" lon="14.376235"><ele>212.5</ele></trkpt>
+   <trkpt lat="49.924457" lon="14.376327"><ele>213.25</ele></trkpt>
+   <trkpt lat="49.924338" lon="14.376361"><ele>212.75</ele></trkpt>
+   <trkpt lat="49.923938" lon="14.376471"><ele>211.75</ele></trkpt>
+   <trkpt lat="49.92342" lon="14.376633"><ele>209.5</ele></trkpt>
+   <trkpt lat="49.923238" lon="14.376697"><ele>209</ele></trkpt>
+   <trkpt lat="49.922801" lon="14.37688"><ele>208.5</ele></trkpt>
+   <trkpt lat="49.921082" lon="14.377691"><ele>206.5</ele></trkpt>
+   <trkpt lat="49.921015" lon="14.377723"><ele>206.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
