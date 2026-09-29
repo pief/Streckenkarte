@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11 filtered ascend = 0 plain-ascend = 0 cost=11 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1100 Lübeck Hbf Weiche 3 - Lübeck Hbf Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/53.87171/10.67584/standard&amp;lonlats=10.675583,53.871558;10.675653,53.871635&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.871557" lon="10.675582"><ele>6</ele></trkpt>
+   <trkpt lat="53.87156" lon="10.675586"><ele>6</ele></trkpt>
+   <trkpt lat="53.871609" lon="10.675636"><ele>6</ele></trkpt>
+   <trkpt lat="53.871631" lon="10.675659"><ele>6</ele></trkpt>
+   <trkpt lat="53.871632" lon="10.675659"><ele>5.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

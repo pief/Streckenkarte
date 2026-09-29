@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 402 filtered ascend = 0 plain-ascend = -5 cost=402 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1113 Lübeck-Kücknitz Weiche 42 - Lübeck-Kücknitz Weiche 51</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/53.91654/10.79622/standard&amp;lonlats=10.796494,53.916051;10.802299,53.91716&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.916045" lon="10.796494"><ele>18.5</ele></trkpt>
+   <trkpt lat="53.916263" lon="10.798297"><ele>17.25</ele></trkpt>
+   <trkpt lat="53.916363" lon="10.79899"><ele>17</ele></trkpt>
+   <trkpt lat="53.916453" lon="10.799516"><ele>17.75</ele></trkpt>
+   <trkpt lat="53.916568" lon="10.800051"><ele>18.25</ele></trkpt>
+   <trkpt lat="53.916627" lon="10.800296"><ele>18</ele></trkpt>
+   <trkpt lat="53.916943" lon="10.801486"><ele>16.5</ele></trkpt>
+   <trkpt lat="53.91716" lon="10.802297"><ele>12.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

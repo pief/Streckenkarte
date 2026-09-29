@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=62 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1113 Lübeck-Dänischburg IKEA Weiche 6 - Lübeck-Dänischburg IKEA Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/53.91136/10.73784/standard&amp;lonlats=10.736749,53.911256;10.737654,53.911334&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="53.911256" lon="10.736749"><ele>5</ele></trkpt>
+   <trkpt lat="53.911274" lon="10.736969"><ele>5</ele></trkpt>
+   <trkpt lat="53.911298" lon="10.737255"><ele>5</ele></trkpt>
+   <trkpt lat="53.911328" lon="10.73761"><ele>5</ele></trkpt>
+   <trkpt lat="53.911332" lon="10.737654"><ele>5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
