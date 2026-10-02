@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 210 filtered ascend = 0 plain-ascend = -1 cost=420 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Berliner Platz Süd/Bahnhof Ludwigshafen Mitte (Steig Nordwest) - Schützenstraße (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.47816/8.45134/standard&amp;lonlats=8.450987,49.478358;8.44867,49.477268&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.478356" lon="8.450992"><ele>95</ele></trkpt>
+   <trkpt lat="49.478334" lon="8.450992"><ele>95</ele></trkpt>
+   <trkpt lat="49.478293" lon="8.450977"><ele>95</ele></trkpt>
+   <trkpt lat="49.478243" lon="8.450941"><ele>95</ele></trkpt>
+   <trkpt lat="49.47821" lon="8.450898"><ele>95</ele></trkpt>
+   <trkpt lat="49.47817" lon="8.450816"><ele>95</ele></trkpt>
+   <trkpt lat="49.477831" lon="8.45"><ele>94</ele></trkpt>
+   <trkpt lat="49.477816" lon="8.449964"><ele>94</ele></trkpt>
+   <trkpt lat="49.477275" lon="8.44867"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.477272" lon="8.448663"><ele>93</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 0 cost=156 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Berliner Platz Süd/Bahnhof Ludwigshafen Mitte (Steig Südost) - Dreieck Berliner Platz Weiche 114</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.47882/8.45090/standard&amp;lonlats=8.450779,49.478124;8.451041,49.478747&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.478124" lon="8.450777"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.478133" lon="8.450799"><ele>95</ele></trkpt>
+   <trkpt lat="49.478195" lon="8.450937"><ele>95</ele></trkpt>
+   <trkpt lat="49.478213" lon="8.450964"><ele>95</ele></trkpt>
+   <trkpt lat="49.478239" lon="8.45099"><ele>95</ele></trkpt>
+   <trkpt lat="49.478302" lon="8.451031"><ele>95</ele></trkpt>
+   <trkpt lat="49.478339" lon="8.451045"><ele>95</ele></trkpt>
+   <trkpt lat="49.478705" lon="8.451042"><ele>95</ele></trkpt>
+   <trkpt lat="49.478746" lon="8.451039"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

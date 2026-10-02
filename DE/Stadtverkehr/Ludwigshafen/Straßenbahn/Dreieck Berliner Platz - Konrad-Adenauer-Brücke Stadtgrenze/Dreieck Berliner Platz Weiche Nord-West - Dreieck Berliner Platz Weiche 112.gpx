@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 1 plain-ascend = 2 cost=200 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Berliner Platz Weiche Nord-West - Dreieck Berliner Platz Weiche 112</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.47980/8.45116/standard&amp;lonlats=8.450831,49.479721;8.451841,49.479353&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.479721" lon="8.450831"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.479718" lon="8.450832"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.479629" lon="8.450865"><ele>95</ele></trkpt>
+   <trkpt lat="49.479532" lon="8.450923"><ele>95</ele></trkpt>
+   <trkpt lat="49.479463" lon="8.450996"><ele>95</ele></trkpt>
+   <trkpt lat="49.479392" lon="8.45111"><ele>95</ele></trkpt>
+   <trkpt lat="49.479351" lon="8.451209"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.479314" lon="8.451371"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.479311" lon="8.451394"><ele>94.75</ele></trkpt>
+   <trkpt lat="49.479304" lon="8.451478"><ele>95</ele></trkpt>
+   <trkpt lat="49.479304" lon="8.45157"><ele>95.25</ele></trkpt>
+   <trkpt lat="49.479326" lon="8.451729"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.479341" lon="8.451798"><ele>96</ele></trkpt>
+   <trkpt lat="49.479353" lon="8.451839"><ele>96.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

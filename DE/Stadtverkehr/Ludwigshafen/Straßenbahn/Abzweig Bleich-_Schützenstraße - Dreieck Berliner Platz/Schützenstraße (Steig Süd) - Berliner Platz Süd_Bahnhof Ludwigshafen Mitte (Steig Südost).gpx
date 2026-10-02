@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 183 filtered ascend = 2 plain-ascend = 2 cost=366 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Schützenstraße (Steig Süd) - Berliner Platz Süd/Bahnhof Ludwigshafen Mitte (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.47816/8.45134/standard&amp;lonlats=8.448672,49.477235;8.450773,49.478132&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.477234" lon="8.448671"><ele>93</ele></trkpt>
+   <trkpt lat="49.477236" lon="8.448675"><ele>93.25</ele></trkpt>
+   <trkpt lat="49.477795" lon="8.449985"><ele>94</ele></trkpt>
+   <trkpt lat="49.478124" lon="8.450779"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

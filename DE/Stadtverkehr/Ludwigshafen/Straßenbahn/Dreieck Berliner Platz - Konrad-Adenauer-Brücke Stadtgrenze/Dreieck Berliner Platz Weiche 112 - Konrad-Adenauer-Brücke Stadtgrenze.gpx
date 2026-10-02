@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 371 filtered ascend = 4 plain-ascend = 3 cost=742 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Berliner Platz Weiche 112 - Konrad-Adenauer-Brücke Stadtgrenze</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.47990/8.45372/standard&amp;lonlats=8.451841,49.479353;8.456227,49.481048&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.479353" lon="8.451839"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.479379" lon="8.451926"><ele>97</ele></trkpt>
+   <trkpt lat="49.479508" lon="8.452278"><ele>97.5</ele></trkpt>
+   <trkpt lat="49.479785" lon="8.453083"><ele>100.5</ele></trkpt>
+   <trkpt lat="49.480114" lon="8.454094"><ele>99.25</ele></trkpt>
+   <trkpt lat="49.48032" lon="8.454669"/>
+   <trkpt lat="49.480986" lon="8.456095"/>
+   <trkpt lat="49.481048" lon="8.456225"/>
+  </trkseg>
+ </trk>
+</gpx>
