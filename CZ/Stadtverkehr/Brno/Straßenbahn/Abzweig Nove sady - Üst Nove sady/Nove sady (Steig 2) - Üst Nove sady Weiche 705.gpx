@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 16 filtered ascend = 1 plain-ascend = 1 cost=32 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Nove sady (Steig 2) - Üst Nove sady Weiche 705</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.19036/16.60979/standard&amp;lonlats=16.609555,49.190264;16.609743,49.190331&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.190264" lon="16.609553"><ele>205.75</ele></trkpt>
+   <trkpt lat="49.190267" lon="16.609561"><ele>206</ele></trkpt>
+   <trkpt lat="49.190296" lon="16.609642"><ele>206.25</ele></trkpt>
+   <trkpt lat="49.190329" lon="16.609743"><ele>206.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
