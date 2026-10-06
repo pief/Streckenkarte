@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 93 filtered ascend = 1 plain-ascend = 1 cost=186 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Zamek Weiche Ost-Nord - Dreieck Zamek Weiche West-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.40754/16.91591/standard&amp;lonlats=16.918049,52.407352;16.917353,52.407412;16.91674,52.407478">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.407352" lon="16.918049"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.407353" lon="16.918046"><ele>77</ele></trkpt>
+   <trkpt lat="52.407365" lon="16.917927"><ele>77</ele></trkpt>
+   <trkpt lat="52.407369" lon="16.917874"><ele>77</ele></trkpt>
+   <trkpt lat="52.407395" lon="16.917603"><ele>77</ele></trkpt>
+   <trkpt lat="52.407412" lon="16.917419"><ele>77</ele></trkpt>
+   <trkpt lat="52.407417" lon="16.917354"><ele>77</ele></trkpt>
+   <trkpt lat="52.407422" lon="16.917309"><ele>77</ele></trkpt>
+   <trkpt lat="52.407462" lon="16.916893"><ele>77.75</ele></trkpt>
+   <trkpt lat="52.407467" lon="16.916836"><ele>77.75</ele></trkpt>
+   <trkpt lat="52.407476" lon="16.916741"><ele>77.75</ele></trkpt>
+   <trkpt lat="52.407476" lon="16.916739"><ele>78.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
