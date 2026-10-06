@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 17 filtered ascend = 0 plain-ascend = 0 cost=34 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Aleje Marcinkowskiego (Steig Südost) - Abzweig Aleje Marcinkowskiego Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.40654/16.92855/standard&amp;lonlats=16.928405,52.40648;16.928481,52.406626">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.406479" lon="16.928404"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.406605" lon="16.928472"><ele>71</ele></trkpt>
+   <trkpt lat="52.406624" lon="16.928484"><ele>71</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

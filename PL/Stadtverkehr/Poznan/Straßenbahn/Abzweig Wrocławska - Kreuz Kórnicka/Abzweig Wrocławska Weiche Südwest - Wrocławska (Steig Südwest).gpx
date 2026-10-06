@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 99 filtered ascend = 0 plain-ascend = -1 cost=198 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wrocławska Weiche Südwest - Wrocławska (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.40545/16.93144/standard&amp;lonlats=16.93103,52.405884;16.932371,52.405558">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.405882" lon="16.931033"><ele>62.25</ele></trkpt>
+   <trkpt lat="52.405856" lon="16.931097"><ele>62</ele></trkpt>
+   <trkpt lat="52.405795" lon="16.931244"><ele>61.25</ele></trkpt>
+   <trkpt lat="52.405731" lon="16.931451"><ele>60.75</ele></trkpt>
+   <trkpt lat="52.405697" lon="16.931606"><ele>60.5</ele></trkpt>
+   <trkpt lat="52.405559" lon="16.932317"><ele>59.75</ele></trkpt>
+   <trkpt lat="52.405549" lon="16.932366"><ele>60</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
