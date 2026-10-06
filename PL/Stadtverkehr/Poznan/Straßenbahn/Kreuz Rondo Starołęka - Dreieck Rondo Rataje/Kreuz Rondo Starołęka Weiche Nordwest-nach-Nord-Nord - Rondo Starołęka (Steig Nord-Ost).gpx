@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 74 filtered ascend = 0 plain-ascend = 1 cost=148 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Rondo Starołęka Weiche Nordwest-nach-Nord-Nord - Rondo Starołęka (Steig Nord-Ost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.38056/16.94431/standard&amp;lonlats=16.943244,52.380466;16.943444,52.381126">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.380465" lon="16.943244"><ele>65</ele></trkpt>
+   <trkpt lat="52.380589" lon="16.943293"><ele>65</ele></trkpt>
+   <trkpt lat="52.380799" lon="16.943369"><ele>65</ele></trkpt>
+   <trkpt lat="52.380909" lon="16.943403"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.381124" lon="16.943444"><ele>65.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
