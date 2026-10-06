@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 5 plain-ascend = 6 cost=350 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Plac Ratajskiego (Steig Nordwest) - Kreuz 27 Grudnia Weiche Nordost-nach-Nordwest-Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.40857/16.92209/standard&amp;lonlats=16.923935,52.409562;16.921936,52.408581">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.409561" lon="16.923934"><ele>70.5</ele></trkpt>
+   <trkpt lat="52.409502" lon="16.923743"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.409484" lon="16.92369"><ele>70.75</ele></trkpt>
+   <trkpt lat="52.409428" lon="16.923538"><ele>71.25</ele></trkpt>
+   <trkpt lat="52.409319" lon="16.923323"><ele>72</ele></trkpt>
+   <trkpt lat="52.408802" lon="16.922354"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.408677" lon="16.922121"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.408608" lon="16.921991"><ele>76</ele></trkpt>
+   <trkpt lat="52.408578" lon="16.921938"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
