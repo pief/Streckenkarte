@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 333 filtered ascend = 1 plain-ascend = 1 cost=666 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Depot Forteczna Weiche Nord - Bystra (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.37156/16.93508/standard&amp;lonlats=16.932353,52.369001;16.934997,52.371515">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.369" lon="16.932354"><ele>67</ele></trkpt>
+   <trkpt lat="52.369001" lon="16.932356"><ele>67</ele></trkpt>
+   <trkpt lat="52.36939" lon="16.932757"><ele>67.75</ele></trkpt>
+   <trkpt lat="52.369737" lon="16.93312"><ele>68</ele></trkpt>
+   <trkpt lat="52.370049" lon="16.933446"><ele>68</ele></trkpt>
+   <trkpt lat="52.370575" lon="16.933982"><ele>68</ele></trkpt>
+   <trkpt lat="52.370825" lon="16.934254"><ele>68</ele></trkpt>
+   <trkpt lat="52.370966" lon="16.934409"><ele>68</ele></trkpt>
+   <trkpt lat="52.371445" lon="16.934924"><ele>68</ele></trkpt>
+   <trkpt lat="52.371513" lon="16.934997"><ele>68</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

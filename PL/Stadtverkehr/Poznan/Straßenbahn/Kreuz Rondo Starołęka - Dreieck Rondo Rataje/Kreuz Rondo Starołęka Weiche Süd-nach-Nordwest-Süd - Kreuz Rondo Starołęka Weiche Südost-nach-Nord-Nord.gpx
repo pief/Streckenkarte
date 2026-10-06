@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=112 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Rondo Starołęka Weiche Süd-nach-Nordwest-Süd - Kreuz Rondo Starołęka Weiche Südost-nach-Nord-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.38034/16.94333/standard&amp;lonlats=16.943032,52.379927;16.943098,52.38009;16.943228,52.380426">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.379926" lon="16.943034"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.379929" lon="16.943036"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.38" lon="16.943044"><ele>65</ele></trkpt>
+   <trkpt lat="52.380017" lon="16.943069"><ele>65</ele></trkpt>
+   <trkpt lat="52.380089" lon="16.943096"><ele>65</ele></trkpt>
+   <trkpt lat="52.380157" lon="16.943122"><ele>65</ele></trkpt>
+   <trkpt lat="52.380192" lon="16.943135"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.380303" lon="16.943179"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.380424" lon="16.943227"><ele>65.25</ele></trkpt>
+   <trkpt lat="52.380425" lon="16.943227"><ele>65</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

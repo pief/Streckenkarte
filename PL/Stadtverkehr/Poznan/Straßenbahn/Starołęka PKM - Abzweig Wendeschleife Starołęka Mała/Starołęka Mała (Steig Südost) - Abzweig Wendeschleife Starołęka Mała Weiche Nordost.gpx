@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 0 plain-ascend = 0 cost=182 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Starołęka Mała (Steig Südost) - Abzweig Wendeschleife Starołęka Mała Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.37731/16.94103/standard&amp;lonlats=16.939976,52.376136;16.940451,52.376573;16.940692,52.376805">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.376135" lon="16.939976"><ele>67</ele></trkpt>
+   <trkpt lat="52.376219" lon="16.940064"><ele>67</ele></trkpt>
+   <trkpt lat="52.376328" lon="16.940182"><ele>67</ele></trkpt>
+   <trkpt lat="52.376573" lon="16.940447"><ele>66.75</ele></trkpt>
+   <trkpt lat="52.376802" lon="16.940693"><ele>66.75</ele></trkpt>
+   <trkpt lat="52.376802" lon="16.940694"><ele>66.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
