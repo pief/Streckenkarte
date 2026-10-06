@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = -2 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Nádražní/Masarykova Weiche 1010 - Dreieck Nádražní/Masarykova Weiche 131</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.19128/16.61217/standard&amp;lonlats=16.611132,49.191286;16.611766,49.191107">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.191285" lon="16.611131"><ele>210.5</ele></trkpt>
+   <trkpt lat="49.191285" lon="16.611132"><ele>210.5</ele></trkpt>
+   <trkpt lat="49.191202" lon="16.61126"><ele>209.75</ele></trkpt>
+   <trkpt lat="49.191176" lon="16.611302"><ele>209.5</ele></trkpt>
+   <trkpt lat="49.191149" lon="16.611345"><ele>209.25</ele></trkpt>
+   <trkpt lat="49.191107" lon="16.611421"><ele>208.75</ele></trkpt>
+   <trkpt lat="49.191089" lon="16.611475"><ele>208.5</ele></trkpt>
+   <trkpt lat="49.19108" lon="16.611523"><ele>208.25</ele></trkpt>
+   <trkpt lat="49.191076" lon="16.61161"><ele>208</ele></trkpt>
+   <trkpt lat="49.191084" lon="16.611683"><ele>207.75</ele></trkpt>
+   <trkpt lat="49.191107" lon="16.611766"><ele>207.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

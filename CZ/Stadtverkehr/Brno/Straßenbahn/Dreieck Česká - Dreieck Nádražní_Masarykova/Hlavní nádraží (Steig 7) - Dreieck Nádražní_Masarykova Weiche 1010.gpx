@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3 filtered ascend = 0 plain-ascend = 0 cost=6 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Hlavní nádraží (Steig 7) - Dreieck Nádražní/Masarykova Weiche 1010</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.19128/16.61217/standard&amp;lonlats=16.611103,49.191304;16.611132,49.191286">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.191304" lon="16.611103"><ele>210.5</ele></trkpt>
+   <trkpt lat="49.191285" lon="16.611131"><ele>210.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
