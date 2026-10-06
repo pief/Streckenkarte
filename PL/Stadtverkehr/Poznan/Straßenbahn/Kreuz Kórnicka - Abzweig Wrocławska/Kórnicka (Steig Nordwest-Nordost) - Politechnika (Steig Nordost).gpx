@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 229 filtered ascend = 0 plain-ascend = -2 cost=458 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kórnicka (Steig Nordwest-Nordost) - Politechnika (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/52.40010/16.95187/standard&amp;lonlats=16.95154,52.399669;16.948618,52.400709">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.399668" lon="16.951539"><ele>65.75</ele></trkpt>
+   <trkpt lat="52.400279" lon="16.949836"><ele>64.75</ele></trkpt>
+   <trkpt lat="52.400563" lon="16.949049"><ele>63.75</ele></trkpt>
+   <trkpt lat="52.400669" lon="16.948752"><ele>63.5</ele></trkpt>
+   <trkpt lat="52.400714" lon="16.948622"><ele>63.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
