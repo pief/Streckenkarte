@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 138 filtered ascend = 0 plain-ascend = 0 cost=276 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Slinge (Gleis 1) - Slinge Weiche 33</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.87555/4.47864/standard&amp;lonlats=4.477858,51.874813;4.478085,51.876042&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.874812" lon="4.477863"/>
+   <trkpt lat="51.875144" lon="4.477962"/>
+   <trkpt lat="51.875682" lon="4.478019"/>
+   <trkpt lat="51.876041" lon="4.478082"/>
+  </trkseg>
+ </trk>
+</gpx>
