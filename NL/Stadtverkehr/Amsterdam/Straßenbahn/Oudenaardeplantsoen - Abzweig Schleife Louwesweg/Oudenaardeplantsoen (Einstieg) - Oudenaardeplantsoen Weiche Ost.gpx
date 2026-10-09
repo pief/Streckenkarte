@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=66 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Oudenaardeplantsoen (Einstieg) - Oudenaardeplantsoen Weiche Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.34490/4.80429/standard&amp;lonlats=4.803671,52.344929;4.80413,52.345003">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.344928" lon="4.803671"><ele>-1</ele></trkpt>
+   <trkpt lat="52.344945" lon="4.803891"><ele>-1</ele></trkpt>
+   <trkpt lat="52.34497" lon="4.804019"><ele>-1</ele></trkpt>
+   <trkpt lat="52.345002" lon="4.80413"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

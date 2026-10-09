@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 500 filtered ascend = 0 plain-ascend = 0 cost=1000 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Schleife Louwesweg Weiche 604-H - Laan van Vlaanderen (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/52.34641/4.81774/standard&amp;lonlats=4.82369,52.346653;4.816385,52.346486">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.346653" lon="4.823688"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346654" lon="4.82369"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346662" lon="4.823538"><ele>-1</ele></trkpt>
+   <trkpt lat="52.34668" lon="4.823221"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346679" lon="4.823102"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346671" lon="4.82286"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346635" lon="4.822317"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346619" lon="4.822079"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346616" lon="4.822005"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346545" lon="4.820787"><ele>-1.5</ele></trkpt>
+   <trkpt lat="52.34654" lon="4.820639"><ele>-1.5</ele></trkpt>
+   <trkpt lat="52.346496" lon="4.817932"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346482" lon="4.816387"><ele>-1</ele></trkpt>
+   <trkpt lat="52.346481" lon="4.816384"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
