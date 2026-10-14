@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 13 filtered ascend = 0 plain-ascend = 0 cost=26 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Betriebsbahnhof Rudolfsheim Hallen 1 Gleise 1-3 Weiche Ost - Abzweig Betriebsbahnhof Rudolfsheim Halle 1 Gleise 4-7 Weiche Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.18988/16.32269/standard&amp;lonlats=16.322256,48.190158;16.322411,48.190194&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.190155" lon="16.322256"><ele>195.5</ele></trkpt>
+   <trkpt lat="48.190191" lon="16.32241"><ele>195.5</ele></trkpt>
+   <trkpt lat="48.190191" lon="16.322411"><ele>195.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
