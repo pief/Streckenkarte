@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 112 filtered ascend = 0 plain-ascend = 0 cost=224 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Delft Berlageweg (Steig Südwest) - Üst Delft Schoemakerstraat Weiche Südwest-Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.99577/4.37849/standard&amp;lonlats=4.376791,51.995995;4.378104,51.995691&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.995995" lon="4.376791"><ele>-1</ele></trkpt>
+   <trkpt lat="51.995956" lon="4.376846"><ele>-1</ele></trkpt>
+   <trkpt lat="51.99571" lon="4.377168"><ele>-1</ele></trkpt>
+   <trkpt lat="51.995672" lon="4.37723"><ele>-1</ele></trkpt>
+   <trkpt lat="51.995628" lon="4.377339"><ele>-1</ele></trkpt>
+   <trkpt lat="51.995589" lon="4.377496"><ele>-1</ele></trkpt>
+   <trkpt lat="51.995583" lon="4.377564"><ele>-1</ele></trkpt>
+   <trkpt lat="51.995584" lon="4.37765"><ele>-1.25</ele></trkpt>
+   <trkpt lat="51.995595" lon="4.377753"><ele>-1.75</ele></trkpt>
+   <trkpt lat="51.995647" lon="4.37797"><ele>-1</ele></trkpt>
+   <trkpt lat="51.995689" lon="4.378104"><ele>-1</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
