@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 39 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sandleitengasse (Steig Süd) - Abzweig Sandleitengasse Weiche Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.21796/16.30802/standard&amp;lonlats=16.307628,48.217632;16.307625,48.217972&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.217631" lon="16.30762"><ele>232</ele></trkpt>
+   <trkpt lat="48.217716" lon="16.307635"><ele>232</ele></trkpt>
+   <trkpt lat="48.217796" lon="16.307636"><ele>232</ele></trkpt>
+   <trkpt lat="48.217852" lon="16.307634"><ele>232</ele></trkpt>
+   <trkpt lat="48.217914" lon="16.30763"><ele>232</ele></trkpt>
+   <trkpt lat="48.21797" lon="16.307626"><ele>232</ele></trkpt>
+   <trkpt lat="48.217972" lon="16.307625"><ele>232</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

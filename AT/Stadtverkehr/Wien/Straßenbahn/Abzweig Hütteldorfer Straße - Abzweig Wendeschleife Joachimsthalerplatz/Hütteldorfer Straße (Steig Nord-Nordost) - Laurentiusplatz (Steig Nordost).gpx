@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 348 filtered ascend = 4 plain-ascend = 5 cost=696 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Hütteldorfer Straße (Steig Nord-Nordost) - Laurentiusplatz (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.20124/16.30927/standard&amp;lonlats=16.312025,48.199716;16.308492,48.201775&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.199716" lon="16.312025"><ele>231</ele></trkpt>
+   <trkpt lat="48.200249" lon="16.311109"><ele>232</ele></trkpt>
+   <trkpt lat="48.201171" lon="16.309532"><ele>234</ele></trkpt>
+   <trkpt lat="48.201511" lon="16.308953"><ele>234.75</ele></trkpt>
+   <trkpt lat="48.20173" lon="16.30858"><ele>235.25</ele></trkpt>
+   <trkpt lat="48.201778" lon="16.308497"><ele>235.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

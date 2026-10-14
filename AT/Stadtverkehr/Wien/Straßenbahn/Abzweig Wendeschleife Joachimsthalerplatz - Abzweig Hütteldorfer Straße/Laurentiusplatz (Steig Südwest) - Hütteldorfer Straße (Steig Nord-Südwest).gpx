@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 412 filtered ascend = 0 plain-ascend = -5 cost=824 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Laurentiusplatz (Steig Südwest) - Hütteldorfer Straße (Steig Nord-Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.19911/16.31224/standard&amp;lonlats=16.30806,48.201977;16.312236,48.199551&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.20198" lon="16.308063"><ele>236</ele></trkpt>
+   <trkpt lat="48.201939" lon="16.308156"><ele>236</ele></trkpt>
+   <trkpt lat="48.201899" lon="16.308224"><ele>236</ele></trkpt>
+   <trkpt lat="48.201853" lon="16.308302"><ele>236</ele></trkpt>
+   <trkpt lat="48.201807" lon="16.308381"><ele>235.75</ele></trkpt>
+   <trkpt lat="48.201324" lon="16.30921"><ele>234</ele></trkpt>
+   <trkpt lat="48.201077" lon="16.309632"><ele>233.75</ele></trkpt>
+   <trkpt lat="48.200079" lon="16.311341"><ele>232</ele></trkpt>
+   <trkpt lat="48.199661" lon="16.31205"><ele>231</ele></trkpt>
+   <trkpt lat="48.199551" lon="16.312236"><ele>230</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
