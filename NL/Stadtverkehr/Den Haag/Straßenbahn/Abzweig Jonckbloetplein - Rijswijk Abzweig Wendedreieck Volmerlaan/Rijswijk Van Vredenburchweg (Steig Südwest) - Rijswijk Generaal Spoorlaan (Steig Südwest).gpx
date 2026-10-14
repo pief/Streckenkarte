@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 457 filtered ascend = 0 plain-ascend = 0 cost=914 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rijswijk Van Vredenburchweg (Steig Südwest) - Rijswijk Generaal Spoorlaan (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.04898/4.33123/standard&amp;lonlats=4.327826,52.051759;4.330936,52.048144&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.051759" lon="4.327827"><ele>1</ele></trkpt>
+   <trkpt lat="52.051106" lon="4.328415"><ele>1</ele></trkpt>
+   <trkpt lat="52.050669" lon="4.328808"><ele>1</ele></trkpt>
+   <trkpt lat="52.050465" lon="4.328991"><ele>1</ele></trkpt>
+   <trkpt lat="52.050417" lon="4.329034"><ele>1</ele></trkpt>
+   <trkpt lat="52.049776" lon="4.32961"><ele>1</ele></trkpt>
+   <trkpt lat="52.049001" lon="4.3303"><ele>1</ele></trkpt>
+   <trkpt lat="52.048649" lon="4.330561"><ele>1</ele></trkpt>
+   <trkpt lat="52.04814" lon="4.330919"><ele>1</ele></trkpt>
+   <trkpt lat="52.048139" lon="4.330919"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
