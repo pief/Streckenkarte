@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 301 filtered ascend = 1 plain-ascend = 1 cost=602 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Geibelgasse (Steig Nordwest) - Rustengasse (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.19129/16.32802/standard&amp;lonlats=16.331746,48.191714;16.32774,48.191362&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.191715" lon="16.331744"><ele>198</ele></trkpt>
+   <trkpt lat="48.191699" lon="16.331673"><ele>198</ele></trkpt>
+   <trkpt lat="48.191682" lon="16.331571"><ele>198</ele></trkpt>
+   <trkpt lat="48.191608" lon="16.33103"><ele>198.5</ele></trkpt>
+   <trkpt lat="48.191528" lon="16.330139"><ele>198.5</ele></trkpt>
+   <trkpt lat="48.19152" lon="16.330034"><ele>198.25</ele></trkpt>
+   <trkpt lat="48.191518" lon="16.330002"><ele>198.25</ele></trkpt>
+   <trkpt lat="48.191472" lon="16.329257"><ele>199</ele></trkpt>
+   <trkpt lat="48.191443" lon="16.328812"><ele>199</ele></trkpt>
+   <trkpt lat="48.191411" lon="16.32829"><ele>199</ele></trkpt>
+   <trkpt lat="48.191373" lon="16.327864"><ele>198.75</ele></trkpt>
+   <trkpt lat="48.191368" lon="16.327738"><ele>198.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

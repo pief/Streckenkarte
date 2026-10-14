@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 66 filtered ascend = 0 plain-ascend = 0 cost=132 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rudolfsheim Anschützgasse (Steig Nordwest) - Abzweig Betriebsbahnhof Rudolfsheim Halle 3 Ost Weiche West</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.19056/16.32274/standard&amp;lonlats=16.32328,48.190421;16.322457,48.19023&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.190417" lon="16.32328"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.190392" lon="16.323155"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.190368" lon="16.323047"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.190367" lon="16.323042"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.190348" lon="16.322957"><ele>196.25</ele></trkpt>
+   <trkpt lat="48.19031" lon="16.322797"><ele>196</ele></trkpt>
+   <trkpt lat="48.190298" lon="16.322745"><ele>196</ele></trkpt>
+   <trkpt lat="48.190231" lon="16.32246"><ele>195.75</ele></trkpt>
+   <trkpt lat="48.19023" lon="16.322455"><ele>195.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
