@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 0 cost=128 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreisel Urban-Loritz-Platz Weiche Südwest-West - Urban-Loritz-Platz (Steig Urban-Loritz-Platz-Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.20145/16.33786/standard&amp;lonlats=16.337778,48.201618;16.33756,48.201082&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.201614" lon="16.337782"><ele>212</ele></trkpt>
+   <trkpt lat="48.201598" lon="16.337751"><ele>212</ele></trkpt>
+   <trkpt lat="48.20155" lon="16.337698"><ele>212</ele></trkpt>
+   <trkpt lat="48.201488" lon="16.337667"><ele>211.75</ele></trkpt>
+   <trkpt lat="48.201256" lon="16.337603"><ele>212</ele></trkpt>
+   <trkpt lat="48.20108" lon="16.33756"><ele>211.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
