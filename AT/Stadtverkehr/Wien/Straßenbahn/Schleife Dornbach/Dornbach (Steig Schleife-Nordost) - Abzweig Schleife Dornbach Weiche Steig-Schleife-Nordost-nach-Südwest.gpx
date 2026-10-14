@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 1 plain-ascend = 1 cost=82 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dornbach (Steig Schleife-Nordost) - Abzweig Schleife Dornbach Weiche Steig-Schleife-Nordost-nach-Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.22568/16.30888/standard&amp;lonlats=16.307921,48.226199;16.307466,48.226134&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.226201" lon="16.307922"><ele>226</ele></trkpt>
+   <trkpt lat="48.226227" lon="16.307843"><ele>226.25</ele></trkpt>
+   <trkpt lat="48.226237" lon="16.307753"><ele>226.5</ele></trkpt>
+   <trkpt lat="48.226234" lon="16.307701"><ele>226.5</ele></trkpt>
+   <trkpt lat="48.226214" lon="16.307601"><ele>226.75</ele></trkpt>
+   <trkpt lat="48.226181" lon="16.307528"><ele>226.75</ele></trkpt>
+   <trkpt lat="48.226134" lon="16.307472"><ele>227</ele></trkpt>
+   <trkpt lat="48.226131" lon="16.30747"><ele>227.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
