@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 252 filtered ascend = 0 plain-ascend = -2 cost=504 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Siebensterngasse (Steig Süd) - Kirchengasse (Steig Süd)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.20189/16.35163/standard&amp;lonlats=16.3486,48.201743;16.351556,48.202219&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.201745" lon="16.3486"><ele>203</ele></trkpt>
+   <trkpt lat="48.201734" lon="16.348803"><ele>203</ele></trkpt>
+   <trkpt lat="48.201747" lon="16.348898"><ele>202.75</ele></trkpt>
+   <trkpt lat="48.201762" lon="16.348943"><ele>202.75</ele></trkpt>
+   <trkpt lat="48.201794" lon="16.349001"><ele>202.75</ele></trkpt>
+   <trkpt lat="48.201838" lon="16.349047"><ele>202.5</ele></trkpt>
+   <trkpt lat="48.201906" lon="16.349074"><ele>202.25</ele></trkpt>
+   <trkpt lat="48.202007" lon="16.34908"><ele>202</ele></trkpt>
+   <trkpt lat="48.202049" lon="16.349093"><ele>202</ele></trkpt>
+   <trkpt lat="48.202086" lon="16.349122"><ele>202</ele></trkpt>
+   <trkpt lat="48.202117" lon="16.349166"><ele>202</ele></trkpt>
+   <trkpt lat="48.202142" lon="16.349233"><ele>202</ele></trkpt>
+   <trkpt lat="48.202151" lon="16.349286"><ele>202</ele></trkpt>
+   <trkpt lat="48.202156" lon="16.349535"><ele>202.25</ele></trkpt>
+   <trkpt lat="48.202195" lon="16.350253"><ele>201</ele></trkpt>
+   <trkpt lat="48.20222" lon="16.350723"><ele>201</ele></trkpt>
+   <trkpt lat="48.202238" lon="16.351046"><ele>200.75</ele></trkpt>
+   <trkpt lat="48.20224" lon="16.351248"><ele>200.75</ele></trkpt>
+   <trkpt lat="48.202233" lon="16.351416"><ele>200.75</ele></trkpt>
+   <trkpt lat="48.20222" lon="16.351549"><ele>200.25</ele></trkpt>
+   <trkpt lat="48.202219" lon="16.351556"><ele>200</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
