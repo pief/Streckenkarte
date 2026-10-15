@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 399 filtered ascend = 0 plain-ascend = 0 cost=798 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeanlage Prater Weiche West-Nord - Praterstern (U2) (Gleis 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.21824/16.39422/standard&amp;lonlats=16.399143,48.217897;16.393901,48.218606&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.217895" lon="16.399142"/>
+   <trkpt lat="48.217931" lon="16.398395"/>
+   <trkpt lat="48.217984" lon="16.397717"/>
+   <trkpt lat="48.218015" lon="16.397408"/>
+   <trkpt lat="48.218058" lon="16.397022"/>
+   <trkpt lat="48.218148" lon="16.396354"/>
+   <trkpt lat="48.218255" lon="16.395696"/>
+   <trkpt lat="48.218606" lon="16.393901"/>
+  </trkseg>
+ </trk>
+</gpx>

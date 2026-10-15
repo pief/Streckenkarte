@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Messe/Prater (Gleis 1) - Abzweig Wendeanlage Prater Weiche Ost-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.21781/16.40391/standard&amp;lonlats=16.404271,48.217842;16.403598,48.217847&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.217842" lon="16.404271"/>
+   <trkpt lat="48.217845" lon="16.403598"/>
+   <trkpt lat="48.217845" lon="16.403597"/>
+  </trkseg>
+ </trk>
+</gpx>

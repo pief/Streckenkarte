@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 333 filtered ascend = 0 plain-ascend = 0 cost=666 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeanlage Prater Weiche Ost-Nord - Abzweig Wendeanlage Prater Weiche West-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.21782/16.39952/standard&amp;lonlats=16.403598,48.217847;16.399143,48.217897&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.217845" lon="16.403597"/>
+   <trkpt lat="48.217848" lon="16.40251"/>
+   <trkpt lat="48.217852" lon="16.401493"/>
+   <trkpt lat="48.217895" lon="16.399144"/>
+   <trkpt lat="48.217895" lon="16.399142"/>
+  </trkseg>
+ </trk>
+</gpx>

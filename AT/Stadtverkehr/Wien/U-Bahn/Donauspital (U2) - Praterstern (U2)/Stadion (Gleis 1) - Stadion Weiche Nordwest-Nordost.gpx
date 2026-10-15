@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 110 filtered ascend = 0 plain-ascend = 0 cost=220 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Stadion (Gleis 1) - Stadion Weiche Nordwest-Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.21204/16.41910/standard&amp;lonlats=16.419597,48.21131;16.418594,48.212029&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.211311" lon="16.419599"/>
+   <trkpt lat="48.212024" lon="16.418596"/>
+   <trkpt lat="48.212027" lon="16.418591"/>
+  </trkseg>
+ </trk>
+</gpx>
