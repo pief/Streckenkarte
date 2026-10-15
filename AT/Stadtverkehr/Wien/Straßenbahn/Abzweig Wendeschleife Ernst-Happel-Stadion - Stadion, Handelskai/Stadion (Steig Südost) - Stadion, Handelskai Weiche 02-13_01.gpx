@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Stadion (Steig Südost) - Stadion, Handelskai Weiche 02-13/01</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.21147/16.42223/standard&amp;lonlats=16.421613,48.211107;16.422049,48.211382&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.211106" lon="16.421612"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.211111" lon="16.421618"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.211153" lon="16.42167"><ele>162</ele></trkpt>
+   <trkpt lat="48.211176" lon="16.421702"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.21121" lon="16.421753"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.211272" lon="16.421854"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.211295" lon="16.421895"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.211381" lon="16.422048"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
