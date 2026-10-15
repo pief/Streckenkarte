@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = 0 cost=45 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1921 Beddingen DB Weiche 152 - Beddingen DB Weiche 153</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.20899/10.45120/standard&amp;lonlats=10.451323,52.208939;10.45142,52.208553&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.208938" lon="10.451321"><ele>86</ele></trkpt>
+   <trkpt lat="52.208935" lon="10.451322"><ele>86</ele></trkpt>
+   <trkpt lat="52.208555" lon="10.45142"><ele>86</ele></trkpt>
+   <trkpt lat="52.208553" lon="10.45142"><ele>86</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
