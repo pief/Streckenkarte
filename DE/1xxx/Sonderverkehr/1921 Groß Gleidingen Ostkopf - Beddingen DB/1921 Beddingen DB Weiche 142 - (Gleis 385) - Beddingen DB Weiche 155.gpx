@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 976 filtered ascend = 2 plain-ascend = 2 cost=976 energy=0.0kwh time=1m 18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>1921 Beddingen DB Weiche 142 - (Gleis 385) - Beddingen DB Weiche 155</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.20777/10.45192/standard&amp;lonlats=10.450931,52.216531;10.451611,52.207795&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.216531" lon="10.450931"><ele>84</ele></trkpt>
+   <trkpt lat="52.216529" lon="10.450932"><ele>84</ele></trkpt>
+   <trkpt lat="52.216209" lon="10.45099"><ele>84</ele></trkpt>
+   <trkpt lat="52.215418" lon="10.45105"><ele>84.75</ele></trkpt>
+   <trkpt lat="52.212988" lon="10.451238"><ele>85.5</ele></trkpt>
+   <trkpt lat="52.20804" lon="10.451568"><ele>86</ele></trkpt>
+   <trkpt lat="52.207793" lon="10.451612"><ele>86</ele></trkpt>
+   <trkpt lat="52.207795" lon="10.451611"><ele>86</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
