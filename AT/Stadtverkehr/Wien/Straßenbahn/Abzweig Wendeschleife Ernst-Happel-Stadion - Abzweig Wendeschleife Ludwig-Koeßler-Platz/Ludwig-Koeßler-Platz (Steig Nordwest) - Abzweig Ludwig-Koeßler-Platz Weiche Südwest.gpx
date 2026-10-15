@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Ludwig-Koeßler-Platz (Steig Nordwest) - Abzweig Ludwig-Koeßler-Platz Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.19615/16.41022/standard&amp;lonlats=16.40962,48.196135;16.409406,48.196035&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.196134" lon="16.409619"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.196058" lon="16.409468"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.196031" lon="16.409415"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.196029" lon="16.409411"><ele>161</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
