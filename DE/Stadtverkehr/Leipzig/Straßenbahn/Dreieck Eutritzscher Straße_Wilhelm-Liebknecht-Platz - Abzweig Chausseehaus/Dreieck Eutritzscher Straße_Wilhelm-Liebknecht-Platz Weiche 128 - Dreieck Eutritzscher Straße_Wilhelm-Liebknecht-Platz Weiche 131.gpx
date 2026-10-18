@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = 0 cost=180 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Eutritzscher Straße/Wilhelm-Liebknecht-Platz Weiche 128 - Dreieck Eutritzscher Straße/Wilhelm-Liebknecht-Platz Weiche 131</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.35092/12.37635/standard&amp;lonlats=12.375598,51.351046;12.376529,51.351224&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.351046" lon="12.375598"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.351043" lon="12.375602"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.350973" lon="12.375699"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.350955" lon="12.375745"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.350928" lon="12.37581"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.350899" lon="12.375959"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.3509" lon="12.376052"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.35092" lon="12.376219"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.350955" lon="12.376309"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.351013" lon="12.376404"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.351089" lon="12.376479"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.351224" lon="12.376529"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
