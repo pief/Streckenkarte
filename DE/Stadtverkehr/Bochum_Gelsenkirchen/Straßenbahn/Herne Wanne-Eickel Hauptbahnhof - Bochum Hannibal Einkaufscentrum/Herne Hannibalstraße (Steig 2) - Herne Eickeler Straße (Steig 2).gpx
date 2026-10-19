@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 314 filtered ascend = 0 plain-ascend = -3 cost=628 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Herne Hannibalstraße (Steig 2) - Herne Eickeler Straße (Steig 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.50768/7.18381/standard&amp;lonlats=7.182783,51.51047;7.183554,51.507725&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.510468" lon="7.182778"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.510423" lon="7.18282"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.510165" lon="7.183049"><ele>60.5</ele></trkpt>
+   <trkpt lat="51.510012" lon="7.183136"><ele>60</ele></trkpt>
+   <trkpt lat="51.509883" lon="7.183175"><ele>59.75</ele></trkpt>
+   <trkpt lat="51.50957" lon="7.183228"><ele>59</ele></trkpt>
+   <trkpt lat="51.509394" lon="7.183257"><ele>58.75</ele></trkpt>
+   <trkpt lat="51.508314" lon="7.183435"><ele>57.25</ele></trkpt>
+   <trkpt lat="51.507972" lon="7.183507"><ele>56.75</ele></trkpt>
+   <trkpt lat="51.507733" lon="7.183547"><ele>56.75</ele></trkpt>
+   <trkpt lat="51.507724" lon="7.183548"><ele>56.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

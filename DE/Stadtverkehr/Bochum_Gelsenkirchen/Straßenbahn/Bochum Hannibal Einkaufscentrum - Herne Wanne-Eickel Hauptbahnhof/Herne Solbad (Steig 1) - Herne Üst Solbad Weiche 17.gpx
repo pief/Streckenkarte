@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 1 cost=70 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Herne Solbad (Steig 1) - Herne Üst Solbad Weiche 17</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.52394/7.16436/standard&amp;lonlats=7.163623,51.523925;7.163204,51.52409&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.523925" lon="7.163623"><ele>49</ele></trkpt>
+   <trkpt lat="51.523942" lon="7.163579"><ele>49</ele></trkpt>
+   <trkpt lat="51.523959" lon="7.163535"><ele>49</ele></trkpt>
+   <trkpt lat="51.523974" lon="7.163496"><ele>49</ele></trkpt>
+   <trkpt lat="51.524039" lon="7.163332"><ele>49</ele></trkpt>
+   <trkpt lat="51.524089" lon="7.163206"><ele>49.25</ele></trkpt>
+   <trkpt lat="51.524089" lon="7.163203"><ele>49.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

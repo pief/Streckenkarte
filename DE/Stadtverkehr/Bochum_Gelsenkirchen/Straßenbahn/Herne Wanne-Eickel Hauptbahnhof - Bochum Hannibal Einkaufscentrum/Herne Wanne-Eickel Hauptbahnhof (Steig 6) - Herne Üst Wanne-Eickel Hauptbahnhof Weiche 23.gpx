@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Herne Wanne-Eickel Hauptbahnhof (Steig 6) - Herne Üst Wanne-Eickel Hauptbahnhof Weiche 23</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.53208/7.16558/standard&amp;lonlats=7.164795,51.53185;7.165165,51.532058&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.531849" lon="7.164794"><ele>45</ele></trkpt>
+   <trkpt lat="51.531882" lon="7.164848"><ele>45</ele></trkpt>
+   <trkpt lat="51.531924" lon="7.164921"><ele>45</ele></trkpt>
+   <trkpt lat="51.531993" lon="7.165037"><ele>45</ele></trkpt>
+   <trkpt lat="51.532024" lon="7.165091"><ele>45</ele></trkpt>
+   <trkpt lat="51.532057" lon="7.165165"><ele>45</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

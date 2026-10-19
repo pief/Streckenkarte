@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Herne Üst Auf der Wenge Weiche 20 - Herne Auf der Wenge (Steig 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.51299/7.17989/standard&amp;lonlats=7.179928,51.512952;7.179275,51.513118&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.51295" lon="7.179926"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.513011" lon="7.179701"><ele>60.75</ele></trkpt>
+   <trkpt lat="51.513107" lon="7.179318"><ele>60</ele></trkpt>
+   <trkpt lat="51.513118" lon="7.179275"><ele>60</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
