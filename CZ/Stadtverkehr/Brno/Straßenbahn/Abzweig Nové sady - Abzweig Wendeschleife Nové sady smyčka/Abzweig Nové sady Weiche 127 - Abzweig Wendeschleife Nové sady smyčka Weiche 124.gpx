@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = -2 cost=160 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Nové sady Weiche 127 - Abzweig Wendeschleife Nové sady smyčka Weiche 124</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.18955/16.60864/standard&amp;lonlats=16.608788,49.190024;16.608041,49.189489&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.190024" lon="16.608786"><ele>205.75</ele></trkpt>
+   <trkpt lat="49.190014" lon="16.608763"><ele>205.5</ele></trkpt>
+   <trkpt lat="49.189977" lon="16.608678"><ele>204.75</ele></trkpt>
+   <trkpt lat="49.189932" lon="16.608606"><ele>204.75</ele></trkpt>
+   <trkpt lat="49.189895" lon="16.60856"><ele>204.5</ele></trkpt>
+   <trkpt lat="49.189487" lon="16.608042"><ele>203</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

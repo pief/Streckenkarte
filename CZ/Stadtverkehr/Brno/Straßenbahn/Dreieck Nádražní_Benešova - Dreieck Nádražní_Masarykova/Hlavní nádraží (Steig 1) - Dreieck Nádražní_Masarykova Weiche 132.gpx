@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 0 cost=20 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Hlavní nádraží (Steig 1) - Dreieck Nádražní/Masarykova Weiche 132</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.19121/16.61131/standard&amp;lonlats=16.611917,49.191197;16.611794,49.191153&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.191199" lon="16.611913"><ele>207.75</ele></trkpt>
+   <trkpt lat="49.191184" lon="16.611874"><ele>208</ele></trkpt>
+   <trkpt lat="49.191153" lon="16.611793"><ele>208</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
