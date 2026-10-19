@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 345 filtered ascend = 0 plain-ascend = 0 cost=690 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Bochum Abzweig Hauptbahnhof Weiche Nord - Bochum Üst Husemannplatz Weiche Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.48011/7.21689/standard&amp;lonlats=7.220063,51.478589;7.216153,51.480005&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.478589" lon="7.220061"/>
+   <trkpt lat="51.47859" lon="7.220069"/>
+   <trkpt lat="51.47858" lon="7.219528"/>
+   <trkpt lat="51.478624" lon="7.21891"/>
+   <trkpt lat="51.478723" lon="7.218168"/>
+   <trkpt lat="51.478856" lon="7.217587"/>
+   <trkpt lat="51.479012" lon="7.21717"/>
+   <trkpt lat="51.479248" lon="7.216762"/>
+   <trkpt lat="51.479463" lon="7.216521"/>
+   <trkpt lat="51.479786" lon="7.21626"/>
+   <trkpt lat="51.480005" lon="7.216153"/>
+  </trkseg>
+ </trk>
+</gpx>

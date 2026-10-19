@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 232 filtered ascend = 0 plain-ascend = 0 cost=464 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Bochum Rathaus (Steig 1) - Bochum Rathaus Abzweig Verbindungsstrecke Ost-West-Strecke Weiche Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.48076/7.21624/standard&amp;lonlats=7.215638,51.48269;7.215973,51.480633&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.48269" lon="7.215638"><ele>94.75</ele></trkpt>
+   <trkpt lat="51.48262" lon="7.215668"><ele>94.75</ele></trkpt>
+   <trkpt lat="51.482549" lon="7.2157"><ele>94.75</ele></trkpt>
+   <trkpt lat="51.482281" lon="7.215846"/>
+   <trkpt lat="51.481988" lon="7.215947"/>
+   <trkpt lat="51.481773" lon="7.215987"/>
+   <trkpt lat="51.481475" lon="7.215995"/>
+   <trkpt lat="51.480634" lon="7.215974"/>
+   <trkpt lat="51.480633" lon="7.215974"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 2 plain-ascend = 2 cost=300 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Bochum Üst Hamme Kirche Weiche Nordwest - Bochum Hamme Kirche (Steig 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.49318/7.19346/standard&amp;lonlats=7.194912,51.492485;7.193102,51.493209&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.492484" lon="7.194911"><ele>76</ele></trkpt>
+   <trkpt lat="51.492566" lon="7.194714"><ele>76.25</ele></trkpt>
+   <trkpt lat="51.492659" lon="7.194492"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.492746" lon="7.194282"><ele>76.75</ele></trkpt>
+   <trkpt lat="51.492783" lon="7.19419"><ele>77</ele></trkpt>
+   <trkpt lat="51.492786" lon="7.194182"><ele>77</ele></trkpt>
+   <trkpt lat="51.492801" lon="7.194145"><ele>77</ele></trkpt>
+   <trkpt lat="51.492838" lon="7.194049"><ele>77</ele></trkpt>
+   <trkpt lat="51.492876" lon="7.193946"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.492917" lon="7.193831"><ele>77.25</ele></trkpt>
+   <trkpt lat="51.492978" lon="7.193664"><ele>77</ele></trkpt>
+   <trkpt lat="51.493117" lon="7.193334"><ele>77.75</ele></trkpt>
+   <trkpt lat="51.493159" lon="7.193233"><ele>78</ele></trkpt>
+   <trkpt lat="51.493212" lon="7.193105"><ele>78</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
