@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 159 filtered ascend = 0 plain-ascend = 0 cost=318 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Ústřední hřbitov (Steig West) - Abzweig Ústřední hřbitov smyčka Weiche 206</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.17057/16.59776/standard&amp;lonlats=16.597254,49.171315;16.597701,49.169918&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.171315" lon="16.597254"><ele>218</ele></trkpt>
+   <trkpt lat="49.171305" lon="16.597257"><ele>218.25</ele></trkpt>
+   <trkpt lat="49.171268" lon="16.597266"><ele>218.5</ele></trkpt>
+   <trkpt lat="49.170935" lon="16.597363"><ele>218.5</ele></trkpt>
+   <trkpt lat="49.169918" lon="16.597706"><ele>218</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
