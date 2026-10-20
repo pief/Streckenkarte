@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 373 filtered ascend = 0 plain-ascend = 1 cost=746 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Saikogasse (Steig Nordost) - Josef-Baumann-Gasse (Steig Ost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.25129/16.43195/standard&amp;lonlats=16.435669,48.250706;16.430722,48.251231&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.250705" lon="16.435668"><ele>160.25</ele></trkpt>
+   <trkpt lat="48.250758" lon="16.435135"><ele>160.25</ele></trkpt>
+   <trkpt lat="48.250824" lon="16.434468"><ele>161</ele></trkpt>
+   <trkpt lat="48.250831" lon="16.434408"><ele>161</ele></trkpt>
+   <trkpt lat="48.250968" lon="16.433101"><ele>161</ele></trkpt>
+   <trkpt lat="48.251064" lon="16.432173"><ele>161</ele></trkpt>
+   <trkpt lat="48.251122" lon="16.431653"><ele>161</ele></trkpt>
+   <trkpt lat="48.251164" lon="16.431337"><ele>160.75</ele></trkpt>
+   <trkpt lat="48.25123" lon="16.430725"><ele>161</ele></trkpt>
+   <trkpt lat="48.25123" lon="16.430721"><ele>161</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
