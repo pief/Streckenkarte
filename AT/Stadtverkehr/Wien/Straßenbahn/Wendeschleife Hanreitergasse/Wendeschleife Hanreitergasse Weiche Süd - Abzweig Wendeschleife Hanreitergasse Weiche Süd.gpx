@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wendeschleife Hanreitergasse Weiche Süd - Abzweig Wendeschleife Hanreitergasse Weiche Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.28289/16.41226/standard&amp;lonlats=16.412179,48.282884;16.412133,48.282768&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.282884" lon="16.412179"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.282826" lon="16.412166"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.282768" lon="16.41214"><ele>163.5</ele></trkpt>
+   <trkpt lat="48.282766" lon="16.412138"><ele>163.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
