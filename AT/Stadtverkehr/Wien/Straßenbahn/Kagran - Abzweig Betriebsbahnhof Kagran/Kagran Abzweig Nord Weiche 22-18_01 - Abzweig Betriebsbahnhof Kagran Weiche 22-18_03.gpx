@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kagran Abzweig Nord Weiche 22-18/01 - Abzweig Betriebsbahnhof Kagran Weiche 22-18/03</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.24464/16.43504/standard&amp;lonlats=16.433941,48.244061;16.434299,48.244477&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.24406" lon="16.43394"><ele>161</ele></trkpt>
+   <trkpt lat="48.244063" lon="16.433944"><ele>161</ele></trkpt>
+   <trkpt lat="48.244159" lon="16.434062"><ele>161</ele></trkpt>
+   <trkpt lat="48.244223" lon="16.434131"><ele>161</ele></trkpt>
+   <trkpt lat="48.244329" lon="16.434218"><ele>161</ele></trkpt>
+   <trkpt lat="48.244368" lon="16.434239"><ele>161</ele></trkpt>
+   <trkpt lat="48.244475" lon="16.434299"><ele>161</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
