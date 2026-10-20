@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 610 filtered ascend = 1 plain-ascend = 2 cost=1220 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Oberfeldgasse (Steig Nordost) - Gewerbepark Stadlau (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/48.24507/16.46501/standard&amp;lonlats=16.46892,48.242903;16.461901,48.245656&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.242901" lon="16.468918"><ele>160</ele></trkpt>
+   <trkpt lat="48.242924" lon="16.46886"><ele>160</ele></trkpt>
+   <trkpt lat="48.242937" lon="16.468825"><ele>160</ele></trkpt>
+   <trkpt lat="48.242993" lon="16.468681"><ele>160</ele></trkpt>
+   <trkpt lat="48.243037" lon="16.468579"><ele>160</ele></trkpt>
+   <trkpt lat="48.243124" lon="16.468352"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.243339" lon="16.467789"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.243448" lon="16.467537"><ele>159.25</ele></trkpt>
+   <trkpt lat="48.243583" lon="16.467265"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.244015" lon="16.466497"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.244595" lon="16.465332"><ele>160.5</ele></trkpt>
+   <trkpt lat="48.244751" lon="16.465007"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.2449" lon="16.464655"/>
+   <trkpt lat="48.245016" lon="16.464334"/>
+   <trkpt lat="48.245227" lon="16.463669"/>
+   <trkpt lat="48.245329" lon="16.463325"/>
+   <trkpt lat="48.245445" lon="16.462859"/>
+   <trkpt lat="48.245658" lon="16.461907"/>
+   <trkpt lat="48.245659" lon="16.461902"/>
+  </trkseg>
+ </trk>
+</gpx>

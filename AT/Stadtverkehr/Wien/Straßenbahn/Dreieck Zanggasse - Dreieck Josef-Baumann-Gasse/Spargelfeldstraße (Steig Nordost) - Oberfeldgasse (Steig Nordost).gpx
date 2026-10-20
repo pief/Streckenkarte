@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 403 filtered ascend = 1 plain-ascend = 1 cost=806 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Spargelfeldstraße (Steig Nordost) - Oberfeldgasse (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.24305/16.47007/standard&amp;lonlats=16.473622,48.241123;16.46892,48.242903&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.24112" lon="16.473619"><ele>158.75</ele></trkpt>
+   <trkpt lat="48.241144" lon="16.473556"><ele>158.75</ele></trkpt>
+   <trkpt lat="48.241186" lon="16.473444"><ele>158.75</ele></trkpt>
+   <trkpt lat="48.241435" lon="16.472746"><ele>158</ele></trkpt>
+   <trkpt lat="48.242038" lon="16.471141"><ele>159</ele></trkpt>
+   <trkpt lat="48.242464" lon="16.470018"><ele>159</ele></trkpt>
+   <trkpt lat="48.242604" lon="16.469678"><ele>159.25</ele></trkpt>
+   <trkpt lat="48.242797" lon="16.469193"><ele>160</ele></trkpt>
+   <trkpt lat="48.2429" lon="16.468923"><ele>160</ele></trkpt>
+   <trkpt lat="48.242901" lon="16.468918"><ele>160</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

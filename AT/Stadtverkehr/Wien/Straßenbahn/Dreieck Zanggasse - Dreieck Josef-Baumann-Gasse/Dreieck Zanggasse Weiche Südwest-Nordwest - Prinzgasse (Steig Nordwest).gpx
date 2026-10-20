@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=204 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Zanggasse Weiche Südwest-Nordwest - Prinzgasse (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.23993/16.48328/standard&amp;lonlats=16.483154,48.240279;16.481887,48.239936&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.240277" lon="16.483154"><ele>159</ele></trkpt>
+   <trkpt lat="48.240263" lon="16.483102"><ele>159</ele></trkpt>
+   <trkpt lat="48.240083" lon="16.482419"><ele>159</ele></trkpt>
+   <trkpt lat="48.239986" lon="16.482055"><ele>159</ele></trkpt>
+   <trkpt lat="48.23994" lon="16.481883"><ele>159</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
