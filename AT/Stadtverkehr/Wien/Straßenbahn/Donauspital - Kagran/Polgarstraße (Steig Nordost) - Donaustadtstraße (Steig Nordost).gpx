@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 529 filtered ascend = 0 plain-ascend = 1 cost=1058 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Polgarstraße (Steig Nordost) - Donaustadtstraße (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.23367/16.44437/standard&amp;lonlats=16.449915,48.231155;16.443864,48.233654&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.231154" lon="16.449914"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.231179" lon="16.449863"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.231244" lon="16.449718"><ele>159</ele></trkpt>
+   <trkpt lat="48.231316" lon="16.449561"><ele>159.25</ele></trkpt>
+   <trkpt lat="48.231438" lon="16.449285"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.231655" lon="16.448777"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.232136" lon="16.447615"><ele>160</ele></trkpt>
+   <trkpt lat="48.232209" lon="16.447428"><ele>160</ele></trkpt>
+   <trkpt lat="48.232303" lon="16.447155"><ele>160</ele></trkpt>
+   <trkpt lat="48.232497" lon="16.446681"><ele>160</ele></trkpt>
+   <trkpt lat="48.232567" lon="16.446529"><ele>160</ele></trkpt>
+   <trkpt lat="48.23266" lon="16.446331"><ele>160</ele></trkpt>
+   <trkpt lat="48.232718" lon="16.446207"><ele>160</ele></trkpt>
+   <trkpt lat="48.233363" lon="16.44465"><ele>160</ele></trkpt>
+   <trkpt lat="48.233463" lon="16.444357"><ele>160</ele></trkpt>
+   <trkpt lat="48.233583" lon="16.444037"><ele>160</ele></trkpt>
+   <trkpt lat="48.233654" lon="16.443864"><ele>160</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

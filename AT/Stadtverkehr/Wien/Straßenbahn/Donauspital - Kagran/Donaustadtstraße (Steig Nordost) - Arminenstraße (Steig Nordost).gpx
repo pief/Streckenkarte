@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 600 filtered ascend = 0 plain-ascend = 0 cost=1200 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Donaustadtstraße (Steig Nordost) - Arminenstraße (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.23645/16.43723/standard&amp;lonlats=16.443864,48.233654;16.437008,48.236523&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.233654" lon="16.443864"><ele>160</ele></trkpt>
+   <trkpt lat="48.233661" lon="16.443848"><ele>160</ele></trkpt>
+   <trkpt lat="48.233703" lon="16.443761"><ele>160</ele></trkpt>
+   <trkpt lat="48.233736" lon="16.443694"><ele>160</ele></trkpt>
+   <trkpt lat="48.233763" lon="16.443634"><ele>160</ele></trkpt>
+   <trkpt lat="48.233798" lon="16.443559"><ele>160</ele></trkpt>
+   <trkpt lat="48.233855" lon="16.443443"><ele>160</ele></trkpt>
+   <trkpt lat="48.233948" lon="16.443237"><ele>160</ele></trkpt>
+   <trkpt lat="48.235767" lon="16.438836"><ele>160</ele></trkpt>
+   <trkpt lat="48.23588" lon="16.438521"><ele>160</ele></trkpt>
+   <trkpt lat="48.235929" lon="16.438384"><ele>160</ele></trkpt>
+   <trkpt lat="48.236128" lon="16.437898"><ele>159.75</ele></trkpt>
+   <trkpt lat="48.236203" lon="16.437741"><ele>160</ele></trkpt>
+   <trkpt lat="48.236273" lon="16.437594"><ele>160</ele></trkpt>
+   <trkpt lat="48.236341" lon="16.437452"><ele>160</ele></trkpt>
+   <trkpt lat="48.236525" lon="16.43701"><ele>159.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

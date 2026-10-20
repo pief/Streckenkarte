@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 34 filtered ascend = 0 plain-ascend = 0 cost=68 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Donauspital Abzweig Ost Weiche Süd - Donauspital (Steig Süd)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.21945/16.46590/standard&amp;lonlats=16.465691,48.219388;16.465236,48.219447&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.219388" lon="16.465691"><ele>158</ele></trkpt>
+   <trkpt lat="48.219421" lon="16.465448"><ele>158</ele></trkpt>
+   <trkpt lat="48.219449" lon="16.465236"><ele>158</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
