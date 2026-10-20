@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 195 filtered ascend = 1 plain-ascend = 2 cost=390 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Aspern Nord Mayrederbrücke (Steig West) - Abzweig Nelson-Mandela-Platz Weiche Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.23329/16.50469/standard&amp;lonlats=16.503319,48.234619;16.50427,48.233038&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.234619" lon="16.503324"><ele>158</ele></trkpt>
+   <trkpt lat="48.23457" lon="16.503331"><ele>158</ele></trkpt>
+   <trkpt lat="48.234303" lon="16.503365"><ele>158</ele></trkpt>
+   <trkpt lat="48.234135" lon="16.503397"><ele>157.75</ele></trkpt>
+   <trkpt lat="48.234039" lon="16.503434"><ele>157.5</ele></trkpt>
+   <trkpt lat="48.233984" lon="16.503467"><ele>157.25</ele></trkpt>
+   <trkpt lat="48.233923" lon="16.503512"><ele>157</ele></trkpt>
+   <trkpt lat="48.233391" lon="16.503966"><ele>157.25</ele></trkpt>
+   <trkpt lat="48.233258" lon="16.504076"><ele>158.25</ele></trkpt>
+   <trkpt lat="48.233035" lon="16.50427"><ele>159.5</ele></trkpt>
+   <trkpt lat="48.233037" lon="16.504269"><ele>159.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
