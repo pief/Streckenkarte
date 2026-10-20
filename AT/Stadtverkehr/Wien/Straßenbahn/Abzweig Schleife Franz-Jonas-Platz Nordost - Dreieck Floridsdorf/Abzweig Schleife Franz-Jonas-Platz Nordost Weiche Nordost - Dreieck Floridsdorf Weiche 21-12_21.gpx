@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Schleife Franz-Jonas-Platz Nordost Weiche Nordost - Dreieck Floridsdorf Weiche 21-12/21</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.25644/16.39926/standard&amp;lonlats=16.398779,48.25636;16.398809,48.256386&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.256359" lon="16.398778"><ele>162</ele></trkpt>
+   <trkpt lat="48.256362" lon="16.398782"><ele>162</ele></trkpt>
+   <trkpt lat="48.256382" lon="16.398811"><ele>162</ele></trkpt>
+   <trkpt lat="48.256383" lon="16.398812"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

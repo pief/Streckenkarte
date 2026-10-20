@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 0 plain-ascend = 0 cost=240 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Floridsdorf Weiche 21-12/21 - Floridsdorf (Steig D)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.25728/16.40022/standard&amp;lonlats=16.398809,48.256386;16.399654,48.257275&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.256383" lon="16.398812"><ele>162</ele></trkpt>
+   <trkpt lat="48.256382" lon="16.398811"><ele>162</ele></trkpt>
+   <trkpt lat="48.256427" lon="16.398898"><ele>162</ele></trkpt>
+   <trkpt lat="48.256465" lon="16.398991"><ele>162</ele></trkpt>
+   <trkpt lat="48.256515" lon="16.399079"><ele>162</ele></trkpt>
+   <trkpt lat="48.256645" lon="16.399198"><ele>162</ele></trkpt>
+   <trkpt lat="48.257011" lon="16.399461"><ele>162</ele></trkpt>
+   <trkpt lat="48.257242" lon="16.399627"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.257274" lon="16.399651"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

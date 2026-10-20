@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 434 filtered ascend = 0 plain-ascend = 0 cost=868 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Fultonstraße (Steig Süd) - Carminweg (Steig Süd)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.25304/16.42107/standard&amp;lonlats=16.414887,48.253202;16.420717,48.253149&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.253201" lon="16.414886"><ele>162</ele></trkpt>
+   <trkpt lat="48.2532" lon="16.415072"><ele>162</ele></trkpt>
+   <trkpt lat="48.253197" lon="16.415412"><ele>162</ele></trkpt>
+   <trkpt lat="48.25319" lon="16.41634"><ele>162</ele></trkpt>
+   <trkpt lat="48.253187" lon="16.41666"><ele>162</ele></trkpt>
+   <trkpt lat="48.253176" lon="16.417972"><ele>161</ele></trkpt>
+   <trkpt lat="48.253159" lon="16.419896"><ele>161</ele></trkpt>
+   <trkpt lat="48.253158" lon="16.420079"><ele>161</ele></trkpt>
+   <trkpt lat="48.253153" lon="16.420716"><ele>161</ele></trkpt>
+   <trkpt lat="48.253152" lon="16.420717"><ele>161</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
