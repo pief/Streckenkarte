@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Peitlgasse Weiche 21-18/15 - Dreieck Peitlgasse Weiche Südwest-Nordwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.26189/16.40030/standard&amp;lonlats=16.399913,48.262393;16.400166,48.261924&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.262391" lon="16.39991"><ele>163</ele></trkpt>
+   <trkpt lat="48.262389" lon="16.399913"><ele>163</ele></trkpt>
+   <trkpt lat="48.26221" lon="16.400128"><ele>163</ele></trkpt>
+   <trkpt lat="48.262169" lon="16.40016"><ele>163</ele></trkpt>
+   <trkpt lat="48.262119" lon="16.400192"><ele>163</ele></trkpt>
+   <trkpt lat="48.262073" lon="16.400202"><ele>163</ele></trkpt>
+   <trkpt lat="48.261975" lon="16.400191"><ele>163</ele></trkpt>
+   <trkpt lat="48.261924" lon="16.400168"><ele>163</ele></trkpt>
+   <trkpt lat="48.261922" lon="16.400167"><ele>163</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
