@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wendeschleife Hanreitergasse Weiche Nordwest - Hanreitergasse (Steig Schleife-West)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.28327/16.41245/standard&amp;lonlats=16.412149,48.283666;16.412158,48.283224&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.283666" lon="16.41215"><ele>164</ele></trkpt>
+   <trkpt lat="48.283664" lon="16.412152"><ele>164</ele></trkpt>
+   <trkpt lat="48.283623" lon="16.412174"><ele>164</ele></trkpt>
+   <trkpt lat="48.283555" lon="16.412193"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.283482" lon="16.412196"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.283227" lon="16.412158"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.283223" lon="16.412157"><ele>163.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
