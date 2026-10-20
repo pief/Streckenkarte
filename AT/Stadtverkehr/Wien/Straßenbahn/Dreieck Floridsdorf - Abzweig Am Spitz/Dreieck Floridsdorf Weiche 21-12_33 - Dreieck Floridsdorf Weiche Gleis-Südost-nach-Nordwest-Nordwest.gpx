@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 1 plain-ascend = 1 cost=80 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Floridsdorf Weiche 21-12/33 - Dreieck Floridsdorf Weiche Gleis-Südost-nach-Nordwest-Nordwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.25778/16.39955/standard&amp;lonlats=16.400178,48.257517;16.399768,48.25773&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.257516" lon="16.400177"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.257517" lon="16.400176"><ele>162</ele></trkpt>
+   <trkpt lat="48.257617" lon="16.399961"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.257666" lon="16.399867"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.257729" lon="16.399769"><ele>162.75</ele></trkpt>
+   <trkpt lat="48.257729" lon="16.399767"><ele>163</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

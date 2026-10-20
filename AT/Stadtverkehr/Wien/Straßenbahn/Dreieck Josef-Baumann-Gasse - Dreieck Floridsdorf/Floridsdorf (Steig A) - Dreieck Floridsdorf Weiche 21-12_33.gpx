@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 1 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Floridsdorf (Steig A) - Dreieck Floridsdorf Weiche 21-12/33</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.25746/16.40001/standard&amp;lonlats=16.400655,48.257302;16.400178,48.257517&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.257302" lon="16.400655"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.257304" lon="16.400653"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.257363" lon="16.400525"><ele>161.5</ele></trkpt>
+   <trkpt lat="48.257441" lon="16.400349"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.257516" lon="16.400177"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
