@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 1 plain-ascend = 1 cost=156 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Schleife Franz-Jonas-Platz Weiche 21-12/12 - Franz-Jonas-Platz/Schleife (Steig Ost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.25571/16.39913/standard&amp;lonlats=16.39832,48.255064;16.398937,48.255443&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.25506" lon="16.398316"><ele>162</ele></trkpt>
+   <trkpt lat="48.255059" lon="16.398321"><ele>162</ele></trkpt>
+   <trkpt lat="48.255025" lon="16.398415"><ele>162</ele></trkpt>
+   <trkpt lat="48.255017" lon="16.398454"><ele>162</ele></trkpt>
+   <trkpt lat="48.255016" lon="16.398499"><ele>162</ele></trkpt>
+   <trkpt lat="48.255025" lon="16.398603"><ele>162</ele></trkpt>
+   <trkpt lat="48.255046" lon="16.398676"><ele>162.75</ele></trkpt>
+   <trkpt lat="48.255065" lon="16.398719"><ele>163</ele></trkpt>
+   <trkpt lat="48.255098" lon="16.398762"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.255147" lon="16.398803"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.255441" lon="16.398937"><ele>162.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

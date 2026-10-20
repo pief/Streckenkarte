@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 439 filtered ascend = 0 plain-ascend = -3 cost=878 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Hubertusdamm (Steig Südost) - Matthäus-Jiszda-Straße (Steig Süd)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.25366/16.39565/standard&amp;lonlats=16.392322,48.250875;16.395472,48.253739&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.250874" lon="16.392321"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.250912" lon="16.39235"><ele>166.25</ele></trkpt>
+   <trkpt lat="48.251825" lon="16.392894"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.252734" lon="16.393469"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.253145" lon="16.393776"><ele>164</ele></trkpt>
+   <trkpt lat="48.253366" lon="16.393955"><ele>164</ele></trkpt>
+   <trkpt lat="48.253619" lon="16.394167"><ele>164</ele></trkpt>
+   <trkpt lat="48.253662" lon="16.394205"><ele>164</ele></trkpt>
+   <trkpt lat="48.253706" lon="16.39426"><ele>164</ele></trkpt>
+   <trkpt lat="48.25375" lon="16.394357"><ele>164</ele></trkpt>
+   <trkpt lat="48.253769" lon="16.394473"><ele>164</ele></trkpt>
+   <trkpt lat="48.253757" lon="16.394985"><ele>164</ele></trkpt>
+   <trkpt lat="48.253741" lon="16.395472"><ele>163</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

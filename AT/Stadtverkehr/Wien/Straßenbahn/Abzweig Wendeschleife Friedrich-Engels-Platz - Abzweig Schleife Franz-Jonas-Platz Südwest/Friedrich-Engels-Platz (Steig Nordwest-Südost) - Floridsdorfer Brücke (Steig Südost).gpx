@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 730 filtered ascend = 6 plain-ascend = 6 cost=1460 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Friedrich-Engels-Platz (Steig Nordwest-Südost) - Floridsdorfer Brücke (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.24822/16.38758/standard&amp;lonlats=16.379972,48.244525;16.387731,48.248512&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.244523" lon="16.379973"><ele>164.5</ele></trkpt>
+   <trkpt lat="48.244632" lon="16.380082"><ele>165</ele></trkpt>
+   <trkpt lat="48.244662" lon="16.380115"><ele>165</ele></trkpt>
+   <trkpt lat="48.244801" lon="16.380272"><ele>165.25</ele></trkpt>
+   <trkpt lat="48.244858" lon="16.380344"><ele>165.25</ele></trkpt>
+   <trkpt lat="48.245069" lon="16.380648"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.2457" lon="16.381573"><ele>166.5</ele></trkpt>
+   <trkpt lat="48.245981" lon="16.382048"><ele>167</ele></trkpt>
+   <trkpt lat="48.246176" lon="16.382453"><ele>167.5</ele></trkpt>
+   <trkpt lat="48.247922" lon="16.386366"><ele>171</ele></trkpt>
+   <trkpt lat="48.248207" lon="16.387012"><ele>171</ele></trkpt>
+   <trkpt lat="48.248479" lon="16.387657"><ele>171</ele></trkpt>
+   <trkpt lat="48.24851" lon="16.387731"><ele>170.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
