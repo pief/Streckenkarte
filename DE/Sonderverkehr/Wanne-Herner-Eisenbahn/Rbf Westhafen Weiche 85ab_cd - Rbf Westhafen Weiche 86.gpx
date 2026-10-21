@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 1 cost=65 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rbf Westhafen Weiche 85ab/cd - Rbf Westhafen Weiche 86</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.55064/7.17155/standard&amp;lonlats=7.171287,51.550815;7.172197,51.550862&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.550807" lon="7.171286"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.550808" lon="7.17129"><ele>46.5</ele></trkpt>
+   <trkpt lat="51.55084" lon="7.172015"><ele>46.75</ele></trkpt>
+   <trkpt lat="51.550857" lon="7.172198"><ele>46.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
