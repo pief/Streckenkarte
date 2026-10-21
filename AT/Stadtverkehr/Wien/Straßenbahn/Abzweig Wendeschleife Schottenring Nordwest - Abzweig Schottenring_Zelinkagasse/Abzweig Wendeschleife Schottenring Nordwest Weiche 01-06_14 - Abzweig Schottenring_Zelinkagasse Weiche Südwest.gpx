@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeschleife Schottenring Nordwest Weiche 01-06/14 - Abzweig Schottenring/Zelinkagasse Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.21700/16.37082/standard&amp;lonlats=16.370513,48.21747;16.370692,48.21709&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.21747" lon="16.370513"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.217467" lon="16.370517"><ele>164.75</ele></trkpt>
+   <trkpt lat="48.217418" lon="16.370568"><ele>164.5</ele></trkpt>
+   <trkpt lat="48.21738" lon="16.370589"><ele>164.5</ele></trkpt>
+   <trkpt lat="48.217286" lon="16.370606"><ele>164.25</ele></trkpt>
+   <trkpt lat="48.217217" lon="16.370617"><ele>164</ele></trkpt>
+   <trkpt lat="48.217145" lon="16.370648"><ele>164</ele></trkpt>
+   <trkpt lat="48.217092" lon="16.370691"><ele>164.25</ele></trkpt>
+   <trkpt lat="48.21709" lon="16.370692"><ele>164</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
