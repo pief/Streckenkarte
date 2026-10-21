@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 360 filtered ascend = 1 plain-ascend = 0 cost=720 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Franz-Josefs-Bahnhof (Steig Südost-Südost) - Friedensbrücke (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.22714/16.36525/standard&amp;lonlats=16.361378,48.225565;16.365503,48.227243&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.225562" lon="16.361378"><ele>164</ele></trkpt>
+   <trkpt lat="48.225592" lon="16.361469"><ele>164</ele></trkpt>
+   <trkpt lat="48.225663" lon="16.361676"><ele>164</ele></trkpt>
+   <trkpt lat="48.225671" lon="16.361697"><ele>164</ele></trkpt>
+   <trkpt lat="48.225676" lon="16.361712"><ele>164</ele></trkpt>
+   <trkpt lat="48.225853" lon="16.362195"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.225985" lon="16.362546"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.226011" lon="16.362609"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.22678" lon="16.364392"><ele>165.25</ele></trkpt>
+   <trkpt lat="48.22687" lon="16.364612"><ele>165.5</ele></trkpt>
+   <trkpt lat="48.226917" lon="16.36475"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.226974" lon="16.364931"><ele>165.75</ele></trkpt>
+   <trkpt lat="48.226996" lon="16.364991"><ele>165.5</ele></trkpt>
+   <trkpt lat="48.22706" lon="16.365126"><ele>165</ele></trkpt>
+   <trkpt lat="48.227212" lon="16.365444"><ele>164.25</ele></trkpt>
+   <trkpt lat="48.227241" lon="16.365504"><ele>164</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
