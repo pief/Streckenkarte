@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 361 filtered ascend = 0 plain-ascend = 0 cost=722 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Moskauer Straße (Steig B) - Südstadt/Paul-Suhr-Straße (Steig G)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.44922/11.96048/standard&amp;lonlats=11.961169,51.452512;11.960676,51.449292&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.452511" lon="11.961165"><ele>108</ele></trkpt>
+   <trkpt lat="51.452441" lon="11.961155"><ele>108</ele></trkpt>
+   <trkpt lat="51.452258" lon="11.961126"><ele>108</ele></trkpt>
+   <trkpt lat="51.450864" lon="11.960916"><ele>108</ele></trkpt>
+   <trkpt lat="51.450106" lon="11.960805"><ele>107</ele></trkpt>
+   <trkpt lat="51.449519" lon="11.960708"><ele>107</ele></trkpt>
+   <trkpt lat="51.44929" lon="11.960678"><ele>107</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

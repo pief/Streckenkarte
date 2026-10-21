@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 340 filtered ascend = 1 plain-ascend = 1 cost=680 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Südstadt/Paul-Suhr-Straße (Steig H) - Moskauer Straße (Steig A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45288/11.96131/standard&amp;lonlats=11.960831,51.449958;11.961301,51.453001&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.449956" lon="11.960837"><ele>107</ele></trkpt>
+   <trkpt lat="51.450102" lon="11.960862"><ele>107</ele></trkpt>
+   <trkpt lat="51.450861" lon="11.960968"><ele>108</ele></trkpt>
+   <trkpt lat="51.452255" lon="11.961186"><ele>108</ele></trkpt>
+   <trkpt lat="51.452438" lon="11.961213"><ele>108</ele></trkpt>
+   <trkpt lat="51.452847" lon="11.961275"><ele>108</ele></trkpt>
+   <trkpt lat="51.453" lon="11.961298"><ele>108</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
