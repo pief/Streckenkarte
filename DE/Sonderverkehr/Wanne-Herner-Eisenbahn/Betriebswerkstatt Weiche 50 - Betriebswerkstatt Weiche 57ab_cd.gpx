@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 32 filtered ascend = 0 plain-ascend = 0 cost=32 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Betriebswerkstatt Weiche 50 - Betriebswerkstatt Weiche 57ab/cd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.54916/7.16204/standard&amp;lonlats=7.160985,51.549276;7.1614,51.549365&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.549272" lon="7.160985"><ele>41</ele></trkpt>
+   <trkpt lat="51.549273" lon="7.160989"><ele>41</ele></trkpt>
+   <trkpt lat="51.54928" lon="7.161023"><ele>41</ele></trkpt>
+   <trkpt lat="51.549364" lon="7.161398"><ele>41.5</ele></trkpt>
+   <trkpt lat="51.549364" lon="7.161399"><ele>41.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

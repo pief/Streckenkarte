@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=5 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rbf Westhafen Weiche 93 - Rbf Westhafen Weiche 94</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.55066/7.17217/standard&amp;lonlats=7.171611,51.550637;7.171663,51.550654&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.550636" lon="7.17161"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.550639" lon="7.171617"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.550646" lon="7.171642"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.550651" lon="7.171663"><ele>46.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

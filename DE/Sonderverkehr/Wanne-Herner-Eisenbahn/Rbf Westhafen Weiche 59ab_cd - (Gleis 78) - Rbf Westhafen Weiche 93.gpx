@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 462 filtered ascend = 4 plain-ascend = 5 cost=462 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rbf Westhafen Weiche 59ab/cd - (Gleis 78) - Rbf Westhafen Weiche 93</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.55028/7.17079/standard&amp;lonlats=7.165121,51.549785;7.168233,51.550105;7.171611,51.55064&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.549784" lon="7.16512"><ele>43</ele></trkpt>
+   <trkpt lat="51.549785" lon="7.165122"><ele>43.25</ele></trkpt>
+   <trkpt lat="51.549816" lon="7.165698"><ele>43.75</ele></trkpt>
+   <trkpt lat="51.550112" lon="7.168229"><ele>46</ele></trkpt>
+   <trkpt lat="51.550373" lon="7.170457"><ele>46</ele></trkpt>
+   <trkpt lat="51.550433" lon="7.170838"><ele>46.5</ele></trkpt>
+   <trkpt lat="51.550501" lon="7.171138"><ele>46.25</ele></trkpt>
+   <trkpt lat="51.550637" lon="7.171611"><ele>46.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
