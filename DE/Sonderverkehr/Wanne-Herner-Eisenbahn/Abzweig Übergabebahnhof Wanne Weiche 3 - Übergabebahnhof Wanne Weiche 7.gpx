@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 124 filtered ascend = 0 plain-ascend = -2 cost=124 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Übergabebahnhof Wanne Weiche 3 - Übergabebahnhof Wanne Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.53456/7.18397/standard&amp;lonlats=7.184782,51.535215;7.183622,51.534381&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.535215" lon="7.184782"><ele>51.75</ele></trkpt>
+   <trkpt lat="51.535125" lon="7.184699"><ele>50.75</ele></trkpt>
+   <trkpt lat="51.534946" lon="7.18451"><ele>48.75</ele></trkpt>
+   <trkpt lat="51.534785" lon="7.184314"><ele>49.25</ele></trkpt>
+   <trkpt lat="51.534671" lon="7.184151"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.534557" lon="7.183966"><ele>49</ele></trkpt>
+   <trkpt lat="51.534444" lon="7.183751"><ele>48.25</ele></trkpt>
+   <trkpt lat="51.534381" lon="7.183622"><ele>48.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

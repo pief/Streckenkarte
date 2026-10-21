@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Übergabebahnhof Wanne Weiche 5 - Übergabebahnhof Wanne Weiche 6</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.53408/7.18309/standard&amp;lonlats=7.182909,51.534112;7.182872,51.534102&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.534112" lon="7.182909"><ele>49.25</ele></trkpt>
+   <trkpt lat="51.5341" lon="7.182874"><ele>49.25</ele></trkpt>
+   <trkpt lat="51.534099" lon="7.182872"><ele>49.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
