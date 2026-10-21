@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 514 filtered ascend = 0 plain-ascend = -3 cost=1028 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Gustav-Staude-Straße (Steig B) - Anhalter Platz (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.43724/11.96563/standard&amp;lonlats=11.965643,51.441641;11.966236,51.437302&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.441639" lon="11.965644"><ele>100.25</ele></trkpt>
+   <trkpt lat="51.441581" lon="11.965635"><ele>100.25</ele></trkpt>
+   <trkpt lat="51.438347" lon="11.965144"><ele>99</ele></trkpt>
+   <trkpt lat="51.438254" lon="11.965136"><ele>98.75</ele></trkpt>
+   <trkpt lat="51.438129" lon="11.965155"><ele>98.5</ele></trkpt>
+   <trkpt lat="51.43808" lon="11.965173"><ele>98.25</ele></trkpt>
+   <trkpt lat="51.437994" lon="11.965215"><ele>98</ele></trkpt>
+   <trkpt lat="51.437911" lon="11.965277"><ele>98</ele></trkpt>
+   <trkpt lat="51.437836" lon="11.965345"><ele>97.75</ele></trkpt>
+   <trkpt lat="51.437759" lon="11.96544"><ele>97.25</ele></trkpt>
+   <trkpt lat="51.437629" lon="11.965655"><ele>97</ele></trkpt>
+   <trkpt lat="51.43739" lon="11.966077"><ele>96.5</ele></trkpt>
+   <trkpt lat="51.4373" lon="11.966233"><ele>96</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

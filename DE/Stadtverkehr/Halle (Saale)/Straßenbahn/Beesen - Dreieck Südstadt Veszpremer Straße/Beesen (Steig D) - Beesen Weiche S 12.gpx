@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 86 filtered ascend = 0 plain-ascend = 0 cost=172 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Beesen (Steig D) - Beesen Weiche S 12</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.43250/11.96819/standard&amp;lonlats=11.966888,51.432421;11.968115,51.432356&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.432421" lon="11.966888"><ele>86.75</ele></trkpt>
+   <trkpt lat="51.432414" lon="11.967008"><ele>86.75</ele></trkpt>
+   <trkpt lat="51.43235" lon="11.968113"><ele>86</ele></trkpt>
+   <trkpt lat="51.432349" lon="11.968114"><ele>86</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
