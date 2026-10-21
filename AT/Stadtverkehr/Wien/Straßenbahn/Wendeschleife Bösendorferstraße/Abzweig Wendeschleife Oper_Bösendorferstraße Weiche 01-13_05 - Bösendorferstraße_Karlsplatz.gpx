@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 0 plain-ascend = -1 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeschleife Oper/Bösendorferstraße Weiche 01-13/05 - Bösendorferstraße/Karlsplatz</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.20133/16.36967/standard&amp;lonlats=16.369396,48.201767;16.370746,48.201261&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.201766" lon="16.369395"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.201711" lon="16.369382"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.201657" lon="16.369386"><ele>173.75</ele></trkpt>
+   <trkpt lat="48.201632" lon="16.369397"><ele>173.5</ele></trkpt>
+   <trkpt lat="48.201588" lon="16.369436"><ele>173.5</ele></trkpt>
+   <trkpt lat="48.201559" lon="16.369487"><ele>173.5</ele></trkpt>
+   <trkpt lat="48.201522" lon="16.369598"><ele>173</ele></trkpt>
+   <trkpt lat="48.201262" lon="16.370746"><ele>172</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
