@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 0 plain-ascend = 0 cost=620 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Brigittaplatz (Steig West) - Wallensteinplatz (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.23018/16.37117/standard&amp;lonlats=16.370264,48.232932;16.370962,48.230186&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.232932" lon="16.370264"><ele>162</ele></trkpt>
+   <trkpt lat="48.232855" lon="16.370275"><ele>162</ele></trkpt>
+   <trkpt lat="48.232745" lon="16.370298"><ele>162</ele></trkpt>
+   <trkpt lat="48.232015" lon="16.370491"><ele>162</ele></trkpt>
+   <trkpt lat="48.231564" lon="16.37061"><ele>162</ele></trkpt>
+   <trkpt lat="48.23084" lon="16.370797"><ele>162</ele></trkpt>
+   <trkpt lat="48.230186" lon="16.370963"><ele>162</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
