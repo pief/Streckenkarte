@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 357 filtered ascend = 0 plain-ascend = 0 cost=714 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Heinrich-Schütz-Straße (Steig B) - Lutherstraße (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.46612/11.98375/standard&amp;lonlats=11.983679,51.469353;11.983686,51.466152&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.469352" lon="11.983674"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.469311" lon="11.983675"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.469127" lon="11.983678"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.46909" lon="11.983678"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.468941" lon="11.98368"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.467749" lon="11.983666"><ele>111</ele></trkpt>
+   <trkpt lat="51.46656" lon="11.983688"><ele>111</ele></trkpt>
+   <trkpt lat="51.466153" lon="11.983688"><ele>111</ele></trkpt>
+   <trkpt lat="51.466152" lon="11.983688"><ele>111</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

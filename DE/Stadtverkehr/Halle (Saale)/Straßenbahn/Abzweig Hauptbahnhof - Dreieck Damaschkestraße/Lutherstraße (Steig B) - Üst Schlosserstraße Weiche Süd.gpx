@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 163 filtered ascend = 0 plain-ascend = 0 cost=326 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Lutherstraße (Steig B) - Üst Schlosserstraße Weiche Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46472/11.98379/standard&amp;lonlats=11.983686,51.466152;11.983711,51.464687&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.466152" lon="11.983688"><ele>111</ele></trkpt>
+   <trkpt lat="51.465542" lon="11.983696"><ele>111</ele></trkpt>
+   <trkpt lat="51.464687" lon="11.983711"><ele>111</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
