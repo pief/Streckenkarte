@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 539 filtered ascend = 0 plain-ascend = -4 cost=1080 energy=0.0kwh time=43s -->
+<!-- track-length = 539 filtered ascend = 1 plain-ascend = 1 cost=1080 energy=0.0kwh time=43s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="bikerouter.de 2023.20">
+ creator="BRouter-Web 99.71.0">
  <trk>
-  <name>Dreieck Höchstädtplatz Weiche West-Nord - Dreieck Jägerstraße Weiche 20-06_09</name>
-  <link href="https://bikerouter.de/#map=19/48.23632/16.37106/standard&amp;lonlats=16.376703,48.239168;16.370745,48.236399&amp;profile=rail">
-   <text>bikerouter.de</text>
+  <name>Dreieck Höchstädtplatz Weiche West-Nord - Dreieck Jägerstraße Weiche 20-06/09</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.23651/16.37093/standard&amp;lonlats=16.376703,48.239168;16.370772,48.236411&amp;profile=rail">
+   <text>BRouter-Web</text>
   </link>
   <trkseg>
-   <trkpt lat="48.239168" lon="16.376702"><ele>166</ele></trkpt>
-   <trkpt lat="48.238831" lon="16.375967"><ele>164</ele></trkpt>
-   <trkpt lat="48.238729" lon="16.375767"><ele>163.75</ele></trkpt>
-   <trkpt lat="48.238187" lon="16.374603"><ele>163.5</ele></trkpt>
-   <trkpt lat="48.237401" lon="16.372899"><ele>162.75</ele></trkpt>
-   <trkpt lat="48.237243" lon="16.372556"><ele>162.5</ele></trkpt>
-   <trkpt lat="48.236399" lon="16.370744"><ele>160.75</ele></trkpt>
+   <trkpt lat="48.239168" lon="16.376701"><ele>162</ele></trkpt>
+   <trkpt lat="48.23915" lon="16.376661"><ele>162</ele></trkpt>
+   <trkpt lat="48.238831" lon="16.375967"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.238729" lon="16.375767"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.238155" lon="16.374534"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.238006" lon="16.374213"><ele>162</ele></trkpt>
+   <trkpt lat="48.237398" lon="16.372899"><ele>163</ele></trkpt>
+   <trkpt lat="48.23724" lon="16.37256"><ele>163</ele></trkpt>
+   <trkpt lat="48.236415" lon="16.370776"><ele>163</ele></trkpt>
+   <trkpt lat="48.236412" lon="16.370769"><ele>163</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
