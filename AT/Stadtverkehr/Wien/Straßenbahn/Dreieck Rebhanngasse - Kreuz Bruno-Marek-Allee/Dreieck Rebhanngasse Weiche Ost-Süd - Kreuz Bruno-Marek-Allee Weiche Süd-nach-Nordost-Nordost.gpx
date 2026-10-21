@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 1 plain-ascend = -1 cost=512 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Rebhanngasse Weiche Ost-Süd - Kreuz Bruno-Marek-Allee Weiche Süd-nach-Nordost-Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.22821/16.39259/standard&amp;lonlats=16.388779,48.227885;16.392121,48.228266&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.227881" lon="16.388778"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.228039" lon="16.390511"><ele>165</ele></trkpt>
+   <trkpt lat="48.228157" lon="16.391758"><ele>163.75</ele></trkpt>
+   <trkpt lat="48.228177" lon="16.391902"><ele>163.5</ele></trkpt>
+   <trkpt lat="48.228183" lon="16.391925"><ele>163.5</ele></trkpt>
+   <trkpt lat="48.228195" lon="16.391969"><ele>163.25</ele></trkpt>
+   <trkpt lat="48.22821" lon="16.392009"><ele>162.75</ele></trkpt>
+   <trkpt lat="48.228268" lon="16.392123"><ele>161.75</ele></trkpt>
+   <trkpt lat="48.228266" lon="16.392119"><ele>162.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
