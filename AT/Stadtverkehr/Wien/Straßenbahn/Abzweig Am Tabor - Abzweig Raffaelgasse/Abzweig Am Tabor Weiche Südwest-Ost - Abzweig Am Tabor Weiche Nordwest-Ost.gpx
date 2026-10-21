@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 46 filtered ascend = 0 plain-ascend = 0 cost=92 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Am Tabor Weiche Südwest-Ost - Abzweig Am Tabor Weiche Nordwest-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.22584/16.38267/standard&amp;lonlats=16.383457,48.224929;16.383296,48.225301&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.224928" lon="16.383456"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.224931" lon="16.383458"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.225004" lon="16.383476"><ele>162.25</ele></trkpt>
+   <trkpt lat="48.225034" lon="16.383475"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.225057" lon="16.383468"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.225082" lon="16.383459"><ele>162.5</ele></trkpt>
+   <trkpt lat="48.225173" lon="16.383396"><ele>162.75</ele></trkpt>
+   <trkpt lat="48.225297" lon="16.3833"><ele>162.75</ele></trkpt>
+   <trkpt lat="48.225301" lon="16.383296"><ele>162.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
