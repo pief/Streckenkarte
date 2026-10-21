@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Jägerstraße (Steig West-Süd) - Dreieck Jägerstraße Weiche 20-06/15</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.23629/16.36987/standard&amp;lonlats=16.369872,48.236211;16.369931,48.236222&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.23621" lon="16.369871"><ele>163</ele></trkpt>
+   <trkpt lat="48.236221" lon="16.36993"><ele>163</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
