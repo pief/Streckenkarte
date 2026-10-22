@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 1 plain-ascend = 2 cost=63 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6867 Michaelstein Weiche 1 - Michaelstein Weiche 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.79836/10.92283/standard&amp;lonlats=10.923122,51.79827;10.922698,51.798409;10.922343,51.798524&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.798268" lon="10.923121"><ele>321.75</ele></trkpt>
+   <trkpt lat="51.798269" lon="10.923121"><ele>322</ele></trkpt>
+   <trkpt lat="51.798408" lon="10.922697"><ele>323.5</ele></trkpt>
+   <trkpt lat="51.798524" lon="10.922345"><ele>323.5</ele></trkpt>
+   <trkpt lat="51.798524" lon="10.922343"><ele>322</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

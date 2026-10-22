@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 150 filtered ascend = 0 plain-ascend = -1 cost=150 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6864 Rübeland Anschluss Werk 3 Weiche A10 - Rübeland Weiche 8</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.75443/10.84258/standard&amp;lonlats=10.840159,51.755166;10.841915,51.754403&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.755166" lon="10.840159"><ele>385.5</ele></trkpt>
+   <trkpt lat="51.754826" lon="10.840734"><ele>384.75</ele></trkpt>
+   <trkpt lat="51.754742" lon="10.840885"><ele>384.25</ele></trkpt>
+   <trkpt lat="51.754648" lon="10.841081"><ele>384.75</ele></trkpt>
+   <trkpt lat="51.754565" lon="10.84129"><ele>383.75</ele></trkpt>
+   <trkpt lat="51.754485" lon="10.841537"><ele>383.5</ele></trkpt>
+   <trkpt lat="51.754401" lon="10.841914"><ele>384</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

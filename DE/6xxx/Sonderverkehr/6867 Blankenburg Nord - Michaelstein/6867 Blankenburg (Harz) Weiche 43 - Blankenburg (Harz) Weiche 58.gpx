@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6867 Blankenburg (Harz) Weiche 43 - Blankenburg (Harz) Weiche 58</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.79778/10.96123/standard&amp;lonlats=10.960688,51.798861;10.960814,51.798001;10.96085,51.797713&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.798861" lon="10.960689"><ele>198</ele></trkpt>
+   <trkpt lat="51.798861" lon="10.96069"><ele>198</ele></trkpt>
+   <trkpt lat="51.798463" lon="10.960751"><ele>198</ele></trkpt>
+   <trkpt lat="51.798193" lon="10.96078"><ele>198</ele></trkpt>
+   <trkpt lat="51.798" lon="10.960807"><ele>198</ele></trkpt>
+   <trkpt lat="51.797714" lon="10.960849"><ele>198</ele></trkpt>
+   <trkpt lat="51.797712" lon="10.960849"><ele>198</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
