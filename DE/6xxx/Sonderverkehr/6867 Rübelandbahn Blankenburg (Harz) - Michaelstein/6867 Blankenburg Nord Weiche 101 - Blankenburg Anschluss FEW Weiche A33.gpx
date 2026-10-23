@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 0 plain-ascend = -3 cost=240 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6867 Blankenburg Nord Weiche 101 - Blankenburg Anschluss FEW Weiche A33</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.80161/10.96041/standard&amp;lonlats=10.959707,51.801653;10.960589,51.799601">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.801652" lon="10.959704"><ele>201.5</ele></trkpt>
+   <trkpt lat="51.801516" lon="10.959843"><ele>200.75</ele></trkpt>
+   <trkpt lat="51.801328" lon="10.960012"><ele>200.75</ele></trkpt>
+   <trkpt lat="51.801133" lon="10.960161"><ele>200</ele></trkpt>
+   <trkpt lat="51.800929" lon="10.960285"><ele>199.75</ele></trkpt>
+   <trkpt lat="51.800744" lon="10.960371"><ele>199</ele></trkpt>
+   <trkpt lat="51.800557" lon="10.960435"><ele>198.25</ele></trkpt>
+   <trkpt lat="51.800209" lon="10.960505"><ele>198</ele></trkpt>
+   <trkpt lat="51.799601" lon="10.96059"><ele>198</ele></trkpt>
+   <trkpt lat="51.799601" lon="10.960589"><ele>198</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
