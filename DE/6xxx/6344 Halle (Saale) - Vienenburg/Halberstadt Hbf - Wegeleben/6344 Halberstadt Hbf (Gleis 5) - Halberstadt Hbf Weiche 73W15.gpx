@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 358 filtered ascend = 0 plain-ascend = 0 cost=358 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6344 Halberstadt Hbf (Gleis 5) - Halberstadt Hbf Weiche 73W15</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.89861/11.07678/standard&amp;lonlats=11.073441,51.899575;11.078159,51.898269&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.899574" lon="11.07344"><ele>111</ele></trkpt>
+   <trkpt lat="51.899567" lon="11.073473"><ele>111</ele></trkpt>
+   <trkpt lat="51.899287" lon="11.074681"><ele>111</ele></trkpt>
+   <trkpt lat="51.899204" lon="11.075012"><ele>111</ele></trkpt>
+   <trkpt lat="51.899105" lon="11.075358"><ele>111</ele></trkpt>
+   <trkpt lat="51.898568" lon="11.077097"><ele>110.75</ele></trkpt>
+   <trkpt lat="51.898376" lon="11.077729"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.89827" lon="11.078156"><ele>110</ele></trkpt>
+   <trkpt lat="51.898269" lon="11.078159"><ele>110.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 193 filtered ascend = 1 plain-ascend = 1 cost=193 energy=0.0kwh time=15s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6344 Halberstadt Hbf Weiche 73W05 - Halberstadt Hbf Weiche 73W06</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.89713/11.08566/standard&amp;lonlats=11.088646,51.895833;11.086022,51.896447">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.895833" lon="11.088646"><ele>109</ele></trkpt>
+   <trkpt lat="51.895964" lon="11.088098"><ele>110</ele></trkpt>
+   <trkpt lat="51.896258" lon="11.086848"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.896437" lon="11.086057"><ele>110</ele></trkpt>
+   <trkpt lat="51.896445" lon="11.086021"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

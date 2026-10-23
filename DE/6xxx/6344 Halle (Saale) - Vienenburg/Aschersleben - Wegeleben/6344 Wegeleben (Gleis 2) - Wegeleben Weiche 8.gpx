@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 151 filtered ascend = 0 plain-ascend = 0 cost=151 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6344 Wegeleben (Gleis 2) - Wegeleben Weiche 8</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.87081/11.16919/standard&amp;lonlats=11.168595,51.871799;11.169209,51.870493&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.871799" lon="11.168595"><ele>112</ele></trkpt>
+   <trkpt lat="51.870945" lon="11.168997"><ele>112</ele></trkpt>
+   <trkpt lat="51.870493" lon="11.16921"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
