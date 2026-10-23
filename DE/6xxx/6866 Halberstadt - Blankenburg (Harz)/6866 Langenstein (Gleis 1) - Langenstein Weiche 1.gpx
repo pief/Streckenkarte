@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 253 filtered ascend = 0 plain-ascend = -1 cost=254 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>6866 Langenstein (Gleis 1) - Langenstein Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.86255/10.98030/standard&amp;lonlats=10.979276,51.860453;10.980314,51.862631">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.860453" lon="10.979267"><ele>165</ele></trkpt>
+   <trkpt lat="51.860683" lon="10.979377"><ele>165</ele></trkpt>
+   <trkpt lat="51.861464" lon="10.979758"><ele>164</ele></trkpt>
+   <trkpt lat="51.86179" lon="10.979918"><ele>163.5</ele></trkpt>
+   <trkpt lat="51.86263" lon="10.980318"><ele>163</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
