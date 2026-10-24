@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 59 filtered ascend = 0 plain-ascend = 0 cost=118 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Podwale Weiche Nordwest-nach-Südwest-Nordwest - Kreuz Podwale Weiche Südwest-nach-Südost-Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.10656/17.02464/standard&amp;lonlats=17.024308,51.106804;17.024994,51.106533&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.106802" lon="17.024306"><ele>117</ele></trkpt>
+   <trkpt lat="51.106802" lon="17.024309"><ele>117</ele></trkpt>
+   <trkpt lat="51.106729" lon="17.024491"><ele>117</ele></trkpt>
+   <trkpt lat="51.106669" lon="17.024645"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.106654" lon="17.024681"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.106534" lon="17.024992"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.106533" lon="17.024994"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
