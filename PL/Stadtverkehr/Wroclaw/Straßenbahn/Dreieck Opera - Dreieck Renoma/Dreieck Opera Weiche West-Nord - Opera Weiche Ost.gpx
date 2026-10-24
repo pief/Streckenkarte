@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Opera Weiche West-Nord - Opera Weiche Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.10550/17.03211/standard&amp;lonlats=17.03259,51.10551;17.032537,51.10552&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.10551" lon="17.03259"><ele>119</ele></trkpt>
+   <trkpt lat="51.105511" lon="17.03259"><ele>119</ele></trkpt>
+   <trkpt lat="51.105518" lon="17.032536"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
