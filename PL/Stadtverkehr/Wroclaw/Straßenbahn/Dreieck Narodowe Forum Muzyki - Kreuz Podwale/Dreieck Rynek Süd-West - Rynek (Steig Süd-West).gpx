@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Rynek Süd-West - Rynek (Steig Süd-West)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.10981/17.02712/standard&amp;lonlats=17.026554,51.110173;17.026712,51.109645">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.110172" lon="17.026552"><ele>118</ele></trkpt>
+   <trkpt lat="51.109937" lon="17.026619"><ele>118</ele></trkpt>
+   <trkpt lat="51.109782" lon="17.026673"><ele>118</ele></trkpt>
+   <trkpt lat="51.109645" lon="17.026716"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
