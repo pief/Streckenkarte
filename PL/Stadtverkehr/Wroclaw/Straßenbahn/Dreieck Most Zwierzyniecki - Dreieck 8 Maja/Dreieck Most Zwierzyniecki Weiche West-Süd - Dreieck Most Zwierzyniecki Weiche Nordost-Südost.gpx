@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=138 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Most Zwierzyniecki Weiche West-Süd - Dreieck Most Zwierzyniecki Weiche Nordost-Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.10829/17.07190/standard&amp;lonlats=17.070351,51.108055;17.071258,51.108195">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.108049" lon="17.070348"><ele>119.5</ele></trkpt>
+   <trkpt lat="51.108049" lon="17.070352"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.108035" lon="17.070454"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.10803" lon="17.070578"><ele>119.5</ele></trkpt>
+   <trkpt lat="51.10805" lon="17.070742"><ele>119.75</ele></trkpt>
+   <trkpt lat="51.108137" lon="17.071059"><ele>119</ele></trkpt>
+   <trkpt lat="51.108194" lon="17.071258"><ele>119</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
