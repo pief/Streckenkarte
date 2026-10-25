@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 1 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck 8 Maja Weiche Nord-West - Dreieck 8 Maja Weiche Südwest-Nordwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.11359/17.09039/standard&amp;lonlats=17.090325,51.113763;17.090325,51.113583;17.090061,51.113411">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.113763" lon="17.090325"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.113762" lon="17.090326"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.113613" lon="17.09033"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.113584" lon="17.090316"><ele>118</ele></trkpt>
+   <trkpt lat="51.11354" lon="17.090297"><ele>118</ele></trkpt>
+   <trkpt lat="51.113501" lon="17.090259"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.113447" lon="17.090177"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.113411" lon="17.090065"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.11341" lon="17.09006"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

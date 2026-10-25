@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 14 filtered ascend = 0 plain-ascend = 1 cost=28 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>8 Maja (Steig West) - Dreieck 8 Maja Weiche Nord-West</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.11375/17.09048/standard&amp;lonlats=17.090309,51.113889;17.090325,51.113763">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.113888" lon="17.090308"><ele>117</ele></trkpt>
+   <trkpt lat="51.113782" lon="17.090322"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.113763" lon="17.090325"><ele>117.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
