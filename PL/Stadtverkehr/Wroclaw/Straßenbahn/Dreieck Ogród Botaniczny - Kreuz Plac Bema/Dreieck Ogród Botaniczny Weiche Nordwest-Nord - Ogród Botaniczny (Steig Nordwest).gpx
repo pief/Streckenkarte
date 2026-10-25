@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 0 cost=128 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Ogród Botaniczny Weiche Nordwest-Nord - Ogród Botaniczny (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.11679/17.05085/standard&amp;lonlats=17.050867,51.116769;17.049956,51.116811">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.116767" lon="17.050866"><ele>118</ele></trkpt>
+   <trkpt lat="51.116774" lon="17.050757"><ele>118</ele></trkpt>
+   <trkpt lat="51.1168" lon="17.050227"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.116815" lon="17.049956"><ele>117.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

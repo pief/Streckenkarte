@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Piastowska (Steig Süd) - Kreuz Piastowska Weiche Südwest-nach-Nordwest-Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.11540/17.06232/standard&amp;lonlats=17.060821,51.115503;17.060832,51.11555">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.115501" lon="17.060821"><ele>117</ele></trkpt>
+   <trkpt lat="51.115512" lon="17.060824"><ele>117</ele></trkpt>
+   <trkpt lat="51.115548" lon="17.060832"><ele>116.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
