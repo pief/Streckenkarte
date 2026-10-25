@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 95 filtered ascend = 0 plain-ascend = 1 cost=190 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Ogród Botaniczny Weiche Süd-Ost - Dreieck Ogród Botaniczny Weiche Nordwest-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.11657/17.05284/standard&amp;lonlats=17.051151,51.116062;17.050866,51.116767">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.11606" lon="17.051155"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.116064" lon="17.051156"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.116471" lon="17.051236"><ele>118</ele></trkpt>
+   <trkpt lat="51.116547" lon="17.051239"><ele>118</ele></trkpt>
+   <trkpt lat="51.116604" lon="17.051218"><ele>118</ele></trkpt>
+   <trkpt lat="51.116649" lon="17.051184"><ele>118</ele></trkpt>
+   <trkpt lat="51.1167" lon="17.051118"><ele>118</ele></trkpt>
+   <trkpt lat="51.116728" lon="17.05106"><ele>118</ele></trkpt>
+   <trkpt lat="51.116748" lon="17.050996"><ele>118</ele></trkpt>
+   <trkpt lat="51.116767" lon="17.050868"><ele>118</ele></trkpt>
+   <trkpt lat="51.116767" lon="17.050866"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
