@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 139 filtered ascend = 1 plain-ascend = 1 cost=278 energy=0.0kwh time=11s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Hauptbahnhof Südseite (Steig Nordwest) - Abzweig Schleife Pforzheimer Straße Weiche 3503W29</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.10516/8.66293/standard&amp;lonlats=8.663564,50.105526;8.66181,50.105021">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.105525" lon="8.663563"><ele>99</ele></trkpt>
+   <trkpt lat="50.105497" lon="8.663484"><ele>99.25</ele></trkpt>
+   <trkpt lat="50.105472" lon="8.663352"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.105452" lon="8.663148"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.10543" lon="8.662915"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.105418" lon="8.662842"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.105389" lon="8.662747"><ele>99.25</ele></trkpt>
+   <trkpt lat="50.105365" lon="8.66268"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.105336" lon="8.662605"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.10502" lon="8.661809"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
