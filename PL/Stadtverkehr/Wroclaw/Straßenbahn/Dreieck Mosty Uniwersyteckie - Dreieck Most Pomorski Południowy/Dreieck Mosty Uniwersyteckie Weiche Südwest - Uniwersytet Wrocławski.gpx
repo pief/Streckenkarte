@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 125 filtered ascend = 0 plain-ascend = 0 cost=250 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Mosty Uniwersyteckie Weiche Südwest - Uniwersytet Wrocławski</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.11365/17.03295/standard&amp;lonlats=17.033781,51.114135;17.032232,51.113604">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.114132" lon="17.033781"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.114052" lon="17.033532"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.113913" lon="17.033101"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.113749" lon="17.032678"><ele>117</ele></trkpt>
+   <trkpt lat="51.113608" lon="17.032237"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.113605" lon="17.032229"><ele>117.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

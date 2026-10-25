@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 145 filtered ascend = 1 plain-ascend = 2 cost=290 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Most Pomorski Południowy Weiche Nordwest-Nordost - Mosty Pomorskie (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.11466/17.03121/standard&amp;lonlats=17.031431,51.113599;17.030691,51.114804">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.113597" lon="17.031425"><ele>117</ele></trkpt>
+   <trkpt lat="51.114172" lon="17.031067"><ele>117</ele></trkpt>
+   <trkpt lat="51.114344" lon="17.030959"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.114434" lon="17.030904"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.114692" lon="17.030744"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.114803" lon="17.030688"><ele>118.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
