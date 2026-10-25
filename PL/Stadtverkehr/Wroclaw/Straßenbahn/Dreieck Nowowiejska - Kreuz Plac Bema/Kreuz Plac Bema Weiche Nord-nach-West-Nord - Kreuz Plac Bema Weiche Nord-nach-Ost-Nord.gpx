@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=11 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Plac Bema Weiche Nord-nach-West-Nord - Kreuz Plac Bema Weiche Nord-nach-Ost-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.11740/17.04231/standard&amp;lonlats=17.042021,51.117444;17.04202,51.117404">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.117442" lon="17.042021"><ele>118</ele></trkpt>
+   <trkpt lat="51.117446" lon="17.042022"><ele>118</ele></trkpt>
+   <trkpt lat="51.117403" lon="17.04202"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
