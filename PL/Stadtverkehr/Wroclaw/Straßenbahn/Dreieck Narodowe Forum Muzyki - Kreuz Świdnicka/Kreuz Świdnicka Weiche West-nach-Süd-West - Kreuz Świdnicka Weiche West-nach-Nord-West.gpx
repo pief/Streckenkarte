@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Świdnicka Weiche West-nach-Süd-West - Kreuz Świdnicka Weiche West-nach-Nord-West</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.10723/17.03340/standard&amp;lonlats=17.03297,51.107201;17.033036,51.107198">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.107201" lon="17.03297"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.107201" lon="17.032973"><ele>118.25</ele></trkpt>
+   <trkpt lat="51.107197" lon="17.033035"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
