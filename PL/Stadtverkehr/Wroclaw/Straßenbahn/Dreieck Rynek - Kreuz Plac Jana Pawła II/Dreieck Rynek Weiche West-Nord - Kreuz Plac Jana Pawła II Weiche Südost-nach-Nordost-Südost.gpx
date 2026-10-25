@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 299 filtered ascend = 0 plain-ascend = 1 cost=598 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Rynek Weiche West-Nord - Kreuz Plac Jana Pawła II Weiche Südost-nach-Nordost-Südost</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.11159/17.02221/standard&amp;lonlats=17.026617,51.111565;17.022455,51.111401">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.111565" lon="17.026615"><ele>118</ele></trkpt>
+   <trkpt lat="51.111245" lon="17.02372"><ele>118</ele></trkpt>
+   <trkpt lat="51.111215" lon="17.023399"><ele>118</ele></trkpt>
+   <trkpt lat="51.111216" lon="17.023284"><ele>118</ele></trkpt>
+   <trkpt lat="51.111225" lon="17.023144"><ele>118</ele></trkpt>
+   <trkpt lat="51.111249" lon="17.022996"><ele>118</ele></trkpt>
+   <trkpt lat="51.111296" lon="17.022805"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.1114" lon="17.022454"><ele>118.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
