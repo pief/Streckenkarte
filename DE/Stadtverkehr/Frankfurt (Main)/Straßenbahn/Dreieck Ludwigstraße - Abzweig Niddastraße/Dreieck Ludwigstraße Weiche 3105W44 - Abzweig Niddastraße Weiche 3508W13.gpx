@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 350 filtered ascend = 1 plain-ascend = 1 cost=700 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Ludwigstraße Weiche 3105W44 - Abzweig Niddastraße Weiche 3508W13</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.10871/8.66114/standard&amp;lonlats=8.658293,50.108321;8.662264,50.108704&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.108321" lon="8.658293"><ele>97</ele></trkpt>
+   <trkpt lat="50.107804" lon="8.658775"><ele>98</ele></trkpt>
+   <trkpt lat="50.107775" lon="8.658813"><ele>98</ele></trkpt>
+   <trkpt lat="50.107743" lon="8.658878"><ele>98</ele></trkpt>
+   <trkpt lat="50.107724" lon="8.658944"><ele>98</ele></trkpt>
+   <trkpt lat="50.107717" lon="8.659018"><ele>98</ele></trkpt>
+   <trkpt lat="50.107718" lon="8.659037"><ele>98</ele></trkpt>
+   <trkpt lat="50.107719" lon="8.659076"><ele>98</ele></trkpt>
+   <trkpt lat="50.107755" lon="8.659202"><ele>98</ele></trkpt>
+   <trkpt lat="50.108145" lon="8.660242"><ele>98.5</ele></trkpt>
+   <trkpt lat="50.108193" lon="8.660371"><ele>98.5</ele></trkpt>
+   <trkpt lat="50.108226" lon="8.660458"><ele>98.25</ele></trkpt>
+   <trkpt lat="50.10848" lon="8.661125"><ele>97</ele></trkpt>
+   <trkpt lat="50.108733" lon="8.661822"><ele>98</ele></trkpt>
+   <trkpt lat="50.108743" lon="8.66187"><ele>98</ele></trkpt>
+   <trkpt lat="50.10875" lon="8.661975"><ele>98</ele></trkpt>
+   <trkpt lat="50.108743" lon="8.662121"><ele>98</ele></trkpt>
+   <trkpt lat="50.108704" lon="8.662264"><ele>98</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
