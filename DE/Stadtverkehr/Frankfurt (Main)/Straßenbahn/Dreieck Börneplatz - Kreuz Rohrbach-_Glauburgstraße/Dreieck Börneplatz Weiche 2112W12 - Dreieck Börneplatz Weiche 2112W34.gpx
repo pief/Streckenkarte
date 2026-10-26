@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 1 plain-ascend = 1 cost=102 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Börneplatz Weiche 2112W12 - Dreieck Börneplatz Weiche 2112W34</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.11252/8.68793/standard&amp;lonlats=8.687603,50.112377;8.687996,50.112665&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.112377" lon="8.687601"><ele>99</ele></trkpt>
+   <trkpt lat="50.112378" lon="8.68761"><ele>99</ele></trkpt>
+   <trkpt lat="50.112384" lon="8.687658"><ele>99.25</ele></trkpt>
+   <trkpt lat="50.112386" lon="8.687672"><ele>99.25</ele></trkpt>
+   <trkpt lat="50.112402" lon="8.687789"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.112429" lon="8.687868"><ele>99.5</ele></trkpt>
+   <trkpt lat="50.112444" lon="8.6879"><ele>99.75</ele></trkpt>
+   <trkpt lat="50.112471" lon="8.687945"><ele>99.75</ele></trkpt>
+   <trkpt lat="50.112499" lon="8.687975"><ele>99.75</ele></trkpt>
+   <trkpt lat="50.112562" lon="8.688013"><ele>100</ele></trkpt>
+   <trkpt lat="50.112625" lon="8.688016"><ele>100</ele></trkpt>
+   <trkpt lat="50.112665" lon="8.688008"><ele>100</ele></trkpt>
+   <trkpt lat="50.112665" lon="8.688007"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

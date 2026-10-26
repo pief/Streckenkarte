@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 1 plain-ascend = 1 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Rohrbach-/Glauburgstraße Weiche 3607W25 - Kreuz Rohrbach-/Glauburgstraße Weiche 3607W55</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.12742/8.69203/standard&amp;lonlats=8.692112,50.127295;8.692175,50.127738&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.127293" lon="8.692114"><ele>121</ele></trkpt>
+   <trkpt lat="50.127297" lon="8.692115"><ele>121.25</ele></trkpt>
+   <trkpt lat="50.127354" lon="8.692122"><ele>121.25</ele></trkpt>
+   <trkpt lat="50.127437" lon="8.692134"><ele>121.75</ele></trkpt>
+   <trkpt lat="50.127476" lon="8.69214"><ele>121.75</ele></trkpt>
+   <trkpt lat="50.127604" lon="8.692157"><ele>122</ele></trkpt>
+   <trkpt lat="50.127628" lon="8.69216"><ele>122</ele></trkpt>
+   <trkpt lat="50.127736" lon="8.692175"><ele>122</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
