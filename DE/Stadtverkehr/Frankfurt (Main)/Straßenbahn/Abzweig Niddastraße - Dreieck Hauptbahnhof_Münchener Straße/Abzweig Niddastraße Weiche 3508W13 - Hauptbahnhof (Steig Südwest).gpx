@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 232 filtered ascend = 1 plain-ascend = 1 cost=464 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Niddastraße Weiche 3508W13 - Hauptbahnhof (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/50.10715/8.66325/standard&amp;lonlats=8.662266,50.108706;8.664852,50.107523&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.108704" lon="8.662264"><ele>98</ele></trkpt>
+   <trkpt lat="50.108328" lon="8.66312"><ele>99</ele></trkpt>
+   <trkpt lat="50.108222" lon="8.663407"><ele>99</ele></trkpt>
+   <trkpt lat="50.108131" lon="8.663766"><ele>99</ele></trkpt>
+   <trkpt lat="50.108098" lon="8.663932"><ele>99</ele></trkpt>
+   <trkpt lat="50.108079" lon="8.664019"><ele>99</ele></trkpt>
+   <trkpt lat="50.108042" lon="8.664142"><ele>99</ele></trkpt>
+   <trkpt lat="50.108003" lon="8.664231"><ele>99</ele></trkpt>
+   <trkpt lat="50.107961" lon="8.664307"><ele>99</ele></trkpt>
+   <trkpt lat="50.107523" lon="8.664852"><ele>98.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
