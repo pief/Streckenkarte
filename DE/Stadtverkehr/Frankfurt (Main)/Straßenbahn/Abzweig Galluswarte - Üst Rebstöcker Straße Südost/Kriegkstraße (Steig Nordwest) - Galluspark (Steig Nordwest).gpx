@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 218 filtered ascend = 0 plain-ascend = 0 cost=436 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kriegkstraße (Steig Nordwest) - Galluspark (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.10021/8.63789/standard&amp;lonlats=8.639732,50.101237;8.637138,50.100206&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.101236" lon="8.639731"><ele>96.75</ele></trkpt>
+   <trkpt lat="50.101144" lon="8.639486"><ele>97</ele></trkpt>
+   <trkpt lat="50.100626" lon="8.638173"><ele>97</ele></trkpt>
+   <trkpt lat="50.100426" lon="8.637666"><ele>97</ele></trkpt>
+   <trkpt lat="50.100219" lon="8.637138"><ele>97</ele></trkpt>
+   <trkpt lat="50.100215" lon="8.637127"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
