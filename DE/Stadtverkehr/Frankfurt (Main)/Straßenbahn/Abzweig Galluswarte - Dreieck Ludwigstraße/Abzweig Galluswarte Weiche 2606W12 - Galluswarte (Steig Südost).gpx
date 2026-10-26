@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=204 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Galluswarte Weiche 2606W12 - Galluswarte (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.10283/8.64467/standard&amp;lonlats=8.64409,50.103069;8.645379,50.103445&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.103067" lon="8.644089"><ele>95.75</ele></trkpt>
+   <trkpt lat="50.103068" lon="8.644093"><ele>95.75</ele></trkpt>
+   <trkpt lat="50.103257" lon="8.644771"><ele>96</ele></trkpt>
+   <trkpt lat="50.103283" lon="8.644861"><ele>96</ele></trkpt>
+   <trkpt lat="50.103364" lon="8.64512"><ele>96.25</ele></trkpt>
+   <trkpt lat="50.103445" lon="8.645377"><ele>96</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
