@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Offenbach Stadtgrenze (Steig Südost) - Üst Offenbach Stadtgrenze Weiche 3719W21</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.10183/8.74478/standard&amp;lonlats=8.74495,50.101876;8.744078,50.101705&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.101874" lon="8.744949"><ele>101</ele></trkpt>
+   <trkpt lat="50.101844" lon="8.744806"><ele>101</ele></trkpt>
+   <trkpt lat="50.101789" lon="8.744564"><ele>100.5</ele></trkpt>
+   <trkpt lat="50.101763" lon="8.74442"><ele>100.5</ele></trkpt>
+   <trkpt lat="50.101747" lon="8.744291"><ele>100.25</ele></trkpt>
+   <trkpt lat="50.101704" lon="8.744078"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

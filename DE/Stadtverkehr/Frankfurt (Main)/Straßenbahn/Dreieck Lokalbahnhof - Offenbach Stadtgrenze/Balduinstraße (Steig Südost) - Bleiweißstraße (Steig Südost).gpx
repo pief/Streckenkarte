@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 277 filtered ascend = 1 plain-ascend = 1 cost=554 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Balduinstraße (Steig Südost) - Bleiweißstraße (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.09955/8.71899/standard&amp;lonlats=8.715024,50.099422;8.718838,50.099908&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099425" lon="8.715022"><ele>102.25</ele></trkpt>
+   <trkpt lat="50.099441" lon="8.715182"><ele>102.5</ele></trkpt>
+   <trkpt lat="50.099442" lon="8.715201"><ele>102.5</ele></trkpt>
+   <trkpt lat="50.099569" lon="8.71632"><ele>103</ele></trkpt>
+   <trkpt lat="50.099725" lon="8.717501"><ele>103</ele></trkpt>
+   <trkpt lat="50.099872" lon="8.718565"><ele>103.25</ele></trkpt>
+   <trkpt lat="50.099877" lon="8.718602"><ele>103.25</ele></trkpt>
+   <trkpt lat="50.09988" lon="8.718621"><ele>103.25</ele></trkpt>
+   <trkpt lat="50.099898" lon="8.718763"><ele>103.25</ele></trkpt>
+   <trkpt lat="50.099907" lon="8.718837"><ele>103.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 422 filtered ascend = 4 plain-ascend = 4 cost=844 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Bleiweißstraße (Steig Südost) - Buchrainplatz (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.10027/8.72431/standard&amp;lonlats=8.718838,50.099908;8.724371,50.100365&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099907" lon="8.718837"><ele>103.25</ele></trkpt>
+   <trkpt lat="50.099913" lon="8.718884"><ele>103.25</ele></trkpt>
+   <trkpt lat="50.099954" lon="8.719136"><ele>103.25</ele></trkpt>
+   <trkpt lat="50.100076" lon="8.720086"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.100088" lon="8.720177"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.100182" lon="8.720807"><ele>104.25</ele></trkpt>
+   <trkpt lat="50.100323" lon="8.721365"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.100441" lon="8.721828"><ele>104</ele></trkpt>
+   <trkpt lat="50.100708" lon="8.723501"><ele>105</ele></trkpt>
+   <trkpt lat="50.100723" lon="8.723575"><ele>105</ele></trkpt>
+   <trkpt lat="50.100728" lon="8.723637"><ele>105</ele></trkpt>
+   <trkpt lat="50.100711" lon="8.723745"><ele>105</ele></trkpt>
+   <trkpt lat="50.100684" lon="8.723816"><ele>105</ele></trkpt>
+   <trkpt lat="50.100578" lon="8.724015"><ele>105.25</ele></trkpt>
+   <trkpt lat="50.100478" lon="8.724183"><ele>106.25</ele></trkpt>
+   <trkpt lat="50.100365" lon="8.724371"><ele>107.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
