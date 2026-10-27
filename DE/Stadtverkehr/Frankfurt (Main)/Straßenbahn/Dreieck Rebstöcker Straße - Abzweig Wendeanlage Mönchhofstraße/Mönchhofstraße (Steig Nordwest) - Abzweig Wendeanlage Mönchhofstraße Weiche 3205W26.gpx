@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 232 filtered ascend = 0 plain-ascend = 0 cost=464 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Mönchhofstraße (Steig Nordwest) - Abzweig Wendeanlage Mönchhofstraße Weiche 3205W26</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.10075/8.61677/standard&amp;lonlats=8.617771,50.100512;8.614546,50.100309&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.100512" lon="8.617769"><ele>95</ele></trkpt>
+   <trkpt lat="50.100477" lon="8.617512"><ele>95</ele></trkpt>
+   <trkpt lat="50.100413" lon="8.616928"><ele>95</ele></trkpt>
+   <trkpt lat="50.100369" lon="8.616264"><ele>95</ele></trkpt>
+   <trkpt lat="50.100307" lon="8.614545"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

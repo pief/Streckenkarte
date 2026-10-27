@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 444 filtered ascend = 0 plain-ascend = 0 cost=888 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Jägerallee (Steig Süd) - Linnegraben (Steig Süd)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/50.09982/8.60410/standard&amp;lonlats=8.590624,50.100134;8.596831,50.100193&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.100135" lon="8.590622"><ele>95.5</ele></trkpt>
+   <trkpt lat="50.100136" lon="8.590915"><ele>95.25</ele></trkpt>
+   <trkpt lat="50.100134" lon="8.591093"><ele>95</ele></trkpt>
+   <trkpt lat="50.100116" lon="8.592101"><ele>95.25</ele></trkpt>
+   <trkpt lat="50.100117" lon="8.592156"><ele>95.25</ele></trkpt>
+   <trkpt lat="50.100163" lon="8.594644"><ele>95.5</ele></trkpt>
+   <trkpt lat="50.100174" lon="8.595402"><ele>95</ele></trkpt>
+   <trkpt lat="50.100191" lon="8.596746"><ele>95</ele></trkpt>
+   <trkpt lat="50.100191" lon="8.59683"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

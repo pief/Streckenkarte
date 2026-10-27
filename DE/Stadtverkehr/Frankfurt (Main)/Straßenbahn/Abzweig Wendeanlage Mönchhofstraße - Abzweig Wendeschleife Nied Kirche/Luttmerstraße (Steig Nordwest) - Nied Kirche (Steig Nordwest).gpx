@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 437 filtered ascend = 0 plain-ascend = 0 cost=874 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Luttmerstraße (Steig Nordwest) - Nied Kirche (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.09847/8.56803/standard&amp;lonlats=8.573499,50.099314;8.567559,50.098433&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099312" lon="8.573498"><ele>94</ele></trkpt>
+   <trkpt lat="50.099286" lon="8.573334"><ele>94</ele></trkpt>
+   <trkpt lat="50.099133" lon="8.572295"><ele>94</ele></trkpt>
+   <trkpt lat="50.098879" lon="8.570562"><ele>93.75</ele></trkpt>
+   <trkpt lat="50.098435" lon="8.567559"><ele>93.5</ele></trkpt>
+   <trkpt lat="50.098434" lon="8.567557"><ele>93.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

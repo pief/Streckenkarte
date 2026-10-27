@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91 filtered ascend = 2 plain-ascend = 2 cost=182 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Schleife Oberforsthaus Weiche 3400W22 - Oberforsthaus (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.07885/8.65482/standard&amp;lonlats=8.654339,50.0793;8.654057,50.078558&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.0793" lon="8.654339"><ele>103.5</ele></trkpt>
+   <trkpt lat="50.079296" lon="8.654343"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.079212" lon="8.654406"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.079173" lon="8.654425"><ele>103.75</ele></trkpt>
+   <trkpt lat="50.079095" lon="8.65443"><ele>104.25</ele></trkpt>
+   <trkpt lat="50.079045" lon="8.654412"><ele>104.25</ele></trkpt>
+   <trkpt lat="50.078628" lon="8.654117"><ele>104.75</ele></trkpt>
+   <trkpt lat="50.078555" lon="8.654062"><ele>105.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

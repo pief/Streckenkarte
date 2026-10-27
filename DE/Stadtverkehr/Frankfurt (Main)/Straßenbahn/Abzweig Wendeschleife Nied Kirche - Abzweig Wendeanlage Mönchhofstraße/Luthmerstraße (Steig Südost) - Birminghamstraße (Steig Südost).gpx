@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 488 filtered ascend = 1 plain-ascend = 1 cost=976 energy=0.0kwh time=39s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Luthmerstraße (Steig Südost) - Birminghamstraße (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.10004/8.57908/standard&amp;lonlats=8.572126,50.099087;8.578792,50.100025&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.099087" lon="8.572124"><ele>94</ele></trkpt>
+   <trkpt lat="50.099112" lon="8.572303"><ele>94</ele></trkpt>
+   <trkpt lat="50.099263" lon="8.573342"><ele>94</ele></trkpt>
+   <trkpt lat="50.099775" lon="8.576812"><ele>94</ele></trkpt>
+   <trkpt lat="50.099863" lon="8.577406"><ele>94.25</ele></trkpt>
+   <trkpt lat="50.099918" lon="8.577858"><ele>94.25</ele></trkpt>
+   <trkpt lat="50.099966" lon="8.578185"><ele>94</ele></trkpt>
+   <trkpt lat="50.100003" lon="8.578491"><ele>94</ele></trkpt>
+   <trkpt lat="50.100027" lon="8.578772"><ele>94</ele></trkpt>
+   <trkpt lat="50.100028" lon="8.57879"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
