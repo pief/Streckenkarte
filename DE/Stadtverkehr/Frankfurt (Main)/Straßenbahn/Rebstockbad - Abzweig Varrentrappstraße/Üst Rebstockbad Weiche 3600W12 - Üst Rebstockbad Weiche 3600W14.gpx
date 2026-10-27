@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 88 filtered ascend = 0 plain-ascend = 1 cost=176 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Rebstockbad Weiche 3600W12 - Üst Rebstockbad Weiche 3600W14</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.11388/8.62224/standard&amp;lonlats=8.620631,50.11377;8.621835,50.113749&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.11377" lon="8.620631"><ele>96</ele></trkpt>
+   <trkpt lat="50.11377" lon="8.620632"><ele>96</ele></trkpt>
+   <trkpt lat="50.113748" lon="8.621833"><ele>96</ele></trkpt>
+   <trkpt lat="50.113747" lon="8.621834"><ele>96.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

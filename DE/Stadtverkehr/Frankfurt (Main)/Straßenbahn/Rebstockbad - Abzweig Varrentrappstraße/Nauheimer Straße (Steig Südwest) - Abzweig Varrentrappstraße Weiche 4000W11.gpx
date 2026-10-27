@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 221 filtered ascend = 0 plain-ascend = 1 cost=442 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Nauheimer Straße (Steig Südwest) - Abzweig Varrentrappstraße Weiche 4000W11</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.11571/8.64659/standard&amp;lonlats=8.644509,50.116563;8.64704,50.115434&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.116563" lon="8.644509"><ele>96.25</ele></trkpt>
+   <trkpt lat="50.116497" lon="8.644658"><ele>96.25</ele></trkpt>
+   <trkpt lat="50.116477" lon="8.644719"><ele>96.25</ele></trkpt>
+   <trkpt lat="50.116401" lon="8.644949"><ele>96</ele></trkpt>
+   <trkpt lat="50.115688" lon="8.646534"><ele>97</ele></trkpt>
+   <trkpt lat="50.115661" lon="8.646588"><ele>97</ele></trkpt>
+   <trkpt lat="50.115632" lon="8.646637"><ele>97</ele></trkpt>
+   <trkpt lat="50.115553" lon="8.646776"><ele>97</ele></trkpt>
+   <trkpt lat="50.115524" lon="8.646825"><ele>97</ele></trkpt>
+   <trkpt lat="50.115442" lon="8.647021"><ele>97</ele></trkpt>
+   <trkpt lat="50.115434" lon="8.64704"><ele>97</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

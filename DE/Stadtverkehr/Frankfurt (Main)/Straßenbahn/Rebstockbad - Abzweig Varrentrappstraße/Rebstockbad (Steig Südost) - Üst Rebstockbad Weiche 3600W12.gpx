@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 109 filtered ascend = 0 plain-ascend = 0 cost=218 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rebstockbad (Steig Südost) - Üst Rebstockbad Weiche 3600W12</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.11380/8.62060/standard&amp;lonlats=8.619117,50.113627;8.620631,50.11377&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.113624" lon="8.619116"><ele>95.75</ele></trkpt>
+   <trkpt lat="50.11365" lon="8.619313"><ele>95.5</ele></trkpt>
+   <trkpt lat="50.113754" lon="8.620094"><ele>95.5</ele></trkpt>
+   <trkpt lat="50.113764" lon="8.620193"><ele>95.75</ele></trkpt>
+   <trkpt lat="50.113771" lon="8.620375"><ele>96</ele></trkpt>
+   <trkpt lat="50.11377" lon="8.620631"><ele>96</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
