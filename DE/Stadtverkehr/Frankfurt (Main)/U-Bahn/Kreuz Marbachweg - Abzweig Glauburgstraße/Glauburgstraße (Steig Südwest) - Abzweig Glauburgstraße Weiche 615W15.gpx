@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 102 filtered ascend = 0 plain-ascend = 0 cost=102 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Glauburgstraße (Steig Südwest) - Abzweig Glauburgstraße Weiche 615W15</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.12715/8.68558/standard&amp;lonlats=8.68505,50.127607;8.685592,50.126768&amp;nogos=8.683486,50.142143,3&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.127606" lon="8.68505"><ele>119</ele></trkpt>
+   <trkpt lat="50.127522" lon="8.685119"><ele>119</ele></trkpt>
+   <trkpt lat="50.127501" lon="8.685135"><ele>119</ele></trkpt>
+   <trkpt lat="50.127435" lon="8.685184"><ele>119</ele></trkpt>
+   <trkpt lat="50.127422" lon="8.685193"><ele>119</ele></trkpt>
+   <trkpt lat="50.1274" lon="8.685209"><ele>119</ele></trkpt>
+   <trkpt lat="50.127021" lon="8.685448"><ele>118.25</ele></trkpt>
+   <trkpt lat="50.126768" lon="8.685592"><ele>118</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

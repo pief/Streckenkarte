@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 291 filtered ascend = 2 plain-ascend = 2 cost=291 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Hauptfriedhof Weiche Nordost - Hauptfriedhof (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.13664/8.68416/standard&amp;lonlats=8.68407,50.133917;8.684406,50.136522&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.133917" lon="8.68407"><ele>130</ele></trkpt>
+   <trkpt lat="50.134647" lon="8.683984"><ele>131</ele></trkpt>
+   <trkpt lat="50.134999" lon="8.683966"><ele>131</ele></trkpt>
+   <trkpt lat="50.135182" lon="8.683999"><ele>131.25</ele></trkpt>
+   <trkpt lat="50.135228" lon="8.684012"><ele>131.25</ele></trkpt>
+   <trkpt lat="50.135749" lon="8.684171"><ele>132</ele></trkpt>
+   <trkpt lat="50.136341" lon="8.684353"><ele>132</ele></trkpt>
+   <trkpt lat="50.13652" lon="8.684406"><ele>132</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
