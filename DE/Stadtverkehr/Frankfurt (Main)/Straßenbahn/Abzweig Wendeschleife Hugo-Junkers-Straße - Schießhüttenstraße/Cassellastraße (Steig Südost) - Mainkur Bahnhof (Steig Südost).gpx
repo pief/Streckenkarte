@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 634 filtered ascend = 0 plain-ascend = 1 cost=1268 energy=0.0kwh time=51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Cassellastraße (Steig Südost) - Mainkur Bahnhof (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.13228/8.76655/standard&amp;lonlats=8.759124,50.129503;8.766526,50.132635&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.129498" lon="8.759126"><ele>100</ele></trkpt>
+   <trkpt lat="50.1295" lon="8.759132"><ele>100</ele></trkpt>
+   <trkpt lat="50.129595" lon="8.759402"><ele>100</ele></trkpt>
+   <trkpt lat="50.129689" lon="8.759675"><ele>100</ele></trkpt>
+   <trkpt lat="50.129735" lon="8.759789"><ele>100</ele></trkpt>
+   <trkpt lat="50.130453" lon="8.76153"><ele>100.5</ele></trkpt>
+   <trkpt lat="50.131945" lon="8.765114"><ele>100</ele></trkpt>
+   <trkpt lat="50.132138" lon="8.76554"><ele>100</ele></trkpt>
+   <trkpt lat="50.132372" lon="8.765966"><ele>100.25</ele></trkpt>
+   <trkpt lat="50.132443" lon="8.766114"><ele>100.75</ele></trkpt>
+   <trkpt lat="50.132574" lon="8.766397"><ele>100.25</ele></trkpt>
+   <trkpt lat="50.132632" lon="8.766527"><ele>100.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
