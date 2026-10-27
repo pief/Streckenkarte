@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 340 filtered ascend = 1 plain-ascend = 2 cost=680 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Daimlerstraße (Steig Südost) - Dieselstraße (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.12412/8.74500/standard&amp;lonlats=8.740975,50.122782;8.744976,50.124455&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.122782" lon="8.740973"><ele>99</ele></trkpt>
+   <trkpt lat="50.122853" lon="8.741143"><ele>99</ele></trkpt>
+   <trkpt lat="50.12324" lon="8.742121"><ele>99</ele></trkpt>
+   <trkpt lat="50.123938" lon="8.743763"><ele>99</ele></trkpt>
+   <trkpt lat="50.124161" lon="8.744292"><ele>99.75</ele></trkpt>
+   <trkpt lat="50.124212" lon="8.744414"><ele>100</ele></trkpt>
+   <trkpt lat="50.124388" lon="8.744806"><ele>100</ele></trkpt>
+   <trkpt lat="50.124453" lon="8.744976"><ele>100.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
