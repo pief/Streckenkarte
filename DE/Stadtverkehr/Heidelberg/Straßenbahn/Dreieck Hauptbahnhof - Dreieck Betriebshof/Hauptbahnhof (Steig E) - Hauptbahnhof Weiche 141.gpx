@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- track-length = 42 filtered ascend = 0 plain-ascend = -1 cost=84 energy=0.0kwh time=3s -->
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=94 energy=0.0kwh time=4s -->
 <gpx 
  xmlns="http://www.topografix.com/GPX/1/1" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
- creator="BRouter-Web 0.18.1">
+ creator="BRouter-Web 99.71.0">
  <trk>
   <name>Hauptbahnhof (Steig E) - Hauptbahnhof Weiche 141</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.40505/8.67507/standard&amp;lonlats=8.67573,49.404975;8.675152,49.405127&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
   <trkseg>
-   <trkpt lat="49.404975" lon="8.67573"><ele>115.25</ele></trkpt>
-   <trkpt lat="49.404978" lon="8.67572"><ele>115.25</ele></trkpt>
-   <trkpt lat="49.40499" lon="8.675661"><ele>115</ele></trkpt>
-   <trkpt lat="49.405065" lon="8.675315"><ele>113.5</ele></trkpt>
-   <trkpt lat="49.405115" lon="8.675185"><ele>113</ele></trkpt>
+   <trkpt lat="49.404975" lon="8.67573"><ele>110</ele></trkpt>
+   <trkpt lat="49.404978" lon="8.67572"><ele>110</ele></trkpt>
+   <trkpt lat="49.40499" lon="8.67566"><ele>110</ele></trkpt>
+   <trkpt lat="49.405077" lon="8.675269"><ele>109.75</ele></trkpt>
+   <trkpt lat="49.405125" lon="8.675152"><ele>110</ele></trkpt>
+   <trkpt lat="49.405125" lon="8.67515"><ele>110</ele></trkpt>
   </trkseg>
  </trk>
 </gpx>
