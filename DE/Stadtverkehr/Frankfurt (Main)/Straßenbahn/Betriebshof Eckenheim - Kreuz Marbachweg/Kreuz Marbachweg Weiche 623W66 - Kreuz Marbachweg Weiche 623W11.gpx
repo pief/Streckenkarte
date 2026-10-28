@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 61 filtered ascend = 0 plain-ascend = 1 cost=123 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Marbachweg Weiche 623W66 - Kreuz Marbachweg Weiche 623W11</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.14192/8.68407/standard&amp;lonlats=8.683467,50.142199;8.683569,50.141915;8.683661,50.141677&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.142199" lon="8.683467"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.142198" lon="8.683468"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.142123" lon="8.683489"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.142087" lon="8.683499"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.14208" lon="8.683501"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.142032" lon="8.683515"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.141955" lon="8.683537"><ele>133.5</ele></trkpt>
+   <trkpt lat="50.141912" lon="8.683553"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.141869" lon="8.68357"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.141726" lon="8.683634"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.141677" lon="8.683661"><ele>134</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

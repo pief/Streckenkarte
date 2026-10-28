@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 0 cost=104 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Betriebshof Eckenheim (Gleis 27) - Betriebshof Eckenheim Weiche 692W71</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.14377/8.68100/standard&amp;lonlats=8.680149,50.143762;8.680784,50.143694&amp;nogos=8.683486,50.142143,3&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.143762" lon="8.68015"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.143762" lon="8.680151"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.143714" lon="8.680206"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.143682" lon="8.680267"><ele>133.75</ele></trkpt>
+   <trkpt lat="50.143655" lon="8.680371"><ele>134</ele></trkpt>
+   <trkpt lat="50.143648" lon="8.680446"><ele>134</ele></trkpt>
+   <trkpt lat="50.143672" lon="8.680641"><ele>134</ele></trkpt>
+   <trkpt lat="50.143694" lon="8.680782"><ele>134</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
