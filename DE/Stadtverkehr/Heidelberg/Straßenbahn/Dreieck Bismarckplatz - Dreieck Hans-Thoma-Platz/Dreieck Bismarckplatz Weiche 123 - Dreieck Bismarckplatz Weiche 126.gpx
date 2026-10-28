@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 67 filtered ascend = 0 plain-ascend = 0 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Bismarckplatz Weiche 123 - Dreieck Bismarckplatz Weiche 126</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.40899/8.69336/standard&amp;lonlats=8.692011,49.409017;8.692809,49.409259&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.409015" lon="8.69201"><ele>115</ele></trkpt>
+   <trkpt lat="49.409016" lon="8.692013"><ele>115</ele></trkpt>
+   <trkpt lat="49.40903" lon="8.692107"><ele>115</ele></trkpt>
+   <trkpt lat="49.409054" lon="8.692266"><ele>115</ele></trkpt>
+   <trkpt lat="49.409071" lon="8.692376"><ele>115</ele></trkpt>
+   <trkpt lat="49.409093" lon="8.692507"><ele>115</ele></trkpt>
+   <trkpt lat="49.40912" lon="8.692589"><ele>115</ele></trkpt>
+   <trkpt lat="49.409197" lon="8.692725"><ele>115</ele></trkpt>
+   <trkpt lat="49.409259" lon="8.692808"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

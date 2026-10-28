@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 235 filtered ascend = 0 plain-ascend = 0 cost=470 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Campus Bergheim (Steig Südost) - Altes Hallenbad (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.40850/8.68884/standard&amp;lonlats=8.685262,49.407906;8.688396,49.408412&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.407906" lon="8.68526"><ele>115.25</ele></trkpt>
+   <trkpt lat="49.407907" lon="8.685267"><ele>115.5</ele></trkpt>
+   <trkpt lat="49.407923" lon="8.685398"><ele>115.25</ele></trkpt>
+   <trkpt lat="49.408008" lon="8.686035"><ele>115</ele></trkpt>
+   <trkpt lat="49.408366" lon="8.68814"><ele>115</ele></trkpt>
+   <trkpt lat="49.408409" lon="8.688395"><ele>115</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
