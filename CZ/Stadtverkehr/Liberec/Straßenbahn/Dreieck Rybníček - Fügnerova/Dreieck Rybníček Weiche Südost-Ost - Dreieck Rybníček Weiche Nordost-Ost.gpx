@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = -1 cost=116 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Rybníček Weiche Südost-Ost - Dreieck Rybníček Weiche Nordost-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.76526/15.05236/standard&amp;lonlats=15.051319,50.764863;15.051887,50.765213&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.76486" lon="15.051321"><ele>353.75</ele></trkpt>
+   <trkpt lat="50.764863" lon="15.051325"><ele>353.75</ele></trkpt>
+   <trkpt lat="50.764874" lon="15.051342"><ele>353.5</ele></trkpt>
+   <trkpt lat="50.764935" lon="15.051441"><ele>353</ele></trkpt>
+   <trkpt lat="50.764978" lon="15.051509"><ele>352.5</ele></trkpt>
+   <trkpt lat="50.765055" lon="15.051633"><ele>352</ele></trkpt>
+   <trkpt lat="50.765099" lon="15.051705"><ele>352</ele></trkpt>
+   <trkpt lat="50.765175" lon="15.051828"><ele>352</ele></trkpt>
+   <trkpt lat="50.765199" lon="15.051866"><ele>352</ele></trkpt>
+   <trkpt lat="50.765212" lon="15.051888"><ele>352</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
