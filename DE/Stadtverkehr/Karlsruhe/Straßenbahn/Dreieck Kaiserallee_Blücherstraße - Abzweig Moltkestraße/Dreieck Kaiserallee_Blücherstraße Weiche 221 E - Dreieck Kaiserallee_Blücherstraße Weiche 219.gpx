@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 71 filtered ascend = 0 plain-ascend = 0 cost=144 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Kaiserallee/Blücherstraße Weiche 221 E - Dreieck Kaiserallee/Blücherstraße Weiche 219</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.01120/8.37487/standard&amp;lonlats=8.374233,49.010982;8.374791,49.011362&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.010982" lon="8.374233"><ele>119</ele></trkpt>
+   <trkpt lat="49.010982" lon="8.37424"><ele>119</ele></trkpt>
+   <trkpt lat="49.010981" lon="8.374405"><ele>119</ele></trkpt>
+   <trkpt lat="49.010997" lon="8.374526"><ele>119</ele></trkpt>
+   <trkpt lat="49.011036" lon="8.374631"><ele>119</ele></trkpt>
+   <trkpt lat="49.011061" lon="8.374671"><ele>119</ele></trkpt>
+   <trkpt lat="49.011115" lon="8.374728"><ele>118.75</ele></trkpt>
+   <trkpt lat="49.011137" lon="8.374742"><ele>118.75</ele></trkpt>
+   <trkpt lat="49.011212" lon="8.374771"><ele>118.75</ele></trkpt>
+   <trkpt lat="49.011361" lon="8.374791"><ele>118.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
