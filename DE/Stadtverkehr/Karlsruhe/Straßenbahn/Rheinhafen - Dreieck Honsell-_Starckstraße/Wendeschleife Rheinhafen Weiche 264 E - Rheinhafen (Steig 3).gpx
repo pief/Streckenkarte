@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wendeschleife Rheinhafen Weiche 264 E - Rheinhafen (Steig 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.01538/8.34750/standard&amp;lonlats=8.347345,49.015962;8.347486,49.015452&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.015962" lon="8.347345"><ele>105</ele></trkpt>
+   <trkpt lat="49.015961" lon="8.347344"><ele>105</ele></trkpt>
+   <trkpt lat="49.015884" lon="8.347299"><ele>105</ele></trkpt>
+   <trkpt lat="49.015828" lon="8.347297"><ele>105</ele></trkpt>
+   <trkpt lat="49.015747" lon="8.347322"><ele>105</ele></trkpt>
+   <trkpt lat="49.015485" lon="8.347466"><ele>105</ele></trkpt>
+   <trkpt lat="49.015451" lon="8.347483"><ele>105</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
