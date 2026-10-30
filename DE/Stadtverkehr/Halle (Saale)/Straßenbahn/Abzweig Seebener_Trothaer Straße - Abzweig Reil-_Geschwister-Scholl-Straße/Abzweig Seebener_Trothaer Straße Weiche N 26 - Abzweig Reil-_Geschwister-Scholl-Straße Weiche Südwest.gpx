@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 333 filtered ascend = 7 plain-ascend = 8 cost=666 energy=0.0kwh time=26.88s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Seebener/Trothaer Straße Weiche N 26 - Abzweig Reil-/Geschwister-Scholl-Straße Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.50971/11.95919/standard&amp;lonlats=11.961667,51.510425;11.961957,51.510163;11.964253,51.507911&amp;straight=0&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.510425" lon="11.961667"/>
+   <trkpt lat="51.510159" lon="11.96195"><ele>86.25</ele></trkpt>
+   <trkpt lat="51.510146" lon="11.961964"><ele>86.5</ele></trkpt>
+   <trkpt lat="51.510054" lon="11.962058"><ele>86.75</ele></trkpt>
+   <trkpt lat="51.508154" lon="11.963965"><ele>93.5</ele></trkpt>
+   <trkpt lat="51.50805" lon="11.964074"><ele>94</ele></trkpt>
+   <trkpt lat="51.508005" lon="11.964132"><ele>94</ele></trkpt>
+   <trkpt lat="51.507914" lon="11.96425"><ele>94</ele></trkpt>
+   <trkpt lat="51.507911" lon="11.964253"><ele>94</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

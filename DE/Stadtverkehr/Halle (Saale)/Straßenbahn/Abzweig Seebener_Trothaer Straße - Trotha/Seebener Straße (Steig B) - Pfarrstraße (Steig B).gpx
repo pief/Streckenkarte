@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 344 filtered ascend = 0 plain-ascend = -5 cost=688 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Seebener Straße (Steig B) - Pfarrstraße (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.51317/11.95887/standard&amp;lonlats=11.961422,51.510736;11.958608,51.513275&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.510736" lon="11.961423"><ele>85</ele></trkpt>
+   <trkpt lat="51.51074" lon="11.96142"><ele>85</ele></trkpt>
+   <trkpt lat="51.511" lon="11.961155"><ele>84.25</ele></trkpt>
+   <trkpt lat="51.511709" lon="11.960455"><ele>83</ele></trkpt>
+   <trkpt lat="51.512343" lon="11.959811"><ele>82</ele></trkpt>
+   <trkpt lat="51.512504" lon="11.959595"><ele>81.5</ele></trkpt>
+   <trkpt lat="51.512671" lon="11.959331"><ele>81</ele></trkpt>
+   <trkpt lat="51.512789" lon="11.959159"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.512814" lon="11.959124"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.512915" lon="11.959007"><ele>80.25</ele></trkpt>
+   <trkpt lat="51.513199" lon="11.958694"><ele>79.5</ele></trkpt>
+   <trkpt lat="51.513275" lon="11.95861"><ele>79</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

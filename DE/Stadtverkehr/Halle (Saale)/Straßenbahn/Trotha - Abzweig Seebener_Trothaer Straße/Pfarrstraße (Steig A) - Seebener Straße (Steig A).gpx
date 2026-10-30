@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 319 filtered ascend = 5 plain-ascend = 6 cost=638 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Pfarrstraße (Steig A) - Seebener Straße (Steig A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/51.51153/11.96064/standard&amp;lonlats=11.958893,51.512951;11.961504,51.510593&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.512951" lon="11.958893"><ele>79.75</ele></trkpt>
+   <trkpt lat="51.512895" lon="11.958956"><ele>80</ele></trkpt>
+   <trkpt lat="51.512792" lon="11.959084"><ele>80.5</ele></trkpt>
+   <trkpt lat="51.512771" lon="11.959118"><ele>80.75</ele></trkpt>
+   <trkpt lat="51.51249" lon="11.959556"><ele>81.25</ele></trkpt>
+   <trkpt lat="51.512327" lon="11.959769"><ele>82</ele></trkpt>
+   <trkpt lat="51.511688" lon="11.960417"><ele>83</ele></trkpt>
+   <trkpt lat="51.511028" lon="11.96108"><ele>84.25</ele></trkpt>
+   <trkpt lat="51.510988" lon="11.961119"><ele>84.25</ele></trkpt>
+   <trkpt lat="51.510592" lon="11.961501"><ele>85.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
