@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 23 filtered ascend = 0 plain-ascend = 0 cost=46 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Konzerthaus Weiche 199 - Konzerthaus Weiche 200</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.00342/8.40013/standard&amp;lonlats=8.399101,49.003069;8.399306,49.003205&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.003069" lon="8.399101"><ele>116</ele></trkpt>
+   <trkpt lat="49.00311" lon="8.399159"><ele>116</ele></trkpt>
+   <trkpt lat="49.00321" lon="8.399311"><ele>116</ele></trkpt>
+   <trkpt lat="49.003204" lon="8.399305"><ele>116</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
