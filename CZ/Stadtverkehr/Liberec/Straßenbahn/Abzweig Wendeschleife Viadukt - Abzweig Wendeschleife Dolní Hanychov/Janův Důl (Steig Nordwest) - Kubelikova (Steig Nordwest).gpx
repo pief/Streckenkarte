@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 327 filtered ascend = 18 plain-ascend = 19 cost=654 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Janův Důl (Steig Nordwest) - Kubelikova (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.75089/15.03254/standard&amp;lonlats=15.036172,50.752877;15.03261,50.751066&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.752871" lon="15.036175"><ele>402.75</ele></trkpt>
+   <trkpt lat="50.752845" lon="15.036085"><ele>403.25</ele></trkpt>
+   <trkpt lat="50.7525" lon="15.03487"><ele>409.25</ele></trkpt>
+   <trkpt lat="50.752458" lon="15.034757"><ele>410</ele></trkpt>
+   <trkpt lat="50.752363" lon="15.034564"><ele>410.25</ele></trkpt>
+   <trkpt lat="50.75217" lon="15.034267"><ele>411.75</ele></trkpt>
+   <trkpt lat="50.751584" lon="15.033383"><ele>416.5</ele></trkpt>
+   <trkpt lat="50.75156" lon="15.033346"><ele>416.75</ele></trkpt>
+   <trkpt lat="50.751456" lon="15.033188"><ele>417.5</ele></trkpt>
+   <trkpt lat="50.751068" lon="15.032604"><ele>421.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

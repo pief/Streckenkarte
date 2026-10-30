@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 400 filtered ascend = 2 plain-ascend = -14 cost=800 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Nádraží (Steig Nordost) - Abzweig Wendeschleife Viadukt Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.76453/15.04386/standard&amp;lonlats=15.046422,50.762504;15.043311,50.764751&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.762504" lon="15.046422"><ele>374.75</ele></trkpt>
+   <trkpt lat="50.762521" lon="15.046409"><ele>374.75</ele></trkpt>
+   <trkpt lat="50.762547" lon="15.046387"><ele>375</ele></trkpt>
+   <trkpt lat="50.762692" lon="15.046267"><ele>375</ele></trkpt>
+   <trkpt lat="50.762927" lon="15.046069"><ele>374.5</ele></trkpt>
+   <trkpt lat="50.763028" lon="15.045995"><ele>374.5</ele></trkpt>
+   <trkpt lat="50.763273" lon="15.045816"><ele>373.5</ele></trkpt>
+   <trkpt lat="50.76367" lon="15.045541"><ele>370.75</ele></trkpt>
+   <trkpt lat="50.763736" lon="15.045495"><ele>370.75</ele></trkpt>
+   <trkpt lat="50.764198" lon="15.045172"><ele>368.25</ele></trkpt>
+   <trkpt lat="50.76483" lon="15.044729"><ele>362.75</ele></trkpt>
+   <trkpt lat="50.764895" lon="15.044663"><ele>362.5</ele></trkpt>
+   <trkpt lat="50.764928" lon="15.044618"><ele>362.25</ele></trkpt>
+   <trkpt lat="50.764955" lon="15.044563"><ele>361.75</ele></trkpt>
+   <trkpt lat="50.764969" lon="15.044531"><ele>361.5</ele></trkpt>
+   <trkpt lat="50.764976" lon="15.044515"><ele>361.5</ele></trkpt>
+   <trkpt lat="50.765007" lon="15.044401"><ele>360.75</ele></trkpt>
+   <trkpt lat="50.765021" lon="15.044274"><ele>360.25</ele></trkpt>
+   <trkpt lat="50.765019" lon="15.044193"><ele>359.75</ele></trkpt>
+   <trkpt lat="50.76501" lon="15.044124"><ele>359.75</ele></trkpt>
+   <trkpt lat="50.764967" lon="15.043963"><ele>361</ele></trkpt>
+   <trkpt lat="50.764823" lon="15.043537"><ele>366.5</ele></trkpt>
+   <trkpt lat="50.764747" lon="15.043313"><ele>360</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

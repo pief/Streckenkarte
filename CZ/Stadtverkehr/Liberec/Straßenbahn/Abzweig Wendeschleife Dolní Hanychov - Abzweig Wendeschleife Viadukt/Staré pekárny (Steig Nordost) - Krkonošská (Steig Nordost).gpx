@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 376 filtered ascend = 0 plain-ascend = -4 cost=752 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Staré pekárny (Steig Nordost) - Krkonošská (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.76047/15.04249/standard&amp;lonlats=15.043175,50.757493;15.042234,50.760804&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.757492" lon="15.043172"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.757513" lon="15.043167"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.75781" lon="15.043083"><ele>368.75</ele></trkpt>
+   <trkpt lat="50.758275" lon="15.042952"><ele>369.25</ele></trkpt>
+   <trkpt lat="50.759007" lon="15.042747"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.759066" lon="15.04273"><ele>369.5</ele></trkpt>
+   <trkpt lat="50.760453" lon="15.042337"><ele>365.75</ele></trkpt>
+   <trkpt lat="50.760804" lon="15.042238"><ele>364.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 13 plain-ascend = 13 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Viadukt (Steig Südost) - Nádraží (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.76268/15.04664/standard&amp;lonlats=15.043925,50.764923;15.046575,50.762241&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.764921" lon="15.043924"><ele>361.75</ele></trkpt>
+   <trkpt lat="50.764932" lon="15.043955"><ele>362</ele></trkpt>
+   <trkpt lat="50.764965" lon="15.044066"><ele>361</ele></trkpt>
+   <trkpt lat="50.76498" lon="15.044143"><ele>360.5</ele></trkpt>
+   <trkpt lat="50.764986" lon="15.044278"><ele>360.75</ele></trkpt>
+   <trkpt lat="50.764976" lon="15.044363"><ele>361.25</ele></trkpt>
+   <trkpt lat="50.764962" lon="15.044433"><ele>362</ele></trkpt>
+   <trkpt lat="50.764905" lon="15.044571"><ele>362.75</ele></trkpt>
+   <trkpt lat="50.764866" lon="15.044627"><ele>363.25</ele></trkpt>
+   <trkpt lat="50.764814" lon="15.04468"><ele>363.5</ele></trkpt>
+   <trkpt lat="50.764793" lon="15.0447"><ele>363.5</ele></trkpt>
+   <trkpt lat="50.763002" lon="15.045956"><ele>374.75</ele></trkpt>
+   <trkpt lat="50.762912" lon="15.046021"><ele>374.75</ele></trkpt>
+   <trkpt lat="50.762623" lon="15.046262"><ele>375.25</ele></trkpt>
+   <trkpt lat="50.762241" lon="15.046575"><ele>375</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
