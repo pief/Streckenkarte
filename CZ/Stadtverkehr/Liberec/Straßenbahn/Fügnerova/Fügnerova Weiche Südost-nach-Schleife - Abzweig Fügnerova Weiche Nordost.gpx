@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 49 filtered ascend = 0 plain-ascend = 0 cost=98 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Fügnerova Weiche Südost-nach-Schleife - Abzweig Fügnerova Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.76599/15.05766/standard&amp;lonlats=15.057484,50.765606;15.05697,50.765874&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.765605" lon="15.057483"><ele>355.75</ele></trkpt>
+   <trkpt lat="50.765606" lon="15.057483"><ele>355.75</ele></trkpt>
+   <trkpt lat="50.765669" lon="15.057373"><ele>355.75</ele></trkpt>
+   <trkpt lat="50.765738" lon="15.057242"><ele>355.25</ele></trkpt>
+   <trkpt lat="50.765776" lon="15.057167"><ele>355</ele></trkpt>
+   <trkpt lat="50.765874" lon="15.056968"><ele>355</ele></trkpt>
+   <trkpt lat="50.765873" lon="15.056969"><ele>355</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 406 filtered ascend = 2 plain-ascend = -2 cost=812 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Textilana (Steig 4) - Mlýnská (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.76440/15.06215/standard&amp;lonlats=15.067478,50.76495;15.062001,50.764468&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.764948" lon="15.067477"><ele>359</ele></trkpt>
+   <trkpt lat="50.764945" lon="15.067462"><ele>359</ele></trkpt>
+   <trkpt lat="50.764686" lon="15.066397"><ele>361.25</ele></trkpt>
+   <trkpt lat="50.764268" lon="15.064649"><ele>359</ele></trkpt>
+   <trkpt lat="50.764235" lon="15.064493"><ele>359</ele></trkpt>
+   <trkpt lat="50.764205" lon="15.064325"><ele>358.5</ele></trkpt>
+   <trkpt lat="50.764188" lon="15.064189"><ele>358</ele></trkpt>
+   <trkpt lat="50.764175" lon="15.064037"><ele>357.5</ele></trkpt>
+   <trkpt lat="50.764171" lon="15.063802"><ele>357</ele></trkpt>
+   <trkpt lat="50.764178" lon="15.063627"><ele>357</ele></trkpt>
+   <trkpt lat="50.764208" lon="15.063361"><ele>356.75</ele></trkpt>
+   <trkpt lat="50.764254" lon="15.063099"><ele>356</ele></trkpt>
+   <trkpt lat="50.764467" lon="15.062"><ele>356</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

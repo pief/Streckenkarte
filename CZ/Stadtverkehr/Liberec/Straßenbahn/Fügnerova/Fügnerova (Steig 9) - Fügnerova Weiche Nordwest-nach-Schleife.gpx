@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Fügnerova (Steig 9) - Fügnerova Weiche Nordwest-nach-Schleife</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.76573/15.05714/standard&amp;lonlats=15.056864,50.765879;15.056912,50.765858&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.765879" lon="15.056864"><ele>354.5</ele></trkpt>
+   <trkpt lat="50.765879" lon="15.056865"><ele>354.75</ele></trkpt>
+   <trkpt lat="50.765857" lon="15.05691"><ele>354.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
