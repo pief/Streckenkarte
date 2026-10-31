@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 242 filtered ascend = 0 plain-ascend = 0 cost=484 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Südfriedhof Weiche Südwest - Kreuz Vogelweide Weiche S 6</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.45769/11.97180/standard&amp;lonlats=11.971601,51.459163;11.972026,51.457012&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.459163" lon="11.971601"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.458532" lon="11.971725"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.457991" lon="11.971843"><ele>112</ele></trkpt>
+   <trkpt lat="51.457833" lon="11.971856"><ele>112</ele></trkpt>
+   <trkpt lat="51.45744" lon="11.971928"><ele>112</ele></trkpt>
+   <trkpt lat="51.457012" lon="11.972026"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = 0 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Vogelweide Weiche West-nach-Nord-Nord - Kreuz Vogelweide Weiche Ost-nach-Nord-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.45700/11.97217/standard&amp;lonlats=11.972073,51.457008;11.972071,51.457015&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.457008" lon="11.972073"><ele>112</ele></trkpt>
+   <trkpt lat="51.457014" lon="11.972072"><ele>112</ele></trkpt>
+   <trkpt lat="51.457015" lon="11.972071"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

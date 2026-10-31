@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 332 filtered ascend = 2 plain-ascend = 2 cost=664 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kantstraße (Steig B) - Robert-Koch-Straße (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.46299/11.97105/standard&amp;lonlats=11.970028,51.465903;11.970685,51.462947&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.465902" lon="11.970019"><ele>111</ele></trkpt>
+   <trkpt lat="51.465055" lon="11.970228"><ele>111</ele></trkpt>
+   <trkpt lat="51.46421" lon="11.970409"><ele>112</ele></trkpt>
+   <trkpt lat="51.464042" lon="11.970445"><ele>112</ele></trkpt>
+   <trkpt lat="51.463897" lon="11.970479"><ele>112</ele></trkpt>
+   <trkpt lat="51.463475" lon="11.970569"><ele>113</ele></trkpt>
+   <trkpt lat="51.463095" lon="11.970653"><ele>113</ele></trkpt>
+   <trkpt lat="51.462946" lon="11.970682"><ele>113</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

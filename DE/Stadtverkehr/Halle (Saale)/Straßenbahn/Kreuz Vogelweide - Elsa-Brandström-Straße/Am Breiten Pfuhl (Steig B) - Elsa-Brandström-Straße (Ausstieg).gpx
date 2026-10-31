@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 323 filtered ascend = 0 plain-ascend = -1 cost=646 energy=0.0kwh time=26s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Am Breiten Pfuhl (Steig B) - Elsa-Brandström-Straße (Ausstieg)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.45007/11.97320/standard&amp;lonlats=11.972915,51.453066;11.9735,51.45018&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.453065" lon="11.972914"><ele>109</ele></trkpt>
+   <trkpt lat="51.453008" lon="11.972927"><ele>109</ele></trkpt>
+   <trkpt lat="51.452918" lon="11.972946"><ele>109</ele></trkpt>
+   <trkpt lat="51.451332" lon="11.973267"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.450938" lon="11.973347"><ele>107</ele></trkpt>
+   <trkpt lat="51.450592" lon="11.973418"><ele>107</ele></trkpt>
+   <trkpt lat="51.450494" lon="11.973438"><ele>107</ele></trkpt>
+   <trkpt lat="51.450258" lon="11.973484"><ele>107</ele></trkpt>
+   <trkpt lat="51.45018" lon="11.9735"><ele>107</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

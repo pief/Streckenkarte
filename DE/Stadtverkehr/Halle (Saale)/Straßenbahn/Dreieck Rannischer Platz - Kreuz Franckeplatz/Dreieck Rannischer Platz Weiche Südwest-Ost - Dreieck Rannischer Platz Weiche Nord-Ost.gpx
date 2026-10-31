@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 90 filtered ascend = 0 plain-ascend = -3 cost=180 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Rannischer Platz Weiche Südwest-Ost - Dreieck Rannischer Platz Weiche Nord-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.47402/11.97004/standard&amp;lonlats=11.969616,51.473508;11.969903,51.474283&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.473507" lon="11.969615"><ele>94.25</ele></trkpt>
+   <trkpt lat="51.473509" lon="11.969616"><ele>94.25</ele></trkpt>
+   <trkpt lat="51.47357" lon="11.969661"><ele>94</ele></trkpt>
+   <trkpt lat="51.47364" lon="11.969701"><ele>93.75</ele></trkpt>
+   <trkpt lat="51.473791" lon="11.969767"><ele>93.25</ele></trkpt>
+   <trkpt lat="51.473984" lon="11.969812"><ele>92.25</ele></trkpt>
+   <trkpt lat="51.474091" lon="11.969835"><ele>91.5</ele></trkpt>
+   <trkpt lat="51.474145" lon="11.969847"><ele>91</ele></trkpt>
+   <trkpt lat="51.474281" lon="11.969902"><ele>90.5</ele></trkpt>
+   <trkpt lat="51.474282" lon="11.969902"><ele>90</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

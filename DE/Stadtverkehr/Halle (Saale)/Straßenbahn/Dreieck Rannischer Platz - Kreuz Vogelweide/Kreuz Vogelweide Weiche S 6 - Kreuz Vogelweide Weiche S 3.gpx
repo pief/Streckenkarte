@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = 0 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Vogelweide Weiche S 6 - Kreuz Vogelweide Weiche S 3</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/51.45697/11.97203/standard&amp;lonlats=11.972026,51.457012;11.97203,51.457004&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.457012" lon="11.972026"><ele>112</ele></trkpt>
+   <trkpt lat="51.457011" lon="11.972027"><ele>112</ele></trkpt>
+   <trkpt lat="51.457003" lon="11.972029"><ele>112</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
