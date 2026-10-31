@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 1 plain-ascend = 1 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Südstadt Veszpremer Straße Weiche AW 2-nach-Südost - Südstadt Veszpremer Straße (Steig B)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.44898/11.95976/standard&amp;lonlats=11.958852,51.449029;11.959782,51.448961&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.449027" lon="11.958851"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.44901" lon="11.959075"><ele>107</ele></trkpt>
+   <trkpt lat="51.44897" lon="11.959578"><ele>107</ele></trkpt>
+   <trkpt lat="51.44896" lon="11.959781"><ele>107.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
