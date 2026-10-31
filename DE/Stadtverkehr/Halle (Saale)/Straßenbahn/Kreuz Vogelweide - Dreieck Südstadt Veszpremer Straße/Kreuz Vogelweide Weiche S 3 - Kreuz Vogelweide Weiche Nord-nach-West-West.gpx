@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45 filtered ascend = 0 plain-ascend = 0 cost=90 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Vogelweide Weiche S 3 - Kreuz Vogelweide Weiche Nord-nach-West-West</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.45675/11.97206/standard&amp;lonlats=11.972029,51.457003;11.971628,51.45674&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.457003" lon="11.972029"><ele>112</ele></trkpt>
+   <trkpt lat="51.457011" lon="11.972027"><ele>112</ele></trkpt>
+   <trkpt lat="51.456988" lon="11.972025"><ele>112</ele></trkpt>
+   <trkpt lat="51.45694" lon="11.972009"><ele>112</ele></trkpt>
+   <trkpt lat="51.456904" lon="11.971984"><ele>112</ele></trkpt>
+   <trkpt lat="51.456858" lon="11.971944"><ele>112</ele></trkpt>
+   <trkpt lat="51.456802" lon="11.971864"><ele>112</ele></trkpt>
+   <trkpt lat="51.456763" lon="11.971761"><ele>112</ele></trkpt>
+   <trkpt lat="51.456746" lon="11.971667"><ele>112</ele></trkpt>
+   <trkpt lat="51.45674" lon="11.971633"><ele>112</ele></trkpt>
+   <trkpt lat="51.45674" lon="11.971628"><ele>112.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
