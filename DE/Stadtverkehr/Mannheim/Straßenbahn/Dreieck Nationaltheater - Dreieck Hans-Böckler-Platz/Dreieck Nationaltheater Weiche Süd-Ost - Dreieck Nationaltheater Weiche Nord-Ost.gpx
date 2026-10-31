@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 214 filtered ascend = 0 plain-ascend = 0 cost=430 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Nationaltheater Weiche Süd-Ost - Dreieck Nationaltheater Weiche Nord-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.48779/8.47668/standard&amp;lonlats=8.475828,49.486191;8.476153,49.488093&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.48619" lon="8.475827"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.486196" lon="8.47583"><ele>96.25</ele></trkpt>
+   <trkpt lat="49.486282" lon="8.475851"><ele>95.75</ele></trkpt>
+   <trkpt lat="49.486382" lon="8.475863"><ele>95</ele></trkpt>
+   <trkpt lat="49.486506" lon="8.475886"><ele>95</ele></trkpt>
+   <trkpt lat="49.486798" lon="8.475955"><ele>95</ele></trkpt>
+   <trkpt lat="49.487092" lon="8.476003"><ele>95</ele></trkpt>
+   <trkpt lat="49.487382" lon="8.476038"><ele>95</ele></trkpt>
+   <trkpt lat="49.487511" lon="8.476071"><ele>95</ele></trkpt>
+   <trkpt lat="49.487672" lon="8.476124"><ele>95</ele></trkpt>
+   <trkpt lat="49.487812" lon="8.476147"><ele>95</ele></trkpt>
+   <trkpt lat="49.487964" lon="8.476151"><ele>95</ele></trkpt>
+   <trkpt lat="49.488093" lon="8.476153"><ele>95</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
