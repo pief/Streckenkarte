@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 471 filtered ascend = 0 plain-ascend = -5 cost=942 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Südstadt Veszpremer Straße Weiche AW 1-nach-Nordwest - S-Bahnhof Südstadt (Steig A)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/51.44992/11.95104/standard&amp;lonlats=11.956944,51.449129;11.950235,51.449701&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.449129" lon="11.956944"><ele>104.75</ele></trkpt>
+   <trkpt lat="51.449194" lon="11.955972"><ele>104.25</ele></trkpt>
+   <trkpt lat="51.449197" lon="11.95592"><ele>104.25</ele></trkpt>
+   <trkpt lat="51.449434" lon="11.953104"><ele>102</ele></trkpt>
+   <trkpt lat="51.449528" lon="11.952"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.449643" lon="11.950848"><ele>101</ele></trkpt>
+   <trkpt lat="51.449701" lon="11.950235"><ele>99.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
