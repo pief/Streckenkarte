@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 115 filtered ascend = 0 plain-ascend = 0 cost=115 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Mercedesstraße (Steig Nordwest) - Dreieck Rosensteinsteg Weiche 0186</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.79933/9.21053/standard&amp;lonlats=9.211234,48.799807;9.209971,48.799208&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.799809" lon="9.211232"><ele>221.5</ele></trkpt>
+   <trkpt lat="48.799791" lon="9.211188"><ele>221.5</ele></trkpt>
+   <trkpt lat="48.799676" lon="9.210917"><ele>221.5</ele></trkpt>
+   <trkpt lat="48.799484" lon="9.210513"><ele>221.5</ele></trkpt>
+   <trkpt lat="48.799214" lon="9.209985"><ele>221.5</ele></trkpt>
+   <trkpt lat="48.799207" lon="9.209971"><ele>221.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

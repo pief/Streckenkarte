@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 257 filtered ascend = 1 plain-ascend = 1 cost=257 energy=0.0kwh time=21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Metzstraße (Steig Nordwest) - Üst Rieckestraße Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.79032/9.19818/standard&amp;lonlats=9.200234,48.79206;9.197603,48.790546&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.792062" lon="9.200229"><ele>233.75</ele></trkpt>
+   <trkpt lat="48.791912" lon="9.19997"><ele>233.75</ele></trkpt>
+   <trkpt lat="48.79182" lon="9.199804"><ele>233.5</ele></trkpt>
+   <trkpt lat="48.790813" lon="9.19807"><ele>234</ele></trkpt>
+   <trkpt lat="48.790543" lon="9.19761"><ele>234.25</ele></trkpt>
+   <trkpt lat="48.790541" lon="9.197608"><ele>235</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

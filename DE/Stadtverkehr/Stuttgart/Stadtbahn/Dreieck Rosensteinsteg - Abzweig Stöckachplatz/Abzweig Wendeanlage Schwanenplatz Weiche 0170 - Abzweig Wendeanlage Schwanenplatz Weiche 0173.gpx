@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 1 plain-ascend = 1 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeanlage Schwanenplatz Weiche 0170 - Abzweig Wendeanlage Schwanenplatz Weiche 0173</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.79738/9.20765/standard&amp;lonlats=9.208892,48.798608;9.206885,48.797578;9.20671,48.797493&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.798607" lon="9.208892"><ele>223.75</ele></trkpt>
+   <trkpt lat="48.798606" lon="9.208891"><ele>223.75</ele></trkpt>
+   <trkpt lat="48.798195" lon="9.208125"><ele>223.5</ele></trkpt>
+   <trkpt lat="48.798024" lon="9.207796"><ele>223.75</ele></trkpt>
+   <trkpt lat="48.79786" lon="9.207457"><ele>224</ele></trkpt>
+   <trkpt lat="48.797577" lon="9.206884"><ele>224.75</ele></trkpt>
+   <trkpt lat="48.797492" lon="9.206713"><ele>224.75</ele></trkpt>
+   <trkpt lat="48.797491" lon="9.20671"><ele>224.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
