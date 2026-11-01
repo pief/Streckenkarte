@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 231 filtered ascend = 10 plain-ascend = 10 cost=232 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Charlottenplatz Weiche 0548 - Olgaeck (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.77392/9.18620/standard&amp;lonlats=9.183972,48.775153;9.186395,48.773849&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.775153" lon="9.183972"><ele>250.25</ele></trkpt>
+   <trkpt lat="48.775071" lon="9.184147"><ele>250.75</ele></trkpt>
+   <trkpt lat="48.774654" lon="9.185038"><ele>253.25</ele></trkpt>
+   <trkpt lat="48.774548" lon="9.185236"><ele>254.25</ele></trkpt>
+   <trkpt lat="48.774518" lon="9.18528"><ele>254.5</ele></trkpt>
+   <trkpt lat="48.774424" lon="9.185428"><ele>255.5</ele></trkpt>
+   <trkpt lat="48.774315" lon="9.185596"><ele>256</ele></trkpt>
+   <trkpt lat="48.774039" lon="9.186057"><ele>257.25</ele></trkpt>
+   <trkpt lat="48.77385" lon="9.186396"><ele>260.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

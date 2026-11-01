@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 120 filtered ascend = 0 plain-ascend = 0 cost=120 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Charlottenplatz Weiche 0549 - Charlottenplatz (Gleis 4)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.77546/9.18193/standard&amp;lonlats=9.183694,48.775319;9.182699,48.77615&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.775317" lon="9.183693"><ele>250</ele></trkpt>
+   <trkpt lat="48.775351" lon="9.183623"><ele>250</ele></trkpt>
+   <trkpt lat="48.775558" lon="9.183272"/>
+   <trkpt lat="48.775829" lon="9.183012"/>
+   <trkpt lat="48.775911" lon="9.182935"/>
+   <trkpt lat="48.776149" lon="9.182697"/>
+  </trkseg>
+ </trk>
+</gpx>

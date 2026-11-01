@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 85 filtered ascend = 0 plain-ascend = -4 cost=85 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Olgaeck Weiche 0547 - Olgaeck (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.77408/9.18601/standard&amp;lonlats=9.186699,48.773721;9.185831,48.774229&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.77372" lon="9.186698"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.773737" lon="9.186671"><ele>260.5</ele></trkpt>
+   <trkpt lat="48.774067" lon="9.186088"><ele>257.25</ele></trkpt>
+   <trkpt lat="48.774224" lon="9.185825"><ele>256</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
