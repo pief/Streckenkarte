@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 317 filtered ascend = 8 plain-ascend = 9 cost=318 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Peregrinastraße (Steig Südost) - Abzweig Wendegleis Degerloch Albstraße Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.74572/9.16211/standard&amp;lonlats=9.159085,48.743763;9.162286,48.745678&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.743763" lon="9.159083"><ele>448.75</ele></trkpt>
+   <trkpt lat="48.743864" lon="9.159264"><ele>449.25</ele></trkpt>
+   <trkpt lat="48.744008" lon="9.159529"><ele>450</ele></trkpt>
+   <trkpt lat="48.744353" lon="9.160152"><ele>452</ele></trkpt>
+   <trkpt lat="48.744792" lon="9.160944"><ele>454.75</ele></trkpt>
+   <trkpt lat="48.745143" lon="9.161512"><ele>454.75</ele></trkpt>
+   <trkpt lat="48.745564" lon="9.162126"><ele>457</ele></trkpt>
+   <trkpt lat="48.745676" lon="9.162288"><ele>457.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

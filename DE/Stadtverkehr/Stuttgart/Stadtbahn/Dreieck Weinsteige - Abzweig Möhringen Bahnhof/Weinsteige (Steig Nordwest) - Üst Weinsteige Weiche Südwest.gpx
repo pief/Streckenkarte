@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 80 filtered ascend = 0 plain-ascend = 0 cost=80 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Weinsteige (Steig Nordwest) - Üst Weinsteige Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.75418/9.17430/standard&amp;lonlats=9.174628,48.754803;9.174303,48.754121&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.754801" lon="9.174628"><ele>436</ele></trkpt>
+   <trkpt lat="48.754784" lon="9.174619"><ele>436.25</ele></trkpt>
+   <trkpt lat="48.754219" lon="9.174344"/>
+   <trkpt lat="48.754122" lon="9.174305"/>
+   <trkpt lat="48.754119" lon="9.174304"/>
+  </trkseg>
+ </trk>
+</gpx>

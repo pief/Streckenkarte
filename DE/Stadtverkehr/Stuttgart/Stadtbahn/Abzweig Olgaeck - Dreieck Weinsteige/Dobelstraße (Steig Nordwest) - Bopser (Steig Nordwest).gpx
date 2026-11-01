@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 18 plain-ascend = 19 cost=256 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dobelstraße (Steig Nordwest) - Bopser (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/48.76776/9.18536/standard&amp;lonlats=9.185669,48.769503;9.183432,48.767743&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.769501" lon="9.18567"><ele>295.5</ele></trkpt>
+   <trkpt lat="48.76939" lon="9.185528"><ele>296.25</ele></trkpt>
+   <trkpt lat="48.769068" lon="9.185083"><ele>301.5</ele></trkpt>
+   <trkpt lat="48.768667" lon="9.184579"><ele>306.75</ele></trkpt>
+   <trkpt lat="48.768455" lon="9.184337"><ele>307.25</ele></trkpt>
+   <trkpt lat="48.768302" lon="9.184145"><ele>308</ele></trkpt>
+   <trkpt lat="48.767964" lon="9.18371"><ele>311.75</ele></trkpt>
+   <trkpt lat="48.767742" lon="9.183431"><ele>314</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

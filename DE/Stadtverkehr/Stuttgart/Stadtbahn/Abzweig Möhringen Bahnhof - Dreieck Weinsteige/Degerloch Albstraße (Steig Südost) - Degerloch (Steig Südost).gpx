@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 442 filtered ascend = 3 plain-ascend = 4 cost=442 energy=0.0kwh time=35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Degerloch Albstraße (Steig Südost) - Degerloch (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.74876/9.16866/standard&amp;lonlats=9.163663,48.746555;9.168639,48.748732&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.746557" lon="9.163658"><ele>459.25</ele></trkpt>
+   <trkpt lat="48.747384" lon="9.165097"><ele>461.5</ele></trkpt>
+   <trkpt lat="48.747535" lon="9.165402"><ele>462</ele></trkpt>
+   <trkpt lat="48.747636" lon="9.165658"><ele>462.75</ele></trkpt>
+   <trkpt lat="48.748023" lon="9.166946"/>
+   <trkpt lat="48.748059" lon="9.167066"/>
+   <trkpt lat="48.748564" lon="9.168266"/>
+   <trkpt lat="48.74873" lon="9.168639"/>
+  </trkseg>
+ </trk>
+</gpx>
