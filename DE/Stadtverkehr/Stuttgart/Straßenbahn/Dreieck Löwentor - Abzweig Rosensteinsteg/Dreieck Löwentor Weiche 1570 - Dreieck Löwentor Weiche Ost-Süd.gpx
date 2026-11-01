@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 57 filtered ascend = 0 plain-ascend = -1 cost=101 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Löwentor Weiche 1570 - Dreieck Löwentor Weiche Ost-Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.80731/9.18975/standard&amp;lonlats=9.189189,48.8072;9.189359,48.807475;9.189623,48.807479&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.8072" lon="9.18919"><ele>274.5</ele></trkpt>
+   <trkpt lat="48.807202" lon="9.18919"><ele>274.75</ele></trkpt>
+   <trkpt lat="48.807304" lon="9.189193"><ele>274.75</ele></trkpt>
+   <trkpt lat="48.807388" lon="9.18923"><ele>274.75</ele></trkpt>
+   <trkpt lat="48.80741" lon="9.18925"><ele>274.5</ele></trkpt>
+   <trkpt lat="48.807423" lon="9.189268"><ele>274.5</ele></trkpt>
+   <trkpt lat="48.807437" lon="9.189286"><ele>274.5</ele></trkpt>
+   <trkpt lat="48.807455" lon="9.189317"><ele>274.25</ele></trkpt>
+   <trkpt lat="48.80747" lon="9.189361"><ele>274</ele></trkpt>
+   <trkpt lat="48.807482" lon="9.189396"><ele>274</ele></trkpt>
+   <trkpt lat="48.807491" lon="9.189502"><ele>273.75</ele></trkpt>
+   <trkpt lat="48.807478" lon="9.189618"><ele>273.75</ele></trkpt>
+   <trkpt lat="48.807477" lon="9.189622"><ele>272.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

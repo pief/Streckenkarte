@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 14 filtered ascend = 0 plain-ascend = 0 cost=28 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Straßenbahnmuseum Weiche 3580 - Straßenbahnmuseum</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.79927/9.21741/standard&amp;lonlats=9.217501,48.798984;9.217617,48.799076&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.798983" lon="9.217501"><ele>219</ele></trkpt>
+   <trkpt lat="48.799074" lon="9.217615"><ele>219</ele></trkpt>
+   <trkpt lat="48.799075" lon="9.217616"><ele>219</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
