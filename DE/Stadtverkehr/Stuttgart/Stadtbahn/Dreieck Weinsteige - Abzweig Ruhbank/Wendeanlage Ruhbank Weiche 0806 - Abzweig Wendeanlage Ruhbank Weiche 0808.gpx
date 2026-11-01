@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=47 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wendeanlage Ruhbank Weiche 0806 - Abzweig Wendeanlage Ruhbank Weiche 0808</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.75337/9.19368/standard&amp;lonlats=9.19354,48.753164;9.194154,48.753258&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.753158" lon="9.193543"><ele>475</ele></trkpt>
+   <trkpt lat="48.753256" lon="9.194146"><ele>475</ele></trkpt>
+   <trkpt lat="48.753256" lon="9.194153"><ele>475</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

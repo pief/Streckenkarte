@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 53 filtered ascend = 0 plain-ascend = 0 cost=53 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Ruhbank (unten) (Steig Nord) - Abzweig Wendeanlage Ruhbank Weiche 0808</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.75334/9.19474/standard&amp;lonlats=9.194872,48.753278;9.194154,48.753258&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.75328" lon="9.194872"><ele>474.75</ele></trkpt>
+   <trkpt lat="48.753285" lon="9.19478"><ele>474.75</ele></trkpt>
+   <trkpt lat="48.753288" lon="9.194669"><ele>475</ele></trkpt>
+   <trkpt lat="48.753256" lon="9.194153"><ele>475</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
