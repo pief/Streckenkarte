@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 165 filtered ascend = 0 plain-ascend = -2 cost=166 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Erwin-Schoettle-Platz (Steig Südost) - Üst Adlerstraße Weiche Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.76355/9.16295/standard&amp;lonlats=9.160675,48.763022;9.162798,48.76345&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.763023" lon="9.160674"><ele>269</ele></trkpt>
+   <trkpt lat="48.763079" lon="9.160882"><ele>268.75</ele></trkpt>
+   <trkpt lat="48.76311" lon="9.161003"><ele>268.75</ele></trkpt>
+   <trkpt lat="48.763172" lon="9.161305"><ele>268.5</ele></trkpt>
+   <trkpt lat="48.763449" lon="9.162796"><ele>266.75</ele></trkpt>
+   <trkpt lat="48.763449" lon="9.162797"><ele>266</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

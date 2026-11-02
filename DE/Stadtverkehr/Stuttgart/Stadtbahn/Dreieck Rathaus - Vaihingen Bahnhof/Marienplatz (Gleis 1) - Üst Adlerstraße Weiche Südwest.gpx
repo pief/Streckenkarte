@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 422 filtered ascend = 3 plain-ascend = 4 cost=422 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Marienplatz (Gleis 1) - Üst Adlerstraße Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/48.76282/9.16490/standard&amp;lonlats=9.167805,48.764229;9.162252,48.763383&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.76423" lon="9.167803"><ele>265</ele></trkpt>
+   <trkpt lat="48.764228" lon="9.167781"><ele>265</ele></trkpt>
+   <trkpt lat="48.764226" lon="9.167707"><ele>265</ele></trkpt>
+   <trkpt lat="48.764232" lon="9.167621"><ele>265</ele></trkpt>
+   <trkpt lat="48.764249" lon="9.167504"><ele>265</ele></trkpt>
+   <trkpt lat="48.764259" lon="9.167361"><ele>265</ele></trkpt>
+   <trkpt lat="48.764253" lon="9.167212"><ele>265</ele></trkpt>
+   <trkpt lat="48.763868" lon="9.16492"><ele>265</ele></trkpt>
+   <trkpt lat="48.763587" lon="9.163388"><ele>266</ele></trkpt>
+   <trkpt lat="48.763378" lon="9.162256"><ele>267</ele></trkpt>
+   <trkpt lat="48.763377" lon="9.162253"><ele>268.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
