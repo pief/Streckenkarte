@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = 1 cost=51 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Südheimer Platz (Steig Nordwest) - Üst Betriebshof Heslach Weiche 0125</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.75646/9.14315/standard&amp;lonlats=9.143323,48.756566;9.142707,48.756367&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.756565" lon="9.143322"><ele>299.75</ele></trkpt>
+   <trkpt lat="48.756534" lon="9.14321"><ele>300</ele></trkpt>
+   <trkpt lat="48.756514" lon="9.143147"><ele>300.25</ele></trkpt>
+   <trkpt lat="48.756366" lon="9.142711"><ele>300</ele></trkpt>
+   <trkpt lat="48.756364" lon="9.142708"><ele>300.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

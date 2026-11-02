@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 30 filtered ascend = 0 plain-ascend = 0 cost=30 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Üst Betriebshof Heslach Weiche 0119 - Heslach Vogelrain Weiche 0117</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.75451/9.13960/standard&amp;lonlats=9.139744,48.754856;9.139451,48.754671&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.754856" lon="9.139744"><ele>300</ele></trkpt>
+   <trkpt lat="48.754669" lon="9.139451"><ele>300</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

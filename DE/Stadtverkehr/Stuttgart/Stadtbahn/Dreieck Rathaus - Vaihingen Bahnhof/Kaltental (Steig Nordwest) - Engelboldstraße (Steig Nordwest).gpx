@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 341 filtered ascend = 12 plain-ascend = 13 cost=341 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kaltental (Steig Nordwest) - Engelboldstraße (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.73700/9.12830/standard&amp;lonlats=9.129812,48.739527;9.127729,48.736791&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.739528" lon="9.129805"><ele>346.75</ele></trkpt>
+   <trkpt lat="48.739513" lon="9.12979"><ele>347</ele></trkpt>
+   <trkpt lat="48.738952" lon="9.129242"><ele>350.75</ele></trkpt>
+   <trkpt lat="48.737923" lon="9.12831"><ele>352</ele></trkpt>
+   <trkpt lat="48.737709" lon="9.128173"><ele>356</ele></trkpt>
+   <trkpt lat="48.737508" lon="9.12808"><ele>358.75</ele></trkpt>
+   <trkpt lat="48.737374" lon="9.128027"><ele>359</ele></trkpt>
+   <trkpt lat="48.737275" lon="9.127985"><ele>359</ele></trkpt>
+   <trkpt lat="48.73709" lon="9.127911"><ele>359</ele></trkpt>
+   <trkpt lat="48.736917" lon="9.12782"><ele>358.75</ele></trkpt>
+   <trkpt lat="48.73679" lon="9.12773"><ele>359.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 31 filtered ascend = 0 plain-ascend = 0 cost=31 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Vaihingen Bahnhof (Gleis 13) - Vaihingen Bahnhof Weiche 3118</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.72669/9.11299/standard&amp;lonlats=9.112179,48.726534;9.112489,48.72673&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.726533" lon="9.112178"><ele>435</ele></trkpt>
+   <trkpt lat="48.726594" lon="9.112277"><ele>435</ele></trkpt>
+   <trkpt lat="48.72668" lon="9.112424"><ele>435</ele></trkpt>
+   <trkpt lat="48.726725" lon="9.112494"><ele>435</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
