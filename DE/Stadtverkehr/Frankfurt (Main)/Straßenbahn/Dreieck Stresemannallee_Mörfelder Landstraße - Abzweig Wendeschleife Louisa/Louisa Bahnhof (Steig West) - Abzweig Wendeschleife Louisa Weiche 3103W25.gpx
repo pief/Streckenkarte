@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 175 filtered ascend = 1 plain-ascend = 1 cost=350 energy=0.0kwh time=14s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Louisa Bahnhof (Steig West) - Abzweig Wendeschleife Louisa Weiche 3103W25</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.08296/8.67077/standard&amp;lonlats=8.67088,50.083795;8.670733,50.082225&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.083793" lon="8.67088"><ele>104</ele></trkpt>
+   <trkpt lat="50.083435" lon="8.670866"><ele>104</ele></trkpt>
+   <trkpt lat="50.082224" lon="8.670736"><ele>105</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
