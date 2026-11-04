@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 130 filtered ascend = 1 plain-ascend = 2 cost=130 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>4751 Rudersberg-Oberndorf - Rudersberg-Oberndorf Weiche 1</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.89158/9.54415/standard&amp;lonlats=9.542647,48.891318;9.544294,48.891757&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.891317" lon="9.542646"><ele>286.5</ele></trkpt>
+   <trkpt lat="48.891335" lon="9.542713"><ele>286.75</ele></trkpt>
+   <trkpt lat="48.891386" lon="9.542904"><ele>286.75</ele></trkpt>
+   <trkpt lat="48.891442" lon="9.54312"><ele>287</ele></trkpt>
+   <trkpt lat="48.891456" lon="9.543172"><ele>287</ele></trkpt>
+   <trkpt lat="48.891606" lon="9.543733"><ele>287.75</ele></trkpt>
+   <trkpt lat="48.891754" lon="9.544293"><ele>288.25</ele></trkpt>
+   <trkpt lat="48.891754" lon="9.544294"><ele>288.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
