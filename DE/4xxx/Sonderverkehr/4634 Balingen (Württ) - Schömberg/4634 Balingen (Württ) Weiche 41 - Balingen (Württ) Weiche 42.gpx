@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 4 plain-ascend = 4 cost=68 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>4634 Balingen (Württ) Weiche 41 - Balingen (Württ) Weiche 42</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.27361/8.84881/standard&amp;lonlats=8.848596,48.273589;8.848264,48.273029&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.273585" lon="8.848604"><ele>522.75</ele></trkpt>
+   <trkpt lat="48.273425" lon="8.848512"><ele>523</ele></trkpt>
+   <trkpt lat="48.273248" lon="8.848386"><ele>523.25</ele></trkpt>
+   <trkpt lat="48.273031" lon="8.848267"><ele>523.25</ele></trkpt>
+   <trkpt lat="48.273027" lon="8.848265"><ele>526.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
