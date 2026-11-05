@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 89 filtered ascend = 0 plain-ascend = 0 cost=90 energy=0.0kwh time=7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>2700 Wuppertal-Rauenthal Weiche 716 - Wuppertal-Rauenthal Weiche 717</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/51.26625/7.23473/standard&amp;lonlats=7.235083,51.266731;7.234306,51.266112&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.26673" lon="7.235084"><ele>168.5</ele></trkpt>
+   <trkpt lat="51.266527" lon="7.234822"><ele>168.5</ele></trkpt>
+   <trkpt lat="51.266255" lon="7.2345"><ele>168.5</ele></trkpt>
+   <trkpt lat="51.266113" lon="7.234311"><ele>168.5</ele></trkpt>
+   <trkpt lat="51.26611" lon="7.234307"><ele>168.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
