@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 152 filtered ascend = 1 plain-ascend = 1 cost=152 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Vlečka 3145 Kohleverladung Weiche 901 - Kohleverladung (Südlichstes Gleis)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/50.22956/12.69639/standard&amp;lonlats=12.695501,50.229681;12.693411,50.2295&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.22968" lon="12.6955"><ele>459</ele></trkpt>
+   <trkpt lat="50.229681" lon="12.695502"><ele>459.25</ele></trkpt>
+   <trkpt lat="50.229662" lon="12.695335"><ele>459.25</ele></trkpt>
+   <trkpt lat="50.229596" lon="12.694938"><ele>458.5</ele></trkpt>
+   <trkpt lat="50.22955" lon="12.694525"><ele>458.5</ele></trkpt>
+   <trkpt lat="50.229492" lon="12.69341"><ele>460</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

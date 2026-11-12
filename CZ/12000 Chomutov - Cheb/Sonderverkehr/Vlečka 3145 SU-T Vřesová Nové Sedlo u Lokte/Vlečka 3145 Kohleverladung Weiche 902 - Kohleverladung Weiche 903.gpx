@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 37 filtered ascend = 0 plain-ascend = 0 cost=38 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Vlečka 3145 Kohleverladung Weiche 902 - Kohleverladung Weiche 903</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.22979/12.69746/standard&amp;lonlats=12.696781,50.229836;12.69728,50.229874&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.229834" lon="12.69678"><ele>458.75</ele></trkpt>
+   <trkpt lat="50.229835" lon="12.696782"><ele>458.75</ele></trkpt>
+   <trkpt lat="50.229874" lon="12.697279"><ele>458</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
