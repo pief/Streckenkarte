@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 106 filtered ascend = 2 plain-ascend = 2 cost=106 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Vlečka 3145 Anschluss Depot Weiche 102 - Anschluss Depot Weiche 103</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.23390/12.70381/standard&amp;lonlats=12.704192,50.233989;12.703057,50.233403&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.233986" lon="12.704193"><ele>458</ele></trkpt>
+   <trkpt lat="50.233989" lon="12.704199"><ele>458.25</ele></trkpt>
+   <trkpt lat="50.23381" lon="12.703903"><ele>458.5</ele></trkpt>
+   <trkpt lat="50.233671" lon="12.703652"><ele>459.25</ele></trkpt>
+   <trkpt lat="50.233431" lon="12.703131"><ele>460</ele></trkpt>
+   <trkpt lat="50.233399" lon="12.703059"><ele>460</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
