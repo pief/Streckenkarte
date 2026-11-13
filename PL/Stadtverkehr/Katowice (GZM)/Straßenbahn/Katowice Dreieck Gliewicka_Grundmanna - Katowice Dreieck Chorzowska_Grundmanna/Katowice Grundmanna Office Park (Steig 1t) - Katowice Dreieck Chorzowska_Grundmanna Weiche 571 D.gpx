@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = -2 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Katowice Grundmanna Office Park (Steig 1t) - Katowice Dreieck Chorzowska/Grundmanna Weiche 571 D</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.26720/19.01141/standard&amp;lonlats=19.011026,50.266868;19.011281,50.267321">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.266867" lon="19.011025"><ele>268</ele></trkpt>
+   <trkpt lat="50.266943" lon="19.011069"><ele>268</ele></trkpt>
+   <trkpt lat="50.267011" lon="19.011107"><ele>267</ele></trkpt>
+   <trkpt lat="50.267051" lon="19.01113"><ele>266.25</ele></trkpt>
+   <trkpt lat="50.267119" lon="19.011169"><ele>265</ele></trkpt>
+   <trkpt lat="50.26732" lon="19.01128"><ele>265</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
