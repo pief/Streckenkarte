@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 0 plain-ascend = 0 cost=1024 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Park Wilsona (Steig Südost) - Dreieck Zachodni Weiche Südwest-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.40060/16.90744/standard&amp;lonlats=16.90203,52.397123;16.90687,52.400578">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.397122" lon="16.902027"><ele>80</ele></trkpt>
+   <trkpt lat="52.397202" lon="16.902114"><ele>80</ele></trkpt>
+   <trkpt lat="52.397283" lon="16.902202"><ele>80</ele></trkpt>
+   <trkpt lat="52.397303" lon="16.902225"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.397947" lon="16.902936"><ele>79</ele></trkpt>
+   <trkpt lat="52.398077" lon="16.903081"><ele>79</ele></trkpt>
+   <trkpt lat="52.398669" lon="16.903743"><ele>79</ele></trkpt>
+   <trkpt lat="52.398821" lon="16.90394"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.399012" lon="16.904204"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.399123" lon="16.904372"><ele>79.75</ele></trkpt>
+   <trkpt lat="52.399264" lon="16.904599"><ele>80</ele></trkpt>
+   <trkpt lat="52.399473" lon="16.90496"><ele>80</ele></trkpt>
+   <trkpt lat="52.39957" lon="16.905127"><ele>80</ele></trkpt>
+   <trkpt lat="52.400576" lon="16.90687"><ele>79</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
