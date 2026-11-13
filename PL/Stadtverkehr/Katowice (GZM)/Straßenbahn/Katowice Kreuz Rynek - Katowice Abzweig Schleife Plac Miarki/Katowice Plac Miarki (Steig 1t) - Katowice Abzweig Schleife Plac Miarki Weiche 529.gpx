@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Katowice Plac Miarki (Steig 1t) - Katowice Abzweig Schleife Plac Miarki Weiche 529</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/50.25468/19.01776/standard&amp;lonlats=19.017771,50.254759;19.017725,50.25471&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.254758" lon="19.01777"><ele>276</ele></trkpt>
+   <trkpt lat="50.254709" lon="19.017725"><ele>276</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
