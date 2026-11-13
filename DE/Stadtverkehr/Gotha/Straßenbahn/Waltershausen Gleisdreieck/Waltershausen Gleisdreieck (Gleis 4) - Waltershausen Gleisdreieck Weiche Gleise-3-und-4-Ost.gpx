@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 55 filtered ascend = 0 plain-ascend = 0 cost=110 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Waltershausen Gleisdreieck (Gleis 4) - Waltershausen Gleisdreieck Weiche Gleise-3-und-4-Ost</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.88994/10.57831/standard&amp;lonlats=10.578058,50.889984;10.578831,50.890039&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.889984" lon="10.578056"><ele>340</ele></trkpt>
+   <trkpt lat="50.889988" lon="10.578172"><ele>340</ele></trkpt>
+   <trkpt lat="50.890039" lon="10.578825"><ele>340</ele></trkpt>
+   <trkpt lat="50.890039" lon="10.578829"><ele>340.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
