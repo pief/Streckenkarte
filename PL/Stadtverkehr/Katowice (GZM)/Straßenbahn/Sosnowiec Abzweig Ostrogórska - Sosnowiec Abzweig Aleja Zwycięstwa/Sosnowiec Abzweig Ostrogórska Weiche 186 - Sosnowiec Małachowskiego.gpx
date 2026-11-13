@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 279 filtered ascend = 0 plain-ascend = -2 cost=558 energy=0.0kwh time=22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sosnowiec Abzweig Ostrogórska Weiche 186 - Sosnowiec Małachowskiego</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.27563/19.13300/standard&amp;lonlats=19.134567,50.273715;19.132543,50.275852&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.273716" lon="19.134571"><ele>256.5</ele></trkpt>
+   <trkpt lat="50.274239" lon="19.134298"><ele>256.25</ele></trkpt>
+   <trkpt lat="50.274282" lon="19.134267"><ele>256.25</ele></trkpt>
+   <trkpt lat="50.274332" lon="19.134227"><ele>256.25</ele></trkpt>
+   <trkpt lat="50.274415" lon="19.134137"><ele>256</ele></trkpt>
+   <trkpt lat="50.274722" lon="19.133826"><ele>256</ele></trkpt>
+   <trkpt lat="50.27476" lon="19.133785"><ele>255.75</ele></trkpt>
+   <trkpt lat="50.275148" lon="19.133346"><ele>254.75</ele></trkpt>
+   <trkpt lat="50.275822" lon="19.132573"><ele>254</ele></trkpt>
+   <trkpt lat="50.27585" lon="19.13254"><ele>253.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
