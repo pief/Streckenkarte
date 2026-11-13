@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 76 filtered ascend = 0 plain-ascend = 0 cost=152 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeschleife Florenc Weiche Nord - Abzweig Wendeschleife Florenc Weiche West</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.09080/14.43727/standard&amp;lonlats=14.437444,50.091237;14.436744,50.090885&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.091237" lon="14.437442"><ele>189.75</ele></trkpt>
+   <trkpt lat="50.09116" lon="14.43693"><ele>188.75</ele></trkpt>
+   <trkpt lat="50.091141" lon="14.43685"><ele>188.5</ele></trkpt>
+   <trkpt lat="50.091113" lon="14.436787"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.091078" lon="14.436747"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.091015" lon="14.43671"><ele>188.25</ele></trkpt>
+   <trkpt lat="50.090969" lon="14.436706"><ele>188.5</ele></trkpt>
+   <trkpt lat="50.09089" lon="14.436741"><ele>188.75</ele></trkpt>
+   <trkpt lat="50.090885" lon="14.436744"><ele>188.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
