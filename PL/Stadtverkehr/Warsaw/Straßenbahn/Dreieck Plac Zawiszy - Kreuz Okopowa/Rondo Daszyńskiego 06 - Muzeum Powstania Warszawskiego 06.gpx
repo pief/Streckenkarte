@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 380 filtered ascend = 0 plain-ascend = -1 cost=760 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Rondo Daszyńskiego 06 - Muzeum Powstania Warszawskiego 06</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.23312/20.98301/standard&amp;lonlats=20.984838,52.229896;20.982324,52.232958&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.229896" lon="20.984839"><ele>112</ele></trkpt>
+   <trkpt lat="52.22995" lon="20.984794"><ele>112</ele></trkpt>
+   <trkpt lat="52.229981" lon="20.984769"><ele>112</ele></trkpt>
+   <trkpt lat="52.230077" lon="20.984681"><ele>111.75</ele></trkpt>
+   <trkpt lat="52.230311" lon="20.984479"><ele>111</ele></trkpt>
+   <trkpt lat="52.230336" lon="20.984458"><ele>111</ele></trkpt>
+   <trkpt lat="52.230583" lon="20.984245"><ele>111</ele></trkpt>
+   <trkpt lat="52.230704" lon="20.984133"><ele>111</ele></trkpt>
+   <trkpt lat="52.230736" lon="20.984103"><ele>111</ele></trkpt>
+   <trkpt lat="52.23088" lon="20.983979"><ele>111</ele></trkpt>
+   <trkpt lat="52.231588" lon="20.983362"><ele>110.25</ele></trkpt>
+   <trkpt lat="52.232072" lon="20.982952"><ele>110</ele></trkpt>
+   <trkpt lat="52.232513" lon="20.982624"><ele>110</ele></trkpt>
+   <trkpt lat="52.232927" lon="20.982362"><ele>110</ele></trkpt>
+   <trkpt lat="52.232961" lon="20.982341"><ele>110</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

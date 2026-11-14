@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 506 filtered ascend = 0 plain-ascend = 0 cost=1012 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Niska 04 - Powązkowska 03</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.24994/20.97982/standard&amp;lonlats=20.97917,52.248616;20.981169,52.25299&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.248611" lon="20.979195"><ele>105</ele></trkpt>
+   <trkpt lat="52.248623" lon="20.979199"><ele>105</ele></trkpt>
+   <trkpt lat="52.24871" lon="20.979225"><ele>105</ele></trkpt>
+   <trkpt lat="52.249561" lon="20.979513"><ele>103.75</ele></trkpt>
+   <trkpt lat="52.250185" lon="20.979808"><ele>104</ele></trkpt>
+   <trkpt lat="52.250349" lon="20.979888"><ele>104</ele></trkpt>
+   <trkpt lat="52.250382" lon="20.979904"><ele>104</ele></trkpt>
+   <trkpt lat="52.252979" lon="20.981168"><ele>104</ele></trkpt>
+   <trkpt lat="52.252989" lon="20.981173"><ele>104</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
