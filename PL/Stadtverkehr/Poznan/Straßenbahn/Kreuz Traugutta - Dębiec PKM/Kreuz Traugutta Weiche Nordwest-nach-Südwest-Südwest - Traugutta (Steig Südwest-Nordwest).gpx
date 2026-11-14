@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 41 filtered ascend = 0 plain-ascend = 1 cost=82 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Traugutta Weiche Nordwest-nach-Südwest-Südwest - Traugutta (Steig Südwest-Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.38495/16.91475/standard&amp;lonlats=16.914273,52.384876;16.913987,52.384561">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.384875" lon="16.914272"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.384835" lon="16.914236"><ele>75.25</ele></trkpt>
+   <trkpt lat="52.384814" lon="16.914216"><ele>75.5</ele></trkpt>
+   <trkpt lat="52.384567" lon="16.913986"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.384562" lon="16.913981"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

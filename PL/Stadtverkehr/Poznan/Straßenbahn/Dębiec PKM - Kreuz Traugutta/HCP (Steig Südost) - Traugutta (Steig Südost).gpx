@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 406 filtered ascend = 0 plain-ascend = 0 cost=812 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>HCP (Steig Südost) - Traugutta (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.38466/16.91419/standard&amp;lonlats=16.911301,52.381553;16.914199,52.384749">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.381551" lon="16.911301"><ele>76.5</ele></trkpt>
+   <trkpt lat="52.381738" lon="16.911471"><ele>77</ele></trkpt>
+   <trkpt lat="52.381836" lon="16.91156"><ele>77</ele></trkpt>
+   <trkpt lat="52.383627" lon="16.913183"><ele>76</ele></trkpt>
+   <trkpt lat="52.384288" lon="16.91378"><ele>76</ele></trkpt>
+   <trkpt lat="52.384737" lon="16.914196"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.384746" lon="16.914204"><ele>75.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

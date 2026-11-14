@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 300 filtered ascend = 1 plain-ascend = 1 cost=600 energy=0.0kwh time=24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Traugutta (Steig Südwest-Nordwest) - HCP (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.38205/16.91196/standard&amp;lonlats=16.913987,52.384561;16.911852,52.382209">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.384562" lon="16.913981"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.384301" lon="16.913742"><ele>76</ele></trkpt>
+   <trkpt lat="52.383725" lon="16.91322"><ele>76</ele></trkpt>
+   <trkpt lat="52.383656" lon="16.913158"><ele>76</ele></trkpt>
+   <trkpt lat="52.383072" lon="16.912629"><ele>76</ele></trkpt>
+   <trkpt lat="52.382884" lon="16.912459"><ele>76</ele></trkpt>
+   <trkpt lat="52.382479" lon="16.912093"><ele>76.25</ele></trkpt>
+   <trkpt lat="52.3823" lon="16.91193"><ele>77</ele></trkpt>
+   <trkpt lat="52.382209" lon="16.911848"><ele>77</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

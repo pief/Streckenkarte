@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 539 filtered ascend = 0 plain-ascend = 0 cost=1078 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wspólna (Steig Südost) - HCP (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.38185/16.91204/standard&amp;lonlats=16.907358,52.377355;16.911301,52.381553">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.377355" lon="16.907354"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.377503" lon="16.907494"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.377593" lon="16.907579"><ele>77</ele></trkpt>
+   <trkpt lat="52.378377" lon="16.90833"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.379076" lon="16.909001"><ele>77.25</ele></trkpt>
+   <trkpt lat="52.380115" lon="16.90999"><ele>76.75</ele></trkpt>
+   <trkpt lat="52.380522" lon="16.910365"><ele>77</ele></trkpt>
+   <trkpt lat="52.381509" lon="16.911262"><ele>76.5</ele></trkpt>
+   <trkpt lat="52.381551" lon="16.911301"><ele>77</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
