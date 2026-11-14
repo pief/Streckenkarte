@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 63 filtered ascend = 0 plain-ascend = 1 cost=126 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Wierzbięcice Weiche Südost-Nord - Dreieck Wierzbięcice Weiche Nordwest-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.40168/16.92186/standard&amp;lonlats=16.922147,52.401568;16.921479,52.401704;16.921291,52.401742">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.401567" lon="16.922146"><ele>73</ele></trkpt>
+   <trkpt lat="52.401568" lon="16.922144"><ele>73</ele></trkpt>
+   <trkpt lat="52.401633" lon="16.921823"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.40167" lon="16.921643"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.401702" lon="16.921478"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.40174" lon="16.921291"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.40174" lon="16.92129"><ele>74</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

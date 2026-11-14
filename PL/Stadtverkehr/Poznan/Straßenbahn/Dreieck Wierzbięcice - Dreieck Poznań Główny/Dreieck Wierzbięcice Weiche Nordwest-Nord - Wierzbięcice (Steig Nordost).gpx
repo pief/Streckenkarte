@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = 0 cost=124 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Wierzbięcice Weiche Nordwest-Nord - Wierzbięcice (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.40188/16.92104/standard&amp;lonlats=16.921291,52.401742;16.920429,52.401913">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.40174" lon="16.92129"><ele>73.75</ele></trkpt>
+   <trkpt lat="52.401767" lon="16.921157"><ele>74</ele></trkpt>
+   <trkpt lat="52.401903" lon="16.92048"><ele>74</ele></trkpt>
+   <trkpt lat="52.401913" lon="16.920429"><ele>74</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

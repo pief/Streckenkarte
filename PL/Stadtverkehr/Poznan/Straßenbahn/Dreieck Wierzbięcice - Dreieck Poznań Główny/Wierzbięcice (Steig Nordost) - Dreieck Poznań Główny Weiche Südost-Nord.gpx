@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 229 filtered ascend = 2 plain-ascend = 2 cost=458 energy=0.0kwh time=18s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wierzbięcice (Steig Nordost) - Dreieck Poznań Główny Weiche Südost-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.40270/16.91766/standard&amp;lonlats=16.920429,52.401913;16.917268,52.402547">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.401913" lon="16.920429"><ele>74</ele></trkpt>
+   <trkpt lat="52.401957" lon="16.920211"><ele>74</ele></trkpt>
+   <trkpt lat="52.401964" lon="16.920174"><ele>74</ele></trkpt>
+   <trkpt lat="52.402225" lon="16.91888"><ele>74.75</ele></trkpt>
+   <trkpt lat="52.402439" lon="16.917825"><ele>75</ele></trkpt>
+   <trkpt lat="52.402546" lon="16.917268"><ele>76</ele></trkpt>
+   <trkpt lat="52.402546" lon="16.917267"><ele>76</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
