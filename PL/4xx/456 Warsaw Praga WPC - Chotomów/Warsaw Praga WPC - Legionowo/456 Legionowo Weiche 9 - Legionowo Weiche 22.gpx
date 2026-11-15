@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 506 filtered ascend = 0 plain-ascend = 0 cost=506 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>456 Legionowo Weiche 9 - Legionowo Weiche 22</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.39579/20.94916/standard&amp;lonlats=20.949166,52.395595;20.948827,52.395856;20.944589,52.399159">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.395594" lon="20.949165"><ele>81.5</ele></trkpt>
+   <trkpt lat="52.395597" lon="20.949162"><ele>81.75</ele></trkpt>
+   <trkpt lat="52.395856" lon="20.948828"><ele>81.75</ele></trkpt>
+   <trkpt lat="52.396151" lon="20.94845"><ele>81.75</ele></trkpt>
+   <trkpt lat="52.397116" lon="20.947212"><ele>82</ele></trkpt>
+   <trkpt lat="52.397578" lon="20.946619"><ele>82</ele></trkpt>
+   <trkpt lat="52.398695" lon="20.945185"><ele>82</ele></trkpt>
+   <trkpt lat="52.399157" lon="20.944591"><ele>82</ele></trkpt>
+   <trkpt lat="52.399158" lon="20.944589"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
