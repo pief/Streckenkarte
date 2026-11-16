@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Aeschenplatz Abzweig Wendeschleife Weiche 241 - Aeschenplatz Wendeschleife Nord Weiche 242</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/47.55179/7.59634/standard&amp;lonlats=7.596261,47.551781;7.596296,47.551777&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551779" lon="7.59626"><ele>270</ele></trkpt>
+   <trkpt lat="47.55178" lon="7.596262"><ele>270</ele></trkpt>
+   <trkpt lat="47.551778" lon="7.596294"><ele>270</ele></trkpt>
+   <trkpt lat="47.551777" lon="7.596296"><ele>270</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

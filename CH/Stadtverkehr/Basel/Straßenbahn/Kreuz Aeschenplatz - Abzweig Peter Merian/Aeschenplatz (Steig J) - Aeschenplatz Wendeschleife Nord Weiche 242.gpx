@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 20 filtered ascend = 0 plain-ascend = 0 cost=42 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Aeschenplatz (Steig J) - Aeschenplatz Wendeschleife Nord Weiche 242</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/47.55175/7.59624/standard&amp;lonlats=7.596095,47.551699;7.596174,47.551751;7.596296,47.551777&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.551698" lon="7.596094"><ele>270</ele></trkpt>
+   <trkpt lat="47.551703" lon="7.596101"><ele>270</ele></trkpt>
+   <trkpt lat="47.551751" lon="7.596174"><ele>270</ele></trkpt>
+   <trkpt lat="47.551764" lon="7.596207"><ele>270</ele></trkpt>
+   <trkpt lat="47.551777" lon="7.596258"><ele>270</ele></trkpt>
+   <trkpt lat="47.551778" lon="7.596294"><ele>270</ele></trkpt>
+   <trkpt lat="47.551777" lon="7.596296"><ele>270</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
