@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 559 filtered ascend = 0 plain-ascend = -1 cost=1118 energy=0.0kwh time=45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Piaski 03 - Romaszewskiego 03</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.26935/20.95327/standard&amp;lonlats=20.94588,52.271438;20.953321,52.269368&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.271435" lon="20.945878"><ele>100.75</ele></trkpt>
+   <trkpt lat="52.270414" lon="20.949592"><ele>100</ele></trkpt>
+   <trkpt lat="52.270401" lon="20.949641"><ele>100</ele></trkpt>
+   <trkpt lat="52.270362" lon="20.949781"><ele>100</ele></trkpt>
+   <trkpt lat="52.270313" lon="20.949957"><ele>99.75</ele></trkpt>
+   <trkpt lat="52.270302" lon="20.949999"><ele>100</ele></trkpt>
+   <trkpt lat="52.269371" lon="20.953323"><ele>99</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 54 filtered ascend = 0 plain-ascend = 0 cost=108 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Schleife Piaski Weiche Innengleis-und-Außengleis-nach-Südost - Piaski 03</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.27156/20.94502/standard&amp;lonlats=20.945162,52.271635;20.94588,52.271438&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.271632" lon="20.94516"><ele>101</ele></trkpt>
+   <trkpt lat="52.271623" lon="20.945195"><ele>101</ele></trkpt>
+   <trkpt lat="52.271476" lon="20.945732"><ele>101</ele></trkpt>
+   <trkpt lat="52.271435" lon="20.945878"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

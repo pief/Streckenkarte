@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Piaski 10 - Schleife Piaski 1. Weiche nach Innengleis</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.27145/20.94440/standard&amp;lonlats=20.94347,52.271475;20.943394,52.271461&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.271474" lon="20.943469"><ele>102</ele></trkpt>
+   <trkpt lat="52.271462" lon="20.943395"><ele>102</ele></trkpt>
+   <trkpt lat="52.271461" lon="20.943392"><ele>102</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

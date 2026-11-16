@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 554 filtered ascend = 2 plain-ascend = 2 cost=1108 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Romaszewskiego 04 - Piaski 04</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.27150/20.94565/standard&amp;lonlats=20.952744,52.269573;20.945352,52.27162&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.269572" lon="20.952743"><ele>99</ele></trkpt>
+   <trkpt lat="52.270326" lon="20.95002"><ele>100</ele></trkpt>
+   <trkpt lat="52.270339" lon="20.949975"><ele>100</ele></trkpt>
+   <trkpt lat="52.270386" lon="20.949801"><ele>100</ele></trkpt>
+   <trkpt lat="52.270426" lon="20.94966"><ele>100</ele></trkpt>
+   <trkpt lat="52.27044" lon="20.94961"><ele>100</ele></trkpt>
+   <trkpt lat="52.271411" lon="20.946113"><ele>101</ele></trkpt>
+   <trkpt lat="52.271602" lon="20.945406"><ele>101</ele></trkpt>
+   <trkpt lat="52.271617" lon="20.94535"><ele>101</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

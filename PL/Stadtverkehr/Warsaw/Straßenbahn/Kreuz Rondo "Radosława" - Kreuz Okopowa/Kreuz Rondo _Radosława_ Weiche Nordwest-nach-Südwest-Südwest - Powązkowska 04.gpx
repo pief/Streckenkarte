@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 0 plain-ascend = -1 cost=248 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Rondo "Radosława" Weiche Nordwest-nach-Südwest-Südwest - Powązkowska 04</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.25408/20.98188/standard&amp;lonlats=20.982133,52.254634;20.98143,52.253632&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.254632" lon="20.982135"><ele>106</ele></trkpt>
+   <trkpt lat="52.254381" lon="20.981853"><ele>105.5</ele></trkpt>
+   <trkpt lat="52.254308" lon="20.98178"><ele>105</ele></trkpt>
+   <trkpt lat="52.254274" lon="20.981757"><ele>105</ele></trkpt>
+   <trkpt lat="52.254247" lon="20.981738"><ele>105</ele></trkpt>
+   <trkpt lat="52.253664" lon="20.981445"><ele>104</ele></trkpt>
+   <trkpt lat="52.253631" lon="20.981429"><ele>104</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

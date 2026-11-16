@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 351 filtered ascend = 3 plain-ascend = 4 cost=702 energy=0.0kwh time=28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Park Olszyna 03 - Włościańska 03</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.26665/20.96294/standard&amp;lonlats=20.958414,52.267967;20.96307,52.266674&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.267963" lon="20.958411"><ele>97.75</ele></trkpt>
+   <trkpt lat="52.267917" lon="20.958585"><ele>97.75</ele></trkpt>
+   <trkpt lat="52.267896" lon="20.958659"><ele>98</ele></trkpt>
+   <trkpt lat="52.267853" lon="20.958815"><ele>97.75</ele></trkpt>
+   <trkpt lat="52.267601" lon="20.959725"><ele>98</ele></trkpt>
+   <trkpt lat="52.267557" lon="20.959881"><ele>98</ele></trkpt>
+   <trkpt lat="52.267532" lon="20.959972"><ele>98</ele></trkpt>
+   <trkpt lat="52.266899" lon="20.962266"><ele>99</ele></trkpt>
+   <trkpt lat="52.266854" lon="20.962423"><ele>99</ele></trkpt>
+   <trkpt lat="52.266681" lon="20.963048"><ele>99.75</ele></trkpt>
+   <trkpt lat="52.266674" lon="20.96307"><ele>101.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
