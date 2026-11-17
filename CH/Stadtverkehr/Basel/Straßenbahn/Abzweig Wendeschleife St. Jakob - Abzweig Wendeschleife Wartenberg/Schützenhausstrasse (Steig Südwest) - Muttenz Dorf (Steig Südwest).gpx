@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 541 filtered ascend = 3 plain-ascend = 3 cost=1082 energy=0.0kwh time=43s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Schützenhausstrasse (Steig Südwest) - Muttenz Dorf (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/47.52685/7.64612/standard&amp;lonlats=7.640913,47.528983;7.64705,47.526488&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.528984" lon="7.640914"><ele>283</ele></trkpt>
+   <trkpt lat="47.528935" lon="7.641011"><ele>283</ele></trkpt>
+   <trkpt lat="47.528689" lon="7.641514"><ele>283.5</ele></trkpt>
+   <trkpt lat="47.528563" lon="7.6418"><ele>283</ele></trkpt>
+   <trkpt lat="47.527665" lon="7.643953"><ele>284.75</ele></trkpt>
+   <trkpt lat="47.526722" lon="7.646216"><ele>285.75</ele></trkpt>
+   <trkpt lat="47.526624" lon="7.646509"><ele>286</ele></trkpt>
+   <trkpt lat="47.526582" lon="7.646661"><ele>286</ele></trkpt>
+   <trkpt lat="47.526491" lon="7.647048"><ele>286</ele></trkpt>
+   <trkpt lat="47.52649" lon="7.647051"><ele>285.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

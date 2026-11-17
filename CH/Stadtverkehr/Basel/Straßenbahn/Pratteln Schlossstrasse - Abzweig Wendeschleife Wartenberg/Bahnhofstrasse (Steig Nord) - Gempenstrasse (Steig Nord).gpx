@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 424 filtered ascend = 0 plain-ascend = -2 cost=848 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Bahnhofstrasse (Steig Nord) - Gempenstrasse (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/47.52145/7.68629/standard&amp;lonlats=7.69198,47.521229;7.686354,47.521466&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.521227" lon="7.691979"><ele>290.75</ele></trkpt>
+   <trkpt lat="47.521233" lon="7.691895"><ele>291</ele></trkpt>
+   <trkpt lat="47.521237" lon="7.691839"><ele>291</ele></trkpt>
+   <trkpt lat="47.521269" lon="7.691343"><ele>290.25</ele></trkpt>
+   <trkpt lat="47.521311" lon="7.690337"><ele>289.25</ele></trkpt>
+   <trkpt lat="47.521438" lon="7.687048"><ele>288</ele></trkpt>
+   <trkpt lat="47.521467" lon="7.68637"><ele>288</ele></trkpt>
+   <trkpt lat="47.521467" lon="7.686354"><ele>288</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

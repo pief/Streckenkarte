@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 165 filtered ascend = 0 plain-ascend = 0 cost=330 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Aufstellgleise St. Jakob Weiche 381 - Abzweig Aufstellgleise St. Jakob Weiche 376</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/47.54048/7.61954/standard&amp;lonlats=7.621504,47.540014;7.619554,47.540443;7.61945,47.540469&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.540012" lon="7.621503"><ele>259.75</ele></trkpt>
+   <trkpt lat="47.540013" lon="7.621503"><ele>259.75</ele></trkpt>
+   <trkpt lat="47.540369" lon="7.619847"><ele>259</ele></trkpt>
+   <trkpt lat="47.540442" lon="7.619553"><ele>259</ele></trkpt>
+   <trkpt lat="47.540468" lon="7.619451"><ele>259</ele></trkpt>
+   <trkpt lat="47.540468" lon="7.619449"><ele>259</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

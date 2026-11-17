@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 648 filtered ascend = 2 plain-ascend = 2 cost=1296 energy=0.0kwh time=52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Käppeli (Steig Südwest) - Zum Park (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.53050/7.63814/standard&amp;lonlats=7.630063,47.532963;7.637808,47.530556&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.532964" lon="7.630064"><ele>280</ele></trkpt>
+   <trkpt lat="47.532933" lon="7.630117"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.532639" lon="7.63063"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.532483" lon="7.630922"><ele>280</ele></trkpt>
+   <trkpt lat="47.532367" lon="7.631177"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.532266" lon="7.631442"><ele>280</ele></trkpt>
+   <trkpt lat="47.532172" lon="7.631749"><ele>280</ele></trkpt>
+   <trkpt lat="47.531767" lon="7.633241"><ele>281</ele></trkpt>
+   <trkpt lat="47.531684" lon="7.633614"><ele>281</ele></trkpt>
+   <trkpt lat="47.531596" lon="7.634125"><ele>281</ele></trkpt>
+   <trkpt lat="47.531391" lon="7.635314"><ele>280.75</ele></trkpt>
+   <trkpt lat="47.531345" lon="7.635533"><ele>280</ele></trkpt>
+   <trkpt lat="47.531249" lon="7.635932"><ele>280.25</ele></trkpt>
+   <trkpt lat="47.530968" lon="7.636915"><ele>281</ele></trkpt>
+   <trkpt lat="47.530904" lon="7.637093"><ele>281</ele></trkpt>
+   <trkpt lat="47.530829" lon="7.637258"><ele>281</ele></trkpt>
+   <trkpt lat="47.530553" lon="7.637805"><ele>282</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 114 filtered ascend = 0 plain-ascend = 0 cost=228 energy=0.0kwh time=9s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Pratteln Schlossstrasse Abzweig Abstellgleis Weiche 333 - Pratteln Schlossstrasse (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/47.52103/7.69374/standard&amp;lonlats=7.695184,47.521083;7.693672,47.521113&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.521083" lon="7.695184"><ele>290</ele></trkpt>
+   <trkpt lat="47.521086" lon="7.694387"><ele>290</ele></trkpt>
+   <trkpt lat="47.5211" lon="7.693887"><ele>290</ele></trkpt>
+   <trkpt lat="47.521113" lon="7.693672"><ele>289.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

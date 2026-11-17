@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 129 filtered ascend = 1 plain-ascend = 1 cost=258 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Pratteln Schlossstrasse (Steig Nord) - Bahnhofstrasse (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.52120/7.69191/standard&amp;lonlats=7.693672,47.521113;7.69198,47.521229&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.521113" lon="7.693672"><ele>289.75</ele></trkpt>
+   <trkpt lat="47.521114" lon="7.693669"><ele>289.75</ele></trkpt>
+   <trkpt lat="47.521117" lon="7.693574"><ele>289.75</ele></trkpt>
+   <trkpt lat="47.521138" lon="7.693286"><ele>290</ele></trkpt>
+   <trkpt lat="47.521226" lon="7.691999"><ele>290.75</ele></trkpt>
+   <trkpt lat="47.521227" lon="7.691979"><ele>291</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
