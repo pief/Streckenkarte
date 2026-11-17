@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 10 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Hauptbahnhof Süd Weiche 82 - Dreieck Hauptbahnhof Süd Weiche 43</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.13936/11.56104/standard&amp;lonlats=11.561534,48.13934;11.561407,48.13934&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.13934" lon="11.561534"><ele>520</ele></trkpt>
+   <trkpt lat="48.139339" lon="11.561406"><ele>520</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
