@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 23 filtered ascend = 0 plain-ascend = 1 cost=46 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Maxmonument Weiche 511 - Maxmonument (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.13686/11.58799/standard&amp;lonlats=11.588174,48.137241;11.58847,48.137284&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.137241" lon="11.588174"><ele>512.25</ele></trkpt>
+   <trkpt lat="48.137241" lon="11.588284"><ele>512.75</ele></trkpt>
+   <trkpt lat="48.137248" lon="11.588377"><ele>512.75</ele></trkpt>
+   <trkpt lat="48.137284" lon="11.588468"><ele>512.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

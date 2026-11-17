@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 35 filtered ascend = 0 plain-ascend = 0 cost=70 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Isartor Weiche 648 - Isartor (Steig Nordost-Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.13398/11.58279/standard&amp;lonlats=11.583141,48.133988;11.583563,48.134083&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.133988" lon="11.583141"><ele>513.5</ele></trkpt>
+   <trkpt lat="48.134005" lon="11.583197"><ele>513.25</ele></trkpt>
+   <trkpt lat="48.134006" lon="11.583197"><ele>513.25</ele></trkpt>
+   <trkpt lat="48.134044" lon="11.583329"><ele>513</ele></trkpt>
+   <trkpt lat="48.134075" lon="11.583499"><ele>513</ele></trkpt>
+   <trkpt lat="48.134084" lon="11.583561"><ele>513</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
