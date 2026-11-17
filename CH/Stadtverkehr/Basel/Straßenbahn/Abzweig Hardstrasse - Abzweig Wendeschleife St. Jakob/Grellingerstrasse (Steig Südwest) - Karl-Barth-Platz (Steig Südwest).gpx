@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 310 filtered ascend = 1 plain-ascend = 1 cost=620 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Grellingerstrasse (Steig Südwest) - Karl-Barth-Platz (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/47.54793/7.60924/standard&amp;lonlats=7.606248,47.549585;7.60941,47.547856&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.549586" lon="7.606249"><ele>271</ele></trkpt>
+   <trkpt lat="47.549573" lon="7.606278"><ele>271</ele></trkpt>
+   <trkpt lat="47.549528" lon="7.606373"><ele>271</ele></trkpt>
+   <trkpt lat="47.549493" lon="7.606443"><ele>270.75</ele></trkpt>
+   <trkpt lat="47.54911" lon="7.607219"><ele>271</ele></trkpt>
+   <trkpt lat="47.548909" lon="7.607626"><ele>270.75</ele></trkpt>
+   <trkpt lat="47.548492" lon="7.608473"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.548234" lon="7.608997"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.548156" lon="7.609126"><ele>271.5</ele></trkpt>
+   <trkpt lat="47.548066" lon="7.609241"><ele>271.75</ele></trkpt>
+   <trkpt lat="47.548042" lon="7.609256"><ele>272</ele></trkpt>
+   <trkpt lat="47.547855" lon="7.609408"><ele>272.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 381 filtered ascend = 1 plain-ascend = 1 cost=762 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name> Abzweig Hardstrasse Weiche 278 - Sevogelplatz (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/47.5490/7.6040/standard&amp;lonlats=7.600699,47.552386;7.604661,47.550364&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="47.552386" lon="7.600698"><ele>270</ele></trkpt>
+   <trkpt lat="47.552387" lon="7.600703"><ele>270</ele></trkpt>
+   <trkpt lat="47.552389" lon="7.600833"><ele>270</ele></trkpt>
+   <trkpt lat="47.55238" lon="7.600889"><ele>270</ele></trkpt>
+   <trkpt lat="47.552357" lon="7.600958"><ele>270</ele></trkpt>
+   <trkpt lat="47.552325" lon="7.601019"><ele>270</ele></trkpt>
+   <trkpt lat="47.552269" lon="7.60108"><ele>270</ele></trkpt>
+   <trkpt lat="47.552149" lon="7.601159"><ele>270</ele></trkpt>
+   <trkpt lat="47.552093" lon="7.601208"><ele>270</ele></trkpt>
+   <trkpt lat="47.552053" lon="7.601259"><ele>270</ele></trkpt>
+   <trkpt lat="47.552008" lon="7.601336"><ele>270</ele></trkpt>
+   <trkpt lat="47.551261" lon="7.602852"><ele>270</ele></trkpt>
+   <trkpt lat="47.550707" lon="7.603975"><ele>270.25</ele></trkpt>
+   <trkpt lat="47.550638" lon="7.60412"><ele>270</ele></trkpt>
+   <trkpt lat="47.550564" lon="7.604271"><ele>270.25</ele></trkpt>
+   <trkpt lat="47.55037" lon="7.604662"><ele>270.75</ele></trkpt>
+   <trkpt lat="47.550368" lon="7.604665"><ele>271</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
