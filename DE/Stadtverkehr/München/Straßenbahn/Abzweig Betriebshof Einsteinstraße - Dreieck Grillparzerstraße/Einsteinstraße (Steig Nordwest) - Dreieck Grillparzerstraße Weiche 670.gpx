@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 338 filtered ascend = 1 plain-ascend = 1 cost=676 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Einsteinstraße (Steig Nordwest) - Dreieck Grillparzerstraße Weiche 670</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.13630/11.60972/standard&amp;lonlats=11.614013,48.136826;11.609522,48.136424&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.136826" lon="11.614013"><ele>530</ele></trkpt>
+   <trkpt lat="48.136785" lon="11.613532"><ele>530.25</ele></trkpt>
+   <trkpt lat="48.136733" lon="11.613024"><ele>530</ele></trkpt>
+   <trkpt lat="48.136506" lon="11.61014"><ele>531</ele></trkpt>
+   <trkpt lat="48.136483" lon="11.609933"><ele>531</ele></trkpt>
+   <trkpt lat="48.136424" lon="11.609523"><ele>531</ele></trkpt>
+   <trkpt lat="48.136423" lon="11.609521"><ele>531</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

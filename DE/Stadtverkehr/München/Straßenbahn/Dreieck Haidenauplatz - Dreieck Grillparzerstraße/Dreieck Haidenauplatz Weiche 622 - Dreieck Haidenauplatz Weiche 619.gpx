@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 47 filtered ascend = 0 plain-ascend = 0 cost=94 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name> Dreieck Haidenauplatz Weiche 622 - Dreieck Haidenauplatz Weiche 619</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.13243/11.61006/standard&amp;lonlats=11.60992,48.132259;11.610152,48.132635&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.132258" lon="11.60992"><ele>529.25</ele></trkpt>
+   <trkpt lat="48.132287" lon="11.609945"><ele>529</ele></trkpt>
+   <trkpt lat="48.132324" lon="11.609978"><ele>529</ele></trkpt>
+   <trkpt lat="48.132347" lon="11.609995"><ele>529</ele></trkpt>
+   <trkpt lat="48.132436" lon="11.610058"><ele>529</ele></trkpt>
+   <trkpt lat="48.132507" lon="11.610091"><ele>529</ele></trkpt>
+   <trkpt lat="48.132578" lon="11.610125"><ele>529.25</ele></trkpt>
+   <trkpt lat="48.132634" lon="11.610152"><ele>529.25</ele></trkpt>
+   <trkpt lat="48.132635" lon="11.610152"><ele>529.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
