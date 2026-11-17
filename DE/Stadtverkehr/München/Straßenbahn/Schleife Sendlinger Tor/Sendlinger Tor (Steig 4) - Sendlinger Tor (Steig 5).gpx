@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 1 cost=80 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Sendlinger Tor (Steig 4) - Sendlinger Tor (Steig 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.13331/11.56575/standard&amp;lonlats=11.565632,48.133601;11.565757,48.13328&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.133599" lon="11.565632"><ele>520.25</ele></trkpt>
+   <trkpt lat="48.133579" lon="11.56562"><ele>520.25</ele></trkpt>
+   <trkpt lat="48.133539" lon="11.565597"><ele>520.25</ele></trkpt>
+   <trkpt lat="48.133492" lon="11.565586"><ele>520.25</ele></trkpt>
+   <trkpt lat="48.133443" lon="11.565585"><ele>520.5</ele></trkpt>
+   <trkpt lat="48.133404" lon="11.565598"><ele>520.75</ele></trkpt>
+   <trkpt lat="48.13334" lon="11.565646"><ele>520.75</ele></trkpt>
+   <trkpt lat="48.133304" lon="11.565701"><ele>520.75</ele></trkpt>
+   <trkpt lat="48.133279" lon="11.565756"><ele>520.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
