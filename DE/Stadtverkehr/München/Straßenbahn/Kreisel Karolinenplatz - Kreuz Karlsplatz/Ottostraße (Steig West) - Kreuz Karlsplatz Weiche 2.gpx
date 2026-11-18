@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 240 filtered ascend = 2 plain-ascend = 2 cost=480 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Ottostraße (Steig West) - Kreuz Karlsplatz Weiche 2</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/48.14031/11.56653/standard&amp;lonlats=11.567695,48.142123;11.56635,48.140239&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.142122" lon="11.56769"><ele>517</ele></trkpt>
+   <trkpt lat="48.142118" lon="11.567689"><ele>517</ele></trkpt>
+   <trkpt lat="48.142039" lon="11.567667"><ele>517</ele></trkpt>
+   <trkpt lat="48.14198" lon="11.567651"><ele>517</ele></trkpt>
+   <trkpt lat="48.141647" lon="11.567564"><ele>518</ele></trkpt>
+   <trkpt lat="48.14143" lon="11.567502"><ele>518</ele></trkpt>
+   <trkpt lat="48.141371" lon="11.567466"><ele>518</ele></trkpt>
+   <trkpt lat="48.141091" lon="11.567213"><ele>518</ele></trkpt>
+   <trkpt lat="48.14097" lon="11.567066"><ele>518</ele></trkpt>
+   <trkpt lat="48.140914" lon="11.566999"><ele>518</ele></trkpt>
+   <trkpt lat="48.140726" lon="11.566706"><ele>518.25</ele></trkpt>
+   <trkpt lat="48.140691" lon="11.566664"><ele>518.5</ele></trkpt>
+   <trkpt lat="48.140653" lon="11.566626"><ele>518.5</ele></trkpt>
+   <trkpt lat="48.140574" lon="11.566562"><ele>518.75</ele></trkpt>
+   <trkpt lat="48.14049" lon="11.566522"><ele>519</ele></trkpt>
+   <trkpt lat="48.14038" lon="11.566472"><ele>519</ele></trkpt>
+   <trkpt lat="48.140316" lon="11.566431"><ele>519</ele></trkpt>
+   <trkpt lat="48.140239" lon="11.566351"><ele>519</ele></trkpt>
+   <trkpt lat="48.140238" lon="11.566349"><ele>519</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

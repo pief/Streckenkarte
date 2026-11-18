@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 343 filtered ascend = 2 plain-ascend = 2 cost=686 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Elisabethplatz (Steig West) - Nordendstraße (Steig West)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.15450/11.57587/standard&amp;lonlats=11.574952,48.157817;11.575413,48.15474&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.157816" lon="11.574947"><ele>511</ele></trkpt>
+   <trkpt lat="48.157714" lon="11.574961"><ele>511</ele></trkpt>
+   <trkpt lat="48.157643" lon="11.574968"><ele>511</ele></trkpt>
+   <trkpt lat="48.157567" lon="11.57498"><ele>511</ele></trkpt>
+   <trkpt lat="48.157014" lon="11.575049"><ele>512</ele></trkpt>
+   <trkpt lat="48.156027" lon="11.575201"><ele>512</ele></trkpt>
+   <trkpt lat="48.155309" lon="11.575306"><ele>512</ele></trkpt>
+   <trkpt lat="48.155261" lon="11.575314"><ele>512</ele></trkpt>
+   <trkpt lat="48.155158" lon="11.575332"><ele>512</ele></trkpt>
+   <trkpt lat="48.155081" lon="11.575346"><ele>512</ele></trkpt>
+   <trkpt lat="48.154777" lon="11.575399"><ele>512.75</ele></trkpt>
+   <trkpt lat="48.154739" lon="11.575405"><ele>513</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 44 filtered ascend = 0 plain-ascend = 0 cost=88 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreisel Karolinenplatz Weiche 353 - Kreisel Karolinenplatz Weiche 355</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.14485/11.56858/standard&amp;lonlats=11.568965,48.144929;11.568764,48.144607&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.144928" lon="11.568964"><ele>516</ele></trkpt>
+   <trkpt lat="48.144907" lon="11.568904"><ele>516</ele></trkpt>
+   <trkpt lat="48.144852" lon="11.568823"><ele>516</ele></trkpt>
+   <trkpt lat="48.144798" lon="11.568778"><ele>516</ele></trkpt>
+   <trkpt lat="48.144733" lon="11.568748"><ele>516</ele></trkpt>
+   <trkpt lat="48.144683" lon="11.568743"><ele>516</ele></trkpt>
+   <trkpt lat="48.144606" lon="11.568762"><ele>516</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
