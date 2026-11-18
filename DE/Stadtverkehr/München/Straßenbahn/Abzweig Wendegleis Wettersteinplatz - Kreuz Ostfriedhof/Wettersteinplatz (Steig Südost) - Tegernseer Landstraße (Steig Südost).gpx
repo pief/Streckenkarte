@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 360 filtered ascend = 0 plain-ascend = -1 cost=720 energy=0.0kwh time=29s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wettersteinplatz (Steig Südost) - Tegernseer Landstraße (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/48.10984/11.57479/standard&amp;lonlats=11.574928,48.109406;11.576463,48.112457&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.109404" lon="11.574928"><ele>538</ele></trkpt>
+   <trkpt lat="48.109471" lon="11.574986"><ele>538</ele></trkpt>
+   <trkpt lat="48.109602" lon="11.575088"><ele>538</ele></trkpt>
+   <trkpt lat="48.109675" lon="11.575145"><ele>538</ele></trkpt>
+   <trkpt lat="48.109982" lon="11.575359"><ele>538</ele></trkpt>
+   <trkpt lat="48.110166" lon="11.575476"><ele>538</ele></trkpt>
+   <trkpt lat="48.11034" lon="11.575574"><ele>537.75</ele></trkpt>
+   <trkpt lat="48.110908" lon="11.575854"><ele>537</ele></trkpt>
+   <trkpt lat="48.111419" lon="11.576085"><ele>536.75</ele></trkpt>
+   <trkpt lat="48.111486" lon="11.576113"><ele>536.5</ele></trkpt>
+   <trkpt lat="48.111654" lon="11.576181"><ele>536</ele></trkpt>
+   <trkpt lat="48.11171" lon="11.576203"><ele>536</ele></trkpt>
+   <trkpt lat="48.111811" lon="11.576247"><ele>536</ele></trkpt>
+   <trkpt lat="48.112007" lon="11.576325"><ele>536</ele></trkpt>
+   <trkpt lat="48.112407" lon="11.576456"><ele>536</ele></trkpt>
+   <trkpt lat="48.112454" lon="11.576472"><ele>536</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

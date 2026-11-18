@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 318 filtered ascend = 2 plain-ascend = 2 cost=636 energy=0.0kwh time=25s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Tegernseer Landstraße (Steig Nordwest) - Wettersteinplatz (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.10941/11.57526/standard&amp;lonlats=11.576256,48.111957;11.574781,48.109287&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.111955" lon="11.576256"><ele>536</ele></trkpt>
+   <trkpt lat="48.111822" lon="11.576208"><ele>536</ele></trkpt>
+   <trkpt lat="48.111719" lon="11.576163"><ele>536</ele></trkpt>
+   <trkpt lat="48.111642" lon="11.576133"><ele>536</ele></trkpt>
+   <trkpt lat="48.111499" lon="11.576072"><ele>536.5</ele></trkpt>
+   <trkpt lat="48.111431" lon="11.576043"><ele>536.75</ele></trkpt>
+   <trkpt lat="48.110915" lon="11.575814"><ele>537</ele></trkpt>
+   <trkpt lat="48.11035" lon="11.575536"><ele>537.75</ele></trkpt>
+   <trkpt lat="48.110003" lon="11.575331"><ele>538</ele></trkpt>
+   <trkpt lat="48.109689" lon="11.575107"><ele>538</ele></trkpt>
+   <trkpt lat="48.109615" lon="11.575049"><ele>538</ele></trkpt>
+   <trkpt lat="48.109395" lon="11.574875"><ele>538</ele></trkpt>
+   <trkpt lat="48.109286" lon="11.574779"><ele>538</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
