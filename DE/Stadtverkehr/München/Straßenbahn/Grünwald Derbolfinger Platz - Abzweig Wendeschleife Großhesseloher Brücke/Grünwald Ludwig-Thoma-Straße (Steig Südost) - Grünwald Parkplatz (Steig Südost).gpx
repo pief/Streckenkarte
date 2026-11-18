@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 725 filtered ascend = 0 plain-ascend = -2 cost=1450 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Grünwald Ludwig-Thoma-Straße (Steig Südost) - Grünwald Parkplatz (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.05526/11.54119/standard&amp;lonlats=11.535514,48.049493;11.540623,48.055049&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.049493" lon="11.535511"><ele>578</ele></trkpt>
+   <trkpt lat="48.049565" lon="11.535579"><ele>578</ele></trkpt>
+   <trkpt lat="48.052261" lon="11.538212"><ele>576.25</ele></trkpt>
+   <trkpt lat="48.052569" lon="11.538519"><ele>576.5</ele></trkpt>
+   <trkpt lat="48.052881" lon="11.538811"><ele>576.25</ele></trkpt>
+   <trkpt lat="48.053198" lon="11.5391"><ele>576</ele></trkpt>
+   <trkpt lat="48.053523" lon="11.53937"><ele>576</ele></trkpt>
+   <trkpt lat="48.053903" lon="11.5397"><ele>576</ele></trkpt>
+   <trkpt lat="48.05503" lon="11.540616"><ele>575</ele></trkpt>
+   <trkpt lat="48.055046" lon="11.540628"><ele>575</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

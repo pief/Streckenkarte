@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 755 filtered ascend = 0 plain-ascend = -2 cost=1512 energy=0.0kwh time=1m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Menterschwaige (Steig Südost) - Klinikum Harlaching (Steig Südost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.08677/11.55499/standard&amp;lonlats=11.551811,48.080202;11.554823,48.086681&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.080201" lon="11.55181"><ele>559</ele></trkpt>
+   <trkpt lat="48.080219" lon="11.551819"><ele>559</ele></trkpt>
+   <trkpt lat="48.082314" lon="11.552799"><ele>558</ele></trkpt>
+   <trkpt lat="48.083017" lon="11.553119"><ele>558</ele></trkpt>
+   <trkpt lat="48.083122" lon="11.553167"><ele>558</ele></trkpt>
+   <trkpt lat="48.085483" lon="11.554264"><ele>557</ele></trkpt>
+   <trkpt lat="48.086681" lon="11.554822"><ele>556</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

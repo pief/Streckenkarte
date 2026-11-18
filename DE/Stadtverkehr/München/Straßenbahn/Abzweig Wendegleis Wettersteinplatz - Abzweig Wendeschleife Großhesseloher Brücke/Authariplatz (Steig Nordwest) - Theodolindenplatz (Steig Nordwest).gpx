@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 512 filtered ascend = 2 plain-ascend = 2 cost=1024 energy=0.0kwh time=41s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Authariplatz (Steig Nordwest) - Theodolindenplatz (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.09025/11.55705/standard&amp;lonlats=11.562686,48.092192;11.556795,48.090215&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.09219" lon="11.562688"><ele>552</ele></trkpt>
+   <trkpt lat="48.092117" lon="11.562634"><ele>552</ele></trkpt>
+   <trkpt lat="48.092057" lon="11.562585"><ele>552</ele></trkpt>
+   <trkpt lat="48.091981" lon="11.562516"><ele>552</ele></trkpt>
+   <trkpt lat="48.091916" lon="11.562453"><ele>552</ele></trkpt>
+   <trkpt lat="48.091759" lon="11.562267"><ele>552</ele></trkpt>
+   <trkpt lat="48.091658" lon="11.562122"><ele>552</ele></trkpt>
+   <trkpt lat="48.091572" lon="11.561983"><ele>552</ele></trkpt>
+   <trkpt lat="48.091505" lon="11.561856"><ele>552</ele></trkpt>
+   <trkpt lat="48.091396" lon="11.561606"><ele>552</ele></trkpt>
+   <trkpt lat="48.091306" lon="11.561341"><ele>552</ele></trkpt>
+   <trkpt lat="48.091258" lon="11.561157"><ele>552</ele></trkpt>
+   <trkpt lat="48.091201" lon="11.560858"><ele>552</ele></trkpt>
+   <trkpt lat="48.091137" lon="11.560419"><ele>552</ele></trkpt>
+   <trkpt lat="48.090949" lon="11.559012"><ele>553</ele></trkpt>
+   <trkpt lat="48.090865" lon="11.558456"><ele>553</ele></trkpt>
+   <trkpt lat="48.09077" lon="11.557979"><ele>553</ele></trkpt>
+   <trkpt lat="48.090718" lon="11.557772"><ele>553</ele></trkpt>
+   <trkpt lat="48.090692" lon="11.557672"><ele>553</ele></trkpt>
+   <trkpt lat="48.090602" lon="11.55741"><ele>553</ele></trkpt>
+   <trkpt lat="48.090544" lon="11.557278"><ele>553</ele></trkpt>
+   <trkpt lat="48.090502" lon="11.557195"><ele>553</ele></trkpt>
+   <trkpt lat="48.090462" lon="11.557125"><ele>553.25</ele></trkpt>
+   <trkpt lat="48.090344" lon="11.55695"><ele>553.75</ele></trkpt>
+   <trkpt lat="48.09025" lon="11.55683"><ele>554</ele></trkpt>
+   <trkpt lat="48.090214" lon="11.556794"><ele>554</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

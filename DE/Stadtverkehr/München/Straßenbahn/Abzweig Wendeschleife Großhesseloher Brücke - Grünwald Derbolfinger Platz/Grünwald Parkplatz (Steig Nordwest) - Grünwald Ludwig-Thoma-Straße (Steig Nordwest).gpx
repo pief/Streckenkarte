@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 727 filtered ascend = 3 plain-ascend = 3 cost=1454 energy=0.0kwh time=58s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Grünwald Parkplatz (Steig Nordwest) - Grünwald Ludwig-Thoma-Straße (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.04959/11.53622/standard&amp;lonlats=11.540749,48.055256;11.535658,48.049687&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.055253" lon="11.540752"><ele>575</ele></trkpt>
+   <trkpt lat="48.05518" lon="11.540696"><ele>575</ele></trkpt>
+   <trkpt lat="48.055123" lon="11.540652"><ele>575</ele></trkpt>
+   <trkpt lat="48.055079" lon="11.540616"><ele>575</ele></trkpt>
+   <trkpt lat="48.05392" lon="11.53967"><ele>575.75</ele></trkpt>
+   <trkpt lat="48.053209" lon="11.539074"><ele>576</ele></trkpt>
+   <trkpt lat="48.052892" lon="11.538786"><ele>576.25</ele></trkpt>
+   <trkpt lat="48.052582" lon="11.538489"><ele>576.25</ele></trkpt>
+   <trkpt lat="48.051042" lon="11.536986"><ele>577</ele></trkpt>
+   <trkpt lat="48.049694" lon="11.535663"><ele>578</ele></trkpt>
+   <trkpt lat="48.049686" lon="11.535656"><ele>578</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

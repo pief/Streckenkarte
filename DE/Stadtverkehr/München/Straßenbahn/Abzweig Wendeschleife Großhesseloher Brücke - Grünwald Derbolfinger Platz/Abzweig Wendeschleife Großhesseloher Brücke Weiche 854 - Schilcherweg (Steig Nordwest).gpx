@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 603 filtered ascend = 5 plain-ascend = 5 cost=1208 energy=0.0kwh time=48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeschleife Großhesseloher Brücke Weiche 854 - Schilcherweg (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.07108/11.54766/standard&amp;lonlats=11.549931,48.076352;11.547361,48.07121&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.076352" lon="11.549931"><ele>561</ele></trkpt>
+   <trkpt lat="48.074331" lon="11.548933"><ele>558</ele></trkpt>
+   <trkpt lat="48.071544" lon="11.547519"><ele>564.25</ele></trkpt>
+   <trkpt lat="48.07124" lon="11.547365"><ele>564.5</ele></trkpt>
+   <trkpt lat="48.071211" lon="11.54735"><ele>566.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

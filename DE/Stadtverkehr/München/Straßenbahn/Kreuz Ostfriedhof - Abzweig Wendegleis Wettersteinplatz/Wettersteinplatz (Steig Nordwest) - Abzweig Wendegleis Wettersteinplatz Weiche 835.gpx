@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 68 filtered ascend = 0 plain-ascend = 0 cost=136 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Wettersteinplatz (Steig Nordwest) - Abzweig Wendegleis Wettersteinplatz Weiche 835</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/48.10919/11.57427/standard&amp;lonlats=11.574779,48.109286;11.574281,48.108773&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.109285" lon="11.574778"><ele>538</ele></trkpt>
+   <trkpt lat="48.10907" lon="11.574587"><ele>538</ele></trkpt>
+   <trkpt lat="48.108917" lon="11.574439"><ele>538</ele></trkpt>
+   <trkpt lat="48.108879" lon="11.574399"><ele>538</ele></trkpt>
+   <trkpt lat="48.108772" lon="11.574282"><ele>538</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 42 filtered ascend = 0 plain-ascend = 0 cost=84 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendeschleife Großhesseloher Brücke Weiche 846 - Großhesseloher Brücke (Steig 3)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.07741/11.55011/standard&amp;lonlats=11.550238,48.076899;11.55041,48.077253&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.076897" lon="11.550239"><ele>560.75</ele></trkpt>
+   <trkpt lat="48.077212" lon="11.550391"><ele>560.25</ele></trkpt>
+   <trkpt lat="48.077252" lon="11.550409"><ele>560</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 915 filtered ascend = 5 plain-ascend = 5 cost=1830 energy=0.0kwh time=1m 13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Grünwald Robert-Koch-Straße (Steig Nordwest) - Grünwald Parkplatz (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.05528/11.54101/standard&amp;lonlats=11.545133,48.062927;11.540749,48.055256&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.062926" lon="11.54513"><ele>570</ele></trkpt>
+   <trkpt lat="48.06274" lon="11.545051"><ele>570</ele></trkpt>
+   <trkpt lat="48.062082" lon="11.544766"><ele>570.25</ele></trkpt>
+   <trkpt lat="48.060697" lon="11.544096"><ele>571</ele></trkpt>
+   <trkpt lat="48.060238" lon="11.543864"><ele>572</ele></trkpt>
+   <trkpt lat="48.058257" lon="11.542737"><ele>572.25</ele></trkpt>
+   <trkpt lat="48.055854" lon="11.54123"><ele>574</ele></trkpt>
+   <trkpt lat="48.055273" lon="11.540767"><ele>575</ele></trkpt>
+   <trkpt lat="48.055253" lon="11.540752"><ele>575</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

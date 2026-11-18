@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 381 filtered ascend = 1 plain-ascend = 2 cost=762 energy=0.0kwh time=30s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Theodolindenplatz (Steig Nordwest) - Klinikum Harlaching (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.08694/11.55509/standard&amp;lonlats=11.556795,48.090215;11.554942,48.087017&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.090214" lon="11.556794"><ele>554</ele></trkpt>
+   <trkpt lat="48.090146" lon="11.556727"><ele>554</ele></trkpt>
+   <trkpt lat="48.090041" lon="11.55664"><ele>554</ele></trkpt>
+   <trkpt lat="48.089899" lon="11.556543"><ele>554</ele></trkpt>
+   <trkpt lat="48.088108" lon="11.555501"><ele>555</ele></trkpt>
+   <trkpt lat="48.087312" lon="11.555082"><ele>555</ele></trkpt>
+   <trkpt lat="48.087034" lon="11.554952"><ele>555.5</ele></trkpt>
+   <trkpt lat="48.087016" lon="11.554943"><ele>555.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

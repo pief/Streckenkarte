@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 553 filtered ascend = 4 plain-ascend = 4 cost=1106 energy=0.0kwh time=44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Südtiroler Straße (Steig Nordwest) - Tiroler Platz (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.09608/11.56384/standard&amp;lonlats=11.566507,48.100611;11.56361,48.096061&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.100608" lon="11.56651"><ele>540</ele></trkpt>
+   <trkpt lat="48.09879" lon="11.565056"><ele>541.25</ele></trkpt>
+   <trkpt lat="48.098334" lon="11.564715"><ele>542</ele></trkpt>
+   <trkpt lat="48.098048" lon="11.564524"><ele>542</ele></trkpt>
+   <trkpt lat="48.097592" lon="11.564247"><ele>542.75</ele></trkpt>
+   <trkpt lat="48.097129" lon="11.564012"><ele>543</ele></trkpt>
+   <trkpt lat="48.096668" lon="11.56382"><ele>543</ele></trkpt>
+   <trkpt lat="48.096085" lon="11.56362"><ele>544</ele></trkpt>
+   <trkpt lat="48.096059" lon="11.563611"><ele>544</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
