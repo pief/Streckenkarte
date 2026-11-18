@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 65 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Schleife Scheidplatz Weiche 491 - Scheidplatz (Steig 1)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.17139/11.57331/standard&amp;lonlats=11.572733,48.17185;11.573067,48.171321&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.17185" lon="11.572734"><ele>510.75</ele></trkpt>
+   <trkpt lat="48.17185" lon="11.572735"><ele>510.75</ele></trkpt>
+   <trkpt lat="48.171792" lon="11.572775"><ele>510.25</ele></trkpt>
+   <trkpt lat="48.171631" lon="11.572925"><ele>510</ele></trkpt>
+   <trkpt lat="48.171587" lon="11.572952"><ele>510</ele></trkpt>
+   <trkpt lat="48.17134" lon="11.573065"><ele>509.75</ele></trkpt>
+   <trkpt lat="48.171322" lon="11.573072"><ele>510</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

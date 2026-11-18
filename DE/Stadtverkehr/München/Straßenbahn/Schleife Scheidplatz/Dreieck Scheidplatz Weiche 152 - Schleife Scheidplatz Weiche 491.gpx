@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 256 filtered ascend = 1 plain-ascend = 1 cost=512 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Scheidplatz Weiche 152 - Schleife Scheidplatz Weiche 491</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.17190/11.57339/standard&amp;lonlats=11.573546,48.170508;11.573326,48.17208;11.572733,48.17185&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.170508" lon="11.573546"><ele>510</ele></trkpt>
+   <trkpt lat="48.170791" lon="11.573514"><ele>510</ele></trkpt>
+   <trkpt lat="48.172023" lon="11.57333"><ele>510</ele></trkpt>
+   <trkpt lat="48.172076" lon="11.573308"><ele>510</ele></trkpt>
+   <trkpt lat="48.172092" lon="11.573302"><ele>510</ele></trkpt>
+   <trkpt lat="48.172146" lon="11.573245"><ele>510</ele></trkpt>
+   <trkpt lat="48.172172" lon="11.573199"><ele>510</ele></trkpt>
+   <trkpt lat="48.172203" lon="11.573108"><ele>510</ele></trkpt>
+   <trkpt lat="48.172209" lon="11.573065"><ele>510</ele></trkpt>
+   <trkpt lat="48.17221" lon="11.572979"><ele>510</ele></trkpt>
+   <trkpt lat="48.172198" lon="11.572895"><ele>510</ele></trkpt>
+   <trkpt lat="48.172167" lon="11.572812"><ele>510</ele></trkpt>
+   <trkpt lat="48.172122" lon="11.572751"><ele>510.25</ele></trkpt>
+   <trkpt lat="48.172071" lon="11.572711"><ele>510.75</ele></trkpt>
+   <trkpt lat="48.172034" lon="11.572699"><ele>510.75</ele></trkpt>
+   <trkpt lat="48.171988" lon="11.572698"><ele>511</ele></trkpt>
+   <trkpt lat="48.171959" lon="11.572702"><ele>511</ele></trkpt>
+   <trkpt lat="48.17185" lon="11.572734"><ele>510.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

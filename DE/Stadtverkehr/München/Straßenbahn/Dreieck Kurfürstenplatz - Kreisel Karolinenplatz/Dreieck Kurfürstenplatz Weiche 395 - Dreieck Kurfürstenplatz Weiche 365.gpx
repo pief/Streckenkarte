@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 60 filtered ascend = 0 plain-ascend = 0 cost=122 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Kurfürstenplatz Weiche 395 - Dreieck Kurfürstenplatz Weiche 365</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.16025/11.57514/standard&amp;lonlats=11.575035,48.16062;11.575014,48.160263;11.574958,48.160094&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.16062" lon="11.575037"><ele>511</ele></trkpt>
+   <trkpt lat="48.160618" lon="11.575038"><ele>511</ele></trkpt>
+   <trkpt lat="48.16047" lon="11.575054"><ele>511</ele></trkpt>
+   <trkpt lat="48.160462" lon="11.575054"><ele>511</ele></trkpt>
+   <trkpt lat="48.160348" lon="11.57504"><ele>511</ele></trkpt>
+   <trkpt lat="48.16034" lon="11.575037"><ele>511</ele></trkpt>
+   <trkpt lat="48.160336" lon="11.575036"><ele>511</ele></trkpt>
+   <trkpt lat="48.160262" lon="11.575011"><ele>511</ele></trkpt>
+   <trkpt lat="48.160243" lon="11.575005"><ele>511</ele></trkpt>
+   <trkpt lat="48.160158" lon="11.574975"><ele>511</ele></trkpt>
+   <trkpt lat="48.160093" lon="11.574961"><ele>511</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

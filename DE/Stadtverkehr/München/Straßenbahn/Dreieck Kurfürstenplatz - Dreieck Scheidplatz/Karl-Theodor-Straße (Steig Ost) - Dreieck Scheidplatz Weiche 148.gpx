@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 338 filtered ascend = 0 plain-ascend = 0 cost=676 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Karl-Theodor-Straße (Steig Ost) - Dreieck Scheidplatz Weiche 148</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.17024/11.57372/standard&amp;lonlats=11.574039,48.166904;11.573619,48.169942&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.166904" lon="11.574039"><ele>511</ele></trkpt>
+   <trkpt lat="48.166994" lon="11.57403"><ele>511</ele></trkpt>
+   <trkpt lat="48.167067" lon="11.574021"><ele>511</ele></trkpt>
+   <trkpt lat="48.167141" lon="11.574012"><ele>511</ele></trkpt>
+   <trkpt lat="48.167231" lon="11.574003"><ele>511</ele></trkpt>
+   <trkpt lat="48.167295" lon="11.573996"><ele>511</ele></trkpt>
+   <trkpt lat="48.169929" lon="11.573621"><ele>510</ele></trkpt>
+   <trkpt lat="48.169942" lon="11.573619"><ele>510</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
