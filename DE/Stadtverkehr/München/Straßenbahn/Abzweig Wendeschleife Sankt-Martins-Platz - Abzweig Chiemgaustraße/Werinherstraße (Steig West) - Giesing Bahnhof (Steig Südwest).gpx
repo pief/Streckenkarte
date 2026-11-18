@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 498 filtered ascend = 3 plain-ascend = 3 cost=996 energy=0.0kwh time=40s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Werinherstraße (Steig West) - Giesing Bahnhof (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.11050/11.59508/standard&amp;lonlats=11.592556,48.114478;11.594822,48.110366&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.114478" lon="11.592557"><ele>533</ele></trkpt>
+   <trkpt lat="48.113863" lon="11.592657"><ele>533.5</ele></trkpt>
+   <trkpt lat="48.113578" lon="11.592723"><ele>534</ele></trkpt>
+   <trkpt lat="48.113075" lon="11.592875"><ele>533.75</ele></trkpt>
+   <trkpt lat="48.11249" lon="11.593078"><ele>535</ele></trkpt>
+   <trkpt lat="48.112357" lon="11.593139"><ele>535</ele></trkpt>
+   <trkpt lat="48.112215" lon="11.593221"><ele>535</ele></trkpt>
+   <trkpt lat="48.112049" lon="11.593349"><ele>535</ele></trkpt>
+   <trkpt lat="48.111961" lon="11.593433"><ele>535</ele></trkpt>
+   <trkpt lat="48.111562" lon="11.593896"><ele>535</ele></trkpt>
+   <trkpt lat="48.11116" lon="11.594358"><ele>535.75</ele></trkpt>
+   <trkpt lat="48.111097" lon="11.594426"><ele>536</ele></trkpt>
+   <trkpt lat="48.110953" lon="11.594555"><ele>536</ele></trkpt>
+   <trkpt lat="48.110851" lon="11.59462"><ele>536</ele></trkpt>
+   <trkpt lat="48.110716" lon="11.594693"><ele>536</ele></trkpt>
+   <trkpt lat="48.110413" lon="11.594803"><ele>536</ele></trkpt>
+   <trkpt lat="48.110365" lon="11.594819"><ele>536.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

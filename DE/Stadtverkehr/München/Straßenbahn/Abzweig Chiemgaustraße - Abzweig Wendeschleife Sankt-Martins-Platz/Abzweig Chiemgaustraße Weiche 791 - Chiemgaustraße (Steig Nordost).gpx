@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 28 filtered ascend = 0 plain-ascend = 0 cost=56 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Chiemgaustraße Weiche 791 - Chiemgaustraße (Steig Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.10722/11.59630/standard&amp;lonlats=11.596189,48.107069;11.596086,48.107313&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.107068" lon="11.596187"><ele>536.75</ele></trkpt>
+   <trkpt lat="48.107274" lon="11.596099"><ele>537</ele></trkpt>
+   <trkpt lat="48.107312" lon="11.596082"><ele>537</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

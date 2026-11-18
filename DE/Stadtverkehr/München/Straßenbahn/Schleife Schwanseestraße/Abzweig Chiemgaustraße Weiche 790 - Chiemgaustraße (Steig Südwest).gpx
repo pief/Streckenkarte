@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 94 filtered ascend = 0 plain-ascend = 1 cost=188 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Chiemgaustraße Weiche 790 - Chiemgaustraße (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=17/48.10703/11.59600/standard&amp;lonlats=11.596159,48.107043;11.596489,48.106241&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.107042" lon="11.596158"><ele>536.75</ele></trkpt>
+   <trkpt lat="48.107041" lon="11.596159"><ele>536.75</ele></trkpt>
+   <trkpt lat="48.106898" lon="11.596225"><ele>536.5</ele></trkpt>
+   <trkpt lat="48.106753" lon="11.596288"><ele>536.75</ele></trkpt>
+   <trkpt lat="48.106653" lon="11.596328"><ele>537</ele></trkpt>
+   <trkpt lat="48.106554" lon="11.596369"><ele>537</ele></trkpt>
+   <trkpt lat="48.106284" lon="11.596472"><ele>537</ele></trkpt>
+   <trkpt lat="48.10624" lon="11.596487"><ele>537.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
