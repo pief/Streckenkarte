@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 123 filtered ascend = 0 plain-ascend = 1 cost=123 energy=0.0kwh time=10s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Düsseldorf Dreieck Freiligrathplatz Weiche 836 - Düsseldorf Dreieck Freiligrathplatz Weiche 834</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/51.26574/6.75284/standard&amp;lonlats=6.751503,51.265197;6.752674,51.265814&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.265197" lon="6.751503"><ele>34</ele></trkpt>
+   <trkpt lat="51.265197" lon="6.751508"><ele>34</ele></trkpt>
+   <trkpt lat="51.265208" lon="6.751786"><ele>34</ele></trkpt>
+   <trkpt lat="51.265217" lon="6.751893"><ele>34</ele></trkpt>
+   <trkpt lat="51.26523" lon="6.75198"><ele>34</ele></trkpt>
+   <trkpt lat="51.265247" lon="6.752083"><ele>34</ele></trkpt>
+   <trkpt lat="51.26529" lon="6.752243"><ele>34</ele></trkpt>
+   <trkpt lat="51.26533" lon="6.752356"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.265376" lon="6.75245"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.265441" lon="6.752538"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.265505" lon="6.752598"><ele>34</ele></trkpt>
+   <trkpt lat="51.265561" lon="6.752634"><ele>34</ele></trkpt>
+   <trkpt lat="51.265653" lon="6.752667"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.26567" lon="6.752671"><ele>34.25</ele></trkpt>
+   <trkpt lat="51.265746" lon="6.752675"><ele>34.5</ele></trkpt>
+   <trkpt lat="51.265814" lon="6.752675"><ele>34.75</ele></trkpt>
+   <trkpt lat="51.265814" lon="6.752674"><ele>34.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
