@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1958 filtered ascend = 0 plain-ascend = 0 cost=1958 energy=0.0kwh time=2m 37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>009 Warszawa Toruńska (Gleis 1) - Warszawa Praga (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.27665/21.02275/standard&amp;lonlats=21.013446,52.293257;21.022802,52.276615&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.293256" lon="21.013442"><ele>83.75</ele></trkpt>
+   <trkpt lat="52.292456" lon="21.013932"><ele>83.75</ele></trkpt>
+   <trkpt lat="52.291687" lon="21.014352"><ele>83.25</ele></trkpt>
+   <trkpt lat="52.290125" lon="21.015145"><ele>84</ele></trkpt>
+   <trkpt lat="52.289585" lon="21.015433"><ele>84</ele></trkpt>
+   <trkpt lat="52.282933" lon="21.01926"><ele>84</ele></trkpt>
+   <trkpt lat="52.281395" lon="21.020161"><ele>84</ele></trkpt>
+   <trkpt lat="52.280948" lon="21.020402"><ele>84</ele></trkpt>
+   <trkpt lat="52.280512" lon="21.020629"><ele>84</ele></trkpt>
+   <trkpt lat="52.278853" lon="21.02142"><ele>84</ele></trkpt>
+   <trkpt lat="52.27845" lon="21.021649"><ele>84.25</ele></trkpt>
+   <trkpt lat="52.277492" lon="21.022251"><ele>84</ele></trkpt>
+   <trkpt lat="52.276615" lon="21.022802"><ele>83.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
