@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 78 filtered ascend = 0 plain-ascend = 0 cost=78 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>83x Warszawa Praga WPA Weiche 233 - Warszawa Praga WPA Weiche 271</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.28895/21.01449/standard&amp;lonlats=21.014359,52.288757;21.013635,52.289283&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.288756" lon="21.014358"><ele>83</ele></trkpt>
+   <trkpt lat="52.288756" lon="21.014359"><ele>83</ele></trkpt>
+   <trkpt lat="52.2889" lon="21.014174"><ele>83</ele></trkpt>
+   <trkpt lat="52.289282" lon="21.013635"><ele>83</ele></trkpt>
+   <trkpt lat="52.289282" lon="21.013634"><ele>83</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 51 filtered ascend = 0 plain-ascend = -1 cost=51 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>834 Warszawa Praga WPB Weiche 455 - Warszawa Praga WPB Weiche 459</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.31362/20.99768/standard&amp;lonlats=20.998057,52.313078;20.997808,52.313423;20.997765,52.313481&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.313077" lon="20.998057"><ele>86</ele></trkpt>
+   <trkpt lat="52.313079" lon="20.998056"><ele>86</ele></trkpt>
+   <trkpt lat="52.313422" lon="20.997807"><ele>85.75</ele></trkpt>
+   <trkpt lat="52.31348" lon="20.997766"><ele>85.75</ele></trkpt>
+   <trkpt lat="52.313481" lon="20.997765"><ele>84</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

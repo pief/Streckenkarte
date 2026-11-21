@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 398 filtered ascend = 2 plain-ascend = 1 cost=398 energy=0.0kwh time=32s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>834 Warszawa Praga WPB Weiche 413 - Warszawa Praga WPB Weiche 455</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.31344/20.99803/standard&amp;lonlats=20.999567,52.309658;20.998057,52.313078&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.309658" lon="20.999567"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.310136" lon="20.999478"><ele>86</ele></trkpt>
+   <trkpt lat="52.310582" lon="20.999386"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.310786" lon="20.999329"><ele>83.5</ele></trkpt>
+   <trkpt lat="52.310985" lon="20.999261"><ele>81</ele></trkpt>
+   <trkpt lat="52.311106" lon="20.999213"><ele>80</ele></trkpt>
+   <trkpt lat="52.311353" lon="20.999095"><ele>85.25</ele></trkpt>
+   <trkpt lat="52.311764" lon="20.998865"><ele>83</ele></trkpt>
+   <trkpt lat="52.312367" lon="20.998524"><ele>83.5</ele></trkpt>
+   <trkpt lat="52.312567" lon="20.998407"><ele>86</ele></trkpt>
+   <trkpt lat="52.312773" lon="20.998273"><ele>86</ele></trkpt>
+   <trkpt lat="52.312905" lon="20.998181"><ele>86.25</ele></trkpt>
+   <trkpt lat="52.313077" lon="20.998057"><ele>86</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
