@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 340 filtered ascend = 4 plain-ascend = 4 cost=340 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>020 Warszawa Praga PZS R201-205 Weiche 202 - Warszawa ZOO (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.26342/21.01882/standard&amp;lonlats=21.021203,52.264589;21.016738,52.263253&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.264588" lon="21.021202"><ele>86.75</ele></trkpt>
+   <trkpt lat="52.264474" lon="21.020823"><ele>86.75</ele></trkpt>
+   <trkpt lat="52.26427" lon="21.02013"><ele>88.75</ele></trkpt>
+   <trkpt lat="52.264268" lon="21.02012"><ele>89</ele></trkpt>
+   <trkpt lat="52.263942" lon="21.019027"><ele>90.75</ele></trkpt>
+   <trkpt lat="52.263566" lon="21.017768"><ele>90.5</ele></trkpt>
+   <trkpt lat="52.263256" lon="21.016734"><ele>90.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 25 filtered ascend = 0 plain-ascend = 0 cost=25 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>020 Warszawa Praga PZS R201-205 Weiche 203 - Warszawa Praga PZS R201-205 Weiche 202</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.26470/21.02145/standard&amp;lonlats=21.021531,52.264686;21.021203,52.264589&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.264685" lon="21.02153"><ele>87.75</ele></trkpt>
+   <trkpt lat="52.264653" lon="21.021421"><ele>87.25</ele></trkpt>
+   <trkpt lat="52.264589" lon="21.021204"><ele>86.75</ele></trkpt>
+   <trkpt lat="52.264588" lon="21.021202"><ele>86.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
