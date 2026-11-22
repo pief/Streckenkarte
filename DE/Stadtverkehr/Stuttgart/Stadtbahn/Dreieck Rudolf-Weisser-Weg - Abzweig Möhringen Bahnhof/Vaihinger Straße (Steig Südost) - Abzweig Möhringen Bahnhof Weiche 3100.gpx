@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 480 filtered ascend = 0 plain-ascend = -5 cost=480 energy=0.0kwh time=38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Vaihinger Straße (Steig Südost) - Abzweig Möhringen Bahnhof Weiche 3100</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.72994/9.14483/standard&amp;lonlats=9.139347,48.727873;9.144699,48.730033&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.727872" lon="9.139346"><ele>426.5</ele></trkpt>
+   <trkpt lat="48.728114" lon="9.139519"><ele>426.75</ele></trkpt>
+   <trkpt lat="48.728146" lon="9.139541"><ele>426.75</ele></trkpt>
+   <trkpt lat="48.728395" lon="9.139732"><ele>426</ele></trkpt>
+   <trkpt lat="48.728581" lon="9.139917"><ele>426</ele></trkpt>
+   <trkpt lat="48.728675" lon="9.140029"><ele>426</ele></trkpt>
+   <trkpt lat="48.728848" lon="9.140292"><ele>426</ele></trkpt>
+   <trkpt lat="48.72899" lon="9.140581"><ele>425.5</ele></trkpt>
+   <trkpt lat="48.729109" lon="9.140903"><ele>425</ele></trkpt>
+   <trkpt lat="48.72923" lon="9.141327"><ele>424.75</ele></trkpt>
+   <trkpt lat="48.729737" lon="9.143456"><ele>422</ele></trkpt>
+   <trkpt lat="48.730031" lon="9.144698"><ele>420.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

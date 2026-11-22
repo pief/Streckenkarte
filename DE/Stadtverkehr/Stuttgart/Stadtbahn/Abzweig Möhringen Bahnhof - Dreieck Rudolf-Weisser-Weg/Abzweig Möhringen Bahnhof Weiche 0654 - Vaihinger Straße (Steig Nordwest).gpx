@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 531 filtered ascend = 5 plain-ascend = 5 cost=531 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Möhringen Bahnhof Weiche 0654 - Vaihinger Straße (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.72748/9.13901/standard&amp;lonlats=9.144659,48.730064;9.139003,48.727483&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.730062" lon="9.144658"><ele>421</ele></trkpt>
+   <trkpt lat="48.729978" lon="9.144297"><ele>421</ele></trkpt>
+   <trkpt lat="48.729772" lon="9.143432"><ele>422</ele></trkpt>
+   <trkpt lat="48.729739" lon="9.143299"><ele>422</ele></trkpt>
+   <trkpt lat="48.729266" lon="9.141308"><ele>424.5</ele></trkpt>
+   <trkpt lat="48.729203" lon="9.141087"><ele>425</ele></trkpt>
+   <trkpt lat="48.72908" lon="9.140718"><ele>425</ele></trkpt>
+   <trkpt lat="48.728948" lon="9.140412"><ele>425.75</ele></trkpt>
+   <trkpt lat="48.728869" lon="9.140261"><ele>426</ele></trkpt>
+   <trkpt lat="48.728691" lon="9.139996"><ele>426</ele></trkpt>
+   <trkpt lat="48.728596" lon="9.139884"><ele>426</ele></trkpt>
+   <trkpt lat="48.728497" lon="9.139783"><ele>426</ele></trkpt>
+   <trkpt lat="48.72841" lon="9.139697"><ele>426</ele></trkpt>
+   <trkpt lat="48.728312" lon="9.139619"><ele>426.25</ele></trkpt>
+   <trkpt lat="48.727797" lon="9.139247"><ele>426.5</ele></trkpt>
+   <trkpt lat="48.72748" lon="9.139008"><ele>426</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 431 filtered ascend = 1 plain-ascend = 1 cost=431 energy=0.0kwh time=34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Rudolf-Weisser-Weg Weiche West-Nord - SSB-Zentrum (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.72675/9.13002/standard&amp;lonlats=9.134887,48.726673;9.12904,48.726891&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.726673" lon="9.134887"><ele>423.75</ele></trkpt>
+   <trkpt lat="48.726697" lon="9.134213"><ele>424</ele></trkpt>
+   <trkpt lat="48.726845" lon="9.130167"><ele>424</ele></trkpt>
+   <trkpt lat="48.726861" lon="9.129791"><ele>424.5</ele></trkpt>
+   <trkpt lat="48.726876" lon="9.129352"><ele>424.75</ele></trkpt>
+   <trkpt lat="48.726878" lon="9.129288"><ele>424.75</ele></trkpt>
+   <trkpt lat="48.726888" lon="9.129039"><ele>424.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

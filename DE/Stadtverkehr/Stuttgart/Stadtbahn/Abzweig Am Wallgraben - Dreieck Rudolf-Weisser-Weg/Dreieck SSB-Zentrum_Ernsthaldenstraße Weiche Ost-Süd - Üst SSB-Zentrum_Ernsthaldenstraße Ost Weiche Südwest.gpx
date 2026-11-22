@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2 filtered ascend = 0 plain-ascend = 0 cost=2 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck SSB-Zentrum/Ernsthaldenstraße Weiche Ost-Süd - Üst SSB-Zentrum/Ernsthaldenstraße Ost Weiche Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.72687/9.12828/standard&amp;lonlats=9.128018,48.726891;9.128044,48.726893&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.726891" lon="9.128018"><ele>425</ele></trkpt>
+   <trkpt lat="48.726891" lon="9.128043"><ele>425</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

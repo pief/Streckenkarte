@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 0 plain-ascend = -2 cost=96 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Vaihinger Straße (Steig Nordwest) - Dreieck Rudolf-Weisser-Weg Weiche 0639</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/48.72702/9.13829/standard&amp;lonlats=9.139008,48.72748;9.138154,48.72684&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.727479" lon="9.139007"><ele>426</ele></trkpt>
+   <trkpt lat="48.727436" lon="9.138975"><ele>426</ele></trkpt>
+   <trkpt lat="48.72725" lon="9.138797"><ele>426</ele></trkpt>
+   <trkpt lat="48.727117" lon="9.138635"><ele>425</ele></trkpt>
+   <trkpt lat="48.726996" lon="9.138455"><ele>424.25</ele></trkpt>
+   <trkpt lat="48.726947" lon="9.13837"><ele>424</ele></trkpt>
+   <trkpt lat="48.72684" lon="9.138156"><ele>423.5</ele></trkpt>
+   <trkpt lat="48.726839" lon="9.138153"><ele>423</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

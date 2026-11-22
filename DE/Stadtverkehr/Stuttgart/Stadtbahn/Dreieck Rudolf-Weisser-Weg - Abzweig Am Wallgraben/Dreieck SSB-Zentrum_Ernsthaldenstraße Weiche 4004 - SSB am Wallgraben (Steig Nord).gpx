@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 96 filtered ascend = 0 plain-ascend = 0 cost=96 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck SSB-Zentrum/Ernsthaldenstraße Weiche 4004 - SSB am Wallgraben (Steig Nord)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/48.72702/9.12517/standard&amp;lonlats=9.126093,48.726997;9.124792,48.72704&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="48.726995" lon="9.126092"><ele>426</ele></trkpt>
+   <trkpt lat="48.726997" lon="9.126022"><ele>426</ele></trkpt>
+   <trkpt lat="48.727043" lon="9.124792"><ele>426.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
