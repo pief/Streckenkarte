@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=8 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Diemen Sniep (Ausstieg) - Wendeschleife Diemen Sniep Weiche 222-V</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.33702/4.97010/standard&amp;lonlats=4.969578,52.337;4.969611,52.337021&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.336999" lon="4.969577"/>
+   <trkpt lat="52.337003" lon="4.969583"/>
+   <trkpt lat="52.33702" lon="4.96961"/>
+  </trkseg>
+ </trk>
+</gpx>

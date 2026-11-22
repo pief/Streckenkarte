@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 2 plain-ascend = 2 cost=780 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Wendegleis Voorlandpad Weiche Südost - Arent Krijtsstraat (Steig Südwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.33951/4.95483/standard&amp;lonlats=4.950043,52.341587;4.954645,52.339569&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.341585" lon="4.950041"><ele>-3.75</ele></trkpt>
+   <trkpt lat="52.340928" lon="4.951236"><ele>-4</ele></trkpt>
+   <trkpt lat="52.340647" lon="4.951702"><ele>-3</ele></trkpt>
+   <trkpt lat="52.340489" lon="4.952002"><ele>-2.5</ele></trkpt>
+   <trkpt lat="52.34019" lon="4.952599"><ele>-1.5</ele></trkpt>
+   <trkpt lat="52.340077" lon="4.952849"><ele>-1.75</ele></trkpt>
+   <trkpt lat="52.339977" lon="4.953103"/>
+   <trkpt lat="52.339886" lon="4.953344"/>
+   <trkpt lat="52.339804" lon="4.953596"/>
+   <trkpt lat="52.339746" lon="4.953802"/>
+   <trkpt lat="52.339671" lon="4.954115"/>
+   <trkpt lat="52.339573" lon="4.954641"/>
+   <trkpt lat="52.339571" lon="4.954646"/>
+  </trkseg>
+ </trk>
+</gpx>
