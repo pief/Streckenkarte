@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz De Pijp Weiche 334-V - Kreuz De Pijp Weiche 339-V</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.35262/4.89127/standard&amp;lonlats=4.891215,52.352589;4.891203,52.352626&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.352589" lon="4.891215"/>
+   <trkpt lat="52.35259" lon="4.891215"/>
+   <trkpt lat="52.352626" lon="4.891203"/>
+  </trkseg>
+ </trk>
+</gpx>

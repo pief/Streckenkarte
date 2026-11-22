@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 64 filtered ascend = 0 plain-ascend = 0 cost=130 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Amstelstation (Steig Südwest) - Amstelstation Weiche Steig-Südwest-und-Mitte-nach-Nordost</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.34708/4.91868/standard&amp;lonlats=4.91789,52.347288;4.918608,52.347114&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.347288" lon="4.917892"><ele>1</ele></trkpt>
+   <trkpt lat="52.347202" lon="4.917944"><ele>1.25</ele></trkpt>
+   <trkpt lat="52.347163" lon="4.917971"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.347128" lon="4.91801"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.347086" lon="4.918088"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.34706" lon="4.918182"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.347053" lon="4.918308"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.347063" lon="4.918387"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.347113" lon="4.918607"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

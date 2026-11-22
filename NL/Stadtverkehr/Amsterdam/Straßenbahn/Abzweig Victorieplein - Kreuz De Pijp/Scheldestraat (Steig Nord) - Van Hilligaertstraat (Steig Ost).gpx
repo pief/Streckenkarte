@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 239 filtered ascend = 1 plain-ascend = 0 cost=480 energy=0.0kwh time=19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Scheldestraat (Steig Nord) - Van Hilligaertstraat (Steig Ost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.34944/4.89180/standard&amp;lonlats=4.891523,52.347262;4.891443,52.34931&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.347263" lon="4.891523"><ele>1</ele></trkpt>
+   <trkpt lat="52.347272" lon="4.891437"><ele>1</ele></trkpt>
+   <trkpt lat="52.347285" lon="4.891377"><ele>1</ele></trkpt>
+   <trkpt lat="52.347302" lon="4.891328"><ele>1</ele></trkpt>
+   <trkpt lat="52.347327" lon="4.891281"><ele>0.75</ele></trkpt>
+   <trkpt lat="52.34736" lon="4.891243"><ele>1</ele></trkpt>
+   <trkpt lat="52.347414" lon="4.89121"><ele>1</ele></trkpt>
+   <trkpt lat="52.347495" lon="4.891197"><ele>1</ele></trkpt>
+   <trkpt lat="52.347916" lon="4.891252"><ele>2</ele></trkpt>
+   <trkpt lat="52.347991" lon="4.891265"><ele>2</ele></trkpt>
+   <trkpt lat="52.348161" lon="4.891288"><ele>2.25</ele></trkpt>
+   <trkpt lat="52.348269" lon="4.891303"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.348433" lon="4.891323"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.348563" lon="4.891342"><ele>2</ele></trkpt>
+   <trkpt lat="52.348781" lon="4.891371"><ele>1.25</ele></trkpt>
+   <trkpt lat="52.34931" lon="4.891442"><ele>1.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

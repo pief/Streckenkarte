@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=14 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Victorieplein Weiche Südost-nach-Südwest-Südwest - Kreuz Victorieplein Weiche Nordwest-nach-Südwest-Südwest</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.34621/4.90497/standard&amp;lonlats=4.904901,52.34626;4.904838,52.346252&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.34626" lon="4.904901"/>
+   <trkpt lat="52.346254" lon="4.904861"/>
+   <trkpt lat="52.346251" lon="4.904838"/>
+  </trkseg>
+ </trk>
+</gpx>

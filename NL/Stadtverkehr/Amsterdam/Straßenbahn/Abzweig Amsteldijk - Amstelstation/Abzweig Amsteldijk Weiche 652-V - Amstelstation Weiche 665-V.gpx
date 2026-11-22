@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 407 filtered ascend = 1 plain-ascend = 1 cost=814 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Amsteldijk Weiche 652-V - Amstelstation Weiche 665-V</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.34803/4.91763/standard&amp;lonlats=4.911303,52.347122;4.917138,52.347942&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.347122" lon="4.911301"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.347123" lon="4.911309"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.347127" lon="4.91134"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.347139" lon="4.911422"><ele>2</ele></trkpt>
+   <trkpt lat="52.347171" lon="4.911634"><ele>2</ele></trkpt>
+   <trkpt lat="52.347192" lon="4.911774"><ele>2.25</ele></trkpt>
+   <trkpt lat="52.347198" lon="4.911814"><ele>2.25</ele></trkpt>
+   <trkpt lat="52.347209" lon="4.911891"><ele>2.25</ele></trkpt>
+   <trkpt lat="52.347222" lon="4.911989"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.34724" lon="4.912117"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.347249" lon="4.912178"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.347397" lon="4.913233"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.347428" lon="4.913463"><ele>3</ele></trkpt>
+   <trkpt lat="52.34744" lon="4.913552"><ele>3</ele></trkpt>
+   <trkpt lat="52.347449" lon="4.913608"><ele>3</ele></trkpt>
+   <trkpt lat="52.347459" lon="4.913683"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.347474" lon="4.913789"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.34749" lon="4.913903"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.347724" lon="4.915566"/>
+   <trkpt lat="52.347776" lon="4.915986"/>
+   <trkpt lat="52.347926" lon="4.917048"/>
+   <trkpt lat="52.347938" lon="4.917138"/>
+  </trkseg>
+ </trk>
+</gpx>
