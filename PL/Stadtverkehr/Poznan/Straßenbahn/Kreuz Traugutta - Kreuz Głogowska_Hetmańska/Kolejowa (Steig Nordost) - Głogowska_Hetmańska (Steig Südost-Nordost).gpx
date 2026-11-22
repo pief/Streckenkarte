@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 609 filtered ascend = 6 plain-ascend = 6 cost=1218 energy=0.0kwh time=49s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kolejowa (Steig Nordost) - Głogowska/Hetmańska (Steig Südost-Nordost)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.38990/16.89520/standard&amp;lonlats=16.902619,52.387208;16.894847,52.389898">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.387205" lon="16.902616"><ele>75.75</ele></trkpt>
+   <trkpt lat="52.388659" lon="16.898429"><ele>76</ele></trkpt>
+   <trkpt lat="52.388697" lon="16.898317"><ele>76</ele></trkpt>
+   <trkpt lat="52.388738" lon="16.898195"><ele>76</ele></trkpt>
+   <trkpt lat="52.388783" lon="16.898067"><ele>76</ele></trkpt>
+   <trkpt lat="52.389897" lon="16.894851"><ele>81.5</ele></trkpt>
+   <trkpt lat="52.389898" lon="16.894847"><ele>82</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
