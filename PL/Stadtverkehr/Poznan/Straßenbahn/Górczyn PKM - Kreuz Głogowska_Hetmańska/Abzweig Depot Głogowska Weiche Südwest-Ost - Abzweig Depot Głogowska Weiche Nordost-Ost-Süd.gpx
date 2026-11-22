@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 62 filtered ascend = 0 plain-ascend = 0 cost=124 energy=0.0kwh time=5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Depot Głogowska Weiche Südwest-Ost - Abzweig Depot Głogowska Weiche Nordost-Ost-Süd</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/52.38855/16.89275/standard&amp;lonlats=16.892003,52.388071;16.892434,52.388458;16.892507,52.388525">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.38807" lon="16.892003"><ele>84</ele></trkpt>
+   <trkpt lat="52.388071" lon="16.892005"><ele>84</ele></trkpt>
+   <trkpt lat="52.388226" lon="16.892179"><ele>84</ele></trkpt>
+   <trkpt lat="52.388432" lon="16.892408"><ele>84</ele></trkpt>
+   <trkpt lat="52.388457" lon="16.892435"><ele>84</ele></trkpt>
+   <trkpt lat="52.388523" lon="16.892509"><ele>84</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
