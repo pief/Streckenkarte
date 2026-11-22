@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 337 filtered ascend = 0 plain-ascend = 0 cost=674 energy=0.0kwh time=27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Waalstraat (Steig Nordwest) - Maasstraat (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.34303/4.89692/standard&amp;lonlats=4.901098,52.34465;4.896834,52.343106&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.34465" lon="4.901096"/>
+   <trkpt lat="52.344607" lon="4.900976"/>
+   <trkpt lat="52.344555" lon="4.900834"/>
+   <trkpt lat="52.344525" lon="4.900752"/>
+   <trkpt lat="52.344479" lon="4.900627"/>
+   <trkpt lat="52.343393" lon="4.897631"/>
+   <trkpt lat="52.343118" lon="4.896873"/>
+   <trkpt lat="52.343104" lon="4.896834"/>
+  </trkseg>
+ </trk>
+</gpx>

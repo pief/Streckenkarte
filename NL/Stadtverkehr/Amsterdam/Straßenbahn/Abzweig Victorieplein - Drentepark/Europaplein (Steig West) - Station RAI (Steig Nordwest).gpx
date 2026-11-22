@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 390 filtered ascend = 1 plain-ascend = 0 cost=780 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Europaplein (Steig West) - Station RAI (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.33692/4.89052/standard&amp;lonlats=4.892166,52.340022;4.890493,52.336864&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.34002" lon="4.892172"><ele>1</ele></trkpt>
+   <trkpt lat="52.339003" lon="4.892052"><ele>1</ele></trkpt>
+   <trkpt lat="52.338983" lon="4.89205"><ele>1</ele></trkpt>
+   <trkpt lat="52.338945" lon="4.892044"><ele>1</ele></trkpt>
+   <trkpt lat="52.338926" lon="4.892041"><ele>1</ele></trkpt>
+   <trkpt lat="52.33784" lon="4.891912"><ele>2.75</ele></trkpt>
+   <trkpt lat="52.337726" lon="4.891882"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.337665" lon="4.891839"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.337611" lon="4.891778"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.337571" lon="4.891709"><ele>2.5</ele></trkpt>
+   <trkpt lat="52.337474" lon="4.891485"><ele>2</ele></trkpt>
+   <trkpt lat="52.337391" lon="4.891288"><ele>1.75</ele></trkpt>
+   <trkpt lat="52.337287" lon="4.891084"><ele>1.5</ele></trkpt>
+   <trkpt lat="52.337069" lon="4.890768"><ele>1</ele></trkpt>
+   <trkpt lat="52.336905" lon="4.890547"/>
+   <trkpt lat="52.336884" lon="4.890518"/>
+   <trkpt lat="52.336864" lon="4.89049"/>
+  </trkseg>
+ </trk>
+</gpx>

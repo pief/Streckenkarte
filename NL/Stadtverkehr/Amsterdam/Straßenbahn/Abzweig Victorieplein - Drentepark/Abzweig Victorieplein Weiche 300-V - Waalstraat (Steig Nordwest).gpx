@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 282 filtered ascend = 0 plain-ascend = 0 cost=564 energy=0.0kwh time=23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Abzweig Victorieplein Weiche 300-V - Waalstraat (Steig Nordwest)</name>
+  <link href="https://brouter.damsy.net/latest/#map=16/52.3436/4.9028/standard&amp;lonlats=4.904269,52.34617;4.901098,52.34465&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.34617" lon="4.904267"><ele>1</ele></trkpt>
+   <trkpt lat="52.346153" lon="4.904145"><ele>1</ele></trkpt>
+   <trkpt lat="52.346117" lon="4.904011"><ele>1</ele></trkpt>
+   <trkpt lat="52.346059" lon="4.90388"><ele>1</ele></trkpt>
+   <trkpt lat="52.34601" lon="4.903808"><ele>1</ele></trkpt>
+   <trkpt lat="52.34596" lon="4.903757"><ele>1</ele></trkpt>
+   <trkpt lat="52.345509" lon="4.903309"><ele>1</ele></trkpt>
+   <trkpt lat="52.345416" lon="4.903165"><ele>1</ele></trkpt>
+   <trkpt lat="52.345357" lon="4.903041"/>
+   <trkpt lat="52.344654" lon="4.901105"/>
+   <trkpt lat="52.34465" lon="4.901096"/>
+  </trkseg>
+ </trk>
+</gpx>
