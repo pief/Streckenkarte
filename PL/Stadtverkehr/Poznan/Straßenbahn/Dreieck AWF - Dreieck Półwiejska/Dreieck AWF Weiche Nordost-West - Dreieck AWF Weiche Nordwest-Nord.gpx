@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 48 filtered ascend = 0 plain-ascend = 1 cost=96 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck AWF Weiche Nordost-West - Dreieck AWF Weiche Nordwest-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/52.39912/16.93491/standard&amp;lonlats=16.93538,52.399419;16.935141,52.399191;16.934894,52.399186">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.399417" lon="16.935381"><ele>58</ele></trkpt>
+   <trkpt lat="52.399389" lon="16.93537"><ele>58</ele></trkpt>
+   <trkpt lat="52.399303" lon="16.93532"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.399244" lon="16.935247"><ele>58.5</ele></trkpt>
+   <trkpt lat="52.399199" lon="16.935143"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.399184" lon="16.935072"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.399179" lon="16.935014"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.399186" lon="16.934895"><ele>58.75</ele></trkpt>
+   <trkpt lat="52.399186" lon="16.934894"><ele>59</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
