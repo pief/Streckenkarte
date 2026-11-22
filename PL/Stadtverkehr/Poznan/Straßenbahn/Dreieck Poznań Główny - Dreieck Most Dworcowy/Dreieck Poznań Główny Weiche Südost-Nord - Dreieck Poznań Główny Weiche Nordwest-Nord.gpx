@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 94 filtered ascend = 2 plain-ascend = 2 cost=188 energy=0.0kwh time=8s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Dreieck Poznań Główny Weiche Südost-Nord - Dreieck Poznań Główny Weiche Nordwest-Nord</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/52.40276/16.91622/standard&amp;lonlats=16.917267,52.402546;16.915976,52.402817">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.402546" lon="16.917267"><ele>76</ele></trkpt>
+   <trkpt lat="52.402622" lon="16.916893"><ele>76</ele></trkpt>
+   <trkpt lat="52.402635" lon="16.916833"><ele>76</ele></trkpt>
+   <trkpt lat="52.40268" lon="16.916625"><ele>76</ele></trkpt>
+   <trkpt lat="52.402692" lon="16.916573"><ele>76</ele></trkpt>
+   <trkpt lat="52.402738" lon="16.916355"><ele>76</ele></trkpt>
+   <trkpt lat="52.402757" lon="16.916267"><ele>76.25</ele></trkpt>
+   <trkpt lat="52.402817" lon="16.915981"><ele>77</ele></trkpt>
+   <trkpt lat="52.402817" lon="16.915976"><ele>78.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
