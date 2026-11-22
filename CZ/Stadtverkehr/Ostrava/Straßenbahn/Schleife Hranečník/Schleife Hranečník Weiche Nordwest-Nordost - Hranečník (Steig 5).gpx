@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 159 filtered ascend = 2 plain-ascend = 3 cost=318 energy=0.0kwh time=13s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Schleife Hranečník Weiche Nordwest-Nordost - Hranečník (Steig 5)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.82425/18.31961/standard&amp;lonlats=18.317446,49.824888;18.319477,49.824377">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.824886" lon="18.317445"><ele>213.25</ele></trkpt>
+   <trkpt lat="49.824876" lon="18.317672"><ele>213.25</ele></trkpt>
+   <trkpt lat="49.824851" lon="18.317874"><ele>213.5</ele></trkpt>
+   <trkpt lat="49.824802" lon="18.318111"><ele>214</ele></trkpt>
+   <trkpt lat="49.824739" lon="18.318325"><ele>214</ele></trkpt>
+   <trkpt lat="49.824719" lon="18.318392"><ele>214</ele></trkpt>
+   <trkpt lat="49.824635" lon="18.318652"><ele>215</ele></trkpt>
+   <trkpt lat="49.824378" lon="18.319474"><ele>216</ele></trkpt>
+   <trkpt lat="49.824377" lon="18.319477"><ele>216</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
