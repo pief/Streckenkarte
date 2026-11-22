@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5 filtered ascend = 0 plain-ascend = 0 cost=10 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Kreuz Ceintuurbaan/Van Woustraat Weiche 307 - Kreuz Ceintuurbaan/Van Woustraat Weiche 305</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.35466/4.90134/standard&amp;lonlats=4.901339,52.354661;4.901363,52.354627&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.35466" lon="4.901339"/>
+   <trkpt lat="52.354627" lon="4.901362"/>
+   <trkpt lat="52.354626" lon="4.901362"/>
+  </trkseg>
+ </trk>
+</gpx>

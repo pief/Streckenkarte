@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6 filtered ascend = 0 plain-ascend = 0 cost=12 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Ceintuurbaan (Steig Südost) - Kreuz Ceintuurbaan/Van Woustraat Weiche 306-V</name>
+  <link href="https://brouter.damsy.net/latest/#map=21/52.35467/4.90151/standard&amp;lonlats=4.901442,52.354577;4.901412,52.354618&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.354577" lon="4.901442"/>
+   <trkpt lat="52.354578" lon="4.901442"/>
+   <trkpt lat="52.354618" lon="4.901413"/>
+  </trkseg>
+ </trk>
+</gpx>
