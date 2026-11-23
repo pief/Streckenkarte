@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 445 filtered ascend = 1 plain-ascend = 2 cost=890 energy=0.0kwh time=36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Vratimovská (Steig West) - Nová huť učiliště (Steig West)</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.80089/18.30400/standard&amp;lonlats=18.304155,49.804965;18.304015,49.800968">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.804964" lon="18.304153"><ele>228</ele></trkpt>
+   <trkpt lat="49.804901" lon="18.304145"><ele>228</ele></trkpt>
+   <trkpt lat="49.804621" lon="18.304104"><ele>228</ele></trkpt>
+   <trkpt lat="49.804141" lon="18.304039"><ele>228</ele></trkpt>
+   <trkpt lat="49.803881" lon="18.304023"><ele>228</ele></trkpt>
+   <trkpt lat="49.802984" lon="18.304018"><ele>228</ele></trkpt>
+   <trkpt lat="49.801626" lon="18.304018"><ele>228</ele></trkpt>
+   <trkpt lat="49.800968" lon="18.304018"><ele>229.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

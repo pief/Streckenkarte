@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 409 filtered ascend = 2 plain-ascend = 2 cost=818 energy=0.0kwh time=33s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>Osada Míru (Steig West) - Kunčičky kostel (Steig West)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.80903/18.30490/standard&amp;lonlats=18.305527,49.812304;18.30473,49.808667">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.812302" lon="18.305538"><ele>224</ele></trkpt>
+   <trkpt lat="49.811823" lon="18.305441"><ele>224</ele></trkpt>
+   <trkpt lat="49.810297" lon="18.305131"><ele>224.75</ele></trkpt>
+   <trkpt lat="49.809924" lon="18.305044"><ele>225</ele></trkpt>
+   <trkpt lat="49.809333" lon="18.30489"><ele>225.25</ele></trkpt>
+   <trkpt lat="49.808666" lon="18.304729"><ele>226</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
