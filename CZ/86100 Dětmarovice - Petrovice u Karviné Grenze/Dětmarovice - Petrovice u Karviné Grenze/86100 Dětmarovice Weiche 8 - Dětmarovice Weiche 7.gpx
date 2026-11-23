@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 40 filtered ascend = 0 plain-ascend = 0 cost=40 energy=0.0kwh time=3s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>86100 Dětmarovice Weiche 8 - Dětmarovice Weiche 7</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.89675/18.47281/standard&amp;lonlats=18.472692,49.896859;18.473104,49.896627&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.896858" lon="18.472691"><ele>213.5</ele></trkpt>
+   <trkpt lat="49.896628" lon="18.473103"><ele>213.75</ele></trkpt>
+   <trkpt lat="49.896627" lon="18.473104"><ele>213.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

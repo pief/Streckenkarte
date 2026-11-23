@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 248 filtered ascend = 1 plain-ascend = 2 cost=248 energy=0.0kwh time=20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>86100 Petrovice u Karviné Weiche 50 - Petrovice u Karviné Weiche 51</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.89629/18.54201/standard&amp;lonlats=18.544702,49.895743;18.541446,49.896411&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.895743" lon="18.544702"><ele>228</ele></trkpt>
+   <trkpt lat="49.895758" lon="18.544654"><ele>227.75</ele></trkpt>
+   <trkpt lat="49.895807" lon="18.544493"><ele>226.25</ele></trkpt>
+   <trkpt lat="49.895837" lon="18.544394"><ele>226.5</ele></trkpt>
+   <trkpt lat="49.896" lon="18.543838"><ele>228.75</ele></trkpt>
+   <trkpt lat="49.896133" lon="18.543311"><ele>229.5</ele></trkpt>
+   <trkpt lat="49.896235" lon="18.542794"><ele>228.5</ele></trkpt>
+   <trkpt lat="49.896322" lon="18.542213"><ele>229</ele></trkpt>
+   <trkpt lat="49.896401" lon="18.541522"><ele>229.75</ele></trkpt>
+   <trkpt lat="49.896401" lon="18.541517"><ele>229.75</ele></trkpt>
+   <trkpt lat="49.896408" lon="18.541445"><ele>229.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
