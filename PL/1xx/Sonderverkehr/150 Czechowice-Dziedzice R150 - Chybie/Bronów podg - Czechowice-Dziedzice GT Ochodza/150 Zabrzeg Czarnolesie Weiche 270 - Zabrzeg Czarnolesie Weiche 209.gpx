@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 72 filtered ascend = 0 plain-ascend = 0 cost=72 energy=0.0kwh time=6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>150 Zabrzeg Czarnolesie Weiche 270 - Zabrzeg Czarnolesie Weiche 209</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/49.90363/18.89649/standard&amp;lonlats=18.895299,49.903502;18.896285,49.903576">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.903502" lon="18.895297"><ele>260.5</ele></trkpt>
+   <trkpt lat="49.903503" lon="18.895302"><ele>260.5</ele></trkpt>
+   <trkpt lat="49.903518" lon="18.895429"><ele>260.5</ele></trkpt>
+   <trkpt lat="49.903549" lon="18.895746"><ele>260</ele></trkpt>
+   <trkpt lat="49.903569" lon="18.896156"><ele>260</ele></trkpt>
+   <trkpt lat="49.903573" lon="18.896284"><ele>260</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
