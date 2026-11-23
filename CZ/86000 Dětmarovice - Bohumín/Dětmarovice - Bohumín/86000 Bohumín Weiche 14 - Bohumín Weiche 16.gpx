@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 52 filtered ascend = 0 plain-ascend = 0 cost=52 energy=0.0kwh time=4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>86000 Bohumín Weiche 14 - Bohumín Weiche 16</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.90392/18.36517/standard&amp;lonlats=18.366136,49.904322;18.365544,49.904051&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.904322" lon="18.366136"><ele>200.25</ele></trkpt>
+   <trkpt lat="49.904134" lon="18.365755"><ele>200.75</ele></trkpt>
+   <trkpt lat="49.904045" lon="18.365548"><ele>200.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
