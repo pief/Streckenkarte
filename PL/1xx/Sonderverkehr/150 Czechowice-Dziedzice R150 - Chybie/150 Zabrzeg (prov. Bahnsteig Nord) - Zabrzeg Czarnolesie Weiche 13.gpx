@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 386 filtered ascend = 3 plain-ascend = 4 cost=386 energy=0.0kwh time=31s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>150 Zabrzeg (prov. Bahnsteig Nord) - Zabrzeg Czarnolesie Weiche 13</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.90783/18.93226/standard&amp;lonlats=18.937892,49.907885;18.932541,49.907928&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.907885" lon="18.93789"><ele>255</ele></trkpt>
+   <trkpt lat="49.907885" lon="18.937338"><ele>255</ele></trkpt>
+   <trkpt lat="49.907886" lon="18.937181"><ele>255</ele></trkpt>
+   <trkpt lat="49.907886" lon="18.937145"><ele>255</ele></trkpt>
+   <trkpt lat="49.907894" lon="18.936628"><ele>256</ele></trkpt>
+   <trkpt lat="49.907922" lon="18.93598"><ele>256</ele></trkpt>
+   <trkpt lat="49.907991" lon="18.934907"><ele>257</ele></trkpt>
+   <trkpt lat="49.908011" lon="18.934571"><ele>257</ele></trkpt>
+   <trkpt lat="49.908022" lon="18.934242"><ele>257.5</ele></trkpt>
+   <trkpt lat="49.90802" lon="18.93378"><ele>258</ele></trkpt>
+   <trkpt lat="49.907997" lon="18.933253"><ele>258</ele></trkpt>
+   <trkpt lat="49.90795" lon="18.932743"><ele>258.5</ele></trkpt>
+   <trkpt lat="49.907929" lon="18.932555"><ele>258.5</ele></trkpt>
+   <trkpt lat="49.907927" lon="18.93254"><ele>258.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 208 filtered ascend = 0 plain-ascend = 0 cost=208 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Czechowice-Dziedzice (Gleis 2) - Czechowice-Dziedzice Weiche 62</name>
+  <link href="https://brouter.damsy.net/latest/#map=18/49.91470/19.00696/standard&amp;lonlats=19.007379,49.915324;19.004535,49.915017&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.915325" lon="19.007377"><ele>257</ele></trkpt>
+   <trkpt lat="49.915324" lon="19.007367"><ele>257</ele></trkpt>
+   <trkpt lat="49.915237" lon="19.006598"><ele>257</ele></trkpt>
+   <trkpt lat="49.915113" lon="19.005488"><ele>257.25</ele></trkpt>
+   <trkpt lat="49.915016" lon="19.004536"><ele>257</ele></trkpt>
+   <trkpt lat="49.915015" lon="19.004534"><ele>257</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 209 filtered ascend = 2 plain-ascend = 0 cost=209 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Pruchna Weiche 15 - Pruchna Abzweig Altstrecke</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.87783/18.67813/standard&amp;lonlats=18.682345,49.878089;18.679481,49.877769">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.878089" lon="18.682343"><ele>264.25</ele></trkpt>
+   <trkpt lat="49.877974" lon="18.681349"><ele>265</ele></trkpt>
+   <trkpt lat="49.877944" lon="18.681086"><ele>266.75</ele></trkpt>
+   <trkpt lat="49.877784" lon="18.679716"><ele>263</ele></trkpt>
+   <trkpt lat="49.877757" lon="18.679483"><ele>264</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
