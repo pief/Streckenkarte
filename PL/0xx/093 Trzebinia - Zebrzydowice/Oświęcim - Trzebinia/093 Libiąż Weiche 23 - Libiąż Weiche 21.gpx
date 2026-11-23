@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 1 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Libiąż Weiche 23 - Libiąż Weiche 21</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.11448/19.31921/standard&amp;lonlats=19.319311,50.114634;19.319357,50.114625&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.114634" lon="19.319311"><ele>267.25</ele></trkpt>
+   <trkpt lat="50.114634" lon="19.319313"><ele>267.5</ele></trkpt>
+   <trkpt lat="50.114624" lon="19.319356"><ele>267.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

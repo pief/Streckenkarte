@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 523 filtered ascend = 5 plain-ascend = 5 cost=523 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Chełmek Weiche 23 - Chełmek (Gleis 2)</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.09951/19.25464/standard&amp;lonlats=19.25221,50.095431;19.254633,50.099861&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.095431" lon="19.252209"><ele>238.75</ele></trkpt>
+   <trkpt lat="50.09607" lon="19.252505"><ele>239.5</ele></trkpt>
+   <trkpt lat="50.098013" lon="19.253411"><ele>240</ele></trkpt>
+   <trkpt lat="50.098142" lon="19.253474"><ele>239.75</ele></trkpt>
+   <trkpt lat="50.09822" lon="19.253516"><ele>240</ele></trkpt>
+   <trkpt lat="50.098312" lon="19.253565"><ele>241.25</ele></trkpt>
+   <trkpt lat="50.098435" lon="19.253632"><ele>242</ele></trkpt>
+   <trkpt lat="50.098748" lon="19.253826"><ele>242.25</ele></trkpt>
+   <trkpt lat="50.099137" lon="19.254094"><ele>242.75</ele></trkpt>
+   <trkpt lat="50.099158" lon="19.254109"><ele>242.75</ele></trkpt>
+   <trkpt lat="50.099357" lon="19.25425"><ele>243.25</ele></trkpt>
+   <trkpt lat="50.099508" lon="19.254359"><ele>243.5</ele></trkpt>
+   <trkpt lat="50.099571" lon="19.254406"><ele>243.5</ele></trkpt>
+   <trkpt lat="50.09979" lon="19.254576"><ele>244.25</ele></trkpt>
+   <trkpt lat="50.099859" lon="19.254635"><ele>244</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

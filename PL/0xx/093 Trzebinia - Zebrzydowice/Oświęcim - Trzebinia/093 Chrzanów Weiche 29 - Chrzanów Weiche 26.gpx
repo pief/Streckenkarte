@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 210 filtered ascend = 1 plain-ascend = 0 cost=210 energy=0.0kwh time=17s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Chrzanów Weiche 29 - Chrzanów Weiche 26</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.12998/19.39258/standard&amp;lonlats=19.389945,50.129133;19.391835,50.129615;19.392596,50.129889&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.129133" lon="19.389943"><ele>272</ele></trkpt>
+   <trkpt lat="50.129134" lon="19.389945"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.129273" lon="19.390603"><ele>273</ele></trkpt>
+   <trkpt lat="50.129343" lon="19.390898"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.129426" lon="19.391212"><ele>272.75</ele></trkpt>
+   <trkpt lat="50.129556" lon="19.391652"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.129615" lon="19.391833"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.129677" lon="19.392024"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.129886" lon="19.392594"><ele>272.25</ele></trkpt>
+   <trkpt lat="50.129887" lon="19.392596"><ele>272.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

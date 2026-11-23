@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 206 filtered ascend = 0 plain-ascend = 1 cost=206 energy=0.0kwh time=16s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Trzebinia Weiche 81 - Trzebinia Weiche 93</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/50.15522/19.44868/standard&amp;lonlats=19.446493,50.156107;19.448968,50.15518&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.156103" lon="19.44649"><ele>290.25</ele></trkpt>
+   <trkpt lat="50.15608" lon="19.446562"><ele>290.25</ele></trkpt>
+   <trkpt lat="50.156077" lon="19.446573"><ele>290.25</ele></trkpt>
+   <trkpt lat="50.156054" lon="19.446641"><ele>290.25</ele></trkpt>
+   <trkpt lat="50.155736" lon="19.447603"><ele>289.75</ele></trkpt>
+   <trkpt lat="50.155604" lon="19.447962"><ele>289.25</ele></trkpt>
+   <trkpt lat="50.155434" lon="19.448372"><ele>289.25</ele></trkpt>
+   <trkpt lat="50.155182" lon="19.448963"><ele>290.75</ele></trkpt>
+   <trkpt lat="50.155179" lon="19.448967"><ele>290.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
