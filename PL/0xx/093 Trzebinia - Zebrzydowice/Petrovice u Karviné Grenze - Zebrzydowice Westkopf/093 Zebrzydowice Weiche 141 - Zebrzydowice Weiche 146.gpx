@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 7 filtered ascend = 0 plain-ascend = 0 cost=7 energy=0.0kwh time=1s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Zebrzydowice Weiche 141 - Zebrzydowice Weiche 146</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.87382/18.61031/standard&amp;lonlats=18.610456,49.873754;18.610368,49.873761&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.873754" lon="18.610456"><ele>245</ele></trkpt>
+   <trkpt lat="49.873757" lon="18.610369"><ele>245</ele></trkpt>
+   <trkpt lat="49.873757" lon="18.610367"><ele>244</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
