@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 152 filtered ascend = 2 plain-ascend = 4 cost=152 energy=0.0kwh time=12s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Jawiszowice Weiche 15 - Jawiszowice Weiche 12</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.96592/19.12686/standard&amp;lonlats=19.126538,49.964972;19.126796,49.965907;19.1269,49.966307&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.964971" lon="19.126537"><ele>247.5</ele></trkpt>
+   <trkpt lat="49.964975" lon="19.126538"><ele>247.5</ele></trkpt>
+   <trkpt lat="49.965492" lon="19.126678"><ele>249</ele></trkpt>
+   <trkpt lat="49.965677" lon="19.126729"><ele>249</ele></trkpt>
+   <trkpt lat="49.965906" lon="19.126792"><ele>250</ele></trkpt>
+   <trkpt lat="49.966308" lon="19.126902"><ele>250</ele></trkpt>
+   <trkpt lat="49.966305" lon="19.126901"><ele>250</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

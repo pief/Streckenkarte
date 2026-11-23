@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 22 filtered ascend = 0 plain-ascend = 0 cost=22 energy=0.0kwh time=2s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Jawiszowice Weiche 5 - Jawiszowice Weiche 4</name>
+  <link href="https://brouter.damsy.net/latest/#map=19/49.97505/19.12897/standard&amp;lonlats=19.129197,49.974722;19.129246,49.974907&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="49.974721" lon="19.129197"><ele>248</ele></trkpt>
+   <trkpt lat="49.974725" lon="19.129198"><ele>248</ele></trkpt>
+   <trkpt lat="49.974818" lon="19.129224"><ele>248</ele></trkpt>
+   <trkpt lat="49.974905" lon="19.129247"><ele>248</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

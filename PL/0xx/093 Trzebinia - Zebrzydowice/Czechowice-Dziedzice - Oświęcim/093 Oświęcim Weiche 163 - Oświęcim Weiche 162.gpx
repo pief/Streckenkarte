@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 4 filtered ascend = 0 plain-ascend = 0 cost=4 energy=0.0kwh time= -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>093 Oświęcim Weiche 163 - Oświęcim Weiche 162</name>
+  <link href="https://brouter.damsy.net/latest/#map=20/50.02548/19.18603/standard&amp;lonlats=19.186083,50.025296;19.186095,50.025326&amp;profile=rail">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="50.025295" lon="19.186082"><ele>237.75</ele></trkpt>
+   <trkpt lat="50.025298" lon="19.186084"><ele>238</ele></trkpt>
+   <trkpt lat="50.025325" lon="19.186097"><ele>238</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
